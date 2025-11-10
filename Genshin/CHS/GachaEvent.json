@@ -4870,5 +4870,62 @@
       12402,
       15401
     ]
+  },
+  {
+    "Name": "炉边烬影",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/f1799709dd6e2c1d5807382d0bb46246_8044642901403314243_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/f1799709dd6e2c1d5807382d0bb46246_8044642901403314243_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000096
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "陵薮市朝",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/146ff4ba52605431d0086cb5d18c1440_4528556376432618835_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/146ff4ba52605431d0086cb5d18c1440_4528556376432618835_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000030
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "神铸赋形",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/54cde6bd8912354aa5b358d42a69dd79_6997260099594855541_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/54cde6bd8912354aa5b358d42a69dd79_6997260099594855541_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      13512,
+      13504
+    ],
+    "UpPurpleList": [
+      11427,
+      12427,
+      15427,
+      13401,
+      14403
+    ]
   }
 ]

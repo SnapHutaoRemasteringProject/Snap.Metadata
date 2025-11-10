@@ -4870,5 +4870,62 @@
       12402,
       15401
     ]
+  },
+  {
+    "Name": "Пепельная тень очага",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/35a2776ba0a02f80ec3405a99ece7e91_3281848932909900087_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/35a2776ba0a02f80ec3405a99ece7e91_3281848932909900087_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000096
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Горы и рынки",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/20081e92139c2f5f423ef2d8e789ecfd_6817218599928234296_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/20081e92139c2f5f423ef2d8e789ecfd_6817218599928234296_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000030
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/cac29d55845cbff20a0dfb122c83c3e1_1021176361299064812_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/cac29d55845cbff20a0dfb122c83c3e1_1021176361299064812_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      13512,
+      13504
+    ],
+    "UpPurpleList": [
+      11427,
+      12427,
+      15427,
+      13401,
+      14403
+    ]
   }
 ]

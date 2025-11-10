@@ -4870,5 +4870,62 @@
       12402,
       15401
     ]
+  },
+  {
+    "Name": "Ombra cinerea del Focolare",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/a007302bba15404931fa9c8a448ece40_8742303794396285479_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/a007302bba15404931fa9c8a448ece40_8742303794396285479_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000096
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Aristocrazia eremita",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/d7e60ddcaa77359db2513fb372359f99_8661409795607189651_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/d7e60ddcaa77359db2513fb372359f99_8661409795607189651_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000030
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Incarnazione divina",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/0e062f0838f276528a8daf195481153c_8175189358149078839_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/0e062f0838f276528a8daf195481153c_8175189358149078839_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      13512,
+      13504
+    ],
+    "UpPurpleList": [
+      11427,
+      12427,
+      15427,
+      13401,
+      14403
+    ]
   }
 ]

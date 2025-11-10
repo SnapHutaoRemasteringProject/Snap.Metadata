@@ -4870,5 +4870,62 @@
       12402,
       15401
     ]
+  },
+  {
+    "Name": "Schattenasche am Kamin",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/ea81012b0025efc482ad563e4c063ca1_7836764059416036783_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/ea81012b0025efc482ad563e4c063ca1_7836764059416036783_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000096
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Abgeschiedener Adel",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/04/e6b07838a9d77f0f12fd99233039f66e_3043876468142494760_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/04/e6b07838a9d77f0f12fd99233039f66e_3043876468142494760_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000030
+    ],
+    "UpPurpleList": [
+      10000108,
+      10000045,
+      10000064
+    ]
+  },
+  {
+    "Name": "Göttliches Werk",
+    "Version": "6.1",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/10/27/010f002b80b1ebda61ecbc19f1294fe7_3727968747813803845_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/10/27/010f002b80b1ebda61ecbc19f1294fe7_3727968747813803845_transformed.jpg",
+    "From": "2025-11-11T18:00:00+08:00",
+    "To": "2025-12-02T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      13512,
+      13504
+    ],
+    "UpPurpleList": [
+      11427,
+      12427,
+      15427,
+      13401,
+      14403
+    ]
   }
 ]
