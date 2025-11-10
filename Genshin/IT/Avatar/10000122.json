@@ -919,7 +919,11 @@
         "Id": 1223,
         "Name": "L'inganno cela la verità",
         "Description": "Aumenta di 3 il livello di <color=#FFD780FF>{LINK#S11222}Strategia del senet: Danza delle mille notti{/LINK}</color>.\nIl livello di potenziamento massimo è 15.",
-        "Icon": "UI_Talent_U_Nefer_01"
+        "Icon": "UI_Talent_U_Nefer_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
       },
       {
         "Id": 1224,
@@ -931,7 +935,11 @@
         "Id": 1225,
         "Name": "L'opportunità si cela tra i margini",
         "Description": "Aumenta di 3 il livello di <color=#FFD780FF>{LINK#S11225}Voto sacro: Fantasma del Vero Occhio{/LINK}</color>.\nIl livello di potenziamento massimo è 15.",
-        "Icon": "UI_Talent_U_Nefer_02"
+        "Icon": "UI_Talent_U_Nefer_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
       },
       {
         "Id": 1226,

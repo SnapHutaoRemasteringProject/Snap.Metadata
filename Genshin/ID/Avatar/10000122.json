@@ -919,7 +919,11 @@
         "Id": 1223,
         "Name": "Deceit Cloaks the Truth",
         "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11222}Senet Strategy: Dance of a Thousand Nights{/LINK}</color>.\nMaksimum: Lv. 15.",
-        "Icon": "UI_Talent_U_Nefer_01"
+        "Icon": "UI_Talent_U_Nefer_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
       },
       {
         "Id": 1224,
@@ -931,7 +935,11 @@
         "Id": 1225,
         "Name": "Opportunity Hides in the Margins",
         "Description": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11225}Sacred Vow: True Eye's Phantasm{/LINK}</color>.\nMaksimum: Lv. 15.",
-        "Icon": "UI_Talent_U_Nefer_02"
+        "Icon": "UI_Talent_U_Nefer_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
       },
       {
         "Id": 1226,

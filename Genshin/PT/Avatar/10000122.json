@@ -919,7 +919,11 @@
         "Id": 1223,
         "Name": "Vestígios das Mentiras",
         "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}</color> em 3 níveis. \nO nível máximo de elevação é 15.",
-        "Icon": "UI_Talent_U_Nefer_01"
+        "Icon": "UI_Talent_U_Nefer_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
       },
       {
         "Id": 1224,
@@ -931,7 +935,11 @@
         "Id": 1225,
         "Name": "Oportunidade Única",
         "Description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11225}Voto Sagrado: Fantasma do Olho Verdadeiro{/LINK}</color> em 3.\nO nível máximo de elevação é 15.",
-        "Icon": "UI_Talent_U_Nefer_02"
+        "Icon": "UI_Talent_U_Nefer_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
       },
       {
         "Id": 1226,

@@ -919,7 +919,11 @@
         "Id": 1223,
         "Name": "Dấu Vết Dối Trá Che Sự Thật",
         "Description": "Cấp kỹ năng <color=#FFD780FF>{LINK#S11222}Chiến Thuật Senet - Vũ Điệu Ngàn Đêm{/LINK}</color> +3.\nTăng tối đa đến cấp 15.",
-        "Icon": "UI_Talent_U_Nefer_01"
+        "Icon": "UI_Talent_U_Nefer_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
       },
       {
         "Id": 1224,
@@ -931,7 +935,11 @@
         "Id": 1225,
         "Name": "Cơ Hội Chỉ Đến Trong Khoảnh Khắc",
         "Description": "Cấp kỹ năng <color=#FFD780FF>{LINK#S11225}Thánh Ước - Ảo Kịch Chân Nhãn{/LINK}</color> +3.\nTăng tối đa đến cấp 15.",
-        "Icon": "UI_Talent_U_Nefer_02"
+        "Icon": "UI_Talent_U_Nefer_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
       },
       {
         "Id": 1226,
