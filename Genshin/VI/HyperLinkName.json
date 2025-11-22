@@ -1,0 +1,387 @@
+[
+  {
+    "Id": 210101,
+    "Name": "<color=#0075de>Xung Kích Sóng</color>",
+    "Description": "Khi nhân vật kích hoạt <color=#f39001>phản ứng Bốc Hơi</color> lên kẻ địch sẽ giải phóng, gây <color=#0075de>Sát Thương Nguyên Tố Thủy</color>"
+  },
+  {
+    "Id": 210102,
+    "Name": "<color=#ef5534>Lửa Bùng Nổ</color>",
+    "Description": "Khi nhân vật kích hoạt <color=#f39001>phản ứng Bốc Hơi</color> lên kẻ địch sẽ giải phóng, gây <color=#ef5534>Sát Thương Nguyên Tố Hỏa</color>"
+  },
+  {
+    "Id": 210201,
+    "Name": "<color=#7bb100>Hạt Quanh Quẩn</color>",
+    "Description": "Mỗi khi sản sinh một Hạt Nhân Thảo, đều sẽ sản sinh một Hạt Quanh Quẩn ở quanh nhân vật trong trận hiện tại (Tối đa cùng lúc tồn tại <color=#f39001>4</color> hạt): Khi chạm phải kẻ địch sẽ bị tiêu hao, gây <color=#7bb100>Sát Thương Nguyên Tố Thảo</color> cho kẻ địch này"
+  },
+  {
+    "Id": 210301,
+    "Name": "<color=#ef5534>Hoang Hỏa Xung Kích</color>",
+    "Description": "Khi thông qua <color=#f39001>phản ứng Thiêu Đốt</color> gây sát thương cho kẻ địch, sẽ tiến hành tính điểm cho kẻ địch đó. Khi đạt đến <color=#f39001>6</color> sẽ xóa sạch bộ đếm, thi triển và gây <color=#ef5534>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>"
+  },
+  {
+    "Id": 210302,
+    "Name": "<color=#7bb100>Lõi Vang Trợ Cháy</color>",
+    "Description": "Kích hoạt sau khi Sát Thương Nguyên Tố Thảo của nhân vật đánh trúng kẻ địch trong <color=#f39001>trạng thái Thiêu Đốt</color>, gây <color=#7bb100>Sát Thương Nguyên Tố Thảo</color>"
+  },
+  {
+    "Id": 210401,
+    "Name": "<color=#f39001>Phù Hộ Hỏa Tinh</color>",
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Hỏa và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+  },
+  {
+    "Id": 210402,
+    "Name": "<color=#ef5534>Xung Kích Bùng Lửa</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, mỗi <color=#f39001>6</color>s sẽ giải phóng tại vị trí nhân vật, gây <color=#ef5534>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>"
+  },
+  {
+    "Id": 210403,
+    "Name": "<color=#e09800>Nham Tinh Đột Phá</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, mỗi <color=#f39001>4</color>s sẽ giải phóng tại vị trí nhân vật, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 210501,
+    "Name": "<color=#f39001>Phù Hộ Lôi Tinh</color>",
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Lôi và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+  },
+  {
+    "Id": 210502,
+    "Name": "<color=#e09800>Đá Tảng Gầm Thét</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Lôi Tinh</color>, sau khi nhân vật đánh trúng kẻ địch, sẽ giáng xuống vị trí kẻ địch, gây <color=#e09800>Sát Thương Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 210503,
+    "Name": "<color=#e09800>Đá Tảng Gầm Thét</color>",
+    "Description": "Mỗi khi nhân vật nhận <color=#f39001>{0}</color> mảnh tinh thể sinh ra từ <color=#f39001>phản ứng Kết Tinh Nguyên Tố Lôi</color>, sẽ giáng xuống 1 kẻ địch ở gần, gây <color=#e09800>Sát Thương Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 210601,
+    "Name": "<color=#f39001>Dễ Vỡ</color>",
+    "Description": "Kháng Nguyên Tố Hỏa và Lôi của kẻ địch giảm <color=#f39001>5.5%</color>, tối đa cộng dồn 4 tầng"
+  },
+  {
+    "Id": 210602,
+    "Name": "<color=#ef5534>Cầu Lửa Bùng Cháy</color>",
+    "Description": "Sau khi gây Sát Thương Nguyên Tố Lôi cho kẻ địch đang chịu hiệu quả Dễ Vỡ, sẽ thi triển lên <color=#f39001>toàn bộ</color> kẻ địch trong trận đang chịu hiệu quả Dễ Vỡ, gây <color=#ef5534>Sát Thương Nguyên Tố Hỏa</color>"
+  },
+  {
+    "Id": 210603,
+    "Name": "<color=#b863ee>Tia Chớp Sấm Rền</color>",
+    "Description": "Sau khi gây Sát Thương Nguyên Tố Hỏa cho kẻ địch đang chịu hiệu quả Dễ Vỡ, sẽ thi triển lên <color=#f39001>toàn bộ</color> kẻ địch trong trận đang chịu hiệu quả Dễ Vỡ, gây <color=#b863ee>Sát Thương Nguyên Tố Lôi</color>"
+  },
+  {
+    "Id": 210701,
+    "Name": "<color=#7bb100>Lõi Sét Rậm Rạp</color>",
+    "Description": "Khi nhân vật kích hoạt phản ứng Sinh Trưởng, Tăng Cường hoặc Lan Tràn lên kẻ địch sẽ phóng ra, trúng kẻ địch sẽ phát nổ và gây <color=#7bb100>Sát Thương Phạm Vi Nguyên Tố Thảo</color>"
+  },
+  {
+    "Id": 210702,
+    "Name": "<color=#b863ee>Sấm Sét Ồ Ạt</color>",
+    "Description": "Sau khi nhân vật gây Sát Thương Nguyên Tố Lôi hoặc Nguyên Tố Thảo cho kẻ địch đang trong trạng thái Sinh Trưởng sẽ giáng xuống, gây <color=#b863ee>Sát Thương Nguyên Tố Lôi</color>"
+  },
+  {
+    "Id": 210901,
+    "Name": "<color=#f39001>Lời Chúc Của Gió: Thủy</color>",
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, Giới Hạn HP của nhân vật tăng <color=#f39001>8%</color>"
+  },
+  {
+    "Id": 210902,
+    "Name": "<color=#0075de>Cầu Nước Trị Liệu</color>",
+    "Description": "Ghi nhận lượng HP hồi phục khi nhân vật chữa trị, kết thúc thời gian duy trì sẽ phát nổ, gây <color=#0075de>Sát Thương Phạm Vi Nguyên Tố Thủy</color> cho kẻ địch xung quanh dựa trên lượng chữa trị đã ghi nhận và số tầng <color=#f39001>Lời Chúc Của Gió: Thủy</color>"
+  },
+  {
+    "Id": 210903,
+    "Name": "<color=#0075de>Xoáy Thác</color>",
+    "Description": "Hút kẻ địch ở gần, gây <color=#0075de>Sát Thương Phạm Vi Nguyên Tố Thủy</color> dựa trên số tầng <color=#f39001>Lời Chúc Của Gió: Thủy</color>"
+  },
+  {
+    "Id": 211001,
+    "Name": "<color=#f39001>Lời Chúc Của Gió: Lôi</color>",
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, đồng thời mỗi lần nhận <color=#f39001>Lời Chúc Của Gió: Lôi</color> sẽ hồi phục <color=#f39001>1.5</color> điểm Năng Lượng Nguyên Tố cho tất cả nhân vật trong đội"
+  },
+  {
+    "Id": 211002,
+    "Name": "<color=#b863ee>Đao Sét Cắt Nhanh</color>",
+    "Description": "Khi nhân vật thi triển Kỹ Năng Nộ, sẽ sản sinh <color=#f39001>Ấn Cắt Nhanh</color>. Khi nhân vật trong trận hiện tại tấn công trúng kẻ địch sẽ tiêu hao Ấn Cắt Nhanh và giải phóng <color=#b863ee>Đao Sét Cắt Nhanh</color>, gây <color=#b863ee>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trên đường đi dựa trên số tầng <color=#f39001>Lời Chúc Của Gió: Lôi</color>"
+  },
+  {
+    "Id": 211003,
+    "Name": "<color=#b863ee>Tia Chớp Sét Nhảy</color>",
+    "Description": "Trong thời gian duy trì <color=#f39001>Lời Chúc Của Gió: Lôi</color>, Tấn Công Khi Đáp đánh trúng kẻ địch sẽ giải phóng, gây <color=#b863ee>Sát Thương Phạm Vi Nguyên Tố Lôi</color> dựa trên số tầng Lời Chúc Của Gió: Lôi"
+  },
+  {
+    "Id": 211101,
+    "Name": "<color=#f39001>Xung Điện</color>",
+    "Description": "Tất cả nhân vật trong đội tăng <color=#f39001>250%</color> sát thương kích hoạt <color=#f39001>phản ứng Điện Cảm</color>, tăng <color=#f39001>70%</color> sát thương khi kích hoạt <color=#f39001>phản ứng Nguyệt-Điện Cảm</color>"
+  },
+  {
+    "Id": 211102,
+    "Name": "<color=#b863ee>Lõi Sét Nổi</color>",
+    "Description": "Trong thời gian duy trì hiệu quả Xung Điện, sẽ sinh ra và bám theo nhân vật trong trận hiện tại. Sau khi nhân vật đánh trúng kẻ địch, sẽ phóng 3 viên Lôi Đạn vào kẻ địch, gây <color=#b863ee>Sát Thương Nguyên Tố Lôi</color>"
+  },
+  {
+    "Id": 211103,
+    "Name": "<color=#f39001>Mây Sét</color>",
+    "Description": "Sẽ sinh ra trong thời gian duy trì hiệu quả Xung Điện, mỗi <color=#f39001>2</color>s ngẫu nhiên tiến hành một lần tấn công theo cách sau:\n1. <color=#b863ee>Mây Sét Giáng Sấm</color>: Gây <color=#b863ee>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trong phạm vi ảnh hưởng và hồi phục <color=#f39001>2</color> điểm Năng Lượng Nguyên Tố.\n2. <color=#0075de>Mây Sét Đổ Mưa</color>: Gây <color=#0075de>Sát Thương Nguyên Tố Thủy</color> cho kẻ địch trong phạm vi ảnh hưởng và hồi phục <color=#f39001>5%</color> HP cho nhân vật trong trận hiện tại"
+  },
+  {
+    "Id": 211201,
+    "Name": "<color=#f39001>Phù Hộ Hỏa Tinh</color>",
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Hỏa và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+  },
+  {
+    "Id": 211202,
+    "Name": "<color=#e09800>Nham Tinh Đột Phá</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, mỗi <color=#f39001>{0}</color>s sẽ giải phóng tại vị trí nhân vật, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211203,
+    "Name": "<color=#e09800>Đá Tảng Gầm Thét</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, khi Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp của nhân vật đánh trúng kẻ địch, sẽ giáng xuống vị trí kẻ địch, gây <color=#e09800>Sát Thương Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211301,
+    "Name": "<color=#f39001>Phù Hộ Băng Tinh</color>",
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Băng và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+  },
+  {
+    "Id": 211302,
+    "Name": "<color=#e09800>Nham Tinh Tập Kích</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Băng Tinh</color>, sẽ giải phóng tại vị trí nhân vật theo chu kỳ, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211303,
+    "Name": "<color=#e09800>Băng Đá Vụn Vỡ</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Băng Tinh</color>, khi nhân vật Nguyên Tố Băng hoặc Nguyên Tố Nham trong đội gây Bạo Kích, sẽ giáng xuống vị trí kẻ địch, gây <color=#e09800>Sát Thương Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211401,
+    "Name": "<color=#2bb7d5>Băng Sương Sụp Đổ</color>",
+    "Description": "Sau khi nhân vật <color=#ef5534>Nguyên Tố Hỏa</color> trong trận hiện tại kích hoạt phản ứng Tan Chảy sẽ giải phóng, gây <color=#2bb7d5>Sát Thương Nguyên Tố Băng</color>"
+  },
+  {
+    "Id": 211402,
+    "Name": "<color=#ef5534>Cột Lửa Rực Cháy</color>",
+    "Description": "Sau khi nhân vật <color=#2bb7d5>Nguyên Tố Băng</color> trong trận hiện tại kích hoạt phản ứng Tan Chảy sẽ giải phóng, gây <color=#ef5534>Sát Thương Nguyên Tố Hỏa</color>"
+  },
+  {
+    "Id": 211403,
+    "Name": "<color=#f39001>Biến Nhiệt Cực Lớn</color>",
+    "Description": "Nhân vật tăng <color=#f39001>30%</color> sát thương kích hoạt phản ứng Tan Chảy"
+  },
+  {
+    "Id": 211501,
+    "Name": "<color=#f39001>Lời Chúc Của Gió: Hỏa</color>",
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, Tấn Công của nhân vật tăng <color=#f39001>9%</color>."
+  },
+  {
+    "Id": 211502,
+    "Name": "<color=#ef5534>Gió Nóng</color>",
+    "Description": "Khi đòn đánh của nhân vật trong trận gây sát thương lên kẻ địch, sẽ tiêu hao HP của nhân vật này để giải phóng, gây <color=#ef5534>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> dựa trên số tầng Lời Chúc Của Gió: Hỏa"
+  },
+  {
+    "Id": 211503,
+    "Name": "<color=#f39001>Bão Lửa</color>",
+    "Description": "Khi nhân vật <color=#f39001>Nguyên Tố Hỏa hoặc Nguyên Tố Phong</color> trong đội ra trận, sẽ giải phóng dựa trên <color=#f39001>Loại Nguyên Tố</color> của nhân vật này, gây sát thương phạm vi nguyên tố tương ứng dựa trên số tầng Lời Chúc Của Gió: Hỏa"
+  },
+  {
+    "Id": 211601,
+    "Name": "<color=#f39001>Hàn Ý</color>",
+    "Description": "Tất cả nhân vật Nguyên Tố Băng và Thủy trong đội tăng <color=#f39001>40%</color> Sát Thương Bạo Kích"
+  },
+  {
+    "Id": 211602,
+    "Name": "<color=#0075de>Sóng Sương Ẩm</color>",
+    "Description": "Sau khi nhân vật <color=#2bb7d5>Nguyên Tố Băng</color> trong trận hiện tại kích hoạt phản ứng Đóng Băng lên kẻ địch sẽ giải phóng, gây <color=#0075de>Sát Thương Phạm Vi Nguyên Tố Thủy</color>"
+  },
+  {
+    "Id": 211603,
+    "Name": "<color=#2bb7d5>Sóng Băng Giá</color>",
+    "Description": "Sau khi nhân vật <color=#0075de>Nguyên Tố Thủy</color> trong trận hiện tại kích hoạt phản ứng Đóng Băng lên kẻ địch sẽ giải phóng, gây <color=#2bb7d5>Sát Thương Phạm Vi Nguyên Tố Băng</color>"
+  },
+  {
+    "Id": 211604,
+    "Name": "<color=#f39001>Băng Nứt</color>",
+    "Description": "Kháng Nguyên Tố Thủy và Băng của kẻ địch giảm <color=#f39001>8%</color>, tối đa cộng dồn <color=#f39001>3</color> tầng"
+  },
+  {
+    "Id": 211701,
+    "Name": "<color=#f39001>Chịu Đựng</color>",
+    "Description": "Kháng Nguyên Tố Băng và Lôi của kẻ địch giảm <color=#f39001>3%</color>, Kháng Vật Lý giảm <color=#f39001>6%</color>, tối đa cộng dồn <color=#f39001>6</color> tầng"
+  },
+  {
+    "Id": 211702,
+    "Name": "<color=#f39001>Sóng Rung Chấn</color>",
+    "Description": "Sau khi nhân vật gây <color=#f39001>Sát Thương Vật Lý</color> cho kẻ địch mang hiệu quả <color=#f39001>Chịu Đựng</color>, sẽ giải phóng và gây Sát Thương Vật Lý, mỗi <color=#f39001>3</color>s tối đa kích hoạt một lần"
+  },
+  {
+    "Id": 211801,
+    "Name": "<color=#f39001>Phù Hộ Thủy Tinh</color>",
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Thủy và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+  },
+  {
+    "Id": 211802,
+    "Name": "<color=#e09800>Nham Tinh Oanh Tạc</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Thủy Tinh</color>, sẽ giải phóng tại vị trí nhân vật theo chu kỳ, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211803,
+    "Name": "<color=#e09800>Đá Suối</color>",
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Thủy Tinh</color>, khi nhân vật Nguyên Tố Thủy hoặc Nham trong đội nhận chữa trị, sẽ giáng xuống vị trí kẻ địch, gây <color=#e09800>Sát Thương Nguyên Tố Nham</color>"
+  },
+  {
+    "Id": 211804,
+    "Name": "<color=#f39001>Gai Băng</color>",
+    "Description": "Mỗi <color=#f39001>2</color>s sẽ gây cho kẻ địch xung quanh một lần <color=#f39001>Sát Thương Phạm Vi Nguyên Tố Băng và Thảo</color>. Trên sân tối đa tồn tại cùng lúc 2 Gai Băng"
+  },
+  {
+    "Id": 211805,
+    "Name": "<color=#b863ee>Gai Sấm Sét</color>",
+    "Description": "Sau khi tấn công Nguyên Tố Lôi của nhân vật đánh trúng kẻ địch trong phạm vi <color=#f39001>Gai Băng</color>, <color=#f39001>Gai Băng</color> sẽ chuyển hóa thành một Gai Sấm Sét tồn tại trong <color=#f39001>10</color>s, tần suất tấn công tăng đến <color=#f39001>1</color> lần mỗi giây, đồng thời gây gấp <color=#f39001>1.5</color> lần Sát Thương Phạm Vi Nguyên Tố Lôi"
+  },
+  {
+    "Id": 211806,
+    "Name": "<color=#f39001>Gai Điện Từ</color>",
+    "Description": "Không tiến hành tấn công, nhưng khiến kẻ địch ở gần <color=#f39001>tăng Sát Thương Nguyên Tố Băng, Thảo, Lôi và Sát Thương Vật Lý</color> phải chịu từ nhân vật. Trong trận mỗi tồn tại một Gai Điện Từ, sẽ nhận <color=#f39001>45%</color> hiệu quả nêu trên, tối đa tăng <color=#f39001>90%</color>"
+  },
+  {
+    "Id": 211901,
+    "Name": "<color=#f39001>Lời Chúc Của Gió: Băng</color>",
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, Sát Thương Bạo Kích của nhân vật tăng <color=#f39001>12%</color>"
+  },
+  {
+    "Id": 211902,
+    "Name": "<color=#2bb7d5>Ngấm Lạnh</color>",
+    "Description": "Trong thời gian duy trì <color=#f39001>Lời Chúc Của Gió: Băng</color>, khi nhân vật tấn công trúng kẻ địch sẽ áp dụng, gây <color=#2bb7d5>Sát Thương Nguyên Tố Băng</color> theo chu kỳ dựa trên số tầng của <color=#f39001>Lời Chúc Của Gió: Băng</color>"
+  },
+  {
+    "Id": 211903,
+    "Name": "<color=#19c78e>Gió Băng</color>",
+    "Description": "Trong thời gian duy trì <color=#f39001>Lời Chúc Của Gió: Băng</color>, khi nhân vật Xung Kích sẽ giải phóng, hút kẻ địch ở gần đồng thời gây <color=#19c78e>Sát Thương Nguyên Tố Phong</color> dựa trên số tầng <color=#f39001>Lời Chúc Của Gió: Băng</color>"
+  },
+  {
+    "Id": 11120001,
+    "Name": "Chế Độ Cấp Đông",
+    "Description": "<color=#FFD780FF>Nhấn</color>\nKhởi động Máy Nấu Nướng Đa Chức Năng ở chế độ \"Cấp Đông\", gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color> cho kẻ địch xung quanh.\n\n<color=#FFD780FF>Máy Nấu Nướng: Chế Độ Cấp Đông</color>\nBám theo nhân vật trong trận hiện tại, phóng Parfait Sương Giá vào kẻ địch ở gần theo chu kỳ, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>."
+  },
+  {
+    "Id": 11120002,
+    "Name": "Chế Độ Nấu Nướng Ngẫu Hứng",
+    "Description": "<color=#FFD780FF>Máy Nấu Nướng Đa Chức Năng: Chế Độ Nấu Nướng Ngẫu Hứng</color>\n·Đặt Máy Nấu Nướng trên sân. Máy Nấu Nướng có thể hấp thụ đòn tấn công nguyên tố. Khi Năng Lượng Nguyên Tố hấp thụ đến mức giới hạn sẽ chuyển hóa nguyên liệu mà Escoffier đặt trong đó thành món ăn ngon.\n·Escoffier cần thời gian để mua nguyên liệu mới. Mỗi tuần chỉ có thể thông qua cách thức này để chế biến một lượng món ăn nhất định, số lần sẽ làm mới lúc 4:00 sáng mỗi thứ hai."
+  },
+  {
+    "Id": 11130001,
+    "Name": "Bắn Chi Viện",
+    "Description": "Trong trạng thái Dạ Hồn Chúc Phúc, Tấn Công Thường của Ifa sẽ chuyển thành Bắn Chi Viện.\n<color=#FFD780FF>Nhấn</color>\nBắn Đạn Bí Dược.\n<color=#FFD780FF>Nhấn Giữ</color>\nLiên tục bắn Đạn Bí Dược.\n<color=#FFD780FF>Đạn Bí Dược</color>\nGây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> mang thuộc tính Dạ Hồn, đồng thời khi đánh trúng kẻ địch sẽ hồi phục HP cho tất cả nhân vật trong đội ở gần, lượng hồi phục dựa trên Tinh Thông Nguyên Tố của Ifa."
+  },
+  {
+    "Id": 11130002,
+    "Name": "Cứu Hộ Thiết Yếu",
+    "Description": "Giới hạn 150 điểm. Dựa trên điểm Cứu Hộ Thiết Yếu mà Ifa sở hữu, mỗi 1 điểm sẽ tăng 1.5% sát thương phản ứng Khuếch Tán và Điện Cảm cho nhân vật trong đội ở gần, sát thương phản ứng Nguyệt-Điện Cảm tăng 0.2%. Cứu Hộ Thiết Yếu sẽ bị xóa khi Ifa kết thúc trạng thái Dạ Hồn Chúc Phúc."
+  },
+  {
+    "Id": 11130003,
+    "Name": "Dạ Hồn Chúc Phúc - Ifa",
+    "Description": "Liên tục tiêu hao điểm Dạ Hồn. Khi hết điểm Dạ Hồn hoặc thi triển lần nữa, Ifa sẽ kết thúc trạng thái Dạ Hồn Chúc Phúc. Trạng thái Dạ Hồn Chúc Phúc có đặc tính sau:\n·Bay lên nhờ sự giúp đỡ của Cacucu, tăng Tốc Độ Di Chuyển và khả năng Kháng Gián Đoạn của Ifa. Trong trạng thái này, Ifa sẽ liên tục tiêu hao điểm Dạ Hồn để duy trì trạng thái lơ lửng, tiến hành Xung Kích hoặc bay lên cao sẽ tiêu hao thêm điểm Dạ Hồn.\n·Khi tiến hành Tấn Công Thường, sẽ căn cứ vào Nhấn hoặc Nhấn Giữ để thực hiện Bắn Chi Viện theo cách thức khác nhau."
+  },
+  {
+    "Id": 11130004,
+    "Name": "Ký Hiệu An Thần",
+    "Description": "Hiệu quả này sẽ phát nổ sau đó và biến mất, gây sát thương phạm vi với nguyên tố tương ứng. Đạn An Thần sẽ áp dụng Ký Hiệu An Thần lên tối đa 4 kẻ địch bị đánh trúng. Kẻ địch sẽ không thể chịu trạng thái Ký Hiệu An Thần của nhiều loại nguyên tố cùng lúc."
+  },
+  {
+    "Id": 11130005,
+    "Name": "Rắn Xảo Quyệt",
+    "Description": "Skirk có thể tiêu hao Rắn Xảo Quyệt để duy trì chế độ Thất Tướng Nhất Thiểm, hoặc thi triển Kỹ Năng Nộ Cực Ác Kỹ - Diệt.\n\nSkirk có thể nhận Rắn Xảo Quyệt thông qua những cách sau:\n·Sau khi thi triển Kỹ Năng Nguyên Tố Cực Ác Kỹ - Tránh.\n·Sau khi kích hoạt hiệu quả hấp thụ Vết Nứt Hư Không của thiên phú đột phá Lý Luận Vượt Nguyên Lý.\n\nKhi Skirk rời trận trong trạng thái Thất Tướng Nhất Thiểm, hoặc kết thúc chế độ Thất Tướng Nhất Thiểm, sẽ xóa bỏ Rắn Xảo Quyệt hiện có của Skirk."
+  },
+  {
+    "Id": 11130006,
+    "Name": "Thất Tướng Nhất Thiểm",
+    "Description": "Khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Cực Ác Kỹ - Tránh</color>, Skirk sẽ chuyển sang chế độ này trong một khoảng thời gian và mang đặc tính sau:\n·Liên tục tiêu hao Rắn Xảo Quyệt.\n·Tăng phạm vi tấn công của đòn Tấn Công Thường và Trọng Kích, tăng Kháng Gián Đoạn của Skirk.\n·Khi thực hiện Tấn Công Thường, Trọng Kích và Tấn Công Khi Đáp sẽ chuyển thành gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> không thể bị thay thế.\n·Kỹ Năng Nộ <color=#FFD780FF>Cực Ác Kỹ - Diệt</color> sẽ được thay thế bằng Kỹ Năng Nộ đặc biệt <color=#FFD780FF>Cực Ác Kỹ - Tận</color>.\n·Khi Skirk xung kích, sẽ có thể di chuyển trên mặt nước.\n·Khi tiêu hao hết Rắn Xảo Quyệt hoặc kết thúc thời gian duy trì, Skirk sẽ thoát khỏi chế độ này và Kỹ Năng Nguyên Tố sẽ vào thời gian chờ."
+  },
+  {
+    "Id": 11130007,
+    "Name": "Lý Luận Vượt Nguyên Lý",
+    "Description": "Khi nhân vật trong đội gần đó kích hoạt phản ứng Đóng Băng, Siêu Dẫn, Khuếch Tán Nguyên Tố Băng hoặc Kết Tinh Nguyên Tố Băng lên kẻ địch, sẽ tạo ra một Vết Nứt Hư Không gần kẻ địch. Hiệu quả này mỗi 2.5s tối đa kích hoạt một lần, trong trận chỉ tồn tại tối đa 3 Vết Nứt Hư Không do bản thân Skirk tạo ra.\n\nSkirk có thể thông qua những cách sau để hấp thụ Vết Nứt Hư Không trong phạm vi nhất định gần đó:\n·Khi đòn Trọng Kích trong chế độ Thất Tướng Nhất Thiểm đánh trúng kẻ địch.\n·Khi thi triển Kỹ Năng Nộ đặc biệt <color=#FFD780FF>Cực Ác Kỹ - Tận</color> trong chế độ Thất Tướng Nhất Thiểm.\n·Khi Nhấn Giữ thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Cực Ác Kỹ - Tránh</color> để tiến hành di chuyển nhanh.\n\nMỗi hút được một Vết Nứt Hư Không, Skirk sẽ nhận 8 điểm Rắn Xảo Quyệt."
+  },
+  {
+    "Id": 11130008,
+    "Name": "Về Với Quên Lãng",
+    "Description": "Khi nhân vật <color=#80C0FFFF>Nguyên Tố Thủy</color> trong đội ở gần tấn công <color=#80C0FFFF>Nguyên Tố Thủy</color> trúng kẻ địch, hoặc nhân vật <color=#99FFFFFF>Nguyên Tố Băng</color> khác Skirk trong đội ở gần tấn công <color=#99FFFFFF>Nguyên Tố Băng</color> trúng kẻ địch, Skirk sẽ nhận được một tầng hiệu quả Vượt Qua Chết Chóc trong 20s, tối đa cộng dồn 3 tầng, mỗi tầng tính giờ riêng.\nMỗi nhân vật tối đa khiến Skirk nhận được 1 tầng Vượt Qua Chết Chóc thông qua cách thức này.\nMỗi tầng Vượt Qua Chết Chóc sẽ khiến Skirk khi thi triển Tấn Công Thường trong chế độ Thất Tướng Nhất Thiểm sẽ gây lượng sát thương bằng 110%/120%/170% sát thương gốc, đồng thời thi triển Kỹ Năng Nộ <color=#FFD780FF>Cực Ác Kỹ - Diệt</color> sẽ gây lượng sát thương bằng 105%/115%/160% sát thương gốc."
+  },
+  {
+    "Id": 11130009,
+    "Name": "Bí Ẩn Mưa Sương",
+    "Description": "Sau khi kẻ địch hoặc nhân vật trong đội ở gần tiếp xúc với Bí Ẩn Mưa Sương, sẽ tạo ra hiệu quả khác nhau tùy thuộc vào đối tượng tiếp xúc:\nNếu kẻ địch tiếp xúc, Bí Ẩn Mưa Sương sẽ phát nổ và gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> cho kẻ địch xung quanh.\nNếu nhân vật trong đội ở gần tiếp xúc, Bí Ẩn Mưa Sương sẽ đẩy người tiếp xúc lên cao.\n\nCùng lúc chỉ tồn tại một Bí Ẩn Mưa Sương do chính Dahlia tạo ra."
+  },
+  {
+    "Id": 11130010,
+    "Name": "Tây Phong Thân Quyến",
+    "Description": "Khi Dahlia thi triển Kỹ Năng Nộ <color=#FFD780FF>Thánh Ca Thuần Khiết</color>, sẽ cung cấp hiệu quả này cho nhân vật của bản thân trong đội.\nTrong thời gian duy trì, khi Khiên Thánh kết thúc hiệu quả hoặc bị sát thương phá hủy, Dahlia có thể tiêu hao một tầng Chúc Tụng để triệu hồi lại Khiên Thánh."
+  },
+  {
+    "Id": 11130011,
+    "Name": "Chúc Tụng",
+    "Description": "Dahlia có thể nhận hiệu quả Chúc Tụng bằng những cách thức sau:\n·Khi nhân vật ra trận trong đội bản thân đang chịu ảnh hưởng bởi hiệu quả Tây Phong Thân Quyến, mỗi khi Tấn Công Thường trúng kẻ địch 4 lần, Dahlia sẽ nhận X tầng Chúc Tụng.\n·Sau khi kích hoạt hiệu quả của Thiên Phú Đột Phá \"Sự Dịu Dàng Của Gió\".\n\nTrong mỗi lần hiệu quả Tây Phong Thân Quyến, Dahlia tối đa nhận X tầng Chúc Tụng."
+  },
+  {
+    "Id": 11160001,
+    "Name": "Birgitta",
+    "Description": "Trợ thủ đáng tin cậy của Ineffa, có thể dùng Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ để triệu hồi.\nNếu xung quanh có kẻ địch thì mỗi 2s Birgitta sẽ di chuyển nhanh đến gần một kẻ địch và Phóng Điện, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\nCùng lúc chỉ có thể tồn tại một Birgitta do Ineffa tạo ra.\n\nNgoài ra, ở Nod-Krai, dường như có thể thay đổi ngoại hình của Birgitta bằng cách nào đó..."
+  },
+  {
+    "Id": 11190001,
+    "Name": "Thánh Vực Rừng Sương",
+    "Description": "Pháp trận dùng để bảo vệ Vịnh Nguyệt Sứ, được triệu hồi bằng cách thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Runo - Karsikko Yên Giấc</color>.\nThánh Vực Rừng Sương sẽ đi theo nhân vật trong trận hiện tại, mỗi 2s sẽ gây cho kẻ địch trong đó một lần <color=#99FF88FF>Sát Thương Phạm Vi Nguyên Tố Thảo</color>, sát thương này được xem là sát thương Kỹ Năng Nguyên Tố."
+  },
+  {
+    "Id": 11190002,
+    "Name": "Nguyệt Vịnh",
+    "Description": "Dùng để dệt ra khúc nhạc cầu nguyện, có thể chuyển hóa thành Thánh Ca Sắc Xanh khi thi triển Kỹ Năng Nộ hoặc trong một khoảng thời gian sau khi thi triển Kỹ Năng Nộ để tăng sát thương phản ứng Sum Suê, Nở Rộ, Bung Tỏa, Nguyệt-Sum Suê.\nKhi Lauma tiêu hao Sương Xanh để Nhấn Giữ thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Runo - Karsikko Yên Giấc</color>, sẽ căn cứ vào số lượng tiêu hao, mỗi giọt Sương Xanh sẽ cung cấp 1 tầng Nguyệt Vịnh cho Lauma."
+  },
+  {
+    "Id": 11190003,
+    "Name": "Thánh Ca Sắc Xanh",
+    "Description": "Lời cầu nguyện được lưu truyền qua nhiều thế hệ Vịnh Nguyệt Sứ, có thể tăng sát thương gây ra bởi phản ứng Sum Suê, Nở Rộ, Bung Tỏa, Nguyệt-Sum Suê.\n\nLauma có thể nhận Thánh Ca Sắc Xanh bằng những cách sau:\n·Khi thi triển Kỹ Năng Nộ <color=#FFD780FF>Runo - Vạn Tâm Vì Ánh Trăng</color>.\n·Khi kích hoạt hiệu quả tiêu hao Nguyệt Vịnh trong Kỹ Năng Nộ <color=#FFD780FF>Runo - Vạn Tâm Vì Ánh Trăng</color>.\n·Kích hoạt hiệu quả Thánh Vực Rừng Sương trong Cung Mệnh <color=#FFD780FF>\"Nguyện Dâng Máu Lệ Tặng Ánh Trăng\"</color>.\n\nNhân vật trong đội gần đó khi gây sát thương phản ứng Sum Suê, Nở Rộ, Bung Tỏa, Nguyệt-Sum Suê sẽ tiêu hao một tầng Thánh Ca Sắc Xanh để tăng sát thương gây ra, mức tăng căn cứ vào Tinh Thông Nguyên Tố của Lauma. Khi sát thương kể trên đồng thời đánh trúng nhiều kẻ địch, sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số tầng Thánh Ca Sắc Xanh.\nMỗi tầng Thánh Ca Sắc Xanh sẽ tính thời gian duy trì riêng."
+  },
+  {
+    "Id": 11190004,
+    "Name": "Tiếng Hát Đêm Khuya",
+    "Description": "Sát thương phản ứng Sum Suê, Nở Rộ, Bung Tỏa do nhân vật trong đội kích hoạt có thể gây Bạo Kích, Tỷ Lệ Bạo Kích cố định là {PARAM#P1192101|1S100}%, Sát Thương Bạo Kích cố định là {PARAM#P1192101|2S100}%. Tỷ Lệ Bạo Kích do hiệu quả này cung cấp có thể cộng dồn với Tỷ Lệ Bạo Kích từ hiệu quả tương đồng gây Bạo Kích phản ứng nguyên tố tương ứng."
+  },
+  {
+    "Id": 11190005,
+    "Name": "Thánh Ca Ánh Trăng",
+    "Description": "Sát thương phản ứng Nguyệt-Sum Suê mà nhân vật trong đội gây ra sẽ tăng {PARAM#P1192101|3S100}% Tỷ Lệ Bạo Kích, tăng {PARAM#P1192101|4S100}% Sát Thương Bạo Kích."
+  },
+  {
+    "Id": 11190007,
+    "Name": "Thăng Tiến",
+    "Description": "Hiệu quả tăng sát thương đặc biệt, tính độc lập với hiệu quả tăng sát thương khác."
+  },
+  {
+    "Id": 11190008,
+    "Name": "Sương Xanh",
+    "Description": "Loại tài nguyên cung cấp cho đội sau khi nhân vật trong đội kích hoạt phản ứng Nguyệt-Sum Suê.\nTrong 2.5s sau khi kích hoạt phản ứng Nguyệt-Sum Suê, mỗi 2.5s sẽ cung cấp một giọt Sương Xanh cho đội, giới hạn của Sương Xanh là 3 giọt. Trong thời gian duy trì, khi kích hoạt phản ứng Nguyệt-Sum Suê lần nữa sẽ làm mới thời gian duy trì hiệu quả trên."
+  },
+  {
+    "Id": 11200001,
+    "Name": "Giao Hưởng Sấm Sét",
+    "Description": "Kỹ Năng Nộ đặc biệt có thể thi triển với ít Năng Lượng Nguyên Tố hơn. Flins gây một lần <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color> được tính là sát thương phản ứng Nguyệt-Điện Cảm.\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>: Nếu gần đó có Mây Sấm Sét, sẽ gây thêm một lần <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color> được tính là sát thương phản ứng Nguyệt-Điện Cảm."
+  },
+  {
+    "Id": 11220001,
+    "Name": "Ảnh Vũ",
+    "Description": "Sau khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Chiến Thuật Senet - Vũ Điệu Ngàn Đêm</color>, Nefer sẽ vào trạng thái này.\nTrong trạng thái Ảnh Vũ, nếu sở hữu ít nhất 1 Sương Xanh, Nefer thi triển Trọng Kích sẽ thay thế bằng Trọng Kích đặc biệt \"Ảo Kịch\".\nTrạng thái Ảnh Vũ sẽ bị xóa sau khi Nefer thi triển {PARAM#P1223201|3S1} lần Ảo Kịch hoặc kết thúc thời gian duy trì."
+  },
+  {
+    "Id": 11220002,
+    "Name": "Ảo Kịch",
+    "Description": "Khi trong trạng thái Ảnh Vũ từ Kỹ Năng Nguyên Tố <color=#FFD780FF>Chiến Thuật Senet - Vũ Điệu Ngàn Đêm</color>, nếu sở hữu ít nhất 1 Sương Xanh, Nefer thi triển Trọng Kích sẽ thay thế bằng Trọng Kích đặc biệt \"Ảo Kịch\" không tiêu hao Thể Lực.\nNefer triệu hồi Hư Ảnh của bản thân và phát động tấn công hợp sức lên kẻ địch, bản thân và Hư Ảnh sẽ lần lượt gây ra 2 và 3 đòn <color=#99FF88FF>Sát Thương Phạm Vi Nguyên Tố Thảo</color>. Sát thương Hư Ảnh gây ra được xem là sát thương phản ứng Nguyệt-Sum Suê, sau mỗi lần thi triển Ảo Kịch, lần đầu triệu hồi Hư Ảnh sẽ tiêu hao 1 Sương Xanh."
+  },
+  {
+    "Id": 11220003,
+    "Name": "Bức Màn Lừa Dối",
+    "Description": "Hiệu quả nhận được sau khi Nefer hấp thụ Hạt Dối Trá thông qua thiên phú đột phá \"Đánh Cược Dưới Trăng\", giúp tăng sát thương Ảo Kịch gây ra.\nMỗi tầng Bức Màn Lừa Dối sẽ tăng sát thương khi Nefer thi triển Ảo Kịch thêm {PARAM#P1222101|6S100}%. Ban đầu tối đa cộng dồn {PARAM#P1222101|1S1} tầng, duy trì {PARAM#P1222101|2S1}s, mỗi tầng tính giờ riêng."
+  }
+]

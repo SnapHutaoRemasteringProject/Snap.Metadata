@@ -1,0 +1,1049 @@
+[
+  {
+    "SetId": 10001,
+    "EquipAffixId": 210001,
+    "EquipAffixIds": [
+      2100010,
+      2100011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cœur du Voyageur",
+    "Icon": "UI_RelicIcon_10001_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Augmente le taux CRIT des attaques chargées de 30 %."
+    ]
+  },
+  {
+    "SetId": 10002,
+    "EquipAffixId": 210002,
+    "EquipAffixIds": [
+      2100020,
+      2100021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cœur du Brave",
+    "Icon": "UI_RelicIcon_10002_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Augmente les DGT infligés aux ennemis dont les PV sont supérieurs à 50 % de 30 %."
+    ]
+  },
+  {
+    "SetId": 10003,
+    "EquipAffixId": 210003,
+    "EquipAffixIds": [
+      2100030,
+      2100031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cœur du Gardien",
+    "Icon": "UI_RelicIcon_10003_4",
+    "Descriptions": [
+      "Augmente la DÉF de 30 %.",
+      "Pour chaque personnage de l'équipe ayant un élément de type différent du personnage équipé, la RÉS élémentaire correspondante est augmentée de 30 %."
+    ]
+  },
+  {
+    "SetId": 10004,
+    "EquipAffixId": 210004,
+    "EquipAffixIds": [
+      2100040,
+      2100041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Miracle",
+    "Icon": "UI_RelicIcon_10004_4",
+    "Descriptions": [
+      "Augmente toutes les RÉS élémentaires de 20 %.",
+      "Les DGT élémentaires subis augmentent la RÉS à l'élément correspondant de 30 % pendant 10 s. Cet effet peut être déclenché une fois toutes les 10 s."
+    ]
+  },
+  {
+    "SetId": 10005,
+    "EquipAffixId": 210005,
+    "EquipAffixIds": [
+      2100050,
+      2100051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Berserker",
+    "Icon": "UI_RelicIcon_10005_4",
+    "Descriptions": [
+      "Augmente le taux CRIT de 12 %.",
+      "Augmente le taux CRIT de 24 % lorsque les PV sont inférieurs à 70 %."
+    ]
+  },
+  {
+    "SetId": 10006,
+    "EquipAffixId": 210006,
+    "EquipAffixIds": [
+      2100060,
+      2100061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Artiste martial",
+    "Icon": "UI_RelicIcon_10006_4",
+    "Descriptions": [
+      "Augmente les DGT infligés par les attaques normales et chargées de 15 %.",
+      "Augmente les DGT infligés par les attaques normales et chargées de 25 % pendant 8 s après l'utilisation d'une compétence élémentaire."
+    ]
+  },
+  {
+    "SetId": 10007,
+    "EquipAffixId": 210007,
+    "EquipAffixIds": [
+      2100070,
+      2100071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Instructeur",
+    "Icon": "UI_RelicIcon_10007_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Augmente la maîtrise élémentaire de tous les personnages de l'équipe de 120 pts pendant 8 s après avoir déclenché une réaction élémentaire."
+    ]
+  },
+  {
+    "SetId": 10008,
+    "EquipAffixId": 210008,
+    "EquipAffixIds": [
+      2100080,
+      2100081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Parieur",
+    "Icon": "UI_RelicIcon_10008_4",
+    "Descriptions": [
+      "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
+      "Après la défaite d'un ennemi, le TdR de compétence élémentaire a 100 % de chances d'être réinitialisé. Cet effet peut être déclenché une fois toutes les 15 s."
+    ]
+  },
+  {
+    "SetId": 10009,
+    "EquipAffixId": 210009,
+    "EquipAffixIds": [
+      2100090,
+      2100091
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Exilé",
+    "Icon": "UI_RelicIcon_10009_4",
+    "Descriptions": [
+      "Augmente la recharge d'énergie de 20 %.",
+      "Le déchaînement élémentaire restaure 2 pts d'énergie élémentaire à tous les personnages de l'équipe (à l'exception du porteur) toutes les 2 s pendant 6 s. Cet effet est non cumulable."
+    ]
+  },
+  {
+    "SetId": 10010,
+    "EquipAffixId": 210010,
+    "EquipAffixIds": [
+      2100100,
+      2100101
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Aventurier",
+    "Icon": "UI_RelicIcon_10010_4",
+    "Descriptions": [
+      "Augmente les PV max de 1 000 pts.",
+      "Restaure 30 % des PV pendant 5 s après l'ouverture d'un coffre."
+    ]
+  },
+  {
+    "SetId": 10011,
+    "EquipAffixId": 210011,
+    "EquipAffixIds": [
+      2100110,
+      2100111
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chanceux",
+    "Icon": "UI_RelicIcon_10011_4",
+    "Descriptions": [
+      "Augmente la DÉF de 100 pts.",
+      "Collecter des moras restaure 300 PV."
+    ]
+  },
+  {
+    "SetId": 10012,
+    "EquipAffixId": 210012,
+    "EquipAffixIds": [
+      2100120,
+      2100121
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Érudit",
+    "Icon": "UI_RelicIcon_10012_4",
+    "Descriptions": [
+      "Augmente la recharge d'énergie de 20 %.",
+      "Les personnages armés d'un arc ou d'un catalyseur récupèrent 3 pts d'énergie supplémentaire à chaque fois qu'une particule ou un orbe élémentaires sont récupérés. Cet effet peut être déclenché une fois toutes les 3 s."
+    ]
+  },
+  {
+    "SetId": 10013,
+    "EquipAffixId": 210013,
+    "EquipAffixIds": [
+      2100130,
+      2100131
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Médecin itinérant",
+    "Icon": "UI_RelicIcon_10013_4",
+    "Descriptions": [
+      "Augmente les soins reçus par le personnage de 20 %.",
+      "Le déchaînement élémentaire restaure 20 % des PV."
+    ]
+  },
+  {
+    "SetId": 14001,
+    "EquipAffixId": 214001,
+    "EquipAffixIds": [
+      2140010,
+      2140011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Briseur de glace",
+    "Icon": "UI_RelicIcon_14001_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Cryo de 15 %.",
+      "Augmente le taux CRIT de 20 % lorsque le personnage attaque un ennemi affecté par l'élément Cryo. Confère un bonus supplémentaire de 20 % de taux CRIT si l'ennemi est gelé."
+    ]
+  },
+  {
+    "SetId": 14002,
+    "EquipAffixId": 214002,
+    "EquipAffixIds": [
+      2140020,
+      2140021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Dompteur de foudre",
+    "Icon": "UI_RelicIcon_14002_4",
+    "Descriptions": [
+      "Augmente la RÉS Électro de 40 %.",
+      "Augmente les DGT infligés aux ennemis affectés par l'élément Électro de 35 %."
+    ]
+  },
+  {
+    "SetId": 14003,
+    "EquipAffixId": 214003,
+    "EquipAffixIds": [
+      2140030,
+      2140031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Marcheur du feu",
+    "Icon": "UI_RelicIcon_14003_4",
+    "Descriptions": [
+      "Augmente la RÉS Pyro de 40 %.",
+      "Augmente les DGT infligés aux ennemis affectés par l'élément Pyro de 35 %."
+    ]
+  },
+  {
+    "SetId": 14004,
+    "EquipAffixId": 214004,
+    "EquipAffixIds": [
+      2140040,
+      2140041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Amour chéri",
+    "Icon": "UI_RelicIcon_14004_4",
+    "Descriptions": [
+      "Augmente les soins effectués par le personnage de 15 %.",
+      "Augmente les soins reçus par tous les personnages de l'équipe de 20 % pendant 10 s après l'utilisation d'une compétence élémentaire ou d'un déchaînement élémentaire."
+    ]
+  },
+  {
+    "SetId": 15001,
+    "EquipAffixId": 215001,
+    "EquipAffixIds": [
+      2150010,
+      2150011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rideau du Gladiateur",
+    "Icon": "UI_RelicIcon_15001_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Augmente les DGT infligés par les attaques normales de 35 % lorsque ce set d'artéfacts est équipé par les personnages armés d'une épée à une main, à deux mains ou d'une arme d'hast."
+    ]
+  },
+  {
+    "SetId": 15002,
+    "EquipAffixId": 215002,
+    "EquipAffixIds": [
+      2150020,
+      2150021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ombre de la Verte Chasseuse",
+    "Icon": "UI_RelicIcon_15002_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Anémo de 15 %.",
+      "Augmente les DGT infligés par Dispersion de 60 % ; la RÉS élémentaire des ennemis diminue de 40 % pendant 10 s selon le type élémentaire de Dispersion."
+    ]
+  },
+  {
+    "SetId": 15003,
+    "EquipAffixId": 215003,
+    "EquipAffixIds": [
+      2150030,
+      2150031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Bande vagabonde",
+    "Icon": "UI_RelicIcon_15003_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Augmente les DGT infligés par les attaques chargées de 35 % lorsque ce set d'artéfacts est équipé par les personnages armés d'un arc ou d'un catalyseur."
+    ]
+  },
+  {
+    "SetId": 15004,
+    "EquipAffixId": 215004,
+    "EquipAffixIds": [
+      2150040,
+      2150041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Neige et glace",
+    "Icon": "UI_RelicIcon_15004_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Cryo de 15 %.",
+      "Augmente les DGT infligés par Supraconduction de 100 % et ceux de Fonte de 15 %. Le déchaînement élémentaire augmente le bonus de DGT Cryo de 30 % pendant 10 s."
+    ]
+  },
+  {
+    "SetId": 15005,
+    "EquipAffixId": 215005,
+    "EquipAffixIds": [
+      2150050,
+      2150051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Colère de tonnerre",
+    "Icon": "UI_RelicIcon_15005_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Électro de 15 %.",
+      "Augmente les DGT infligés par les réactions de Surcharge, d'Électrocution, de Supraconduction et d'Exubérance de 40 %, le bonus de DGT accordé par les réactions de Suractivation de 20 % et les DGT infligés par les réactions de Sélénocution de 20 %. Au déclenchement de ces réactions élémentaires ou d'une réaction de Stimulation, le TdR de la compétence élémentaire diminue de 1 s. Cet effet peut être déclenché une fois toutes les 0,8 s."
+    ]
+  },
+  {
+    "SetId": 15006,
+    "EquipAffixId": 215006,
+    "EquipAffixIds": [
+      2150060,
+      2150061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sorcière des flammes ardentes",
+    "Icon": "UI_RelicIcon_15006_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Pyro de 15 %.",
+      "Augmente les DGT infligés par Surcharge, Brûlure et Bourgeonnement de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 %. Cet effet peut être cumulé 3 fois maximum."
+    ]
+  },
+  {
+    "SetId": 15007,
+    "EquipAffixId": 215007,
+    "EquipAffixIds": [
+      2150070,
+      2150071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ancien rituel royal",
+    "Icon": "UI_RelicIcon_15007_4",
+    "Descriptions": [
+      "Augmente les DGT infligés par le déchaînement élémentaire de 20 %.",
+      "Augmente l'ATQ de tous les personnages de l'équipe de 20 % pendant 12 s après un déchaînement élémentaire. Cet effet est non cumulable."
+    ]
+  },
+  {
+    "SetId": 15008,
+    "EquipAffixId": 215008,
+    "EquipAffixIds": [
+      2150080,
+      2150081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chevalerie ensanglantée",
+    "Icon": "UI_RelicIcon_15008_4",
+    "Descriptions": [
+      "Augmente les DGT physiques de 25 %.",
+      "L'utilisation d'attaques chargées ne consomme pas l'endurance pendant 10 s après la défaite d'un ennemi, et ces dernières infligent 50 % de DGT supplémentaires."
+    ]
+  },
+  {
+    "SetId": 15009,
+    "EquipAffixId": 215009,
+    "EquipAffixIds": [
+      2150090
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrifieur Pyro",
+    "Icon": "UI_RelicIcon_15009_3",
+    "Descriptions": [
+      "Diminue la durée des effets Pyro subis de 40 %."
+    ]
+  },
+  {
+    "SetId": 15010,
+    "EquipAffixId": 215010,
+    "EquipAffixIds": [
+      2150100
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrifieur Hydro",
+    "Icon": "UI_RelicIcon_15010_3",
+    "Descriptions": [
+      "Diminue la durée des effets Hydro subis de 40 %."
+    ]
+  },
+  {
+    "SetId": 15011,
+    "EquipAffixId": 215011,
+    "EquipAffixIds": [
+      2150110
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrifieur Électro",
+    "Icon": "UI_RelicIcon_15011_3",
+    "Descriptions": [
+      "Diminue la durée des effets Électro subis de 40 %."
+    ]
+  },
+  {
+    "SetId": 15012,
+    "EquipAffixId": 215012,
+    "EquipAffixIds": [
+      2150120
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrifieur Anémo",
+    "Icon": "UI_RelicIcon_15012_3",
+    "Descriptions": [
+      "Diminue la durée des effets Anémo subis de 40 %."
+    ]
+  },
+  {
+    "SetId": 15013,
+    "EquipAffixId": 215013,
+    "EquipAffixIds": [
+      2150130
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrifieur Cryo",
+    "Icon": "UI_RelicIcon_15013_3",
+    "Descriptions": [
+      "Diminue la durée des effets Cryo subis de 40 %."
+    ]
+  },
+  {
+    "SetId": 15014,
+    "EquipAffixId": 215014,
+    "EquipAffixIds": [
+      2150140,
+      2150141
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Roche ancienne",
+    "Icon": "UI_RelicIcon_15014_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Géo de 15 %.",
+      "Lorsque vous obtenez un cristal issu d'une Cristallisation, tous les personnages de l'équipe bénéficient d'un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois."
+    ]
+  },
+  {
+    "SetId": 15015,
+    "EquipAffixId": 215015,
+    "EquipAffixIds": [
+      2150150,
+      2150151
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Météore inversé",
+    "Icon": "UI_RelicIcon_15015_4",
+    "Descriptions": [
+      "Augmente la force du bouclier de 35 %.",
+      "Les attaques normales et chargées infligent un bonus de 40 % de DGT lorsque le personnage est sous la protection d'un bouclier."
+    ]
+  },
+  {
+    "SetId": 15016,
+    "EquipAffixId": 215016,
+    "EquipAffixIds": [
+      2150160,
+      2150161
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Âme des profondeurs",
+    "Icon": "UI_RelicIcon_15016_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Hydro de 15 %.",
+      "Augmente les DGT infligés par les attaques normales et chargées de 30 % pendant 15 s après l'utilisation d'une compétence élémentaire."
+    ]
+  },
+  {
+    "SetId": 15017,
+    "EquipAffixId": 215017,
+    "EquipAffixIds": [
+      2150170,
+      2150171
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ténacité du Millelithe",
+    "Icon": "UI_RelicIcon_15017_4",
+    "Descriptions": [
+      "Les PV sont augmentés de 20 %.",
+      "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ de tous les personnages de l'équipe à proximité augmente de 20 % et la force de leur bouclier augmente de 30 % pendant 3 s. Cet effet peut être déclenché une fois toutes les 0,5 s, même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15018,
+    "EquipAffixId": 215018,
+    "EquipAffixIds": [
+      2150180,
+      2150181
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Flamme blême",
+    "Icon": "UI_RelicIcon_15018_4",
+    "Descriptions": [
+      "Augmente les DGT physiques de 25 %.",
+      "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %."
+    ]
+  },
+  {
+    "SetId": 15019,
+    "EquipAffixId": 215019,
+    "EquipAffixIds": [
+      2150190,
+      2150191
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Réminiscence nostalgique",
+    "Icon": "UI_RelicIcon_15019_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Lorsque le personnage possède au minimum 15 pts d'énergie élémentaire, libérer une compétence élémentaire entraîne une perte de 15 pts d'énergie, mais les DGT infligés par son attaque normale, chargée et plongeante augmentent de 50 % pendant 10 s. Cet effet ne se déclenchera plus pendant cette durée."
+    ]
+  },
+  {
+    "SetId": 15020,
+    "EquipAffixId": 215020,
+    "EquipAffixIds": [
+      2150200,
+      2150201
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Emblème du destin brisé",
+    "Icon": "UI_RelicIcon_15020_4",
+    "Descriptions": [
+      "Augmente la recharge d'énergie de 20 %.",
+      "Augmente les DGT infligés par le déchaînement élémentaire d'une valeur équivalant à 25 % de la recharge d'énergie. Les DGT peuvent être augmentés d'un maximum de 75 % de cette manière."
+    ]
+  },
+  {
+    "SetId": 15021,
+    "EquipAffixId": 215021,
+    "EquipAffixIds": [
+      2150210,
+      2150211
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Coquille des rêves opulents",
+    "Icon": "UI_RelicIcon_15021_4",
+    "Descriptions": [
+      "Augmente la DÉF de 30 %.",
+      "Un personnage équipé de ce set d'artéfacts obtiendra 1 cumul de curiosité des façons suivantes : sur le champ de bataille, il obtient 1 cumul en touchant un ennemi avec une attaque Géo, ceci pouvant être déclenché une fois toutes les 0,3 s ; en faisant partie de l'équipe mais en n'étant pas déployé, il obtient 1 cumul toutes les 3 s. La curiosité peut être cumulée 4 fois maximum, chaque cumul accordant 6 % de bonus de DÉF et 6 % de bonus de DGT Géo. Si 6 s s'écoulent sans obtenir de cumul de curiosité, 1 cumul sera perdu."
+    ]
+  },
+  {
+    "SetId": 15022,
+    "EquipAffixId": 215022,
+    "EquipAffixIds": [
+      2150220,
+      2150221
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Palourde aux teintes océaniques",
+    "Icon": "UI_RelicIcon_15022_4",
+    "Descriptions": [
+      "Augmente le bonus de soins de 15 %.",
+      "Lorsqu'un personnage équipé de ce set d'artéfacts soigne un personnage de l'équipe, une mousse marine apparaîtra pendant 3 s, accumulant la quantité de PV récupérée grâce au soin (y compris tout surplus au-dessus de 100 %). À la fin de la durée, la mousse marine explosera, infligeant des DGT aux ennemis proches d'une valeur équivalant à 90 % du soin accumulé (Ces DGT sont calculés de la même manière que les réactions d'Électrocution et de Supraconduction, mais ne sont pas affectés par la maîtrise élémentaire, les niveaux des personnages ou les bonus de DGT de réactions élémentaires). Une mousse marine peut être générée une fois toutes les 3,5 s, et chaque mousse marine peut accumuler jusqu'à 30 000 PV, incluant tout surplus au-dessus de 100 %. Il ne peut exister qu'une seule mousse marine à la fois. Cet effet peut être déclenché même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15023,
+    "EquipAffixId": 215023,
+    "EquipAffixIds": [
+      2150230,
+      2150231
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Au-delà cinabrin",
+    "Icon": "UI_RelicIcon_15023_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Lorsqu'un personnage utilise un déchaînement élémentaire, il gagne l'effet Lumière latente pendant 16 s, augmentant son ATQ de 8 %, puis de 10 % supplémentaires à chaque fois que ses PV diminuent. Cette augmentation supplémentaire peut être cumulée 4 fois maximum et déclenchée une fois toutes les 0,8 s. L'effet Lumière latente cesse lorsque le personnage quitte le champ de bataille. Si le personnage utilise à nouveau son déchaînement élémentaire alors que la Lumière latente est en effet, l'effet original de Lumière latente est dissipé."
+    ]
+  },
+  {
+    "SetId": 15024,
+    "EquipAffixId": 215024,
+    "EquipAffixIds": [
+      2150240,
+      2150241
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Échos d'une offrande",
+    "Icon": "UI_RelicIcon_15024_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "En touchant un ennemi, les attaques normales ont 36 % de chances de déclencher l'effet Rituel de la vallée, augmentant les DGT d'attaque normale d'une valeur équivalant à 70 % de l'ATQ. Cet effet sera dissipé 0,05 s après avoir infligé des DGT avec une attaque normale. Chaque attaque normale ne déclenchant pas l'effet augmentera les chances de le déclencher la prochaine fois de 20 %. Cet effet peut être déclenché une fois toutes les 0,2 s."
+    ]
+  },
+  {
+    "SetId": 15025,
+    "EquipAffixId": 215025,
+    "EquipAffixIds": [
+      2150250,
+      2150251
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Souvenir de forêt",
+    "Icon": "UI_RelicIcon_15025_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Dendro de 15 %.",
+      "Après qu'une compétence ou un déchaînement élémentaires a touché un ennemi, sa RÉS Dendro diminue de 30 % pendant 8 s. Cet effet peut être déclenché même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15026,
+    "EquipAffixId": 215026,
+    "EquipAffixIds": [
+      2150260,
+      2150261
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rêve doré",
+    "Icon": "UI_RelicIcon_15026_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Déclencher une réaction élémentaire confère pendant 8 s au personnage équipé de l'artéfact des bonus en fonction du nombre de types élémentaires des autres personnages de l'équipe : son ATQ augmente de 14 % pour chaque membre du même type élémentaire que le sien, et sa maîtrise élémentaire augmente de 50 pts pour chaque membre de type élémentaire différent du sien. Chacun des bonus susmentionnés compte un maximum de 3 personnages. Cet effet peut être déclenché une fois toutes les 8 s, même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15027,
+    "EquipAffixId": 215027,
+    "EquipAffixIds": [
+      2150270,
+      2150271
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chronique du Pavillon du désert",
+    "Icon": "UI_RelicIcon_15027_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Anémo de 15 %.",
+      "#Lorsqu'une attaque chargée a touché un ennemi, la VIT d'attaque normale du personnage augmente de 10 % et les DGT infligés par ses attaques normales, chargées et plongeantes augmentent de 40{NON_BREAK_SPACE}%, pendant 15 s."
+    ]
+  },
+  {
+    "SetId": 15028,
+    "EquipAffixId": 215028,
+    "EquipAffixIds": [
+      2150280,
+      2150281
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fleur du paradis perdu",
+    "Icon": "UI_RelicIcon_15028_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Augmente les DGT infligés par les réactions de Fleurissement, d'Exubérance et de Bourgeonnement du personnage équipé de l'artéfact de 40 % et les DGT de ses réactions de Sélénofleurissement de 10 %. De plus, lorsque le personnage équipé de l'artéfact a déclenché une réaction de Fleurissement, de Sélénofleurissement, d'Exubérance ou de Bourgeonnement, le bonus mentionné précédemment augmente de 25 % pendant 10 s. Cet effet peut être cumulé 4 fois maximum et déclenché une fois toutes les secondes. Cet effet peut être déclenché même si le personnage équipé de l'artéfact fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15029,
+    "EquipAffixId": 215029,
+    "EquipAffixIds": [
+      2150290,
+      2150291
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rêve de la nymphe",
+    "Icon": "UI_RelicIcon_15029_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Hydro de 15 %.",
+      "Lorsqu'une attaque normale, chargée ou plongeante, une compétence ou un déchaînement élémentaires a touché un ennemi, un cumul de l'effet Nymphe reflétée de 8 s est généré. Avec 1, 2 ou au minimum 3 cumuls de nymphe reflétée, l'ATQ augmente respectivement de 7 %/16 %/25 % et le bonus de DGT Hydro de 4 %/9 %/15 %. Les cumuls de nymphe reflétée obtenus grâce aux différents types d'attaques (normales, chargées, plongeantes, compétences et déchaînements élémentaires) existent indépendamment les uns des autres."
+    ]
+  },
+  {
+    "SetId": 15030,
+    "EquipAffixId": 215030,
+    "EquipAffixIds": [
+      2150300,
+      2150301
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Lueur du vourukasha",
+    "Icon": "UI_RelicIcon_15030_4",
+    "Descriptions": [
+      "Les PV sont augmentés de 20 %.",
+      "#Les DGT infligés par les compétences et déchaînements élémentaires augmentent de 10 %. Lorsque le personnage équipé de l'artéfact a subi des DGT, cet effet de bonus de DGT augmente de 80{NON_BREAK_SPACE}% pendant 5 s. Cet effet peut être cumulé 5 fois maximum, la durée de chaque cumul étant calculée de façon indépendante. Cet effet peut être déclenché même si le personnage fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15031,
+    "EquipAffixId": 215031,
+    "EquipAffixIds": [
+      2150310,
+      2150311
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chasseur de la Maréchaussée",
+    "Icon": "UI_RelicIcon_15031_4",
+    "Descriptions": [
+      "Augmente les DGT infligés par les attaques normales et chargées de 15 %.",
+      "Lorsque les PV actuels du personnage augmentent ou diminuent, son taux CRIT augmente de 12 % pendant 5 s. Cet effet peut être cumulé 3 fois maximum."
+    ]
+  },
+  {
+    "SetId": 15032,
+    "EquipAffixId": 215032,
+    "EquipAffixIds": [
+      2150320,
+      2150321
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Troupe dorée",
+    "Icon": "UI_RelicIcon_15032_4",
+    "Descriptions": [
+      "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
+      "#Les DGT infligés par les compétences élémentaires augmentent de 25{NON_BREAK_SPACE}%. De plus, lorsque le personnage fait partie de l'équipe mais n'est pas déployé, les DGT infligés par ses compétences élémentaires augmentent de 25 % supplémentaires, cet effet prenant fin 2 s après le déploiement du personnage."
+    ]
+  },
+  {
+    "SetId": 15033,
+    "EquipAffixId": 215033,
+    "EquipAffixIds": [
+      2150330,
+      2150331
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chanson des jours d'antan",
+    "Icon": "UI_RelicIcon_15033_4",
+    "Descriptions": [
+      "Augmente le bonus de soins de 15 %.",
+      "Lorsque le personnage équipé de l'artéfact soigne un personnage de l'équipe, l'effet Désir est créé pendant 6 s, accumulant la quantité de PV soignés (y compris tout surplus au-dessus de 100 %). À la fin de la durée, l'effet Désir est converti en l'effet Vague d'antan : lorsque votre personnage déployé touche un ennemi avec une attaque normale, chargée ou plongeante, une compétence ou un déchaînement élémentaires, les DGT infligés augmentent d'une valeur équivalant à 8 % de la quantité de PV accumulée par l'effet Désir. L'effet Vague d'antan est annulé après avoir été déclenché 5 fois ou après 10 s. L'effet Désir peut accumuler jusqu'à 15 000 PV et il ne peut en exister qu'un seul à la fois, mais il peut accumuler les soins effectués par plusieurs personnages équipés de cet artéfact. Cet effet peut être déclenché même si les personnages équipés de cet artéfact font partie de l'équipe mais ne sont pas déployés."
+    ]
+  },
+  {
+    "SetId": 15034,
+    "EquipAffixId": 215034,
+    "EquipAffixIds": [
+      2150340,
+      2150341
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Murmure nocturne en forêt d'échos",
+    "Icon": "UI_RelicIcon_15034_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Après l'utilisation d'une compétence élémentaire, le bonus de DGT Géo augmente de 20 % pendant 10 s. Sous la protection d'un bouclier généré par une réaction de Cristallisation, cet effet augmente de 150 %, cette augmentation supplémentaire disparaissant 1 s après la perte du bouclier."
+    ]
+  },
+  {
+    "SetId": 15035,
+    "EquipAffixId": 215035,
+    "EquipAffixIds": [
+      2150350,
+      2150351
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fragment d'harmonie divergente",
+    "Icon": "UI_RelicIcon_15035_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Lorsque la valeur d'un engagement vital augmente ou diminue, les DGT infligés par le personnage augmentent de 18 % pendant 6 s. Cet effet peut être cumulé 3 fois maximum."
+    ]
+  },
+  {
+    "SetId": 15036,
+    "EquipAffixId": 215036,
+    "EquipAffixIds": [
+      2150360,
+      2150361
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rêverie incomplète",
+    "Icon": "UI_RelicIcon_15036_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "#Après avoir été hors combat pendant 3 s, les DGT infligés augmentent de 50{NON_BREAK_SPACE}%. En combat, si aucun ennemi brûlé n'est à proximité pendant plus de 6 s, cette augmentation de DGT diminue de 10 % toutes les secondes, jusqu'à atteindre 0{NON_BREAK_SPACE}% ; si un ennemi brûlé est à proximité, elle augmente de 10{NON_BREAK_SPACE}% toutes les secondes, jusqu'à atteindre 50 %. Cet effet peut être déclenché même lorsque le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15037,
+    "EquipAffixId": 215037,
+    "EquipAffixIds": [
+      2150370,
+      2150371
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Parchemin du héros de la Cité de braise",
+    "Icon": "UI_RelicIcon_15037_4",
+    "Descriptions": [
+      "Lorsqu'un membre de l'équipe à proximité déclenche une éruption noctâme, le personnage équipé de l'artéfact récupère 6 pts d'énergie élémentaire.",
+      "Lorsque le personnage équipé de l'artéfact a déclenché une réaction liée à son type élémentaire, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 12 % pendant 15 s pour tous les personnages de l'équipe à proximité. Si le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme lors du déclenchement de cet effet, le bonus de DGT élémentaires des éléments concernés par cette réaction augmente de 28 % supplémentaires pendant 20 s pour tous les personnages de l'équipe à proximité. L'effet ci-dessus peut être déclenché même si le personnage n'est pas déployé, et les effets d'augmentation des DGT accordés par les sets d'artéfacts du même nom ne se cumulent pas."
+    ]
+  },
+  {
+    "SetId": 15038,
+    "EquipAffixId": 215038,
+    "EquipAffixIds": [
+      2150380,
+      2150381
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Codex d'obsidienne",
+    "Icon": "UI_RelicIcon_15038_4",
+    "Descriptions": [
+      "Lorsque le personnage équipé de l'artéfact bénéficie d'une bénédiction noctâme et est sur le terrain, les DGT qu'il inflige augmentent de 15 %.",
+      "Lorsque le personnage équipé de l'artéfact a consommé 1 pt de noctâme sur le terrain, le taux CRIT augmente de 40 % pendant 6 s. Cet effet peut être déclenché une fois toutes les secondes."
+    ]
+  },
+  {
+    "SetId": 15039,
+    "EquipAffixId": 215039,
+    "EquipAffixIds": [
+      2150390,
+      2150391
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Serment de la longue nuit",
+    "Icon": "UI_RelicIcon_15039_4",
+    "Descriptions": [
+      "#Les DGT infligés par les attaques plongeantes augmentent de 25{NON_BREAK_SPACE}%.",
+      "Lorsque le personnage équipé de l'artéfact a touché un ennemi avec une attaque plongeante, une attaque chargée ou une compétence élémentaire, il obtient respectivement 1, 2 ou 2 cumuls de radiance éternelle, ces différents types d'attaque pouvant chacun déclencher cet effet une fois toutes les secondes. La radiance éternelle augmente les DGT infligés par les attaques plongeantes de 15 % pendant 6 s et peut se cumuler 5 fois maximum, la durée de chaque cumul étant calculée de façon indépendante."
+    ]
+  },
+  {
+    "SetId": 15040,
+    "EquipAffixId": 215040,
+    "EquipAffixIds": [
+      2150400,
+      2150401
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Finale des galeries profondes",
+    "Icon": "UI_RelicIcon_15040_4",
+    "Descriptions": [
+      "Confère un bonus de DGT Cryo de 15 %.",
+      "Lorsque le personnage équipé de l'artéfact a 0 pt d'énergie élémentaire, les DGT infligés par les attaques normales et les déchaînements élémentaires augmentent de 60 %. Le bonus ainsi accordé aux déchaînements élémentaires s'arrête pendant 6 s après que le personnage équipé de l'artéfact inflige des DGT grâce à une attaque normale. De même, le bonus ainsi accordé aux attaques normales s'arrête pendant 6 s après que le personnage équipé de l'artéfact inflige des DGT grâce à un déchaînement élémentaire. L'effet peut être déclenché même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
+    ]
+  },
+  {
+    "SetId": 15041,
+    "EquipAffixId": 215041,
+    "EquipAffixIds": [
+      2150410,
+      2150411
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Nuit de la révélation céleste",
+    "Icon": "UI_RelicIcon_15041_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Lorsqu'un personnage de l'équipe à proximité déclenche une réaction sélène alors que le personnage équipé de l'artéfact est sur le terrain, ce dernier obtient l'effet Lune étincelante « Intention » pendant 4 s : augmente le taux CRIT de 15 % ou de 30 % lorsque la signelune de l'équipe est respectivement de type Lueur naissante ou ascendante. De plus, les DGT infligés par les réactions sélènes déclenchées par tous les personnages de l'équipe augmentent de 10 % pour chaque lune étincelante de type différent des personnages de l'équipe. Les bonus accordés par l'effet Lune étincelante ne se cumulent pas."
+    ]
+  },
+  {
+    "SetId": 15042,
+    "EquipAffixId": 215042,
+    "EquipAffixIds": [
+      2150420,
+      2150421
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sérénade de la lune soyeuse",
+    "Icon": "UI_RelicIcon_15042_4",
+    "Descriptions": [
+      "Augmente la recharge d'énergie de 20 %.",
+      "Infliger des DGT élémentaires accorde l'effet Lune étincelante « Dévotion » pendant 8 s : augmente la maîtrise élémentaire de tous les personnages de l'équipe de 60 pts ou de 120 pts lorsque la signelune de l'équipe est respectivement de type Lueur naissante ou ascendante. L'effet ci-dessus peut être déclenché même si le personnage équipé de l'artéfact n'est pas déployé. De plus, les DGT infligés par les réactions sélènes déclenchées par tous les personnages de l'équipe augmentent de 10 % pour chaque lune étincelante de type différent des personnages de l'équipe. Les bonus accordés par l'effet Lune étincelante ne se cumulent pas."
+    ]
+  }
+]

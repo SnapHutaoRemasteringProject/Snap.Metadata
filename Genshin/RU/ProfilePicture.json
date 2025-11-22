@@ -1,0 +1,1115 @@
+[
+  {
+    "Id": 1,
+    "Icon": "UI_AvatarIcon_PlayerBoy_Circle",
+    "Name": "#{F#Путешественница}{M#Путешественник}",
+    "UnlockType": 2,
+    "UnlockParameter": 10000005
+  },
+  {
+    "Id": 2,
+    "Icon": "UI_AvatarIcon_PlayerGirl_Circle",
+    "Name": "#{F#Путешественница}{M#Путешественник}",
+    "UnlockType": 2,
+    "UnlockParameter": 10000007
+  },
+  {
+    "Id": 100,
+    "Icon": "UI_AvatarIcon_Ambor_Circle",
+    "Name": "Эмбер",
+    "UnlockType": 2,
+    "UnlockParameter": 10000021
+  },
+  {
+    "Id": 101,
+    "Icon": "UI_AvatarIcon_AmborCostumeWic_Circle",
+    "Name": "Эмбер: Скаут на все сто",
+    "UnlockType": 3,
+    "UnlockParameter": 202101
+  },
+  {
+    "Id": 200,
+    "Icon": "UI_AvatarIcon_Kaeya_Circle",
+    "Name": "Кэйа",
+    "UnlockType": 2,
+    "UnlockParameter": 10000015
+  },
+  {
+    "Id": 201,
+    "Icon": "UI_AvatarIcon_KaeyaCostumeDancer_Circle",
+    "Name": "Кэйа: Тень ветра в парусах",
+    "UnlockType": 3,
+    "UnlockParameter": 201501
+  },
+  {
+    "Id": 300,
+    "Icon": "UI_AvatarIcon_Lisa_Circle",
+    "Name": "Лиза",
+    "UnlockType": 2,
+    "UnlockParameter": 10000006
+  },
+  {
+    "Id": 301,
+    "Icon": "UI_AvatarIcon_LisaCostumeStudentin_Circle",
+    "Name": "Лиза: Инкогнито в тени листвы",
+    "UnlockType": 3,
+    "UnlockParameter": 200601
+  },
+  {
+    "Id": 400,
+    "Icon": "UI_AvatarIcon_Barbara_Circle",
+    "Name": "Барбара",
+    "UnlockType": 2,
+    "UnlockParameter": 10000014
+  },
+  {
+    "Id": 401,
+    "Icon": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle",
+    "Name": "Барбара: Летний блеск",
+    "UnlockType": 3,
+    "UnlockParameter": 201401
+  },
+  {
+    "Id": 500,
+    "Icon": "UI_AvatarIcon_Razor_Circle",
+    "Name": "Рэйзор",
+    "UnlockType": 2,
+    "UnlockParameter": 10000020
+  },
+  {
+    "Id": 600,
+    "Icon": "UI_AvatarIcon_Xiangling_Circle",
+    "Name": "Сян Лин",
+    "UnlockType": 2,
+    "UnlockParameter": 10000023
+  },
+  {
+    "Id": 601,
+    "Icon": "UI_AvatarIcon_XianglingCostumeWinter_Circle",
+    "Name": "Сян Лин: Новогоднее веселье",
+    "UnlockType": 3,
+    "UnlockParameter": 202301
+  },
+  {
+    "Id": 700,
+    "Icon": "UI_AvatarIcon_Beidou_Circle",
+    "Name": "Бэй Доу",
+    "UnlockType": 2,
+    "UnlockParameter": 10000024
+  },
+  {
+    "Id": 800,
+    "Icon": "UI_AvatarIcon_Xingqiu_Circle",
+    "Name": "Син Цю",
+    "UnlockType": 2,
+    "UnlockParameter": 10000025
+  },
+  {
+    "Id": 801,
+    "Icon": "UI_AvatarIcon_XingqiuCostumeBamboo_Circle",
+    "Name": "Син Цю: Бамбуковый дождь",
+    "UnlockType": 3,
+    "UnlockParameter": 202501
+  },
+  {
+    "Id": 900,
+    "Icon": "UI_AvatarIcon_Ningguang_Circle",
+    "Name": "Нин Гуан",
+    "UnlockType": 2,
+    "UnlockParameter": 10000027
+  },
+  {
+    "Id": 901,
+    "Icon": "UI_AvatarIcon_NingguangCostumeFloral_Circle",
+    "Name": "Нин Гуан: Флёр орхидеи",
+    "UnlockType": 3,
+    "UnlockParameter": 202701
+  },
+  {
+    "Id": 1000,
+    "Icon": "UI_AvatarIcon_Fischl_Circle",
+    "Name": "Фишль",
+    "UnlockType": 2,
+    "UnlockParameter": 10000031
+  },
+  {
+    "Id": 1001,
+    "Icon": "UI_AvatarIcon_FischlCostumeHighness_Circle",
+    "Name": "Фишль: Сон вечной ночи",
+    "UnlockType": 3,
+    "UnlockParameter": 203101
+  },
+  {
+    "Id": 1100,
+    "Icon": "UI_AvatarIcon_Bennett_Circle",
+    "Name": "Беннет",
+    "UnlockType": 2,
+    "UnlockParameter": 10000032
+  },
+  {
+    "Id": 1101,
+    "Icon": "UI_AvatarIcon_BennettCostumeSummer_Circle",
+    "Name": "Беннет: Пылающие приключения",
+    "UnlockType": 3,
+    "UnlockParameter": 203201
+  },
+  {
+    "Id": 1200,
+    "Icon": "UI_AvatarIcon_Noel_Circle",
+    "Name": "Ноэлль",
+    "UnlockType": 2,
+    "UnlockParameter": 10000034
+  },
+  {
+    "Id": 1300,
+    "Icon": "UI_AvatarIcon_Chongyun_Circle",
+    "Name": "Чун Юнь",
+    "UnlockType": 2,
+    "UnlockParameter": 10000036
+  },
+  {
+    "Id": 1400,
+    "Icon": "UI_AvatarIcon_Sucrose_Circle",
+    "Name": "Сахароза",
+    "UnlockType": 2,
+    "UnlockParameter": 10000043
+  },
+  {
+    "Id": 1500,
+    "Icon": "UI_AvatarIcon_Qin_Circle",
+    "Name": "Джинн",
+    "UnlockType": 2,
+    "UnlockParameter": 10000003
+  },
+  {
+    "Id": 1501,
+    "Icon": "UI_AvatarIcon_QinCostumeWic_Circle",
+    "Name": "Джинн: Наследие Гуннхильдр",
+    "UnlockType": 3,
+    "UnlockParameter": 200302
+  },
+  {
+    "Id": 1502,
+    "Icon": "UI_AvatarIcon_QinCostumeSea_Circle",
+    "Name": "Джинн: Сон морского бриза",
+    "UnlockType": 3,
+    "UnlockParameter": 200301
+  },
+  {
+    "Id": 1600,
+    "Icon": "UI_AvatarIcon_Diluc_Circle",
+    "Name": "Дилюк",
+    "UnlockType": 2,
+    "UnlockParameter": 10000016
+  },
+  {
+    "Id": 1601,
+    "Icon": "UI_AvatarIcon_DilucCostumeFlamme_Circle",
+    "Name": "Дилюк: Алая ночь",
+    "UnlockType": 3,
+    "UnlockParameter": 201601
+  },
+  {
+    "Id": 1700,
+    "Icon": "UI_AvatarIcon_Qiqi_Circle",
+    "Name": "Ци Ци",
+    "UnlockType": 2,
+    "UnlockParameter": 10000035
+  },
+  {
+    "Id": 1800,
+    "Icon": "UI_AvatarIcon_Mona_Circle",
+    "Name": "Мона",
+    "UnlockType": 2,
+    "UnlockParameter": 10000041
+  },
+  {
+    "Id": 1801,
+    "Icon": "UI_AvatarIcon_MonaCostumeWic_Circle",
+    "Name": "Мона: Встреча звёзд и луны",
+    "UnlockType": 3,
+    "UnlockParameter": 204101
+  },
+  {
+    "Id": 1900,
+    "Icon": "UI_AvatarIcon_Keqing_Circle",
+    "Name": "Кэ Цин",
+    "UnlockType": 2,
+    "UnlockParameter": 10000042
+  },
+  {
+    "Id": 1901,
+    "Icon": "UI_AvatarIcon_KeqingCostumeFeather_Circle",
+    "Name": "Кэ Цин: Яркая лёгкость",
+    "UnlockType": 3,
+    "UnlockParameter": 204201
+  },
+  {
+    "Id": 2000,
+    "Icon": "UI_AvatarIcon_Venti_Circle",
+    "Name": "Венти",
+    "UnlockType": 2,
+    "UnlockParameter": 10000022
+  },
+  {
+    "Id": 2100,
+    "Icon": "UI_AvatarIcon_Klee_Circle",
+    "Name": "Кли",
+    "UnlockType": 2,
+    "UnlockParameter": 10000029
+  },
+  {
+    "Id": 2101,
+    "Icon": "UI_AvatarIcon_KleeCostumeWitch_Circle",
+    "Name": "Кли: Цветущий свет звёзд",
+    "UnlockType": 3,
+    "UnlockParameter": 202901
+  },
+  {
+    "Id": 2200,
+    "Icon": "UI_AvatarIcon_Diona_Circle",
+    "Name": "Диона",
+    "UnlockType": 2,
+    "UnlockParameter": 10000039
+  },
+  {
+    "Id": 2300,
+    "Icon": "UI_AvatarIcon_Tartaglia_Circle",
+    "Name": "Тарталья",
+    "UnlockType": 2,
+    "UnlockParameter": 10000033
+  },
+  {
+    "Id": 2400,
+    "Icon": "UI_AvatarIcon_Xinyan_Circle",
+    "Name": "Синь Янь",
+    "UnlockType": 2,
+    "UnlockParameter": 10000044
+  },
+  {
+    "Id": 2500,
+    "Icon": "UI_AvatarIcon_Zhongli_Circle",
+    "Name": "Чжун Ли",
+    "UnlockType": 2,
+    "UnlockParameter": 10000030
+  },
+  {
+    "Id": 2600,
+    "Icon": "UI_AvatarIcon_Albedo_Circle",
+    "Name": "Альбедо",
+    "UnlockType": 2,
+    "UnlockParameter": 10000038
+  },
+  {
+    "Id": 2700,
+    "Icon": "UI_AvatarIcon_Ganyu_Circle",
+    "Name": "Гань Юй",
+    "UnlockType": 2,
+    "UnlockParameter": 10000037
+  },
+  {
+    "Id": 2701,
+    "Icon": "UI_AvatarIcon_GanyuCostumeYu_Circle",
+    "Name": "Гань Юй: Цветок сумрака",
+    "UnlockType": 3,
+    "UnlockParameter": 203701
+  },
+  {
+    "Id": 2800,
+    "Icon": "UI_AvatarIcon_Xiao_Circle",
+    "Name": "Сяо",
+    "UnlockType": 2,
+    "UnlockParameter": 10000026
+  },
+  {
+    "Id": 2900,
+    "Icon": "UI_AvatarIcon_Hutao_Circle",
+    "Name": "Ху Тао",
+    "UnlockType": 2,
+    "UnlockParameter": 10000046
+  },
+  {
+    "Id": 2901,
+    "Icon": "UI_AvatarIcon_HutaoCostumeWinter_Circle",
+    "Name": "Ху Тао: Вишни под снегом",
+    "UnlockType": 3,
+    "UnlockParameter": 204601
+  },
+  {
+    "Id": 3000,
+    "Icon": "UI_AvatarIcon_Rosaria_Circle",
+    "Name": "Розария",
+    "UnlockType": 2,
+    "UnlockParameter": 10000045
+  },
+  {
+    "Id": 3001,
+    "Icon": "UI_AvatarIcon_RosariaCostumeWic_Circle",
+    "Name": "Розария: Независимая монахиня",
+    "UnlockType": 3,
+    "UnlockParameter": 204501
+  },
+  {
+    "Id": 3100,
+    "Icon": "UI_AvatarIcon_Feiyan_Circle",
+    "Name": "Янь Фэй",
+    "UnlockType": 2,
+    "UnlockParameter": 10000048
+  },
+  {
+    "Id": 3200,
+    "Icon": "UI_AvatarIcon_Eula_Circle",
+    "Name": "Эола",
+    "UnlockType": 2,
+    "UnlockParameter": 10000051
+  },
+  {
+    "Id": 3300,
+    "Icon": "UI_AvatarIcon_Kazuha_Circle",
+    "Name": "Каэдэхара Кадзуха",
+    "UnlockType": 2,
+    "UnlockParameter": 10000047
+  },
+  {
+    "Id": 3400,
+    "Icon": "UI_AvatarIcon_Ayaka_Circle",
+    "Name": "Камисато Аяка",
+    "UnlockType": 2,
+    "UnlockParameter": 10000002
+  },
+  {
+    "Id": 3401,
+    "Icon": "UI_AvatarIcon_AyakaCostumeFruhling_Circle",
+    "Name": "Камисато Аяка: Послание весеннего цветения",
+    "UnlockType": 3,
+    "UnlockParameter": 200201
+  },
+  {
+    "Id": 3500,
+    "Icon": "UI_AvatarIcon_Sayu_Circle",
+    "Name": "Саю",
+    "UnlockType": 2,
+    "UnlockParameter": 10000053
+  },
+  {
+    "Id": 3600,
+    "Icon": "UI_AvatarIcon_Yoimiya_Circle",
+    "Name": "Ёимия",
+    "UnlockType": 2,
+    "UnlockParameter": 10000049
+  },
+  {
+    "Id": 3700,
+    "Icon": "UI_AvatarIcon_Aloy_Circle",
+    "Name": "Элой",
+    "UnlockType": 2,
+    "UnlockParameter": 10000062
+  },
+  {
+    "Id": 3800,
+    "Icon": "UI_AvatarIcon_Sara_Circle",
+    "Name": "Кудзё Сара",
+    "UnlockType": 2,
+    "UnlockParameter": 10000056
+  },
+  {
+    "Id": 3900,
+    "Icon": "UI_AvatarIcon_Shougun_Circle",
+    "Name": "Сёгун Райдэн",
+    "UnlockType": 2,
+    "UnlockParameter": 10000052
+  },
+  {
+    "Id": 4000,
+    "Icon": "UI_AvatarIcon_Kokomi_Circle",
+    "Name": "Сангономия Кокоми",
+    "UnlockType": 2,
+    "UnlockParameter": 10000054
+  },
+  {
+    "Id": 4100,
+    "Icon": "UI_AvatarIcon_Tohma_Circle",
+    "Name": "Тома",
+    "UnlockType": 2,
+    "UnlockParameter": 10000050
+  },
+  {
+    "Id": 4200,
+    "Icon": "UI_AvatarIcon_Gorou_Circle",
+    "Name": "Горо",
+    "UnlockType": 2,
+    "UnlockParameter": 10000055
+  },
+  {
+    "Id": 4300,
+    "Icon": "UI_AvatarIcon_Itto_Circle",
+    "Name": "Аратаки Итто",
+    "UnlockType": 2,
+    "UnlockParameter": 10000057
+  },
+  {
+    "Id": 4400,
+    "Icon": "UI_AvatarIcon_Yunjin_Circle",
+    "Name": "Юнь Цзинь",
+    "UnlockType": 2,
+    "UnlockParameter": 10000064
+  },
+  {
+    "Id": 4500,
+    "Icon": "UI_AvatarIcon_Shenhe_Circle",
+    "Name": "Шэнь Хэ",
+    "UnlockType": 2,
+    "UnlockParameter": 10000063
+  },
+  {
+    "Id": 4501,
+    "Icon": "UI_AvatarIcon_ShenheCostumeDai_Circle",
+    "Name": "Шэнь Хэ: Росы морозных цветов",
+    "UnlockType": 3,
+    "UnlockParameter": 206301
+  },
+  {
+    "Id": 4600,
+    "Icon": "UI_AvatarIcon_Yae_Circle",
+    "Name": "Яэ Мико",
+    "UnlockType": 2,
+    "UnlockParameter": 10000058
+  },
+  {
+    "Id": 4700,
+    "Icon": "UI_AvatarIcon_Ayato_Circle",
+    "Name": "Камисато Аято",
+    "UnlockType": 2,
+    "UnlockParameter": 10000066
+  },
+  {
+    "Id": 4800,
+    "Icon": "UI_AvatarIcon_Yelan_Circle",
+    "Name": "Е Лань",
+    "UnlockType": 2,
+    "UnlockParameter": 10000060
+  },
+  {
+    "Id": 4801,
+    "Icon": "UI_AvatarIcon_YelanCostumeSummer_Circle",
+    "Name": "Е Лань: Банкет безмятежности",
+    "UnlockType": 3,
+    "UnlockParameter": 206001
+  },
+  {
+    "Id": 4900,
+    "Icon": "UI_AvatarIcon_Shinobu_Circle",
+    "Name": "Куки Синобу",
+    "UnlockType": 2,
+    "UnlockParameter": 10000065
+  },
+  {
+    "Id": 5000,
+    "Icon": "UI_AvatarIcon_Heizo_Circle",
+    "Name": "Сиканоин Хэйдзо",
+    "UnlockType": 2,
+    "UnlockParameter": 10000059
+  },
+  {
+    "Id": 5100,
+    "Icon": "UI_AvatarIcon_Collei_Circle",
+    "Name": "Коллеи",
+    "UnlockType": 2,
+    "UnlockParameter": 10000067
+  },
+  {
+    "Id": 5200,
+    "Icon": "UI_AvatarIcon_Tighnari_Circle",
+    "Name": "Тигнари",
+    "UnlockType": 2,
+    "UnlockParameter": 10000069
+  },
+  {
+    "Id": 5300,
+    "Icon": "UI_AvatarIcon_Dori_Circle",
+    "Name": "Дори",
+    "UnlockType": 2,
+    "UnlockParameter": 10000068
+  },
+  {
+    "Id": 5400,
+    "Icon": "UI_AvatarIcon_Candace_Circle",
+    "Name": "Кандакия",
+    "UnlockType": 2,
+    "UnlockParameter": 10000072
+  },
+  {
+    "Id": 5500,
+    "Icon": "UI_AvatarIcon_Cyno_Circle",
+    "Name": "Сайно",
+    "UnlockType": 2,
+    "UnlockParameter": 10000071
+  },
+  {
+    "Id": 5600,
+    "Icon": "UI_AvatarIcon_Nilou_Circle",
+    "Name": "Нилу",
+    "UnlockType": 2,
+    "UnlockParameter": 10000070
+  },
+  {
+    "Id": 5601,
+    "Icon": "UI_AvatarIcon_NilouCostumeFairy_Circle",
+    "Name": "Нилу: Дыхание Сабаа",
+    "UnlockType": 3,
+    "UnlockParameter": 207001
+  },
+  {
+    "Id": 5700,
+    "Icon": "UI_AvatarIcon_Nahida_Circle",
+    "Name": "Нахида",
+    "UnlockType": 2,
+    "UnlockParameter": 10000073
+  },
+  {
+    "Id": 5800,
+    "Icon": "UI_AvatarIcon_Layla_Circle",
+    "Name": "Лайла",
+    "UnlockType": 2,
+    "UnlockParameter": 10000074
+  },
+  {
+    "Id": 5900,
+    "Icon": "UI_AvatarIcon_Faruzan_Circle",
+    "Name": "Фарузан",
+    "UnlockType": 2,
+    "UnlockParameter": 10000076
+  },
+  {
+    "Id": 6000,
+    "Icon": "UI_AvatarIcon_Wanderer_Circle",
+    "Name": "Странник",
+    "UnlockType": 2,
+    "UnlockParameter": 10000075
+  },
+  {
+    "Id": 6100,
+    "Icon": "UI_AvatarIcon_Yaoyao_Circle",
+    "Name": "Яо Яо",
+    "UnlockType": 2,
+    "UnlockParameter": 10000077
+  },
+  {
+    "Id": 6200,
+    "Icon": "UI_AvatarIcon_Alhatham_Circle",
+    "Name": "Аль-Хайтам",
+    "UnlockType": 2,
+    "UnlockParameter": 10000078
+  },
+  {
+    "Id": 6300,
+    "Icon": "UI_AvatarIcon_Dehya_Circle",
+    "Name": "Дэхья",
+    "UnlockType": 2,
+    "UnlockParameter": 10000079
+  },
+  {
+    "Id": 6400,
+    "Icon": "UI_AvatarIcon_Mika_Circle",
+    "Name": "Мика",
+    "UnlockType": 2,
+    "UnlockParameter": 10000080
+  },
+  {
+    "Id": 6500,
+    "Icon": "UI_AvatarIcon_Kaveh_Circle",
+    "Name": "Кавех",
+    "UnlockType": 2,
+    "UnlockParameter": 10000081
+  },
+  {
+    "Id": 6600,
+    "Icon": "UI_AvatarIcon_Baizhuer_Circle",
+    "Name": "Бай Чжу",
+    "UnlockType": 2,
+    "UnlockParameter": 10000082
+  },
+  {
+    "Id": 6700,
+    "Icon": "UI_AvatarIcon_Momoka_Circle",
+    "Name": "Кирара",
+    "UnlockType": 2,
+    "UnlockParameter": 10000061
+  },
+  {
+    "Id": 6701,
+    "Icon": "UI_AvatarIcon_MomokaCostumeErrantry_Circle",
+    "Name": "Кирара: Призрак в сапогах",
+    "UnlockType": 3,
+    "UnlockParameter": 206101
+  },
+  {
+    "Id": 6800,
+    "Icon": "UI_AvatarIcon_Linette_Circle",
+    "Name": "Линетт",
+    "UnlockType": 2,
+    "UnlockParameter": 10000083
+  },
+  {
+    "Id": 6900,
+    "Icon": "UI_AvatarIcon_Liney_Circle",
+    "Name": "Лини",
+    "UnlockType": 2,
+    "UnlockParameter": 10000084
+  },
+  {
+    "Id": 7000,
+    "Icon": "UI_AvatarIcon_Freminet_Circle",
+    "Name": "Фремине",
+    "UnlockType": 2,
+    "UnlockParameter": 10000085
+  },
+  {
+    "Id": 7100,
+    "Icon": "UI_AvatarIcon_Neuvillette_Circle",
+    "Name": "Нёвиллет",
+    "UnlockType": 2,
+    "UnlockParameter": 10000087
+  },
+  {
+    "Id": 7200,
+    "Icon": "UI_AvatarIcon_Wriothesley_Circle",
+    "Name": "Ризли",
+    "UnlockType": 2,
+    "UnlockParameter": 10000086
+  },
+  {
+    "Id": 7300,
+    "Icon": "UI_AvatarIcon_Charlotte_Circle",
+    "Name": "Шарлотта",
+    "UnlockType": 2,
+    "UnlockParameter": 10000088
+  },
+  {
+    "Id": 7400,
+    "Icon": "UI_AvatarIcon_Furina_Circle",
+    "Name": "Фурина",
+    "UnlockType": 2,
+    "UnlockParameter": 10000089
+  },
+  {
+    "Id": 7500,
+    "Icon": "UI_AvatarIcon_Navia_Circle",
+    "Name": "Навия",
+    "UnlockType": 2,
+    "UnlockParameter": 10000091
+  },
+  {
+    "Id": 7600,
+    "Icon": "UI_AvatarIcon_Chevreuse_Circle",
+    "Name": "Шеврёз",
+    "UnlockType": 2,
+    "UnlockParameter": 10000090
+  },
+  {
+    "Id": 7700,
+    "Icon": "UI_AvatarIcon_Gaming_Circle",
+    "Name": "Ка Мин",
+    "UnlockType": 2,
+    "UnlockParameter": 10000092
+  },
+  {
+    "Id": 7800,
+    "Icon": "UI_AvatarIcon_Liuyun_Circle",
+    "Name": "Сянь Юнь",
+    "UnlockType": 2,
+    "UnlockParameter": 10000093
+  },
+  {
+    "Id": 7900,
+    "Icon": "UI_AvatarIcon_Chiori_Circle",
+    "Name": "Тиори",
+    "UnlockType": 2,
+    "UnlockParameter": 10000094
+  },
+  {
+    "Id": 8000,
+    "Icon": "UI_AvatarIcon_Arlecchino_Circle",
+    "Name": "Арлекино",
+    "UnlockType": 2,
+    "UnlockParameter": 10000096
+  },
+  {
+    "Id": 8100,
+    "Icon": "UI_AvatarIcon_Clorinde_Circle",
+    "Name": "Клоринда",
+    "UnlockType": 2,
+    "UnlockParameter": 10000098
+  },
+  {
+    "Id": 8200,
+    "Icon": "UI_AvatarIcon_Sethos_Circle",
+    "Name": "Сетос",
+    "UnlockType": 2,
+    "UnlockParameter": 10000097
+  },
+  {
+    "Id": 8300,
+    "Icon": "UI_AvatarIcon_Sigewinne_Circle",
+    "Name": "Сиджвин",
+    "UnlockType": 2,
+    "UnlockParameter": 10000095
+  },
+  {
+    "Id": 8400,
+    "Icon": "UI_AvatarIcon_Emilie_Circle",
+    "Name": "Эмилия",
+    "UnlockType": 2,
+    "UnlockParameter": 10000099
+  },
+  {
+    "Id": 8500,
+    "Icon": "UI_AvatarIcon_Kachina_Circle",
+    "Name": "Качина",
+    "UnlockType": 2,
+    "UnlockParameter": 10000100
+  },
+  {
+    "Id": 8600,
+    "Icon": "UI_AvatarIcon_Mualani_Circle",
+    "Name": "Муалани",
+    "UnlockType": 2,
+    "UnlockParameter": 10000102
+  },
+  {
+    "Id": 8700,
+    "Icon": "UI_AvatarIcon_Kinich_Circle",
+    "Name": "Кинич",
+    "UnlockType": 2,
+    "UnlockParameter": 10000101
+  },
+  {
+    "Id": 8800,
+    "Icon": "UI_AvatarIcon_Xilonen_Circle",
+    "Name": "Шилонен",
+    "UnlockType": 2,
+    "UnlockParameter": 10000103
+  },
+  {
+    "Id": 8900,
+    "Icon": "UI_AvatarIcon_Olorun_Circle",
+    "Name": "Оророн",
+    "UnlockType": 2,
+    "UnlockParameter": 10000105
+  },
+  {
+    "Id": 9000,
+    "Icon": "UI_AvatarIcon_Chasca_Circle",
+    "Name": "Часка",
+    "UnlockType": 2,
+    "UnlockParameter": 10000104
+  },
+  {
+    "Id": 9100,
+    "Icon": "UI_AvatarIcon_Citlali_Circle",
+    "Name": "Ситлали",
+    "UnlockType": 2,
+    "UnlockParameter": 10000107
+  },
+  {
+    "Id": 9200,
+    "Icon": "UI_AvatarIcon_Mavuika_Circle",
+    "Name": "Мавуика",
+    "UnlockType": 2,
+    "UnlockParameter": 10000106
+  },
+  {
+    "Id": 9300,
+    "Icon": "UI_AvatarIcon_Lanyan_Circle",
+    "Name": "Лань Янь",
+    "UnlockType": 2,
+    "UnlockParameter": 10000108
+  },
+  {
+    "Id": 9400,
+    "Icon": "UI_AvatarIcon_Mizuki_Circle",
+    "Name": "Мидзуки",
+    "UnlockType": 2,
+    "UnlockParameter": 10000109
+  },
+  {
+    "Id": 9500,
+    "Icon": "UI_AvatarIcon_Iansan_Circle",
+    "Name": "Иансан",
+    "UnlockType": 2,
+    "UnlockParameter": 10000110
+  },
+  {
+    "Id": 9600,
+    "Icon": "UI_AvatarIcon_Varesa_Circle",
+    "Name": "Вареса",
+    "UnlockType": 2,
+    "UnlockParameter": 10000111
+  },
+  {
+    "Id": 9700,
+    "Icon": "UI_AvatarIcon_Ifa_Circle",
+    "Name": "Ифа",
+    "UnlockType": 2,
+    "UnlockParameter": 10000113
+  },
+  {
+    "Id": 9800,
+    "Icon": "UI_AvatarIcon_Escoffier_Circle",
+    "Name": "Эскофье",
+    "UnlockType": 2,
+    "UnlockParameter": 10000112
+  },
+  {
+    "Id": 9900,
+    "Icon": "UI_AvatarIcon_Dahlia_Circle",
+    "Name": "Далия",
+    "UnlockType": 2,
+    "UnlockParameter": 10000115
+  },
+  {
+    "Id": 10000,
+    "Icon": "UI_AvatarIcon_SkirkNew_Circle",
+    "Name": "Скирк",
+    "UnlockType": 2,
+    "UnlockParameter": 10000114
+  },
+  {
+    "Id": 10100,
+    "Icon": "UI_AvatarIcon_Ineffa_Circle",
+    "Name": "Инеффа",
+    "UnlockType": 2,
+    "UnlockParameter": 10000116
+  },
+  {
+    "Id": 10200,
+    "Icon": "UI_AvatarIcon_Aino_Circle",
+    "Name": "Айно",
+    "UnlockType": 2,
+    "UnlockParameter": 10000121
+  },
+  {
+    "Id": 10300,
+    "Icon": "UI_AvatarIcon_Lauma_Circle",
+    "Name": "Лаума",
+    "UnlockType": 2,
+    "UnlockParameter": 10000119
+  },
+  {
+    "Id": 10400,
+    "Icon": "UI_AvatarIcon_Flins_Circle",
+    "Name": "Флинс",
+    "UnlockType": 2,
+    "UnlockParameter": 10000120
+  },
+  {
+    "Id": 10500,
+    "Icon": "UI_AvatarIcon_Nefer_Circle",
+    "Name": "Нефер",
+    "UnlockType": 2,
+    "UnlockParameter": 10000122
+  },
+  {
+    "Id": 100010,
+    "Icon": "UI_AvatarIcon_72105_Circle",
+    "Name": "Маска Ханатирусато",
+    "UnlockType": 4,
+    "UnlockParameter": 72105
+  },
+  {
+    "Id": 100020,
+    "Icon": "UI_AvatarIcon_72158_Circle",
+    "Name": "Временная настоятельница святилища Асасэ",
+    "UnlockType": 4,
+    "UnlockParameter": 72158
+  },
+  {
+    "Id": 100030,
+    "Icon": "UI_AvatarIcon_72173_Circle",
+    "Name": "Громовая птица и мальчик",
+    "UnlockType": 4,
+    "UnlockParameter": 72173
+  },
+  {
+    "Id": 100040,
+    "Icon": "UI_AvatarIcon_72177_Circle",
+    "Name": "Дайнити Микоси",
+    "UnlockType": 4,
+    "UnlockParameter": 72177
+  },
+  {
+    "Id": 100050,
+    "Icon": "UI_AvatarIcon_71045_Circle",
+    "Name": "Подпись Чжи Цюн",
+    "UnlockType": 4,
+    "UnlockParameter": 71045
+  },
+  {
+    "Id": 100060,
+    "Icon": "UI_AvatarIcon_73038_Circle",
+    "Name": "Арама",
+    "UnlockType": 4,
+    "UnlockParameter": 73038
+  },
+  {
+    "Id": 100070,
+    "Icon": "UI_AvatarIcon_73055_Circle",
+    "Name": "Джехт и Бенбен",
+    "UnlockType": 4,
+    "UnlockParameter": 73055
+  },
+  {
+    "Id": 100080,
+    "Icon": "UI_AvatarIcon_73220_Circle",
+    "Name": "Матерь джиннов",
+    "UnlockType": 4,
+    "UnlockParameter": 73220
+  },
+  {
+    "Id": 100090,
+    "Icon": "UI_AvatarIcon_73232_Circle",
+    "Name": "Цветочная хранительница",
+    "UnlockType": 4,
+    "UnlockParameter": 73232
+  },
+  {
+    "Id": 100100,
+    "Icon": "UI_AvatarIcon_74007_Circle",
+    "Name": "Рады встретиться",
+    "UnlockType": 4,
+    "UnlockParameter": 74007
+  },
+  {
+    "Id": 100110,
+    "Icon": "UI_AvatarIcon_74004_Circle",
+    "Name": "Анн и Мари-Анн",
+    "UnlockType": 4,
+    "UnlockParameter": 74004
+  },
+  {
+    "Id": 100120,
+    "Icon": "UI_AvatarIcon_74028_Circle",
+    "Name": "Катерпиллер",
+    "UnlockType": 4,
+    "UnlockParameter": 74028
+  },
+  {
+    "Id": 100130,
+    "Icon": "UI_AvatarIcon_74053_Circle",
+    "Name": "Эмблема механизма",
+    "UnlockType": 4,
+    "UnlockParameter": 74053
+  },
+  {
+    "Id": 100140,
+    "Icon": "UI_AvatarIcon_74078_Circle",
+    "Name": "Бесформенное общество",
+    "UnlockType": 4,
+    "UnlockParameter": 74078
+  },
+  {
+    "Id": 100150,
+    "Icon": "UI_AvatarIcon_74085_Circle",
+    "Name": "Пашив!",
+    "UnlockType": 4,
+    "UnlockParameter": 74085
+  },
+  {
+    "Id": 100160,
+    "Icon": "UI_AvatarIcon_71100_Circle",
+    "Name": "Подношение Заветного нефрита",
+    "UnlockType": 4,
+    "UnlockParameter": 71100
+  },
+  {
+    "Id": 100170,
+    "Icon": "UI_AvatarIcon_74196_Circle",
+    "Name": "Господин Осси",
+    "UnlockType": 4,
+    "UnlockParameter": 74196
+  },
+  {
+    "Id": 100180,
+    "Icon": "UI_AvatarIcon_75002_Circle",
+    "Name": "Твой завриан-спутник!",
+    "UnlockType": 4,
+    "UnlockParameter": 75002
+  },
+  {
+    "Id": 100190,
+    "Icon": "UI_AvatarIcon_75048_Circle",
+    "Name": "Последний герой сожжённого города",
+    "UnlockType": 4,
+    "UnlockParameter": 75138
+  },
+  {
+    "Id": 100200,
+    "Icon": "UI_AvatarIcon_75151_Circle",
+    "Name": "Безмолвные раздумья о времени",
+    "UnlockType": 4,
+    "UnlockParameter": 75151
+  },
+  {
+    "Id": 100210,
+    "Icon": "UI_AvatarIcon_75177_Circle",
+    "Name": "Однажды мы встретимся снова",
+    "UnlockType": 4,
+    "UnlockParameter": 75177
+  },
+  {
+    "Id": 100220,
+    "Icon": "UI_AvatarIcon_75230_Circle",
+    "Name": "Учёный, покоривший Пепельное море",
+    "UnlockType": 4,
+    "UnlockParameter": 75230
+  },
+  {
+    "Id": 100230,
+    "Icon": "UI_AvatarIcon_76011_Circle",
+    "Name": "Обратная сторона Морозной Луны",
+    "UnlockType": 4,
+    "UnlockParameter": 76011
+  },
+  {
+    "Id": 100240,
+    "Icon": "UI_AvatarIcon_76003_Circle",
+    "Name": "Неточка",
+    "UnlockType": 4,
+    "UnlockParameter": 76003
+  },
+  {
+    "Id": 200010,
+    "Icon": "UI_AvatarIcon_Activity_01_Circle",
+    "Name": "Активное общение",
+    "UnlockType": 1,
+    "UnlockParameter": 320002
+  },
+  {
+    "Id": 900001,
+    "Icon": "UI_AvatarIcon_MannequinBoy_Circle",
+    "Name": "Аватар Манекена по умолчанию (м)",
+    "UnlockType": 2,
+    "UnlockParameter": 10000117
+  },
+  {
+    "Id": 900002,
+    "Icon": "UI_AvatarIcon_MannequinGirl_Circle",
+    "Name": "Аватар Манекена по умолчанию (ж)",
+    "UnlockType": 2,
+    "UnlockParameter": 10000118
+  },
+  {
+    "Id": 900003,
+    "Icon": "UI_AvatarIcon_Mannequin_Custom_Circle",
+    "Name": "Ошибка данных аватара",
+    "UnlockType": 5,
+    "UnlockParameter": 0
+  },
+  {
+    "Id": 900004,
+    "Icon": "",
+    "Name": "Пользовательский аватар",
+    "UnlockType": 5,
+    "UnlockParameter": 0
+  }
+]

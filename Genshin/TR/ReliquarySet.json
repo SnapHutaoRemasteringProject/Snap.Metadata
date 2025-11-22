@@ -1,0 +1,1049 @@
+[
+  {
+    "SetId": 10001,
+    "EquipAffixId": 210001,
+    "EquipAffixIds": [
+      2100010,
+      2100011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yolcunun Azmi",
+    "Icon": "UI_RelicIcon_10001_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Yüklü Saldırı Kritik Oranını %30 artırır."
+    ]
+  },
+  {
+    "SetId": 10002,
+    "EquipAffixId": 210002,
+    "EquipAffixIds": [
+      2100020,
+      2100021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cesur Yürek",
+    "Icon": "UI_RelicIcon_10002_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Can oranı %50'nin üzerindeki düşmanlara verilen Hasarı %30 artırır."
+    ]
+  },
+  {
+    "SetId": 10003,
+    "EquipAffixId": 210003,
+    "EquipAffixIds": [
+      2100030,
+      2100031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Savunmacı İradesi",
+    "Icon": "UI_RelicIcon_10003_4",
+    "Descriptions": [
+      "+%30 Savunma.",
+      "Bunu kuşanan karakterin Element Direnci, grubunda bulunan her farklı element için %30 artar."
+    ]
+  },
+  {
+    "SetId": 10004,
+    "EquipAffixId": 210004,
+    "EquipAffixIds": [
+      2100040,
+      2100041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Küçük Mucize",
+    "Icon": "UI_RelicIcon_10004_4",
+    "Descriptions": [
+      "Tüm Element Dirençleri %20 artar.",
+      "Alınan element Hasarı, 10 saniyeliğine karşılık gelen Element Direncini %30 artırır. 10 saniyede bir uygulanabilir."
+    ]
+  },
+  {
+    "SetId": 10005,
+    "EquipAffixId": 210005,
+    "EquipAffixIds": [
+      2100050,
+      2100051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Vahşi Savaşçı",
+    "Icon": "UI_RelicIcon_10005_4",
+    "Descriptions": [
+      "+%12 Kritik Oranı.",
+      "Can %70'in altındayken Kritik Oranını ek %24 artırır."
+    ]
+  },
+  {
+    "SetId": 10006,
+    "EquipAffixId": 210006,
+    "EquipAffixIds": [
+      2100060,
+      2100061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Dövüş Ustası",
+    "Icon": "UI_RelicIcon_10006_4",
+    "Descriptions": [
+      "+%15 Normal ve Yüklü Saldırı Hasarı.",
+      "Element Becerisi kullandıktan sonra, 8 saniyeliğine Normal Saldırı ve Yüklü Saldırı Hasarını %25 artırır."
+    ]
+  },
+  {
+    "SetId": 10007,
+    "EquipAffixId": 210007,
+    "EquipAffixIds": [
+      2100070,
+      2100071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Eğitmen",
+    "Icon": "UI_RelicIcon_10007_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Bir Element Tepkimesi tetiklendikten sonra, 8 saniyeliğine tüm grup üyelerinin Element Ustalığını 120 artırır."
+    ]
+  },
+  {
+    "SetId": 10008,
+    "EquipAffixId": 210008,
+    "EquipAffixIds": [
+      2100080,
+      2100081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kumarbaz",
+    "Icon": "UI_RelicIcon_10008_4",
+    "Descriptions": [
+      "Element Becerisi Hasarını %20 artırır.",
+      "Bir düşman yendiğinde %100 ihtimalle Element Becerisi Bekleme Süresi sıfırlanır. 15 saniyede bir uygulanabilir."
+    ]
+  },
+  {
+    "SetId": 10009,
+    "EquipAffixId": 210009,
+    "EquipAffixIds": [
+      2100090,
+      2100091
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sürgün",
+    "Icon": "UI_RelicIcon_10009_4",
+    "Descriptions": [
+      "+%20 Enerji Yüklemesi.",
+      "Bir Element Patlaması kullanıldığında, ekipmanı kuşanan karakter hariç tüm grup üyeleri için 6 saniye boyunca 2 saniyede bir 2 Enerji yenilenir. Bu etki birikemez."
+    ]
+  },
+  {
+    "SetId": 10010,
+    "EquipAffixId": 210010,
+    "EquipAffixIds": [
+      2100100,
+      2100101
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Maceracı",
+    "Icon": "UI_RelicIcon_10010_4",
+    "Descriptions": [
+      "Maks. Can 1.000 artar.",
+      "Bir sandık açmak Maks. Canın %30'unu 5 saniyede yeniler."
+    ]
+  },
+  {
+    "SetId": 10011,
+    "EquipAffixId": 210011,
+    "EquipAffixIds": [
+      2100110,
+      2100111
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Bahtı Açık",
+    "Icon": "UI_RelicIcon_10011_4",
+    "Descriptions": [
+      "Savunma 100 artar.",
+      "Mora toplamak 300 Can yeniler."
+    ]
+  },
+  {
+    "SetId": 10012,
+    "EquipAffixId": 210012,
+    "EquipAffixIds": [
+      2100120,
+      2100121
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Alim",
+    "Icon": "UI_RelicIcon_10012_4",
+    "Descriptions": [
+      "+%20 Enerji Yüklemesi.",
+      "Element Parçacıkları veya Küreleri kazanmak, bir yay veya katalizör kuşanan tüm grup üyelerine 3 Enerji verir. 3 saniyede bir uygulanabilir."
+    ]
+  },
+  {
+    "SetId": 10013,
+    "EquipAffixId": 210013,
+    "EquipAffixIds": [
+      2100130,
+      2100131
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gezgin Doktor",
+    "Icon": "UI_RelicIcon_10013_4",
+    "Descriptions": [
+      "Alınan iyileştirmeyi %20 artırır.",
+      "Element Patlaması kullanmak %20 Can yeniler."
+    ]
+  },
+  {
+    "SetId": 14001,
+    "EquipAffixId": 214001,
+    "EquipAffixIds": [
+      2140010,
+      2140011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kış Gezgini",
+    "Icon": "UI_RelicIcon_14001_4",
+    "Descriptions": [
+      "+%15 Buz Hasarı Bonusu.",
+      "Bir karakter, Buzdan etkilenen bir düşmana saldırdığında, karakterin Kritik Oranı %20 artar. Düşman Dondurulmuş durumdaysa Kritik Oranı %20 daha artar."
+    ]
+  },
+  {
+    "SetId": 14002,
+    "EquipAffixId": 214002,
+    "EquipAffixIds": [
+      2140020,
+      2140021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yıldırım Terbiyecisi",
+    "Icon": "UI_RelicIcon_14002_4",
+    "Descriptions": [
+      "Elektrik Direnci %40 artar.",
+      "Elektrikten etkilenen düşmanlara verilen Hasarı %35 artırır."
+    ]
+  },
+  {
+    "SetId": 14003,
+    "EquipAffixId": 214003,
+    "EquipAffixIds": [
+      2140030,
+      2140031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Lavdagezen",
+    "Icon": "UI_RelicIcon_14003_4",
+    "Descriptions": [
+      "Ateş Direnci %40 artar.",
+      "Ateşten etkilenen düşmanlara verilen Hasarı %35 artırır."
+    ]
+  },
+  {
+    "SetId": 14004,
+    "EquipAffixId": 214004,
+    "EquipAffixIds": [
+      2140040,
+      2140041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Hanımın Sevdiceği",
+    "Icon": "UI_RelicIcon_14004_4",
+    "Descriptions": [
+      "+%15 Karakter İyileştirme Verimi.",
+      "Bir Element Becerisi veya Patlaması kullanıldığında 10 saniyeliğine tüm grup üyelerinin aldığı iyileştirme %20 artar."
+    ]
+  },
+  {
+    "SetId": 15001,
+    "EquipAffixId": 215001,
+    "EquipAffixIds": [
+      2150010,
+      2150011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gladyatörün Son Yemini",
+    "Icon": "UI_RelicIcon_15001_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Bu yadigar setini kuşanan karakter bir Kılıç, Çift Elli Kılıç veya Mızrak kullandığında Normal Saldırı Hasarı %35 artar."
+    ]
+  },
+  {
+    "SetId": 15002,
+    "EquipAffixId": 215002,
+    "EquipAffixIds": [
+      2150020,
+      2150021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yeşil Gölge",
+    "Icon": "UI_RelicIcon_15002_4",
+    "Descriptions": [
+      "+%15 Rüzgar Hasarı Bonusu.",
+      "Girdap Hasarını %60 artırır. Girdapta kullanılan elemente karşı 10 saniyeliğine düşmanın Element Direncini %40 azaltır."
+    ]
+  },
+  {
+    "SetId": 15003,
+    "EquipAffixId": 215003,
+    "EquipAffixIds": [
+      2150030,
+      2150031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Göçebe Kumpanyası",
+    "Icon": "UI_RelicIcon_15003_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Karakter bir Katalizör veya Yay kullanıyorsa Yüklü Saldırı Hasarını %35 artırır."
+    ]
+  },
+  {
+    "SetId": 15004,
+    "EquipAffixId": 215004,
+    "EquipAffixIds": [
+      2150040,
+      2150041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Buzul ve Kar",
+    "Icon": "UI_RelicIcon_15004_4",
+    "Descriptions": [
+      "+%15 Buz Hasarı Bonusu.",
+      "Süper İletim Hasarını %100 artırır. Erime Hasarını %15 artırır. Bir Element Patlaması kullanıldığında 10 saniyeliğine Buz Hasarı Bonusu %30 artar."
+    ]
+  },
+  {
+    "SetId": 15005,
+    "EquipAffixId": 215005,
+    "EquipAffixIds": [
+      2150050,
+      2150051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yıldırım Öfkesi",
+    "Icon": "UI_RelicIcon_15005_4",
+    "Descriptions": [
+      "+%15 Elektrik Hasarı Bonusu.",
+      "Yüksek Voltaj, Elektrik Yüklü, Süper İletim ve Aşırı Çiçeklenme ile verilen Hasarı %40 artırır. Ayrıca Şiddetlenme ile verilen Hasar Bonusu %20, Ay Yüklü ile verilen Hasar %20 artar. Hızlanma veya yukarıda belirtilen Element Tepkimeleri tetiklendiğinde Element Becerisinin Bekleme Süresi 1 saniye azalır. Bu etki 0,8 saniyede bir tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15006,
+    "EquipAffixId": 215006,
+    "EquipAffixIds": [
+      2150060,
+      2150061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kızıl Alev Cadısı",
+    "Icon": "UI_RelicIcon_15006_4",
+    "Descriptions": [
+      "+%15 Ateş Hasarı Bonusu.",
+      "Yüksek Voltaj, Yanma ve Filizlenme Hasarını %40 artırır. Buharlaşma ve Erime Hasarını %15 artırır. Element Becerisi kullanıldığında 10 saniyeliğine 2 Parçalı Set Bonusu başlangıç değerinden %50 artar. 3 kademeye kadar birikir."
+    ]
+  },
+  {
+    "SetId": 15007,
+    "EquipAffixId": 215007,
+    "EquipAffixIds": [
+      2150070,
+      2150071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Asil Minnettarlık",
+    "Icon": "UI_RelicIcon_15007_4",
+    "Descriptions": [
+      "+%20 Element Patlaması Hasarı.",
+      "Bir Element Patlaması kullanıldığında tüm grup üyelerinin 12 saniyeliğine Saldırısı %20 artar. Bu etki birikemez."
+    ]
+  },
+  {
+    "SetId": 15008,
+    "EquipAffixId": 215008,
+    "EquipAffixIds": [
+      2150080,
+      2150081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kanlı Şövalyelik",
+    "Icon": "UI_RelicIcon_15008_4",
+    "Descriptions": [
+      "+%25 Fiziksel Hasar.",
+      "Bir düşmanı yendikten sonra, 10 saniyeliğine Yüklü Saldırı Hasarını %50 artırır ve Dayanıklılık maliyetini 0'a düşürür."
+    ]
+  },
+  {
+    "SetId": 15009,
+    "EquipAffixId": 215009,
+    "EquipAffixIds": [
+      2150090
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Aydınlanma Duası",
+    "Icon": "UI_RelicIcon_15009_3",
+    "Descriptions": [
+      "Ateş etkisinde kalma süresini %40 kısaltır."
+    ]
+  },
+  {
+    "SetId": 15010,
+    "EquipAffixId": 215010,
+    "EquipAffixIds": [
+      2150100
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Kader Duası",
+    "Icon": "UI_RelicIcon_15010_3",
+    "Descriptions": [
+      "Su etkisinde kalma süresini %40 kısaltır."
+    ]
+  },
+  {
+    "SetId": 15011,
+    "EquipAffixId": 215011,
+    "EquipAffixIds": [
+      2150110
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Bilgelik Duası",
+    "Icon": "UI_RelicIcon_15011_3",
+    "Descriptions": [
+      "Elektrik etkisinde kalma süresini %40 kısaltır."
+    ]
+  },
+  {
+    "SetId": 15012,
+    "EquipAffixId": 215012,
+    "EquipAffixIds": [
+      2150120
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Gökkubbe Duası",
+    "Icon": "UI_RelicIcon_15012_3",
+    "Descriptions": [
+      "Rüzgar etkisinde kalma süresini %40 kısaltır."
+    ]
+  },
+  {
+    "SetId": 15013,
+    "EquipAffixId": 215013,
+    "EquipAffixIds": [
+      2150130
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Bahar Duası",
+    "Icon": "UI_RelicIcon_15013_3",
+    "Descriptions": [
+      "Buz etkisinde kalma süresini %40 kısaltır."
+    ]
+  },
+  {
+    "SetId": 15014,
+    "EquipAffixId": 215014,
+    "EquipAffixIds": [
+      2150140,
+      2150141
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Arkaik Taşlar",
+    "Icon": "UI_RelicIcon_15014_4",
+    "Descriptions": [
+      "+%15 Toprak Hasarı Bonusu.",
+      "Kristalleştirme Tepkimesi ile bir Element Parçası elde edildiğinde, 10 saniyeliğine tüm grup üyeleri o element için %35 Hasar Bonusu kazanır. Bu yöntemle aynı anda yalnızca bir tür Element Hasarı Bonusu kazanılabilir."
+    ]
+  },
+  {
+    "SetId": 15015,
+    "EquipAffixId": 215015,
+    "EquipAffixIds": [
+      2150150,
+      2150151
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Geri Dönen Göktaşı",
+    "Icon": "UI_RelicIcon_15015_4",
+    "Descriptions": [
+      "Kalkan Gücünü %35 artırır.",
+      "Bir kalkan tarafından korunurken, Normal ve Yüklü Saldırı Hasarı ek olarak %40 artar."
+    ]
+  },
+  {
+    "SetId": 15016,
+    "EquipAffixId": 215016,
+    "EquipAffixIds": [
+      2150160,
+      2150161
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Derinliğin Kalbi",
+    "Icon": "UI_RelicIcon_15016_4",
+    "Descriptions": [
+      "+%15 Su Hasarı Bonusu.",
+      "Element Becerisi kullandıktan sonra, 15 saniyeliğine Normal Saldırı ve Yüklü Saldırı Hasarı %30 artar."
+    ]
+  },
+  {
+    "SetId": 15017,
+    "EquipAffixId": 215017,
+    "EquipAffixIds": [
+      2150170,
+      2150171
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Taşordu'nun Azmi",
+    "Icon": "UI_RelicIcon_15017_4",
+    "Descriptions": [
+      "+%20 Can.",
+      "Bir Element Becerisi bir düşmana isabet ettiğinde, 3 saniye boyunca çevredeki tüm grup üyelerinin Saldırısı %20 ve Kalkan Güçleri %30 artar. Bu etki 0,5 saniyede bir uygulanabilir. Bu yadigar setini kuşanan karakter savaş alanında olmasa bile bu etki tetiklenir."
+    ]
+  },
+  {
+    "SetId": 15018,
+    "EquipAffixId": 215018,
+    "EquipAffixIds": [
+      2150180,
+      2150181
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sönük Alev",
+    "Icon": "UI_RelicIcon_15018_4",
+    "Descriptions": [
+      "Fiziksel Hasar %25 artar.",
+      "Bir Element Becerisi bir düşmana isabet ettiğinde, 7 saniyeliğine Saldırı %9 artar. Bu etki 2 kademeye kadar birikir ve 0,3 saniyede bir tetiklenebilir. 2 kademeye ulaşıldığında, 2'li set etkisi %100 artar."
+    ]
+  },
+  {
+    "SetId": 15019,
+    "EquipAffixId": 215019,
+    "EquipAffixIds": [
+      2150190,
+      2150191
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Shimenawa'nın Hatırası",
+    "Icon": "UI_RelicIcon_15019_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Bir Element Becerisi kullanılırken, karakter 15 ve üzeri Enerjiye sahipse 15 Enerji kaybeder ve 10 saniyeliğine Normal/Yüklü/Havadan Saldırı Hasarı %50 artar. Bu süre boyunca aynı etki tekrar tetiklenemez."
+    ]
+  },
+  {
+    "SetId": 15020,
+    "EquipAffixId": 215020,
+    "EquipAffixIds": [
+      2150200,
+      2150201
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Parçalanan Kader Amblemi",
+    "Icon": "UI_RelicIcon_15020_4",
+    "Descriptions": [
+      "+%20 Enerji Yüklemesi.",
+      "Element Patlaması Hasarı, Enerji Yüklemesinin %25'i kadar artar. Bu yöntemle maksimum %75 Hasar bonusu elde edilebilir."
+    ]
+  },
+  {
+    "SetId": 15021,
+    "EquipAffixId": 215021,
+    "EquipAffixIds": [
+      2150210,
+      2150211
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Bereketli Rüyaların Hatıraları",
+    "Icon": "UI_RelicIcon_15021_4",
+    "Descriptions": [
+      "+%30 Savunma.",
+      "Bu Yadigar setini kuşanan bir karakter, aşağıdaki durumlarda Merak etkisi kazanır: Savaş alanındayken, karakter düşmanı bir Toprak saldırısıyla vurursa 1 kademe kazanır, 0,3 saniyede bir defa tetiklenebilir. Karakter savaş alanında değilken, her 3 saniyede 1 kademe kazanır. 4 kademeye kadar Merak birikebilir, her bir kademe %6 Savunma ve %6 Toprak Hasar Bonusu kazandırır. Bir Merak kademesi kazanılmadan 6 saniye geçtiğinde, 1 kademe kaybedilir."
+    ]
+  },
+  {
+    "SetId": 15022,
+    "EquipAffixId": 215022,
+    "EquipAffixIds": [
+      2150220,
+      2150221
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Okyanus Renkli İstiridye",
+    "Icon": "UI_RelicIcon_15022_4",
+    "Descriptions": [
+      "+%15 İyileştirme Bonusu.",
+      "Bu yadigar setini kuşanan karakter gruptaki bir karakteri iyileştirdiğinde, 3 saniyeliğine bir Deniz Köpüğü görünür, iyileştirmeyle elde edilen Can miktarını toplar (fazlalık iyileştirme miktarı dahil). Bu sürenin sonunda Deniz Köpüğü patlayarak çevredeki düşmanlara toplam iyileştirmenin %90'ı kadar Hasar verir. (Bu Hasar, Elektrik Yükleme ve Süper İletim gibi Tepkimelere benzer şekilde hesaplanır ama Element Ustalığı, Karakter Seviyesi veya Tepkime Hasarı Bonuslarından etkilenmez). Her 3,5 saniyede bir sadece bir tane Deniz Köpüğü oluşturulabilir. Her Deniz Köpüğü 30.000 Cana kadar toplayabilir (fazlalık iyileştirme miktarı dahil). Aynı anda sadece bir tane etkin Deniz Köpüğü olabilir. Yadigar setini kullanan karakter savaş alanında olmasa bile bu etki tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15023,
+    "EquipAffixId": 215023,
+    "EquipAffixIds": [
+      2150230,
+      2150231
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Öbür Dünya Zincifresi",
+    "Icon": "UI_RelicIcon_15023_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Karakter bir Element Patlaması kullandıktan sonra Saklı Işık etkisini kazanır ve 16 saniyeliğine Saldırısı %8 artar. Karakterin Canı azaldığında Saldırısı ek olarak %10 artar. Bu ek artış maksimum 4 defa gerçekleşebilir. Bu etki 0,8 saniyede bir tetiklenebilir ve etki, karakter alandan ayrıldığında kaybolur. Saklı Işık etkisi devredeyken bir Element Patlaması tekrar kullanıldığında ilk Saklı Işık etkisi kaybolur."
+    ]
+  },
+  {
+    "SetId": 15024,
+    "EquipAffixId": 215024,
+    "EquipAffixIds": [
+      2150240,
+      2150241
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Adağın Yankısı",
+    "Icon": "UI_RelicIcon_15024_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Normal Saldırılar düşmana vurduğunda %36 ihtimalle Vadi Ayinini tetikler ve Normal Saldırı Hasarını, Saldırının %70'i oranında artırır. Bu etki bir Normal Saldırı Hasar verdikten 0,05 saniye sonra kaybolur. Bir Normal Saldırı, Vadi Ayinini tetiklemezse bir sonraki seferde tetikleme ihtimali %20 artar. Bu tetiklenme 0,2 saniyede bir gerçekleşebilir."
+    ]
+  },
+  {
+    "SetId": 15025,
+    "EquipAffixId": 215025,
+    "EquipAffixIds": [
+      2150250,
+      2150251
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Derin Orman Hatıraları",
+    "Icon": "UI_RelicIcon_15025_4",
+    "Descriptions": [
+      "+%15 Doğa Hasarı Bonusu.",
+      "Element Becerileri veya Patlamaları düşmana isabet ettiğinde, 8 saniyeliğine hedefin Doğa Direnci %30 azalır. Bu etki, karakter savaş alanında olmasa da tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15026,
+    "EquipAffixId": 215026,
+    "EquipAffixIds": [
+      2150260,
+      2150261
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yaldızlı Rüyalar",
+    "Icon": "UI_RelicIcon_15026_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Bir Element Tepkimesi tetiklendikten sonraki 8 saniye boyunca bunu kuşanan karakter, gruptaki diğer karakterlerin Element Türlerine göre güçlendirmeler elde eder. Kuşanan karakterle aynı Element Türüne sahip olan her bir grup üyesi için Saldırı %14 artarken Element Türü farklı olan her bir grup üyesi için Element Ustalığı 50 artar. Bu güçlendirmeler en fazla 3 karakteri kapsar. Bu etki her 8 saniyede bir tetiklenebilir. Bunu kuşanan karakter savaş alanında olmasa bile etkilerini tetikleyebilir."
+    ]
+  },
+  {
+    "SetId": 15027,
+    "EquipAffixId": 215027,
+    "EquipAffixIds": [
+      2150270,
+      2150271
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Çöl Konağı Günlükleri",
+    "Icon": "UI_RelicIcon_15027_4",
+    "Descriptions": [
+      "+%15 Rüzgar Hasarı Bonusu.",
+      "Yüklü Saldırı bir düşmana isabet ettiğinde 15 saniyeliğine bunu kuşanan karakterin Normal Saldırı Hızı %10 artarken Normal, Yüklü ve Havadan Saldırı Hasarı %40 artar."
+    ]
+  },
+  {
+    "SetId": 15028,
+    "EquipAffixId": 215028,
+    "EquipAffixIds": [
+      2150280,
+      2150281
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kayıp Cennet Çiçeği",
+    "Icon": "UI_RelicIcon_15028_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Kuşanan karakterin Çiçeklenme, Aşırı Çiçeklenme ve Filizlenme tepkimelerinin Hasarı %40 artar, ayrıca Ay Çiçeklenmesi tepkimesi Hasarı %10 artar. Buna ek olarak kuşanan karakter Çiçeklenme, Aşırı Çiçeklenme, Ay Çiçeklenmesi veya Filizlenme tepkimelerini tetiklerse yukarıdaki etkilere ek olarak %25 artış daha kazanır. Bu etkinin her bir kademesi 10 saniye sürer. Aynı anda 4 kademeye kadar birikebilir. Bu etki her bir saniyede bir defa tetiklenebilir. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15029,
+    "EquipAffixId": 215029,
+    "EquipAffixIds": [
+      2150290,
+      2150291
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Nergisin Rüyası",
+    "Icon": "UI_RelicIcon_15029_4",
+    "Descriptions": [
+      "+%15 Su Hasarı Bonusu.",
+      "Normal, Yüklü veya Havadan Saldırılar, Element Becerileri veya Element Patlamaları, bir düşmana isabet ettiğinde 8 saniyeliğine 1 kademe Nergisin Yansıması verir. 1, 2 veya 3 ve üzeri Nergisin Yansıması kademesi etkinken Saldırı %7/%16/%25 ve Su Hasarı Bonusu %4/%9/%15 artar. Normal, Yüklü veya Havadan Saldırılar, Element Becerileri ve Element Patlamaları ile oluşturulan Nergisin Yansıması kademeleri birbirlerinden bağımsız sayılır."
+    ]
+  },
+  {
+    "SetId": 15030,
+    "EquipAffixId": 215030,
+    "EquipAffixIds": [
+      2150300,
+      2150301
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Vourukasha'nın Parıltısı",
+    "Icon": "UI_RelicIcon_15030_4",
+    "Descriptions": [
+      "+%20 Can.",
+      "Element Becerisi ve Element Patlaması Hasarı %10 artar. Kuşanan karakter Hasar aldığında bu Hasar Bonusu 5 saniyeliğine %80 artar. Bu etki 5 kademeye kadar birikir. Her kademenin süresi birbirinden bağımsızdır. Bu etkiler, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15031,
+    "EquipAffixId": 215031,
+    "EquipAffixIds": [
+      2150310,
+      2150311
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Mareşose Avcısı",
+    "Icon": "UI_RelicIcon_15031_4",
+    "Descriptions": [
+      "+%15 Normal ve Yüklü Saldırı Hasarı.",
+      "Mevcut Can arttığında veya azaldığında 5 saniyeliğine Kritik Oranı %12 artar. En fazla 3 kademe birikir."
+    ]
+  },
+  {
+    "SetId": 15032,
+    "EquipAffixId": 215032,
+    "EquipAffixIds": [
+      2150320,
+      2150321
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Altın Kumpanya",
+    "Icon": "UI_RelicIcon_15032_4",
+    "Descriptions": [
+      "Element Becerisi Hasarını %20 artırır.",
+      "Element Becerisi Hasarını %25 artırır. Ek olarak, karakter savaş alanında değilken Element Becerisi Hasarı %25 daha artar. Bu etki, karakter savaş alanına geldikten 2 saniye sonra kaybolur."
+    ]
+  },
+  {
+    "SetId": 15033,
+    "EquipAffixId": 215033,
+    "EquipAffixIds": [
+      2150330,
+      2150331
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Geçmiş Günlerin Şarkısı",
+    "Icon": "UI_RelicIcon_15033_4",
+    "Descriptions": [
+      "+%15 İyileştirme Bonusu.",
+      "Kuşanan karakter, bir grup üyesini iyileştirdiğinde 6 saniyeliğine Hasret etkisi oluşur ve toplam iyileştirme miktarı kaydedilir (fazlalık iyileştirme miktarı dahil). Etki süresi sona erdiğinde Hasret etkisi \"Geçmiş Günlerin Dalgaları\" etkisine dönüşür. Aktif grup üyesi bir düşmana Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması ile saldırdığında verilen Hasar, Hasret etkisiyle kaydedilen toplam iyileştirme miktarının %8'i kadar artar. \"Geçmiş Günlerin Dalgaları\" etkisi, 5 defa etkili olduğunda veya 10sn sonra kaldırılır. Tek bir Hasret etkisi en fazla 15.000 iyileştirme kaydeder ve aynı anda sadece bir tane var olabilir ancak kuşanan birden fazla karakter varsa hepsinin iyileştirmelerini kaydedebilir. Hazırdaki kuşanan karakterler de bu etkiyi tetikleyebilir."
+    ]
+  },
+  {
+    "SetId": 15034,
+    "EquipAffixId": 215034,
+    "EquipAffixIds": [
+      2150340,
+      2150341
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yankılı Ormanda Gece Fısıltısı",
+    "Icon": "UI_RelicIcon_15034_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Bir Element Becerisi kullandıktan sonra 10 saniyeliğine %20 Toprak Hasarı Bonusu kazanılır. Kristalleşme tepkimesinden gelen bir kalkan mevcutsa bu etki %150 artar. Bu ek artış, kalkan etkisini kaybettikten 1sn sonra kaybolur."
+    ]
+  },
+  {
+    "SetId": 15035,
+    "EquipAffixId": 215035,
+    "EquipAffixIds": [
+      2150350,
+      2150351
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Armonik İlham Parçası",
+    "Icon": "UI_RelicIcon_15035_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Hayat Bağı değeri arttığında veya azaldığında 6 saniyeliğine bu karakterin verdiği Hasar %18 artar. 3 kademeye kadar birikir."
+    ]
+  },
+  {
+    "SetId": 15036,
+    "EquipAffixId": 215036,
+    "EquipAffixIds": [
+      2150360,
+      2150361
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Yarım Kalan Rüya",
+    "Icon": "UI_RelicIcon_15036_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Savaş alanından ayrıldıktan 3sn sonra verilen Hasar %50 artar. Savaş sırasında 6 saniyeden daha uzun süre yakınlarda Yanma etkisinde bir düşman olmadığında Hasar Bonusu %0 olana kadar saniyede %10 azalır. Yanma etkisinde bir düşman varsa Hasar Bonusu %50'ye ulaşana kadar saniyede %10 artar. Bu etki, karakter savaş alanında olmasa da tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15037,
+    "EquipAffixId": 215037,
+    "EquipAffixIds": [
+      2150370,
+      2150371
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kül Şehir Kahramanının Parşömeni",
+    "Icon": "UI_RelicIcon_15037_4",
+    "Descriptions": [
+      "Yakındaki bir grup üyesi bir Gece Ruhu Patlaması tetiklediğinde kuşanan karakter 6 Element Enerjisi yeniler.",
+      "Kuşanan karakter kendi Element Türünü içeren bir Element Tepkimesi tetiklediğinde 15 saniyeliğine yakındaki tüm grup üyeleri, tepkimeyle doğrudan ilişkili Element Türleri için %12 Element Hasarı Bonusu kazanır. Kuşanan karakter bu etkiyi tetiklediğinde Gece Ruhunun Lütfu durumundaysa yakındaki tüm grup üyeleri 20 saniyeliğine tepkimeyle doğrudan ilişkili Element Türleri için ilave %28 Element Hasarı Bonusu daha kazanır. Bu etki, karakter savaş alanında değilken de tetiklenebilir. Aynı ada sahip Yadigar Setlerinden gelen Hasar Bonusları birikmez."
+    ]
+  },
+  {
+    "SetId": 15038,
+    "EquipAffixId": 215038,
+    "EquipAffixIds": [
+      2150380,
+      2150381
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Obsidiyen Kodeks",
+    "Icon": "UI_RelicIcon_15038_4",
+    "Descriptions": [
+      "Kuşanan karakter Gece Ruhunun Lütfu durumundayken ve savaş alanındayken verdiği Hasar %15 artar.",
+      "Kuşanan karakter savaş alanındayken 1 Gece Ruhu puanı tükettiğinde 6 saniyeliğine Kritik Oranı %40 artar. Bu etki her saniyede bir tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15039,
+    "EquipAffixId": 215039,
+    "EquipAffixIds": [
+      2150390,
+      2150391
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Uzun Gecenin Yemini",
+    "Icon": "UI_RelicIcon_15039_4",
+    "Descriptions": [
+      "Havadan Saldırı Hasarı %25 artar.",
+      "Kuşanan karakterin Havadan Saldırısı/Yüklü Saldırısı/Element Becerisi bir düşmana isabet ettiğinde 1/2/2 kademe \"Ebedi İhtişam\" kazanır. Havadan Saldırılar, Yüklü Saldırılar veya Element Becerileri bu etkiyi her 1 saniyede bir tetikleyebilir. Ebedi İhtişam: 6 saniyeliğine Havadan Saldırı Hasarı %15 artar. 5 kademeye kadar birikir. Her kademenin süresi birbirinden bağımsızdır."
+    ]
+  },
+  {
+    "SetId": 15040,
+    "EquipAffixId": 215040,
+    "EquipAffixIds": [
+      2150400,
+      2150401
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Derin Geçitlerin Sonu",
+    "Icon": "UI_RelicIcon_15040_4",
+    "Descriptions": [
+      "+%15 Buz Hasarı Bonusu.",
+      "Kuşanan karakterin Element Enerjisi 0 olduğunda Normal Saldırı Hasarı ve Element Patlaması Hasarı %60 artar. Kuşanan karakter Normal Saldırı Hasarı verdiğinde Element Patlaması Hasarı bonusu 6 saniyeliğine kaldırılır. Kuşanan karakter Element Patlaması Hasarı verdiğinde Normal Saldırı Hasarı bonusu 6 saniyeliğine kaldırılır. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+    ]
+  },
+  {
+    "SetId": 15041,
+    "EquipAffixId": 215041,
+    "EquipAffixIds": [
+      2150410,
+      2150411
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gökyüzü Duvağının Açıldığı Gece",
+    "Icon": "UI_RelicIcon_15041_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Yakındaki grup üyeleri Ay Tepkimeleri tetiklediğinde kuşanan karakter alandaysa 4sn boyunca Ay Parıltısı: Niyet etkisi kazanır: Ay Sembolü, İlk Parıltı/Yükselen Parıltı olduğunda 4sn boyunca Kritik Oranı %15/%30 artar. Tüm grup üyelerinin Ay Tepkimesi Hasarı, üyelerin sahip olduğu farklı her Ay Parıltısı etkisi için %10 artar. Ay Parıltısı etkileri birikmez."
+    ]
+  },
+  {
+    "SetId": 15042,
+    "EquipAffixId": 215042,
+    "EquipAffixIds": [
+      2150420,
+      2150421
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "İpeksi Ayın Serenadı",
+    "Icon": "UI_RelicIcon_15042_4",
+    "Descriptions": [
+      "+%20 Enerji Yüklemesi.",
+      "Element Hasarı verildiğinde 8sn boyunca Ay Parıltısı: Adanmışlık etkisi kazanılır: Ay Sembolü İlk Parıltı/Yükselen Parıltı olduğunda tüm grup üyelerinin Element Ustalığı 60/120 artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir. Tüm grup üyelerinin Ay Tepkimesi Hasarı, üyelerin sahip olduğu farklı her Ay Parıltısı etkisi için %10 artar. Ay Parıltısı etkileri birikmez."
+    ]
+  }
+]

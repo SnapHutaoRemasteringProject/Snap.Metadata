@@ -1,0 +1,1049 @@
+[
+  {
+    "SetId": 10001,
+    "EquipAffixId": 210001,
+    "EquipAffixIds": [
+      2100010,
+      2100011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Risoluzione del viandante",
+    "Icon": "UI_RelicIcon_10001_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "Aumenta il tasso di CRIT dell'attacco caricato di un 30%."
+    ]
+  },
+  {
+    "SetId": 10002,
+    "EquipAffixId": 210002,
+    "EquipAffixIds": [
+      2100020,
+      2100021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cuore coraggioso",
+    "Icon": "UI_RelicIcon_10002_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "Aumenta di un 30% i DAN contro gli avversari con oltre un 50% dei PS."
+    ]
+  },
+  {
+    "SetId": 10003,
+    "EquipAffixId": 210003,
+    "EquipAffixIds": [
+      2100030,
+      2100031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Volontà del difensore",
+    "Icon": "UI_RelicIcon_10003_4",
+    "Descriptions": [
+      "DIF +30%.",
+      "Per ogni personaggio di tipo elementale diverso nel tuo gruppo, ottieni un aumento di un 30% della RES per ciascun elemento corrispondente."
+    ]
+  },
+  {
+    "SetId": 10004,
+    "EquipAffixId": 210004,
+    "EquipAffixIds": [
+      2100040,
+      2100041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Miracolo",
+    "Icon": "UI_RelicIcon_10004_4",
+    "Descriptions": [
+      "RES a tutti gli elementi +20%.",
+      "#I DAN elementali subiti aumentano la RES elementale corrispondente di un 30% per 10{NON_BREAK_SPACE}s. Si può verificare una sola volta ogni 10{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10005,
+    "EquipAffixId": 210005,
+    "EquipAffixIds": [
+      2100050,
+      2100051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Berserker",
+    "Icon": "UI_RelicIcon_10005_4",
+    "Descriptions": [
+      "Tasso di CRIT +12%.",
+      "Quando i PS sono inferiori a un 70%, il tasso di CRIT aumenta di un ulteriore 24%."
+    ]
+  },
+  {
+    "SetId": 10006,
+    "EquipAffixId": 210006,
+    "EquipAffixIds": [
+      2100060,
+      2100061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Marzialista",
+    "Icon": "UI_RelicIcon_10006_4",
+    "Descriptions": [
+      "DAN da attacchi normali e caricati +15%.",
+      "#Dopo l'uso di un'abilità elementale, aumenta di un 25% i DAN da attacchi normali e caricati per 8{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10007,
+    "EquipAffixId": 210007,
+    "EquipAffixIds": [
+      2100070,
+      2100071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Istruttore",
+    "Icon": "UI_RelicIcon_10007_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "#Dopo l'innesco di una reazione elementale, aumenta la maestria elementale di tutti i membri del gruppo di 120 per 8{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10008,
+    "EquipAffixId": 210008,
+    "EquipAffixIds": [
+      2100080,
+      2100081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Scommettitrice",
+    "Icon": "UI_RelicIcon_10008_4",
+    "Descriptions": [
+      "DAN da abilità elementale +20%.",
+      "#Sconfiggere un avversario fornisce un 100% di probabilità di azzerare il TdR dell'abilità elementale. Può verificarsi una sola volta ogni 15{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10009,
+    "EquipAffixId": 210009,
+    "EquipAffixIds": [
+      2100090,
+      2100091
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Esule",
+    "Icon": "UI_RelicIcon_10009_4",
+    "Descriptions": [
+      "Ricarica d'energia +20%.",
+      "#L'uso di un Tripudio elementale rigenera 2 di energia per tutti i membri del gruppo (escluso il personaggio che equipaggia il set) ogni 2{NON_BREAK_SPACE}s per 6{NON_BREAK_SPACE}s. Non cumulabile."
+    ]
+  },
+  {
+    "SetId": 10010,
+    "EquipAffixId": 210010,
+    "EquipAffixIds": [
+      2100100,
+      2100101
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Avventuriere",
+    "Icon": "UI_RelicIcon_10010_4",
+    "Descriptions": [
+      "PS max +1.000.",
+      "#Aprire un baule rigenera un 30% dei PS max per 5{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10011,
+    "EquipAffixId": 210011,
+    "EquipAffixIds": [
+      2100110,
+      2100111
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fortunello",
+    "Icon": "UI_RelicIcon_10011_4",
+    "Descriptions": [
+      "DIF +100.",
+      "Raccogliere Mora ripristina 300 PS."
+    ]
+  },
+  {
+    "SetId": 10012,
+    "EquipAffixId": 210012,
+    "EquipAffixIds": [
+      2100120,
+      2100121
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Studiosa",
+    "Icon": "UI_RelicIcon_10012_4",
+    "Descriptions": [
+      "Ricarica d'energia +20%.",
+      "#Ottenere particelle o sfere elementali fornisce 3 di energia a tutti i membri del gruppo equipaggiati con un arco o un catalizzatore. Si può verificare una sola volta ogni 3{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 10013,
+    "EquipAffixId": 210013,
+    "EquipAffixIds": [
+      2100130,
+      2100131
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Dottoressa errante",
+    "Icon": "UI_RelicIcon_10013_4",
+    "Descriptions": [
+      "Guarigione ricevuta +20%.",
+      "Usare il Tripudio elementale ripristina un 20% dei PS."
+    ]
+  },
+  {
+    "SetId": 14001,
+    "EquipAffixId": 214001,
+    "EquipAffixIds": [
+      2140010,
+      2140011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Nomade della tormenta",
+    "Icon": "UI_RelicIcon_14001_4",
+    "Descriptions": [
+      "Bonus DAN da Cryo +15%.",
+      "Quando un personaggio attacca un avversario sotto l'effetto di Cryo, il suo tasso di CRIT aumenta di un 20%. Se l'avversario è affetto da Congelamento, il tasso di CRIT aumenta di un ulteriore 20%."
+    ]
+  },
+  {
+    "SetId": 14002,
+    "EquipAffixId": 214002,
+    "EquipAffixIds": [
+      2140020,
+      2140021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Domatore di tuoni",
+    "Icon": "UI_RelicIcon_14002_4",
+    "Descriptions": [
+      "RES a Electro +40%.",
+      "Aumenta di un 35% i DAN contro gli avversari sotto l'effetto di Electro."
+    ]
+  },
+  {
+    "SetId": 14003,
+    "EquipAffixId": 214003,
+    "EquipAffixIds": [
+      2140030,
+      2140031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Attraversafuochi",
+    "Icon": "UI_RelicIcon_14003_4",
+    "Descriptions": [
+      "RES a Pyro +40%.",
+      "I DAN contro gli avversari affetti da Pyro aumentano di un 35%."
+    ]
+  },
+  {
+    "SetId": 14004,
+    "EquipAffixId": 214004,
+    "EquipAffixIds": [
+      2140040,
+      2140041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Amata fanciulla",
+    "Icon": "UI_RelicIcon_14004_4",
+    "Descriptions": [
+      "Efficacia guarigione personaggio +15%.",
+      "#Usare un'abilità o un Tripudio elementale aumenta di un 20% la guarigione ricevuta da tutti i membri del gruppo per 10{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15001,
+    "EquipAffixId": 215001,
+    "EquipAffixIds": [
+      2150010,
+      2150011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ultimo atto del gladiatore",
+    "Icon": "UI_RelicIcon_15001_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "Se chi possiede questo set di manufatti usa una spada, una claymore o una lancia, i DAN inflitti dal suo attacco normale aumentano di un 35%."
+    ]
+  },
+  {
+    "SetId": 15002,
+    "EquipAffixId": 215002,
+    "EquipAffixIds": [
+      2150020,
+      2150021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cacciatrice smeraldo",
+    "Icon": "UI_RelicIcon_15002_4",
+    "Descriptions": [
+      "Bonus DAN da Anemo +15%.",
+      "#Aumenta di un 60% i DAN da Turbinio. Riduce di un 40% la RES dell'avversario all'elemento infuso dal Turbinio per 10{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15003,
+    "EquipAffixId": 215003,
+    "EquipAffixIds": [
+      2150030,
+      2150031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Compagnia del vagabondo",
+    "Icon": "UI_RelicIcon_15003_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "Se il personaggio usa un catalizzatore o un arco, aumenta di un 35% i DAN da attacco caricato."
+    ]
+  },
+  {
+    "SetId": 15004,
+    "EquipAffixId": 215004,
+    "EquipAffixIds": [
+      2150040,
+      2150041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ghiacciai e distese di neve",
+    "Icon": "UI_RelicIcon_15004_4",
+    "Descriptions": [
+      "Bonus DAN da Cryo +15%.",
+      "#Aumenta di un 100% i DAN da Superconduzione e di un 15% quelli da Fusione. Usare un Tripudio elementale aumenta di un 30% il bonus dei DAN da Cryo per 10{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15005,
+    "EquipAffixId": 215005,
+    "EquipAffixIds": [
+      2150050,
+      2150051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Furia tonante",
+    "Icon": "UI_RelicIcon_15005_4",
+    "Descriptions": [
+      "Bonus DAN da Electro +15%.",
+      "#Aumenta di un 40% i DAN da Sovraccarico, Electrocarica, Superconduzione e Iperfioritura, di un 20% il bonus DAN conferito da Accentuazione, e di un 20% i DAN causati da Carica lunare. Innescare Vivificazione o una delle suddette reazioni elementali riduce il TdR dell'abilità elementale di 1{NON_BREAK_SPACE}s. Si può verificare una sola volta ogni 0,8{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15006,
+    "EquipAffixId": 215006,
+    "EquipAffixIds": [
+      2150060,
+      2150061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Strega cremisi delle fiamme",
+    "Icon": "UI_RelicIcon_15006_4",
+    "Descriptions": [
+      "Bonus DAN da Pyro +15%.",
+      "#Aumenta di un 40% i DAN da Sovraccarico, Ustione e Germinazione, e di un 15% quelli da Vaporizzazione e Fusione. Usare un'abilità elementale aumenta il bonus del set da 2 pezzi di un 50% del suo valore iniziale per 10{NON_BREAK_SPACE}s. Cumulabile fino a 3 volte."
+    ]
+  },
+  {
+    "SetId": 15007,
+    "EquipAffixId": 215007,
+    "EquipAffixIds": [
+      2150070,
+      2150071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Noblesse oblige",
+    "Icon": "UI_RelicIcon_15007_4",
+    "Descriptions": [
+      "DAN da Tripudio elementale +20%.",
+      "#L'uso di un Tripudio elementale aumenta di un 20% l'ATT di tutti i membri del gruppo per 12{NON_BREAK_SPACE}s. Non cumulabile."
+    ]
+  },
+  {
+    "SetId": 15008,
+    "EquipAffixId": 215008,
+    "EquipAffixIds": [
+      2150080,
+      2150081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cavalleria sanguinaria",
+    "Icon": "UI_RelicIcon_15008_4",
+    "Descriptions": [
+      "DAN fisici +25%.",
+      "#Dopo aver sconfitto un avversario, aumenta di un 50% i DAN da attacco caricato e ne azzera il costo in vigore per 10{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15009,
+    "EquipAffixId": 215009,
+    "EquipAffixIds": [
+      2150090
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrificio di Pyro",
+    "Icon": "UI_RelicIcon_15009_3",
+    "Descriptions": [
+      "Riduce la durata dell'effetto di Pyro di un 40%."
+    ]
+  },
+  {
+    "SetId": 15010,
+    "EquipAffixId": 215010,
+    "EquipAffixIds": [
+      2150100
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrificio di Hydro",
+    "Icon": "UI_RelicIcon_15010_3",
+    "Descriptions": [
+      "Riduce la durata dell'effetto di Hydro di un 40%."
+    ]
+  },
+  {
+    "SetId": 15011,
+    "EquipAffixId": 215011,
+    "EquipAffixIds": [
+      2150110
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrificio di Electro",
+    "Icon": "UI_RelicIcon_15011_3",
+    "Descriptions": [
+      "Riduce la durata dell'effetto di Electro di un 40%."
+    ]
+  },
+  {
+    "SetId": 15012,
+    "EquipAffixId": 215012,
+    "EquipAffixIds": [
+      2150120
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrificio di Anemo",
+    "Icon": "UI_RelicIcon_15012_3",
+    "Descriptions": [
+      "Riduce la durata dell'effetto di Anemo di un 40%."
+    ]
+  },
+  {
+    "SetId": 15013,
+    "EquipAffixId": 215013,
+    "EquipAffixIds": [
+      2150130
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Sacrificio di Cryo",
+    "Icon": "UI_RelicIcon_15013_3",
+    "Descriptions": [
+      "Riduce la durata dell'effetto di Cryo di un 40%."
+    ]
+  },
+  {
+    "SetId": 15014,
+    "EquipAffixId": 215014,
+    "EquipAffixIds": [
+      2150140,
+      2150141
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Roccia arcaica",
+    "Icon": "UI_RelicIcon_15014_4",
+    "Descriptions": [
+      "Bonus DAN da Geo +15%.",
+      "#Quando si ottiene un frammento elementale generato con la reazione della Cristallizzazione, tutti i membri del gruppo ricevono un 35% di bonus DAN per quel particolare elemento della durata di 10{NON_BREAK_SPACE}s. È possibile ottenere un solo bonus DAN elementali alla volta."
+    ]
+  },
+  {
+    "SetId": 15015,
+    "EquipAffixId": 215015,
+    "EquipAffixIds": [
+      2150150,
+      2150151
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Meteorite inverso",
+    "Icon": "UI_RelicIcon_15015_4",
+    "Descriptions": [
+      "Efficacia scudo +35%.",
+      "Sotto la protezione di uno scudo, ottieni un ulteriore aumento dei DAN da attacchi normali e caricati di un 40%."
+    ]
+  },
+  {
+    "SetId": 15016,
+    "EquipAffixId": 215016,
+    "EquipAffixIds": [
+      2150160,
+      2150161
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cuore profondo",
+    "Icon": "UI_RelicIcon_15016_4",
+    "Descriptions": [
+      "Bonus DAN da Hydro +15%.",
+      "#Dopo l'uso di un'abilità elementale, aumenta di un 30% i DAN da attacchi normali e caricati per 15{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15017,
+    "EquipAffixId": 215017,
+    "EquipAffixIds": [
+      2150170,
+      2150171
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Perseveranza dei Milleliti",
+    "Icon": "UI_RelicIcon_15017_4",
+    "Descriptions": [
+      "PS +20%.",
+      "#Quando un'abilità elementale colpisce un avversario, l'ATT e l'efficacia dello scudo di tutti i membri del gruppo vicini aumentano rispettivamente di un 20% e di un 30% per 3{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 0,5{NON_BREAK_SPACE}s, anche se il personaggio che sta usando questo set di manufatti non è sul campo."
+    ]
+  },
+  {
+    "SetId": 15018,
+    "EquipAffixId": 215018,
+    "EquipAffixIds": [
+      2150180,
+      2150181
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fiamma fioca",
+    "Icon": "UI_RelicIcon_15018_4",
+    "Descriptions": [
+      "DAN fisici +25%.",
+      "#Quando un'abilità elementale colpisce un avversario, l'ATT aumenta di un 9% per 7{NON_BREAK_SPACE}s. Cumulabile fino a 2 volte, si può attivare una volta ogni 0,3{NON_BREAK_SPACE}s. Raggiunta la quantità massima cumulabile, l'effetto del set da 2 pezzi aumenta di un 100%."
+    ]
+  },
+  {
+    "SetId": 15019,
+    "EquipAffixId": 215019,
+    "EquipAffixIds": [
+      2150190,
+      2150191
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Reminiscenza di Shimenawa",
+    "Icon": "UI_RelicIcon_15019_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Quando un personaggio con almeno 15 di energia usa un'abilità elementale, perde 15 di energia e i DAN da attacco normale, caricato o in picchiata aumentano di un 50% per 10{NON_BREAK_SPACE}s. In questo lasso di tempo, l'effetto non si riattiva."
+    ]
+  },
+  {
+    "SetId": 15020,
+    "EquipAffixId": 215020,
+    "EquipAffixIds": [
+      2150200,
+      2150201
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Emblema del fato spezzato",
+    "Icon": "UI_RelicIcon_15020_4",
+    "Descriptions": [
+      "Ricarica energia +20%.",
+      "Aumenta i DAN da Tripudio elementale di un 25% della ricarica d'energia. In questo modo puoi ottenere fino a un 75% di bonus DAN."
+    ]
+  },
+  {
+    "SetId": 15021,
+    "EquipAffixId": 215021,
+    "EquipAffixIds": [
+      2150210,
+      2150211
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Guscio dei sogni opulenti",
+    "Icon": "UI_RelicIcon_15021_4",
+    "Descriptions": [
+      "DIF +30%.",
+      "#Un personaggio equipaggiato con questo set di manufatti ottiene l'effetto Curiosità come segue: quando è in campo, riceve 1 accumulo colpendo un avversario con un attacco di Geo, fino a una volta ogni 0,3{NON_BREAK_SPACE}s; quando non è in campo, riceve 1 accumulo ogni 3{NON_BREAK_SPACE}s. L'effetto Curiosità è cumulabile fino a 4 volte, e ciascun accumulo fornisce un 6% di DIF e di bonus DAN da Geo. Per ogni 6{NON_BREAK_SPACE}s trascorsi senza ottenere un accumulo, ne perderai 1."
+    ]
+  },
+  {
+    "SetId": 15022,
+    "EquipAffixId": 215022,
+    "EquipAffixIds": [
+      2150220,
+      2150221
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Mollusco oceanico",
+    "Icon": "UI_RelicIcon_15022_4",
+    "Descriptions": [
+      "Bonus di guarigione +15%.",
+      "#Quando il personaggio equipaggiato con questo set di manufatti guarisce un personaggio del gruppo, una Schiuma marina appare per 3{NON_BREAK_SPACE}s, accumulando la quantità di PS ripristinata dalla guarigione (inclusa quella in eccesso). Al termine dell'effetto, la Schiuma marina esplode, infliggendo DAN agli avversari vicini pari a un 90% della guarigione accumulata. (Questi DAN si calcolano analogamente alle reazioni quali Electrocarica e Superconduzione, ma non vengono influenzati da maestria elementale, livelli personaggio o bonus DAN delle reazioni). Si può generare una sola Schiuma marina ogni 3,5{NON_BREAK_SPACE}s. Ogni Schiuma marina può accumulare fino a 30.000 PS (inclusa la guarigione in eccesso). Può esserci solo una Schiuma marina attiva alla volta. L'effetto è attivabile anche se il personaggio che sta usando il set di manufatti non è sul campo."
+    ]
+  },
+  {
+    "SetId": 15023,
+    "EquipAffixId": 215023,
+    "EquipAffixIds": [
+      2150230,
+      2150231
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Aldilà vermiglio",
+    "Icon": "UI_RelicIcon_15023_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Dopo aver usato un Tripudio elementale, il personaggio ottiene l'effetto Luce nascente, che aumenta l'ATT di un 8% per 16{NON_BREAK_SPACE}s. Quando i PS del personaggio si riducono, il suo ATT aumenta di un ulteriore 10%. Questo ulteriore aumento può essere accumulato per un massimo di 4 volte. Quest'effetto può attivarsi una volta ogni 0,8{NON_BREAK_SPACE}s. Quando il personaggio abbandona il campo, l'effetto Luce nascente si disperde. Usando nuovamente un Tripudio elementale quando Luce nascente è attivo, l'effetto originale si disperde."
+    ]
+  },
+  {
+    "SetId": 15024,
+    "EquipAffixId": 215024,
+    "EquipAffixIds": [
+      2150240,
+      2150241
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Echi di un'offerta",
+    "Icon": "UI_RelicIcon_15024_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Quando gli attacchi normali colpiscono gli avversari, hanno un 36% di probabilità di innescare Rito della valle, che aumenta i DAN da attacchi normali di un 70% dell'ATT. Questo effetto si disperde 0,05{NON_BREAK_SPACE}s dopo che un attacco normale infligge DAN. Se un attacco normale non innesca Rito della valle, le probabilità di attivare l'effetto la volta successiva aumentano di un 20%. È possibile attivare l'effetto una volta ogni 0,2{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15025,
+    "EquipAffixId": 215025,
+    "EquipAffixIds": [
+      2150250,
+      2150251
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Memorie di Boscoprofondo",
+    "Icon": "UI_RelicIcon_15025_4",
+    "Descriptions": [
+      "Bonus DAN da Dendro +15%.",
+      "#Se gli avversari vengono colpiti dalle abilità elementali o dai Tripudi elementali, la loro RES a Dendro sarà ridotta di un 30% per 8{NON_BREAK_SPACE}s. Quest'effetto si applica anche se il personaggio che equipaggia questo set non è in campo."
+    ]
+  },
+  {
+    "SetId": 15026,
+    "EquipAffixId": 215026,
+    "EquipAffixIds": [
+      2150260,
+      2150261
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sogni dorati",
+    "Icon": "UI_RelicIcon_15026_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "#Entro 8{NON_BREAK_SPACE}s dall'attivazione di una reazione elementale, il personaggio che equipaggia questo set ottiene effetti positivi in base al tipo elementale degli altri membri del gruppo. L'ATT aumenta di un 14% per ogni membro del gruppo il cui tipo elementale corrisponde a quello del personaggio che equipaggia il set, e la maestria elementale aumenta di 50 per ogni membro del gruppo con un tipo elementale diverso. Ciascuno degli effetti positivi può considerare fino a 3 personaggi. Quest'effetto può attivarsi una volta ogni 8{NON_BREAK_SPACE}s. Il personaggio che equipaggia questo set può attivarne gli effetti anche quando non presente sul campo."
+    ]
+  },
+  {
+    "SetId": 15027,
+    "EquipAffixId": 215027,
+    "EquipAffixIds": [
+      2150270,
+      2150271
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cronache del Padiglione nel deserto",
+    "Icon": "UI_RelicIcon_15027_4",
+    "Descriptions": [
+      "Bonus DAN da Anemo +15%.",
+      "#Quando gli attacchi caricati colpiscono gli avversari, la VEL dell'attacco normale del personaggio aumenta di un 10%, mentre i DAN da attacco normale, caricato e in picchiata aumentano di un 40% per 15{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15028,
+    "EquipAffixId": 215028,
+    "EquipAffixIds": [
+      2150280,
+      2150281
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fiore del paradiso perduto",
+    "Icon": "UI_RelicIcon_15028_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "#I DAN da reazioni di Fioritura, Iperfioritura e Germinazione del personaggio equipaggiato aumentano di un 40%, inoltre i DAN della reazione di Fioritura lunare aumentano di un 10%. In più, se il personaggio innesca Fioritura, Iperfioritura o Germinazione, ottiene un ulteriore 25% di bonus per gli effetti sopracitati. Ogni accumulo dura 10{NON_BREAK_SPACE}s. Massimo 4 accumuli contemporaneamente. Quest'effetto può attivarsi solo una volta al secondo. Il personaggio equipaggiato può attivare l'effetto anche se non è presente sul campo."
+    ]
+  },
+  {
+    "SetId": 15029,
+    "EquipAffixId": 215029,
+    "EquipAffixIds": [
+      2150290,
+      2150291
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sogno della ninfa",
+    "Icon": "UI_RelicIcon_15029_4",
+    "Descriptions": [
+      "Bonus DAN da Hydro +15%.",
+      "#Dopo che gli attacchi normali, caricati e in picchiata, e le abilità e i Tripudi elementali colpiscono un avversario, si innesca 1 accumulo di Ninfa speculare della durata di 8{NON_BREAK_SPACE}s. Mentre sono sotto l'effetto di 1, 2, 3 o più accumuli di Ninfa speculare, l'ATT e il bonus DAN da Hydro aumentano rispettivamente di un 7%/16%/25% e di un 4%/9%/15%. Gli accumuli di Ninfa speculare generati da attacchi normali, caricati e in picchiata e da abilità e Tripudi elementali esistono indipendentemente."
+    ]
+  },
+  {
+    "SetId": 15030,
+    "EquipAffixId": 215030,
+    "EquipAffixIds": [
+      2150300,
+      2150301
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Bagliore di Vourukasha",
+    "Icon": "UI_RelicIcon_15030_4",
+    "Descriptions": [
+      "PS +20%.",
+      "#Le abilità e i Tripudi elementali ricevono un 10% di bonus DAN. Dopo che il personaggio equipaggiato subisce DAN, questo effetto di base aumenta di un 80% per 5{NON_BREAK_SPACE}s. Massimo 5 accumuli. La durata di ciascun accumulo viene conteggiata in modo indipendente. Questi effetti possono essere attivati anche quando il personaggio equipaggiato non si trova in campo."
+    ]
+  },
+  {
+    "SetId": 15031,
+    "EquipAffixId": 215031,
+    "EquipAffixIds": [
+      2150310,
+      2150311
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Cacciatore della Maréchaussée",
+    "Icon": "UI_RelicIcon_15031_4",
+    "Descriptions": [
+      "DAN da attacchi normali e caricati +15%.",
+      "#Quando la quantità di PS attuali aumenta o diminuisce, il tasso di CRIT aumenta di un 12% per 5{NON_BREAK_SPACE}s. Massimo 3 accumuli."
+    ]
+  },
+  {
+    "SetId": 15032,
+    "EquipAffixId": 215032,
+    "EquipAffixIds": [
+      2150320,
+      2150321
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Compagnia dorata",
+    "Icon": "UI_RelicIcon_15032_4",
+    "Descriptions": [
+      "DAN da abilità elementale +20%.",
+      "#Aumenta i DAN da abilità elementale di un 25%. Inoltre, quando il personaggio non è in campo, tali DAN aumentano di un ulteriore 25%. Quest'effetto si annulla 2{NON_BREAK_SPACE}s dopo che il personaggio rientra in campo."
+    ]
+  },
+  {
+    "SetId": 15033,
+    "EquipAffixId": 215033,
+    "EquipAffixIds": [
+      2150330,
+      2150331
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Canto di giorni che furono",
+    "Icon": "UI_RelicIcon_15033_4",
+    "Descriptions": [
+      "Bonus di guarigione +15%.",
+      "#Quando il personaggio che equipaggia il set apporta effetti di guarigione a un membro del gruppo, attiva l'effetto Anelito per 6{NON_BREAK_SPACE}s, che registra gli effetti di guarigione totali apportati (inclusi quelli che superano il limite di guarigione massimo). Al termine della sua durata, Anelito si converte in \"Onde di giorni che furono\": quando il membro attivo del tuo gruppo colpisce un nemico con un attacco normale, caricato o in picchiata, o con un'abilità o un Tripudio elementale, infligge DAN aumentati di un 8% della guarigione totale registrata da Anelito. L'effetto \"Onde di giorni che furono\" termina dopo 5 attivazioni o trascorsi 10{NON_BREAK_SPACE}s. Una singola iterazione di Anelito è in grado di registrare fino a 15.000 PS derivanti dalla guarigione, e il gruppo può avere un'unica iterazione attiva; tuttavia, Anelito può registrare gli effetti di guarigione apportati da più membri del gruppo che equipaggiano il set. Anelito può essere attivato anche se i membri in questione non sono in campo."
+    ]
+  },
+  {
+    "SetId": 15034,
+    "EquipAffixId": 215034,
+    "EquipAffixIds": [
+      2150340,
+      2150341
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Sussurri notturni nella foresta dell'eco",
+    "Icon": "UI_RelicIcon_15034_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Dopo aver usato un'abilità elementale, il personaggio riceve un 20% di bonus DAN da Geo per 10{NON_BREAK_SPACE}s. Se il personaggio è protetto da uno scudo ottenuto tramite reazioni di Cristallizzazione, l'effetto sopracitato aumenta di un 150%. Questo aumento si annulla 1{NON_BREAK_SPACE}s dopo la perdita dello scudo."
+    ]
+  },
+  {
+    "SetId": 15035,
+    "EquipAffixId": 215035,
+    "EquipAffixIds": [
+      2150350,
+      2150351
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Scheggia di estro armonico",
+    "Icon": "UI_RelicIcon_15035_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Quando il valore di un Legame vitale aumenta o diminuisce, il personaggio infligge DAN aumentati di un 18% per 6{NON_BREAK_SPACE}s. Massimo 3 accumuli."
+    ]
+  },
+  {
+    "SetId": 15036,
+    "EquipAffixId": 215036,
+    "EquipAffixIds": [
+      2150360,
+      2150361
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fantasmagoria incompiuta",
+    "Icon": "UI_RelicIcon_15036_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN inflitti aumentano di un 50%. Durante un combattimento, se nelle vicinanze non sono presenti avversari affetti da Ustione per più di 6{NON_BREAK_SPACE}s, il suddetto bonus DAN diminuisce di un 10% al secondo fino ad azzerarsi. Se è presente almeno un avversario affetto da Ustione, invece, il bonus DAN aumenta di un 10% al secondo fino a raggiungere il 50%. Quest'effetto può attivarsi anche se il personaggio che equipaggia il set non è in campo."
+    ]
+  },
+  {
+    "SetId": 15037,
+    "EquipAffixId": 215037,
+    "EquipAffixIds": [
+      2150370,
+      2150371
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rotolo dell'Eroe della Città di cenere",
+    "Icon": "UI_RelicIcon_15037_4",
+    "Descriptions": [
+      "Quando un membro vicino del gruppo innesca un Impeto dell'Anima della Notte, il personaggio equipaggiato con questo set rigenera 6 di energia elementale.",
+      "#Quando il personaggio che equipaggia il set innesca una reazione legata al proprio tipo elementale, tutti i membri del gruppo vicini che possiedono un tipo elementale correlato alla suddetta reazione ottengono un bonus DAN elementali pari a un 12% per 15{NON_BREAK_SPACE}s. Se il personaggio che equipaggia il set è in stato di Grazia dell'Anima della Notte quando questo effetto si attiva, il suddetto bonus DAN elementali aumenta di un ulteriore 28% per 20{NON_BREAK_SPACE}s. Il personaggio che equipaggia il set può attivare questo effetto anche se non si trova in campo. Il bonus DAN di più set di manufatti con lo stesso nome non si accumula."
+    ]
+  },
+  {
+    "SetId": 15038,
+    "EquipAffixId": 215038,
+    "EquipAffixIds": [
+      2150380,
+      2150381
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Codice d'ossidiana",
+    "Icon": "UI_RelicIcon_15038_4",
+    "Descriptions": [
+      "Mentre il personaggio equipaggiato con questo set è in stato di Grazia dell'Anima della Notte ed è in campo, i DAN che infligge aumentano di un 15%.",
+      "#Quando il personaggio equipaggiato con questo set consuma 1 punto Anima della Notte mentre si trova in campo, il suo tasso di CRIT aumenta di un 40% per 6{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni secondo."
+    ]
+  },
+  {
+    "SetId": 15039,
+    "EquipAffixId": 215039,
+    "EquipAffixIds": [
+      2150390,
+      2150391
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Giuramento della lunga notte",
+    "Icon": "UI_RelicIcon_15039_4",
+    "Descriptions": [
+      "DAN da attacco in picchiata +25%.",
+      "#Quando colpisce un avversario con attacchi in picchiata/attacchi caricati/abilità elementali, il personaggio che equipaggia il set ottiene 1/2/2 accumuli di Radiosità perenne. Tutti e tre i tipi di attacco possono innescare l'effetto una volta ogni 1{NON_BREAK_SPACE}s. Radiosità perenne: gli attacchi in picchiata infliggono un 15% di DAN aumentati per 6{NON_BREAK_SPACE}s. Cumulabile fino a 5 volte. La durata di ogni accumulo è indipendente dalle altre."
+    ]
+  },
+  {
+    "SetId": 15040,
+    "EquipAffixId": 215040,
+    "EquipAffixIds": [
+      2150400,
+      2150401
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Finale delle gallerie profonde",
+    "Icon": "UI_RelicIcon_15040_4",
+    "Descriptions": [
+      "Bonus DAN da Cryo +15%.",
+      "#Quando l'energia elementale del personaggio è pari a zero, i DAN da attacco normale e da Tripudio elementale aumentano di un 60%. Dopo aver inflitto DAN da attacco normale, l'effetto relativo al Tripudio elementale si disattiva per 6{NON_BREAK_SPACE}s. Allo stesso modo, dopo aver inflitto DAN da Tripudio elementale, l'effetto relativo agli attacchi normali si disattiva per la stessa quantità di tempo. L'effetto può attivarsi anche se il personaggio che equipaggia il set non è in campo."
+    ]
+  },
+  {
+    "SetId": 15041,
+    "EquipAffixId": 215041,
+    "EquipAffixIds": [
+      2150410,
+      2150411
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Notte della rivelazione celeste",
+    "Icon": "UI_RelicIcon_15041_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "#Se il personaggio che equipaggia il set è in campo, quando i membri vicini del gruppo innescano delle reazioni lunari si ottiene l'effetto Luna splendente: Intento per 4{NON_BREAK_SPACE}s, che aumenta il tasso di CRIT di un 15%/30% quando il Presagio lunare del gruppo è Barlume nascente/Barlume ascendente. I DAN delle reazioni lunari di tutti i membri del gruppo aumentano di un 10% per ciascun tipo di effetto Luna splendente presente nel gruppo. Gli effetti di Luna splendente non sono cumulabili."
+    ]
+  },
+  {
+    "SetId": 15042,
+    "EquipAffixId": 215042,
+    "EquipAffixIds": [
+      2150420,
+      2150421
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Serenata della luna di seta",
+    "Icon": "UI_RelicIcon_15042_4",
+    "Descriptions": [
+      "Ricarica d'energia +20%.",
+      "#Quando vengono inflitti DAN elementali, si ottiene l'effetto Luna splendente: Devozione per 8{NON_BREAK_SPACE}s, che aumenta la maestria elementale di tutti i membri del gruppo di 60/120 quando il Presagio lunare del gruppo è Barlume nascente/Barlume ascendente. L'effetto si può innescare anche quando il personaggio che equipaggia il set non è in campo. I DAN delle reazioni lunari di tutti i membri del gruppo aumentano di un 10% per ciascun tipo di effetto Luna splendente presente nel gruppo. Gli effetti di Luna splendente non sono cumulabili."
+    ]
+  }
+]

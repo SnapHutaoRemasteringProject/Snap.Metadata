@@ -1,0 +1,387 @@
+[
+  {
+    "Id": 210101,
+    "Name": "<color=#0075de>Tidal Shock</color>",
+    "Description": "Setelah Karakter memicu <color=#f39001>reaksi Vaporize</color> terhadap musuh, akan mengakibatkan <color=#0075de>Hydro DMG</color>"
+  },
+  {
+    "Id": 210102,
+    "Name": "<color=#ef5534>Blazing Explosion</color>",
+    "Description": "Setelah Karakter memicu <color=#f39001>reaksi Vaporize</color> terhadap musuh, akan mengakibatkan <color=#ef5534>Pyro DMG</color>"
+  },
+  {
+    "Id": 210201,
+    "Name": "<color=#7bb100>Lingering Seed</color>",
+    "Description": "Setiap kali menciptakan satu Dendro Core, satu Lingering Seed juga akan tercipta di sekitar Karakter aktif (maksimum <color=#f39001>4</color> buah dalam waktu bersamaan). Lingering Seed akan mengakibatkan <color=#7bb100>Dendro DMG</color> lalu hilang saat menyentuh musuh."
+  },
+  {
+    "Id": 210301,
+    "Name": "<color=#ef5534>Wildfire Wave</color>",
+    "Description": "Saat mengakibatkan DMG terhadap musuh melalui <color=#f39001>reaksi Burning</color>, akan melakukan perhitungan terhadap musuh tersebut. Saat perhitungan ini mencapai angka <color=#f39001>6</color>, maka akan tercipta gelombang yang mengakibatkan <color=#ef5534>Pyro DMG Area</color> dan perhitungannya akan diulang."
+  },
+  {
+    "Id": 210302,
+    "Name": "<color=#7bb100>Combustion Core</color>",
+    "Description": "Terpicu setelah Dendro DMG Karakter mengenai musuh yang berada dalam <color=#f39001>status Burning</color>, mengakibatkan <color=#7bb100>Dendro DMG</color>"
+  },
+  {
+    "Id": 210401,
+    "Name": "<color=#f39001>Pyro Crystal's Boon</color>",
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Pyro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+  },
+  {
+    "Id": 210402,
+    "Name": "<color=#ef5534>Ignition Wave</color>",
+    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada setiap <color=#f39001>6</color> detik dan mengakibatkan <color=#ef5534>Pyro DMG Area</color>."
+  },
+  {
+    "Id": 210403,
+    "Name": "<color=#e09800>Stoneshard Strike</color>",
+    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada setiap <color=#f39001>4</color> detik dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
+  },
+  {
+    "Id": 210501,
+    "Name": "<color=#f39001>Electro Crystal's Boon</color>",
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Electro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+  },
+  {
+    "Id": 210502,
+    "Name": "<color=#e09800>Roaring Rockbreaker</color>",
+    "Description": "Saat <color=#f39001>Electro Crystal's Boon</color> sedang aktif dan setelah serangan Karakter mengenai musuh, Roaring Rockbreaker akan jatuh di posisi musuh dan mengakibatkan <color=#e09800>Geo DMG</color>."
+  },
+  {
+    "Id": 210503,
+    "Name": "<color=#e09800>Roaring Rockbreaker</color>",
+    "Description": "Setiap kali Karakter mendapatkan <color=#f39001>{0}</color> Elemental Shard dari <color=#f39001>reaksi Electro Crystallize</color>, Roaring Rockbreaker akan jatuh di posisi musuh dan mengakibatkan <color=#e09800>Geo DMG</color>."
+  },
+  {
+    "Id": 210601,
+    "Name": "<color=#f39001>Embrittle</color>",
+    "Description": "Pyro dan Electro RES musuh berkurang <color=#f39001>5.5%</color>, dapat ditumpuk sampai 4 lapis"
+  },
+  {
+    "Id": 210602,
+    "Name": "<color=#ef5534>Explosive Orbs</color>",
+    "Description": "Setelah mengakibatkan Electro DMG terhadap musuh yang terpengaruh efek Embrittle, akan mengakibatkan<color=#ef5534> Pyro DMG</color> terhadap <color=#f39001>semua</color> musuh yang terpengaruh efek Embrittle di medan pertempuran ."
+  },
+  {
+    "Id": 210603,
+    "Name": "<color=#b863ee>Thunderstrike</color>",
+    "Description": "Setelah mengakibatkan Pyro DMG terhadap musuh yang terpengaruh efek Embrittle, akan mengakibatkan <color=#b863ee>Electro DMG</color> terhadap <color=#f39001>semua</color> musuh yang terpengaruh efek Embrittle di medan pertempuran ."
+  },
+  {
+    "Id": 210701,
+    "Name": "<color=#7bb100>Vigorous Nexus</color>",
+    "Description": "Saat Karakter memicu reaksi Quicken, Aggravate, atau Spread terhadap musuh, akan menembakkan satu Vigorous Nexus terhadap musuh ini dan akan meledak setelah mengenai musuh, mengakibatkan <color=#7bb100>Dendro DMG Area</color>."
+  },
+  {
+    "Id": 210702,
+    "Name": "<color=#b863ee>Teeming Thunder</color>",
+    "Description": "Terpicu setelah Karakter mengakibatkan Electro atau Dendro DMG pada musuh dalam status Quickened, dan mengakibatkan <color=#b863ee>Electro DMG</color>."
+  },
+  {
+    "Id": 210901,
+    "Name": "<color=#f39001>Windblessing: Hydro</color>",
+    "Description": "DMG dari reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, Max HP Karakter +<color=#f39001>8%</color>."
+  },
+  {
+    "Id": 210902,
+    "Name": "<color=#0075de>Healing Hydroball</color>",
+    "Description": "Akan mencatat jumlah pemulihan HP Karakter, dan akan meledak setelah durasinya berakhir, mengakibatkan <color=#0075de>Hydro DMG Area</color> terhadap musuh di sekitarnya berdasarkan jumlah pemulihan HP dan <color=#f39001>lapisan Windblessing: Hydro</color>."
+  },
+  {
+    "Id": 210903,
+    "Name": "<color=#0075de>Waterfall Maelstrom</color>",
+    "Description": "Menarik musuh di sekitar dan mengakibatkan <color=#0075de>Hydro DMG Area</color> berdasarkan jumlah <color=#f39001>lapisan Windblessing: Hydro</color>."
+  },
+  {
+    "Id": 211001,
+    "Name": "<color=#f39001>Windblessing: Electro</color>",
+    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, dan setiap kali mendapatkan <color=#f39001>Windblessing: Electro</color>, akan memulihkan <color=#f39001>1.5</color> poin Energy seluruh anggota party."
+  },
+  {
+    "Id": 211002,
+    "Name": "<color=#b863ee>Razorflash Thunderblade</color>",
+    "Description": "Saat Karakter melancarkan Elemental Burst, akan mendapatkan <color=#f39001>Razorflash Mark</color>. Saat serangan Karakter aktif mengenai musuh, akan mengonsumsi <color=#b863ee>Razorflash Mark</color> untuk melancarkan sebuah <color=#f39001>Razorflash Thunderblade</color> yang mengakibatkan <color=#b863ee>Electro DMG</color> kepada semua musuh di jalurnya berdasarkan jumlah lapisan Windblessing: Electro."
+  },
+  {
+    "Id": 211003,
+    "Name": "<color=#b863ee>Boltleap Thunderstrike</color>",
+    "Description": "Selama <color=#f39001>Windblessing: Electro</color> aktif dan saat Plunging Attack mengenai musuh, akan mengakibatkan <color=#b863ee>Electro DMG Area </color>berdasarkan jumlah lapisan Windblessing: Electro."
+  },
+  {
+    "Id": 211101,
+    "Name": "<color=#f39001>Electrosurge</color>",
+    "Description": "DMG <color=#f39001>reaksi Electro-Charged</color> yang diakibatkan oleh seluruh anggota party +<color=#f39001>250%</color>. DMG saat memicu <color=#f39001>reaksi Lunar-Charged</color> +<color=#f39001>70%</color>."
+  },
+  {
+    "Id": 211102,
+    "Name": "<color=#b863ee>Driftthunder Blitzcore</color>",
+    "Description": "Selama aktif, Electrosurge akan mengikuti Karakter aktif. Electrosurge akan menembakkan 3 peluru Electro yang mengakibatkan <color=#b863ee>Electro DMG</color> pada musuh yang diserang oleh Karakter."
+  },
+  {
+    "Id": 211103,
+    "Name": "<color=#f39001>Thundercloud</color>",
+    "Description": "Selama aktif, Electrosurge serangan berikut secara acak dengan jeda <color=#f39001>2</color> detik:\n1. <color=#b863ee>Thundercloud Strike</color>: Mengakibatkan <color=#b863ee>Electro DMG</color> terhadap musuh di dalam area efek dan memulihkan <color=#f39001>2</color> poin Energy Karakter aktif di dalam area efek.\n2. <color=#0075de>Thundercloud Rainstorm</color>: Mengakibatkan <color=#0075de>Hydro DMG</color> terhadap musuh di dalam area efek dan memulihkan <color=#f39001>5%</color> HP Karakter aktif di dalam area efeknya."
+  },
+  {
+    "Id": 211201,
+    "Name": "<color=#f39001>Pyro Crystal's Boon</color>",
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Pyro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+  },
+  {
+    "Id": 211202,
+    "Name": "<color=#e09800>Stoneshard Strike</color>",
+    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada setiap <color=#f39001>{0}</color> detik dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
+  },
+  {
+    "Id": 211203,
+    "Name": "<color=#e09800>Roaring Rockbreaker</color>",
+    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif dan saat Normal Attack, Charged Attack, atau Plunging Attack Karakter mengenai musuh, maka Rockbreaker akan terjatuh di posisi musuh dan mengakibatkan <color=#e09800>Geo DMG</color>."
+  },
+  {
+    "Id": 211301,
+    "Name": "<color=#f39001>Cryo Crystal's Boon</color>",
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Cryo dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+  },
+  {
+    "Id": 211302,
+    "Name": "<color=#e09800>Stonecrystal Strike</color>",
+    "Description": "Saat <color=#f39001>Cryo Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada secara berkala dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
+  },
+  {
+    "Id": 211303,
+    "Name": "<color=#e09800>Iceshard Stoneburst</color>",
+    "Description": "Saat <color=#f39001>Cryo Crystal's Boon</color> sedang aktif, saat Karakter Cryo atau Geo mengakibatkan CRIT, maka Stoneburst akan dijatuhkan pada posisi musuh dan mengakibatkan <color=#e09800>Geo DMG</color>."
+  },
+  {
+    "Id": 211401,
+    "Name": "<color=#2bb7d5>Frostfall</color>",
+    "Description": "Saat Karakter aktif <color=#ef5534>Pyro</color> memicu reaksi Melt, akan melancarkan Frostfall yang mengakibatkan <color=#2bb7d5>Cryo DMG</color>."
+  },
+  {
+    "Id": 211402,
+    "Name": "<color=#ef5534>Flamespire</color>",
+    "Description": "Saat Karakter aktif <color=#2bb7d5>Cryo</color> memicu reaksi Melt, akan melancarkan Flamespire yang mengakibatkan <color=#ef5534>Pyro DMG</color>."
+  },
+  {
+    "Id": 211403,
+    "Name": "<color=#f39001>Significant Thermocline</color>",
+    "Description": "DMG reaksi Melt yang dipicu oleh Karakter meningkat <color=#f39001>30%</color>."
+  },
+  {
+    "Id": 211501,
+    "Name": "<color=#f39001>Windblessing: Pyro</color>",
+    "Description": "DMG dari reaksi Swirl yang dipicu oleh Karakter meningkat <color=#f39001>80%</color>, ATK Karakter meningkat <color=#f39001>9%</color>."
+  },
+  {
+    "Id": 211502,
+    "Name": "<color=#ef5534>Galeblaze</color>",
+    "Description": "Saat serangan Karakter aktif mengakibatkan DMG terhadap musuh, akan mengonsumsi HP Karakter ini untuk melancarkan Galeblaze dan mengakibatkan <color=#ef5534>Pyro DMG Area</color> berdasarkan jumlah lapisan Windblessing: Pyro."
+  },
+  {
+    "Id": 211503,
+    "Name": "<color=#f39001>Firestorm</color>",
+    "Description": "Saat Karakter <color=#f39001>Pyro atau Anemo</color> memasuki medan pertempuran, akan tercipta Firestorm berdasarkan <color=#f39001>jenis elemen</color> Karakter ini yang mengakibatkan Elemental DMG Area jenis elemen yang sesuai berdasarkan jumlah lapisan Windblessing: Pyro."
+  },
+  {
+    "Id": 211601,
+    "Name": "<color=#f39001>Stinging Chill</color>",
+    "Description": "CRIT DMG untuk seluruh Karakter Cryo dan Hydro di dalam party meningkat <color=#f39001>40%</color>."
+  },
+  {
+    "Id": 211602,
+    "Name": "<color=#0075de>Coldstream Wave</color>",
+    "Description": "Saat Karakter aktif <color=#2bb7d5>Cryo</color> memicu reaksi Frozen, akan tercipta ombak yang mengakibatkan <color=#0075de>Hydro DMG Area</color>."
+  },
+  {
+    "Id": 211603,
+    "Name": "<color=#2bb7d5>Frigidfloe Wave</color>",
+    "Description": "Saat Karakter aktif <<color=#0075de>Hydro</color> memicu reaksi Frozen, akan tercipta ombak yang mengakibatkan <color=#2bb7d5>Cryo DMG Area</color>."
+  },
+  {
+    "Id": 211604,
+    "Name": "<color=#f39001>Rupturing Rime</color>",
+    "Description": "Hydro dan Cryo RES musuh berkurang <color=#f39001>8%</color>, dapat ditumpuk sampai <color=#f39001>3</color> lapis."
+  },
+  {
+    "Id": 211701,
+    "Name": "<color=#f39001>Yielding</color>",
+    "Description": "Cryo dan Electro RES musuh -<color=#f39001>3%</color>, Physical RES musuh -<color=#f39001>6%</color>, dapat ditumpuk sampai <color=#f39001>6</color> lapis."
+  },
+  {
+    "Id": 211702,
+    "Name": "<color=#f39001>Surging Shock</color>",
+    "Description": "Dilancarkan setelah Karakter mengakibatkan <color=#f39001>Physical DMG</color> terhadap musuh yang terpengaruh efek <color=#f39001>Yielding</color>, mengakibatkan Physical DMG, dapat terpicu maksimum sekali setiap <color=#f39001>3</color> detik."
+  },
+  {
+    "Id": 211801,
+    "Name": "<color=#f39001>Hydro Crystal's Boon</color>",
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Hydro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+  },
+  {
+    "Id": 211802,
+    "Name": "<color=#e09800>Stoneshatter Strike</color>",
+    "Description": "Saat <color=#f39001>Hydro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada secara berkala dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
+  },
+  {
+    "Id": 211803,
+    "Name": "<color=#e09800>Stone Stream</color>",
+    "Description": "Saat <color=#f39001>Hydro Crystal's Boon</color> sedang aktif, saat Karakter Hydro atau Geo di dalam party menerima pemulihan HP, akan menjatuhkan Stone Stream di posisi musuh berada yang mengakibatkan <color=#e09800>Geo DMG</color>."
+  },
+  {
+    "Id": 211804,
+    "Name": "<color=#f39001>Frost-Twined Thorn</color>",
+    "Description": "Setiap <color=#f39001>2</color> detik, mengakibatkan <color=#f39001>Cryo DMG dan Dendro DMG Area</color> ke musuh di sekitarnya satu kali. Maksimum hanya dua Frost-Twined Thorn yang dapat muncul di medan pertempuran pada waktu yang sama."
+  },
+  {
+    "Id": 211805,
+    "Name": "<color=#b863ee>Fulgurous Thorn</color>",
+    "Description": "Setelah serangan Electro Karakter dalam radius <color=#f39001>Frost-Twined Thorn</color> mengenai musuh, <color=#f39001>Frost-Twined Thorn</color> akan dikonversi menjadi Fulgurous Thorn yang bertahan selama <color=#f39001>10</color> detik, frekuensi serangannya adalah <color=#f39001>1 kali</color> setiap detik, dan Electro DMG Area yang diakibatkan menjadi <color=#f39001>1.5</color> kali lebih kuat"
+  },
+  {
+    "Id": 211806,
+    "Name": "<color=#f39001>Magnetizing Thorn</color>",
+    "Description": "Tidak dapat menyerang, tapi Magnetizing Thorn ini akan meningkatkan <color=#f39001>Cryo, Dendro, Electro, dan Physical DMG</color> dari Karakter terhadap musuh di sekitarnya. Efek ini akan diperkuat sebesar <color=#f39001>45%</color> untuk setiap Magnetizing Thorn yang ada di medan pertempuran, maksimum hingga <color=#f39001>90%</color>."
+  },
+  {
+    "Id": 211901,
+    "Name": "<color=#f39001>Windblessing: Cryo</color>",
+    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, CRIT DMG Karakter +<color=#f39001>12%</color>."
+  },
+  {
+    "Id": 211902,
+    "Name": "<color=#2bb7d5>Coldrime</color>",
+    "Description": "Selama <color=#f39001>Windblessing: Cryo</color> aktif, serangan Karakter yang mengenai musuh akan memberikan efek Coldrime. Efek ini mengakibatkan <color=#2bb7d5>Cryo DMG</color> secara berkala berdasarkan jumlah lapisan <color=#f39001>Windblessing: Cryo</color>."
+  },
+  {
+    "Id": 211903,
+    "Name": "<color=#19c78e>Icemist</color>",
+    "Description": "Selama <color=#f39001>Windblessing: Cryo</color> aktif, akan dilancarkan saat Karakter aktif berlari, menarik musuh di sekitar dan mengakibatkan <color=#19c78e>Anemo DMG</color> berdasarkan jumlah lapisan <color=#f39001>Windblessing: Cryo</color>."
+  },
+  {
+    "Id": 11120001,
+    "Name": "Cold Storage Mode",
+    "Description": "<color=#FFD780FF>Mode Tekan</color>\nMengaktifkan All-Spectrum Multi-Use Cooking Mek dalam Cold Storage Mode dan mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color> ke musuh sekitar.\n\n<color=#FFD780FF>Cooking Mek: Cold Storage Mode </color>\nAkan mengikuti Karakter aktif dan menembakkan Frosty Parfait yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di sekitar secara berkala."
+  },
+  {
+    "Id": 11120002,
+    "Name": "Off-the-Cuff Cookery Mode",
+    "Description": "<color=#FFD780FF>Cooking Mek: Off-the-Cuff Cookery Mode</color>\n·Meletakkan Cooking Mek di medan pertempuran. Cooking Mek bisa menyerap serangan elemental. Saat energi elemental yang diserap mencapai batas tertentu, Escoffier akan mengonversi Bahan Masak yang sudah diletakkan sebelumnya menjadi makanan yang lezat.\n·Escoffier membutuhkan waktu untuk membeli Bahan Masak yang baru. Setiap minggunya, dia hanya dapat menggunakan cara ini untuk menghasilkan Makanan dalam jumlah tertentu, jumlah ini akan direset setiap hari Senin pukul 04:00."
+  },
+  {
+    "Id": 11130001,
+    "Name": "Supporting Fire",
+    "Description": "Saat dalam status Nightsoul's Blessing, Normal Attack Ifa akan dikonversi menjadi Supporting Fire.\n<color=#FFD780FF>Mode Tekan</color>\nMenembakkan Tonicshot.\n<color=#FFD780FF>Mode Tahan</color>\nMenembakkan Tonicshot terus-menerus.\n<color=#FFD780FF>Tonicshot</color>\nMengakibatkan Nightsoul-aligned <color=#80FFD7FF>Anemo DMG</color>, dan akan memulihkan HP anggota party di sekitar saat mengenai musuh. Jumlah pemulihan HP didasarkan pada Elemental Mastery Ifa."
+  },
+  {
+    "Id": 11130002,
+    "Name": "Rescue Essentials",
+    "Description": "Maksimum 150 poin. Untuk setiap 1 poin Rescue Essentials yang dimiliki Ifa, DMG reaksi Swirl dan Electro-Charged yang diakibatkan anggota party di sekitar +1,5%, dan DMG yang diakibatkan reaksi Lunar-Charged +0,2%. Poin Rescue Essentials akan hilang setelah status Nightsoul's Blessing Ifa berakhir."
+  },
+  {
+    "Id": 11130003,
+    "Name": "Nightsoul's Blessing: Ifa",
+    "Description": "Terus mengonsumsi poin Nightsoul. Saat sudah habis dikonsumsi atau saat dilancarkan sekali lagi, Nightsoul's Blessing Ifa akan berakhir. Nightsoul's Blessing memiliki karakteristik sebagai berikut:\n·Akan melayang berkat bantuan Cacucu, meningkatkan Movement SPD dan ketahanan Ifa terhadap interupsi. Dalam status ini, Ifa akan terus mengonsumsi poin Nightsoul untuk mempertahankan status melayangnya. Saat berlari atau meningkatkan ketinggian, akan mengonsumsi poin Nightsoul tambahan.\n·Saat melancarkan Normal Attack, akan dikonversi menjadi Supporting Fire yang berbeda berdasarkan Mode Tekan dan Mode Tahan."
+  },
+  {
+    "Id": 11130004,
+    "Name": "Sedation Mark",
+    "Description": "Efek ini akan meledak setelah jeda singkat lalu menghilang dan mengakibatkan DMG Area dengan elemen yang sesuai. Obat penenang ini dapat memberikan efek Sedation Mark kepada maksimum 4 musuh yang terkena. Musuh tidak bisa berada dalam Sedation Mark dengan elemen yang berbeda di saat yang sama."
+  },
+  {
+    "Id": 11130005,
+    "Name": "Serpent's Subtlety",
+    "Description": "Skirk dapat mengonsumsi Serpent's Subtlety untuk mempertahankan mode Seven-Phase Flash miliknya, atau untuk melancarkan Elemental Burst \"Havoc: Ruin\".\n\nSkirk dapat memperoleh Serpent's Subtlety dengan cara-cara berikut:\n·Melancarkan Elemental Skill \"Havoc: Warp\".\n·Menyerap Void Rift yang tercipta dari efek Talenta Ascension \"Reason Beyond Reason\".\n\nSerpent's Subtlety yang dimiliki Skirk akan hilang saat Skirk meninggalkan medan pertempuran dalam mode Seven-Phase Flash atau saat mode Seven-Phase Flash berakhir."
+  },
+  {
+    "Id": 11130006,
+    "Name": "Seven-Phase Flash",
+    "Description": "Skirk akan berganti ke mode ini selama kurun waktu tertentu setelah melancarkan Elemental Skill <color=#FFD780FF>Havoc: Warp</color>. Mode ini memiliki karakteristik berikut:\n·Terus mengonsumsi Serpent's Subtlety.\n·Meningkatkan radius serangan Normal Attack dan Charged Attack, serta ketahanan Skirk terhadap interupsi.\n·DMG dari Normal Attack, Charged Attack, dan Plunging Attack akan dikonversi menjadi <color=#99FFFFFF>Cryo DMG</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\n·Elemental Burst <color=#FFD780FF>Havoc: Ruin</color> akan berubah menjadi Elemental Burst spesial <color=#FFD780FF>Havoc: Extinction</color>.\n·Skirk dapat bergerak di atas permukaan air saat berlari.\n·Skirk akan keluar dari mode ini saat Serpent's Subtlety habis dikonsumsi atau saat durasinya berakhir, kemudian Elemental Skill-nya akan memasuki cooldown."
+  },
+  {
+    "Id": 11130007,
+    "Name": "Reason Beyond Reason",
+    "Description": "Saat Karakter di dalam party memicu reaksi Frozen, Superconduct, Cryo Swirl, atau Cryo Crystallize terhadap musuh di sekitar, akan tercipta sebuah Void Rift di sekitar musuh tersebut. Efek ini dapat terpicu sekali setiap 2,5 detik, dan maksimum 3 Void Rift dapat tercipta di medan pertempuran dalam satu waktu.\n\nSkirk bisa menyerap Void Rift di sekitarnya dengan cara berikut:\n·Saat Charged Attack yang dilancarkan Skirk dalam mode Seven-Phase Flash mengenai musuh.\n·Saat melancarkan Elemental Burst spesial <color=#FFD780FF>Havoc: Extinction</color> dalam mode Seven-Phase Flash.\n·Saat menahan tombol Elemental Skill <color=#FFD780FF>Havoc: Warp</color> untuk bergerak dengan cepat.\n\nSetiap Void Rift yang diserap akan memberikan Skirk 8 poin Serpent's Subtlety."
+  },
+  {
+    "Id": 11130008,
+    "Name": "Return to Oblivion",
+    "Description": "Saat serangan <color=#80C0FFFF>Hydro</color> milik Karakter <color=#80C0FFFF>Hydro</color> dalam party di sekitar mengenai musuh, atau saat serangan <color=#99FFFFFF>Cryo</color> milik Karakter <color=#99FFFFFF>Cryo</color> dalam party di sekitar mengenai musuh, maka Skirk akan mendapatkan satu lapis efek \"Death's Crossing\" selama 20 detik. \"Death's Crossing\" dapat ditumpuk hingga 3 lapis dan durasi setiap lapisannya dihitung terpisah.\nSetiap Karakter hanya bisa memberikan efek Death's Crossing sebanyak 1 kali kepada Skirk dengan cara ini.\nSetiap lapis Death's Crossing memberikan efek: Normal Attack Skirk dalam mode Seven-Phase Flash akan mengakibatkan 110%/120%/170% dari DMG awalnya, Elemental Burst <color=#FFD780FF>Havoc: Ruin</color> juga mengakibatkan 105%/115%/160% dari DMG awalnya."
+  },
+  {
+    "Id": 11130009,
+    "Name": "Sacramental Shower",
+    "Description": "Setelah musuh atau Karakter di dalam party menyentuh Sacramental Shower, akan muncul efek yang berbeda berdasarkan subjek yang menyentuhnya:\nJika musuh yang menyentuh, maka Sacramental Shower akan meledak dan mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> pada musuh di sekitar.\nJika Karakter di dalam party yang menyentuh, maka Sacramental Shower akan mementalkan Karakter tersebut ke udara.\n\nHanya bisa ada satu Sacramental Shower yang bisa dipanggil oleh Dahlia dalam satu waktu."
+  },
+  {
+    "Id": 11130010,
+    "Name": "Favonian Favor",
+    "Description": "Dahlia akan memberikan efek ini kepada Karakter sendiri di dalam party saat melancarkan Elemental Burst <color=#FFD780FF>Radiant Psalter</color>.\nSelama aktif, saat Shield of Sacred Favor berakhir atau perisainya dihancurkan, Dahlia akan mengonsumsi satu lapis efek Benison untuk menciptakan Shield of Sacred Favor baru."
+  },
+  {
+    "Id": 11130011,
+    "Name": "Benison",
+    "Description": "Dahlia bisa mendapatkan efek Benison dengan cara berikut:\n·Dahlia akan mendapatkan X lapis efek Benison saat Karakter aktif di dalam party yang terpengaruh efek Favonian Favor menyerang musuh dengan Normal Attack sebanyak 4 kali.\n·Setelah efek Talenta Ascension \"The Wind's Gentle Grace\" terpicu.\nDahlia bisa mendapatkan maksimum X lapis Benison untuk setiap durasi Favonian Favor."
+  },
+  {
+    "Id": 11160001,
+    "Name": "Birgitta",
+    "Description": "Sebagai asisten dan rekan Ineffa dalam pertempuran, Birgitta dapat dipanggil ke medan pertempuran dengan cara melancarkan Elemental Skill atau Elemental Burst.\nJika ada musuh di sekitar, Birgitta akan langsung mendekati satu musuh dan melancarkan serangan setruman yang mengakibatkan <color=#FFACFFFF>Electro DMG Area</color> setiap 2 detik.\nIneffa sendiri hanya bisa memanggil satu Birgitta dalam waktu bersamaan.\n\nSelain itu, sepertinya akan ada cara khusus untuk mengubah penampilan Birgitta di Nod-Krai ...."
+  },
+  {
+    "Id": 11190001,
+    "Name": "Frostgrove Sanctuary",
+    "Description": "Formasi sihir yang menjaga para Pelantun Rembulan dan dapat dipanggil dengan melancarkan <color=#FFD780FF>Runo: Dawnless Rest of Karsikko</color>.\nFrostgrove Sanctuary akan mengikuti Karakter aktif dan mengakibatkan <color=#99FF88FF>Dendro DMG Area</color> kepada musuh di dalam formasi sihir satu kali setiap 2 detik. DMG ini dianggap sebagai DMG Elemental Skill."
+  },
+  {
+    "Id": 11190002,
+    "Name": "Moon Song",
+    "Description": "Melodi yang digunakan untuk menenun himne-himne doa. Moon Song dapat dikonversi menjadi Pale Hymn yang akan meningkatkan DMG reaksi Bloom, Hyperbloom, Burgeon, dan Lunar-Bloom dengan cara melancarkan Elemental Burst atau dalam waktu singkat setelah melancarkan Elemental Burst.\nSaat Lauma mengonsumsi Verdant Dew untuk melancarkan Elemental Skill <color=#FFD780FF>Runo: Dawnless Rest of Karsikko</color> dalam Mode Tahan, maka setiap Verdant Dew yang dikonsumsi akan memberikan satu lapis Moon Song kepada Lauma."
+  },
+  {
+    "Id": 11190003,
+    "Name": "Pale Hymn",
+    "Description": "Himne yang diturunkan dari satu generasi Pelantun Rembulan ke generasi berikutnya. Himne ini dapat meningkatkan DMG yang diakibatkan oleh reaksi Bloom, Hyperbloom, Burgeon, dan Lunar-Bloom.\n\nLauma bisa memperoleh lapisan Pale Hymn dengan cara berikut:\n·Saat melancarkan Elemental Burst <color=#FFD780FF>Runo: All Hearts Become the Beating Moon</color>.\n·Saat mengonsumsi efek Moon Song dengan melancarkan Elemental Burst <color=#FFD780FF>Runo: All Hearts Become the Beating Moon</color>.\n·Saat memicu efek Frostgrove Sanctuary dari Konstelasi <color=#FFD780FF>\"I Offer Blood and Tears to the Moonlight\"</color>.\n\nSaat Karakter dalam party mengakibatkan DMG reaksi Bloom, Hyperbloom, Burgeon, atau Lunar-Bloom, Lauma akan mengonsumsi 1 lapis Pale Hymn untuk meningkatkan DMG yang diakibatkan. Jumlah peningkatan DMG ini didasarkan pada Elemental Mastery Lauma. Saat DMG yang disebutkan di atas mengenai beberapa musuh secara bersamaan, jumlah lapisan Pale Hymn yang dikonsumsi akan didasarkan pada jumlah musuh yang terkena serangan.\nDurasi setiap lapis Pale Hymn akan dihitung secara terpisah."
+  },
+  {
+    "Id": 11190004,
+    "Name": "Dusktide Vigil",
+    "Description": "DMG reaksi Bloom, Hyperbloom, dan Burgeon yang dipicu oleh anggota party dapat mengakibatkan CRIT, dengan nilai CRIT Rate tetap sebesar {PARAM#P1192101|1S100}%, dan CRIT DMG tetap sebesar {PARAM#P1192101|2S100}%. CRIT Rate dari efek ini dapat ditumpuk dengan efek serupa lainnya yang membuat Reaksi Elemental dapat mengakibatkan CRIT juga."
+  },
+  {
+    "Id": 11190005,
+    "Name": "Moonlight Prayer",
+    "Description": "CRIT Rate reaksi Lunar-Bloom yang diakibatkan oleh anggota party +{PARAM#P1192101|3S100}%, CRIT DMG +{PARAM#P1192101|4S100}%."
+  },
+  {
+    "Id": 11190007,
+    "Name": "Bertumbuh",
+    "Description": "Efek peningkatan DMG spesial yang dihitung terpisah dari efek peningkatan DMG lainnya."
+  },
+  {
+    "Id": 11190008,
+    "Name": "Verdant Dew",
+    "Description": "Saat Karakter di dalam party memicu reaksi Lunar-Bloom, akan memberikan sumber daya bagi party.\nSelama 2,5 detik setelah memicu reaksi Lunar-Bloom, party akan mendapatkan 1 Verdant Dew setiap 2,5 detiknya. Party dapat memiliki maksimum 3 Verdant Dew. Jika party memicu reaksi Verdant Dew sekali lagi selama durasi di atas berlangsung, maka durasi efek ini akan diperbarui."
+  },
+  {
+    "Id": 11200001,
+    "Name": "Thunderous Symphony",
+    "Description": "Elemental Burst khusus yang dapat dilancarkan dengan mengonsumsi lebih sedikit Energy. Flins mengakibatkan <color=#FFACFFFF>Electro DMG Area</color> yang dianggap sebagai DMG reaksi Lunar-Charged.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Jika ada awan petir di sekitar, akan mengakibatkan satu kali <color=#FFACFFFF>Electro DMG Area</color> tambahan yang dianggap sebagai DMG reaksi Lunar-Charged."
+  },
+  {
+    "Id": 11220001,
+    "Name": "Shadow Dance",
+    "Description": "Setelah melancarkan Elemental Skill <color=#FFD780FF>Senet Strategy: Dance of a Thousand Nights</color>, Nefer akan memasuki status ini.\nSaat dalam status Shadow Dance dan memiliki minimum 1 Verdant Dew, Charged Attack Nefer akan berubah menjadi Charged Attack Khusus bernama Phantasm Performance.\nStatus Shadow Dance akan berakhir saat Nefer melancarkan Phantasm Performance {PARAM#P1223201|3S1} kali atau saat durasinya berakhir."
+  },
+  {
+    "Id": 11220002,
+    "Name": "Phantasm Performance",
+    "Description": "Saat berada dalam status Shadow Dance yang dihasilkan oleh Elemental Skill <color=#FFD780FF>Senet Strategy: Dance of a Thousand Nights</color> dan memiliki minimum 1 Verdant Dew, Charged Attack Nefer akan digantikan menjadi Charged Attack Khusus yang tidak mengonsumsi Stamina, yaitu Phantasm Performance.\nNefer akan memanggil bayangan dirinya untuk melancarkan serangan terkoordinasi terhadap musuh. Diri sendiri dan bayangan akan melancarkan masing-masing 2/3 tahap <color=#99FF88FF>Dendro DMG Area</color>. DMG yang diakibatkan oleh bayangan akan dianggap sebagai DMG reaksi Lunar-Bloom. Untuk setiap bayangan pertama yang dipanggil setelah melancarkan Phantasm Performance, akan mengonsumsi 1 Verdant Dew."
+  },
+  {
+    "Id": 11220003,
+    "Name": "Veil of Falsehood",
+    "Description": "Nefer bisa mendapatkan efek ini dengan menyerap Seed of Deceit dari Talenta Ascension \"A Wager of Moonlight\" untuk meningkatkan DMG yang diakibatkan oleh Phantasm Performance.\nSetiap lapis Veil of Falsehood akan membuat DMG Phantasm Performance menjadi {PARAM#P1222101|6S100}% lebih tinggi dari DMG awalnya. Lapisan awalnya dapat ditumpuk hingga {PARAM#P1222101|1S1} lapis, dengan durasi {PARAM#P1222101|2S1} detik. Durasi setiap lapisan dihitung terpisah."
+  }
+]

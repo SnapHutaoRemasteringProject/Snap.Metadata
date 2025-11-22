@@ -1,0 +1,1049 @@
+[
+  {
+    "SetId": 10001,
+    "EquipAffixId": 210001,
+    "EquipAffixIds": [
+      2100010,
+      2100011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fernweh",
+    "Icon": "UI_RelicIcon_10001_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Erhöht die KT heftiger Schläge um 30 %."
+    ]
+  },
+  {
+    "SetId": 10002,
+    "EquipAffixId": 210002,
+    "EquipAffixIds": [
+      2100020,
+      2100021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Wagemut",
+    "Icon": "UI_RelicIcon_10002_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Erhöht den Gegnern mit mehr als 50 % LP zugefügten Schaden um 30 %."
+    ]
+  },
+  {
+    "SetId": 10003,
+    "EquipAffixId": 210003,
+    "EquipAffixIds": [
+      2100030,
+      2100031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Beschützerinstinkt",
+    "Icon": "UI_RelicIcon_10003_4",
+    "Descriptions": [
+      "Erhöht die VTD um 30 %.",
+      "Erhöht für jedes unterschiedliche Element der eigenen Figuren in der Truppe den eigenen WDS des jeweiligen Elements um 30 %."
+    ]
+  },
+  {
+    "SetId": 10004,
+    "EquipAffixId": 210004,
+    "EquipAffixIds": [
+      2100040,
+      2100041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Wunder",
+    "Icon": "UI_RelicIcon_10004_4",
+    "Descriptions": [
+      "Erhöht den WDS gegen alle Elemente um 20 %.",
+      "Erhöht den jeweiligen WDS nach Erleiden von Elementar-SCH 10 s lang um 30 %. 10 s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 10005,
+    "EquipAffixId": 210005,
+    "EquipAffixIds": [
+      2100050,
+      2100051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Berserker",
+    "Icon": "UI_RelicIcon_10005_4",
+    "Descriptions": [
+      "Erhöht die KT um 12 %.",
+      "Erhöht die KT bei weniger als 70 % LP zusätzlich um 24 %."
+    ]
+  },
+  {
+    "SetId": 10006,
+    "EquipAffixId": 210006,
+    "EquipAffixIds": [
+      2100060,
+      2100061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Kampfkünstler",
+    "Icon": "UI_RelicIcon_10006_4",
+    "Descriptions": [
+      "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 %.",
+      "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 s lang um 25 %."
+    ]
+  },
+  {
+    "SetId": 10007,
+    "EquipAffixId": 210007,
+    "EquipAffixIds": [
+      2100070,
+      2100071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ausbilder",
+    "Icon": "UI_RelicIcon_10007_4",
+    "Descriptions": [
+      "Erhöht Elementarkunde um 80 Punkte.",
+      "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8 s lang um 120 Punkte."
+    ]
+  },
+  {
+    "SetId": 10008,
+    "EquipAffixId": 210008,
+    "EquipAffixIds": [
+      2100080,
+      2100081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Glücksspieler",
+    "Icon": "UI_RelicIcon_10008_4",
+    "Descriptions": [
+      "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %.",
+      "Überspringt die Abklingzeit der Elementarfähigkeit beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100 %. 15 s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 10009,
+    "EquipAffixId": 210009,
+    "EquipAffixIds": [
+      2100090,
+      2100091
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Verbannter",
+    "Icon": "UI_RelicIcon_10009_4",
+    "Descriptions": [
+      "Erhöht die Aufladerate um 20 %.",
+      "Stellt allen Truppenmitgliedern (außer sich selbst) bei Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 2 Punkte Elementarenergie wieder her, nicht stapelbar."
+    ]
+  },
+  {
+    "SetId": 10010,
+    "EquipAffixId": 210010,
+    "EquipAffixIds": [
+      2100100,
+      2100101
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Abenteurer",
+    "Icon": "UI_RelicIcon_10010_4",
+    "Descriptions": [
+      "Erhöht die max. LP um 1000.",
+      "Stellt nach dem Öffnen jeglicher Truhen 5 s lang 30 % LP wieder her."
+    ]
+  },
+  {
+    "SetId": 10011,
+    "EquipAffixId": 210011,
+    "EquipAffixIds": [
+      2100110,
+      2100111
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Glückspilz",
+    "Icon": "UI_RelicIcon_10011_4",
+    "Descriptions": [
+      "Erhöht die VTD um 100 Punkte.",
+      "Stellt beim Sammeln von Mora 300 LP wieder her."
+    ]
+  },
+  {
+    "SetId": 10012,
+    "EquipAffixId": 210012,
+    "EquipAffixIds": [
+      2100120,
+      2100121
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gelehrter",
+    "Icon": "UI_RelicIcon_10012_4",
+    "Descriptions": [
+      "Erhöht die Aufladerate um 20 %.",
+      "Stellt allen Truppenmitgliedern mit Bögen und Katalysatoren beim Erhalten von Elementarteilchen und Elementarkristallen zusätzlich 3 Punkte Elementarenergie wieder her. 3 s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 10013,
+    "EquipAffixId": 210013,
+    "EquipAffixIds": [
+      2100130,
+      2100131
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Wanderarzt",
+    "Icon": "UI_RelicIcon_10013_4",
+    "Descriptions": [
+      "Erhöht den passiven Heileffekt der Figur um 20 %.",
+      "Stellt bei Anwendung von Spezialfähigkeiten 20 % LP wieder her."
+    ]
+  },
+  {
+    "SetId": 14001,
+    "EquipAffixId": 214001,
+    "EquipAffixIds": [
+      2140010,
+      2140011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Im Schnee irrender Recke",
+    "Icon": "UI_RelicIcon_14001_4",
+    "Descriptions": [
+      "Erhöht den Kryo-Schaden um 15 %.",
+      "Erhöht die KT beim Angreifen von Kryo-Effekten betroffener Gegner um 20 %. Erhöht die KT bei von Gefroren betroffenen Gegnern zusätzlich um 20 %."
+    ]
+  },
+  {
+    "SetId": 14002,
+    "EquipAffixId": 214002,
+    "EquipAffixIds": [
+      2140020,
+      2140021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Donner beruhigender Weiser",
+    "Icon": "UI_RelicIcon_14002_4",
+    "Descriptions": [
+      "Erhöht den Elektro-WDS um 40 %.",
+      "Erhöht den von Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %."
+    ]
+  },
+  {
+    "SetId": 14003,
+    "EquipAffixId": 214003,
+    "EquipAffixIds": [
+      2140030,
+      2140031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Feuer durchwandernder Heiliger",
+    "Icon": "UI_RelicIcon_14003_4",
+    "Descriptions": [
+      "Erhöht den Pyro-WDS um 40 %.",
+      "Erhöht den von Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %."
+    ]
+  },
+  {
+    "SetId": 14004,
+    "EquipAffixId": 214004,
+    "EquipAffixIds": [
+      2140040,
+      2140041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ins Herz geschlossenes Mädchen",
+    "Icon": "UI_RelicIcon_14004_4",
+    "Descriptions": [
+      "Erhöht den aktiven Heileffekt der Figur um 15 %.",
+      "Erhöht den passiven Heilungseffekt aller Truppenmitglieder nach Anwendung von Elementarfähigkeiten oder Spezialfähigkeiten 10 s lang um 20 %."
+    ]
+  },
+  {
+    "SetId": 15001,
+    "EquipAffixId": 215001,
+    "EquipAffixIds": [
+      2150010,
+      2150011
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Verbeugung des Gladiators",
+    "Icon": "UI_RelicIcon_15001_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Erhöht den mit Standardangriffen verursachten Schaden, wenn die mit diesem Artefaktset ausgestattete Figur einen Einhänder, einen Zweihänder oder eine Stangenwaffe trägt, um 35 %."
+    ]
+  },
+  {
+    "SetId": 15002,
+    "EquipAffixId": 215002,
+    "EquipAffixIds": [
+      2150020,
+      2150021
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Grünlicher Schatten",
+    "Icon": "UI_RelicIcon_15002_4",
+    "Descriptions": [
+      "Erhöht den Anemo-Schaden um 15 %.",
+      "Erhöht den mit Verwirbelungen verursachten Schaden um 60 %. Verringert den dem jeweiligen Element in der Verwirbelung entsprechenden WDS des betroffenen Gegners 10 s lang um 40 %."
+    ]
+  },
+  {
+    "SetId": 15003,
+    "EquipAffixId": 215003,
+    "EquipAffixIds": [
+      2150030,
+      2150031
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Wanderorchester",
+    "Icon": "UI_RelicIcon_15003_4",
+    "Descriptions": [
+      "Erhöht Elementarkunde um 80 Punkte.",
+      "Erhöht den mit heftigen Schlägen verursachten Schaden, wenn die Figur einen Katalysator oder einen Bogen trägt, um 35 %."
+    ]
+  },
+  {
+    "SetId": 15004,
+    "EquipAffixId": 215004,
+    "EquipAffixIds": [
+      2150040,
+      2150041
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Eisbäche und Schneewüsten",
+    "Icon": "UI_RelicIcon_15004_4",
+    "Descriptions": [
+      "Erhöht den Kryo-Schaden um 15 %.",
+      "Erhöht den mit der Reaktion Supraleiter verursachten Schaden um 100 % und den von der Reaktion Schmelzen betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Kryo-SCH-Bonus bei Anwendung von Spezialfähigkeiten 10 s lang zusätzlich um 30 %."
+    ]
+  },
+  {
+    "SetId": 15005,
+    "EquipAffixId": 215005,
+    "EquipAffixIds": [
+      2150050,
+      2150051
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Donnernder Zorn",
+    "Icon": "UI_RelicIcon_15005_4",
+    "Descriptions": [
+      "Erhöht den Elektro-Schaden um 15 %.",
+      "#Erhöht den mit den Reaktionen „Überladen“, „Unter Strom“, „Supraleiter“ und „Supraspross“ verursachten Schaden um 40{NON_BREAK_SPACE}%. Erhöht den mit den Reaktionen „Suprawuchs“ und „Mond unter Strom“ verursachten Schaden um 20{NON_BREAK_SPACE}%. Verkürzt die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementarreaktionen und der Reaktion „Urwuchs“ um 1{NON_BREAK_SPACE}s. 0,8{NON_BREAK_SPACE}s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 15006,
+    "EquipAffixId": 215006,
+    "EquipAffixIds": [
+      2150060,
+      2150061
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Brennende Pyro-Hexe",
+    "Icon": "UI_RelicIcon_15006_4",
+    "Descriptions": [
+      "Erhöht den Pyro-Schaden um 15 %.",
+      "Erhöht den mit den Reaktionen „Überladen“, „In Flammen“ und „Flammenspross“ verursachten Schaden um 40 % und den den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar."
+    ]
+  },
+  {
+    "SetId": 15007,
+    "EquipAffixId": 215007,
+    "EquipAffixIds": [
+      2150070,
+      2150071
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Altes Hofritual",
+    "Icon": "UI_RelicIcon_15007_4",
+    "Descriptions": [
+      "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %.",
+      "Erhöht den ANG aller Truppenmitglieder nach Anwendung von Spezialfähigkeiten 12 s lang um 20 %, nicht stapelbar."
+    ]
+  },
+  {
+    "SetId": 15008,
+    "EquipAffixId": 215008,
+    "EquipAffixIds": [
+      2150080,
+      2150081
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Blutiger Weg eines Ritters",
+    "Icon": "UI_RelicIcon_15008_4",
+    "Descriptions": [
+      "Erhöht den verursachten physischen Schaden um 25 %.",
+      "Verbraucht beim Besiegen von Gegnern 10 s lang für die Anwendung von heftigen Schlägen keine Ausdauer und erhöht den mit heftigen Schlägen verursachten Schaden um 50 %."
+    ]
+  },
+  {
+    "SetId": 15009,
+    "EquipAffixId": 215009,
+    "EquipAffixIds": [
+      2150090
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Feueropfer",
+    "Icon": "UI_RelicIcon_15009_3",
+    "Descriptions": [
+      "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %."
+    ]
+  },
+  {
+    "SetId": 15010,
+    "EquipAffixId": 215010,
+    "EquipAffixIds": [
+      2150100
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Wasseropfer",
+    "Icon": "UI_RelicIcon_15010_3",
+    "Descriptions": [
+      "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 %."
+    ]
+  },
+  {
+    "SetId": 15011,
+    "EquipAffixId": 215011,
+    "EquipAffixIds": [
+      2150110
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Blitzopfer",
+    "Icon": "UI_RelicIcon_15011_3",
+    "Descriptions": [
+      "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 %."
+    ]
+  },
+  {
+    "SetId": 15012,
+    "EquipAffixId": 215012,
+    "EquipAffixIds": [
+      2150120
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Windopfer",
+    "Icon": "UI_RelicIcon_15012_3",
+    "Descriptions": [
+      "Verringert die Dauer der Beeinträchtigung durch zusätzliches Anemo-Attribut um 40 %."
+    ]
+  },
+  {
+    "SetId": 15013,
+    "EquipAffixId": 215013,
+    "EquipAffixIds": [
+      2150130
+    ],
+    "NeedNumber": [
+      1
+    ],
+    "Name": "Eisopfer",
+    "Icon": "UI_RelicIcon_15013_3",
+    "Descriptions": [
+      "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kryo-Attribut um 40 %."
+    ]
+  },
+  {
+    "SetId": 15014,
+    "EquipAffixId": 215014,
+    "EquipAffixIds": [
+      2150140,
+      2150141
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Archaischer Fels",
+    "Icon": "UI_RelicIcon_15014_4",
+    "Descriptions": [
+      "Erhöht den Geo-Schaden um 15 %.",
+      "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
+    ]
+  },
+  {
+    "SetId": 15015,
+    "EquipAffixId": 215015,
+    "EquipAffixIds": [
+      2150150,
+      2150151
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Umgekehrter Meteor",
+    "Icon": "UI_RelicIcon_15015_4",
+    "Descriptions": [
+      "Erhöht die Schildeffizienz um 35 %.",
+      "Erhöht den Schaden von Standardangriffen und heftigen Schlägen bei aktivem Schild zusätzlich um 40 %."
+    ]
+  },
+  {
+    "SetId": 15016,
+    "EquipAffixId": 215016,
+    "EquipAffixIds": [
+      2150160,
+      2150161
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Tief im Herzen",
+    "Icon": "UI_RelicIcon_15016_4",
+    "Descriptions": [
+      "Erhöht den Hydro-Schaden um 15 %.",
+      "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 15 s lang um 30 %."
+    ]
+  },
+  {
+    "SetId": 15017,
+    "EquipAffixId": 215017,
+    "EquipAffixIds": [
+      2150170,
+      2150171
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Zähigkeit der Millelithen",
+    "Icon": "UI_RelicIcon_15017_4",
+    "Descriptions": [
+      "Erhöht die LP um 20 %.",
+      "Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten den ANG aller Truppenmitglieder in der Nähe um 20 % sowie die Schildeffizienz um 30 %, hält 3 s, 0,5 s Abklingzeit. Die Figur mit diesem Artefaktset kann diesen Effekt auch auslösen, wenn sie inaktiv in der Truppe ist."
+    ]
+  },
+  {
+    "SetId": 15018,
+    "EquipAffixId": 215018,
+    "EquipAffixIds": [
+      2150180,
+      2150181
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fahle Flammen",
+    "Icon": "UI_RelicIcon_15018_4",
+    "Descriptions": [
+      "Erhöht den verursachten physischen Schaden um 25 %.",
+      "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 7 s lang um 9 %, 2-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Effekt des Sets mit 2 Teilen beim Erreichen des Limits von 2 Stapelungen um 100 %."
+    ]
+  },
+  {
+    "SetId": 15019,
+    "EquipAffixId": 215019,
+    "EquipAffixIds": [
+      2150190,
+      2150191
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gedenken an Shimenawa",
+    "Icon": "UI_RelicIcon_15019_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Verringert bei Anwendung einer Elementarfähigkeit die Elementarenergie um 15 Punkte, wenn die Figur mindestens 15 Punkte Elementarenergie besitzt. Erhöht daraufhin den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden 10 s lang um 50 %. Dieser Effekt wird während der Wirkungsdauer nicht erneut ausgelöst."
+    ]
+  },
+  {
+    "SetId": 15020,
+    "EquipAffixId": 215020,
+    "EquipAffixIds": [
+      2150200,
+      2150201
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Wappen des getrennten Schicksals",
+    "Icon": "UI_RelicIcon_15020_4",
+    "Descriptions": [
+      "Erhöht die Aufladerate um 20 %.",
+      "Erhöht den mit Spezialfähigkeiten verursachten Schaden basierend auf 25 % der Aufladerate. Bis zu 75 % Bonus auf diese Weise möglich."
+    ]
+  },
+  {
+    "SetId": 15021,
+    "EquipAffixId": 215021,
+    "EquipAffixIds": [
+      2150210,
+      2150211
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Schale der üppigen Träume",
+    "Icon": "UI_RelicIcon_15021_4",
+    "Descriptions": [
+      "Erhöht die VTD um 30 %.",
+      "Die mit diesem Artefaktset ausgerüsteten Figuren erhalten unter den folgenden Umständen den Effekt „Neugier“: Aktuelle Figuren erhalten mit 0,3 s Abklingzeit eine Stapelung beim Treffen von Gegnern mit Geo-Angriffen, während die inaktiven Figuren in der Truppe alle 3 s eine Stapelung erhalten. 4-fach stapelbar. Jede Stapelung verleiht einen VTD-Bonus von 6 % und einen Geo-Schadens-Bonus von 6 %. Wenn kein neuer Effekt der „Neugier“ hinzukommt, erlischt alle 6 s eine Stapelung dieses Effekts."
+    ]
+  },
+  {
+    "SetId": 15022,
+    "EquipAffixId": 215022,
+    "EquipAffixIds": [
+      2150220,
+      2150221
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Meeresmuschel",
+    "Icon": "UI_RelicIcon_15022_4",
+    "Descriptions": [
+      "#Erhöht den Heilungsbonus um 15{NON_BREAK_SPACE}%.",
+      "Wenn die mit diesem Artefaktset ausgerüsteten Figuren die Figuren in der Truppe heilen, entsteht eine Meeresblase, die 3 s hält und die wiederhergestellten Lebenspunkte beim Heilen (einschließlich des überschüssigen Heilungswerts) aufzeichnet. Wenn ihre Dauer endet, explodiert die Meeresblase, was Gegnern in der Umgebung Schaden, der 90 % der insgesamt wiederhergestellten LP entspricht, zufügt (Diese SCH-Berechnungsweise gleicht der der Elementarreaktionen Unter Strom und Supraleiter, ist jedoch von der Elementarkunde, der Stufe oder dem Reaktion-SCH-Bonus unabhängig). Alle 3,5 s kann höchstens eine Meeresblase entstehen. Jede Meeresblase kann bis zu 30.000 wiederhergestellte Lebenspunkte (einschließlich des überschüssigen Heilungswerts) aufzeichnen. In der eigenen Truppe kann gleichzeitig höchstens eine Meeresblase bestehen. Wenn die mit diesem Artefaktset ausgerüsteten Figuren inaktiv in der Truppe sind, kann dieser Effekt auch ausgelöst werden."
+    ]
+  },
+  {
+    "SetId": 15023,
+    "EquipAffixId": 215023,
+    "EquipAffixIds": [
+      2150230,
+      2150231
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Vergangenheit des Zinnobers",
+    "Icon": "UI_RelicIcon_15023_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Verleiht Figuren nach Anwendung von Spezialfähigkeiten den 16 s anhaltenden Effekt „Schleichlicht“: Erhöht den ANG der jeweiligen Figur anfänglich um 8 %. Erhöht den ANG der Figur bei jedem LP-Verlust zusätzlich um 10 %, 0,8 s Abklingzeit. 4 ANG-Boni auf diese Weise möglich. Beendet den Effekt „Schleichlicht“ beim Auswechseln der Figur. Entfernt bei erneuter Anwendung der Spezialfähigkeit während der Wirkungsdauer von „Schleichlicht“ den bisherigen Effekt „Schleichlicht“ vollständig."
+    ]
+  },
+  {
+    "SetId": 15024,
+    "EquipAffixId": 215024,
+    "EquipAffixIds": [
+      2150240,
+      2150241
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Echo des Opferfests",
+    "Icon": "UI_RelicIcon_15024_4",
+    "Descriptions": [
+      "Erhöht den ANG um 18 %.",
+      "Löst beim Treffen von Gegnern mit Standardangriffen mit einer Wahrscheinlichkeit von 36 % „Talritual“ aus: Erhöht den mit Standardangriffen verursachten Schaden um 70 % ANG. Erlischt 0,05 s nach dem Verursachen von Schaden mit Standardangriffen. Erhöht, wenn der Effekt bei einem Standardangriff nicht ausgelöst wird, die Chance, dass er beim nächsten Mal ausgelöst wird, um 20 %, 0,2 s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 15025,
+    "EquipAffixId": 215025,
+    "EquipAffixIds": [
+      2150250,
+      2150251
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Erinnerungen des tiefen Waldes",
+    "Icon": "UI_RelicIcon_15025_4",
+    "Descriptions": [
+      "Erhöht den Dendro-Schaden um 15 %.",
+      "Verringert nach Treffern mit der Elementarfähigkeit oder Spezialfähigkeit den Dendro-WDS des Ziels 8 s lang um 30 %. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist."
+    ]
+  },
+  {
+    "SetId": 15026,
+    "EquipAffixId": 215026,
+    "EquipAffixIds": [
+      2150260,
+      2150261
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Vergoldeter Traum",
+    "Icon": "UI_RelicIcon_15026_4",
+    "Descriptions": [
+      "Erhöht die Elementarkunde um 80 Punkte.",
+      "Verleiht der damit ausgerüsteten Figur nach Auslösen einer Elementarreaktion entsprechend den Elementartypen anderer Figuren in der Truppe unterschiedliche Boni, die 8 s halten: Die Anwesenheit von je 1 Figur des gleichen Elementartyps erhöht den ANG um 14 %. Die Anwesenheit von je 1 Figur unterschiedlichen Elementartyps erhöht die Elementarkunde um 50 Punkte. Für jeden dieser Boni werden bis zu 3 Figuren mit gleichem oder unterschiedlichem Elementartyp gewertet. Diese Effekte treten auch in Kraft, wenn die damit ausgerüstete Figur inaktiv in der Truppe ist, 8 s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 15027,
+    "EquipAffixId": 215027,
+    "EquipAffixIds": [
+      2150270,
+      2150271
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Chronik des Wüstenpavillons",
+    "Icon": "UI_RelicIcon_15027_4",
+    "Descriptions": [
+      "Erhöht den Anemo-Schaden um 15 %.",
+      "Erhöht die Standardangriffs-GSW der damit ausgerüsteten Figur nach dem Treffen von Gegnern mit heftigen Schlägen um 10 % und erhöht den von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 40 %, hält 15 s."
+    ]
+  },
+  {
+    "SetId": 15028,
+    "EquipAffixId": 215028,
+    "EquipAffixIds": [
+      2150280,
+      2150281
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Blumen des verlorenen Paradieses",
+    "Icon": "UI_RelicIcon_15028_4",
+    "Descriptions": [
+      "Erhöht Elementarkunde um 80 Punkte.",
+      "#Erhöht den durch den Träger mit den Reaktionen „Sprießen“, „Supraspross“ und „Flammenspross“ verursachten Schaden um 40{NON_BREAK_SPACE}% und den durch den Träger mit der Reaktion „Mondspross“ verursachten Schaden um 10{NON_BREAK_SPACE}%. Erhöht den Bonus von obigem Effekt zusätzlich um 25{NON_BREAK_SPACE}%, nachdem der Träger die Reaktionen „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ ausgelöst hat, hält 10{NON_BREAK_SPACE}s, 4-fach stapelbar, 1{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet."
+    ]
+  },
+  {
+    "SetId": 15029,
+    "EquipAffixId": 215029,
+    "EquipAffixIds": [
+      2150290,
+      2150291
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Traum der Narzisse",
+    "Icon": "UI_RelicIcon_15029_4",
+    "Descriptions": [
+      "Erhöht den Hydro-Schaden um 15 %.",
+      "Erschafft beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten oder Spezialfähigkeiten eine 8 s anhaltende Stapelung des Effekts „Narzisse im Spiegel“. Erhöht den ANG bei 1/2/3 Stapelungen von „Narzisse im Spiegel“ um 7/16/25 % und den Hydro-SCH-Bonus um 4/9/15 %. Die durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten entstandenen Effekte von „Narzisse im Spiegel“ existieren unabhängig voneinander."
+    ]
+  },
+  {
+    "SetId": 15030,
+    "EquipAffixId": 215030,
+    "EquipAffixIds": [
+      2150300,
+      2150301
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Licht der Vourukasha-Oase",
+    "Icon": "UI_RelicIcon_15030_4",
+    "Descriptions": [
+      "Erhöht die LP um 20 %.",
+      "Erhöht den mit Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um 10 %. Erhöht diesen Schadensbonus 5 s lang, nachdem der Träger Schaden erlitten hat, um 80 %. Dieser Effekt ist 5-fach stapelbar und die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet. Dieser Effekt kann auch dann ausgelöst werden, wenn sich die damit ausgerüstete Figur inaktiv in der Truppe befindet."
+    ]
+  },
+  {
+    "SetId": 15031,
+    "EquipAffixId": 215031,
+    "EquipAffixIds": [
+      2150310,
+      2150311
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Schattenjäger",
+    "Icon": "UI_RelicIcon_15031_4",
+    "Descriptions": [
+      "#Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15{NON_BREAK_SPACE}%.",
+      "#Erhöht beim Erhöhen oder Verringern der aktuellen LP die KT um 12{NON_BREAK_SPACE}%. Hält 5{NON_BREAK_SPACE}s. 3-fach stapelbar."
+    ]
+  },
+  {
+    "SetId": 15032,
+    "EquipAffixId": 215032,
+    "EquipAffixIds": [
+      2150320,
+      2150321
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Goldtruppe",
+    "Icon": "UI_RelicIcon_15032_4",
+    "Descriptions": [
+      "#Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20{NON_BREAK_SPACE}%.",
+      "#Erhöht den mit Elementarfähigkeiten verursachten Schaden um 25{NON_BREAK_SPACE}%. Erhöht außerdem den mit Elementarfähigkeiten verursachten Schaden ein weiteres Mal um 25{NON_BREAK_SPACE}%, wenn sich die Figur inaktiv in der Truppe befindet. Der Effekt verschwindet nach 2{NON_BREAK_SPACE}s, nachdem die Figur eingewechselt worden ist."
+    ]
+  },
+  {
+    "SetId": 15033,
+    "EquipAffixId": 215033,
+    "EquipAffixIds": [
+      2150330,
+      2150331
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Lied vergangener Tage",
+    "Icon": "UI_RelicIcon_15033_4",
+    "Descriptions": [
+      "#Erhöht den Heilungsbonus um 15{NON_BREAK_SPACE}%.",
+      "#Erzeugt, wenn der Träger ein Truppenmitglied heilt, 6{NON_BREAK_SPACE}s lang den Effekt „Sehnsucht“, der die Gesamtmenge der durchgeführten Heilung (einschließlich des überschüssigen Heilungswerts) aufzeichnet. Wandelt, wenn die Wirkungsdauer abläuft, den Effekt „Sehnsucht“ in den Effekt „Wellen von damals“ um: Erhöht, wenn die eigene aktuelle Figur in der Truppe einen Gegner mit einem Standardangriff, heftigen Schlag, Angriff aus dem Fall, einer Elementarfähigkeit oder einer Spezialfähigkeit trifft, den verursachten Schaden um 8{NON_BREAK_SPACE}% der durch den Effekt „Sehnsucht“ aufgezeichneten Gesamtheilungsmenge. Der Effekt „Wellen von damals“ wird entfernt, nachdem er 5-mal ausgelöst wurde, oder nach 10{NON_BREAK_SPACE}s. Ein einzelner „Sehnsucht“-Effekt kann bis zu 15.000 Punkte an Heilung aufzeichnen und es kann zu einem Zeitpunkt nur einen „Sehnsucht“-Effekt geben. Dieser Effekt kann die Menge an Heilung durch mehrere Träger aufzeichnen. Er kann auch noch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet."
+    ]
+  },
+  {
+    "SetId": 15034,
+    "EquipAffixId": 215034,
+    "EquipAffixIds": [
+      2150340,
+      2150341
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Nächtliches Geflüster in den widerhallenden Wäldern",
+    "Icon": "UI_RelicIcon_15034_4",
+    "Descriptions": [
+      "#Erhöht den ANG um 18{NON_BREAK_SPACE}%.",
+      "#Erhöht den Geo-SCH-Bonus 10{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%, nachdem eine Elementarfähigkeit eingesetzt wurde. Erhöht diesen Effekt zusätzlich um 150{NON_BREAK_SPACE}%, wenn die Figur von einem Kristallschild, der durch die Reaktion „Kristallisation“ entsteht, geschützt wird. Diese weitere Verstärkung wird 1{NON_BREAK_SPACE}s nach dem Verlieren des Schildes entfernt."
+    ]
+  },
+  {
+    "SetId": 15035,
+    "EquipAffixId": 215035,
+    "EquipAffixIds": [
+      2150350,
+      2150351
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Fragment harmonischer Launen",
+    "Icon": "UI_RelicIcon_15035_4",
+    "Descriptions": [
+      "#Erhöht den ANG um 18{NON_BREAK_SPACE}%.",
+      "#Erhöht beim Erhöhen oder Verringern des Werts von Eid des Lebens den von der Figur verursachten Schaden um 18{NON_BREAK_SPACE}%, hält 6{NON_BREAK_SPACE}s, 3-fach stapelbar."
+    ]
+  },
+  {
+    "SetId": 15036,
+    "EquipAffixId": 215036,
+    "EquipAffixIds": [
+      2150360,
+      2150361
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Unvollendete Träumerei",
+    "Icon": "UI_RelicIcon_15036_4",
+    "Descriptions": [
+      "#Erhöht den ANG um 18{NON_BREAK_SPACE}%.",
+      "#Erhöht den verursachten Schaden um 50{NON_BREAK_SPACE}%, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert diesen Schadensbonus im Kampf jede{NON_BREAK_SPACE}s um 10{NON_BREAK_SPACE}%, sobald 6{NON_BREAK_SPACE}s lang keine Gegner in Flammen in der Nähe sind, bis auf 0{NON_BREAK_SPACE}%. Erhöht den Schadensbonus jede{NON_BREAK_SPACE}s um 10{NON_BREAK_SPACE}%, wenn Gegner in Flammen in der Nähe sind, bis auf 50{NON_BREAK_SPACE}%. Der Effekt kann auch noch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+    ]
+  },
+  {
+    "SetId": 15037,
+    "EquipAffixId": 215037,
+    "EquipAffixIds": [
+      2150370,
+      2150371
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Schriftrolle des Recken der aschenen Stadt",
+    "Icon": "UI_RelicIcon_15037_4",
+    "Descriptions": [
+      "Stellt dem Träger beim Auslösen von „Nachtseelenaufbruch“ durch ein Truppenmitglied in der Nähe 6 Punkte Elementarenergie wieder her.",
+      "#Erhöht, nachdem der Träger eine Elementarreaktion, die mit seinem Elementartyp zusammenhängt, ausgelöst hat, den Elementar-SCH-Bonus der mit dieser Elementarreaktion zusammenhängenden Elemente aller Truppenmitglieder in der Nähe 15{NON_BREAK_SPACE}s lang um 12{NON_BREAK_SPACE}%. Erhöht, wenn der Träger beim Auslösen dieses Effekts im Zustand „Nachtseelensegen“ ist, den Elementar-SCH-Bonus der mit dieser Elementarreaktion zusammenhängenden Elemente aller Truppenmitglieder in der Nähe 20{NON_BREAK_SPACE}s lang zusätzlich um 28{NON_BREAK_SPACE}%. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Die SCH-Bonus-Effekte mehrerer gleicher Artefaktsets sind nicht stapelbar."
+    ]
+  },
+  {
+    "SetId": 15038,
+    "EquipAffixId": 215038,
+    "EquipAffixIds": [
+      2150380,
+      2150381
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Obsidiankodex",
+    "Icon": "UI_RelicIcon_15038_4",
+    "Descriptions": [
+      "#Erhöht, wenn der Träger im Zustand „Nachtseelensegen“ und aktiv auf dem Feld ist, den verursachten Schaden um 15{NON_BREAK_SPACE}%.",
+      "#Erhöht, nachdem der Träger aktiv auf dem Schlachtfeld 1 Nachtseelenpunkt verbraucht hat, die KT 6{NON_BREAK_SPACE}s lang um 40{NON_BREAK_SPACE}%. 1{NON_BREAK_SPACE}s Abklingzeit."
+    ]
+  },
+  {
+    "SetId": 15039,
+    "EquipAffixId": 215039,
+    "EquipAffixIds": [
+      2150390,
+      2150391
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Eid der Nacht",
+    "Icon": "UI_RelicIcon_15039_4",
+    "Descriptions": [
+      "#Erhöht den mit Angriffen aus dem Fall verursachten Schaden um 25{NON_BREAK_SPACE}%.",
+      "#Erhält beim Treffen von Gegnern mit Angriffen aus dem Fall, heftigen Schlägen oder Elementarfähigkeiten des Trägers 1/2/2 Stapelung(en) „Ewiger Glanz“. 1{NON_BREAK_SPACE}s Abklingzeit für jeden durch die oben genannten Angriffe erzeugten Effekt. Ewiger Glanz: Erhöht den mit Angriffen aus dem Fall verursachten Schaden 6{NON_BREAK_SPACE}s um 15{NON_BREAK_SPACE}%, 5-fach stapelbar. Die Wirkungsdauer jeder Stapelung wird unabhängig voneinander berechnet."
+    ]
+  },
+  {
+    "SetId": 15040,
+    "EquipAffixId": 215040,
+    "EquipAffixIds": [
+      2150400,
+      2150401
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Finale der tiefen Korridore",
+    "Icon": "UI_RelicIcon_15040_4",
+    "Descriptions": [
+      "#Erhöht den Kryo-Schaden um 15{NON_BREAK_SPACE}%.",
+      "#Erhöht den mit Standardangriffen verursachten Schaden um 60{NON_BREAK_SPACE}% und den mit Spezialfähigkeiten verursachten Schaden um 60{NON_BREAK_SPACE}%, wenn die Elementarenergie des Trägers 0 Punkte beträgt. Macht den Schadenbonus für Spezialfähigkeiten 6{NON_BREAK_SPACE}s lang unwirksam, wenn der Träger mit seinem Standardangriff Schaden verursacht. Macht den Schadensbonus für Standardangriffe 6{NON_BREAK_SPACE}s lang unwirksam, wenn der Träger mit seiner Spezialfähigkeit Schaden verursacht. Kann auch ausgelöst werden, wenn sich die Figur inaktiv in der Truppe befindet."
+    ]
+  },
+  {
+    "SetId": 15041,
+    "EquipAffixId": 215041,
+    "EquipAffixIds": [
+      2150410,
+      2150411
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Nacht der himmlischen Enthüllung",
+    "Icon": "UI_RelicIcon_15041_4",
+    "Descriptions": [
+      "Erhöht Elementarkunde um 80 Punkte.",
+      "#Verleiht beim Auslösen der Mondleuchten-Reaktionen durch ein Truppenmitglied in der Nähe, wenn sich der Träger auf dem Feld befindet, 4{NON_BREAK_SPACE}s lang den Effekt „Helles Mondlicht – Gedankensammelsurium“: Erhöht, wenn das Mondomen der Truppe „Anfänglicher Glanz“ / „Reifer Glanz“ ist, die KT um 15{NON_BREAK_SPACE}% / 30{NON_BREAK_SPACE}%. Erhöht für jeden unterschiedlichen Effekt des „Hellen Mondlichts“ der Truppenmitglieder den Schaden der von allen Truppenmitgliedern ausgelösten Mondleuchten-Reaktionen um 10{NON_BREAK_SPACE}%. Der durch „Helles Mondlicht“ ausgelöste Effekt ist nicht stapelbar."
+    ]
+  },
+  {
+    "SetId": 15042,
+    "EquipAffixId": 215042,
+    "EquipAffixIds": [
+      2150420,
+      2150421
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Serenade des seidenen Mondes",
+    "Icon": "UI_RelicIcon_15042_4",
+    "Descriptions": [
+      "#Erhöht die Aufladerate um 20{NON_BREAK_SPACE}%.",
+      "#Verleiht beim Verursachen von Elementar-Schaden 8{NON_BREAK_SPACE}s lang den Effekt „Helles Mondlicht – Hohe Überzeugung“: Erhöht, wenn das Mondomen der Truppe „Anfänglicher Glanz“ / „Reifer Glanz“ ist, die Elementarkunde aller Figuren in der Truppe um 60/120 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Erhöht für jeden unterschiedlichen Effekt des „Hellen Mondlichts“ der Truppenmitglieder den Schaden der von allen Truppenmitgliedern ausgelösten Mondleuchten-Reaktionen um 10{NON_BREAK_SPACE}%. Der durch „Helles Mondlicht“ ausgelöste Effekt ist nicht stapelbar."
+    ]
+  }
+]
