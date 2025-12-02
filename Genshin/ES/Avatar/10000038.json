@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "¿Bárbara? Es muy buena Diaconisa. Una vez que me la encontré por casualidad, hice un boceto de retrato de ella. ¿Que dónde está el retrato? Humm... No acepté el dinero que Albert quería pagarme por él y se lo di directamente a la Gran Maestra Intendente. En serio, las relaciones sociales consumen toda mi energía..."
       },
       {
+        "Title": "Sobre Durin...",
+        "Context": "Mi hermano está explorando muchas cosas nuevas. Es inteligente y le encanta reflexionar. Aunque a veces esto lo lleva a ciertos dilemas cognitivos, no impide que mantenga su entusiasmo por este mundo. Su llegada, o mejor dicho, su ingreso en la familia, me ha dado una nueva perspectiva sobre las relaciones humanas. Ahora, con alguien tan cercano de mi propia especie, el hogar se ha vuelto más animado. Sin duda este es un cambio positivo."
+      },
+      {
         "Title": "Más sobre Albedo (I)",
         "Context": "¿Quieres preguntarme algo? Adelante. Pero no me llevará mucho tiempo responderte, ¿verdad? Tengo entre manos un experimento que está a punto de llegar a su fase final."
       },
@@ -1092,5 +1100,11 @@
     "Description": "Diseño de tarjeta de presentación.\nSeré testigo de este milagro.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Estela: El Príncipe de la Roca Caliza",
+    "Description": "La estela epopéyica de Albedo. “Ardiente tierra negra, refulgente isotoma solar”.",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

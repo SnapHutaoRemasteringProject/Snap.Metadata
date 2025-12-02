@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "Barbara ? Assurément une personne d'église aux convictions bien ancrées. Elle m'a servi de modèle, il n'y a pas si longtemps. Ce qu'est devenue la peinture ? Hum... J'ai refusé le prix qu'en offrait Albert pour l'offrir directement à Jean. Entretenir ses relations n'est pas chose aisée."
       },
       {
+        "Title": "À propos de Durin...",
+        "Context": "Mon frère apprend toutes sortes de choses nouvelles. Il est brillant et profondément philosophe. Cela lui cause parfois des ennuis, mais cela ne l'empêche pas d'être passionné par le monde qui l'entoure. Son arrivée, ou plutôt son intégration dans la famille, m'a permis de porter un nouveau regard sur les relations humaines. Avec mes proches à mes côtés, la maison est devenue un lieu plein de vie. Ce qui est une bonne chose, c'est certain."
+      },
+      {
         "Title": "Connaître Albedo (1)",
         "Context": "Vous avez une question ? Je vous écoute. Enfin, ça ne prendra pas trop longtemps j'espère ? J'ai lancé une expérience qui arrive en phase finale d'ici peu."
       },
@@ -1092,5 +1100,11 @@
     "Description": "Thème.\nQuel privilège d'assister à ce miracle.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Écho : Kreideprinz",
+    "Description": "L'écho peinturé d'Albedo. « Khemia ardente et aura solaire. »",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

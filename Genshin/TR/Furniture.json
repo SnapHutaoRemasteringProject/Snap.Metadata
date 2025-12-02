@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Aylak Kedicik",
     "Description": "Meşhur bir siyah kediden esinlenilerek tasarlanmış, üzerinde etkileşimli düğmeler olan mekanik kedi oyuncağı.\nHepimizin bildiği gibi kediler oldukça gizemli yaratıklardır. Oyuncağın tasarımcısı bundan yola çıkarak kullanan kişinin hareketlerine tepki veren bir sistem tasarladı. Kimi davranışlar kediciği mutlu ederken, kimileri aylaklığı bir kenara bırakıp bir anda ayağa fırlamasına neden olur...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363411,
+    "Name": "Parıltı ve Işıltı",
+    "Description": "Bir kaide ve havada duran üç ampulden oluşan bir lamba. Benzersiz tasarımı Nasha Kasabası'nın aydınlatma cihazlarından esinlenmiştir.\n\"Nasıl hem havada asılı kalıp hem de ışık saçabiliyorlar?\" Ampullerin havada asılı kalması Kuuvahki ile ilgili görünüyor. Bu, geçen turistlerin büyüleyici bulduğu türden ilginç bir tasarım.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363412,
+    "Name": "Çarkıfelek",
+    "Description": "Nasha Kasabası'nda sıkça karşılaşılan türden bir talih çarkı. Ortasında dönen bir ibre bulunur ve bu ibre, farklı sonuçları temsil eden renkli bardaklardan birinin üzerinde durur.\n\"Çarkı çevir ve Sosisli sana günlük talihini söylesin!\" Elbette ilk çıkan sonucu beğenmezsen birkaç kez daha çevirebilirsin...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363413,
+    "Name": "İştah Patlaması",
+    "Description": "Nasha Kasabası'nda her yerde görebileceğin, genellikle bol miktarda ekmek ve sosis parçalarıyla dolu bir tabak.\nAltın sarısı çıtır ekmek ve cızırdayan etler... Aç bir gezginin bu lezzetlere karşı koyması zordur. Ancak Dinginçay Çaydanlığına girdiği andan itibaren iştahını kabartmaktan başka bir işe yaramaz...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363386,
+    "Name": "\"Gözcü Sürüngen\"",
+    "Description": "Sumeru'nun Gözcü Yoldaş çekirdek mekanizması kullanılarak Yavru Iktomizor şeklinde modellenmiş bir oyuncak bebek. Canavarları gözetlemeye ve araziyi araştırmaya yardımcı olabilen, sevimli ve güvenilir bir macera dostudur.\nÖn Saha Gözlemcisi Mika, hem uzmanlığından hem de maceracıların ihtiyaçlarından yararlanarak haritalama hassasiyetini ve çevikliğini artırmak için Gözcü Sürüngeni tamamen yeniden tasarladı. Ayrıca çevresine karşı keskin farkındalığını somutlaştırmak için ona Yavru Iktomizor şeklini verdi. Ne de olsa tehlikelerle dolu bir dünyada uyanık ve zeki bir yoldaşa daima güvenebilirsin.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 364225,
+    "Name": "Han Bildirisi: Sokağın Fısıltıları",
+    "Description": "Sancak Gemisi'ndeki ödüllü görev duyurularının asıldığı büyük bir ilan panosu. Geniş yüzeyi birçok bildiriyi barındırabilir.\nEn karmaşık görevlerin sunduğu cazip ödülleri çok az kişi kazanabilir, fakat detaylı yazıları okuyanlar her zaman ilginç bir söylentinin izini sürebilirler...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374637,
+    "Name": "Saniyede Şipşak Robot",
+    "Description": "Çın Çın Krumkake Atölyesinde bulunan, kompakt, hassas robotik kollarla donatılmış mekanik bir düzenek.\n\"Saniyede Şipşak Robot sadece bir saniye içinde her işi halleder!\" Gerçi her şeyi \"bir saniyede\" tamamlayamasa da oldukça verimli çalışır. Belki de mucit, müşterilerin bu hızdan daha fazlasını istemeyeceğine inanmıştır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 373939,
+    "Name": "Kullanışlı Cep Dedektörü",
+    "Description": "Nasha Kasabası'nda sıkça rastlanan bu tarayıcı, kullanışlı bir şeyler bulmak amacıyla hurda yığınlarını taramak için kullanılır. Ancak genellikle yaşlı bir amcanın kayıp güneş gözlükleri ya da genç bir kadının kopan düğmesi gibi tuhaf şeylere tepki verir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374639,
+    "Name": "Gurme Et Kuzinesi",
+    "Description": "Bu Nasha Kasabası fırını, ısıyı dengede tutar ve aromayı hapsederek her seferinde mükemmel, yumuşak ve sulu lezzetler sunar.\nRivayete göre bu fırını kullanan herkes, farkında olmadan mutlu şarkılar mırıldanmaya başlarmış...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374640,
+    "Name": "Sallanan Midilli",
+    "Description": "Nasha Kasabası'nda sıkça görülen bu eğlence aracı tamamen atık teneke levhalardan yapılmıştır. Basit malzemelerine rağmen çocukların en sevdiği oyuncaklardan biridir.\nÇocuklar midilliye binip ileri geri sallandıkça tüm dertleri uçar gider, yerini kahkahalar alır.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374641,
+    "Name": "Dikey Çift Kutuplu Üç Ayaklı Kule",
+    "Description": "Çın Çın Krumkake Atölyesinde bulunan tuhaf üç ayaklı kule.\nAltın çağdan kalma bir eser olduğuna inanılan bu yapının asıl işlevi zamanla unutulmuş. Şimdi ise sadece dekoratif bir amaç taşıyor.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hükümdar Görevinden elde edilir."
+    ],
+    "Id": 374811,
+    "Name": "Seninle Birlikte",
+    "Description": "Buzboynuzlu Geyik ile Şık Porsuk arasındaki arkadaşlıktan esinlenen bir temalı fotoğraf köşesi. Ziyaretçilerin hava karardıktan sonra bile fotoğraf çekebilmesi için yerleşik ışıklarla donatılmıştır.\n\"Uykusuz kalmış bir Buzboynuzlu Geyiğin yanında poz veren şaşkın bir Şık Porsuk gibi durmuyor mu?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hükümdar Görevinden elde edilir."
+    ],
+    "Id": 373222,
+    "Name": "Kokusuz Yapraklar",
+    "Description": "Ay Duası Gecesinin atmosferine uygun şekilde düzenlenmiş bir çiçek tarhı. İçindeki mekanik çiçekler karanlıkta sıcak ve yumuşak bir ışıkla parlar.\n\"Tuhaf mı? Olabilir... Ama Nod-Krai'da tuhaflık normal!\" demiş birkaç meraklı gezgin.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374812,
+    "Name": "Ruhyakan: Fietena",
+    "Description": "Popüler çizgi roman Ruhyakan Destanı'nın gözü pek başrolü Fietena'dan ilham alan bir karakter standı. Çarpıcı pozu hem korkusuz ruhunu hem de sarsılmaz savaş tutkusunu yansıtıyor.\n\"Artık geri dönüş yok. Hadi bitirelim şu işi!\"\nElbette birlikte hücum ederek her zaman mükemmel bir zafer elde edemezsiniz. Yine de paylaştığınız tutku ve gösterdiğiniz çaba gerçekti. Belki bir gün tüm bunlar, geriye dönüp baktığında pişmanlık duymayacağın harika bir şeye dönüşür.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hükümdar Görevinden elde edilir."
+    ],
+    "Id": 374813,
+    "Name": "Dönen Dodoko",
+    "Description": "Keyfi en iyi iki kişiyle çıkarılan bu dönen oyuncağın sponsoru, yüce büyücünün ta kendisidir.\n\"Yumuşacık ve tüylü bir Dodoko'ya bin ve unutulmaz bir maceraya atıl!\"\nDönen Dodoko eninde sonunda duracaktır ancak seni ve birlikte bindiğin kişiyi daima yeni bir yolculuk bekler...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Savaş Bileti: Aydınlanma Korosundan satın alınır."
+    ],
+    "Id": 374818,
+    "Name": "Hareketli Ejderha",
+    "Description": "Efsanevi bir masal kitabındaki ejderhadan ilham alınarak yapılmış bir heykel. Sanki saldırıya geçecekmiş gibi kanatlarını indirmiş ve gözleri odaklanmış bir şekilde durur.\nSırtına binerek Hareketli Ejderha ile etkileşime geçebilirsin. Bu, içindeki mekanizmayı harekete geçirerek gözlerini açmasını, kanatlarını çırpmasını ve kuyruğunu sallamasını sağlar. Adeta sırtındaki yolcuya \"Sıkı tutun, uçuyoruz!\" mesajını veriyor gibidir.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360467,
+    "Name": "Yalnız Yolcu",
+    "Description": "Çın Çın Krumkake Atölyesinden bu sokak lambası, başı öne eğik ve omuzları düşük halde yalnız yürüyen bir gezgine benziyor.\nGece çökünce sessizce aydınlanıyor ve yoldan geçenleri şu düşünceye sevk ediyor:\n\"Ne kadar da uzun bir lamba... Acaba beli ve sırtı dayanabiliyor mu?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hükümdar Görevinden elde edilir."
+    ],
+    "Id": 360468,
+    "Name": "Zamansız Parıltı",
+    "Description": "Tenekeden yapılmış hilal şeklinde bir lamba. Gece gündüz her saat yumuşak ve sessiz bir ışık yayar.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372516,
+    "Name": "Al Renkli Sisin Fısıltısı",
+    "Description": "Yere yakın büyüyen, ince ve dik gövdelerden oluşan kümelere sahip soluk pembe bir çalı.\nGenellikle yoğun, kesintisiz parçalar halinde yayılır. Uzaktan bakıldığında toprağın hemen üzerinde süzülen yumuşak pembe bir sis gibi görünür ve doğanın ta kendisi yumuşacık bir sesle fısıldıyormuş gibi bir izlenim verir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372517,
+    "Name": "Geçmişe Elveda",
+    "Description": "İnce, esnek gövdeleri ve yelpaze benzeri yapraklarıyla bilinen bir mağara bitkisi türü.\nBu bitkiler inanılmaz derecede dayanıklıdır. Koşullar nasıl olursa olsun, ince dalları ve yaprakları esintiyle beraber sanki sessizce geçmişe el sallıyormuş gibi salınır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372518,
+    "Name": "Işıltılı Tomurcuk",
+    "Description": "Her biri çiçek tomurcuklarını andıran, yumuşak bir şekilde yayılan yaprakları ve uçlarında ince filizleri olan toz pembe bir mağara bitkisi.\nBu bitki hafif ve yumuşak bir parıltı yayar. Bütün mağarayı aydınlatmasa da atmosfere eşsiz bir dokunuş katar...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374814,
+    "Name": "Küçük Serçecik",
+    "Description": "Kadim Kızıl Tüylü Serçeden esinlenilen, karşı konulmaz derecede tombalak ve sevimli görünümlü bir zıplayan top modeli.\nSerçecik küçük olabilir ama şaşırtıcı bir kuvvete sahiptir!\nOnunla oynarken, sevimliliğinin etkisi altında kalıp \"Serçeler kadar sevimlisi yok!\" demekten kendini alamayacaksın.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374815,
+    "Name": "Haydut Gurme",
+    "Description": "Haydut maskesiyle dikkat çeken, \"Patates Hırsızı\" Martıdan ilham alınarak tasarlanmış bu figür, gerçek bir Haydut Gurmenin özünü mükemmel bir şekilde yansıtıyor.\n\"Tombalaklar, Natlan mutfağının olağanüstü olduğunu söylüyor. Hımm... O halde Haydut Gurme olarak mutlaka gidip kendim tatmalıyım!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374816,
+    "Name": "Dahi Gelincik",
+    "Description": "\"Obur\" Dağ Gelinciğinden esinlenerek tasarlanan bu figür, açgözlü martıları hizaya sokup haraç ödeten entrikacı Dahi Gelincikten başkası değil!\n\"'Patates Hırsızı' Martılar mı? Onlar sadece beceriksiz haydutlar. Mısırın son tanesine kadar tadını çıkaracak olan benim.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374817,
+    "Name": "Ruhyakan Kardan Adam: Savaşçı",
+    "Description": "Varesa model alınarak yapılmış, onun kendine has kahraman maskesinden takan bir kardan adam. Varesa'nın en belirgin özelliği olan tutkusundan ödün vermeden onun sıcak ve cana yakın ruhunu aslına sadık şekilde yansıtır.\nYeşim Fırlatmanın üreticisi, Teyvat'ın dört bir yanından gelen misafirlerin rahatlamasına ve eğlenmesine yardımcı olmak için bu sevimli küçük yoldaşı tasarladı. Ejdersırtı'nın karları haşin olsa da bu yoldaşın varlığı bir süreliğine insanın içini ısıtır.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

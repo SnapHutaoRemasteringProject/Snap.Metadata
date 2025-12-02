@@ -1180,5 +1180,29 @@
     "SecondDescriptions": [
       "Dano Pyro de Ataque Normal do personagem +75%."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "(teste) Descartado",
+      "Todos os membros da equipe obtêm 60% de Bônus de Dano Pyro.",
+      "Todos os Personagens da Equipe obterão 60% de Bônus de Dano Electro."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Personagens não-ativos ganham 75% de Bônus de Dano Pyro."
+    ],
+    "SecondDescriptions": [
+      "Dano do Ataque Imersivo dos personagens aumenta em 75%."
+    ]
   }
 ]

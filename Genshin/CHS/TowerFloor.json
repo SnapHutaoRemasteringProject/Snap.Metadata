@@ -1177,5 +1177,28 @@
     "SecondDescriptions": [
       "角色通过普通攻击造成的火元素伤害提升75%。"
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "队伍中所有角色获得60%火元素伤害加成。",
+      "队伍中所有角色获得60%雷元素伤害加成。"
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "处于队伍后台的角色获得75%火元素伤害加成。"
+    ],
+    "SecondDescriptions": [
+      "角色的下落攻击造成伤害提升75%。"
+    ]
   }
 ]

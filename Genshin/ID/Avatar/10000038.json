@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "Barbara? Dia seorang Diakones yang taat. Waktu itu aku pernah menggambar wajahnya ... Di mana ya gambarnya? Ah, iya, tempo hari Albert sangat berminat dengan gambar itu, bahkan sudah buka harga, tapi kutolak. Akhirnya kuberikan gambar itu ke Acting Grand Master. Membangun hubungan sosial ... benar-benar perlu banyak usaha."
       },
       {
+        "Title": "Tentang Durin",
+        "Context": "Adikku ini sedang mempelajari berbagai hal baru. Dia cerdas dan sangat filosofis. Terkadang ini membuat kesulitan, tapi tetap tidak mengurangi semangatnya untuk memahami dunia. Kedatangannya, atau mungkin lebih tepatnya, bergabungnya dia dengan keluarga kami , telah memberiku pemahaman baru tentang hubungan antar manusia. Dengan kerabat terdekatku di sekitar, rumah menjadi tempat yang lebih hidup, yang tentunya merupakan hal yang positif."
+      },
+      {
         "Title": "Mengenal Albedo: I",
         "Context": "Ada pertanyaan? Silakan. Satu pertanyaan tidak akan makan waktu, ya kan? Penelitianku sudah mau masuk tahap akhir ...."
       },
@@ -1092,5 +1100,11 @@
     "Description": "Style kartu nama.\nBiarkan aku menjadi saksi mata atas keajaiban ini.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Echo: Kreideprinz",
+    "Description": "Envisaged Echo milik Albedo. \"Solar Isotoma merekah dari nigredo yang membara.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "GÖREV TAMAM",
-    "Description": "10 Canavar Avını tamamla.",
+    "Description": "3 Canavar Avı tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "GÖREV TAMAM",
-    "Description": "20 Canavar Avını tamamla.",
+    "Description": "6 Canavar Avı tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "GÖREV TAMAM",
-    "Description": "30 Canavar Avını tamamla.",
+    "Description": "9 Canavar Avı tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Bir Kahraman Yetişiyor",
-    "Description": "10 İsteği tamamla.",
+    "Description": "3 İstek tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Bir Kahraman Yetişiyor",
-    "Description": "20 İsteği tamamla.",
+    "Description": "6 İstek tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Bir Kahraman Yetişiyor",
-    "Description": "30 İsteği tamamla.",
+    "Description": "9 İstek tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17413,7 +17413,7 @@
     "Goal": 0,
     "Order": 2301,
     "Title": "\"Artık Bana Ait Dostum!\"",
-    "Description": "... Tahmin ettiğin gibi kendi silahından daha doğal gelen başkası yok.",
+    "Description": "... Tahmin ettiğin gibi, insanın kendi silahı gibisi yok.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17434,6 +17434,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Drzislav'ın Yürüyen Şatosu",
+    "Description": "En az iki defa aşırı ısınıp hareketsiz kalan bir Süper Ağır Kara Gezgini: Mekanik Kaleyi yen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84000,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Önemli Bir Gün",
+    "Description": "Tatilin amacı dinlenmek ve eğlenmektir.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Ay Duası Gecesi",
+    "Description": "Mehtaplı küredeki son gecenin tadını çıkar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Sonsuzluk ve Fanilik Arasında",
+    "Description": "İster gece ister gündüz, ay ışığı her daim bizi birbirimize bağlamanın bir yolunu bulur.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Sabah Sisinde Eriyen Ay Işığı",
+    "Description": "\"Sabah Sisinde Eriyen Ay Işığı\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Taş Kaldırıldığında",
+    "Description": "Kim bilir, belki beklenmedik bir şeyler bulursun.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Yanıltıcı Bir Rüya",
+    "Description": "Burada bir zamanlar yaşanmış tarihe tanıklık et.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Birleşen Yollar",
+    "Description": "Geçmişte bir yerde yollarınız kesişmiş...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Uzak Kuzeye Ait Bir Noktürn",
+    "Description": "\"Uzak Kuzeye Ait Bir Noktürn\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

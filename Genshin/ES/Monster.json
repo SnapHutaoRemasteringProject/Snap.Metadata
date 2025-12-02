@@ -2,7 +2,6 @@
   {
     "Id": 20010101,
     "DescribeId": 101,
-    "RelationshipId": 101,
     "MonsterName": "Slime_Grass_02",
     "Name": "Slime Dendro",
     "Title": "Slime Dendro",
@@ -47,7 +46,6 @@
   {
     "Id": 20010201,
     "DescribeId": 102,
-    "RelationshipId": 102,
     "MonsterName": "Slime_Grass_03",
     "Name": "Slime Gigante Dendro",
     "Title": "Slime Gigante Dendro",
@@ -95,7 +93,6 @@
   {
     "Id": 20010301,
     "DescribeId": 103,
-    "RelationshipId": 103,
     "MonsterName": "Slime_Wind_02",
     "Name": "Slime Anemo",
     "Title": "Slime Anemo",
@@ -140,7 +137,6 @@
   {
     "Id": 20010401,
     "DescribeId": 104,
-    "RelationshipId": 104,
     "MonsterName": "Slime_Wind_03",
     "Name": "Slime Gigante Anemo",
     "Title": "Slime Gigante Anemo",
@@ -185,7 +181,6 @@
   {
     "Id": 20010501,
     "DescribeId": 105,
-    "RelationshipId": 105,
     "MonsterName": "Slime_Electric_02",
     "Name": "Slime Electro",
     "Title": "Slime Electro",
@@ -233,7 +228,6 @@
   {
     "Id": 20010601,
     "DescribeId": 106,
-    "RelationshipId": 106,
     "MonsterName": "Slime_Electric_03",
     "Name": "Slime Gigante Electro",
     "Title": "Slime Gigante Electro",
@@ -281,7 +275,6 @@
   {
     "Id": 20010701,
     "DescribeId": 107,
-    "RelationshipId": 107,
     "MonsterName": "Slime_Electric_03_Positive",
     "Name": "Slime Mutante Electro",
     "Title": "Slime Mutante Electro",
@@ -329,7 +322,6 @@
   {
     "Id": 20010801,
     "DescribeId": 108,
-    "RelationshipId": 108,
     "MonsterName": "Slime_Ice_02",
     "Name": "Slime Cryo",
     "Title": "Slime Cryo",
@@ -377,7 +369,6 @@
   {
     "Id": 20010901,
     "DescribeId": 109,
-    "RelationshipId": 109,
     "MonsterName": "Slime_Ice_03",
     "Name": "Slime Gigante Cryo",
     "Title": "Slime Gigante Cryo",
@@ -425,7 +416,6 @@
   {
     "Id": 20011001,
     "DescribeId": 110,
-    "RelationshipId": 110,
     "MonsterName": "Slime_Water_02",
     "Name": "Slime Hydro",
     "Title": "Slime Hydro",
@@ -470,7 +460,6 @@
   {
     "Id": 20011101,
     "DescribeId": 111,
-    "RelationshipId": 111,
     "MonsterName": "Slime_Water_03",
     "Name": "Slime Gigante Hydro",
     "Title": "Slime Gigante Hydro",
@@ -515,7 +504,6 @@
   {
     "Id": 20011201,
     "DescribeId": 112,
-    "RelationshipId": 112,
     "MonsterName": "Slime_Fire_02",
     "Name": "Slime Pyro",
     "Title": "Slime Pyro",
@@ -560,7 +548,6 @@
   {
     "Id": 20011301,
     "DescribeId": 113,
-    "RelationshipId": 113,
     "MonsterName": "Slime_Fire_03",
     "Name": "Slime Gigante Pyro",
     "Title": "Slime Gigante Pyro",
@@ -605,7 +592,6 @@
   {
     "Id": 20011401,
     "DescribeId": 114,
-    "RelationshipId": 114,
     "MonsterName": "Slime_Rock_02",
     "Name": "Slime Geo",
     "Title": "Slime Geo",
@@ -650,7 +636,6 @@
   {
     "Id": 20011501,
     "DescribeId": 115,
-    "RelationshipId": 115,
     "MonsterName": "Slime_Rock_03",
     "Name": "Slime Gigante Geo",
     "Title": "Slime Gigante Geo",
@@ -695,7 +680,6 @@
   {
     "Id": 0,
     "DescribeId": 116,
-    "RelationshipId": 116,
     "Name": "Hipóstasis Hydro - Invocación",
     "Title": "Slime Gigante Hydro",
     "Icon": "UI_MonsterIcon_Slime_Fire_02",
@@ -705,7 +689,6 @@
   {
     "Id": 0,
     "DescribeId": 117,
-    "RelationshipId": 117,
     "Name": "Hipóstasis Hydro - Invocación",
     "Title": "Slime Gigante Hydro",
     "Icon": "UI_MonsterIcon_Slime_Fire_03",
@@ -715,7 +698,6 @@
   {
     "Id": 0,
     "DescribeId": 118,
-    "RelationshipId": 118,
     "Name": "Hipóstasis Hydro - Invocación",
     "Title": "Slime Gigante Hydro",
     "Icon": "UI_MonsterIcon_Slime_Rock_02",
@@ -725,7 +707,6 @@
   {
     "Id": 0,
     "DescribeId": 119,
-    "RelationshipId": 119,
     "Name": "Hipóstasis Hydro - Invocación",
     "Title": "Slime Gigante Hydro",
     "Icon": "UI_MonsterIcon_Slime_Rock_03",
@@ -735,7 +716,6 @@
   {
     "Id": 20020101,
     "DescribeId": 201,
-    "RelationshipId": 201,
     "MonsterName": "Elemental_Wind_01",
     "Name": "Ojo de la Tormenta",
     "Title": "Ojo de la Tormenta",
@@ -777,7 +757,6 @@
   {
     "Id": 20040101,
     "DescribeId": 401,
-    "RelationshipId": 401,
     "MonsterName": "Effigy_Electric_01",
     "Name": "Hipóstasis Electro",
     "Title": "Hipóstasis Electro",
@@ -841,7 +820,6 @@
   {
     "Id": 20040201,
     "DescribeId": 402,
-    "RelationshipId": 402,
     "MonsterName": "Effigy_Wind_01",
     "Name": "Hipóstasis Anemo",
     "Title": "Hipóstasis Anemo",
@@ -902,7 +880,6 @@
   {
     "Id": 20040301,
     "DescribeId": 403,
-    "RelationshipId": 403,
     "MonsterName": "Effigy_Rock_01",
     "Name": "Hipóstasis Geo",
     "Title": "Hipóstasis Geo",
@@ -963,7 +940,6 @@
   {
     "Id": 20040401,
     "DescribeId": 404,
-    "RelationshipId": 404,
     "MonsterName": "Effigy_Water_01",
     "Name": "Hipóstasis Hydro",
     "Title": "Hipóstasis Hydro",
@@ -1023,7 +999,6 @@
   {
     "Id": 20040501,
     "DescribeId": 405,
-    "RelationshipId": 405,
     "MonsterName": "Effigy_Ice_01",
     "Name": "Hipóstasis Cryo",
     "Title": "Hipóstasis Cryo",
@@ -1083,7 +1058,6 @@
   {
     "Id": 20040601,
     "DescribeId": 406,
-    "RelationshipId": 406,
     "MonsterName": "Effigy_Fire_01",
     "Name": "Hipóstasis Pyro",
     "Title": "Hipóstasis Pyro",
@@ -1143,7 +1117,6 @@
   {
     "Id": 20040701,
     "DescribeId": 407,
-    "RelationshipId": 407,
     "MonsterName": "Effigy_Grass_01",
     "Name": "Hipóstasis Dendro",
     "Title": "Hipóstasis Dendro",
@@ -1201,7 +1174,6 @@
   {
     "Id": 20050101,
     "DescribeId": 501,
-    "RelationshipId": 501,
     "MonsterName": "Monster_Oceanid",
     "Name": "Oceánida",
     "Title": "Dueña de estas aguas",
@@ -1264,7 +1236,6 @@
   {
     "Id": 0,
     "DescribeId": 502,
-    "RelationshipId": 502,
     "Name": "Jabalí Hidromimético",
     "Title": "Jabalí Hidromimético",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1274,7 +1245,6 @@
   {
     "Id": 0,
     "DescribeId": 503,
-    "RelationshipId": 503,
     "Name": "Grulla Hidromimética",
     "Title": "Grulla Hidromimética",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1284,7 +1254,6 @@
   {
     "Id": 0,
     "DescribeId": 504,
-    "RelationshipId": 504,
     "Name": "Cangrejo Hidromimético",
     "Title": "Cangrejo Hidromimético",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1294,7 +1263,6 @@
   {
     "Id": 0,
     "DescribeId": 505,
-    "RelationshipId": 505,
     "Name": "Pinzón Hidromimético",
     "Title": "Pinzón Hidromimético",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1304,7 +1272,6 @@
   {
     "Id": 0,
     "DescribeId": 506,
-    "RelationshipId": 506,
     "Name": "Pato Hidromimético",
     "Title": "Pato Hidromimético",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1314,7 +1281,6 @@
   {
     "Id": 0,
     "DescribeId": 507,
-    "RelationshipId": 507,
     "Name": "Ardilla Hidromimética",
     "Title": "Ardilla Hidromimética",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1324,7 +1290,6 @@
   {
     "Id": 0,
     "DescribeId": 508,
-    "RelationshipId": 508,
     "Name": "Rana Hidromimética",
     "Title": "Rana Hidromimética",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1334,7 +1299,6 @@
   {
     "Id": 0,
     "DescribeId": 509,
-    "RelationshipId": 509,
     "Name": "Ave Rapaz Hidromimética",
     "Title": "Ave Rapaz Hidromimética",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1344,7 +1308,6 @@
   {
     "Id": 20051001,
     "DescribeId": 510,
-    "RelationshipId": 510,
     "MonsterName": "Monster_Necalevia_Normal_01",
     "Name": "Ánima Aplastalodo",
     "Title": "Ánima Aplastalodo",
@@ -1396,7 +1359,6 @@
   {
     "Id": 20051101,
     "DescribeId": 511,
-    "RelationshipId": 511,
     "MonsterName": "Monster_Necalevia_Big_01",
     "Name": "Ánima Escupelodo",
     "Title": "Ánima Escupelodo",
@@ -1448,7 +1410,6 @@
   {
     "Id": 20051201,
     "DescribeId": 512,
-    "RelationshipId": 512,
     "MonsterName": "Monster_Narcissusborn_Normal_01",
     "Name": "Tulpa Hidromimético",
     "Title": "Tulpa Hidromimético",
@@ -1508,7 +1469,6 @@
   {
     "Id": 0,
     "DescribeId": 513,
-    "RelationshipId": 513,
     "Name": "Tulpa Semimimético",
     "Title": "Ave Rapaz Hidromimética",
     "Icon": "",
@@ -1521,7 +1481,6 @@
   {
     "Id": 0,
     "DescribeId": 514,
-    "RelationshipId": 514,
     "Name": "Ánima Aplastalodo veterana",
     "Title": "Ánima Aplastalodo",
     "Icon": "UI_MonsterIcon_Necalevia_Normal",
@@ -1531,7 +1490,6 @@
   {
     "Id": 0,
     "DescribeId": 515,
-    "RelationshipId": 515,
     "Name": "Ánima Escupelodo veterana",
     "Title": "Ánima Escupelodo",
     "Icon": "UI_MonsterIcon_Necalevia_Big",
@@ -1541,7 +1499,6 @@
   {
     "Id": 0,
     "DescribeId": 516,
-    "RelationshipId": 516,
     "Name": "Tulpa Hidromimético",
     "Title": "Ave Rapaz Hidromimética",
     "Icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -1551,7 +1508,6 @@
   {
     "Id": 20060101,
     "DescribeId": 601,
-    "RelationshipId": 601,
     "MonsterName": "Sylph_Water_01",
     "Name": "Espectro Hydro",
     "Title": "Espectro Hydro",
@@ -1596,7 +1552,6 @@
   {
     "Id": 20060201,
     "DescribeId": 602,
-    "RelationshipId": 602,
     "MonsterName": "Sylph_Rock_01",
     "Name": "Espectro Geo",
     "Title": "Espectro Geo",
@@ -1641,7 +1596,6 @@
   {
     "Id": 20060301,
     "DescribeId": 603,
-    "RelationshipId": 603,
     "MonsterName": "Sylph_Wind_01",
     "Name": "Espectro Anemo",
     "Title": "Espectro Anemo",
@@ -1686,7 +1640,6 @@
   {
     "Id": 20060401,
     "DescribeId": 604,
-    "RelationshipId": 604,
     "MonsterName": "Sylph_Ice_01",
     "Name": "Espectro Cryo",
     "Title": "Espectro Cryo",
@@ -1725,7 +1678,6 @@
   {
     "Id": 20060501,
     "DescribeId": 605,
-    "RelationshipId": 605,
     "MonsterName": "Sylph_Electric_01",
     "Name": "Espectro Electro",
     "Title": "Espectro Electro",
@@ -1764,7 +1716,6 @@
   {
     "Id": 20060601,
     "DescribeId": 606,
-    "RelationshipId": 606,
     "MonsterName": "Sylph_Fire_01",
     "Name": "Espectro Pyro",
     "Title": "Espectro Pyro",
@@ -1803,7 +1754,6 @@
   {
     "Id": 20060701,
     "DescribeId": 607,
-    "RelationshipId": 607,
     "MonsterName": "Sylph_Grass_01",
     "Name": "Espectro Dendro",
     "Title": "Espectro Dendro",
@@ -1848,7 +1798,6 @@
   {
     "Id": 20070101,
     "DescribeId": 701,
-    "RelationshipId": 701,
     "MonsterName": "Monster_Raijin_01",
     "Name": "Manifestación del Trueno",
     "Title": "Manifestación del Trueno",
@@ -1908,7 +1857,6 @@
   {
     "Id": 20080101,
     "DescribeId": 801,
-    "RelationshipId": 801,
     "MonsterName": "Monster_Moonbeast_Electric_01",
     "Name": "Sucesor Nochescarcha - Voltaje fulgurante",
     "Title": "Sucesor Nochescarcha",
@@ -1960,7 +1908,6 @@
   {
     "Id": 20080201,
     "DescribeId": 802,
-    "RelationshipId": 802,
     "MonsterName": "Monster_Moonbeast_Grass_01",
     "Name": "Sucesor Nochescarcha - Enredadera",
     "Title": "Sucesor Nochescarcha",
@@ -2012,7 +1959,6 @@
   {
     "Id": 20080301,
     "DescribeId": 803,
-    "RelationshipId": 803,
     "MonsterName": "Monster_Moonbeast_Fire_01",
     "Name": "Sucesor Nochescarcha - Ardor deslumbrante",
     "Title": "Sucesor Nochescarcha",
@@ -2064,7 +2010,6 @@
   {
     "Id": 20080401,
     "DescribeId": 804,
-    "RelationshipId": 804,
     "MonsterName": "Monster_Moonbeast_Ice_01",
     "Name": "Sucesor Nochescarcha - Algidez cristalina",
     "Title": "Sucesor Nochescarcha",
@@ -2116,11 +2061,10 @@
   {
     "Id": 20081001,
     "DescribeId": 810,
-    "RelationshipId": 810,
     "MonsterName": "Monster_HerraFrost_01",
     "Name": "Señor Nochescarcha",
     "Title": "Protector del fulgor sagrado",
-    "Description": "Seres orgullosos que deambulan bajo el tenue resplandor de la luna y que utilizan un poder antiguo controlado desde hace mucho tiempo por el Señor del Cielo.\nCuenta la leyenda que estos elegantes seres aparecieron en una época anterior a la destrucción de la Luna Escarchada y que eran los predilectos de la emisaria divina, por lo que nunca se contaminaron con la luz del cielo. A día de hoy, siguen siendo venerados por los seguidores de la Luna Escarchada como bestias sagradas que ya no pertenecen a este mundo y que se han retirado al más allá por secretos caminos lunares. Pero, como han hecho durante incontables siglos, siguen vagando por las sombras de la luna, caminando por la frontera entre dos mundos, vigilando la tierra asolada por el mal y protegiendo a quienes viven allí, porque ese es el juramento que una vez hicieron al santo de la ciudad dorada.",
+    "Description": "Seres orgullosos que deambulan bajo el tenue resplandor de la luna y que utilizan un poder antiguo controlado desde hace mucho tiempo por el Señor del Cielo.\nCuenta la leyenda que estos elegantes seres aparecieron cuando la Luna Escarchada aún giraba y que recibieron el favor de la emisaria divina, por lo que nunca se contaminaron con la luz del cielo. A día de hoy, siguen siendo venerados por los seguidores de la Luna Escarchada como bestias sagradas que ya no pertenecen a este mundo y que se han retirado al más allá por secretos caminos lunares. Pero, como han hecho durante incontables siglos, siguen vagando por las sombras de la luna, caminando por la frontera entre dos mundos, vigilando la tierra asolada por el mal y protegiendo a quienes viven allí, porque ese es el juramento que una vez hicieron al santo de la ciudad dorada.",
     "Icon": "UI_MonsterIcon_HerraFrost",
     "Type": 2,
     "Arkhe": 0,
@@ -2180,7 +2124,6 @@
   {
     "Id": 0,
     "DescribeId": 811,
-    "RelationshipId": 811,
     "Name": "Señor Nochescarcha",
     "Title": "Protector del fulgor sagrado",
     "Icon": "UI_MonsterIcon_HerraFrost",
@@ -2190,7 +2133,6 @@
   {
     "Id": 21010101,
     "DescribeId": 10101,
-    "RelationshipId": 10101,
     "MonsterName": "Hili_None_01",
     "Name": "Hilichurl",
     "Title": "Hilichurl",
@@ -2235,7 +2177,6 @@
   {
     "Id": 21010201,
     "DescribeId": 10102,
-    "RelationshipId": 10102,
     "MonsterName": "Hili_None_01_Club",
     "Name": "Hilichurl Guerrero",
     "Title": "Hilichurl",
@@ -2280,7 +2221,6 @@
   {
     "Id": 21010301,
     "DescribeId": 10103,
-    "RelationshipId": 10103,
     "MonsterName": "Hili_None_01_Shield",
     "Name": "Hilichurl con Escudo de Madera",
     "Title": "Hilichurl",
@@ -2325,7 +2265,6 @@
   {
     "Id": 21010401,
     "DescribeId": 10104,
-    "RelationshipId": 10104,
     "MonsterName": "Hili_None_01_Range",
     "Name": "Hilichurl Ballestero",
     "Title": "Hilichurl Ballestero",
@@ -2373,7 +2312,6 @@
   {
     "Id": 21010501,
     "DescribeId": 10105,
-    "RelationshipId": 10105,
     "MonsterName": "Hili_Fire_Range",
     "Name": "Hilichurl Ballestero Pyro",
     "Title": "Hilichurl Ballestero",
@@ -2424,7 +2362,6 @@
   {
     "Id": 21010601,
     "DescribeId": 10106,
-    "RelationshipId": 10106,
     "MonsterName": "Hili_Fire_Bomb",
     "Name": "Hilichurl Lanzagranadas",
     "Title": "Hilichurl",
@@ -2472,7 +2409,6 @@
   {
     "Id": 21010701,
     "DescribeId": 10107,
-    "RelationshipId": 10107,
     "MonsterName": "Hili_Fire_Rush",
     "Name": "Hilichurl Berserker",
     "Title": "Hilichurl",
@@ -2520,7 +2456,6 @@
   {
     "Id": 21010901,
     "DescribeId": 10109,
-    "RelationshipId": 10109,
     "MonsterName": "Hili_Ice_Range",
     "Name": "Hilichurl Ballestero Cryo",
     "Title": "Hilichurl Ballestero",
@@ -2568,7 +2503,6 @@
   {
     "Id": 21011001,
     "DescribeId": 10110,
-    "RelationshipId": 10110,
     "MonsterName": "Hili_Electric_Range",
     "Name": "Hilichurl Ballestero Electro",
     "Title": "Hilichurl Ballestero",
@@ -2616,7 +2550,6 @@
   {
     "Id": 21011201,
     "DescribeId": 10112,
-    "RelationshipId": 10112,
     "MonsterName": "Hili_None_01_RockShield",
     "Name": "Hilichurl con Escudo de Piedra",
     "Title": "Hilichurl",
@@ -2661,7 +2594,6 @@
   {
     "Id": 21011301,
     "DescribeId": 10113,
-    "RelationshipId": 10113,
     "MonsterName": "Hili_Ice_Bomb",
     "Name": "Hilichurl Granadero Cryo",
     "Title": "Hilichurl",
@@ -2706,7 +2638,6 @@
   {
     "Id": 21011401,
     "DescribeId": 10114,
-    "RelationshipId": 10114,
     "MonsterName": "Hili_Ice_IceShield",
     "Name": "Hilichurl con Escudo Cryo",
     "Title": "Hilichurl",
@@ -2751,7 +2682,6 @@
   {
     "Id": 21011501,
     "DescribeId": 10115,
-    "RelationshipId": 10115,
     "MonsterName": "Hili_Wei_NoWeapon_01",
     "Name": "Hilichurl Extraño",
     "Title": "Hilichurl Extraño",
@@ -2790,7 +2720,6 @@
   {
     "Id": 21011601,
     "DescribeId": 10116,
-    "RelationshipId": 10116,
     "MonsterName": "Hili_Electric_Bomb",
     "Name": "Hilichurl Lanzagranadas Electro",
     "Title": "Hilichurl",
@@ -2829,7 +2758,6 @@
   {
     "Id": 21020101,
     "DescribeId": 10201,
-    "RelationshipId": 10201,
     "MonsterName": "Brute_None_Shield",
     "Name": "Mitachurl con Escudo de Madera",
     "Title": "Mitachurl con Escudo de Madera",
@@ -2884,7 +2812,6 @@
   {
     "Id": 21020201,
     "DescribeId": 10202,
-    "RelationshipId": 10202,
     "MonsterName": "Brute_None_Axe",
     "Name": "Mitachurl con Hacha de Fuego",
     "Title": "Mitachurl - Hacha de fuego",
@@ -2942,7 +2869,6 @@
   {
     "Id": 21020301,
     "DescribeId": 10203,
-    "RelationshipId": 10203,
     "MonsterName": "Brute_None_RockShield",
     "Name": "Mitachurl con Escudo de Piedra",
     "Title": "Mitachurl - Escudo de Piedra",
@@ -2997,7 +2923,6 @@
   {
     "Id": 21020401,
     "DescribeId": 10204,
-    "RelationshipId": 10204,
     "MonsterName": "Brute_Ice_None",
     "Name": "Lawachurl Brazo Helado",
     "Title": "Lawachurl Brazo Helado",
@@ -3052,7 +2977,6 @@
   {
     "Id": 21020501,
     "DescribeId": 10205,
-    "RelationshipId": 10205,
     "MonsterName": "Brute_Rock_None",
     "Name": "Lawachurl Acorazado",
     "Title": "Lawachurl Acorazado",
@@ -3107,7 +3031,6 @@
   {
     "Id": 21020601,
     "DescribeId": 10206,
-    "RelationshipId": 10206,
     "MonsterName": "Brute_Ice_Shield",
     "Name": "Mitachurl con Escudo Cryo",
     "Title": "Mitachurl con Escudo Cryo",
@@ -3162,7 +3085,6 @@
   {
     "Id": 21020701,
     "DescribeId": 10207,
-    "RelationshipId": 10207,
     "MonsterName": "Brute_Electric_Axe",
     "Name": "Mitachurl con Hacha Electro",
     "Title": "Mitachurl - Hacha eléctrica",
@@ -3201,7 +3123,6 @@
   {
     "Id": 21020801,
     "DescribeId": 10208,
-    "RelationshipId": 10208,
     "MonsterName": "Brute_Electric_None",
     "Name": "Lawachurl Electroyelmo",
     "Title": "Lawachurl Electroyelmo",
@@ -3240,7 +3161,6 @@
   {
     "Id": 21030101,
     "DescribeId": 10301,
-    "RelationshipId": 10301,
     "MonsterName": "Shaman_Water_01",
     "Name": "Samachurl Hydro",
     "Title": "Samachurl Hydro",
@@ -3288,7 +3208,6 @@
   {
     "Id": 21030201,
     "DescribeId": 10302,
-    "RelationshipId": 10302,
     "MonsterName": "Shaman_Grass_01",
     "Name": "Samachurl Dendro",
     "Title": "Samachurl Dendro",
@@ -3336,7 +3255,6 @@
   {
     "Id": 21030301,
     "DescribeId": 10303,
-    "RelationshipId": 10303,
     "MonsterName": "Shaman_Wind_01",
     "Name": "Samachurl Anemo",
     "Title": "Samachurl Anemo",
@@ -3384,7 +3302,6 @@
   {
     "Id": 21030401,
     "DescribeId": 10304,
-    "RelationshipId": 10304,
     "MonsterName": "Shaman_Rock_01",
     "Name": "Samachurl Geo",
     "Title": "Samachurl Geo",
@@ -3432,7 +3349,6 @@
   {
     "Id": 21030501,
     "DescribeId": 10305,
-    "RelationshipId": 10305,
     "MonsterName": "Shaman_Ice_01",
     "Name": "Samachurl Cryo",
     "Title": "Samachurl Cryo",
@@ -3480,7 +3396,6 @@
   {
     "Id": 21030601,
     "DescribeId": 10306,
-    "RelationshipId": 10306,
     "MonsterName": "Shaman_Electric_01",
     "Name": "Samachurl Electro",
     "Title": "Samachurl Electro",
@@ -3488,6 +3403,15 @@
     "Icon": "UI_MonsterIcon_Shaman_Electric_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112010,
+      112009,
+      112008,
+      112007,
+      112006,
+      112005
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 50.24,
@@ -3519,8 +3443,7 @@
   {
     "Id": 0,
     "DescribeId": 10307,
-    "RelationshipId": 10307,
-    "Name": "Samachurl jefe",
+    "Name": "Megahilichurl Superenigmático",
     "Title": "Chamán accidentalmente dominiluminado",
     "Icon": "",
     "Type": 0,
@@ -3529,7 +3452,6 @@
   {
     "Id": 21040101,
     "DescribeId": 10401,
-    "RelationshipId": 10401,
     "MonsterName": "Hilistray_Wind_01",
     "Name": "Hilichurl Errabundo Anemo",
     "Title": "Hilichurl Errabundo Anemo",
@@ -3581,7 +3503,6 @@
   {
     "Id": 21040201,
     "DescribeId": 10402,
-    "RelationshipId": 10402,
     "MonsterName": "Hilistray_Water_01",
     "Name": "Hilichurl Errabundo Hydro",
     "Title": "Hilichurl Errabundo Hydro",
@@ -3633,7 +3554,6 @@
   {
     "Id": 22010101,
     "DescribeId": 20101,
-    "RelationshipId": 20101,
     "MonsterName": "Abyss_Fire_01",
     "Name": "Mago del Abismo Pyro",
     "Title": "Bardo del Abismo Pyro",
@@ -3688,7 +3608,6 @@
   {
     "Id": 22010201,
     "DescribeId": 20102,
-    "RelationshipId": 20102,
     "MonsterName": "Abyss_Ice_01",
     "Name": "Mago del Abismo Cryo",
     "Title": "Bardo del Abismo Cryo",
@@ -3743,7 +3662,6 @@
   {
     "Id": 22010301,
     "DescribeId": 20103,
-    "RelationshipId": 20103,
     "MonsterName": "Abyss_Water_01",
     "Name": "Mago del Abismo Hydro",
     "Title": "Bardo del Abismo Hydro",
@@ -3795,7 +3713,6 @@
   {
     "Id": 22010401,
     "DescribeId": 20104,
-    "RelationshipId": 20104,
     "MonsterName": "Abyss_Electric_01",
     "Name": "Mago del Abismo Electro",
     "Title": "Bardo del Abismo Electro",
@@ -3834,7 +3751,6 @@
   {
     "Id": 22020101,
     "DescribeId": 20201,
-    "RelationshipId": 20201,
     "MonsterName": "Invoker_Herald_Water_01",
     "Name": "Emisario del Abismo - Rápidos malignos",
     "Title": "Profeta oscuro de las aguas",
@@ -3876,7 +3792,6 @@
   {
     "Id": 22020201,
     "DescribeId": 20202,
-    "RelationshipId": 20202,
     "MonsterName": "Invoker_Herald_Ice_01",
     "Name": "Emisario del Abismo - Helada sombría",
     "Title": "Emisario filoglacial",
@@ -3919,7 +3834,6 @@
   {
     "Id": 22030101,
     "DescribeId": 20301,
-    "RelationshipId": 20301,
     "MonsterName": "Invoker_Deacon_Electric_01",
     "Name": "Bardo del Abismo - Trueno púrpura",
     "Title": "Emisario del trueno descendente",
@@ -3961,7 +3875,6 @@
   {
     "Id": 22030201,
     "DescribeId": 20302,
-    "RelationshipId": 20302,
     "MonsterName": "Invoker_Deacon_Fire_01",
     "Name": "Bardo del Abismo - Llamas abismales",
     "Title": "Fuego devorador bentónico",
@@ -4003,7 +3916,6 @@
   {
     "Id": 22040101,
     "DescribeId": 20401,
-    "RelationshipId": 20401,
     "MonsterName": "Hound_Kanis_Rock_01",
     "Name": "Cachorro Acechador Lítico",
     "Title": "Cachorro Acechador",
@@ -4055,7 +3967,6 @@
   {
     "Id": 22040201,
     "DescribeId": 20402,
-    "RelationshipId": 20402,
     "MonsterName": "Hound_Kanis_Electric_01",
     "Name": "Cachorro Acechador Eléctrico",
     "Title": "Cachorro Acechador",
@@ -4107,7 +4018,6 @@
   {
     "Id": 22050101,
     "DescribeId": 20501,
-    "RelationshipId": 20501,
     "MonsterName": "Hound_Riftstalker_Rock_01",
     "Name": "Sabueso Acechador Lítico",
     "Title": "Sabueso Acechador",
@@ -4159,7 +4069,6 @@
   {
     "Id": 22050201,
     "DescribeId": 20502,
-    "RelationshipId": 20502,
     "MonsterName": "Hound_Riftstalker_Electric_01",
     "Name": "Sabueso Acechador Eléctrico",
     "Title": "Sabueso Acechador",
@@ -4211,7 +4120,6 @@
   {
     "Id": 22060101,
     "DescribeId": 20601,
-    "RelationshipId": 20601,
     "MonsterName": "Monster_Hound_Planelurker_01",
     "Name": "Rey Acechador Dorado",
     "Title": "Rey Acechador Dorado",
@@ -4269,7 +4177,6 @@
   {
     "Id": 22070101,
     "DescribeId": 20701,
-    "RelationshipId": 20701,
     "MonsterName": "ForlornVessel_Strong_Warbanner_Fire_01",
     "Name": "Soldado del Vacío - Abanderado",
     "Title": "Final de los Caballeros Serpiente Negra",
@@ -4321,7 +4228,6 @@
   {
     "Id": 22070201,
     "DescribeId": 20702,
-    "RelationshipId": 20702,
     "MonsterName": "ForlornVessel_Strong_Lance_Water_01",
     "Name": "Soldado del Vacío - Rompefilas",
     "Title": "Final de los Caballeros Serpiente Negra",
@@ -4373,7 +4279,6 @@
   {
     "Id": 22070301,
     "DescribeId": 20703,
-    "RelationshipId": 20703,
     "MonsterName": "ForlornVessel_Strong_Chargebow_Ice_01",
     "Name": "Soldado del Vacío - Defensor",
     "Title": "Final de los Caballeros Serpiente Negra",
@@ -4425,7 +4330,6 @@
   {
     "Id": 22080101,
     "DescribeId": 20801,
-    "RelationshipId": 20801,
     "MonsterName": "Darkwraith_Strong_Wind_01",
     "Name": "Caballero Serpiente Negra - Aire afilado",
     "Title": "Aquel que solía cabalgar el viento",
@@ -4464,7 +4368,6 @@
   {
     "Id": 22080201,
     "DescribeId": 20802,
-    "RelationshipId": 20802,
     "MonsterName": "Darkwraith_Fat_Rock_01",
     "Name": "Caballero Serpiente Negra - Hachero demolerrocas",
     "Title": "Antiguo obstruyemareas oscuras",
@@ -4503,7 +4406,6 @@
   {
     "Id": 0,
     "DescribeId": 20901,
-    "RelationshipId": 20901,
     "Icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
     "Type": 0,
     "Arkhe": 0
@@ -4511,7 +4413,6 @@
   {
     "Id": 0,
     "DescribeId": 21001,
-    "RelationshipId": 21001,
     "Name": "Bautista Sacrílego: Invocador de fuego, hielo y rayo",
     "Title": "Bautista Sacrílego",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4524,7 +4425,6 @@
   {
     "Id": 0,
     "DescribeId": 21002,
-    "RelationshipId": 21002,
     "Name": "Bautista Sacrílego: Invocador de agua, fuego y hielo",
     "Title": "Bautista Sacrílego",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4537,7 +4437,6 @@
   {
     "Id": 0,
     "DescribeId": 21003,
-    "RelationshipId": 21003,
     "Name": "Bautista Sacrílego: Invocador de agua, fuego y rayo",
     "Title": "Bautista Sacrílego",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4550,7 +4449,6 @@
   {
     "Id": 0,
     "DescribeId": 21004,
-    "RelationshipId": 21004,
     "Name": "Bautista Sacrílego: Invocador de agua, hielo y rayo",
     "Title": "Bautista Sacrílego",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4563,7 +4461,6 @@
   {
     "Id": 22100501,
     "DescribeId": 21005,
-    "RelationshipId": 21005,
     "MonsterName": "Invoker_Archdeacon_01",
     "Name": "Bautista Sacrílego",
     "Title": "Bautista Sacrílego",
@@ -4605,7 +4502,6 @@
   {
     "Id": 22110101,
     "DescribeId": 21101,
-    "RelationshipId": 21101,
     "MonsterName": "Ovacua_Order_01",
     "Name": "Protofisurador Quebrantarrocas Gigante",
     "Title": "Protofisurador Quebrantarrocas Gigante",
@@ -4657,7 +4553,6 @@
   {
     "Id": 22110201,
     "DescribeId": 21102,
-    "RelationshipId": 21102,
     "MonsterName": "Ovacua_Order_02",
     "Name": "Protofisurador Quebrantarrocas",
     "Title": "Protofisurador Quebrantarrocas",
@@ -4709,7 +4604,6 @@
   {
     "Id": 22110301,
     "DescribeId": 21103,
-    "RelationshipId": 21103,
     "MonsterName": "Ovacua_Chaos_01",
     "Name": "Protofisurador Sobrecrecido Gigante",
     "Title": "Protofisurador Sobrecrecido Gigante",
@@ -4761,7 +4655,6 @@
   {
     "Id": 0,
     "DescribeId": 21104,
-    "RelationshipId": 21104,
     "Name": "Protofisurador Sobrecrecido",
     "Title": "Protofisurador Sobrecrecido",
     "Icon": "UI_MonsterIcon_Ovacua_Chaos_02",
@@ -4771,7 +4664,6 @@
   {
     "Id": 22120101,
     "DescribeId": 21201,
-    "RelationshipId": 21201,
     "MonsterName": "TheAbyss_Dendrite_01",
     "Name": "Cepa Abismática - Tipo I",
     "Title": "Cepa Abismática",
@@ -4842,7 +4734,6 @@
   {
     "Id": 22120201,
     "DescribeId": 21202,
-    "RelationshipId": 21202,
     "MonsterName": "TheAbyss_Rhizome_01",
     "Name": "Licopodio Abismático",
     "Title": "Licopodio Abismático",
@@ -4850,6 +4741,9 @@
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
     "Type": 1,
     "Arkhe": 0,
+    "Affixes": [
+      "常规次数盾怪物通用"
+    ],
     "BaseValue": {
       "HpBase": 46.1856,
       "AttackBase": 37.68,
@@ -4881,7 +4775,6 @@
   {
     "Id": 0,
     "DescribeId": 21203,
-    "RelationshipId": 21203,
     "Name": "Guardián de las Ruinas Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4891,7 +4784,6 @@
   {
     "Id": 0,
     "DescribeId": 21204,
-    "RelationshipId": 21204,
     "Name": "Hilichurl Errabundo Anemo Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4901,7 +4793,6 @@
   {
     "Id": 0,
     "DescribeId": 21205,
-    "RelationshipId": 21205,
     "Name": "Autómata Fuentenigma Abismático - Rastreador",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4911,7 +4802,6 @@
   {
     "Id": 0,
     "DescribeId": 21206,
-    "RelationshipId": 21206,
     "Name": "Mitachurl con Hacha Electro Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4921,7 +4811,6 @@
   {
     "Id": 0,
     "DescribeId": 21207,
-    "RelationshipId": 21207,
     "Name": "Tepetlisaurio Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4931,7 +4820,6 @@
   {
     "Id": 0,
     "DescribeId": 21208,
-    "RelationshipId": 21208,
     "Name": "Koholasaurio Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4941,7 +4829,6 @@
   {
     "Id": 0,
     "DescribeId": 21209,
-    "RelationshipId": 21209,
     "Name": "Yumkasaurio Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4951,7 +4838,6 @@
   {
     "Id": 0,
     "DescribeId": 21210,
-    "RelationshipId": 21210,
     "Name": "Soldado Tepetlisaurio - Aplastacristales abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4961,7 +4847,6 @@
   {
     "Id": 0,
     "DescribeId": 21211,
-    "RelationshipId": 21211,
     "Name": "Soldado Tepetlisaurio - Destrozarrocas abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4971,7 +4856,6 @@
   {
     "Id": 0,
     "DescribeId": 21212,
-    "RelationshipId": 21212,
     "Name": "Soldado Yumkasaurio - Artillera celeste abismática",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4981,7 +4865,6 @@
   {
     "Id": 0,
     "DescribeId": 21213,
-    "RelationshipId": 21213,
     "Name": "Soldado Qucusaurio - Martillero estelar abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4991,7 +4874,6 @@
   {
     "Id": 0,
     "DescribeId": 21214,
-    "RelationshipId": 21214,
     "Name": "Soldado Qucusaurio - Lanzallamas célica abismática",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5001,7 +4883,6 @@
   {
     "Id": 0,
     "DescribeId": 21215,
-    "RelationshipId": 21215,
     "Name": "Soldado Iktomisaurio - Portamareas glacial abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5011,7 +4892,6 @@
   {
     "Id": 0,
     "DescribeId": 21216,
-    "RelationshipId": 21216,
     "Name": "Cepa Abismática - Tipo II",
     "Title": "Cepa Abismática",
     "Icon": "UI_MonsterIcon_TheAbyss_Dendrite",
@@ -5021,7 +4901,6 @@
   {
     "Id": 0,
     "DescribeId": 21217,
-    "RelationshipId": 21217,
     "Name": "Cepa Abismática - Tipo III",
     "Title": "Cepa Abismática",
     "Icon": "UI_MonsterIcon_TheAbyss_Dendrite",
@@ -5031,7 +4910,6 @@
   {
     "Id": 0,
     "DescribeId": 21218,
-    "RelationshipId": 21218,
     "Name": "Cría de Dragarto Geo Abismática",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5041,7 +4919,6 @@
   {
     "Id": 0,
     "DescribeId": 21219,
-    "RelationshipId": 21219,
     "Name": "Tatankasaurio Abismático",
     "Title": "Licopodio Abismático",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5051,7 +4928,6 @@
   {
     "Id": 22130001,
     "DescribeId": 21300,
-    "RelationshipId": 21300,
     "MonsterName": "Monster_WildHunt_Female_01",
     "Name": "Espectro de los Páramos",
     "Title": "Sombra de la Cacería salvaje",
@@ -5103,7 +4979,6 @@
   {
     "Id": 0,
     "DescribeId": 21301,
-    "RelationshipId": 21301,
     "Name": "Espectro de los Páramos",
     "Title": "Sombra de la Cacería salvaje",
     "Icon": "UI_MonsterIcon_WildHunt",
@@ -5113,7 +4988,6 @@
   {
     "Id": 0,
     "DescribeId": 21302,
-    "RelationshipId": 21302,
     "Name": "Espectro de los Páramos",
     "Title": "Sombra de la Cacería salvaje",
     "Icon": "UI_MonsterIcon_WildHunt",
@@ -5123,7 +4997,6 @@
   {
     "Id": 22131001,
     "DescribeId": 21310,
-    "RelationshipId": 21310,
     "MonsterName": "Monster_WildHunt_Elite_01",
     "Name": "Cazador de los Páramos",
     "Title": "Sombra de la Cacería salvaje",
@@ -5175,7 +5048,6 @@
   {
     "Id": 0,
     "DescribeId": 21320,
-    "RelationshipId": 21320,
     "Name": "Lamparero aguerrido",
     "Title": "Lamparero aguerrido",
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
@@ -5185,7 +5057,6 @@
   {
     "Id": 23010101,
     "DescribeId": 30101,
-    "RelationshipId": 30101,
     "MonsterName": "Skirmisher_Male_Fat_SprayGun_Ice_01",
     "Name": "Soldado Fatui - Guardia con Cañón Cryo",
     "Title": "Soldado - Guardia con Cañón Cryo",
@@ -5230,7 +5101,6 @@
   {
     "Id": 23010201,
     "DescribeId": 30102,
-    "RelationshipId": 30102,
     "MonsterName": "Skirmisher_Male_Fat_SprayGun_Water_01",
     "Name": "Soldado Fatui - Guardia con Cañón Hydro",
     "Title": "Soldado - Guardia con Cañón Hydro",
@@ -5275,7 +5145,6 @@
   {
     "Id": 23010301,
     "DescribeId": 30103,
-    "RelationshipId": 30103,
     "MonsterName": "Skirmisher_Male_Strong_GreatHammer_Electric_01",
     "Name": "Soldado Fatui - Electromartillador de Vanguardia",
     "Title": "Soldado - Electromartillador de Vanguardia",
@@ -5320,7 +5189,6 @@
   {
     "Id": 23010401,
     "DescribeId": 30104,
-    "RelationshipId": 30104,
     "MonsterName": "Skirmisher_Male_Standard_Staff_Rock_01",
     "Name": "Soldado Fatui - Guerrillero Geo",
     "Title": "Soldado - Guerrillero Geo",
@@ -5365,7 +5233,6 @@
   {
     "Id": 23010501,
     "DescribeId": 30105,
-    "RelationshipId": 30105,
     "MonsterName": "Skirmisher_Male_Strong_Gloves_Wind_01",
     "Name": "Soldado Fatui - Boxeador Anemo de Vanguardia",
     "Title": "Soldado - Boxeador Anemo de vanguardia",
@@ -5410,7 +5277,6 @@
   {
     "Id": 23010601,
     "DescribeId": 30106,
-    "RelationshipId": 30106,
     "MonsterName": "Skirmisher_Male_Standard_Rifle_Fire_01",
     "Name": "Soldado Fatui - Guerrillero con Cañón Pyro",
     "Title": "Soldado - Guerrillero con Cañón Pyro",
@@ -5455,7 +5321,6 @@
   {
     "Id": 0,
     "DescribeId": 30111,
-    "RelationshipId": 30111,
     "Name": "Soldado Fatui - Guardia con Cañón Cryo aguerrido",
     "Title": "Soldado - Guardia con Cañón Cryo",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
@@ -5465,7 +5330,6 @@
   {
     "Id": 0,
     "DescribeId": 30113,
-    "RelationshipId": 30113,
     "Name": "Soldado Fatui - Electromartillador de Vanguardia aguerrido",
     "Title": "Soldado - Electromartillador de Vanguardia",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
@@ -5475,7 +5339,6 @@
   {
     "Id": 0,
     "DescribeId": 30116,
-    "RelationshipId": 30116,
     "Name": "Soldado Fatui - Guerrillero con Cañón Pyro aguerrido",
     "Title": "Soldado - Guerrillero con Cañón Pyro",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
@@ -5485,7 +5348,6 @@
   {
     "Id": 23020101,
     "DescribeId": 30201,
-    "RelationshipId": 30201,
     "MonsterName": "Fatuus_Fire_01",
     "Name": "Soldado Fatui - Recaudador Pyro",
     "Title": "Recaudador - Filos incineradores",
@@ -5540,7 +5402,6 @@
   {
     "Id": 0,
     "DescribeId": 30211,
-    "RelationshipId": 30211,
     "Name": "Soldado Fatui - Recaudador Pyro aguerrido",
     "Title": "Recaudador - Filos incineradores",
     "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
@@ -5550,7 +5411,6 @@
   {
     "Id": 23030101,
     "DescribeId": 30301,
-    "RelationshipId": 30301,
     "MonsterName": "Fatuus_Summoner_01",
     "Name": "Soldado Fatui - Maga de Cicin Electro",
     "Title": "Maga de Cicin - Captora del Trueno",
@@ -5608,7 +5468,6 @@
   {
     "Id": 23040101,
     "DescribeId": 30401,
-    "RelationshipId": 30401,
     "MonsterName": "Fatuus_Mage_Ice_01",
     "Name": "Soldado Fatui - Maga de Cicin Cryo",
     "Title": "Maga de Cicin - Invocadora de la Escarcha",
@@ -5666,7 +5525,6 @@
   {
     "Id": 23050101,
     "DescribeId": 30501,
-    "RelationshipId": 30501,
     "MonsterName": "Fatuus_Maiden_Water_01",
     "Name": "Soldado Fatui - Doncella del Espejo",
     "Title": "Doncella de Snezhnaya - Enviada del espejo",
@@ -5718,7 +5576,6 @@
   {
     "Id": 23060101,
     "DescribeId": 30601,
-    "RelationshipId": 30601,
     "MonsterName": "Fatuus_Escadron_Ice_01",
     "Name": "Soldado Fatui - Senescal Cryo",
     "Title": "Siervo filoescarcha",
@@ -5770,7 +5627,6 @@
   {
     "Id": 23060201,
     "DescribeId": 30602,
-    "RelationshipId": 30602,
     "MonsterName": "Fatuus_Escadron_Wind_01",
     "Name": "Soldado Fatui - Senescal Anemo",
     "Title": "Siervo liriobrisado",
@@ -5822,7 +5678,6 @@
   {
     "Id": 0,
     "DescribeId": 30603,
-    "RelationshipId": 30603,
     "Name": "Soldado Fatui - Senescal Cryo veterana",
     "Title": "Siervo filoescarcha",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
@@ -5832,7 +5687,6 @@
   {
     "Id": 0,
     "DescribeId": 30604,
-    "RelationshipId": 30604,
     "Name": "Soldado Fatui - Senescal Anemo veterana",
     "Title": "Siervo liriobrisado",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
@@ -5842,7 +5696,6 @@
   {
     "Id": 0,
     "DescribeId": 30605,
-    "RelationshipId": 30605,
     "Name": "Soldado Fatui - Senescal Cryo aguerrida",
     "Title": "Soldado Fatui - Senescal Cryo aguerrida",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
@@ -5852,7 +5705,6 @@
   {
     "Id": 23070101,
     "DescribeId": 30701,
-    "RelationshipId": 30701,
     "MonsterName": "Human_Male_Standard_Gun_01",
     "Name": "Opríchnik Fatui - Infante de línea",
     "Title": "Opríchnik",
@@ -5900,7 +5752,6 @@
   {
     "Id": 0,
     "DescribeId": 30711,
-    "RelationshipId": 30711,
     "Name": "Opríchnik Fatui - Infante de línea",
     "Title": "Opríchnik",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -5910,7 +5761,6 @@
   {
     "Id": 23072101,
     "DescribeId": 30721,
-    "RelationshipId": 30721,
     "MonsterName": "Human_MuscleMan_Shield_01",
     "Name": "Opríchnik Fatui - Soldado de refuerzo",
     "Title": "Opríchnik",
@@ -5958,7 +5808,6 @@
   {
     "Id": 23073101,
     "DescribeId": 30731,
-    "RelationshipId": 30731,
     "MonsterName": "Human_Female_Shoulder_01",
     "Name": "Opríchnik Fatui - Granadera",
     "Title": "Opríchnik",
@@ -6006,7 +5855,6 @@
   {
     "Id": 23074101,
     "DescribeId": 30741,
-    "RelationshipId": 30741,
     "MonsterName": "Human_Male_Standard_Claymore_PipeWrench_01",
     "Name": "Opríchnik Fatui - Soldado de vanguardia",
     "Title": "Opríchnik",
@@ -6054,7 +5902,6 @@
   {
     "Id": 0,
     "DescribeId": 30751,
-    "RelationshipId": 30751,
     "Name": "Opríchnik Fatui - Soldado de vanguardia",
     "Title": "Opríchnik",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -6064,7 +5911,6 @@
   {
     "Id": 23076101,
     "DescribeId": 30761,
-    "RelationshipId": 30761,
     "MonsterName": "Human_Male_Standard_Cudgel_01",
     "Name": "Opríchnik Fatui - Médico",
     "Title": "Opríchnik",
@@ -6112,7 +5958,6 @@
   {
     "Id": 0,
     "DescribeId": 30771,
-    "RelationshipId": 30771,
     "Name": "Opríchnik Fatui - Médico",
     "Title": "Opríchnik",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -6122,7 +5967,6 @@
   {
     "Id": 23078101,
     "DescribeId": 30781,
-    "RelationshipId": 30781,
     "MonsterName": "Human_Male_Standard_NoWeapon_BombBackpack_01",
     "Name": "Opríchnik Fatui - Bombardero",
     "Title": "Opríchnik",
@@ -6170,7 +6014,6 @@
   {
     "Id": 23079101,
     "DescribeId": 30791,
-    "RelationshipId": 30791,
     "MonsterName": "Oprichnik_Male_Strong_LanceArquebus_01",
     "Name": "Opríchnik Fatui - Comando filoígneo",
     "Title": "Opríchnik Fatui - Comando filoígneo",
@@ -6220,7 +6063,6 @@
   {
     "Id": 23079201,
     "DescribeId": 30792,
-    "RelationshipId": 30792,
     "MonsterName": "Oprichnik_Male_Fat_CannonShield_01",
     "Name": "Opríchnik Fatui - Artillero de granizo",
     "Title": "Opríchnik",
@@ -6270,7 +6112,6 @@
   {
     "Id": 23079301,
     "DescribeId": 30793,
-    "RelationshipId": 30793,
     "MonsterName": "prichnik_Female_Slim_MachineGun_01",
     "Name": "Opríchnik Fatui - Gvardiya metrallaeléctrica",
     "Title": "Opríchnik",
@@ -6320,7 +6161,6 @@
   {
     "Id": 0,
     "DescribeId": 30794,
-    "RelationshipId": 30794,
     "Name": "Comando filoígneo aguerrido",
     "Title": "Comando filoígneo aguerrido",
     "Icon": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
@@ -6330,7 +6170,6 @@
   {
     "Id": 0,
     "DescribeId": 30801,
-    "RelationshipId": 30801,
     "Name": "Patrullero Terrestre - Modelo de asalto cuerpo a cuerpo",
     "Title": "Patrullero Terrestre",
     "Icon": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
@@ -6343,7 +6182,6 @@
   {
     "Id": 23080201,
     "DescribeId": 30802,
-    "RelationshipId": 30802,
     "MonsterName": "Fatuimecha_CoreA_MoveA_AttackC_Water_01",
     "Name": "Patrullero Terrestre - Modelo de exploración cuerpo a cuerpo",
     "Title": "Patrullero Terrestre",
@@ -6394,7 +6232,6 @@
   {
     "Id": 23080301,
     "DescribeId": 30803,
-    "RelationshipId": 30803,
     "MonsterName": "Fatuimecha_CoreB_MoveB_AttackB_Grass_01",
     "Name": "Patrullero Terrestre - Modelo de asalto de reconocimiento mejorado",
     "Title": "Patrullero Terrestre",
@@ -6445,7 +6282,6 @@
   {
     "Id": 23080401,
     "DescribeId": 30804,
-    "RelationshipId": 30804,
     "MonsterName": "Fatuimecha_CoreB_MoveA_AttackB_Ice_01",
     "Name": "Patrullero Terrestre - Modelo de exploración de reconocimiento mejorado",
     "Title": "Patrullero Terrestre",
@@ -6496,7 +6332,6 @@
   {
     "Id": 23080501,
     "DescribeId": 30805,
-    "RelationshipId": 30805,
     "MonsterName": "Fatuimecha_CoreB_MoveE_AttackB_Wind_01",
     "Name": "Patrullero Terrestre - Modelo de reconocimiento terrestre mejorado",
     "Title": "Patrullero Terrestre",
@@ -6547,7 +6382,6 @@
   {
     "Id": 23085101,
     "DescribeId": 30851,
-    "RelationshipId": 30851,
     "MonsterName": "Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric_01",
     "Name": "Patrullero Terrestre - Modelo puntero de asalto multifuncional",
     "Title": "Patrullero Terrestre",
@@ -6598,7 +6432,6 @@
   {
     "Id": 23085201,
     "DescribeId": 30852,
-    "RelationshipId": 30852,
     "MonsterName": "Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water_01",
     "Name": "Patrullero Terrestre - Modelo puntero de exploración multifuncional",
     "Title": "Patrullero Terrestre",
@@ -6649,7 +6482,6 @@
   {
     "Id": 23085301,
     "DescribeId": 30853,
-    "RelationshipId": 30853,
     "MonsterName": "Fatuimecha_CoreC_MoveF_AttackB_Fire_01",
     "Name": "Patrullero Terrestre - Modelo puntero de fuego terrestre",
     "Title": "Patrullero Terrestre",
@@ -6698,9 +6530,71 @@
     ]
   },
   {
+    "Id": 23090101,
+    "DescribeId": 30901,
+    "MonsterName": "Fatuimecha_AMP_02",
+    "Name": "Todoterreno Superpesado - Fortaleza mecánica",
+    "Title": "Todoterreno Superpesado - Fortaleza mecánica",
+    "Description": "Una máquina superpesada desarrollada en colaboración entre la Real Armería y la Oficina de Diseño Experimental Kuuvahki, llamada “modelo Drzislav” en archivos internos.\nLa intención original de los diseñadores parece haber sido crear un vehículo de transporte civil todoterreno para el traslado de carga pesada, por lo que fue equipado con numerosos dispositivos de corte y excavación. Sin embargo, el modelo de producción estándar posterior fue modificado a una versión militar equipada con múltiples armas pesadas.\nDespués de todo, en el mundo sublunar, incluso los planes más perfectos y sagrados pueden desviarse de su propósito original, y con mayor razón las máquinas imperfectas creadas por mortales con sus modestas buenas intenciones.",
+    "Icon": "UI_MonsterIcon_Fatuimecha_AMP",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113080,
+      104114,
+      104113,
+      104112,
+      104111,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
+    "BaseValue": {
+      "HpBase": 298.848,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 24010101,
     "DescribeId": 40101,
-    "RelationshipId": 40101,
     "MonsterName": "Defender_None_01",
     "Name": "Guardián de las Ruinas",
     "Title": "Guardián de las Ruinas",
@@ -6752,7 +6646,6 @@
   {
     "Id": 24010201,
     "DescribeId": 40102,
-    "RelationshipId": 40102,
     "MonsterName": "Formathr_None",
     "Name": "Cazador de las Ruinas",
     "Title": "Cazador de las Ruinas",
@@ -6804,7 +6697,6 @@
   {
     "Id": 24010301,
     "DescribeId": 40103,
-    "RelationshipId": 40103,
     "MonsterName": "Konungmathr_None",
     "Name": "Demoledor de las Ruinas",
     "Title": "Demoledor de las Ruinas",
@@ -6856,7 +6748,6 @@
   {
     "Id": 24010401,
     "DescribeId": 40104,
-    "RelationshipId": 40104,
     "MonsterName": "Nithhoggr_None",
     "Name": "Serpiente de las Ruinas",
     "Title": "Serpiente de las Ruinas",
@@ -6914,7 +6805,6 @@
   {
     "Id": 24020101,
     "DescribeId": 40201,
-    "RelationshipId": 40201,
     "MonsterName": "Apparatus_Enigma_BionicDrone",
     "Name": "Patrullero de las Ruinas",
     "Title": "Patrullero de las Ruinas",
@@ -6966,7 +6856,6 @@
   {
     "Id": 24020201,
     "DescribeId": 40202,
-    "RelationshipId": 40202,
     "MonsterName": "Apparatus_Enigma_BionicFlora",
     "Name": "Destructor de las Ruinas",
     "Title": "Destructor de las Ruinas",
@@ -7018,7 +6907,6 @@
   {
     "Id": 24020301,
     "DescribeId": 40203,
-    "RelationshipId": 40203,
     "MonsterName": "Apparatus_Enigma_BionicInsecta",
     "Name": "Defensor de las Ruinas",
     "Title": "Defensor de las Ruinas",
@@ -7070,7 +6958,6 @@
   {
     "Id": 24020401,
     "DescribeId": 40204,
-    "RelationshipId": 40204,
     "MonsterName": "Apparatus_Enigma_BionicNettler",
     "Name": "Explorador de las Ruinas",
     "Title": "Explorador de las Ruinas",
@@ -7122,7 +7009,6 @@
   {
     "Id": 24021101,
     "DescribeId": 40211,
-    "RelationshipId": 40211,
     "MonsterName": "Apparatus_Perpetual",
     "Name": "Maquinaria Eterna",
     "Title": "Maquinaria Eterna",
@@ -7186,7 +7072,6 @@
   {
     "Id": 24030101,
     "DescribeId": 40301,
-    "RelationshipId": 40301,
     "MonsterName": "Gargoyle_Airborne_01",
     "Name": "Dragón de las Ruinas - Vigía aéreo",
     "Title": "Dragón de las Ruinas - Vigía aéreo",
@@ -7238,7 +7123,6 @@
   {
     "Id": 24030201,
     "DescribeId": 40302,
-    "RelationshipId": 40302,
     "MonsterName": "Gargoyle_Ground_01",
     "Name": "Dragón de las Ruinas - Vigía terrestre",
     "Title": "Dragón de las Ruinas - Vigía terrestre",
@@ -7290,7 +7174,6 @@
   {
     "Id": 24030301,
     "DescribeId": 40303,
-    "RelationshipId": 40303,
     "MonsterName": "Gargoyle_Fafnir_01",
     "Name": "Dragón Aciagoeterno",
     "Title": "Dragón Aciagoeterno",
@@ -7354,7 +7237,6 @@
   {
     "Id": 0,
     "DescribeId": 40304,
-    "RelationshipId": 40304,
     "Name": "Dragón de las Ruinas - Vigía terrestre aguerrido",
     "Title": "Dragón de las Ruinas - Vigía terrestre",
     "Icon": "UI_MonsterIcon_Gargoyle",
@@ -7364,7 +7246,6 @@
   {
     "Id": 24040101,
     "DescribeId": 40401,
-    "RelationshipId": 40401,
     "MonsterName": "Monolith_Ordinator_01",
     "Name": "Creación Primigenia - Repulsora",
     "Title": "Creación Primigenia - Repulsora",
@@ -7416,7 +7297,6 @@
   {
     "Id": 24040201,
     "DescribeId": 40402,
-    "RelationshipId": 40402,
     "MonsterName": "Monolith_Ordinator_02",
     "Name": "Creación Primigenia - Remodeladora",
     "Title": "Creación Primigenia - Remodeladora",
@@ -7468,7 +7348,6 @@
   {
     "Id": 24040301,
     "DescribeId": 40403,
-    "RelationshipId": 40403,
     "MonsterName": "Monolith_Ordinator_03",
     "Name": "Creación Primigenia - Prospectora",
     "Title": "Creación Primigenia - Prospectora",
@@ -7520,7 +7399,6 @@
   {
     "Id": 24050101,
     "DescribeId": 40501,
-    "RelationshipId": 40501,
     "MonsterName": "Monolith_Starchild",
     "Name": "Algoritmo de Semi-Incesante Matriz de Observación Navegadora",
     "Title": "Algoritmo de Semi-Incesante Matriz de Observación Navegadora",
@@ -7584,7 +7462,6 @@
   {
     "Id": 0,
     "DescribeId": 40601,
-    "RelationshipId": 40601,
     "Name": "Mecarrastreador - Ousía",
     "Title": "Mecarrastreador",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
@@ -7597,7 +7474,6 @@
   {
     "Id": 0,
     "DescribeId": 40651,
-    "RelationshipId": 40651,
     "Name": "Mecarrastreador - Pneuma",
     "Title": "Mecarrastreador",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
@@ -7607,7 +7483,6 @@
   {
     "Id": 24068101,
     "DescribeId": 40681,
-    "RelationshipId": 40681,
     "MonsterName": "MachinaIustitia_Sentry_Cdoex",
     "Name": "Mecarrastreador",
     "Title": "Mecarrastreador",
@@ -7650,7 +7525,6 @@
   {
     "Id": 0,
     "DescribeId": 40602,
-    "RelationshipId": 40602,
     "Name": "Mecaoptimizador Aritmético - Ousía",
     "Title": "Mecaoptimizador Aritmético",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -7663,7 +7537,6 @@
   {
     "Id": 0,
     "DescribeId": 40652,
-    "RelationshipId": 40652,
     "Name": "Mecaoptimizador Aritmético - Pneuma",
     "Title": "Mecaoptimizador Aritmético",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -7673,7 +7546,6 @@
   {
     "Id": 24068201,
     "DescribeId": 40682,
-    "RelationshipId": 40682,
     "MonsterName": "MachinaIustitia_Pylon_Codex",
     "Name": "Mecaoptimizador Aritmético",
     "Title": "Mecaoptimizador Aritmético",
@@ -7716,7 +7588,6 @@
   {
     "Id": 0,
     "DescribeId": 40603,
-    "RelationshipId": 40603,
     "Name": "Mecasondeador Subacuático - Ousía",
     "Title": "Mecasondeador Subacuático",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Recon",
@@ -7729,7 +7600,6 @@
   {
     "Id": 0,
     "DescribeId": 40653,
-    "RelationshipId": 40653,
     "Name": "Mecasondeador Subacuático - Pneuma",
     "Title": "Mecasondeador Subacuático",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Recon",
@@ -7739,7 +7609,6 @@
   {
     "Id": 24068301,
     "DescribeId": 40683,
-    "RelationshipId": 40683,
     "MonsterName": "MachinaIustitia_Recon_Codex",
     "Name": "Mecasondeador Subacuático",
     "Title": "Mecasondeador Subacuático",
@@ -7782,7 +7651,6 @@
   {
     "Id": 0,
     "DescribeId": 40604,
-    "RelationshipId": 40604,
     "Name": "Mecaprospector - Ousía",
     "Title": "Mecaprospector",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Probe",
@@ -7795,7 +7663,6 @@
   {
     "Id": 0,
     "DescribeId": 40654,
-    "RelationshipId": 40654,
     "Name": "Mecaprospector - Pneuma",
     "Title": "Mecaprospector",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Probe",
@@ -7805,7 +7672,6 @@
   {
     "Id": 24060401,
     "DescribeId": 40684,
-    "RelationshipId": 40684,
     "MonsterName": "MachinaIustitia_Probe_01",
     "Name": "Mecaprospector",
     "Title": "Mecaprospector",
@@ -7854,7 +7720,6 @@
   {
     "Id": 0,
     "DescribeId": 40605,
-    "RelationshipId": 40605,
     "Name": "Mecapatrullero Subacuático - Ousía",
     "Title": "Mecapatrullero Subacuático",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nautilus",
@@ -7864,7 +7729,6 @@
   {
     "Id": 0,
     "DescribeId": 40655,
-    "RelationshipId": 40655,
     "Name": "Mecapatrullero Subacuático - Pneuma",
     "Title": "Mecapatrullero Subacuático",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nautilus",
@@ -7874,7 +7738,6 @@
   {
     "Id": 24068501,
     "DescribeId": 40685,
-    "RelationshipId": 40685,
     "MonsterName": "MachinaIustitia_Nautilus_Codex",
     "Name": "Mecapatrullero Subacuático",
     "Title": "Mecapatrullero Subacuático",
@@ -7917,7 +7780,6 @@
   {
     "Id": 0,
     "DescribeId": 40606,
-    "RelationshipId": 40606,
     "Name": "Mecaasaltador Submarino - Ousía",
     "Title": "Mecaasaltador Submarino",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Frigate",
@@ -7927,7 +7789,6 @@
   {
     "Id": 0,
     "DescribeId": 40656,
-    "RelationshipId": 40656,
     "Name": "Mecaasaltador Submarino - Pneuma",
     "Title": "Mecaasaltador Submarino",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Frigate",
@@ -7937,7 +7798,6 @@
   {
     "Id": 24068601,
     "DescribeId": 40686,
-    "RelationshipId": 40686,
     "MonsterName": "MachinaIustitia_Frigate_Codex",
     "Name": "Mecaasaltador Submarino",
     "Title": "Mecaasaltador Submarino",
@@ -7980,7 +7840,6 @@
   {
     "Id": 0,
     "DescribeId": 40607,
-    "RelationshipId": 40607,
     "Name": "Mecarrecolector Dinámico - Ousía",
     "Title": "Mecarrecolector Dinámico",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
@@ -7990,7 +7849,6 @@
   {
     "Id": 0,
     "DescribeId": 40657,
-    "RelationshipId": 40657,
     "Name": "Mecarrecolector Dinámico - Pneuma",
     "Title": "Mecarrecolector Dinámico",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
@@ -8000,7 +7858,6 @@
   {
     "Id": 24068701,
     "DescribeId": 40687,
-    "RelationshipId": 40687,
     "MonsterName": "MachinaIustitia_Assimilator_Codex",
     "Name": "Mecarrecolector Dinámico",
     "Title": "Mecarrecolector Dinámico",
@@ -8043,7 +7900,6 @@
   {
     "Id": 0,
     "DescribeId": 40608,
-    "RelationshipId": 40608,
     "Name": "Mecaespecialista Asaltador - Ousía",
     "Title": "Mecaespecialista Asaltador",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
@@ -8053,7 +7909,6 @@
   {
     "Id": 0,
     "DescribeId": 40658,
-    "RelationshipId": 40658,
     "Name": "Mecaespecialista Asaltador - Pneuma",
     "Title": "Mecaespecialista Asaltador",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
@@ -8063,7 +7918,6 @@
   {
     "Id": 24068801,
     "DescribeId": 40688,
-    "RelationshipId": 40688,
     "MonsterName": "MachinaIustitia_Ruggiero_Codex",
     "Name": "Mecaespecialista Asaltador",
     "Title": "Mecaespecialista Asaltador",
@@ -8106,7 +7960,6 @@
   {
     "Id": 0,
     "DescribeId": 40609,
-    "RelationshipId": 40609,
     "Name": "Mecaespecialista Inhibidor - Ousía",
     "Title": "Mecaespecialista Inhibidor",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
@@ -8116,7 +7969,6 @@
   {
     "Id": 0,
     "DescribeId": 40659,
-    "RelationshipId": 40659,
     "Name": "Mecaespecialista Inhibidor - Pneuma",
     "Title": "Mecaespecialista Inhibidor",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
@@ -8126,7 +7978,6 @@
   {
     "Id": 24068901,
     "DescribeId": 40689,
-    "RelationshipId": 40689,
     "MonsterName": "MachinaIustitia_Ruggiero_Codex",
     "Name": "Mecaespecialista Inhibidor",
     "Title": "Mecaespecialista Inhibidor",
@@ -8169,7 +8020,6 @@
   {
     "Id": 0,
     "DescribeId": 40610,
-    "RelationshipId": 40610,
     "Name": "Mecaespecialista Aniquiladora - Ousía",
     "Title": "Mecaespecialista Aniquiladora",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
@@ -8179,7 +8029,6 @@
   {
     "Id": 0,
     "DescribeId": 40660,
-    "RelationshipId": 40660,
     "Name": "Mecaespecialista Aniquiladora - Pneuma",
     "Title": "Mecaespecialista Aniquiladora",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
@@ -8189,7 +8038,6 @@
   {
     "Id": 24069001,
     "DescribeId": 40690,
-    "RelationshipId": 40690,
     "MonsterName": "MachinaIustitia_Bradamante_Codex",
     "Name": "Mecaespecialista Aniquiladora",
     "Title": "Mecaespecialista Aniquiladora",
@@ -8232,7 +8080,6 @@
   {
     "Id": 0,
     "DescribeId": 40611,
-    "RelationshipId": 40611,
     "Name": "Mecacentinela Zonal - Ousía",
     "Title": "Mecacentinela Zonal",
     "Icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
@@ -8245,7 +8092,6 @@
   {
     "Id": 0,
     "DescribeId": 40661,
-    "RelationshipId": 40661,
     "Name": "Mecacentinela Zonal - Pneuma",
     "Title": "Mecacentinela Zonal",
     "Icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
@@ -8255,7 +8101,6 @@
   {
     "Id": 24069101,
     "DescribeId": 40691,
-    "RelationshipId": 40691,
     "MonsterName": "MachinaIustitia_LengthShifter_Codex",
     "Name": "Mecacentinela Zonal",
     "Title": "Mecacentinela Zonal",
@@ -8298,7 +8143,6 @@
   {
     "Id": 0,
     "DescribeId": 40612,
-    "RelationshipId": 40612,
     "Name": "Mecaespecialista Constructor - Ousía",
     "Title": "Mecacentinela Constructor",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
@@ -8311,7 +8155,6 @@
   {
     "Id": 0,
     "DescribeId": 40662,
-    "RelationshipId": 40662,
     "Name": "Mecaespecialista Constructor - Pneuma",
     "Title": "Mecacentinela Constructor",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
@@ -8321,7 +8164,6 @@
   {
     "Id": 24069201,
     "DescribeId": 40692,
-    "RelationshipId": 40692,
     "MonsterName": "MachinaIustitia_Excavator_Codex",
     "Name": "Mecaespecialista Constructor",
     "Title": "Mecacentinela Constructor",
@@ -8364,7 +8206,6 @@
   {
     "Id": 0,
     "DescribeId": 40613,
-    "RelationshipId": 40613,
     "Name": "Mecaoptimizador Aritmético veterano",
     "Title": "Mecaoptimizador Aritmético",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -8377,7 +8218,6 @@
   {
     "Id": 0,
     "DescribeId": 40701,
-    "RelationshipId": 40701,
     "Name": "Suite Criocéfiro - Condena de Coppélius",
     "Title": "Condena de Coppélius",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
@@ -8390,7 +8230,6 @@
   {
     "Id": 0,
     "DescribeId": 40702,
-    "RelationshipId": 40702,
     "Name": "Suite Criocéfiro - Funeral de Coppélia",
     "Title": "Funeral de Coppélia",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
@@ -8400,7 +8239,6 @@
   {
     "Id": 24070301,
     "DescribeId": 40703,
-    "RelationshipId": 40703,
     "MonsterName": "Monster_MachinaIustitia_Nutcracker",
     "Name": "Suite Criocéfiro",
     "Title": "Condena de Coppélius",
@@ -8443,7 +8281,6 @@
   {
     "Id": 24080101,
     "DescribeId": 40801,
-    "RelationshipId": 40801,
     "MonsterName": "Monster_MachinaIustitia_Gravitas_01",
     "Name": "Generador de Campo Experimental",
     "Title": "Generador de Campo Experimental",
@@ -8505,7 +8342,6 @@
   {
     "Id": 24090101,
     "DescribeId": 40901,
-    "RelationshipId": 40901,
     "MonsterName": "ToothTrap_01",
     "Name": "Autómata Fuentenigma - Rastreador",
     "Title": "Autómata Fuentenigma - Rastreador",
@@ -8557,7 +8393,6 @@
   {
     "Id": 24090201,
     "DescribeId": 40902,
-    "RelationshipId": 40902,
     "MonsterName": "DragonClaw",
     "Name": "Autómata Fuentenigma - Máquina configuracional",
     "Title": "Autómata Fuentenigma - Máquina configuracional",
@@ -8617,7 +8452,7 @@
   {
     "Id": 0,
     "DescribeId": 40903,
-    "RelationshipId": 40903,
+    "Name": "Mecadragón Fuentenigma Ancestral",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_DragonClaw",
     "Type": 0,
@@ -8626,7 +8461,7 @@
   {
     "Id": 0,
     "DescribeId": 40904,
-    "RelationshipId": 40904,
+    "Name": "Mecadragón Fuentenigma Ancestral",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_DragonClaw",
     "Type": 0,
@@ -8635,7 +8470,6 @@
   {
     "Id": 24090501,
     "DescribeId": 40905,
-    "RelationshipId": 40905,
     "MonsterName": "DragonCollar",
     "Name": "Autómata Fuentenigma - Máquina de control",
     "Title": "Autómata Fuentenigma - Máquina de control",
@@ -8695,7 +8529,6 @@
   {
     "Id": 24100101,
     "DescribeId": 41001,
-    "RelationshipId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "Puñopato",
     "Title": "Obra maestra de la mecánica",
@@ -8755,8 +8588,7 @@
   {
     "Id": 0,
     "DescribeId": 41002,
-    "RelationshipId": 41002,
-    "Name": "(test) Gigante de basura - Dron",
+    "Name": "Puñopato",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 0,
@@ -8768,7 +8600,6 @@
   {
     "Id": 0,
     "DescribeId": 48101,
-    "RelationshipId": 48101,
     "Name": "Pirotorreta Básica",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8778,7 +8609,6 @@
   {
     "Id": 0,
     "DescribeId": 48102,
-    "RelationshipId": 48102,
     "Name": "Pirotorreta Avanzada",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8788,7 +8618,6 @@
   {
     "Id": 0,
     "DescribeId": 48103,
-    "RelationshipId": 48103,
     "Name": "Electrotorreta Básica",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8798,7 +8627,6 @@
   {
     "Id": 0,
     "DescribeId": 48104,
-    "RelationshipId": 48104,
     "Name": "Electrotorreta Avanzada",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8808,7 +8636,6 @@
   {
     "Id": 0,
     "DescribeId": 48105,
-    "RelationshipId": 48105,
     "Name": "Hidrotorreta Básica",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8818,7 +8645,6 @@
   {
     "Id": 0,
     "DescribeId": 48106,
-    "RelationshipId": 48106,
     "Name": "Hidrotorreta Avanzada",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8828,7 +8654,6 @@
   {
     "Id": 0,
     "DescribeId": 48107,
-    "RelationshipId": 48107,
     "Name": "Criotorreta Básica",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8838,7 +8663,6 @@
   {
     "Id": 0,
     "DescribeId": 48108,
-    "RelationshipId": 48108,
     "Name": "Criotorreta Avanzada",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8848,7 +8672,6 @@
   {
     "Id": 0,
     "DescribeId": 48109,
-    "RelationshipId": 48109,
     "Name": "Anemotorreta Básica",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8858,7 +8681,6 @@
   {
     "Id": 0,
     "DescribeId": 48110,
-    "RelationshipId": 48110,
     "Name": "Anemotorreta Avanzada",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8868,7 +8690,6 @@
   {
     "Id": 0,
     "DescribeId": 48111,
-    "RelationshipId": 48111,
     "Name": "Torreta Física",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8878,7 +8699,6 @@
   {
     "Id": 0,
     "DescribeId": 48112,
-    "RelationshipId": 48112,
     "Name": "Zona de defensa (simulacro de la 5.6) (defensa)",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8888,7 +8708,6 @@
   {
     "Id": 0,
     "DescribeId": 49201,
-    "RelationshipId": 49201,
     "Name": "Autómata: Globo de Slime pequeño",
     "Title": "Creación Primigenia - Repulsora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8898,7 +8717,6 @@
   {
     "Id": 0,
     "DescribeId": 49202,
-    "RelationshipId": 49202,
     "Name": "Autómata: Globo de Slime grande",
     "Title": "Creación Primigenia - Remodeladora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8908,7 +8726,6 @@
   {
     "Id": 0,
     "DescribeId": 49203,
-    "RelationshipId": 49203,
     "Name": "Autómata: Fungiglobo",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8918,7 +8735,6 @@
   {
     "Id": 0,
     "DescribeId": 49204,
-    "RelationshipId": 49204,
     "Name": "(test) Evento de infiltración de Nod Krai - Robot 1",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8928,7 +8744,6 @@
   {
     "Id": 0,
     "DescribeId": 49205,
-    "RelationshipId": 49205,
     "Name": "(test) Evento de infiltración de Nod Krai - Robot 2",
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8938,7 +8753,6 @@
   {
     "Id": 0,
     "DescribeId": 49901,
-    "RelationshipId": 49901,
     "Title": "Creación Primigenia - Prospectora",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 0,
@@ -8947,7 +8761,6 @@
   {
     "Id": 0,
     "DescribeId": 50000,
-    "RelationshipId": 50000,
     "Title": "Ladrón de Tesoros - Liuliu",
     "Icon": "",
     "Type": 0,
@@ -8956,7 +8769,6 @@
   {
     "Id": 0,
     "DescribeId": 50001,
-    "RelationshipId": 50001,
     "Title": "Ladrón de Tesoros - Liuliu",
     "Icon": "",
     "Type": 0,
@@ -8965,7 +8777,6 @@
   {
     "Id": 0,
     "DescribeId": 50002,
-    "RelationshipId": 50002,
     "Title": "Ladrón de Tesoros - Liuliu",
     "Icon": "",
     "Type": 0,
@@ -8974,7 +8785,6 @@
   {
     "Id": 0,
     "DescribeId": 50003,
-    "RelationshipId": 50003,
     "Title": "Ladrón de Tesoros - Liuliu",
     "Icon": "",
     "Type": 0,
@@ -8983,7 +8793,6 @@
   {
     "Id": 25010101,
     "DescribeId": 50101,
-    "RelationshipId": 50101,
     "MonsterName": "Thoarder_Male_NoWeapon_01",
     "Name": "Ladrón de Tesoros - Liuliu",
     "Title": "Ladrón de Tesoros - Liuliu",
@@ -9021,7 +8830,6 @@
   {
     "Id": 25010201,
     "DescribeId": 50102,
-    "RelationshipId": 50102,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_02",
     "Name": "Ladrón de Tesoros - Centinela",
     "Title": "Ladrón de Tesoros - Centinela",
@@ -9066,7 +8874,6 @@
   {
     "Id": 25010301,
     "DescribeId": 50103,
-    "RelationshipId": 50103,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Fire_01",
     "Name": "Ladrón de Tesoros - Maestro de Pociones Pyro",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Pyro",
@@ -9111,7 +8918,6 @@
   {
     "Id": 25010401,
     "DescribeId": 50104,
-    "RelationshipId": 50104,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Water_01",
     "Name": "Ladrón de Tesoros - Maestro de Pociones Hydro",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Hydro",
@@ -9156,7 +8962,6 @@
   {
     "Id": 25010501,
     "DescribeId": 50105,
-    "RelationshipId": 50105,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Electric_01",
     "Name": "Ladrón de Tesoros - Maestro de Pociones Electro",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Electro",
@@ -9201,7 +9006,6 @@
   {
     "Id": 25010601,
     "DescribeId": 50106,
-    "RelationshipId": 50106,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Ice_01",
     "Name": "Ladrón de Tesoros - Maestro de Pociones Cryo",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Cryo",
@@ -9246,7 +9050,6 @@
   {
     "Id": 25010701,
     "DescribeId": 50107,
-    "RelationshipId": 50107,
     "MonsterName": "Thoarder_Male_Fat_NoWeapon_01",
     "Name": "Ladrón de Tesoros - Mozo",
     "Title": "Ladrón de Tesoros - Mozo",
@@ -9291,7 +9094,7 @@
   {
     "Id": 0,
     "DescribeId": 50108,
-    "RelationshipId": 50108,
+    "Name": "Liam",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Pyro",
     "Icon": "",
     "Type": 0,
@@ -9300,7 +9103,6 @@
   {
     "Id": 25020101,
     "DescribeId": 50201,
-    "RelationshipId": 50201,
     "MonsterName": "Thoarder_Male_Crossbow_01",
     "Name": "Ladrones de Tesoros- Ave Rapaz",
     "Title": "Ladrones de Tesoros- Ave Rapaz",
@@ -9338,7 +9140,6 @@
   {
     "Id": 25020201,
     "DescribeId": 50202,
-    "RelationshipId": 50202,
     "MonsterName": "Thoarder_Male_Standard_Crossbow_02",
     "Name": "Ladrón de Tesoros - Ballestero",
     "Title": "Ladrón de Tesoros - Ballestero",
@@ -9383,7 +9184,6 @@
   {
     "Id": 25030101,
     "DescribeId": 50301,
-    "RelationshipId": 50301,
     "MonsterName": "Thoarder_Male_Shovel_01",
     "Name": "Ladrón de Tesoros - Carmelo",
     "Title": "Ladrón de Tesoros - Carmelo",
@@ -9421,7 +9221,6 @@
   {
     "Id": 25030201,
     "DescribeId": 50302,
-    "RelationshipId": 50302,
     "MonsterName": "Thoarder_Male_Fat_Shovel_03",
     "Name": "Ladrón de Tesoros - Asaltante de Tumbas",
     "Title": "Ladrón de Tesoros - Asaltante de Tumbas",
@@ -9466,7 +9265,6 @@
   {
     "Id": 25030301,
     "DescribeId": 50303,
-    "RelationshipId": 50303,
     "MonsterName": "Thoarder_Male_Fat_Shovel_02",
     "Name": "Ladrón de Tesoros - Grumete",
     "Title": "Ladrón de Tesoros - Grumete",
@@ -9511,7 +9309,6 @@
   {
     "Id": 25040101,
     "DescribeId": 50401,
-    "RelationshipId": 50401,
     "MonsterName": "Thoarder_Female_Hatchet_01",
     "Name": "Ladrón de Tesoros - Jefa",
     "Title": "Ladrón de Tesoros - Jefa",
@@ -9549,7 +9346,6 @@
   {
     "Id": 25050101,
     "DescribeId": 50501,
-    "RelationshipId": 50501,
     "MonsterName": "Millelith_Male_01",
     "Name": "Soldado de la Geoarmada",
     "Title": "Soldado de la Geoarmada",
@@ -9587,7 +9383,6 @@
   {
     "Id": 25050201,
     "DescribeId": 50502,
-    "RelationshipId": 50502,
     "MonsterName": "Millelith_Male_02",
     "Name": "Sargento de la Geoarmada",
     "Title": "Sargento de la Geoarmada",
@@ -9625,7 +9420,6 @@
   {
     "Id": 0,
     "DescribeId": 50503,
-    "RelationshipId": 50503,
     "Name": "Ashigaru del shogunato",
     "Title": "Ashigaru del shogunato",
     "Icon": "UI_MonsterIcon_Aahigaru_Male_01",
@@ -9635,7 +9429,6 @@
   {
     "Id": 0,
     "DescribeId": 50504,
-    "RelationshipId": 50504,
     "Name": "Capitán Ashigaru del shogunato",
     "Title": "Capitán Ashigaru del shogunato",
     "Icon": "UI_MonsterIcon_AahigaruTaisho_Male_01",
@@ -9645,7 +9438,6 @@
   {
     "Id": 0,
     "DescribeId": 50505,
-    "RelationshipId": 50505,
     "Name": "Secuaz de Sangonomiya",
     "Title": "Secuaz de Sangonomiya",
     "Icon": "UI_MonsterIcon_Millelith_Male_02",
@@ -9655,7 +9447,6 @@
   {
     "Id": 25060101,
     "DescribeId": 50601,
-    "RelationshipId": 50601,
     "MonsterName": "Thoarder_MuscleMan_NoWeapon_01",
     "Name": "Ladrón de Tesoros - Boxeador",
     "Title": "Ladrón de Tesoros - Boxeador",
@@ -9700,7 +9491,7 @@
   {
     "Id": 0,
     "DescribeId": 50602,
-    "RelationshipId": 50602,
+    "Name": "Rocky Avildsen",
     "Title": "Ladrón de Tesoros - Boxeador",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
     "Type": 0,
@@ -9709,7 +9500,6 @@
   {
     "Id": 25070101,
     "DescribeId": 50701,
-    "RelationshipId": 50701,
     "MonsterName": "Thoarder_MuscleMan_Hammer_01",
     "Name": "Ladrón de Tesoros - Aplastador",
     "Title": "Ladrón de Tesoros - Aplastador",
@@ -9754,7 +9544,6 @@
   {
     "Id": 0,
     "DescribeId": 50702,
-    "RelationshipId": 50702,
     "Name": "Ladrón de Tesoros - Wallenstein",
     "Title": "Ladrones de Tesoros- Ave Rapaz",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -9764,7 +9553,6 @@
   {
     "Id": 25080101,
     "DescribeId": 50801,
-    "RelationshipId": 50801,
     "MonsterName": "Samurai_Ronin_01",
     "Name": "Nobushi - Filodemonio",
     "Title": "Nobushi - Filodemonio",
@@ -9809,7 +9597,6 @@
   {
     "Id": 25080201,
     "DescribeId": 50802,
-    "RelationshipId": 50802,
     "MonsterName": "Samurai_Ronin_02",
     "Name": "Nobushi - Deuda del fuego",
     "Title": "Nobushi - Deuda del fuego",
@@ -9854,7 +9641,6 @@
   {
     "Id": 25080301,
     "DescribeId": 50803,
-    "RelationshipId": 50803,
     "MonsterName": "Samurai_Ronin_03",
     "Name": "Nobushi - Astucia",
     "Title": "Nobushi - Astucia",
@@ -9899,7 +9685,6 @@
   {
     "Id": 0,
     "DescribeId": 50804,
-    "RelationshipId": 50804,
     "Name": "Asistente de Samurái",
     "Title": "Asistente de Samurái",
     "Icon": "UI_MonsterIcon_Samurai_Hatamoto_01",
@@ -9909,7 +9694,6 @@
   {
     "Id": 25090101,
     "DescribeId": 50901,
-    "RelationshipId": 50901,
     "MonsterName": "Samurai_Ningyo_01",
     "Name": "Oni Espadachín",
     "Title": "Oni Espadachín",
@@ -9974,7 +9758,6 @@
   {
     "Id": 0,
     "DescribeId": 50902,
-    "RelationshipId": 50902,
     "Name": "Oni Espadachín - Viento solitario",
     "Title": "Oni Espadachín - Viento solitario",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Wind",
@@ -9984,7 +9767,6 @@
   {
     "Id": 0,
     "DescribeId": 50903,
-    "RelationshipId": 50903,
     "Name": "Oni Espadachín - Escarcha veloz",
     "Title": "Oni Espadachín - Escarcha veloz",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Ice",
@@ -9994,7 +9776,6 @@
   {
     "Id": 0,
     "DescribeId": 50904,
-    "RelationshipId": 50904,
     "Name": "Oni Espadachín - Máscara malévola",
     "Title": "Oni espadachín - Máscara malévola",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Mask",
@@ -10004,7 +9785,6 @@
   {
     "Id": 25100101,
     "DescribeId": 51001,
-    "RelationshipId": 51001,
     "MonsterName": "Samurai_Kairagi_01",
     "Name": "Samurái Kairagi - Rayo danzarín",
     "Title": "Samurái Kairagi - Rayo danzarín",
@@ -10052,7 +9832,6 @@
   {
     "Id": 25100201,
     "DescribeId": 51002,
-    "RelationshipId": 51002,
     "MonsterName": "Samurai_Kairagi_02",
     "Name": "Samurái Kairagi - Amenaza ígnea",
     "Title": "Samurái Kairagi - Amenaza ígnea",
@@ -10100,7 +9879,6 @@
   {
     "Id": 0,
     "DescribeId": 51003,
-    "RelationshipId": 51003,
     "Name": "Guerrero caído - Trueno embrujado",
     "Title": "Guerrero caído - Trueno embrujado",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_01",
@@ -10110,7 +9888,6 @@
   {
     "Id": 0,
     "DescribeId": 51004,
-    "RelationshipId": 51004,
     "Name": "Guerrero caído - Llama sagrada",
     "Title": "Guerrero caído - Llama sagrada",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_02",
@@ -10120,7 +9897,6 @@
   {
     "Id": 0,
     "DescribeId": 51101,
-    "RelationshipId": 51101,
     "Name": "Ominoespíritu - Dragón rocoso",
     "Title": "Ominoespíritu - Dragón rocoso",
     "Icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
@@ -10130,7 +9906,6 @@
   {
     "Id": 0,
     "DescribeId": 51102,
-    "RelationshipId": 51102,
     "Name": "Ominoespíritu - Milano de viento",
     "Title": "Ominoespíritu - Milano de viento",
     "Icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
@@ -10140,7 +9915,6 @@
   {
     "Id": 0,
     "DescribeId": 51103,
-    "RelationshipId": 51103,
     "Name": "Ominoespíritu - Escorpio ígneo",
     "Title": "Ominoespíritu - Escorpio ígneo",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_05",
@@ -10150,7 +9924,6 @@
   {
     "Id": 0,
     "DescribeId": 51104,
-    "RelationshipId": 51104,
     "Name": "Ominoespíritu - Ánima dendrofidia",
     "Title": "Ominoespíritu - Ánima dendrofidia",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_05",
@@ -10160,7 +9933,6 @@
   {
     "Id": 25210101,
     "DescribeId": 52101,
-    "RelationshipId": 52101,
     "MonsterName": "Eremite_Female_Hatchet_01",
     "Name": "Eremita Hachera",
     "Title": "Eremita Hachera",
@@ -10205,7 +9977,6 @@
   {
     "Id": 25210201,
     "DescribeId": 52102,
-    "RelationshipId": 52102,
     "MonsterName": "Eremite_Male_Standard_Crossbow_01",
     "Name": "Eremita Ballestero",
     "Title": "Eremita Ballestero",
@@ -10250,7 +10021,6 @@
   {
     "Id": 25210301,
     "DescribeId": 52103,
-    "RelationshipId": 52103,
     "MonsterName": "Eremite_Male_Standard_Pole_01",
     "Name": "Eremita Alabardero",
     "Title": "Eremita Alabardero",
@@ -10295,7 +10065,6 @@
   {
     "Id": 25210401,
     "DescribeId": 52104,
-    "RelationshipId": 52104,
     "MonsterName": "Eremite_MuscleMan_Gloves_01",
     "Name": "Eremita Rompefilas",
     "Title": "Eremita Rompefilas",
@@ -10340,7 +10109,6 @@
   {
     "Id": 25210501,
     "DescribeId": 52105,
-    "RelationshipId": 52105,
     "MonsterName": "Eremite_MuscleMan_Simitar_01",
     "Name": "Eremita Espadachín",
     "Title": "Eremita Espadachín",
@@ -10385,7 +10153,7 @@
   {
     "Id": 0,
     "DescribeId": 52106,
-    "RelationshipId": 52106,
+    "Name": "Eremita Rompefilas",
     "Title": "Oni Espadachín",
     "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
     "Type": 0,
@@ -10394,7 +10162,6 @@
   {
     "Id": 25310101,
     "DescribeId": 53101,
-    "RelationshipId": 53101,
     "MonsterName": "Eremite_Female_Slim_PushDagger_01",
     "Name": "Eremita Ablucionadora",
     "Title": "Eremita Ablucionadora",
@@ -10439,7 +10206,6 @@
   {
     "Id": 25310201,
     "DescribeId": 53102,
-    "RelationshipId": 53102,
     "MonsterName": "Eremite_Male_Standard_Glaive_01",
     "Name": "Eremita Congelafuegos",
     "Title": "Eremita Congelafuegos",
@@ -10484,7 +10250,6 @@
   {
     "Id": 25310301,
     "DescribeId": 53103,
-    "RelationshipId": 53103,
     "MonsterName": "Eremite_Male_Standard_Polearm_01",
     "Name": "Eremita Invocatruenos",
     "Title": "Eremita Invocatruenos",
@@ -10529,7 +10294,6 @@
   {
     "Id": 25410101,
     "DescribeId": 54101,
-    "RelationshipId": 54101,
     "MonsterName": "Eremite_Male_Strong_Katar_01",
     "Name": "Eremita Hechizarrocas",
     "Title": "Eremita Cazavientos",
@@ -10537,6 +10301,12 @@
     "Icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112067,
+      112066,
+      112065
+    ],
     "BaseValue": {
       "HpBase": 67.92,
       "AttackBase": 50.24,
@@ -10568,7 +10338,6 @@
   {
     "Id": 25410201,
     "DescribeId": 54102,
-    "RelationshipId": 54102,
     "MonsterName": "Eremite_Female_Standard_Longbow_01",
     "Name": "Eremita Cazavientos",
     "Title": "Eremita Hechizarrocas",
@@ -10607,7 +10376,6 @@
   {
     "Id": 25410301,
     "DescribeId": 54103,
-    "RelationshipId": 54103,
     "MonsterName": "Eremite_Female_Standard_Oracle_01",
     "Name": "Eremita Susurrarenas",
     "Title": "Eremita Susurrarenas",
@@ -10646,7 +10414,6 @@
   {
     "Id": 25410401,
     "DescribeId": 54104,
-    "RelationshipId": 54104,
     "MonsterName": "Eremite_Female_Standard_Dancer_01",
     "Name": "Eremita Danzacróbata",
     "Title": "Eremita Danzacróbata",
@@ -10685,7 +10452,6 @@
   {
     "Id": 25500101,
     "DescribeId": 55001,
-    "RelationshipId": 55001,
     "MonsterName": "Human_Female_NoWeapon_Mosasaurus_01",
     "Name": "Guerrera Flujoafilado - Guerrillera",
     "Title": "Guerrera Flujoafilado - Guerrillera",
@@ -10734,7 +10500,6 @@
   {
     "Id": 25500201,
     "DescribeId": 55002,
-    "RelationshipId": 55002,
     "MonsterName": "Human_Female_NoWeapon_Flamingo_01",
     "Name": "Guerrera Plumífera - Surcacielos",
     "Title": "Guerrera Plumífera - Surcacielos",
@@ -10778,7 +10543,6 @@
   {
     "Id": 25501101,
     "DescribeId": 55011,
-    "RelationshipId": 55011,
     "MonsterName": "Human_Female_Sword_Drillhead_01",
     "Name": "Guerrera Forjarenas - Interrogadora",
     "Title": "Guerrera Forjarenas - Interrogadora",
@@ -10828,7 +10592,6 @@
   {
     "Id": 25501201,
     "DescribeId": 55012,
-    "RelationshipId": 55012,
     "MonsterName": "Human_Female_Sword_Hookwalker_01",
     "Name": "Guerrera Rauda - Buscapistas",
     "Title": "Guerrera Rauda - Buscapistas",
@@ -10879,7 +10642,6 @@
   {
     "Id": 25501301,
     "DescribeId": 55013,
-    "RelationshipId": 55013,
     "MonsterName": "Human_Female_Sword_Flamingo_01",
     "Name": "Guerrera Plumífera - Desemplumadora",
     "Title": "Guerrera Plumífera - Desemplumadora",
@@ -10924,7 +10686,6 @@
   {
     "Id": 25501401,
     "DescribeId": 55014,
-    "RelationshipId": 55014,
     "MonsterName": "Human_Female_Sword_Shamansaurus_01",
     "Name": "Guerrera Espiritista - Maestra de la persistencia",
     "Title": "Guerrera Espiritista - Maestra de la persistencia",
@@ -10936,6 +10697,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -10968,7 +10735,6 @@
   {
     "Id": 25502101,
     "DescribeId": 55021,
-    "RelationshipId": 55021,
     "MonsterName": "Human_Male_Standard_Sword_Hookwalker_01",
     "Name": "Guerrero Raudo - Exploracéfiros",
     "Title": "Guerrero Raudo - Exploracéfiros",
@@ -11019,7 +10785,6 @@
   {
     "Id": 25502201,
     "DescribeId": 55022,
-    "RelationshipId": 55022,
     "MonsterName": "Human_Male_Standard_Sword_Mosasaurus_01",
     "Name": "Guerrero Flujoafilado - Serrasálmido",
     "Title": "Guerrero Flujoafilado - Serrasálmido",
@@ -11069,7 +10834,6 @@
   {
     "Id": 25502301,
     "DescribeId": 55023,
-    "RelationshipId": 55023,
     "MonsterName": "Human_Male_Standard_Sword_Shamansaurus_01",
     "Name": "Guerrero Espiritista - Mentalista",
     "Title": "Guerrero Espiritista - Mentalista",
@@ -11081,6 +10845,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -11113,7 +10883,6 @@
   {
     "Id": 25502401,
     "DescribeId": 55024,
-    "RelationshipId": 55024,
     "MonsterName": "Human_Male_Standard_Sword_Bisonsaurus_01",
     "Name": "Guerrero Bárbaro - Ariete humano",
     "Title": "Guerrero Bárbaro - Ariete humano",
@@ -11158,7 +10927,6 @@
   {
     "Id": 25503101,
     "DescribeId": 55031,
-    "RelationshipId": 55031,
     "MonsterName": "Human_Male_Standard_Claymore_Hookwalker_01",
     "Name": "Guerrero Raudo - Mensajero Filopesado",
     "Title": "Guerrero Raudo - Mensajero Filopesado",
@@ -11209,7 +10977,6 @@
   {
     "Id": 25503201,
     "DescribeId": 55032,
-    "RelationshipId": 55032,
     "MonsterName": "Human_Male_Standard_Claymore_Shamansaurus_01",
     "Name": "Guerrero Espiritista - Meditador",
     "Title": "Guerrero Espiritista - Meditador",
@@ -11221,6 +10988,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 27.168,
@@ -11253,7 +11026,6 @@
   {
     "Id": 25504101,
     "DescribeId": 55041,
-    "RelationshipId": 55041,
     "MonsterName": "Human_MuscleMan_Claymore_Drillhead_01",
     "Name": "Guerrero Forjarenas - Quebrantaescudos",
     "Title": "Guerrero Forjarenas - Quebrantaescudos",
@@ -11303,7 +11075,6 @@
   {
     "Id": 25504201,
     "DescribeId": 55042,
-    "RelationshipId": 55042,
     "MonsterName": "Human_MuscleMan_Claymore_Flamingo_01",
     "Name": "Guerrero Plumífero - Dominavientos",
     "Title": "Guerrero Plumífero - Dominavientos",
@@ -11348,7 +11119,6 @@
   {
     "Id": 25504301,
     "DescribeId": 55043,
-    "RelationshipId": 55043,
     "MonsterName": "Human_MuscleMan_Claymore_Bisonsaurus_01",
     "Name": "Guerrero Bárbaro - Luchador",
     "Title": "Guerrero Bárbaro - Luchador",
@@ -11393,7 +11163,6 @@
   {
     "Id": 25505101,
     "DescribeId": 55051,
-    "RelationshipId": 55051,
     "MonsterName": "Human_Male_Fat_Sword_Drillhead_01",
     "Name": "Guerrero Forjarenas - Lanzajabalinas",
     "Title": "Guerrero Forjarenas - Lanzajabalinas",
@@ -11443,7 +11212,6 @@
   {
     "Id": 25505201,
     "DescribeId": 55052,
-    "RelationshipId": 55052,
     "MonsterName": "Human_Male_Fat_Sword_Mosasaurus_01",
     "Name": "Guerrero Flujoafilado - Arponero",
     "Title": "Guerrero Flujoafilado - Arponero",
@@ -11493,7 +11261,6 @@
   {
     "Id": 25505301,
     "DescribeId": 55053,
-    "RelationshipId": 55053,
     "MonsterName": "Human_Male_Fat_Sword_Bisonsaurus_01",
     "Name": "Guerrero Bárbaro - Agarrador",
     "Title": "Guerrero Bárbaro - Agarrador",
@@ -11537,7 +11304,6 @@
   {
     "Id": 25510101,
     "DescribeId": 55101,
-    "RelationshipId": 55101,
     "MonsterName": "Tribalwarrior_Male_Standard_Powermaul_Drillhead_01",
     "Name": "Soldado Tepetlisaurio - Aplastacristales",
     "Title": "Soldado Tepetlisaurio - Aplastacristales",
@@ -11582,7 +11348,6 @@
   {
     "Id": 25510201,
     "DescribeId": 55102,
-    "RelationshipId": 55102,
     "MonsterName": "Tribalwarrior_Male_Strong_Chainsword_Drillhead_01",
     "Name": "Soldado Tepetlisaurio - Destrozarrocas",
     "Title": "Soldado Tepetlisaurio - Destrozarrocas",
@@ -11627,7 +11392,6 @@
   {
     "Id": 25510301,
     "DescribeId": 55103,
-    "RelationshipId": 55103,
     "MonsterName": "Tribalwarrior_Male_Standard_Chainsword_Hookwalker_01",
     "Name": "Soldado Yumkasaurio - Aserrahojas",
     "Title": "Soldado Yumkasaurio - Aserrahojas",
@@ -11672,7 +11436,6 @@
   {
     "Id": 25510401,
     "DescribeId": 55104,
-    "RelationshipId": 55104,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Hookwalker_01",
     "Name": "Soldado Yumkasaurio - Artillera celeste",
     "Title": "Soldado Yumkasaurio - Artillera celeste",
@@ -11717,7 +11480,6 @@
   {
     "Id": 25510501,
     "DescribeId": 55105,
-    "RelationshipId": 55105,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Mosasaurus_01",
     "Name": "Soldado Koholasaurio - Caminaolas",
     "Title": "Soldado Koholasaurio - Caminaolas",
@@ -11762,7 +11524,6 @@
   {
     "Id": 25510601,
     "DescribeId": 55106,
-    "RelationshipId": 55106,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Mosasaurus_01",
     "Name": "Soldado Koholasaurio - Quebrantarrecifes",
     "Title": "Soldado Koholasaurio - Quebrantarrecifes",
@@ -11807,7 +11568,6 @@
   {
     "Id": 25510701,
     "DescribeId": 55107,
-    "RelationshipId": 55107,
     "MonsterName": "Tribalwarrior_Male_Strong_Powermaul_Flamingo_01",
     "Name": "Soldado Qucusaurio - Martillero estelar",
     "Title": "Soldado Qucusaurio - Martillero estelar",
@@ -11815,6 +11575,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 50.24,
@@ -11846,7 +11612,6 @@
   {
     "Id": 25510801,
     "DescribeId": 55108,
-    "RelationshipId": 55108,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_01",
     "Name": "Soldado Qucusaurio - Lanzallamas célica",
     "Title": "Soldado Qucusaurio - Lanzallamas célica",
@@ -11885,7 +11650,6 @@
   {
     "Id": 25510901,
     "DescribeId": 55109,
-    "RelationshipId": 55109,
     "MonsterName": "Tribalwarrior_Male_Standard_Chainsword_Shamansaurus_01",
     "Name": "Soldado Iktomisaurio - Portamareas glacial",
     "Title": "Soldado Iktomisaurio - Portamareas glacial",
@@ -11893,6 +11657,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -11924,7 +11694,6 @@
   {
     "Id": 25511001,
     "DescribeId": 55110,
-    "RelationshipId": 55110,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Shamansaurus_01",
     "Name": "Soldado Iktomisaurio - Artificiera criocristalina",
     "Title": "Soldado Iktomisaurio - Artificiera criocristalina",
@@ -11932,6 +11701,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -11963,7 +11738,6 @@
   {
     "Id": 25511101,
     "DescribeId": 55111,
-    "RelationshipId": 55111,
     "MonsterName": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_01",
     "Name": "Soldado Tatankasaurio - Sacudecielos",
     "Title": "Soldado Tatankasaurio - Sacudecielos",
@@ -12002,7 +11776,6 @@
   {
     "Id": 25511201,
     "DescribeId": 55112,
-    "RelationshipId": 55112,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Bisonsaurus_01",
     "Name": "Soldado Tatankasaurio - Persigueluces",
     "Title": "Soldado Tatankasaurio - Persigueluces",
@@ -12041,7 +11814,6 @@
   {
     "Id": 0,
     "DescribeId": 55151,
-    "RelationshipId": 55151,
     "Name": "Soldado Tepetlisaurio - Destrozarrocas aguerrido",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
@@ -12051,7 +11823,6 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "RelationshipId": 55152,
     "Name": "Soldado Koholasaurio - Caminaolas aguerrida",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
@@ -12061,7 +11832,6 @@
   {
     "Id": 0,
     "DescribeId": 55153,
-    "RelationshipId": 55153,
     "Name": "Soldado Yumkasaurio - Artillera celeste aguerrida",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
@@ -12071,7 +11841,6 @@
   {
     "Id": 0,
     "DescribeId": 55154,
-    "RelationshipId": 55154,
     "Name": "¿?",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12081,7 +11850,6 @@
   {
     "Id": 0,
     "DescribeId": 55155,
-    "RelationshipId": 55155,
     "Name": "Soldado Iktomisaurio - Artificiera criocristalina aguerrida",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12091,7 +11859,6 @@
   {
     "Id": 0,
     "DescribeId": 55156,
-    "RelationshipId": 55156,
     "Name": "Soldado Tatankasaurio - Persigueluces aguerrida",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
@@ -12101,7 +11868,6 @@
   {
     "Id": 0,
     "DescribeId": 55161,
-    "RelationshipId": 55161,
     "Name": "¿?",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12111,7 +11877,6 @@
   {
     "Id": 25520101,
     "DescribeId": 55201,
-    "RelationshipId": 55201,
     "MonsterName": "TribalWarrior_Udugan",
     "Name": "Asceta Espiritista",
     "Title": "Asceta Espiritista",
@@ -12171,7 +11936,6 @@
   {
     "Id": 0,
     "DescribeId": 55501,
-    "RelationshipId": 55501,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12180,7 +11944,6 @@
   {
     "Id": 0,
     "DescribeId": 55502,
-    "RelationshipId": 55502,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12189,7 +11952,6 @@
   {
     "Id": 0,
     "DescribeId": 55503,
-    "RelationshipId": 55503,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12198,7 +11960,6 @@
   {
     "Id": 0,
     "DescribeId": 55504,
-    "RelationshipId": 55504,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12207,7 +11968,6 @@
   {
     "Id": 0,
     "DescribeId": 55505,
-    "RelationshipId": 55505,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12216,7 +11976,6 @@
   {
     "Id": 0,
     "DescribeId": 55506,
-    "RelationshipId": 55506,
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12225,7 +11984,6 @@
   {
     "Id": 0,
     "DescribeId": 55507,
-    "RelationshipId": 55507,
     "Name": "Jefe de la tribu de los Tepetlisaurios",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12235,7 +11993,6 @@
   {
     "Id": 0,
     "DescribeId": 55602,
-    "RelationshipId": 55602,
     "Name": "Ídolo Pipilpan aguerrido",
     "Title": "Ídolo Pipilpan aguerrido",
     "Icon": "UI_MonsterIcon_Tenoyollotzin",
@@ -12248,7 +12005,6 @@
   {
     "Id": 26010101,
     "DescribeId": 60101,
-    "RelationshipId": 60101,
     "MonsterName": "Mimik_Ice",
     "Name": "Megaflora Cryo",
     "Title": "Megaflora Cryo",
@@ -12293,7 +12049,6 @@
   {
     "Id": 26010201,
     "DescribeId": 60102,
-    "RelationshipId": 60102,
     "MonsterName": "Mimik_Fire",
     "Name": "Megaflora Pyro",
     "Title": "Megaflora Pyro",
@@ -12338,7 +12093,6 @@
   {
     "Id": 26010301,
     "DescribeId": 60103,
-    "RelationshipId": 60103,
     "MonsterName": "Mimik_Electric",
     "Name": "Megaflora Electro",
     "Title": "Megaflora Electro",
@@ -12346,6 +12100,12 @@
     "Icon": "UI_MonsterIcon_Mimik_Electric",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112040,
+      112039,
+      112038
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 25.12,
@@ -12377,7 +12137,6 @@
   {
     "Id": 26020101,
     "DescribeId": 60201,
-    "RelationshipId": 60201,
     "MonsterName": "Regisvine_Ice",
     "Name": "Regisvid Cryo",
     "Title": "Regisvid Cryo",
@@ -12437,7 +12196,6 @@
   {
     "Id": 26020201,
     "DescribeId": 60202,
-    "RelationshipId": 60202,
     "MonsterName": "Regisvine_Fire",
     "Name": "Regisvid Pyro",
     "Title": "Regisvid Pyro",
@@ -12497,7 +12255,6 @@
   {
     "Id": 26020301,
     "DescribeId": 60203,
-    "RelationshipId": 60203,
     "MonsterName": "Regisvine_Electric",
     "Name": "Regisvid Electro",
     "Title": "Regisvid Electro",
@@ -12557,7 +12314,6 @@
   {
     "Id": 26030101,
     "DescribeId": 60301,
-    "RelationshipId": 60301,
     "MonsterName": "Wyrm_Rock",
     "Name": "Cría de Dragarto Geo",
     "Title": "Cría de Dragarto Geo",
@@ -12609,7 +12365,6 @@
   {
     "Id": 26040101,
     "DescribeId": 60401,
-    "RelationshipId": 60401,
     "MonsterName": "Drake_Rock_01_Water",
     "Name": "Dragarto Geo",
     "Title": "Dragarto Geo",
@@ -12664,7 +12419,6 @@
   {
     "Id": 0,
     "DescribeId": 60402,
-    "RelationshipId": 60402,
     "Name": "Patrullamontañas de Chizhang - Yiji",
     "Title": "Dragarto Geo",
     "Icon": "UI_MonsterIcon_Drake_Rock",
@@ -12677,7 +12431,6 @@
   {
     "Id": 0,
     "DescribeId": 60403,
-    "RelationshipId": 60403,
     "Name": "Patrullamontañas de Chizhang - Tianyu",
     "Title": "Dragarto Geo",
     "Icon": "UI_MonsterIcon_Drake_Rock",
@@ -12690,7 +12443,6 @@
   {
     "Id": 26050101,
     "DescribeId": 60501,
-    "RelationshipId": 60501,
     "MonsterName": "Drake_Primo_Rock_01_Water",
     "Name": "Protodragarto Geo",
     "Title": "Protodragarto Geo",
@@ -12772,7 +12524,6 @@
   {
     "Id": 0,
     "DescribeId": 60502,
-    "RelationshipId": 60502,
     "Name": "Protodragarto Geo",
     "Title": "Protodragarto Geo",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12785,7 +12536,6 @@
   {
     "Id": 0,
     "DescribeId": 60503,
-    "RelationshipId": 60503,
     "Name": "Protodragarto Geo",
     "Title": "Protodragarto Geo",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12798,7 +12548,6 @@
   {
     "Id": 0,
     "DescribeId": 60504,
-    "RelationshipId": 60504,
     "Name": "Protodragarto Geo",
     "Title": "Protodragarto Geo",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12811,7 +12560,6 @@
   {
     "Id": 26050601,
     "DescribeId": 60506,
-    "RelationshipId": 60506,
     "MonsterName": "Drake_DeepSea_Water_01",
     "Name": "Dragarto de las Profundidades Primordial",
     "Title": "Dragarto de las Profundidades Primordial",
@@ -12863,7 +12611,6 @@
   {
     "Id": 26050701,
     "DescribeId": 60507,
-    "RelationshipId": 60507,
     "MonsterName": "Drake_Deepsea_Ice_01",
     "Name": "Dragarto de las Profundidades - Hielo mordaz",
     "Title": "Dragarto de las Profundidades - Hielo mordaz",
@@ -12927,7 +12674,6 @@
   {
     "Id": 26050801,
     "DescribeId": 60508,
-    "RelationshipId": 60508,
     "MonsterName": "Drake_Deepsea_Electric_01",
     "Name": "Dragarto de las Profundidades - Engulletruenos",
     "Title": "Dragarto de las Profundidades - Engulletruenos",
@@ -12966,7 +12712,6 @@
   {
     "Id": 0,
     "DescribeId": 60509,
-    "RelationshipId": 60509,
     "Name": "Cría de Dragarto de las Profundidades Primordial",
     "Title": "Dragarto de las Profundidades Primordial",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
@@ -12976,7 +12721,6 @@
   {
     "Id": 0,
     "DescribeId": 60510,
-    "RelationshipId": 60510,
     "Name": "Cría de Dragarto de las Profundidades - Hielo mordaz",
     "Title": "Dragarto de las Profundidades - Hielo mordaz",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Ice",
@@ -12986,7 +12730,6 @@
   {
     "Id": 0,
     "DescribeId": 60511,
-    "RelationshipId": 60511,
     "Name": "Cría de Dragarto de las Profundidades - Engulletruenos",
     "Title": "Dragarto de las Profundidades - Engulletruenos",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Electric",
@@ -12996,7 +12739,6 @@
   {
     "Id": 0,
     "DescribeId": 60512,
-    "RelationshipId": 60512,
     "Name": "Dragarto de las Profundidades Primordial aguerrido",
     "Title": "Dragarto de las Profundidades Primordial",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
@@ -13006,7 +12748,6 @@
   {
     "Id": 26060101,
     "DescribeId": 60601,
-    "RelationshipId": 60601,
     "MonsterName": "Cicin_Thunder_01",
     "Name": "Cicin Electro",
     "Title": "Cicin Electro",
@@ -13045,7 +12786,6 @@
   {
     "Id": 26060201,
     "DescribeId": 60602,
-    "RelationshipId": 60602,
     "MonsterName": "Cicin_Water_01",
     "Name": "Cicin Hydro",
     "Title": "Cicin Hydro",
@@ -13084,7 +12824,6 @@
   {
     "Id": 26060301,
     "DescribeId": 60603,
-    "RelationshipId": 60603,
     "MonsterName": "Cicin_Ice_01",
     "Name": "Cicin Cryo",
     "Title": "Cicin Cryo",
@@ -13123,7 +12862,6 @@
   {
     "Id": 0,
     "DescribeId": 60801,
-    "RelationshipId": 60801,
     "Name": "Beisht",
     "Title": "Beisht",
     "Icon": "UI_MonsterIcon_Cicin_Ice_01",
@@ -13133,7 +12871,6 @@
   {
     "Id": 26090101,
     "DescribeId": 60901,
-    "RelationshipId": 60901,
     "MonsterName": "Fungus_Un_Gamma_Water_01",
     "Name": "Flotihongo Hydro",
     "Title": "Flotihongo Hydro",
@@ -13141,6 +12878,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13172,7 +12918,6 @@
   {
     "Id": 26090201,
     "DescribeId": 60902,
-    "RelationshipId": 60902,
     "MonsterName": "Fungus_Un_Delta_Grass_01",
     "Name": "Flotihongo Dendro",
     "Title": "Flotihongo Dendro",
@@ -13220,7 +12965,6 @@
   {
     "Id": 26090301,
     "DescribeId": 60903,
-    "RelationshipId": 60903,
     "MonsterName": "Fungus_Un_Delta_Wind_01",
     "Name": "Flotihongo Anemo",
     "Title": "Flotihongo Anemo",
@@ -13228,6 +12972,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13259,7 +13012,6 @@
   {
     "Id": 26090401,
     "DescribeId": 60904,
-    "RelationshipId": 60904,
     "MonsterName": "Fungus_Trois_Epsilon_Electric_01",
     "Name": "Girohongo Electro",
     "Title": "Girohongo Electro",
@@ -13307,7 +13059,6 @@
   {
     "Id": 26090501,
     "DescribeId": 60905,
-    "RelationshipId": 60905,
     "MonsterName": "Fungus_Trois_Alpha_Ice_01",
     "Name": "Girohongo Cryo",
     "Title": "Girohongo Cryo",
@@ -13355,7 +13106,6 @@
   {
     "Id": 26090601,
     "DescribeId": 60906,
-    "RelationshipId": 60906,
     "MonsterName": "Fungus_Trois_Gamma_Fire_01",
     "Name": "Girohongo Pyro",
     "Title": "Girohongo Pyro",
@@ -13363,6 +13113,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13394,7 +13153,6 @@
   {
     "Id": 26090701,
     "DescribeId": 60907,
-    "RelationshipId": 60907,
     "MonsterName": "Fungus_Deux_Alpha_Fire_01",
     "Name": "Flexihongo Pyro",
     "Title": "Flexihongo Pyro",
@@ -13442,7 +13200,6 @@
   {
     "Id": 26090801,
     "DescribeId": 60908,
-    "RelationshipId": 60908,
     "MonsterName": "Fungus_Deux_Epsilon_Wind_01",
     "Name": "Flexihongo Anemo",
     "Title": "Flexihongo Anemo",
@@ -13490,7 +13247,6 @@
   {
     "Id": 26090901,
     "DescribeId": 60909,
-    "RelationshipId": 60909,
     "MonsterName": "Fungus_Deux_Beta_Rock_01",
     "Name": "Flexihongo Geo",
     "Title": "Flexihongo Geo",
@@ -13538,7 +13294,6 @@
   {
     "Id": 26091001,
     "DescribeId": 60910,
-    "RelationshipId": 60910,
     "MonsterName": "Fungus_Deux_Delta_Electric_01",
     "Name": "Flexihongo Electro",
     "Title": "Flexihongo Electro",
@@ -13577,7 +13332,6 @@
   {
     "Id": 26100101,
     "DescribeId": 61001,
-    "RelationshipId": 61001,
     "MonsterName": "Gator_Sacred_Water_01",
     "Name": "Corniodrilo Sacróseo",
     "Title": "Corniodrilo Sacróseo - Corriente arrasadora",
@@ -13616,7 +13370,6 @@
   {
     "Id": 26100201,
     "DescribeId": 61002,
-    "RelationshipId": 61002,
     "MonsterName": "Panther_Sacred_Grass_01",
     "Name": "Colmibestia Sacrósea",
     "Title": "Colmibestia Sacrósea - Enredadera desenfrenada",
@@ -13655,7 +13408,6 @@
   {
     "Id": 26100301,
     "DescribeId": 61003,
-    "RelationshipId": 61003,
     "MonsterName": "Vulture_Sacred_Fire_01",
     "Name": "Buitre Escarlata Sacróseo",
     "Title": "Buitre Escarlata Sacróseo - Ardor carmesí",
@@ -13707,7 +13459,6 @@
   {
     "Id": 26100401,
     "DescribeId": 61004,
-    "RelationshipId": 61004,
     "MonsterName": "Scorpion_Sacred_Electric_01",
     "Name": "Escorpión Sacróseo",
     "Title": "Escorpión Sacróseo - Trueno violeta",
@@ -13759,7 +13510,6 @@
   {
     "Id": 26100501,
     "DescribeId": 61005,
-    "RelationshipId": 61005,
     "MonsterName": "Chrysopelea_Sacred_Wind_01",
     "Name": "Aerofidio Sacróseo",
     "Title": "Aerofidio Sacróseo - Domador alígero",
@@ -13811,7 +13561,6 @@
   {
     "Id": 26110101,
     "DescribeId": 61101,
-    "RelationshipId": 61101,
     "MonsterName": "Fungus_Raptor",
     "Name": "Espantohongo Plumaverde",
     "Title": "Espantohongo Plumaverde",
@@ -13869,7 +13618,6 @@
   {
     "Id": 26120101,
     "DescribeId": 61201,
-    "RelationshipId": 61201,
     "MonsterName": "Fungus_Amanita_Unu_Anudatta_Grass_01",
     "Name": "Dendrohongo Alado",
     "Title": "Dendrohongo Alado",
@@ -13917,7 +13665,6 @@
   {
     "Id": 26120201,
     "DescribeId": 61202,
-    "RelationshipId": 61202,
     "MonsterName": "Fungus_Amanita_Unu_Svarita_Ices_01",
     "Name": "Cryohongo Alado",
     "Title": "Cryohongo Alado",
@@ -13965,7 +13712,6 @@
   {
     "Id": 26120301,
     "DescribeId": 61203,
-    "RelationshipId": 61203,
     "MonsterName": "Fungus_Amanita_Du_Anudatta_Water_01",
     "Name": "Hydrohongo Terrestre",
     "Title": "Hydrohongo Terrestre",
@@ -14013,7 +13759,6 @@
   {
     "Id": 26120401,
     "DescribeId": 61204,
-    "RelationshipId": 61204,
     "MonsterName": "Fungus_Amanita_Du_Udatta_Rock_01",
     "Name": "Geohongo Terrestre",
     "Title": "Geohongo Terrestre",
@@ -14021,6 +13766,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 38.0352,
       "AttackBase": 30.144,
@@ -14052,7 +13806,6 @@
   {
     "Id": 26130101,
     "DescribeId": 61301,
-    "RelationshipId": 61301,
     "MonsterName": "Sandworm",
     "Name": "Gusano de Sutej",
     "Title": "Gusano de Sutej",
@@ -14110,7 +13863,6 @@
   {
     "Id": 26140101,
     "DescribeId": 61401,
-    "RelationshipId": 61401,
     "MonsterName": "Golem_Centaur",
     "Name": "Gólem Legado",
     "Title": "Estatua de mármol y latón",
@@ -14174,7 +13926,6 @@
   {
     "Id": 26140201,
     "DescribeId": 61402,
-    "RelationshipId": 61402,
     "MonsterName": "Golem_Legion",
     "Name": "Gólem Pretoriano",
     "Title": "Pretoriano de la Legión Inmortal",
@@ -14226,7 +13977,6 @@
   {
     "Id": 26151001,
     "DescribeId": 61510,
-    "RelationshipId": 61510,
     "MonsterName": "MantaRay_Larva_01",
     "Name": "Raya Depredadora",
     "Title": "Raya Depredadora",
@@ -14271,7 +14021,6 @@
   {
     "Id": 26151101,
     "DescribeId": 61511,
-    "RelationshipId": 61511,
     "MonsterName": "MantaRay_Larva_02",
     "Name": "Raya Depredadora",
     "Title": "Raya Depredadora",
@@ -14316,7 +14065,6 @@
   {
     "Id": 26152101,
     "DescribeId": 61521,
-    "RelationshipId": 61521,
     "MonsterName": "HermitCrab_Larva_01_Sea",
     "Name": "Cangrejo Acorazado",
     "Title": "Cangrejo Acorazado",
@@ -14364,7 +14112,6 @@
   {
     "Id": 26152201,
     "DescribeId": 61522,
-    "RelationshipId": 61522,
     "MonsterName": "HermitCrab_Larva_02_Sea",
     "Name": "Cangrejo Acorazado",
     "Title": "Cangrejo Acorazado",
@@ -14412,7 +14159,6 @@
   {
     "Id": 26153101,
     "DescribeId": 61531,
-    "RelationshipId": 61531,
     "MonsterName": "Seal_Larva_01_Sea",
     "Name": "Foca Abotargada",
     "Title": "Foca Abotargada",
@@ -14457,7 +14203,6 @@
   {
     "Id": 26154101,
     "DescribeId": 61541,
-    "RelationshipId": 61541,
     "MonsterName": "JellyFish_Larva_01",
     "Name": "Medusa Sombreruda",
     "Title": "Medusa Sombreruda",
@@ -14505,7 +14250,6 @@
   {
     "Id": 26154201,
     "DescribeId": 61542,
-    "RelationshipId": 61542,
     "MonsterName": "JellyFish_Larva_02",
     "Name": "Medusa Sombreruda",
     "Title": "Medusa Sombreruda",
@@ -14553,7 +14297,6 @@
   {
     "Id": 26155101,
     "DescribeId": 61551,
-    "RelationshipId": 61551,
     "MonsterName": "SeaHorse_Larva_01",
     "Name": "Caballito Burbumarino",
     "Title": "Caballito Burbumarino",
@@ -14598,7 +14341,6 @@
   {
     "Id": 26155201,
     "DescribeId": 61552,
-    "RelationshipId": 61552,
     "MonsterName": "SeaHorse_Larva_02",
     "Name": "Caballito Burbumarino",
     "Title": "Caballito Burbumarino",
@@ -14643,7 +14385,6 @@
   {
     "Id": 26155301,
     "DescribeId": 61553,
-    "RelationshipId": 61553,
     "MonsterName": "SeaHorse_Larva_03",
     "Name": "Caballito Burbumarino",
     "Title": "Caballito Burbumarino",
@@ -14688,7 +14429,6 @@
   {
     "Id": 26156101,
     "DescribeId": 61561,
-    "RelationshipId": 61561,
     "MonsterName": "Octopus_Larva_01",
     "Name": "Esferoctópodo",
     "Title": "Esferoctópodo",
@@ -14733,7 +14473,6 @@
   {
     "Id": 26156201,
     "DescribeId": 61562,
-    "RelationshipId": 61562,
     "MonsterName": "Octopus_Larva_02",
     "Name": "Esferoctópodo",
     "Title": "Esferoctópodo",
@@ -14778,7 +14517,6 @@
   {
     "Id": 26157101,
     "DescribeId": 61571,
-    "RelationshipId": 61571,
     "MonsterName": "Aplysia_Larva_01",
     "Name": "Gasterópodo Ángel",
     "Title": "Gasterópodo Ángel",
@@ -14826,7 +14564,6 @@
   {
     "Id": 26157201,
     "DescribeId": 61572,
-    "RelationshipId": 61572,
     "MonsterName": "Aplysia_Larva_02",
     "Name": "Gasterópodo Ángel",
     "Title": "Gasterópodo Ángel",
@@ -14874,7 +14611,6 @@
   {
     "Id": 26160101,
     "DescribeId": 61601,
-    "RelationshipId": 61601,
     "MonsterName": "HermitCrab_Mature_01_Sea",
     "Name": "Cangrejo Acorazado Robusto",
     "Title": "Cangrejo Acorazado Robusto",
@@ -14919,7 +14655,6 @@
   {
     "Id": 26160201,
     "DescribeId": 61602,
-    "RelationshipId": 61602,
     "MonsterName": "Aplysia_Mature_01_Sea",
     "Name": "Gran Gasterópodo Ángel",
     "Title": "Gran Gasterópodo Ángel",
@@ -14964,7 +14699,6 @@
   {
     "Id": 26160301,
     "DescribeId": 61603,
-    "RelationshipId": 61603,
     "MonsterName": "SeaHorse_Mature_01_Sea",
     "Name": "Caballito Burbumarino Macho",
     "Title": "Caballito Burbumarino Macho",
@@ -15009,7 +14743,6 @@
   {
     "Id": 0,
     "DescribeId": 61621,
-    "RelationshipId": 61621,
     "Name": "Cangrejo Acorazado - Leyenda local",
     "Title": "Cangrejo Acorazado",
     "Icon": "UI_MonsterIcon_HermitCrab_Mature_02",
@@ -15019,7 +14752,6 @@
   {
     "Id": 0,
     "DescribeId": 61622,
-    "RelationshipId": 61622,
     "Name": "Raya Depredadora - Leyenda local",
     "Title": "Raya Depredadora",
     "Icon": "UI_MonsterIcon_MantaRay_Larva_03",
@@ -15029,7 +14761,6 @@
   {
     "Id": 0,
     "DescribeId": 61623,
-    "RelationshipId": 61623,
     "Name": "Foca Abotargada - Leyenda local",
     "Title": "Foca Abotargada",
     "Icon": "UI_MonsterIcon_Seal_Larva_02",
@@ -15039,7 +14770,6 @@
   {
     "Id": 0,
     "DescribeId": 61624,
-    "RelationshipId": 61624,
     "Name": "Gran Gasterópodo Ángel - Leyenda local",
     "Title": "Gran Gasterópodo Ángel",
     "Icon": "UI_MonsterIcon_Aplysia_Mature",
@@ -15049,7 +14779,6 @@
   {
     "Id": 0,
     "DescribeId": 61625,
-    "RelationshipId": 61625,
     "Name": "Medusa Sombreruda - Leyenda local",
     "Title": "Chassanion",
     "Icon": "UI_MonsterIcon_Aplysia_Mature",
@@ -15059,7 +14788,6 @@
   {
     "Id": 0,
     "DescribeId": 61626,
-    "RelationshipId": 61626,
     "Name": "Cangrejo hogarpétreo aguerrido",
     "Title": "Cangrejo hogarpétreo aguerrido",
     "Icon": "UI_MonsterIcon_HermitCrab_Mature_Elite",
@@ -15069,7 +14797,6 @@
   {
     "Id": 26160302,
     "DescribeId": 61701,
-    "RelationshipId": 61701,
     "MonsterName": "SeaHorse_Mature_01_Land",
     "Name": "Emperador Piroacorazado",
     "Title": "Emperador Piroacorazado",
@@ -15114,7 +14841,6 @@
   {
     "Id": 26180101,
     "DescribeId": 61801,
-    "RelationshipId": 61801,
     "MonsterName": "SeaHorse_Primo_Electric_01",
     "Name": "Corcel de Mar Perlamilenario",
     "Title": "Corcel de Mar Perlamilenario",
@@ -15174,7 +14900,6 @@
   {
     "Id": 26190101,
     "DescribeId": 61901,
-    "RelationshipId": 61901,
     "MonsterName": "Hermit_Normal_01",
     "Name": "Suanni Ermitaña",
     "Title": "Suanni Ermitaña",
@@ -15236,7 +14961,6 @@
   {
     "Id": 26190201,
     "DescribeId": 61902,
-    "RelationshipId": 61902,
     "MonsterName": "Striped_01",
     "Name": "Bestia Xuanwen",
     "Title": "Bestia Xuanwen",
@@ -15288,7 +15012,6 @@
   {
     "Id": 26200101,
     "DescribeId": 62001,
-    "RelationshipId": 62001,
     "MonsterName": "Monster_Natsaurus_Drillhead_Small_01",
     "Name": "Cría de Tepetlisaurio",
     "Title": "Cría de Tepetlisaurio",
@@ -15333,7 +15056,6 @@
   {
     "Id": 26200201,
     "DescribeId": 62002,
-    "RelationshipId": 62002,
     "MonsterName": "Monster_Natsaurus_Drillhead_Normal_01",
     "Name": "Tepetlisaurio",
     "Title": "Tepetlisaurio",
@@ -15378,7 +15100,6 @@
   {
     "Id": 0,
     "DescribeId": 62081,
-    "RelationshipId": 62081,
     "Name": "Cría de Tepetlisaurio",
     "Title": "Cría de Tepetlisaurio",
     "Icon": "UI_MonsterIcon_Natsaurus_Drillhead_Small",
@@ -15388,7 +15109,6 @@
   {
     "Id": 26210101,
     "DescribeId": 62101,
-    "RelationshipId": 62101,
     "MonsterName": "Monster_Natsaurus_Mosasaurus_Small_01",
     "Name": "Cría de Koholasaurio",
     "Title": "Cría de Koholasaurio",
@@ -15433,7 +15153,6 @@
   {
     "Id": 26210201,
     "DescribeId": 62102,
-    "RelationshipId": 62102,
     "MonsterName": "Monster_Natsaurus_Mosasaurus_Normal_01",
     "Name": "Koholasaurio",
     "Title": "Koholasaurio",
@@ -15478,7 +15197,6 @@
   {
     "Id": 26220101,
     "DescribeId": 62201,
-    "RelationshipId": 62201,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Small_01",
     "Name": "Cría de Yumkasaurio",
     "Title": "Cría de Yumkasaurio",
@@ -15523,7 +15241,6 @@
   {
     "Id": 26220201,
     "DescribeId": 62202,
-    "RelationshipId": 62202,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Normal_01",
     "Name": "Yumkasaurio",
     "Title": "Yumkasaurio",
@@ -15568,7 +15285,6 @@
   {
     "Id": 26220301,
     "DescribeId": 62203,
-    "RelationshipId": 62203,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Primo_01",
     "Name": "Rey Yumkasaurio Glotón",
     "Title": "Rey Yumkasaurio Glotón",
@@ -15626,7 +15342,6 @@
   {
     "Id": 26230101,
     "DescribeId": 62301,
-    "RelationshipId": 62301,
     "MonsterName": "Monster_Natsaurus_Flamingo_Small_01",
     "Name": "Cría de Qucusaurio",
     "Title": "Cría de Qucusaurio",
@@ -15634,6 +15349,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 14.9424,
       "AttackBase": 22.608,
@@ -15665,7 +15386,6 @@
   {
     "Id": 26230201,
     "DescribeId": 62302,
-    "RelationshipId": 62302,
     "MonsterName": "Monster_Natsaurus_Flamingo_Normal_01",
     "Name": "Qucusaurio",
     "Title": "Qucusaurio",
@@ -15673,6 +15393,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Flamingo_Normal",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 37.68,
@@ -15704,7 +15430,6 @@
   {
     "Id": 26230301,
     "DescribeId": 62303,
-    "RelationshipId": 62303,
     "MonsterName": "Monster_Natsaurus_Flamingo_Primo_01",
     "Name": "Tirano Qucusaurio Aureoardiente",
     "Title": "Tirano Qucusaurio Aureoardiente",
@@ -15764,7 +15489,6 @@
   {
     "Id": 26240101,
     "DescribeId": 62401,
-    "RelationshipId": 62401,
     "MonsterName": "Monster_Natsaurus_Shamansaurus_Small_01",
     "Name": "Cría de Iktomisaurio",
     "Title": "Cría de Iktomisaurio",
@@ -15772,6 +15496,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Small",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 20.096,
@@ -15803,7 +15533,6 @@
   {
     "Id": 26240201,
     "DescribeId": 62402,
-    "RelationshipId": 62402,
     "MonsterName": "Monster_Natsaurus_Shamansaurus_Normal_01",
     "Name": "Iktomisaurio",
     "Title": "Iktomisaurio",
@@ -15811,6 +15540,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 36.6768,
       "AttackBase": 33.912,
@@ -15842,7 +15577,6 @@
   {
     "Id": 0,
     "DescribeId": 62403,
-    "RelationshipId": 62403,
     "Name": "Iktomisaurio aguerrido",
     "Title": "Iktomisaurio",
     "Icon": "UI_MonsterIcon_Aplysia_Larva_02",
@@ -15855,7 +15589,6 @@
   {
     "Id": 26250101,
     "DescribeId": 62501,
-    "RelationshipId": 62501,
     "MonsterName": "Monster_Natsaurus_Bisonsaurus_Small_01",
     "Name": "Cría de Tatankasaurio",
     "Title": "Cría de Tatankasaurio",
@@ -15894,7 +15627,6 @@
   {
     "Id": 26250201,
     "DescribeId": 62502,
-    "RelationshipId": 62502,
     "MonsterName": "Monster_Natsaurus_Bisonsaurus_Normal_01",
     "Name": "Tatankasaurio",
     "Title": "Tatankasaurio",
@@ -15933,7 +15665,6 @@
   {
     "Id": 0,
     "DescribeId": 62503,
-    "RelationshipId": 62503,
     "Name": "Tatankasaurio aguerrido",
     "Title": "Tatankasaurio",
     "Icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Crystal",
@@ -15946,7 +15677,6 @@
   {
     "Id": 26260101,
     "DescribeId": 62601,
-    "RelationshipId": 62601,
     "MonsterName": "Wayob_Drillhead_01",
     "Name": "Manifestación Wayob Cavernaria",
     "Title": "Manifestación Wayob Contrafluyente",
@@ -15998,7 +15728,6 @@
   {
     "Id": 26260201,
     "DescribeId": 62602,
-    "RelationshipId": 62602,
     "MonsterName": "Wayob_Mosasaurus_01",
     "Name": "Manifestación Wayob Contrafluyente",
     "Title": "Manifestación Wayob Cavernaria",
@@ -16050,7 +15779,6 @@
   {
     "Id": 26260301,
     "DescribeId": 62603,
-    "RelationshipId": 62603,
     "MonsterName": "Wayob_Hookwalker_01",
     "Name": "Manifestación Wayob Raudifolia",
     "Title": "Manifestación Wayob Raudifolia",
@@ -16102,7 +15830,6 @@
   {
     "Id": 0,
     "DescribeId": 62604,
-    "RelationshipId": 62604,
     "Name": "Manifestación Wayob Cavernaria aguerrida",
     "Title": "Manifestación Wayob Contrafluyente",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
@@ -16112,7 +15839,6 @@
   {
     "Id": 0,
     "DescribeId": 62605,
-    "RelationshipId": 62605,
     "Name": "Manifestación Wayob Contrafluyente aguerrida",
     "Title": "Manifestación Wayob Cavernaria",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
@@ -16122,7 +15848,6 @@
   {
     "Id": 0,
     "DescribeId": 62606,
-    "RelationshipId": 62606,
     "Name": "Manifestación Wayob Raudifolia aguerrida",
     "Title": "Manifestación Wayob Raudifolia",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
@@ -16132,7 +15857,6 @@
   {
     "Id": 0,
     "DescribeId": 62607,
-    "RelationshipId": 62607,
     "Name": "Manifestación Wayob Abrasadora aguerrida",
     "Title": "Manifestación Wayob Abrasadora",
     "Icon": "UI_MonsterIcon_Wayob_Flamingo",
@@ -16142,7 +15866,6 @@
   {
     "Id": 26260801,
     "DescribeId": 62608,
-    "RelationshipId": 62608,
     "MonsterName": "Wayob_Shamansaurus_01",
     "Name": "Manifestación Wayob Gélida",
     "Title": "Manifestación Wayob Gélida",
@@ -16181,7 +15904,6 @@
   {
     "Id": 26260901,
     "DescribeId": 62609,
-    "RelationshipId": 62609,
     "MonsterName": "Wayob_Flamingo_01",
     "Name": "Manifestación Wayob Abrasadora",
     "Title": "Manifestación Wayob Abrasadora",
@@ -16220,7 +15942,6 @@
   {
     "Id": 0,
     "DescribeId": 62610,
-    "RelationshipId": 62610,
     "Name": "Manifestación Wayob Gélida aguerrida",
     "Title": "Manifestación Wayob Gélida",
     "Icon": "UI_MonsterIcon_Wayob_Shamansaurus",
@@ -16230,7 +15951,6 @@
   {
     "Id": 26261101,
     "DescribeId": 62611,
-    "RelationshipId": 62611,
     "MonsterName": "Wayob_Bisonsaurus_01",
     "Name": "Manifestación Wayob Azotatruenos",
     "Title": "Manifestación Wayob Azotatruenos",
@@ -16269,7 +15989,6 @@
   {
     "Id": 0,
     "DescribeId": 62612,
-    "RelationshipId": 62612,
     "Name": "Manifestación Wayob Azotatruenos aguerrida",
     "Title": "Manifestación Wayob Azotatruenos",
     "Icon": "UI_MonsterIcon_Wayob_Bisonsaurus",
@@ -16279,7 +15998,6 @@
   {
     "Id": 26270101,
     "DescribeId": 62701,
-    "RelationshipId": 62701,
     "MonsterName": "Monster_Lava_Liquid_01",
     "Name": "Surcamagma Incadescente",
     "Title": "Surcamagma Incadescente",
@@ -16331,7 +16049,6 @@
   {
     "Id": 26270201,
     "DescribeId": 62702,
-    "RelationshipId": 62702,
     "MonsterName": "Monster_Lava_Solid_01",
     "Name": "Surcamagma Devoratierra",
     "Title": "Surcamagma Devoratierra",
@@ -16383,7 +16100,6 @@
   {
     "Id": 26270301,
     "DescribeId": 62703,
-    "RelationshipId": 62703,
     "MonsterName": "Monster_LavaTitan_01",
     "Name": "Magmadragón Candente",
     "Title": "Magmadragón Candente",
@@ -16443,7 +16159,7 @@
   {
     "Id": 0,
     "DescribeId": 62704,
-    "RelationshipId": 62704,
+    "Name": "Infinitesimal",
     "Title": "Surcamagma Devoratierra",
     "Icon": "UI_MonsterIcon_LavaTitan_01",
     "Type": 0,
@@ -16452,7 +16168,7 @@
   {
     "Id": 0,
     "DescribeId": 62801,
-    "RelationshipId": 62801,
+    "Name": "Bakunawa",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_LavaTitan_01",
     "Type": 0,
@@ -16461,7 +16177,6 @@
   {
     "Id": 26290101,
     "DescribeId": 62901,
-    "RelationshipId": 62901,
     "MonsterName": "Monster_VolcanoWeasel_01",
     "Name": "Hurón Fraguacorazado",
     "Title": "Hurón Fraguacorazado",
@@ -16513,7 +16228,6 @@
   {
     "Id": 26300101,
     "DescribeId": 63001,
-    "RelationshipId": 63001,
     "MonsterName": "Monster_Magbeast_Argali_01",
     "Name": "Carnero Radiante",
     "Title": "Bestia Radiante",
@@ -16565,7 +16279,6 @@
   {
     "Id": 26300201,
     "DescribeId": 63002,
-    "RelationshipId": 63002,
     "MonsterName": "Monster_Magbeast_Rhino_01",
     "Name": "Filoceronte Radiante",
     "Title": "Bestia Radiante",
@@ -16617,7 +16330,6 @@
   {
     "Id": 26300301,
     "DescribeId": 63003,
-    "RelationshipId": 63003,
     "MonsterName": "Monster_Magbeast_Squid_01",
     "Name": "Téutido Radiante",
     "Title": "Bestia Radiante",
@@ -16669,7 +16381,6 @@
   {
     "Id": 26301101,
     "DescribeId": 63011,
-    "RelationshipId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
     "Name": "Selenimariposa Radiante",
     "Title": "Encarnación de las luces y sombras lunares",
@@ -16731,7 +16442,6 @@
   {
     "Id": 0,
     "DescribeId": 80213,
-    "RelationshipId": 80213,
     "Name": "Tortuga ondulada aguerrida",
     "Title": "Tortuga ondulada aguerrida",
     "Icon": "UI_MonsterIcon_Tortoise_Electric",
@@ -16741,7 +16451,6 @@
   {
     "Id": 0,
     "DescribeId": 80226,
-    "RelationshipId": 80226,
     "Name": "Acuibara aguerrido",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Capybara_02",
@@ -16754,7 +16463,6 @@
   {
     "Id": 0,
     "DescribeId": 80228,
-    "RelationshipId": 80228,
     "Name": "Ilusión de Cabra de Batalla",
     "Title": "Ilusión de Cabra de Batalla",
     "Icon": "UI_MonsterIcon_Capra_01",
@@ -16764,7 +16472,6 @@
   {
     "Id": 0,
     "DescribeId": 80310,
-    "RelationshipId": 80310,
     "Name": "Ilusión de Garra de Hierro",
     "Title": "Ilusión de Garra de Hierro",
     "Icon": "UI_MonsterIcon_Penguin_01",
@@ -16774,7 +16481,6 @@
   {
     "Id": 29010101,
     "DescribeId": 90101,
-    "RelationshipId": 90101,
     "MonsterName": "Monster_Dragon_Dvalin_S01",
     "Name": "Stormterror",
     "Title": "Huracán Aullante de Mondstadt",
@@ -16801,7 +16507,6 @@
   {
     "Id": 29020101,
     "DescribeId": 90201,
-    "RelationshipId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
     "Name": "Rey Lobo del Norte, Señor de los Lobos",
     "Title": "Rey Lobo del Norte",
@@ -16843,7 +16548,6 @@
   {
     "Id": 29030101,
     "DescribeId": 90301,
-    "RelationshipId": 90301,
     "MonsterName": "Monster_Tartaglia",
     "Name": "Nobile",
     "Title": "El undécimo de Los Once de los Fatui",
@@ -16886,7 +16590,6 @@
   {
     "Id": 29040101,
     "DescribeId": 90401,
-    "RelationshipId": 90401,
     "MonsterName": "Monster_Dahaka",
     "Name": "Azhdaha",
     "Title": "Rey Dragón de la Roca sellado",
@@ -16966,7 +16669,6 @@
   {
     "Id": 29050101,
     "DescribeId": 90501,
-    "RelationshipId": 90501,
     "MonsterName": "Monster_LaSignora",
     "Name": "Signora",
     "Title": "La octava de Los Once de los Fatui",
@@ -17009,7 +16711,6 @@
   {
     "Id": 0,
     "DescribeId": 90601,
-    "RelationshipId": 90601,
     "Name": "Shogun Raiden",
     "Title": "Shogun Raiden",
     "Icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
@@ -17022,7 +16723,6 @@
   {
     "Id": 29060201,
     "DescribeId": 90602,
-    "RelationshipId": 90602,
     "MonsterName": "Monster_Shougun_Mitakenarukami",
     "Name": "Todopoderosa Narukami de la catástrofe",
     "Title": "Todopoderosa Narukami de la catástrofe",
@@ -17065,7 +16765,6 @@
   {
     "Id": 29070101,
     "DescribeId": 90701,
-    "RelationshipId": 90701,
     "MonsterName": "Monster_Nada",
     "Name": "Dios Mecánico, el Pródigo",
     "Title": "Dios Mecánico, el Pródigo",
@@ -17108,7 +16807,6 @@
   {
     "Id": 29080101,
     "DescribeId": 90801,
-    "RelationshipId": 90801,
     "MonsterName": "Monster_Apep_Stage1",
     "Name": "Guardián del Oasis de Apep",
     "Title": "Custodio del Último Oasis",
@@ -17150,7 +16848,6 @@
   {
     "Id": 0,
     "DescribeId": 90802,
-    "RelationshipId": 90802,
     "Name": "Organismo proliferador básico",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17160,7 +16857,6 @@
   {
     "Id": 0,
     "DescribeId": 90803,
-    "RelationshipId": 90803,
     "Name": "Organismo proliferador depredador",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17170,7 +16866,6 @@
   {
     "Id": 0,
     "DescribeId": 90804,
-    "RelationshipId": 90804,
     "Name": "Organismo proliferador protector",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17180,7 +16875,6 @@
   {
     "Id": 0,
     "DescribeId": 90805,
-    "RelationshipId": 90805,
     "Name": "Organismo proliferador fortificante",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17190,7 +16884,6 @@
   {
     "Id": 0,
     "DescribeId": 90806,
-    "RelationshipId": 90806,
     "Name": "Organismo proliferador destructor",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17200,7 +16893,6 @@
   {
     "Id": 0,
     "DescribeId": 90807,
-    "RelationshipId": 90807,
     "Name": "Organismo proliferador anidador",
     "Title": "Custodio del Último Oasis",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17210,7 +16902,6 @@
   {
     "Id": 29090101,
     "DescribeId": 90901,
-    "RelationshipId": 90901,
     "MonsterName": "Monster_Ptahur_Devourer",
     "Name": "Narval Devoraestrellas",
     "Title": "Narval Devoraestrellas",
@@ -17277,7 +16968,7 @@
   {
     "Id": 0,
     "DescribeId": 90902,
-    "RelationshipId": 90902,
+    "Name": "Narval Devoraestrellas",
     "Title": "Narval Devoraestrellas",
     "Icon": "UI_MonsterIcon_Hili_None_01",
     "Type": 0,
@@ -17289,7 +16980,6 @@
   {
     "Id": 0,
     "DescribeId": 90903,
-    "RelationshipId": 90903,
     "Title": "Narval Devoraestrellas",
     "Icon": "UI_MonsterIcon_Hili_None_01",
     "Type": 0,
@@ -17301,7 +16991,6 @@
   {
     "Id": 0,
     "DescribeId": 91001,
-    "RelationshipId": 91001,
     "Name": "La Sota",
     "Title": "La Sota",
     "Icon": "UI_MonsterIcon_Nihil",
@@ -17311,7 +17000,6 @@
   {
     "Id": 0,
     "DescribeId": 91101,
-    "RelationshipId": 91101,
     "Name": "Señor del Fuego Primigenio Corroído",
     "Title": "Señor del Fuego Primigenio Corroído",
     "Icon": "UI_MonsterIcon_TheAbyssXiuhcoatl",
@@ -17321,7 +17009,6 @@
   {
     "Id": 0,
     "DescribeId": 91201,
-    "RelationshipId": 91201,
     "Name": "Ajedrez - Rey",
     "Title": "Ajedrez - Rey",
     "Icon": "",
@@ -17331,7 +17018,6 @@
   {
     "Id": 0,
     "DescribeId": 91202,
-    "RelationshipId": 91202,
     "Name": "Ajedrez - Reina",
     "Title": "Ajedrez - Reina",
     "Icon": "",
@@ -17341,7 +17027,6 @@
   {
     "Id": 0,
     "DescribeId": 91211,
-    "RelationshipId": 91211,
     "Name": "Rey Ascendido",
     "Title": "Rey Ascendido",
     "Icon": "UI_MonsterIcon_GiantChess_King",
@@ -17351,7 +17036,6 @@
   {
     "Id": 0,
     "DescribeId": 91212,
-    "RelationshipId": 91212,
     "Name": "Reina Exaltada",
     "Title": "Reina Exaltada",
     "Icon": "UI_MonsterIcon_GiantChess_Queen",
@@ -17361,7 +17045,6 @@
   {
     "Id": 29122000,
     "DescribeId": 91220,
-    "RelationshipId": 91220,
     "MonsterName": "Monster_GiantChess_DummyMonster",
     "Name": "Ajedrez Guardapuertas",
     "Title": "La octava de Los Once de los Fatui",
@@ -17400,7 +17083,6 @@
   {
     "Id": 0,
     "DescribeId": 91401,
-    "RelationshipId": 91401,
     "Name": "¿?",
     "Title": "Blasfemia contra la muerte",
     "Icon": "",

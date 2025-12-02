@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin: Coração Radiante",
+    "Description": "Estilo de cartão de visita.\nAs batidas incessantes no peito dele o lembram do seguinte: \"Você carrega expectativas de um passado distante. Você possui uma alma tanto brilhante quanto nascente. Assim, você abraça um fervor que nenhuma nevasca pode soterrar.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda: A Ajudante",
+    "Description": "Estilo de cartão de visita.\n\"Quando as coisas ficam agitadas demais, queria poder pegar emprestado as mãos de Jahoda!\" — Claro, isso deve significar que a dona dessas \"mãos emprestáveis\" é tanto ágil quanto confiável, não é?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Passe de Batalha: Neve Ardente",
+    "Description": "Estilo de cartão de visita.\nPara avançar pelo gelo, vento e neve, a chave não se encontra em coragem solitária, mas no discernimento para se encontrar o próprio caminho.",
+    "SpecialDescription": "Estilo de cartão de visita \"Passe de Batalha: Neve Ardente\"",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Celebração: Leitor de Sonhos",
+    "Description": "Estilo de cartão de visita.\nDizem que os sonhos à noite refletem os pensamentos do dia. Talvez isso também se aplique aos livros que lê... O que provavelmente não conta como pesadelo. Provavelmente.",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

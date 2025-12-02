@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "黑蝕",
+    "Description": "在小魔女的故事中，原本是白日王賜予勇者的寶劍，後來小魔女用它擊敗了勇者。",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "白日王的灼輝",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "元素爆發造成的暴擊傷害提升<color=#99FFFFFF>16%</color>。元素爆發命中敵人時，將獲得「白晝之刃」效果：攻擊力提升<color=#99FFFFFF>20%</color>，除裝備者以外，隊伍中附近的目前場上角色攻擊力提升<color=#99FFFFFF>16%</color>，持續3秒。\n此外，隊伍擁有「魔導·秘儀」效果時，「白晝之刃」的效果額外提升75%。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 1,
+          "Description": "元素爆發造成的暴擊傷害提升<color=#99FFFFFF>20%</color>。元素爆發命中敵人時，將獲得「白晝之刃」效果：攻擊力提升<color=#99FFFFFF>25%</color>，除裝備者以外，隊伍中附近的目前場上角色攻擊力提升<color=#99FFFFFF>20%</color>，持續3秒。\n此外，隊伍擁有「魔導·秘儀」效果時，「白晝之刃」的效果額外提升75%。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 2,
+          "Description": "元素爆發造成的暴擊傷害提升<color=#99FFFFFF>24%</color>。元素爆發命中敵人時，將獲得「白晝之刃」效果：攻擊力提升<color=#99FFFFFF>30%</color>，除裝備者以外，隊伍中附近的目前場上角色攻擊力提升<color=#99FFFFFF>24%</color>，持續3秒。\n此外，隊伍擁有「魔導·秘儀」效果時，「白晝之刃」的效果額外提升75%。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 3,
+          "Description": "元素爆發造成的暴擊傷害提升<color=#99FFFFFF>28%</color>。元素爆發命中敵人時，將獲得「白晝之刃」效果：攻擊力提升<color=#99FFFFFF>35%</color>，除裝備者以外，隊伍中附近的目前場上角色攻擊力提升<color=#99FFFFFF>28%</color>，持續3秒。\n此外，隊伍擁有「魔導·秘儀」效果時，「白晝之刃」的效果額外提升75%。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 4,
+          "Description": "元素爆發造成的暴擊傷害提升<color=#99FFFFFF>32%</color>。元素爆發命中敵人時，將獲得「白晝之刃」效果：攻擊力提升<color=#99FFFFFF>40%</color>，除裝備者以外，隊伍中附近的目前場上角色攻擊力提升<color=#99FFFFFF>32%</color>，持續3秒。\n此外，隊伍擁有「魔導·秘儀」效果時，「白晝之刃」的效果額外提升75%。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "虹蛇的雨弦",
+    "Description": "「煙謎主」亙古傳承的儀式禮器，幽色的弓身上總是縈繞著一陣揮之不去的陰冷。",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "聖座外的星語",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升<color=#99FFFFFF>28%</color>。"
+        },
+        {
+          "Level": 1,
+          "Description": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升<color=#99FFFFFF>35%</color>。"
+        },
+        {
+          "Level": 2,
+          "Description": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升<color=#99FFFFFF>42%</color>。"
+        },
+        {
+          "Level": 3,
+          "Description": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升<color=#99FFFFFF>49%</color>。"
+        },
+        {
+          "Level": 4,
+          "Description": "裝備者處於隊伍後臺時，裝備者的攻擊命中敵人後的8秒內，攻擊力提升<color=#99FFFFFF>56%</color>。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "黎明破曉之史",
+    "Description": "一切抗爭的詩歌都將乘風而來，落為弦上的輕音。而其中匯聚的力量如同撕開無邊黑夜的破曉之光。",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "悠遠的流頌之歌",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "裝備者獲得「漸起的曉風」：脫離戰鬥狀態3秒後，普通攻擊、元素戰技和元素爆發造成的傷害提升<color=#99FFFFFF>60%</color>。在戰鬥狀態下，上述傷害提升效果每秒降低<color=#99FFFFFF>10%</color>，直到降低至0%。裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，對應類別的傷害提升效果提升<color=#99FFFFFF>10%</color>，直到提升至<color=#99FFFFFF>60%</color>，上述每種類別的攻擊每0.1秒至多觸發一次該效果。裝備者處於隊伍後臺時，依然能觸發上述效果。\n此外，隊伍擁有「魔導·秘儀」效果時，裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，改為使所有類別的傷害提升效果提升<color=#99FFFFFF>20%</color>。"
+        },
+        {
+          "Level": 1,
+          "Description": "裝備者獲得「漸起的曉風」：脫離戰鬥狀態3秒後，普通攻擊、元素戰技和元素爆發造成的傷害提升<color=#99FFFFFF>75%</color>。在戰鬥狀態下，上述傷害提升效果每秒降低<color=#99FFFFFF>12.5%</color>，直到降低至0%。裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，對應類別的傷害提升效果提升<color=#99FFFFFF>12.5%</color>，直到提升至<color=#99FFFFFF>75%</color>，上述每種類別的攻擊每0.1秒至多觸發一次該效果。裝備者處於隊伍後臺時，依然能觸發上述效果。\n此外，隊伍擁有「魔導·秘儀」效果時，裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，改為使所有類別的傷害提升效果提升<color=#99FFFFFF>25%</color>。"
+        },
+        {
+          "Level": 2,
+          "Description": "裝備者獲得「漸起的曉風」：脫離戰鬥狀態3秒後，普通攻擊、元素戰技和元素爆發造成的傷害提升<color=#99FFFFFF>90%</color>。在戰鬥狀態下，上述傷害提升效果每秒降低<color=#99FFFFFF>15%</color>，直到降低至0%。裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，對應類別的傷害提升效果提升<color=#99FFFFFF>15%</color>，直到提升至<color=#99FFFFFF>90%</color>，上述每種類別的攻擊每0.1秒至多觸發一次該效果。裝備者處於隊伍後臺時，依然能觸發上述效果。\n此外，隊伍擁有「魔導·秘儀」效果時，裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，改為使所有類別的傷害提升效果提升<color=#99FFFFFF>30%</color>。"
+        },
+        {
+          "Level": 3,
+          "Description": "裝備者獲得「漸起的曉風」：脫離戰鬥狀態3秒後，普通攻擊、元素戰技和元素爆發造成的傷害提升<color=#99FFFFFF>105%</color>。在戰鬥狀態下，上述傷害提升效果每秒降低<color=#99FFFFFF>17.5%</color>，直到降低至0%。裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，對應類別的傷害提升效果提升<color=#99FFFFFF>17.5%</color>，直到提升至<color=#99FFFFFF>105%</color>，上述每種類別的攻擊每0.1秒至多觸發一次該效果。裝備者處於隊伍後臺時，依然能觸發上述效果。\n此外，隊伍擁有「魔導·秘儀」效果時，裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，改為使所有類別的傷害提升效果提升<color=#99FFFFFF>35%</color>。"
+        },
+        {
+          "Level": 4,
+          "Description": "裝備者獲得「漸起的曉風」：脫離戰鬥狀態3秒後，普通攻擊、元素戰技和元素爆發造成的傷害提升<color=#99FFFFFF>120%</color>。在戰鬥狀態下，上述傷害提升效果每秒降低<color=#99FFFFFF>20%</color>，直到降低至0%。裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，對應類別的傷害提升效果提升<color=#99FFFFFF>20%</color>，直到提升至<color=#99FFFFFF>120%</color>，上述每種類別的攻擊每0.1秒至多觸發一次該效果。裝備者處於隊伍後臺時，依然能觸發上述效果。\n此外，隊伍擁有「魔導·秘儀」效果時，裝備者的普通攻擊、元素戰技或元素爆發命中敵人時，改為使所有類別的傷害提升效果提升<color=#99FFFFFF>40%</color>。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "ドゥリン・輝心",
+    "Description": "名刺の飾り紋。\n胸の奥で、止まぬ鼓動は彼にこう告げる。「遥か昔の期待を受け継ぎ、美しく新しい魂を持つ者よ。もはや氷雪では冷めぬ熱を抱くがいい」",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "ヤフォダ・助っ人",
+    "Description": "名刺の飾り紋。\n「忙しい時は、ヤフォダの手も借りたいくらいだ。」——これは、その手の持ち主が機敏で頼りになることの証。きっとそうだ！",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "紀行・烈雪",
+    "Description": "名刺の飾り紋。\n氷風雪雨の中で歩を進める時、最も大切なのは胸に満ちる孤高の勇気ではなく、向かう先を見極める慎重さである。",
+    "SpecialDescription": "「紀行・烈雪」名刺の飾り紋",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "祭典・夢習い",
+    "Description": "名刺の飾り紋。\n日に思いを馳せ、夜に夢を見る。読んだ本の内容は、夢の中で別の形で現れるかもしれない…うーん、悪夢じゃないことを祈ろう。",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

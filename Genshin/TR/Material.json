@@ -1640,6 +1640,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Durin'in Yaşam Yıldızı",
+    "Description": "Durin'in Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jahoda'nın Yaşam Yıldızı",
+    "Description": "Jahoda'nın Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2814,6 +2836,28 @@
     "Description": "Nefer'ın Takımyıldız Etkinleştirme Malzemesi",
     "TypeDescription": "Takımyıldızı Etkinleştirir",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Durin'in Yaşam Yıldızı",
+    "Description": "Durin'in Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jahoda'nın Yaşam Yıldızı",
+    "Description": "Jahoda'nın Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -30722,6 +30766,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %40 yeniler, ardından 2.350 Can verir.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Ders Sonrası Pratik\"",
+    "Description": "Jahoda'nın özel tarifi. Ineffa'dan altıncı kez fırınlama teknikleri konusunda tavsiye aldıktan sonra Jahoda nihayet kendi elleriyle bir hamur işi yaptı. Biraz eğri büğrü görünse de böğürtlenler inanılmaz bir tatlılık katmış. Lezzetine gelecek olursak... Eh, fena sayılmaz, değil mi?",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %40 yeniler, ardından 2.350 Can verir.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Elmalı Güveç (Deneme Sürümü)",
+    "Description": "Durin'in özel tarifi. Ocak başında senin her hareketini taklit eden Durin, hayatının ilk yemeğini hazırladı. Yemeğin zengin ve meyvemsi aromasında Durin'in bu dünyanın mutfağına dair yeni kazandığı anlayış saklıydı. Hafifçe kızarmış kenarlarında ise kendi gücünü kontrol etme çabasının meyveleri yatıyordu.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %30 yeniler ve 30 saniye boyunca 5 saniyede bir 510 Can verir.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Baharatlı Kızarmış Tavuk (Tuhaf)",
+    "Description": "Yeşil renkli çıtır çıtır bir kabuğa sarılı kızarmış tavuk. Daha tavuğun tadına bile bakamadan aşırı baharat yüzünden öksürmeye başlıyorsun... Bu doyurucu yemekten sonra çalışmayı planlamıştın ama önce bir bardak su içmen gerekecek...",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %32 yeniler ve 30 saniye boyunca 5 saniyede bir 730 Can verir.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Baharatlı Kızarmış Tavuk",
+    "Description": "Yeşil renkli çıtır çıtır bir kabuğa sarılı kızarmış tavuk. Tavuk kızartılmadan önce baharatlı bir hamura bulanır. Bunu yiyenin içinde birden çok çalışma isteği uyandığı söylenir... Dünyada böyle harika bir şey olabilir mi?",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %35 yeniler ve 30 saniye boyunca 5 saniyede bir 930 Can verir.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Baharatlı Kızarmış Tavuk (Lezzetli)",
+    "Description": "Yeşil renkli çıtır çıtır bir kabuğa sarılı kızarmış tavuk. Sıcakken bir ısırık aldığında acısı damağına hücum edecek ve aromatik suları dişlerinin arasından geçip ruhunu tazeleyecek... O anda her şeyi öğrenebileceğine dair bir hisse kapılacaksın!",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Güzel görünüyor, üstelik lezzetli de ama pek bir etkisi yok.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Şeker Heykelcik: Jahoda",
+    "Description": "Bir kişinin özünü yansıtmak için yapılmış bir şeker heykelcik. Yön gösteren ve rehberlik eden pusula, Sırlar Arşivi'nin göze çarpan çalışanı Jahoda'yı çağrıştırıyor.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Güzel görünüyor, üstelik lezzetli de ama pek bir etkisi yok.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Şeker Heykelcik: Kuuhenki",
+    "Description": "Gizemli yaratık figüründe bir şeker heykelcik. Uhrevi bir forma sahip, ay ışığında yavaşça süzülen bir Kuuhenki.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33534,6 +33662,17 @@
     "ItemType": 2,
     "Name": "Tarif: Lohikeitto",
     "Description": "Lohikeitto yapımını adım adım anlatan detaylı bir tarif.",
+    "TypeDescription": "Tarif",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tarif: Baharatlı Kızarmış Tavuk",
+    "Description": "Baharatlı Kızarmış Tavuk yapımını adım adım anlatan detaylı bir tarif.",
     "TypeDescription": "Tarif",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36412,6 +36551,17 @@
     "Description": "Yenilgiye uğramış bir Donuk Gecenin Efendisinin heybetli boynuzlarından bir parça. Hafif ve jilet keskinliğinde olan bu parça, bilenmeye ihtiyaç duymadan metal zırhları bile kolayca kesebilir.\nKadim öykülere göre, bu zarif ve gururlu yaratıklar ilk elçi tarafından yaratılmış. Cennet düşünce, Donuk Ayın hanımıyla bir anlaşma yaparak, kadim efendi bir kez daha geri dönene dek ölümlü dünyanın kirliliğini Donuk Ayın onlara bahşettiği ezeli ışıkla temizlemeye ant içmişler. Günümüzde bu efsanelerin kaynağı çoktan unutulmuş ve doğruluğunu kanıtlamak imkansız hale gelmiş olsa da bir zamanlar ışıkla birlikte yürüyen bu yaratıklar, uzun ve dondurucu gecelerde, aynı zamanda solduran kara gelgitlerde bile bu toprakları gölgelerden izlemeye devam ediyorlar; hiçbir şey onları bu dünyadan yok edemedi.",
     "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Döngüsel Askeri Kuuvahki Çekirdeği",
+    "Description": "Süper Ağır Kara Gezgini: Mekanik Kaleyi yendikten sonra enerji çekirdeğinden elde edilen bir Kuuvahki cihazı.\nFontaine Kinetik Enerji Mühendisliği Araştırma Enstitüsü, bir zamanlar element çalışma maddesi motorları için birkaç ideal döngü deseni tanımlamıştı. Türü ne olursa olsun, en mükemmel döngü sayısı tutarlı bir şekilde dört olmuştur. Cephanelik Sarayı ve Kuuvahki Deneysel Tasarım Bürosundaki çoğu mühendis, Kuuvahkiyi element enerjisinden farklı bir çalışma maddesi olarak görme eğiliminde olsalar da dört döngülü paradigmanın ötesindeki tasarım yapılandırmalarının verimsiz ve kullanışsız olduğu kanıtlanmıştır. Bir anlamda, \"dörtlü\" döngü dünyanın kendine özgü tercihi olabilir. Gerçi dünyanın hiçbir tercihi olmayabilir ve dünyaya göre, kibirli fanilerin kendini beğenmiş tahminlerde bulunma alışkanlığı, tercihlerin en tuhafı olabilir.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48813,7 +48963,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49130,6 +49280,127 @@
     "Description": "Sırlar Arşivi'nin sermayesinin bulunduğu sandıktan alınan bir miktar para. Para ağaçta yetişmiyor, bu yüzden akıllıca harca.",
     "TypeDescription": "Sarf Malzemesi",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rhinedottir'in \"Hediyesi\"",
+    "Description": "\"Altın\" Rhinedottir'den Albedo'ya bir hediye.\nYeni bir hediye, yeni bir görev.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yıpranmış Oyuncak Bebek",
+    "Description": "Ihanti tarafından yapılmış, Jahoda'nın daha önce yaptığı bazı bebekleri andıran bir oyuncak bebek.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Özel Şeker Heykelcik Kutusu",
+    "Description": "Özel yapım şeker heykelcikler içeren bir kutu. Birisi düşünülerek üretilmiş gibi duruyor. Erimeye başlamadan yense iyi olur.",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Arşiv Sermayesi",
+    "Description": "Sırlar Arşivi'nin sermayesinin bulunduğu sandıktan alınan bir miktar para. Para ağaçta yetişmiyor, bu yüzden akıllıca harca.",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ay Duası Gecesi Broşürü",
+    "Description": "Nasha Kasabası'nın Ay Duası Gecesinde dağıtılan bir broşür. Çeşitli eğlence stantlarının ve etkinliklerin öne çıkan anlarını içerir. Bu broşür sayesinde konuklar unutulmaz bir gece yaşayacaklar.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina İçin Tebrik Kartı",
+    "Description": "Columbina'nın yoldaşları tarafından Ay Duası Gecesi için hazırlanmış bir tebrik kartı. Columbina nerede olursa olsun, yoldaşlarıyla bu gece paylaştığı içten gülümsemeleri hatırlaması dileğiyle.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Columbina'nın Ay Duası Şekeri",
+    "Description": "Columbina'nın herkesle paylaşmak için yaptığı bir Ay Duası Şekeri. Columbina'nın sınırsız hayal gücünden ilham alan bu şeker, onun en çok hatırladığı tatlardan yola çıkarak hazırlanmış çeşitli sürpriz lezzetler içeriyor.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Columbina'nın Ay Duası Şekeri",
+    "Description": "Columbina'nın herkesle paylaşmak için yaptığı bir Ay Duası Şekeri. Columbina'nın sınırsız hayal gücünden ilham alan bu şeker, onun en çok hatırladığı tatlardan yola çıkarak hazırlanmış çeşitli sürpriz lezzetler içeriyor.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ruhyakan Destanı: 2. Cilt",
+    "Description": "Yerel Natlan efsanelerini temel alan tarihi fantastik bir çizgi roman serisi olan Ruhyakan Destanı, şimdi koleksiyonluk özel sürümüyle satışta.\nKahramanlar bir araya geliyor, kaderleri çarpıştığında parlaklıkları en üst seviyeye ulaşıyor ve acımasız savaşların potasında hayatlarıyla gelecek nesillere bir yol çiziyorlar.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Durin\"in Hikayesi",
+    "Description": "\"M\" tarafından bırakılan sihirli kitap, hikayesini yazmaya devam edebilmesi için sonunda Durin'e teslim edilmeli. Alice bu kitabın bir replikasını oluşturdu ve sana hediye etti. Nihayetinde bu hikayenin bir tanığı olarak bir hatıra eşyasını hak ediyorsun. Elbette bu replikanın herhangi bir büyülü özelliği yok, ancak içindeki heyecanlı olaylar olduğu gibi duruyor.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Özel Şeker Heykelcik Kutusu",
+    "Description": "Özel yapım şeker heykelcikler içeren bir kutu. Birisi düşünülerek üretilmiş gibi duruyor. Erimeye başlamadan yense iyi olur.",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -51789,7 +52060,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 148",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Brisk Morning Air\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51800,7 +52071,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 149",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Evening's Ease\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51811,7 +52082,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 150",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Soil of Bright Flame\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51822,7 +52093,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 151",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Deed No Less Than Star-Forging\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51833,7 +52104,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 152",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Land of Primal Flame\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51844,7 +52115,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 153",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Indulgence Beneath the Sun\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51855,7 +52126,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 154",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Watch of a Sleepless Sheep\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51866,7 +52137,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 155",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Waves Curl Over Drifting Sand\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51877,7 +52148,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Parlak Burgu Kristal 156",
-    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Natlan'dan gelen gizemli bir müzik vardır.",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Tapestry of Resplendent Hues\" müziği vardır.",
     "TypeDescription": "Macera Eşyası",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52562,6 +52833,17 @@
     "Description": "\"Uhrevi Işığın Lavtası\" için özel saflaştırma malzemesi.\nZamanın dehlizlerinde kaybolmuş bir uygarlıkta bazıları, dünyayı yöneten kaderin gökyüzünde asılı duran devasa bir arptan çıkan bir şarkı gibi örüldüğüne inanıyordu. Belki de meleklerin göklerden altın teller kopardığına tanık olmuşlardı ve bu ilahi ezgiler, kaderin gürleyen umursamazlığının bir göstergesiydi.",
     "TypeDescription": "Saflaştırma Malzemesi",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Saf Kalp",
+    "Description": "\"Gökkuşağı Yılanının Yağmur Yayı\" için özel saflaştırma malzemesi.\nOkçular tarafından uzun süre kullanılan parlak renkli, özenle işlenmiş bir parmak koruyucu.\nBir okun hedefi vurması, okçunun tecrübesine bağlıdır: Okçu ne kadar çok nefesine odaklanarak yayı gererse yay ile ok o kadar kusursuz bir uyum içinde hareket eder. Oku yerleştirmek ve çekmek ruhu olgunlaştırır. Koruyucudaki aşınmalar, okçunun sarsılmaz kararlılığını gösterir.",
+    "TypeDescription": "Saflaştırma Malzemesi",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54632,6 +54914,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Küçük Cadının Sözlüğü",
+    "Description": "Alice'ten alınan bu sözlük cadılar tarafından hazırlanmış. \"Küçük Cadı ve Sönmeyen Ateş\" masalını açıkladığı iddia edilse de aslında Cadılar Meclisi tarafından her okuyucuya özel olarak hazırlanmış görevlerle dolu.\nNe demişler, \"Akıntıya karşı durmak, öğrenmektir.\" Yoldaşlarınla birlikte bir maceraya atıl ve yükselişin tacına ulaş!",
+    "TypeDescription": "Aygıt",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55543,6 +55836,17 @@
     "Description": "Keyifli bir sohbet sürdürmenin sırrı aslında...",
     "TypeDescription": "Portre",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Özenli Çalışma",
+    "Description": "Gündüz öğrendiklerimiz gece rüyalarımızı besler. Belki de bilgi bu şekilde doğal olarak zihnimize yerleşiyordur...",
+    "TypeDescription": "Portre",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -69885,6 +70189,182 @@
     "ItemType": 2,
     "Name": "Aylak Kedicik",
     "Description": "\"Aylak Kedicik\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Parıltı ve Işıltı",
+    "Description": "\"Parıltı ve Işıltı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Çarkıfelek",
+    "Description": "\"Çarkıfelek\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "İştah Patlaması",
+    "Description": "\"İştah Patlaması\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Han Bildirisi: Sokağın Fısıltıları",
+    "Description": "\"Han Bildirisi: Sokağın Fısıltıları\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Saniyede Şipşak Robot",
+    "Description": "\"Saniyede Şipşak Robot\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kullanışlı Cep Dedektörü",
+    "Description": "\"Kullanışlı Cep Dedektörü\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gurme Et Kuzinesi",
+    "Description": "\"Gurme Et Kuzinesi\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sallanan Midilli",
+    "Description": "\"Sallanan Midilli\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Dikey Çift Kutuplu Üç Ayaklı Kule",
+    "Description": "\"Dikey Çift Kutuplu Üç Ayaklı Kule\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kokusuz Yapraklar",
+    "Description": "\"Kokusuz Yapraklar\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hareketli Ejderha",
+    "Description": "\"Hareketli Ejderha\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yalnız Yolcu",
+    "Description": "\"Yalnız Yolcu\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Zamansız Parıltı",
+    "Description": "\"Zamansız Parıltı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Küçük Serçecik",
+    "Description": "\"Küçük Serçecik\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Haydut Gurme",
+    "Description": "\"Haydut Gurme\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dahi Gelincik",
+    "Description": "\"Dahi Gelincik\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
     "TypeDescription": "Dekorasyon Taslağı",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "杜林·曜心",
+    "Description": "名片紋飾。\n胸腔中，這顆心不休的鼓動如此提醒他：「你承接來自遙遠過往的期望，你擁有瑰麗而嶄新的靈魂，如是，你懷抱冰雪再無法掩埋的熾熱。」",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "雅珂達·幫手",
+    "Description": "名片紋飾。\n「太忙的時候，都想要借雅珂達的手了。」——這大概是代表出借手的主人既敏捷又可靠，一定是這樣的吧！",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "紀行·熾雪",
+    "Description": "名片紋飾。\n在冰風雪雨中勇往直前，最重要的並非滿腔的孤勇，而是能辨別前路方向的細心。",
+    "SpecialDescription": "「紀行·熾雪」名片紋飾",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "慶典·夢讀",
+    "Description": "名片紋飾。\n所謂日有所思，夜有所夢，也許所讀書籍的內容，在夢裡也會變成另外的形式浮現…呃，應該不至於是噩夢吧？",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

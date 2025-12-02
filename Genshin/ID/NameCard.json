@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin: Radiant Heart",
+    "Description": "Style Kartu Nama.\nDentuman di dadanya senantiasa mengingatkannya: \"Kamu memikul harapan dari masa silam yang jauh. Jiwamu gemilang sekaligus muda, dan di dalamnya menyala kobaran semangat yang takkan pernah padam, meski musim dingin datang membawa badai.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda: Helping Hand",
+    "Description": "Style Kartu Nama.\n\"Kalau sedang sibuk, rasanya ingin sekali pinjam tangan Jahoda.\" — Artinya pemiliknya \"tangan\" itu lincah dan bisa diandalkan, benar kan?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Catatan Perjalanan: Salju Membara",
+    "Description": "Style Kartu Nama.\nMenembus badai salju dan hujan, yang paling penting bukanlah keberanian semata, melainkan kejelian untuk bisa menentukan arah ke depan.",
+    "SpecialDescription": "Style Kartu Nama \"Catatan Perjalanan: Salju Membara\"",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Perayaan: Pembaca Mimpi",
+    "Description": "Style Kartu Nama.\nKatanya semua yang dipikirkan di siang hari, akan dimimpikan di malam hari. Mungkin buku yang kita baca akan muncul dalam bentuk yang berbeda di dalam mimpi ... Eh, semoga bukan mimpi buruk ya?",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

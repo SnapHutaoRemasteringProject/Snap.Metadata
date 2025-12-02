@@ -888,6 +888,10 @@
         "Context": "Sucrose est si gentille ! Un jour, elle m'a demandé si je voulais une bombe rebondissante qui pouvait se déplacer. Bien sûr que oui ! J'en veux des centaines et je les mettrais partout à travers Mondstadt !"
       },
       {
+        "Title": "À propos de Durin...",
+        "Context": "Héhé, Durin vit à Mondstadt maintenant. Je vais jouer avec lui tous les jours ! On ira faire exploser des poissons ensemble et il m'emmènera voler haut dans les airs. Comme ça, je pourrai lancer des bombes rebondissantes sur les poissons !"
+      },
+      {
         "Title": "Connaître Klee (1)",
         "Context": "Coucou ! Tu viens jouer avec moi ?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Thème.\nL'explosif porte-bonheur de Klee. Est-ce une bombe rebondissante, ou Dodoco ? (Astuce : Regardez la queue...)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Écho : Soleil fuyant",
+    "Description": "L'écho peinturé de Klee. « Dadadada ! L'aventure du Chevalier de l'étincelle commence ! »",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

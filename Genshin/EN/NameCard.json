@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin: Radiant Heart",
+    "Description": "Namecard style.\nThe ceaseless drumming in his chest reminds him thus: \"You carry the hopes of a distant past. Your soul is resplendent and nascent, and within you burns a fervor no winter blizzard can quench.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda: Helping Hand",
+    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hands!\" — Surely that means the owner of these \"lendable hands\" is both agile and reliable, right?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Travel Notes: Blazing Snow",
+    "Description": "Namecard style.\nWhen braving wind, snow, and rain, what truly matters isn't sheer bravery alone, but the careful discernment to find the right path forward.",
+    "SpecialDescription": "\"Travel Notes: Blazing Snow\" namecard style",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Celebration: Dream Reader",
+    "Description": "Namecard style.\nThey say that one's dreams at night reflect one's thoughts by day. Perhaps the same goes for the books one reads... Though that probably doesn't count as a nightmare. Probably.",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

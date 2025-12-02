@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin – Loderndes Herz",
+    "Description": "Ein Motiv für Namenskärtchen.\nDas unaufhörliche Pochen dieses Herzens in seiner Brust erinnert ihn daran: „Du trägst die Erwartungen einer fernen Vergangenheit in dir und besitzt eine prachtvolle, vollkommen neue Seele. So birgst du eine glühende Hitze in deinem Inneren, die weder Eis noch Schnee verbergen kann.“",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda – Helferin",
+    "Description": "Ein Motiv für Namenskärtchen.\n„Wenn man mal wieder viel zu beschäftigt ist, wünscht man sich, man könnte Jahodas Hände ausleihen.“ Das zeigt wohl, dass die Besitzerin dieser Hände sowohl flink als auch zuverlässig ist, so muss es einfach sein!",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Erlebnispass – Glühender Schnee",
+    "Description": "Ein Motiv für Namenskärtchen.\nWer sich durch Eis, Wind und Schnee kämpft, braucht nicht bloß blinden Mut, sondern vor allem die Sorgfalt, den richtigen Weg zu erkennen.",
+    "SpecialDescription": "Ein Motiv für Namenskärtchen „Erlebnispass – Glühender Schnee“",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Feierlichkeit – Lesen im Traum",
+    "Description": "Ein Motiv für Namenskärtchen.\nMan sagt, was man tagsüber denkt, erscheint einem nachts im Traum. Vielleicht taucht der Inhalt der Bücher, die man liest, auch in einer anderen Form in den Träumen auf ... Äh, es wird doch hoffentlich kein Albtraum sein, oder?",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Material de activación de constelación de Durin.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Material de activación de constelación de Jahoda.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Material de activación de constelación de Néfer.",
     "TypeDescription": "Activación de constelación",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Material de activación de constelación de Durin.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Material de activación de constelación de Jahoda.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31085,6 +31129,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "#Restaura un 40% de la Vida Máx. y 2350{NON_BREAK_SPACE}pts. de Vida al personaje seleccionado.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tareas tras la clase",
+    "Description": "La especialidad de Jahoda. Después de pedirle consejo a Ineffa por sexta vez sobre técnicas de repostería, Jahoda finalmente entregó su tarea: un postre hecho por ella misma. Aunque su forma es un poco irregular, el aroma de las bayas es muy dulce, y el sabor... Bueno, no puede estar tan mal, ¿verdad?",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "#Restaura un 40% de la Vida Máx. y 2350{NON_BREAK_SPACE}pts. de Vida al personaje seleccionado.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Carne estofada con manzana (versión de prueba)",
+    "Description": "La especialidad de Durin. Imitando tu forma de cocinar, Durin preparó el primer plato de su vida. El aroma frutal que emana refleja su inocente comprensión de la gastronomía de este mundo, y los bordes ligeramente crujientes son el resultado de su esfuerzo por controlar su propio poder.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Restaura un 30% de la Vida Máx. al personaje seleccionado y regenera 510{NON_BREAK_SPACE}pts. de Vida cada 5{NON_BREAK_SPACE}s durante 30{NON_BREAK_SPACE}s.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo frito especiado extraño",
+    "Description": "Pollo frito envuelto en una corteza verde crujiente. Antes de poder saborear el pollo, las abundantes especias te producen tos... Planeabas darte un festín antes de ponerte a estudiar, pero parece que primero necesitarás un vaso de agua...",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Restaura un 32% de la Vida Máx. al personaje seleccionado y regenera 730{NON_BREAK_SPACE}pts. de Vida cada 5{NON_BREAK_SPACE}s durante 30{NON_BREAK_SPACE}s.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo frito especiado",
+    "Description": "Pollo frito envuelto en una corteza verde crujiente. Los trozos de pollo se cubren con una masa sazonada con especias y luego se fríen. Se dice que después de comerlo, surge un impulso irresistible de estudiar con dedicación... ¿Puede haber algo tan increíble en este mundo?",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Restaura un 35{NON_BREAK_SPACE}% de la Vida Máx. al personaje seleccionado y regenera 930{NON_BREAK_SPACE}pts. de Vida cada 5{NON_BREAK_SPACE}s durante 30{NON_BREAK_SPACE}s.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo frito especiado delicioso",
+    "Description": "Pollo frito envuelto en una corteza verde crujiente. Al darle un mordisco mientras está caliente, el sabor picante despierta las papilas gustativas y los jugos de la carne explotan en la boca, revitalizando el espíritu. En este estado, ¡sientes que puedes aprender cualquier cosa!",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Es bonita y deliciosa, pero prácticamente no sirve de nada.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Figura de caramelo: Jahoda",
+    "Description": "Una figura de caramelo que toma como referencia a un personaje. La brújula direccional y orientadora recuerda a Jahoda, la destacada empleada de la Cámara de Secretos.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Es bonita y deliciosa, pero prácticamente no sirve de nada.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Figura de caramelo: Kuuhenki",
+    "Description": "Una figura de caramelo con forma de una criatura misteriosa. Con su apariencia etérea, es una adorable kuuhenki.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33897,6 +34025,17 @@
     "ItemType": 2,
     "Name": "Receta: Lohikeitto",
     "Description": "Receta paso a paso para hacer Lohikeitto.",
+    "TypeDescription": "Receta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Receta: pollo frito especiado",
+    "Description": "Receta paso a paso para hacer pollo frito especiado.",
     "TypeDescription": "Receta",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36775,6 +36914,17 @@
     "Description": "Un fragmento ligero y afilado que se desprendió de la corona de astas del Señor Nochescarcha tras su derrota. Puede cortar armaduras metálicas normales sin necesidad de pulirlo ni afilarlo.\nEn antiguas leyendas populares, estas hermosas y altivas criaturas fueron creadas por la primera emisaria divina. Cuando el paraíso perdió su gloria, estos seres acordaron con la Señora de la Luna Escarchada utilizar la luz que ella les había otorgado para limpiar la corrupción del mundo hasta que su heraldo de la salvación de antaño volviera una vez más. Hoy en día es imposible corroborar la veracidad de esta leyenda, pero los seres que caminaban con la luz todavía vigilan la tierra desde las sombras, a través de las largas noches heladas y las mareas negras y marchitas, las cuales no han logrado hacer desaparecer sus siluetas de este mundo.",
     "TypeDescription": "Material de mejora de personaje",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Núcleo kuuvahki de bucle militar",
+    "Description": "Un dispositivo de kuuvahki obtenido del núcleo energético tras derrotar al Todoterreno Superpesado - Fortaleza mecánica.\nEl Instituto de Investigación Científica e Ingeniería de Energía Cinética de Fontaine ha definido varios modos de bucle ideales para motores de fluido de trabajo elemental, y sin importar cuál sea, el número de bucles más perfecto es siempre cuatro. Aunque la mayoría de los ingenieros de la Real Armería y la Oficina de Diseño Experimental de la Isla Paha tienden a considerar el kuuvahki como un fluido diferente a la fuerza elemental, las configuraciones de diseño que no sean de cuatro bucles siguen siendo ineficientes y poco prácticas. En cierto sentido, el bucle “cuatro” podría ser una extraña preferencia del mundo... aunque tal vez el mundo no tenga preferencias, y para él, el hábito de los mortales presuntuosos de especular por su cuenta sea la preferencia más extraña de todas.",
+    "TypeDescription": "Material de mejora de personaje",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48751,7 +48901,7 @@
     "Id": 121311,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Poción de la Cámara de Secretos",
+    "Name": "Medicina de la Cámara de Secretos",
     "Description": "Un medicamento especial para tratar la “incapacidad de adaptación al kuuvahki”. Es muy eficaz, pero difícil de conseguir, por lo que los habitantes de Nod Krai suelen recurrir a ciertas “vías”, como la Cámara de Secretos, para hacerse con cosas como esta. Evidentemente, el precio suele tener un importante recargo.",
     "TypeDescription": "Objeto de misión",
     "Icon": "UI_ItemIcon_121311"
@@ -49176,7 +49326,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49493,6 +49643,127 @@
     "Description": "Fondos de la Cámara de Secretos extraídos de una caja. No es fácil conseguir dinero, así que úsalo con sabiduría.",
     "TypeDescription": "Consumible",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "“Regalo” de Rhinedottir",
+    "Description": "Un regalo de Rhinedottir “Oro” para Albedo.\nUn nuevo regalo, una nueva misión.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Muñeco deteriorado",
+    "Description": "Un muñeco hecho por Ihanti. Se parece un tanto a cierto muñeco que cosió Jahoda antes.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Cajita especial con figuras de caramelo",
+    "Description": "Una cajita que contiene unas figuras de caramelo especiales. Dichas figuras parecen haber sido elaboradas específicamente para alguien. Será mejor que te las comas cuanto antes para que no se derritan.",
+    "TypeDescription": "Consumible",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Fondos de la Cámara de Secretos",
+    "Description": "Fondos de la Cámara de Secretos extraídos de una caja. No es fácil conseguir dinero, así que úsalo con sabiduría.",
+    "TypeDescription": "Consumible",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Guía de la Noche Rezolunar",
+    "Description": "Una guía distribuida durante la Noche Rezolunar de la Villa Nasha que muestra muchos puestos interesantes donde divertirse. Promete crear recuerdos inolvidables para todos los asistentes.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tarjeta de felicitación para Colombina",
+    "Description": "Una tarjeta de felicitación de la Noche Rezolunar que sus compañeros prepararon para Colombina y que contiene las bendiciones de todos hacia ella. Esté donde esté, que recuerde las sonrisas de sus amigos de esta noche.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramelos rezolunares preparados por Colombina",
+    "Description": "Unos caramelos rezolunares que Colombina preparó para todos. Con su imaginación desbordante, los dulces presentan una gran variedad de sabores únicos que quizás también existan en sus recuerdos.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Caramelos rezolunares preparados por Colombina",
+    "Description": "Unos caramelos rezolunares que Colombina preparó para todos. Con su imaginación desbordante, los dulces presentan una gran variedad de sabores únicos que quizás también existan en sus recuerdos.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "La saga de los combatientes fervientes (II)",
+    "Description": "El pergamino de viñetas de fantasía histórica basado en las leyendas de Natlan: La saga de los combatientes fervientes, ya está disponible en su edición coleccionista.\n¡Los héroes se reúnen y sus luces brillan en un momento crucial, abriendo camino a las generaciones futuras con sus vidas en medio de cruentas batallas!",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "La historia de “Durin”",
+    "Description": "El libro de magia que dejó la bruja M finalmente debe entregarse a Durin para que continúe escribiendo su historia. Alice hizo una copia para ti y te la obsequió. Después de todo, eres testigo de esta historia, así que no puedes quedarte sin un recuerdo. Por supuesto, esta copia no tiene magia real, pero conserva todas las partes emocionantes.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Cajita especial con figuras de caramelo",
+    "Description": "Una cajita que contiene unas figuras de caramelo especiales. Dichas figuras parecen haber sido elaboradas específicamente para alguien. Será mejor que te las comas cuanto antes para que no se derritan.",
+    "TypeDescription": "Consumible",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -52152,7 +52423,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (148)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «The Brisk Morning Air».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52163,7 +52434,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (149)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Evening's Ease».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52174,7 +52445,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (150)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Soil of Bright Flame».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52185,7 +52456,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (151)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «A Deed No Less Than Star-Forging».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52196,7 +52467,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (152)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Land of Primal Flame».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52207,7 +52478,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (153)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Indulgence Beneath the Sun».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52218,7 +52489,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (154)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «The Watch of a Sleepless Sheep».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52229,7 +52500,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (155)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Waves Curl Over Drifting Sand».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52240,7 +52511,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Girocristal radiante (156)",
-    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Natlan.",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. La canción que contiene este Girocristal radiante es «Tapestry of Resplendent Hues».",
     "TypeDescription": "Objeto de aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52925,6 +53196,17 @@
     "Description": "Objeto de refinamiento exclusivo para el arma “Laúd de la Luz Celestial”.\nEn una antigua civilización que se perdió hace mucho tiempo, se creía que el destino que gobierna el mundo era como un aria interpretada en un escenario y tejida por una gigantesca arpa desde lo alto del cielo. Tal vez sea porque alguna vez vieron con sus propios ojos a los ángeles arrancar cuerdas doradas del mismísimo cielo y anunciando la crueldad del destino a través de una música majestuosa.",
     "TypeDescription": "Material de refinamiento",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Corazón templado",
+    "Description": "Objeto de refinamiento exclusivo para el arma “Pluvioarco de la Serpiente Arcoíris”.\nUn protector de dedos usado por arqueros desde hace mucho tiempo, de colores vívidos y fabricación excelente.\nLa precisión de las flechas depende de la experiencia del arquero; cuanto más se tense la cuerda conteniendo el aliento, más se moverán el arco y la flecha al unísono. Colocar la flecha y tensar el arco es templar el corazón: el desgaste del protector refleja la firmeza de la determinación del arquero.",
+    "TypeDescription": "Material de refinamiento",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54995,6 +55277,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Diccionario de la brujita",
+    "Description": "Un diccionario escrito en conjunto por las brujas que obtuviste de Alice. Aunque nominalmente se trata de anotaciones para un libro de fábulas llamado «La brujita y el fuego inextinguible», el contenido real son “tareas” personalizadas que el Aquelarre ha preparado para todos.\nComo dice el dicho: “Desviarse en el camino es una lección en sí misma”. ¡Embárcate junto a tus compañeros en el viaje para obtener la corona del ascenso!",
+    "TypeDescription": "Artilugio",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55906,6 +56199,17 @@
     "Description": "El secreto para mantener una conversación entretenida es...",
     "TypeDescription": "Avatar",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Estudio diligente",
+    "Description": "El aprendizaje diurno alimenta los sueños nocturnos. Quizás así sea como el conocimiento encuentra naturalmente su camino hacia nuestras mentes...",
+    "TypeDescription": "Avatar",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70248,6 +70552,182 @@
     "ItemType": 2,
     "Name": "Gatito perezoso",
     "Description": "Plano detallado para fabricar “Gatito perezoso”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Brillo maravilloso",
+    "Description": "Plano detallado para fabricar “Brillo maravilloso”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ruleta de la fortuna",
+    "Description": "Plano detallado para fabricar “Ruleta de la fortuna”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Explosión de apetito",
+    "Description": "Plano detallado para fabricar “Explosión de apetito”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Anuncio de taberna: Rumores urbanos",
+    "Description": "Plano detallado para fabricar un Anuncio de taberna: Rumores urbanos.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Un segundo fugaz",
+    "Description": "Plano detallado para fabricar “Un segundo fugaz”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Detector portátil utilitario",
+    "Description": "Plano detallado para fabricar un Detector portátil utilitario.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Superasado legendario",
+    "Description": "Plano detallado para fabricar un Superasado legendario.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caballito balancín",
+    "Description": "Plano detallado para fabricar un Caballito balancín.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Torre bipolar con trípode vertical",
+    "Description": "Plano detallado para fabricar una Torre bipolar con trípode vertical.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Flor sin fragancia",
+    "Description": "Plano detallado para fabricar “Flor sin fragancia”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dragón al ataque",
+    "Description": "Plano detallado para fabricar “Dragón al ataque”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caminante Solitario",
+    "Description": "Plano detallado para fabricar “Caminante Solitario”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Luz inmutable",
+    "Description": "Plano detallado para fabricar “Luz inmutable”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Minigordi",
+    "Description": "Plano detallado para fabricar “Minigordi”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ladrona culinaria",
+    "Description": "Plano detallado para fabricar “Ladrona culinaria”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hurón astuto",
+    "Description": "Plano detallado para fabricar “Hurón astuto”.\nTras usarlo, entra en el menú de fabricación para verlo.",
     "TypeDescription": "Plano de decoración",
     "Icon": "UI_ItemIcon_Home_Common"
   }

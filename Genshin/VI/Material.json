@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Durin",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Durin",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Jahoda",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Jahoda",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Nguyên liệu kích hoạt cung mệnh Nefer",
     "TypeDescription": "Kích Hoạt Cung Mệnh",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Durin",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Durin",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Jahoda",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Jahoda",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31085,6 +31129,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Hồi 40% giới hạn HP cho nhân vật được chọn, và hồi thêm 2350 điểm HP.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Bài Tập Về Nhà\"",
+    "Description": "Món ăn đặc biệt của Jahoda. Sau lần thứ sáu tìm Ineffa nhờ chỉ dạy kỹ thuật nướng bánh, cuối cùng Jahoda cũng đã hoàn thành bài tập về nhà - một món đồ ngọt tự tay làm. Tuy hình dáng hơi méo mó chút, nhưng hương thơm quả mọng lại vô cùng ngọt ngào, còn hương vị... ừm, chắc không đến nỗi tệ đâu nhỉ?",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Hồi 40% giới hạn HP cho nhân vật được chọn, và hồi thêm 2350 điểm HP.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Thịt Om Táo (Bản Thử Nghiệm)",
+    "Description": "Món ăn đặc biệt của Durin. Học theo cách bạn nấu ăn, Durin đã làm ra món ăn đầu tiên trong đời. Giữa hương thơm của trái cây lan tỏa còn ẩn chứa hiểu biết ngây ngô của cậu ấy về ẩm thực trên thế giới này, phần viền hơi cháy giòn là kết quả của việc cậu ấy cố gắng kiểm soát sức mạnh của mình.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 30% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 510 HP.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gà Rán Cay Kỳ Lạ",
+    "Description": "Miếng gà rán bọc lớp vỏ giòn xanh lá. Chưa kịp nếm thử hương vị gà rán thì đã ho sặc sụa vì quá nhiều gia vị... Ban đầu định ăn no rồi đi học, nhưng giờ thì cần tìm một ly nước để uống trước đã...",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 32% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 730 HP.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gà Rán Cay",
+    "Description": "Miếng gà rán bọc lớp vỏ giòn xanh lá. Thịt gà được phủ một lớp bột trộn gia vị cay nồng rồi đem chiên vàng. Nghe nói chỉ cần ăn hết là sẽ bùng lên cảm giác muốn học hành chăm chỉ... Liệu có thần kỳ đến thế không nhỉ?",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 35% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 930 HP.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gà Rán Cay Ngon",
+    "Description": "Miếng gà rán bọc lớp vỏ giòn xanh lá. Cắn một miếng khi đang nóng hổi, vị cay nồng đánh thức vị giác, nước thịt đậm đà bùng nổ trong khoang miệng, khiến tinh thần lập tức phấn chấn... Cứ giữ vững trạng thái này thì cảm giác học gì cũng vào đầu hết!",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Vừa đẹp vừa ngon, nhưng hầu như không có tác dụng gì.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Điêu Khắc Đường - Jahoda",
+    "Description": "Điêu khắc đường được làm theo hình nhân vật. Chiếc la bàn chỉ đường khiến người ta nghĩ ngay đến Jahoda, nhân viên xuất sắc của Hội Đồng Bí Mật.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Vừa đẹp vừa ngon, nhưng hầu như không có tác dụng gì.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Điêu Khắc Đường - Kuuhenki",
+    "Description": "Điêu khắc đường được làm theo hình sinh vật kỳ diệu. Mang dáng vẻ bay bổng nhẹ nhàng, đó là một Kuuhenki ngoan ngoãn và đáng yêu.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33897,6 +34025,17 @@
     "ItemType": 2,
     "Name": "Công Thức: Lohikeitto",
     "Description": "Công thức món ăn, ghi lại cách làm món \"Lohikeitto\".",
+    "TypeDescription": "Công Thức",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Công Thức: Gà Rán Cay",
+    "Description": "Công thức món ăn, ghi lại cách làm món \"Gà Rán Cay\".",
     "TypeDescription": "Công Thức",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36775,6 +36914,17 @@
     "Description": "Mảnh vỡ rơi ra từ vương miện sừng sau khi đánh bại Linh Chủ Đêm Sương. Chất liệu nhẹ nhưng sắc bén, dù chưa được mài giũa nhưng vẫn có thể dễ dàng cắt qua lớp giáp kim loại thông thường.\nTrong những câu chuyện dân gian cổ xưa, những sinh linh cao ngạo và duyên dáng này được tạo ra bởi những vị sứ thần đầu tiên. Khi thiên đường sụp đổ, chúng đã cùng nữ chủ nhân Sương Nguyệt lập ra khế ước, thề sẽ dùng ánh sáng của Sương Nguyệt để xua tan sự ô uế của thế gian, cho đến khi ân chủ của ngày xưa quay về. Nguồn gốc và tính chân thực của truyền thuyết đã không còn kiểm chứng được nữa, nhưng những sinh linh từng đồng hành với ánh sáng vẫn đang âm thầm bảo vệ mảnh đất này, cho dù là đêm dài lạnh giá hay thủy triều khô cạn đen tối, tất cả đều không thể khiến hình bóng của chúng biến mất khỏi thế gian.",
     "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lõi Kuuvahki Quân Dụng Tuần Hoàn",
+    "Description": "Thiết bị Kuuvahki lấy được từ lõi năng lượng sau khi đánh bại Chiến Hạm Lục Chiến Hạng Nặng - Pháo Đài Di Động.\n\nViện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine từng định nghĩa một số chế độ tuần hoàn lý tưởng cho động cơ nguyên tố, và bất kể là loại nào thì số vòng tuần hoàn hoàn hảo nhất đều là bốn. Mặc dù các kỹ sư của Cục Khí Tài và Cục Thiết Kế Thí Nghiệm Đảo Paha phần lớn đều cho rằng Kuuvahki là một dạng vật chất khác với sức mạnh nguyên tố, nhưng những thiết kế ngoài bốn vòng tuần hoàn đều đã được chứng minh là kém hiệu quả và không thực tế. Theo một ý nghĩa khác, \"bốn\" vòng tuần hoàn có lẽ là sở thích kỳ lạ của thế giới. Và tất nhiên, biết đâu thế giới chẳng có sở thích gì cả, mà đối với thế giới, thói quen tùy tiện suy đoán và tự cho mình là thông minh của người phàm mới là thứ sở thích kỳ lạ nhất.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -49176,7 +49326,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49192,7 +49342,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Mô Đun Chương Trình Sao Lưu",
-    "Description": "Mô đun sao lưu hệ điều hành của Bobik do Deslavoj để lại.\nCó thể nhanh chóng hồi phục hệ thống cơ bản của Bobik, và cho phép người dùng thêm hoặc thay đổi câu lệnh một cách thủ công.",
+    "Description": "Mô đun sao lưu hệ điều hành của Bobik do Drzislav để lại.\nCó thể nhanh chóng hồi phục hệ thống cơ bản của Bobik, và cho phép người dùng thêm hoặc thay đổi câu lệnh một cách thủ công.",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
     "Icon": "UI_ItemIcon_121368"
   },
@@ -49493,6 +49643,127 @@
     "Description": "Một phần vốn của Hội Đồng Bí Mật được lấy ra từ trong rương. Tiền bạc không dễ kiếm, hãy thận trọng sử dụng.",
     "TypeDescription": "Vật Phẩm Tiêu Hao",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Món Quà\" Của Rhinedottir",
+    "Description": "Món quà mà \"Gold\" Rhinedottir tặng cho Albedo.\nMột món quà mới, một vấn đề mới.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Búp Bê\" Cũ Kỹ",
+    "Description": "Búp bê do Ihanti làm ra, có nét tương đồng với một loại búp bê mà Jahoda đã làm trước đây.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Hộp Điêu Khắc Đường Đặc Biệt",
+    "Description": "Chiếc hộp đựng kẹo điêu khắc đường đặc biệt, dường như được làm riêng cho ai đó. Để tránh nó bị tan chảy, hãy ăn càng sớm càng tốt.",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Nguồn Vốn \"Hội Đồng Bí Mật\"",
+    "Description": "Một phần vốn của Hội Đồng Bí Mật được lấy ra từ trong rương. Tiền bạc không dễ kiếm, hãy thận trọng sử dụng.",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sổ Tay Hướng Dẫn Đêm Cầu Nguyệt",
+    "Description": "Số tay hướng dẫn được phát trong Đêm Cầu Nguyệt ở Thị Trấn Nasha, bên trong giới thiệu nhiều gian hàng vui chơi thú vị. Đủ để tạo nên một đêm kỷ niệm khó quên cho người tham gia.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Thiệp Chúc Tặng Columbina",
+    "Description": "Tấm thiệp mà bạn bè đã chuẩn bị cho Columbina trong Đêm Cầu Nguyệt, chứa đựng những lời chúc phúc của mọi người dành cho cô. Mong rằng dù ở bất cứ nơi đâu, cô ấy vẫn có thể nhớ về nụ cười của những người bạn trong đêm nay.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Cầu Nguyệt Columbina Chuẩn Bị",
+    "Description": "Kẹo Cầu Nguyệt do Columbina chuẩn bị cho mọi người. Với sự sáng tạo độc đáo của cô ấy, những viên kẹo mang nhiều hương vị đặc biệt, có lẽ đó cũng chính là những hương vị còn đọng lại trong ký ức của cô ấy.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Kẹo Cầu Nguyệt Columbina Chuẩn Bị",
+    "Description": "Kẹo Cầu Nguyệt do Columbina chuẩn bị cho mọi người. Với sự sáng tạo độc đáo của cô ấy, những viên kẹo mang nhiều hương vị đặc biệt, có lẽ đó cũng chính là những hương vị còn đọng lại trong ký ức của cô ấy.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chiến Ký Đấu Sĩ Lửa: Tập 2",
+    "Description": "Bộ truyện tranh lịch sử viễn tưởng \"Chiến Ký Đấu Sĩ Lửa\" lấy cảm hứng từ truyền thuyết của vùng đất Natlan, nay đã ra mắt phiên bản sưu tập giới hạn.\nCác anh hùng lần lượt xuất hiện, ánh hào quang giao thoa trong thời khắc biến động, dùng sinh mệnh để mở ra con đường cho hậu thế giữa những trận chiến khốc liệt!",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Câu Chuyện Về \"Durin\"",
+    "Description": "Cuốn sách phép thuật mà ma nữ M để lại cuối cùng cũng phải giao cho Durin để viết tiếp. Alice đã tạo ra một bản sao của nó và tặng cho bạn. Dù sao thì bạn cũng là người chứng kiến câu chuyện này, không có kỷ vật thì không được. Tất nhiên, bản sao này không có phép thuật kỳ diệu gì cả, nhưng những tình tiết thú vị thì vẫn còn nguyên vẹn trong đó.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Hộp Điêu Khắc Đường Đặc Biệt",
+    "Description": "Chiếc hộp đựng kẹo điêu khắc đường đặc biệt, dường như được làm riêng cho ai đó. Để tránh nó bị tan chảy, hãy ăn càng sớm càng tốt.",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -52152,7 +52423,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 148",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"The Brisk Morning Air\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52163,7 +52434,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 149",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Evening's Ease\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52174,7 +52445,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 150",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Soil of Bright Flame\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52185,7 +52456,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 151",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"A Deed No Less Than Star-Forging\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52196,7 +52467,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 152",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Land of Primal Flame\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52207,7 +52478,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 153",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Indulgence Beneath the Sun\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52218,7 +52489,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 154",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"The Watch of a Sleepless Sheep\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52229,7 +52500,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 155",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Waves Curl Over Drifting Sand\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52240,7 +52511,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ngọc Thạch Âm Vang 156",
-    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Natlan thần bí.",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Tapestry of Resplendent Hues\".",
     "TypeDescription": "Đạo Cụ Mạo Hiểm",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52925,6 +53196,17 @@
     "Description": "Đạo cụ tinh luyện dành riêng cho Đàn Thiên Quang.\nTrong nền văn minh cổ đại đã biến mất từ lâu, từng có người cho rằng vận mệnh của thế giới giống như một khúc ca trên sân khấu, được dệt nên từ một cây đàn hạc khổng lồ trên cao. Có lẽ vì họ từng tận mắt nhìn thấy thiên thần rút ra dây đàn vàng từ ánh sáng bầu trời, báo hiệu sự tàn khốc của số phận bằng một giai điệu hùng tráng.",
     "TypeDescription": "Nguyên Liệu Tinh Luyện",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tâm Trí Tinh Tế",
+    "Description": "Đạo cụ tinh luyện \"Dây Mưa Của Cầu Vồng\".\nPhần bao ngón tay được cung thủ đeo trong thời gian dài, màu sắc rực rỡ, chế tác tinh xảo.\nĐộ chính xác của mũi tên phụ thuộc vào kinh nghiệm của cung thủ. Người càng nhiều lần nín thở kéo dây cung, thì cung và tên sẽ càng thuận theo ý muốn. Giương cung bắn tên chính là rèn luyện tâm trí, bao ngón tay càng chai sạn mòn rách, thì tâm trí cũng càng một sắc bén.",
+    "TypeDescription": "Nguyên Liệu Tinh Luyện",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54995,6 +55277,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Từ Điển Ma Nữ Nhỏ",
+    "Description": "Cuốn từ điển được viết bởi các ma nữ, nhận được từ Alice. Mặc dù trên danh nghĩa là chú giải cho cuốn truyện ngụ ngôn \"Ma Nữ Nhỏ Và Ngọn Lửa Bất Diệt\", nhưng thực chất nội dung bên trong là những \"bài tập\" được Hội Ma Nữ thiết kế riêng cho mọi người.\nNhư câu \"đi ngược dòng chảy cũng là một bài học\", hãy cùng các đồng đội bắt đầu hành trình chinh phục vương miện của sự thăng tiến nào!",
+    "TypeDescription": "Đạo Cụ Nhỏ",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55906,6 +56199,17 @@
     "Description": "Bí quyết để cuộc trò chuyện sôi nổi tiếp tục diễn ra, thực ra là...",
     "TypeDescription": "Avatar",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Học Hành Chăm Chỉ",
+    "Description": "Ban ngày học hành, ban đêm mơ mộng. Có lẽ đây cũng là một cách để kiến thức thấm nhuần vào tâm trí...",
+    "TypeDescription": "Avatar",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70248,6 +70552,182 @@
     "ItemType": 2,
     "Name": "Mèo Con Nằm Rạp",
     "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Mèo Con Nằm Rạp\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kỳ Diệu Lấp Lánh",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kỳ Diệu Lấp Lánh\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Vòng Quay May Mắn",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Vòng Quay May Mắn\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Vị Giác Bùng Nổ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Vị Giác Bùng Nổ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Thông Báo Của Quán Rượu - Tin Đồn Trên Phố",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thông Báo Của Quán Rượu - Tin Đồn Trên Phố\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Một Giây Nhanh Chóng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Một Giây Nhanh Chóng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Máy Dò Di Động Hữu Ích",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Máy Dò Di Động Hữu Ích\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Huyền Thoại Nướng Thịt Siêu Cấp",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Huyền Thoại Nướng Thịt Siêu Cấp\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ngựa Nhỏ Lắc Lư",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ngựa Nhỏ Lắc Lư\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tháp Song Cực Ba Chân Dạng Đứng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tháp Song Cực Ba Chân Dạng Đứng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Hoa Mất Hương",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Hoa Mất Hương\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ma Long Xuất Kích",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ma Long Xuất Kích\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lữ Khách Cô Độc",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lữ Khách Cô Độc\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ánh Sáng Kiên Định",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ánh Sáng Kiên Định\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chim Sẻ Nhỏ Bé",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Chim Sẻ Nhỏ Bé\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Đạo Tặc Đồ Ăn",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đạo Tặc Đồ Ăn\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chồn Núi Chủ Mưu",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Chồn Núi Chủ Mưu\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
     "TypeDescription": "Bản Vẽ Đồ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Common"
   }

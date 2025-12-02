@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "QUEST CLEAR",
-    "Description": "ปราบปรามเป้าหมายครบ 10 ครั้ง",
+    "Description": "ปราบปรามเป้าหมายครบ 3 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "QUEST CLEAR",
-    "Description": "ปราบปรามเป้าหมายครบ 20 ครั้ง",
+    "Description": "ปราบปรามเป้าหมายครบ 6 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "QUEST CLEAR",
-    "Description": "ปราบปรามเป้าหมายครบ 30 ครั้ง",
+    "Description": "ปราบปรามเป้าหมายครบ 9 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "ผู้กล้าฝึกหัด",
-    "Description": "ทำ \"คำขอของชาวเมือง\" 10 ครั้ง",
+    "Description": "ทำคำขอของชาวเมืองให้สำเร็จ 3 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "ผู้กล้าฝึกหัด",
-    "Description": "ทำ \"คำขอของชาวเมือง\" 20 ครั้ง",
+    "Description": "ทำคำขอของชาวเมืองให้สำเร็จ 6 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "ผู้กล้าฝึกหัด",
-    "Description": "ทำ \"คำขอของชาวเมือง\" 30 ครั้ง",
+    "Description": "ทำคำขอของชาวเมืองให้สำเร็จ 9 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "ป้อมเคลื่อนที่ของ Drzislav",
+    "Description": "เอาชนะจักรกลตรวจการณ์หนักพิเศษ - ป้อมเคลื่อนที่ ที่เคยเป็นอัมพาตจากการโอเวอร์ฮีทอย่างน้อย 2 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "วันสำคัญ",
+    "Description": "เทศกาลก็ต้องมีความสุขสิ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "คืนจันทราธิษฐาน",
+    "Description": "เพลิดเพลินไปกับค่ำคืนสุดท้ายในโลกใต้แสงจันทร์",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "ระหว่างนิรันดร์และชั่วพริบตา",
+    "Description": "แสงจันทร์จะคอยเชื่อมโยงพวกเราเข้าด้วยกัน ไม่ว่าทิวาหรือราตรี",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "แสงจันทร์สลายในสายหมอกยามเช้า",
+    "Description": "สำเร็จ \"แสงจันทร์สลายในสายหมอกยามเช้า\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "เมื่อยกหินขึ้น",
+    "Description": "ไม่แน่อาจจะเจออะไรที่คาดไม่ถึงก็ได้",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "ราวกับภาพลวงตาในความฝัน",
+    "Description": "เป็นสักขีพยานใน \"ประวัติศาสตร์\" ที่เกิดขึ้นที่นี่ในอดีต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "เส้นทางที่มาบรรจบกัน",
+    "Description": "พวกคุณเคยเฉียดผ่านกันในช่วงเวลาหนึ่ง...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "ลำนำล่องราตรีสุดแดนเหนือ",
+    "Description": "สำเร็จ \"ลำนำล่องราตรีสุดแดนเหนือ\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

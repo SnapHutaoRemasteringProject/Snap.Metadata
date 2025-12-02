@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Durin's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Durin",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jahoda's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Jahoda",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Material Aktivasi Konstelasi untuk Nefer",
     "TypeDescription": "Aktivasi Konstelasi",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Durin's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Durin",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jahoda's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Jahoda",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -30865,6 +30909,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 40% HP dan 2.350 HP tambahan untuk Karakter yang dipilih.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"After-Class Practice\"",
+    "Description": "Masakan andalan Jahoda. Setelah enam kali minta saran teknik memanggang dari Ineffa, akhirnya Jahoda bisa menyelesaikan tugasnya ... membuat kue buatan tangan. Meski bentuknya agak tidak beraturan, aroma manis buah beri sangat menggoda. Soal rasanya ... mungkin tidak terlalu buruk?",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 40% HP dan 2.350 HP tambahan untuk Karakter yang dipilih.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Apple Stew (Trial Version)",
+    "Description": "Masakan andalan Durin. Dengan meniru setiap gerakanmu di dapur, Durin berhasil menyiapkan hidangan pertama dalam hidupnya. Di balik aroma buah yang kaya, tersimpan pemahaman awalnya tentang masakan dunia ini. Di sepanjang pinggirannya yang sedikit renyah, terletak hasil usahanya mengendalikan kekuatannya sendiri.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 30% Max HP Karakter yang dipilih dan memberikan regenerasi 510 HP setiap 5 detik selama 30 detik.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Suspicious Spiced Fried Chicken",
+    "Description": "Ayam goreng yang dilapisi kulit renyah berwarna hijau. Tapi bahkan sebelum kamu bisa mencicipi ayam gorengnya, kamu sudah tersedak karena banyaknya rempah-rempah ... Kamu berencana untuk belajar setelah menyantap hidangan mengenyangkan ini, tapi sepertinya segelas air minum harus jadi prioritas ....",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 32% Max HP Karakter yang dipilih dan memberikan regenerasi 730 HP setiap 5 detik selama 30 detik.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Spiced Fried Chicken",
+    "Description": "Ayam goreng yang dilapisi kulit renyah berwarna hijau. Potongan ayamnya dilapisi dengan adonan rempah dan digoreng. Konon katanya, siapa pun yang bisa menghabiskannya akan punya dorongan untuk belajar mati-matian ... tapi apakah benar ada hal seperti ini?",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 35% Max HP Karakter yang dipilih dan memberikan regenerasi 930 HP setiap 5 detik selama 30 detik.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Delicious Spiced Fried Chicken",
+    "Description": "Ayam goreng yang dilapisi kulit renyah berwarna hijau. Gigit selagi masih panas, dan rasa pedas akan membangunkan lidahmu saat cairan lezat menyembur di antara sela gigi, menyegarkan jiwamu ... Dalam kondisi seperti ini, kamu merasa bisa belajar apa saja!",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Kelihatannya menarik dan lezat, tapi sepertinya tidak berguna.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sugar Sculpture: Jahoda",
+    "Description": "Ukiran permen gulali yang dibuat menyerupai kesan karakter. Kompas penunjuk arah ini mengingatkan pada Jahoda, karyawan terbaik dari Curatorium of Secrets.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Kelihatannya menarik dan lezat, tapi sepertinya tidak berguna.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sugar Sculpture: Kuuhenki",
+    "Description": "Ukiran permen gulali yang dibuat menyerupai makhluk misterius. Wujudnya yang ringan menyerupai kuuhenki yang melayang lembut di bawah sinar rembulan.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33677,6 +33805,17 @@
     "ItemType": 2,
     "Name": "Resep: Lohikeitto",
     "Description": "Resep yang berisi langkah-langkah untuk membuat Lohikeitto.",
+    "TypeDescription": "Resep",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Resep: Spiced Fried Chicken",
+    "Description": "Resep yang berisi langkah-langkah untuk membuat Spiced Fried Chicken.",
     "TypeDescription": "Resep",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36555,6 +36694,17 @@
     "Description": "Pecahan yang terjatuh dari mahkota Frostnight Herra setelah dikalahkan, ringan dan tajam. Meski tidak dipoles, dapat menembus baju zirah logam dengan mudah.\nDalam cerita rakyat kuno, makhluk yang angkuh dan anggun ini diciptakan oleh utusan suci yang pertama. Saat taman kebahagiaan runtuh, mereka mengikat janji dengan Ratu Bulan Embun, untuk membersihkan kekotoran dunia dengan cahaya purba yang dianugerahkan oleh Bulan Embun, sampai penyelamat masa lalu kembali sekali lagi. Sudah tidak mungkin membuktikan asal-usul dan keaslian dari legenda ini. Tapi makhluk-makhluk yang pernah berjalan bersama cahaya masih melindungi daratan ini, dari malam yang dingin maupun gelombang gelap, tak ada yang dapat membuat bentuk mereka sirna dari dunia ini.",
     "TypeDescription": "Material Penguatan Karakter",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cyclic Military Kuuvahki Core",
+    "Description": "Perangkat kuuvahki yang diperoleh dari inti energi setelah mengalahkan Super-Heavy Landrover: Mechanized Fortress.\nInstitut Penelitian Energi Kinetik Fontaine pernah menetapkan beberapa mode siklus ideal untuk mesin berbahan bakar elemental, dan dari semua mode tersebut, jumlah siklus yang paling sempurna adalah empat. Meskipun para insinyur dari Kantor Persenjataan Kekaisaran dan Biro Desain Eksperimental Pulau Paha cenderung menganggap kuuvahki sebagai bahan bakar yang berbeda dari kekuatan elemental, konfigurasi desain di luar empat siklus terbukti tidak efisien dan tidak praktis. Dalam artian tertentu, siklus \"empat\" mungkin adalah preferensi aneh dari dunia— tentu saja, mungkin dunia tidak memiliki preferensi sama sekali, dan kebiasaan manusia fana yang merasa pintar dan membuat asumsi seenaknya justru adalah preferensi yang paling aneh.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48956,7 +49106,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49273,6 +49423,127 @@
     "Description": "Sebagian dana Curatorium of Secrets yang diambil dari kotak. Sulit untuk mendapatkannya, pertimbangkan dengan saksama sebelum digunakan.",
     "TypeDescription": "Konsumsi",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Hadiah\" Rhinedottir",
+    "Description": "Hadiah dari \"Gold\" Rhinedottir untuk Albedo.\nHadiah baru, petualangan baru.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Boneka\" Usang",
+    "Description": "\"Boneka\" yang dibuat oleh Ihanti, memiliki kemiripan dengan boneka yang dibuat sebelumnya oleh Jahoda.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Special Sugar Sculpture Box",
+    "Description": "Kotak berisi permen gulali spesial yang tampaknya dibuat khusus untuk seseorang. Untuk mencegahnya meleleh, harap segera habiskan.",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Curatorium Funds",
+    "Description": "Sebagian dana Curatorium of Secrets yang diambil dari kotak. Sulit untuk mendapatkannya, pertimbangkan dengan saksama sebelum digunakan.",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Buku Panduan \"Malam Doa Rembulan\"",
+    "Description": "Buku panduan \"Malam Doa Rembulan\" yang dibagikan di Kota Nasha, isinya menunjukkan banyak stan menarik yang bisa dikunjungi. Cukup untuk membuat para pengunjung memiliki kenangan indah yang tidak terlupakan.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kartu Ucapan untuk Columbina",
+    "Description": "Kartu ucapan untuk Columbina yang disiapkan oleh teman-temannya di Malam Doa Rembulan, berisi harapan dan doa dari semua orang untuk Columbina. Berharap di mana pun dia berada, dia akan selalu ingat senyuman teman-temannya malam ini.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Permen Doa Rembulan Buatan Columbina",
+    "Description": "Permen Doa Rembulan yang disiapkan Columbina untuk semua orang. Berkat ide kreatifnya, permen-permen ini memiliki beragam rasa yang unik, mungkin rasa-rasa yang membekas dalam ingatannya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Permen Doa Rembulan Buatan Columbina",
+    "Description": "Permen Doa Rembulan yang disiapkan Columbina untuk semua orang. Berkat ide kreatifnya, permen-permen ini memiliki beragam rasa yang unik, mungkin rasa-rasa yang membekas dalam ingatannya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kisah Pertarungan Soulblazer: Volume 2",
+    "Description": "Komik sejarah fantasi yang didasarkan pada legenda lokal Natlan — \"Kisah Pertarungan Soulblazer\" kini telah merilis edisi kolektornya.\nPara pahlawan telah berkumpul, cahaya mereka bersinar bersama di tengah angin dan awan, membuka jalan bagi generasi mendatang dengan nyawa mereka dalam pertempuran yang kejam!",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kisah Tentang \"Durin\"",
+    "Description": "Buku sihir yang ditinggalkan oleh \"M\" akhirnya harus diserahkan kepada Durin, agar dia bisa melanjutkan penulisannya. Alice telah membuat salinannya dan memberikannya kepadamu. Bagaimanapun juga, kamu adalah saksi dari cerita ini, tentu harus memiliki suvernirnya. Tentu saja, salinan ini tidak memiliki kekuatan sihir, tapi tetap penuh dengan cerita yang menarik.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Special Sugar Sculpture Box",
+    "Description": "Kotak berisi permen gulali spesial yang tampaknya dibuat khusus untuk seseorang. Untuk mencegahnya meleleh, harap segera habiskan.",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -51932,7 +52203,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 148",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Brisk Morning Air\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51943,7 +52214,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 149",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Evening's Ease\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51954,7 +52225,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 150",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Soil of Bright Flame\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51965,7 +52236,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 151",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Deed No Less Than Star-Forging\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51976,7 +52247,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 152",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Land of Primal Flame\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51987,7 +52258,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 153",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Indulgence Beneath the Sun\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51998,7 +52269,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 154",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Watch of a Sleepless Sheep\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52009,7 +52280,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 155",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Waves Curl Over Drifting Sand\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52020,7 +52291,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 156",
-    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Natlan.",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Tapestry of Resplendent Hues\".",
     "TypeDescription": "Item Adventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52705,6 +52976,17 @@
     "Description": "Material refinement khusus untuk \"Etherlight Spindlelute.\"\nDalam peradaban yang telah lama hilang ditelan waktu, pernah ada orang yang percaya bahwa takdir yang mengatur dunia dijalin seperti lagu di atas panggung — lahir dari senar harpa raksasa yang tergantung di langit. Mungkin karena mereka telah menyaksikan para malaikat memetik senar emas dari langit, alunan ilahi mereka menyatakan gemuruh ketidakpedulian takdir.",
     "TypeDescription": "Material Refinement",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Refined Heart",
+    "Description": "Material refinement khusus untuk \"Rainbow Serpent's Rain Bow\".\nPelindung jari yang sudah lama dipakai oleh pemanah, warnanya cerah dan dibuat dengan cermat.\nKetepatan anak panah bergantung pada pengalaman pemanah. Semakin sering seseorang menarik tali busur dengan napas terfokus, semakin mudah busur dan anak panah bergerak sesuai keinginan. Menarik busur dan memanah adalah latihan hati. Keausan pada pelindung jari mencerminkan ketajaman tekad sang pemanah.",
+    "TypeDescription": "Material Refinement",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54775,6 +55057,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "The Little Witch's Dictionary",
+    "Description": "Kamus yang didapat dari Alice, kamus ini ditulis bersama oleh para penyihir. Meski dikatakan sebagai catatan untuk cerita fabel \"Gadis Penyihir Kecil dan Api yang Tak Pernah Padam\", isinya sebenarnya adalah \"tugas\" yang dibuat khusus oleh Hexenzirkel untuk setiap pembaca.\nSeperti kata pepatah, \"melawan arus berarti belajar\", mari kita bersama-sama memulai perjalanan untuk mendapatkan mahkota pertumbuhan!",
+    "TypeDescription": "Peralatan",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55686,6 +55979,17 @@
     "Description": "Jadi, rahasia untuk membuat percakapan terus bersemangat adalah ....",
     "TypeDescription": "Avatar",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tekun Belajar",
+    "Description": "Yang dipelajari di siang hari, akan dimimpikan di malam hari, mungkin ini salah satu cara pengetahuan bisa meresap ke dalam pikiran ....",
+    "TypeDescription": "Avatar",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70028,6 +70332,182 @@
     "ItemType": 2,
     "Name": "Kucing Malas Gerak",
     "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kucing Malas Gerak\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Kilau Luar Biasa\"",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Kilau Luar Biasa\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Roda Keberuntungan\"",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Roda Keberuntungan\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Menggugah Selera\"",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Menggugah Selera\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pengumuman Kedai: Rumor Jalanan",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pengumuman Kedai: Rumor Jalanan\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Satu Detik Beres\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Satu Detik Beres\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Detektor Portabel Praktis\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Detektor Portabel Praktis\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Pemanggang Super Legendaris\"",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Pemanggang Super Legendaris\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Kuda-Kudaan Goyang\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kuda-Kudaan Goyang\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Menara Bipolar Berkaki Tiga",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Menara Bipolar Berkaki Tiga\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Bunga Tanpa Aroma\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Bunga Tanpa Aroma\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Naga yang Menyerang\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Naga yang Menyerang\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Pengembara Tunggal\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pengembara Tunggal\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Cahaya Abadi\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Cahaya Abadi\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Si Finch Kecil\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Si Finch Kecil\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Pencuri Kuliner\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pencuri Kuliner\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Musang di Balik Layar\"",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Musang di Balik Layar\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
     "TypeDescription": "Blueprint Perabotan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

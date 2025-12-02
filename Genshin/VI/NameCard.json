@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin - Trái Tim Rực Rỡ",
+    "Description": "Hoa văn danh thiếp.\nTrong lồng ngực, tiếng nhịp đập không ngừng nghỉ của trái tim như đang nhắc nhở rằng: \"Cậu mang theo kỳ vọng từ quá khứ xa xôi, cậu sở hữu một tâm hồn tươi đẹp và mới mẻ, và vì thế, cậu ấp ủ một ngọn lửa bỏng cháy mà ngay cả băng tuyết cũng không thể chôn vùi.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda - Trợ Thủ",
+    "Description": "Hoa văn danh thiếp.\n\"Khi bận rộn quá, chỉ muốn mượn tay của Jahoda thôi.\" - Điều này cho thấy, có lẽ chủ nhân của 'bàn tay cho mượn' vừa nhanh nhẹn lại vừa đáng tin cậy, chắc chắn là vậy rồi!",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Nhật Ký Hành Trình - Tuyết Nóng",
+    "Description": "Hoa văn danh thiếp.\nTrong mưa tuyết gió rét, điều quan trọng nhất để tiến về phía trước không phải là lòng dũng cảm đơn độc, mà là sự tỉ mỉ để nhận ra phương hướng phía trước.",
+    "SpecialDescription": "Hoa văn danh thiếp \"Nhật Ký Hành Trình - Tuyết Nóng\"",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Lễ Hội - Giấc Mơ Đọc Sách",
+    "Description": "Hoa văn danh thiếp.\nNgười ta thường nói: \"Ngày nghĩ gì thì đêm mơ nấy\", có lẽ những nội dung trong sách đọc được cũng sẽ hiện lên trong giấc mơ dưới một hình thức khác... Ừm, chắc không phải ác mộng đâu nhỉ?",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

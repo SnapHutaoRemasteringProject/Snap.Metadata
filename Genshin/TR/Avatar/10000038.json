@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "Barbara mı? O oldukça ağırbaşlı bir Rahibedir. Bir keresinde ayaküstü çizimini yapma fırsatı yakalamıştım. Çizime ne mi oldu? Şey... Albert satın almak istedi ama teklifini kabul etmedim ve çizimi Büyük Kumandan Vekiline verdim. Ah şu toplumsal ilişkiler yok mu... Epey uğraştırıyor insanı."
       },
       {
+        "Title": "Durin Hakkında",
+        "Context": "Kardeşim sürekli yeni şeyler öğreniyor. Zeki ve felsefe tutkunu biri. Bu bazen zorluklara sebep olsa da dünyaya olan tutkusunu hiç azaltmıyor. Onun gelişi, daha doğrusu aileye katılması, insan ilişkileri hakkında yeni bir anlayış kazanmamı sağladı. En yakın akrabamla beraber ev cıvıl cıvıl bir yer haline geldi. Bu da olumlu bir şey tabii."
+      },
+      {
         "Title": "Albedo Hakkında Daha Fazlası: I",
         "Context": "Hakkımda merak ettiğin bir şey varsa, hiç çekinmeden sorabilirsin. Soru sormak ne kadar uzun sürebilir ki? Deneyimin son aşamasına geçmek üzereyim ben de..."
       },
@@ -1092,5 +1100,11 @@
     "Description": "İsim Kartı arka planı.\nBu mucizeye tanık olmama müsaade et.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Yankı: Kreideprinz",
+    "Description": "Albedo'nun Hayali Yankısı. \"Alevli siyahlıkta açar Güneş Çiçeği.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

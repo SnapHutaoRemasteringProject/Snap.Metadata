@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Athame Artis",
+    "Description": "In der Geschichte der kleinen Hexe wurde das Schwert ursprünglich vom Tageskönig an den Tapferen überreicht. Später jedoch setzte die kleine Hexe es ein, um den Tapferen zu besiegen.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Sengender Glanz des Tageskönigs",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Erhöht den durch die Spezialfähigkeiten verursachten kritischen Schaden um <color=#99FFFFFF>16{NON_BREAK_SPACE}%</color>. Gewährt beim Treffen von Gegnern mit der Spezialfähigkeit den Effekt „Klinge des Tageslichts“: Erhöht den ANG um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color> sowie den ANG der aktuellen Figuren auf dem Feld in der Nähe in der Truppe (ausgenommen des Trägers) um <color=#99FFFFFF>16{NON_BREAK_SPACE}%</color>, hält 3{NON_BREAK_SPACE}s lang.\nErhöht den Effekt von „Klinge des Tageslichts“ zusätzlich um 75{NON_BREAK_SPACE}%, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Der obige Effekt kann auch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+        },
+        {
+          "Level": 1,
+          "Description": "#Erhöht den durch die Spezialfähigkeiten verursachten kritischen Schaden um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>. Gewährt beim Treffen von Gegnern mit der Spezialfähigkeit den Effekt „Klinge des Tageslichts“: Erhöht den ANG um <color=#99FFFFFF>25{NON_BREAK_SPACE}%</color> sowie den ANG der aktuellen Figuren auf dem Feld in der Nähe in der Truppe (ausgenommen des Trägers) um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>, hält 3{NON_BREAK_SPACE}s lang.\nErhöht den Effekt von „Klinge des Tageslichts“ zusätzlich um 75{NON_BREAK_SPACE}%, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Der obige Effekt kann auch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+        },
+        {
+          "Level": 2,
+          "Description": "#Erhöht den durch die Spezialfähigkeiten verursachten kritischen Schaden um <color=#99FFFFFF>24{NON_BREAK_SPACE}%</color>. Gewährt beim Treffen von Gegnern mit der Spezialfähigkeit den Effekt „Klinge des Tageslichts“: Erhöht den ANG um <color=#99FFFFFF>30{NON_BREAK_SPACE}%</color> sowie den ANG der aktuellen Figuren auf dem Feld in der Nähe in der Truppe (ausgenommen des Trägers) um <color=#99FFFFFF>24{NON_BREAK_SPACE}%</color>, hält 3{NON_BREAK_SPACE}s lang.\nErhöht den Effekt von „Klinge des Tageslichts“ zusätzlich um 75{NON_BREAK_SPACE}%, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Der obige Effekt kann auch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+        },
+        {
+          "Level": 3,
+          "Description": "#Erhöht den durch die Spezialfähigkeiten verursachten kritischen Schaden um <color=#99FFFFFF>28{NON_BREAK_SPACE}%</color>. Gewährt beim Treffen von Gegnern mit der Spezialfähigkeit den Effekt „Klinge des Tageslichts“: Erhöht den ANG um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color> sowie den ANG der aktuellen Figuren auf dem Feld in der Nähe in der Truppe (ausgenommen des Trägers) um <color=#99FFFFFF>28{NON_BREAK_SPACE}%</color>, hält 3{NON_BREAK_SPACE}s lang.\nErhöht den Effekt von „Klinge des Tageslichts“ zusätzlich um 75{NON_BREAK_SPACE}%, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Der obige Effekt kann auch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+        },
+        {
+          "Level": 4,
+          "Description": "#Erhöht den durch die Spezialfähigkeiten verursachten kritischen Schaden um <color=#99FFFFFF>32{NON_BREAK_SPACE}%</color>. Gewährt beim Treffen von Gegnern mit der Spezialfähigkeit den Effekt „Klinge des Tageslichts“: Erhöht den ANG um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color> sowie den ANG der aktuellen Figuren auf dem Feld in der Nähe in der Truppe (ausgenommen des Trägers) um <color=#99FFFFFF>32{NON_BREAK_SPACE}%</color>, hält 3{NON_BREAK_SPACE}s lang.\nErhöht den Effekt von „Klinge des Tageslichts“ zusätzlich um 75{NON_BREAK_SPACE}%, wenn die Truppe den Effekt „Hexerei – Geheimes Ritual“ besitzt. Der obige Effekt kann auch ausgelöst werden, wenn der Träger inaktiv in der Truppe ist."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Regenakkorde der Regenbogenschlange",
+    "Description": "Eine rituelle Waffe des „Meisters des Nachtwinds“, über die Jahrhunderte weitergegeben. Der düstere Bogen ist stets von einer unauslöschlichen Kälte umhüllt.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Sternenflüstern jenseits des heiligen Throns",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>28{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>42{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>49{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "#Erhöht den ANG des Trägers, wenn dieser sich inaktiv in der Truppe befindet, nach dem Treffen eines Gegners 8{NON_BREAK_SPACE}s lang <color=#99FFFFFF>56{NON_BREAK_SPACE}%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Chroniken der Morgendämmerung",
+    "Description": "Alle Lieder vom Widerstand werden mit dem Wind weitergetragen und fielen wie sanfte Klänge auf die Saiten. Die hierin konzentrierte Kraft ist wie das Licht der Morgendämmerung, das die Finsternis der Nacht durchbricht.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Lied des ewigen Lobgesangs",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Verleiht dem Träger „Aufsteigende Morgenbrise“: Erhöht den durch Standardangriffe, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color=#99FFFFFF>60{NON_BREAK_SPACE}%</color>, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert den oben genannten SCH-Bonus im Kampf jede Sekunde um <color=#99FFFFFF>10{NON_BREAK_SPACE}%</color>, bis auf 0{NON_BREAK_SPACE}%. Erhöht, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für die entsprechende Art um <color=#99FFFFFF>10{NON_BREAK_SPACE}%</color>, bis auf max. <color=#99FFFFFF>60{NON_BREAK_SPACE}%</color>. 0,1{NON_BREAK_SPACE}s Abklingzeit für jede obige Angriffsart. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.\nWenn der Effekt „Hexerei – Geheimes Ritual“ in der Truppe vorhanden ist: Erhöht stattdessen, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für alle Arten um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "#Verleiht dem Träger „Aufsteigende Morgenbrise“: Erhöht den durch Standardangriffe, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color=#99FFFFFF>75{NON_BREAK_SPACE}%</color>, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert den oben genannten SCH-Bonus im Kampf jede Sekunde um <color=#99FFFFFF>12,5{NON_BREAK_SPACE}%</color>, bis auf 0{NON_BREAK_SPACE}%. Erhöht, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für die entsprechende Art um <color=#99FFFFFF>12,5{NON_BREAK_SPACE}%</color>, bis auf max. <color=#99FFFFFF>75{NON_BREAK_SPACE}%</color>. 0,1{NON_BREAK_SPACE}s Abklingzeit für jede obige Angriffsart. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.\nWenn der Effekt „Hexerei – Geheimes Ritual“ in der Truppe vorhanden ist: Erhöht stattdessen, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für alle Arten um <color=#99FFFFFF>25{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "#Verleiht dem Träger „Aufsteigende Morgenbrise“: Erhöht den durch Standardangriffe, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color=#99FFFFFF>90{NON_BREAK_SPACE}%</color>, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert den oben genannten SCH-Bonus im Kampf jede Sekunde um <color=#99FFFFFF>15{NON_BREAK_SPACE}%</color>, bis auf 0{NON_BREAK_SPACE}%. Erhöht, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für die entsprechende Art um <color=#99FFFFFF>15{NON_BREAK_SPACE}%</color>, bis auf max. <color=#99FFFFFF>90{NON_BREAK_SPACE}%</color>. 0,1{NON_BREAK_SPACE}s Abklingzeit für jede obige Angriffsart. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.\nWenn der Effekt „Hexerei – Geheimes Ritual“ in der Truppe vorhanden ist: Erhöht stattdessen, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für alle Arten um <color=#99FFFFFF>30{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "#Verleiht dem Träger „Aufsteigende Morgenbrise“: Erhöht den durch Standardangriffe, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color=#99FFFFFF>105{NON_BREAK_SPACE}%</color>, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert den oben genannten SCH-Bonus im Kampf jede Sekunde um <color=#99FFFFFF>17,5{NON_BREAK_SPACE}%</color>, bis auf 0{NON_BREAK_SPACE}%. Erhöht, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für die entsprechende Art um <color=#99FFFFFF>17,5{NON_BREAK_SPACE}%</color>, bis auf max. <color=#99FFFFFF>105{NON_BREAK_SPACE}%</color>. 0,1{NON_BREAK_SPACE}s Abklingzeit für jede obige Angriffsart. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.\nWenn der Effekt „Hexerei – Geheimes Ritual“ in der Truppe vorhanden ist: Erhöht stattdessen, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für alle Arten um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "#Verleiht dem Träger „Aufsteigende Morgenbrise“: Erhöht den durch Standardangriffe, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um <color=#99FFFFFF>120{NON_BREAK_SPACE}%</color>, sobald der Träger den Kampf für 3{NON_BREAK_SPACE}s verlassen hat. Verringert den oben genannten SCH-Bonus im Kampf jede Sekunde um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>, bis auf 0{NON_BREAK_SPACE}%. Erhöht, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für die entsprechende Art um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>, bis auf max. <color=#99FFFFFF>120{NON_BREAK_SPACE}%</color>. 0,1{NON_BREAK_SPACE}s Abklingzeit für jede obige Angriffsart. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist.\nWenn der Effekt „Hexerei – Geheimes Ritual“ in der Truppe vorhanden ist: Erhöht stattdessen, wenn der Träger Gegner mit Standardangriffen, Elementarfähigkeiten oder Spezialfähigkeiten trifft, den SCH-Bonus für alle Arten um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

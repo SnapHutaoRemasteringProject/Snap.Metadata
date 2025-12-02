@@ -888,6 +888,10 @@
         "Context": "Saccharose ist auch toll! Sie hat mich einmal gefragt, ob ich noch etwas wie die Bimm-Bamm-Bombe haben will, das auch laufen und hüpfen kann, hehehe! Natürlich will ich das, ich will Hunderte davon, damit ich jede Ecke von Mondstadt damit zupflastern kann!"
       },
       {
+        "Title": "Über Durin ...",
+        "Context": "Hehe, großer Bruder Durin wohnt jetzt in Mondstadt – ich werde jeden Tag mit ihm spielen! Ich nehme ihn mit zum „Fische platzen lassen“ und er kann mich hoch in die Luft fliegen, damit ich die Bimm-Bamm-Bombe auf die Fische werfen kann!"
+      },
+      {
         "Title": "Ich will mehr über Klee erfahren I",
         "Context": "Hallo, bist du gekommen, um mit mir zu spielen?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Ein Motiv für Namenskärtchen.\nIst Klees Glücksbombe die Bimm-Bamm-Bombe oder Dodoco? Wer sich nicht sicher ist, sollte auf den Schwanz achten.",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo – Fliehende Sonne",
+    "Description": "Klees Gemalte Echos. „Da da da! Das Abenteuer der Funkenritterin beginnt!“",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

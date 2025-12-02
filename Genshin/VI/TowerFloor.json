@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "Tăng 75% Sát Thương Nguyên Tố Hỏa gây ra bởi Tấn Công Thường của nhân vật."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tất cả thành viên trong đội nhận 60% buff Sát Thương Nguyên Tố Hỏa.",
+      "Tất cả thành viên trong đội nhận 60% buff sát thương nguyên tố Lôi."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Nhân vật dự bị trong đội nhận 75% buff Sát Thương Nguyên Tố Hỏa."
+    ],
+    "SecondDescriptions": [
+      "Nhân vật tăng 75% sát thương Tấn Công Khi Đáp."
+    ]
   }
 ]

@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Figur im Kannenreich",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Figur im Kannenreich",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "„Faules Kätzchen“",
     "Description": "Ein mechanisches Stofftier nach dem Vorbild einer berühmten schwarzen Katze, ausgestattet mit verschiedenen interaktiven Knöpfen.\nWie jeder weiß, sind Katzen geheimnisvolle Geschöpfe. Nach diesem Prinzip hat der Konstrukteur dem Spielzeug einige besondere Funktionen verliehen: Manche Handlungen machen das Kätzchen zufrieden – andere wiederum bringen das faule Kätzchen dazu, plötzlich aufzuspringen ...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363411,
+    "Name": "„Glanz & Schimmer“",
+    "Description": "Eine Lampe, die aus einem Sockel und drei schwebenden Glühbirnen besteht. Ihr einzigartiges Design orientiert sich an den Beleuchtungsvorrichtungen von Nasha.\n„Wie ist das möglich? Sie schweben und leuchten zur selben Zeit!“ Dass die Glühbirnen schweben, scheint etwas mit Kuuvahki zu tun zu haben. Eine kuriose Kreation, die auch vorbeikommende Touristen nicht selten zu faszinieren weiß.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363412,
+    "Name": "„Horoskoprad“",
+    "Description": "Ein Glücksrad, wie man ihm häufig in Nasha begegnet. In seiner Mitte befindet sich ein drehbarer Zeiger, der auf Becher in verschiedenen Farben gerichtet werden kann, wobei jeder davon für ein anderes Ereignis steht.\n„Dreh am Rad! Sobald sein Zeiger zum Stillstand kommt, wird ‚Hotdog‘ dir dein Schicksal für diesen Tag verkünden!“ Natürlich kannst du auch mehrmals drehen, sollte dir das erste Ergebnis nicht zusagen ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363413,
+    "Name": "„Heißhungerattacke“",
+    "Description": "Ein Teller, wie man ihn fast überall in Nasha findet. Meist ist er mit herzhaften Brotscheiben und Würstchen bestückt.\nGoldbraun gebackene Brote und brutzelnde Wurst ... zeig mir einen hungrigen Reisenden, der da noch widerstehen kann. Sobald diese Kreation allerdings ihren Weg in die Kanne der Vergänglichkeit gefunden hat, dient sie lediglich dazu, einem das Wasser im Munde zusammenlaufen zu lassen ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363386,
+    "Name": "„Vorposten-Saurier“",
+    "Description": "Eine Puppe, die einem Iktomisaurier nachempfunden und deren Operationsmechanismus der Vorrichtungskern eines „Späh-Gefährten“ aus Sumeru ist. Sie kann dabei helfen, Monster aufzuspüren und das Gelände zu erkunden; ein niedlicher und zuverlässiger Begleiter für jeden Abenteurer.\nMika, seines Zeichens Landvermesser, hat sich sowohl auf seinen reichen Erfahrungsschatz als auch auf die Bedürfnisse von Abenteurern gestützt und den Vorposten-Saurier einmal komplett überarbeitet, um dessen Kartierungsgenauigkeit und Agilität zu verbessern. Außerdem wählte er den Iktomisaurier als Erscheinungsbild, um dessen ausgeprägtes Bewusstsein für die Umgebung zu verkörpern. Schließlich ist in einer Welt voller Gefahren ein scharfsinniger und kluger Begleiter jemand, auf den man sich immer verlassen kann.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 364225,
+    "Name": "Tavernen-Ankündigung – Man erzählt sich ...",
+    "Description": "Eine große Anschlagtafel im „Flaggschiff“, die für den Aushang von Kopfgeldern genutzt wird. Auf ihrer breiten Fläche findet sich ausreichend Platz für eine Vielzahl von Bekanntmachungen.\nNur wenige schaffen es, die hohen Belohnungen für die kompliziertesten Aufträge einzustreichen, aber wer die dicht geschriebenen Beiträge durchliest, kann immer wieder mal ein kurioses Gerücht nach dem anderen aufschnappen ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374637,
+    "Name": "„Ruckizucki“",
+    "Description": "Eine mechanische Vorrichtung in der „Krumkake-Werkstatt Kling-Klang“, die mit kompakten und präzisen Roboterarmen ausgestattet ist.\n„Nur eine Sekunde, ‚Ruckizucki‘ schafft alles!“ Äußerst effizient, auch wenn man das mit der Sekunde nicht unbedingt wörtlich verstehen sollte. Dennoch könnte dies genau das Tempo sein, von dem die Erfinderin annahm, dass kein Kunde jemals etwas daran auszusetzen haben würde.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 373939,
+    "Name": "„Praktischer Taschendetektor“",
+    "Description": "Ein in Nasha weit verbreiteter Detektor, der dazu dient, in scheinbar wertlosem Schrott noch verwertbare Materialien aufzuspüren. Meist reagiert der Detektor jedoch auf die merkwürdigsten Dinge – etwa auf die Sonnenbrille eines zerstreuten Herrn oder den Knopf, den eine junge Dame verloren hat ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374639,
+    "Name": "„Super-Grill-Legende“",
+    "Description": "Ein in Nasha weit verbreiteter Grillapparat, der das Fleisch bei gleichmäßiger Hitze zart und saftig hält.\nMan erzählt sich, dass jeder, der ihn bedient, unwillkürlich fröhliche und beschwingte Melodien zu summen beginnt ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374640,
+    "Name": "Hoppelpony",
+    "Description": "Ein vertrauter Anblick auf den Spielplätzen von Nasha: ein Schaukelpferd, ganz aus altem Blech gefertigt – trotz der einfachen Materialien erfreut es sich bei den Kindern großer Beliebtheit.\nDas Gelächter erfüllt die Luft, während die Kleinen auf dem Pferdchen hin und her wippen – und ihre Sorgen flattern mit dem Wind davon.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374641,
+    "Name": "Vertikaler bipolarer Dreibeinturm",
+    "Description": "Ein auffälliger Anblick in der „Krumkake-Werkstatt Kling-Klang“: ein Turm mit drei Beinen und markanter Form.\nÜberlieferungen zufolge wurde er aus einer geheimnisvollen Maschine aus dem goldenen Zeitalter umgebaut. Seine wahre Funktion ist längst in Vergessenheit geraten – heute dient er lediglich der Dekoration.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Archontenauftrag zu erhalten"
+    ],
+    "Id": 374811,
+    "Name": "„Du und ich zusammen“",
+    "Description": "Ein themenbezogener Fotopunkt, inspiriert von der Freundschaft zwischen dem Rauhorn-Hirsch und dem Poncho-Dachs. Er ist mit integrierten Leuchten ausgestattet, sodass Besucher auch nach Einbruch der Dunkelheit noch Fotos machen können.\n„Erinnert irgendwie an einen trotteligen Poncho-Dachs, der neben einem schläfrigen Rauhorn-Hirsch posiert, findest du nicht auch?“",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Archontenauftrag zu erhalten"
+    ],
+    "Id": 373222,
+    "Name": "„Blüten ohne Duft“",
+    "Description": "Ein Blumenbeet, das eigens für die Mondgebetsnacht umgestaltet wurde. In ihm erblühen mechanische Blumen, die im Dunkel ein sanftes, warmes Leuchten verströmen.\n„Seltsam? Vielleicht ... Aber in Nod-Krai ist das Seltsame die Normalität!“, sagten einige neugierige Reisende.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 374812,
+    "Name": "Flammenkrieger – „Fietena“",
+    "Description": "Ein Figurenaufsteller, der von Fietena, der wilden Hauptfigur aus „Chronik der Flammenkrieger“, inspiriert ist. Die markante Pose fängt sowohl ihren furchtlosen Geist als auch ihre unerschütterliche Leidenschaft für den Kampf ein.\n„Jetzt gibt es kein Zurück mehr. Los geht’s!“\nNatürlich führt ein gemeinsamer Angriff nicht immer zu einem perfekten Sieg. Trotzdem waren die Leidenschaft, die ihr geteilt habt, und die Anstrengungen, die ihr unternommen habt, echt. Und vielleicht wird all das eines Tages zu etwas Großem heranwachsen, auf das ihr ohne Bedauern zurückblicken könnt.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Archontenauftrag zu erhalten"
+    ],
+    "Id": 374813,
+    "Name": "„Dodocos magische Begegnung“",
+    "Description": "Diese Attraktion genießt man besten zu zweit! Sie wird von niemand Geringerem als der großen Hexe selbst gesponsert.\n„Los, reite den weichen und flauschigen Dodoco und begib dich auf ein unvergessliches Abenteuer!“\nDas sich drehende Dodoco mag ja vielleicht irgendwann zum Stillstand kommen, aber für dich und denjenigen, der neben dir gesessen hat, wird es immer eine neue Reise geben, die nur darauf wartet, angetreten zu werden ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Kauf von Erlebnispass – Gnostiker-Erlebnisbündel zu erhalten"
+    ],
+    "Id": 374818,
+    "Name": "„Drachenangriff“",
+    "Description": "Eine Skulptur, die nach einem Drachen aus der Märchenwelt gestaltet wurde. Die Flügel gesenkt, der Blick konzentriert, als stünde sie kurz vor dem Aufbruch.\nWer sich ihr nähert und auf ihren Rücken steigt, setzt einen verborgenen Mechanismus in Gang. Sogleich erwacht der Drache zum Leben: Er reißt die Augen auf, schlägt mit den Flügeln und schwingt den Schweif – als wolle er seinem Freund auf dem Rücken zurufen: „Bereit? Dann heben wir gleich ab!“",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 360467,
+    "Name": "„Der einsame Wanderer“",
+    "Description": "Diese Straßenlaterne aus der „Krumkake-Werkstatt Kling-Klang“ erinnert an einen einsamen Wanderer, der mit gesenktem Kopf und gebeugten Schultern dahinschreitet.\nSobald die Nacht hereinbricht, leuchtet sie still auf und wirft bei Passanten die Frage auf:\n„Das ist ja mal eine hohe Lampe ... Halten Rückseite und Rumpf das überhaupt aus?“",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Archontenauftrag zu erhalten"
+    ],
+    "Id": 360468,
+    "Name": "„Zeitloser Glanz“",
+    "Description": "Eine aus Metall gefertigte Lampe, deren Form dem Halbmond nachempfunden ist. Sie spendet zu jeder Tages- und Nachtzeit ein sanftes, ruhiges Licht.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372516,
+    "Name": "„Nebelflüstern“",
+    "Description": "Ein blassrosa Strauch, der dicht am Boden wächst und dessen feine, aufrecht stehende Stängel in Büscheln angeordnet sind.\nEr wächst oft in dichten, zusammenhängenden Flecken. Aus der Ferne erscheint er wie ein zartrosa Nebel, der knapp über dem Boden schwebt, als würde die Natur selbst mit sanfter Stimme flüstern.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372517,
+    "Name": "„Ein Wink an Gestern“",
+    "Description": "Eine Gattung der Höhlenflora, die sich durch dünne, biegsame Stängel und fächerförmige Blätter auszeichnet.\nDiese Pflanzen sind unglaublich widerstandsfähig. Unabhängig von den Bedingungen wiegen sich ihre zarten Zweige und Blätter stets sanft im Wind, als würden sie sich still von der Vergangenheit verabschieden.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372518,
+    "Name": "„Weichschimmer-Staubblatt“",
+    "Description": "Eine rauchrosa Höhlenpflanze mit sanft ausladenden Blättern, die jeweils in dünnen Ranken enden, die den Staubgefäßen einer Blume ähneln.\nDiese Pflanze strahlt ein schwaches, sanftes Leuchten aus. Zwar erhellt sie damit nicht die gesamte Höhle, verleiht der Atmosphäre jedoch eine einzigartige Note ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 374814,
+    "Name": "„Kleiner Zwitschi“",
+    "Description": "Ein Modell eines Zwitscherballs, inspiriert vom uralten Rotfeder-Fink, mit einem unwiderstehlich pummeligen und charmanten Aussehen.\nSo klein ein Fink auch sein mag, er strotzt nur so vor überraschender Kraft!\nWährend des Spiels könnte man sich von seiner Niedlichkeit mitreißen lassen, sodass einem unweigerlich der Satz entfährt: „Finken sind einfach die Süßesten!“",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 374815,
+    "Name": "„Gourmet-Bandit“",
+    "Description": "Ein Modell nach dem Vorbild der Pommes-stehlenden Möwe, versehen mit der finsteren Maske eines Meisterdiebs – ein wahrhaftiger „Gourmet-Räuber“.\n„Die Pummelrobbe meinte, in Natlan gäbe es Köstlichkeiten, wie man sie sonst nirgends findet. Na, dann muss ich – der Gourmet-Räuber – wohl selbst einmal kosten gehen!“",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 374816,
+    "Name": "„Marder-Meister“",
+    "Description": "Ein Modell nach dem Vorbild eines gefräßigen Bergmarders – der listige Intrigant, der gierige Möwen zu treuen Gefolgsleuten gemacht hat, die ihm Tribut zu zollen haben!\n„Ha! Diese Pommes-stehlenden Möwen sind nichts als tollpatschige Diebe ... Und ich? Ich genieße das ganze Popcorn ganz für mich allein!“",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 374817,
+    "Name": "Seelenflammen-Schneemann – „Krieger“",
+    "Description": "Ein Schneemann, für den Varesa als Vorbild diente, komplett mit ihrer charakteristischen Heldenmaske. Er fängt ihre Herzlichkeit und ihre zugängliche Art getreu ein, ohne dabei die Leidenschaft einzubüßen, die sie auszeichnet.\nUm Gästen aus ganz Teyvat zu helfen, mal runterzukommen und Spaß zu haben, hat der Schöpfer von „Jadewurf“ diesen charmanten kleinen Begleiter entworfen. Auch wenn es inmitten des Schnees auf dem Drachengrat hart sein mag, sorgt seine Anwesenheit doch für eine subtile Wärme, die lange anhält.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

@@ -383,5 +383,20 @@
     "Id": 11220003,
     "Name": "Cortina do Segredo Falso",
     "Description": "O efeito obtido depois de absorver um Núcleo da Falsidade através do Talento de Ascensão \"Aposta Sob o Luar\" de Nefer permite aumentar o Dano causado por Truque Fantástico.\nCada acúmulo de Cortina do Segredo Falso aumenta o Dano de Truque Fantástico em {PARAM#P1222101|6S100}% do original, o valor inicial de acúmulos é de até {PARAM#P1222101|1S1} por até {PARAM#P1222101|2S1}s. A duração de cada acúmulo é contada separadamente."
+  },
+  {
+    "Id": 11230001,
+    "Name": "Transmutação Essencial",
+    "Description": "Efeito obtido depois de Durin lançar a Habilidade Elemental <color=#FFD780FF>Forma Binária: Convergência e Divisão</color>, Durin ganha esse efeito por 6s.\nNessa duração, Durin pode pressionar para lançar a Habilidade Elemental e entrar no estado <color=#FFD780FF>Confirmação da Pureza</color>, ou pressionar o Ataque Normal para entrar no estado <color=#FFD780FF>Negação da Escuridão</color>.\nNesses dois estados, Durin pode obter fortalecimentos diferentes, e pode lançar Supremos diferentes."
+  },
+  {
+    "Id": 11240001,
+    "Name": "Garrafa Secreta Ronron",
+    "Description": "Pequena garrafa elemental jogada por Jahoda depois dela lançar sua Habilidade Elemental <color=#FFD780FF>Estratagema Impressionante: Plano de Redistribuição de Riqueza</color>.\nQuando Jahoda está no estado \"Perseguição Sombria\", se houver um inimigo próximo afetado por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, a Garrafa Secreta Ronron se converterá para o Tipo Elemental correspondente e encherá continuamente, priorizando a ordem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> e <color=#99FFFFFF>Cryo</color>. A Garrafa Secreta Ronron pode passar por essa Conversão Elemental uma vez por Habilidade Elemental lançada.\nQuando a Garrafa Secreta Ronron encher, Jahoda sairá do estado Perseguição Sombria e causará <color=#80FFD7FF>Dano Anemo</color> uma vez contra os inimigos próximos, e esvaziará a Garrafa Secreta Ronron.\nJahoda joga uma Garrafa Secreta Ronron nova cada vez que lançar sua Habilidade Elemental.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: quando a <color=#FFD780FF>Garrafa Secreta Ronron</color> encher, Jahoda não esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> imediatamente, mas consumirá seu Elemento continuamente por um certo tempo, e disparará <color=#FFD780FF>Bolas Miaufinhas</color> periodicamente contra os inimigos próximos, causando Dano Elemental correspondente a <color=#FFD780FF>Garrafa Secreta Ronron</color>."
+  },
+  {
+    "Id": 11240002,
+    "Name": "Coordenador Felino de Assistência Doméstica",
+    "Description": "Uma das pequenas bugigangas que Jahoda, uma ex-caçadora de tesouro, costumava levar. É jogado depois de lançar o Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color>.\nO Coordenador Felino de Assistência Doméstica regenera Vida do personagem ativo continuamente. Se o personagem que receber a Cura tiver mais de 70% de Vida, regenera Vida para o personagem próximo da equipe com Vida mais baixa.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: se houver um inimigo próximo afetado por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, o Coordenador Felino de Assistência Doméstica se converterá para o Tipo Elemental correspondente. A conversão segue a ordem de prioridade <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> e <color=#99FFFFFF>Cryo</color>. É possível passar pela Conversão Elemental uma vez por Coordenador Felino de Assistência Doméstica jogado. Depois de passar pela Conversão Elemental, o Coordenador Felino de Assistência Doméstica atacará até 3 inimigos próximos periodicamente, causando Dano Elemental correspondente."
   }
 ]

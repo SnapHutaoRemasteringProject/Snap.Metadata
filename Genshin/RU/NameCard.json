@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Сияющее сердце",
+    "Description": "Именная карта.\nНеустанный ритм сердца напоминает ему: «Ты несёшь надежды далёкого прошлого. Твоя душа юна и сияет, и в ней пылает пламя, которое не способен погасить ни один зимний буран».",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Рука помощи",
+    "Description": "Именная карта.\n«Когда дел становится слишком много, я всегда думаю: вот бы воспользоваться рукой помощи Ягоды». Кажется, обладательница этой «руки» и правда ловкая и надёжная, не так ли?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Пылающий снег",
+    "Description": "Именная карта.\nКогда выходишь навстречу ветру, снегу и дождю, важно не только одно лишь мужество, но и умение разглядеть верный путь.",
+    "SpecialDescription": "Именная карта «Пылающий снег»",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "В объятиях книг",
+    "Description": "Именная карта.\nГоворят, что сны отражают мысли, которые занимают нас днём. Возможно, то же самое можно сказать и о книгах, которые мы читаем... Хотя вряд ли это можно назвать кошмаром. Наверное.",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

@@ -888,6 +888,10 @@
         "Context": "A Sucrose é a melhor! Uma vez ela me perguntou se eu queria uma Bomba Saltitante que pudesse correr assim como saltar. Hehehe, bem, duh! Claro que sim, eu quero centenas delas! Quero colocá-las em cada rua, cada escadaria e cada praça em Mondstadt!"
       },
       {
+        "Title": "Sobre Durin",
+        "Context": "Hehe, o Durinzinho mora em Mondstadt agora — vou brincar com ele todos os dias! Vou levar ele pra explodir peixes, e ele pode me levar voando bem alto pra eu jogar a Bomba Saltitante nos peixes!"
+      },
+      {
         "Title": "Mais sobre Klee - I",
         "Context": "Olá! Você está aqui para brincar com a Klee?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Estilo de Cartão de Visita.\nBomba de Sorte da Klee. É a Bomba Saltitante ou Dodoco se observar bem a cauda?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Viagem: Sol Fugitivo",
+    "Description": "Viagem Imaginária de Klee. \"Da-da-da~ A aventura da Cavaleira das Faíscas começa!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "I DAN da Pyro da attacco normale dei personaggi aumentano di un 75%."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Pyro.",
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Electro."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "I personaggi non attivi ottengono un 75% di bonus DAN da Pyro."
+    ],
+    "SecondDescriptions": [
+      "I DAN da attacco in picchiata dei personaggi aumentano di un 75%."
+    ]
   }
 ]

@@ -2278,7 +2278,7 @@
     "RankLevel": 4,
     "ItemType": 0,
     "Name": "อัลบั้ม - The Stellar Moments",
-    "Description": "ลายนามบัตร\nพวกเราร่ำลาท่ามกลางในท่วงทำนองหนึ่งของชีวิต และพานพบอีกครั้งในอีกท่วงทำนองหนึ่ง",
+    "Description": "ลายนามบัตร\nพวกเราร่ำลาในท่วงทำนองหนึ่งของชีวิต และพานพบอีกครั้งในอีกท่วงทำนองหนึ่ง",
     "Icon": "UI_NameCardIcon_OST4",
     "Pictures": [
       "UI_NameCardPic_OST4_Alpha",
@@ -3138,6 +3138,55 @@
     "Pictures": [
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
+    ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin - หัวใจเรืองรอง",
+    "Description": "ลายนามบัตร\nหัวใจที่เต้นไม่หยุดในอกเตือนเขาว่า: \"เธอแบกรับความหวังจากอดีตอันแสนไกล เธอครอบครองดวงวิญญาณอันงดงามและใหม่เอี่ยม ด้วยเหตุนี้ เปลวร้อนที่เธอกอบกุมไว้ จะไม่มีวันถูกหิมะและน้ำแข็งกลบฝังได้อีกต่อไป\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda - ผู้ช่วย",
+    "Description": "ลายนามบัตร\n\"ตอนที่ยุ่งมาก ๆ อยากจะขอยืมมือของ Jahoda มาช่วยเลย\" ...นี่คงบ่งบอกว่ามือคู่นั้นเป็นของคนที่ทั้งว่องไวและไว้ใจได้ ต้องเป็นอย่างนั้นแน่นอน!",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "บันทึก - หิมะโชติช่วง",
+    "Description": "ลายนามบัตร\nในการเดินหน้าฝ่าสายฝนและพายุหิมะ สิ่งที่สำคัญที่สุดไม่ใช่ความกล้าหาญที่เต็มเปี่ยมในหัวใจ แต่เป็นความละเอียดรอบคอบในการหาทิศทางที่จะก้าวเดินต่อไป",
+    "SpecialDescription": "ลายนามบัตร \"บันทึก - หิมะโชติช่วง\"",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "การฉลอง - อ่านฝัน",
+    "Description": "ลายนามบัตร\nว่ากันว่า \"สิ่งที่คิดในยามกลางวัน จะกลายเป็นสิ่งที่ฝันถึงในยามค่ำคืน\" บางทีเนื้อหาในหนังสือที่อ่าน อาจจะปรากฏในความฝันในรูปแบบที่แตกต่างออกไป... เอ่อ คงไม่ใช่ฝันร้ายหรอกมั้ง?",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
     ]
   }
 ]

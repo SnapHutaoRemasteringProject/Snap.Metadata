@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "Barbara? Sie ist eine sehr ernsthafte Bischöfin. Ich hatte einmal Gelegenheit, ihr ein einfaches Porträt zu zeichnen ... Was mit der Zeichnung passiert ist? Oh ja ... Albert hat angeboten, es zu kaufen, doch ich habe sein Angebot abgelehnt und es dem Stellvertretenden Großmeister gegeben. Soziale Beziehungen ... erfordern wirklich sehr viel Aufwand."
       },
       {
+        "Title": "Über Durin ...",
+        "Context": "Mein Bruder lernt zurzeit so vieles dazu. Er ist klug und denkt mit echter Leidenschaft über die Welt nach – was manchmal zu Schwierigkeiten führt, aber seine Begeisterung dabei nie schwächer wird. Seit er zu unserer Familie gehört, sehe ich zwischenmenschliche Bindungen mit ganz anderen Augen. Jetzt, da meine engsten Vertrauten um mich sind, fühlt sich unser Zuhause viel lebendiger an – und das ist ohne Zweifel etwas Gutes."
+      },
+      {
         "Title": "Ich will mehr über Albedo erfahren I",
         "Context": "Hast du eine Frage an mich? Nur los, frag ruhig. Es dauert nicht allzu lang, eine einzige Frage zu stellen, oder? Ich stehe kurz vor der Einleitung der finalen Phase eines Experiments."
       },
@@ -1092,5 +1100,11 @@
     "Description": "Ein Motiv für Namenskärtchen.\nErlaube mir, diesem Wunder beizuwohnen.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Echo – Kreideprinz",
+    "Description": "Albedos Gemalte Echos. „Aus dem lodernden Nigredo erblüht die Sonnennachbildung.“",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

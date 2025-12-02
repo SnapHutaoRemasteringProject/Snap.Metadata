@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Gatito perezoso",
     "Description": "Un juguete mecánico inspirado en un célebre gato negro con varios botones interactivos.\nFiel a la fama enigmática de los felinos, su diseñador incorporó un curioso sistema de reacciones: ciertas acciones hacen que el gato emita un ronroneo de satisfacción, mientras que otras hacen que el gato que parecía adormilado salte de pronto...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363411,
+    "Name": "Brillo maravilloso",
+    "Description": "Una lámpara de mesa compuesta por una base y tres bombillas flotantes, cuyo diseño único está inspirado en los dispositivos de iluminación de la Villa Nasha.\n“¿Cómo puede flotar y brillar al mismo tiempo?”. La capacidad de las bombillas para flotar parece estar relacionada con el kuuvahki, una maravilla que nunca deja de sorprender a los visitantes extranjeros que pasan por allí.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363412,
+    "Name": "Ruleta de la fortuna",
+    "Description": "Una ruleta de la suerte que se puede ver en la Villa Nasha. Tiene un indicador giratorio en el centro que se puede mover libremente para apuntar a vasos de diferentes colores que representan distintos significados.\n“Gira la ruleta y, cuando se detenga, ¡“Perrito caliente” te leerá tu fortuna de hoy!”. Por supuesto, si no te satisface el primer resultado, no dudes en hacerla girar de nuevo...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363413,
+    "Name": "Explosión de apetito",
+    "Description": "Un plato muy común en la Villa Nasha que suele estar repleto de pan y salchichas.\nPan dorado y crujiente, salchichas chisporroteando de grasa... Seguramente, la mayoría de viajeros hambrientos no podrían resistirse a la tentación de esta comida, pero una vez que se convierten en decoración dentro de la Relajatetera, estos alimentos solo cumplen la función de despertar el apetito...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363386,
+    "Name": "Explorasaurito",
+    "Description": "Un muñeco inspirado en una Cría de Iktomisaurio, construido en torno al mecanismo central de los compañeros de exploración de Sumeru. Se trata de un adorable y fiable amigo de los aventureros capaz de ayudar a investigar monstruos y estudiar el terreno.\nBasándose tanto en su experiencia como en las necesidades de los aventureros, el topógrafo de avanzada Mika rediseñó por completo el explorasaurito para mejorar su precisión cartográfica y su agilidad. También eligió la forma de una Cría de Iktomisaurio para plasmar su aguda percepción del entorno. Al fin y al cabo, en un mundo lleno de peligros, un compañero astuto e inteligente es alguien en quien siempre se puede confiar.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 364225,
+    "Name": "Anuncio de taberna: Rumores urbanos",
+    "Description": "Un tablón de anuncios que se usa para publicar recompensas en el Buque Insignia. Es lo suficientemente amplio como para pegar una gran cantidad de avisos de recompensas.\nAunque la mayoría considera que las cuantiosas recompensas de las misiones complejas están fuera de su alcance, a menudo reconstruyen una extraña leyenda urbana tras otra al examinar minuciosamente el extenso texto informativo...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374637,
+    "Name": "Un segundo fugaz",
+    "Description": "Una creación mecánica que se encuentra en el Taller de Krumkake Cling-clang, con brazos mecánicos compactos y precisos.\n“‘Un segundo fugaz’ puede con todo”. Su eficiencia de trabajo es muy alta, pero no puede completar todas las tareas en “un segundo”: probablemente, su inventora pensó que esta era la velocidad más impecable que los clientes podrían concebir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 373939,
+    "Name": "Detector portátil utilitario",
+    "Description": "Un detector común en la Villa Nasha, usado principalmente para encontrar materiales útiles entre los desechos que necesitan ser procesados. Sin embargo, la mayoría de las cosas que hacen que el detector empiece a sonar suelen ser objetos extraños y curiosos, como los lentes de sol que se le cayeron a algún señor por accidente, o el botón que perdió alguna señorita...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374639,
+    "Name": "Superasado legendario",
+    "Description": "Una máquina de la Villa Nasha utilizada para asar carne, capaz de mantener la carne en su punto más tierno y jugoso bajo un calor constante.\nSe dice que quienes se encargan de asar la carne siempre tararean inconscientemente melodías alegres y espontáneas mientras atienden esta máquina...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374640,
+    "Name": "Caballito balancín",
+    "Description": "Una atracción típica de la Villa Nasha, construida completamente con a partir de chatarra abandonada, pero muy apreciada por los niños.\nLas risas flotan en el aire, el cuerpo del niño se balancea junto con el caballito, y las preocupaciones se desvanecen con la ligereza de una pluma.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374641,
+    "Name": "Torre bipolar con trípode vertical",
+    "Description": "Una torre con trípode que se encuentra en el Taller de Krumkake Cling-clang y que posee un diseño peculiar.\nSegún se dice, esta torre con trípode fue modificada a partir de una misteriosa maquinaria que quedó de la Era Dorada. Su función específica ya no se conoce y solo sirve como decoración.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible en cierta misión de Arconte"
+    ],
+    "Id": 374811,
+    "Name": "Junto a ti",
+    "Description": "Un lugar temático para tomarse imágenes inspirado en la amistad entre los ciervos astaglaciales y los tejones mantomelena. Está equipado con luces para que los visitantes puedan hacerse fotos incluso tras el anochecer.\n“Parece... un tejón mantomelena haciendo el tonto y... un ciervo astaglacial que está a punto de quedarse dormido”.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible en cierta misión de Arconte"
+    ],
+    "Id": 373222,
+    "Name": "Flor sin fragancia",
+    "Description": "Un parterre modificado para complementar el ambiente de la Noche Rezolunar, cuyas flores mecánicas pueden emitir una luz brillante y cálida durante la noche.\n“Qué raro... ¡pero en Nod Krai, tampoco es tan raro!”, dicen algunos viajeros foráneos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374812,
+    "Name": "Combatiente ferviente: Fietena",
+    "Description": "Una figura inspirada en Fietena, la feroz protagonista del popular cómic «La saga de los combatientes fervientes». Su llamativa pose captura tanto su espíritu intrépido como su inquebrantable pasión por la batalla.\n“¡Vamos juntos! ¡No retrocederé!”.\nAunque la frase “vamos juntos” no siempre conduce a una victoria perfecta, la pasión que compartieron y el esfuerzo que hicieron fueron reales. Tal vez, algún día, todo ello se convierta en algo brillante, algo que puedan recordar sin remordimientos.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible en cierta misión de Arconte"
+    ],
+    "Id": 374813,
+    "Name": "Dodoaventura giratoria",
+    "Description": "Una atracción de un Dodoco giratorio que se disfruta mejor con dos pasajeros, patrocinada nada más y nada menos que por la gran bruja en persona.\n“Vengan y móntense en un suave Dodoco para vivir una aventura inolvidable”.\nPuede que el Dodoco se acabe deteniendo en algún momento, pero para ti y para quien te acompañe, siempre habrá otro viaje a la espera de comenzar.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible con la compra del PB Himno de la Perla"
+    ],
+    "Id": 374818,
+    "Name": "Dragón al ataque",
+    "Description": "Una estatua inspirada en un dragón sacado de un cuento de hadas. Sus alas cuelgan hacia abajo y su expresión es de concentración, como si estuviera listo para entrar en acción.\nLa interacción permite montarse en la espalda del dragón, momento en el que se activan mecanismos internos que transforman su comportamiento. Los ojos se agrandan, las alas baten y la cola se mueve, como si le estuviera diciendo a su jinete: “¿Estás listo? ¡Vamos a despegar!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360467,
+    "Name": "Caminante Solitario",
+    "Description": "Las farolas que iluminan el Taller de Krumkake Cling-clang poseen un diseño único que se asemeja a un viajero caminando con la cabeza gacha.\nAl caer la noche, las farolas se encienden silenciosamente: “Son farolas muy altas. ¿Estarán bien su cintura y su espalda?”.\nCosas como esa suelen comentar algunos transeúntes.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible en cierta misión de Arconte"
+    ],
+    "Id": 360468,
+    "Name": "Luz inmutable",
+    "Description": "Esta lámpara de iluminación hecha completamente de hojalata imita la forma de la Luna Nueva. Sin importar si es de día o de noche, emite silenciosamente una luz tenue y delicada.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372516,
+    "Name": "Susurro suavebrumoso",
+    "Description": "Un arbusto de color rosa que crece cerca del suelo, con racimos de tallos finos y erguidos.\nA menudo se extiende en parches amplios y frondosos. Desde la distancia, parece una suave niebla rosa que flota por encima de la tierra, como si la propia naturaleza susurrara con voz suave.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372517,
+    "Name": "Despedida del pasado",
+    "Description": "Una especie de planta cavernícola caracterizada por tallos delgados y flexibles y hojas en forma de abanico.\nEstas plantas son increíblemente resistentes. Independientemente de las condiciones, sus delgadas ramas y hojas siempre se mecen suavemente con la brisa, como si cada una de ellas estuviera despidiéndose silenciosamente del pasado.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372518,
+    "Name": "Estambre brillotenue",
+    "Description": "Una planta cavernícola de color rosa ahumado con hojas que se extienden suavemente, cada una de las cuales termina en zarcillos delgados que se asemejan a los estambres de una flor.\nEsta planta emite un brillo tenue y suave. Puede que no ilumine toda una cueva, pero le da un toque único al ambiente.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374814,
+    "Name": "Minigordi",
+    "Description": "Un modelo de gordibolita rebotante basado en el pinzón plumanaranja ancestral, con una apariencia adorablemente regordita.\n¡Incluso un diminuto pinzón posee una fuerza tremenda!\nMientras juegas con la gordibolita, te contagiarás de su ternura y al final gritarás sin darte cuenta esa frase: “¡Los pinzones son de lo más adorable!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374815,
+    "Name": "Ladrona culinaria",
+    "Description": "Un modelo basado en la gaviota ladrona de papas fritas. Con una máscara malvada de bandido, es una auténtica “ladrona culinaria”.\n“Las Focas Abotargadas dicen... que Natlan posee manjares únicos. ¡Jeje, entonces yo, la ladrona culinaria, tengo que ir a probarla a toda costa!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374816,
+    "Name": "Hurón astuto",
+    "Description": "Un modelo basado en el hurón glotón de montaña. Es el hurón astuto que domesticó a las gaviotas para que le traigan tributos.\n“Como digo, esas gaviotas ladronas de papas fritas son solo unas tontas que solo saben robar... ¡mientras que yo disfrutaré de todas las palomitas!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374817,
+    "Name": "Muñeco de nieve ferviente: Guerrera hábil",
+    "Description": "Un muñeco de nieve inspirado en Varesa, con su característica máscara de heroína. Captura muy fielmente su calidez y su espíritu apasionado.\nEl creador de “Tiro de jade” diseñó este pequeño y encantador compañero para ayudar a los huéspedes de todo Teyvat a relajarse y divertirse. Aunque las nieves de Espinadragón pueden ser muy traicioneras, su presencia aporta una sutil calidez que perdura en el ambiente.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

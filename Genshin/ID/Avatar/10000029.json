@@ -888,6 +888,10 @@
         "Context": "Sucrose adalah yang terbaik! Pernah suatu kali dia tanya ke aku mau tidak Jumpy Dumpty yang bisa lari dan lompat. Hehe, ya aku pasti mau dong! Aku jelas mau banget, aku mau seratus Jumpy Dumpty kayak gitu! Aku bakal taruh di setiap sisi jalan, setiap anak tangga, terus di setiap sudut Mondstadt juga!"
       },
       {
+        "Title": "Tentang Durin",
+        "Context": "Hehe, Kakak Durin sekarang tinggal di Mondstadt ... jadi Klee mau main sama dia setiap hari! Klee bakal ajak meledakkan ikan, terus dia bisa menerbangkan Klee tinggi-tinggi buat lemparin Jumpy Dumpty ke ikan-ikan!"
+      },
+      {
         "Title": "Mengenal Klee: I",
         "Context": "Halo! Apa kamu datang buat main sama Klee?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Style kartu nama.\nBom keberuntungan milik Klee. Amati ekornya lalu tebak apakah ini Jumpty Dumpty atau Dodoco?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo: Fleeing Sunlight",
+    "Description": "Envisaged Echo milik Klee. \"Dadada~ Petualangan Spark Knight dimulai!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

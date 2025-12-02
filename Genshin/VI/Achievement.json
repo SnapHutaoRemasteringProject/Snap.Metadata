@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "QUEST CLEAR",
-    "Description": "Hoàn thành 10 lần \"Thưởng Thảo Phạt\".",
+    "Description": "Hoàn thành 3 lần \"Thưởng Thảo Phạt\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "QUEST CLEAR",
-    "Description": "Hoàn thành 20 lần \"Thưởng Thảo Phạt\".",
+    "Description": "Hoàn thành 6 lần \"Thưởng Thảo Phạt\".",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "QUEST CLEAR",
-    "Description": "Hoàn thành 30 lần \"Thưởng Thảo Phạt\".",
+    "Description": "Hoàn thành 9 lần \"Thưởng Thảo Phạt\".",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Dũng Giả Tập Sự",
-    "Description": "Hoàn thành 10 lần \"Khẩn cầu của cư dân\".",
+    "Description": "Hoàn thành 3 lần \"Khẩn cầu của cư dân\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Dũng Giả Tập Sự",
-    "Description": "Hoàn thành 20 lần \"Khẩn cầu của cư dân\".",
+    "Description": "Hoàn thành 6 lần \"Khẩn cầu của cư dân\".",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Dũng Giả Tập Sự",
-    "Description": "Hoàn thành 30 lần \"Khẩn cầu của cư dân\".",
+    "Description": "Hoàn thành 9 lần \"Khẩn cầu của cư dân\".",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Lâu Đài Di Động Của Drzislav",
+    "Description": "Đánh bại một Chiến Hạm Lục Chiến Hạng Nặng - Pháo Đài Di Động đã từng bị tê liệt ít nhất 2 lần vì quá nhiệt.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Một Ngày Quan Trọng",
+    "Description": "Ngày lễ phải thật vui!",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Đêm Cầu Nguyệt",
+    "Description": "Tận hưởng đêm cuối cùng ở thế giới dưới ánh trăng.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Giữa Vĩnh Hằng Và Khoảnh Khắc",
+    "Description": "Ánh trăng sẽ mãi mãi kết nối chúng ta, bất kể ngày đêm.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Ánh Trăng Tan Trong Sương Sớm",
+    "Description": "Hoàn thành \"Ánh Trăng Tan Trong Sương Sớm\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Khi Nâng Đá Lên",
+    "Description": "Không chừng sẽ có thu hoạch bất ngờ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Như Bong Bóng Trong Mơ",
+    "Description": "Chứng kiến \"lịch sử\" từng diễn ra tại nơi đây.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Dấu Vết Giao Thoa",
+    "Description": "Mọi người đã từng lướt qua nhau vào một thời khắc nào đó...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Thơ Dạ Hành Cực Bắc",
+    "Description": "Hoàn thành \"Thơ Dạ Hành Cực Bắc\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

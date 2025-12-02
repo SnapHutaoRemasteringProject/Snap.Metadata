@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin - Cœur radieux",
+    "Description": "Thème.\nSon cœur bat sans relâche dans sa poitrine pour lui rappeler : « Tu portes les espoirs d'un passé lointain. Ton âme resplendissante est naissante, et en toi brûle une ferveur qu'aucune tempête hivernale ne pourra jamais éteindre. »",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda - Aide",
+    "Description": "Thème.\n« Quand la situation me dépasse, j'aimerais bien emprunter la main de Jahoda. » Cela signifie sûrement que la propriétaire de cette main « prête à prêter main forte » est à la fois agile et fiable, non ?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "PB - Givre-flamme",
+    "Description": "Thème.\nLorsque l'on brave le vent, la neige et la pluie, ce qui compte vraiment, ce n'est pas seulement le courage. C'est aussi la capacité à discerner avec minutie la bonne voie à suivre.",
+    "SpecialDescription": "Thème PB - Givre-flamme",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Célébration - Lecture de rêves",
+    "Description": "Thème.\nOn dit que les pensées en journées se reflètent dans les rêves la nuit. Peut-être en va-t-il de même pour le contenu des livres qu'on lit... Ils ne doivent quand même pas se manifester sous forme de cauchemar, pas vrai ?",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

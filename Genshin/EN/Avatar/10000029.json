@@ -888,6 +888,10 @@
         "Context": "Sucrose is the best! This one time she asked me if I wanted a Jumpy Dumpty that can run as well as jump. Tee-hee, well duh! Of course I do, I want hundreds of them! I wanna put them on every street, every staircase, and every square in Mondstadt!"
       },
       {
+        "Title": "About Durin",
+        "Context": "Hehe, Durin lives in Mondstadt now — I'm going to play with him every day! I'll take him fish blasting, and he can fly me up high to throw Jumpy Dumpty at the fish!"
+      },
+      {
         "Title": "More About Klee: I",
         "Context": "Hello, are you here for playtime with Klee?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Namecard style.\nKlee's lucky explosive — can you tell if it's Jumpy Dumpty or Dodoco? (Hint: Look carefully at the tail...)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo: Fleeing Sunlight",
+    "Description": "Klee's Envisaged Echo. \"Da-da-da~ The Spark Knight's off on an adventure!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

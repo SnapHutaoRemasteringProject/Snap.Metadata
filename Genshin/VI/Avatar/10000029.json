@@ -888,6 +888,10 @@
         "Context": "Chị Sucrose là người tốt! Chị ấy hỏi em có muốn một chiếc bom nảy vừa có thể chạy vừa có thể nhảy không? Hihi, đương nhiên là muốn rồi, em còn muốn có mấy trăm cái, để trên đường phố, trên bậc thang, trên quảng trường Mondstadt đều là bom nảy!"
       },
       {
+        "Title": "Về Durin...",
+        "Context": "Tuyệt quá! Anh Durin Nhỏ giờ sống ở Mondstadt, em sẽ tìm anh ấy chơi mỗi ngày! Khi đi nổ cá bằng bom, em muốn nhờ anh Durin Nhỏ đưa em bay lên thật cao để ném bom từ trên trời xuống!"
+      },
+      {
         "Title": "Muốn tìm hiểu Klee - Điều thứ 1",
         "Context": "#Xin chào! {F#Chị}{M#Anh} đến tìm Klee chơi à?"
       },
@@ -1116,5 +1120,11 @@
     "Description": "Hoa văn danh thiếp.\nBom may mắn của Klee. Nhìn kỹ phần đuôi, nói cho mọi người biết đây là bom nảy hay là Dodoco?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Vết Tích - Mặt Trời Chạy Trốn",
+    "Description": "Vết Tích Tưởng Tượng của Klee. \"Dada~ Kỵ Sĩ Tia Lửa, mạo hiểm bắt đầu!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

@@ -1179,5 +1179,29 @@
     "SecondDescriptions": [
       "キャラクターの通常攻撃による炎元素ダメージ+75%。"
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "（破棄）",
+      "チーム全員の炎元素ダメージ+60%。",
+      "チーム全員の雷元素ダメージ+60%。"
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "待機中キャラクターの炎元素ダメージ+75%。"
+    ],
+    "SecondDescriptions": [
+      "キャラクターの落下攻撃によるダメージ+75%。"
+    ]
   }
 ]

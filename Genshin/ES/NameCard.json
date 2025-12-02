@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin - Corazón resplandeciente",
+    "Description": "Diseño de tarjeta de presentación.\nEl incesante latido de su pecho le recuerda lo siguiente: “Llevas contigo las esperanzas de un pasado lejano. Tu alma es resplandeciente y naciente, y en tu interior arde un fervor que ninguna ventisca invernal puede apagar”.",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda - Ayudante",
+    "Description": "Diseño de tarjeta de presentación.\n“Cuando hay mucho trabajo, ¡ojalá pudiera pedir prestadas las manos de Jahoda!”. Sin duda, eso significa que la dueña de esas “manos prestables” es ágil y fiable, ¿verdad?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "PB - Nieves ardientes",
+    "Description": "Diseño de tarjeta de presentación.\nAl enfrentar el viento, la nieve y la lluvia, lo que realmente importa no es solo la valentía, sino un discernimiento cuidadoso para encontrar el camino correcto que seguir.",
+    "SpecialDescription": "#Diseño de tarjeta de presentación: PB{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Nieves ardientes",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Celebración - Lectura onírica",
+    "Description": "Diseño de tarjeta de presentación.\nComo dice el dicho: “En lo que piensas de día, sueñas de noche”. Tal vez el contenido de los libros que lees también aparezca en tus sueños de otra forma... Aunque esperemos que no sea en forma de pesadillas.",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

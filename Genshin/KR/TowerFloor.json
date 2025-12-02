@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "캐릭터가 일반 공격으로 주는 불 원소 피해가 75% 증가한다"
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "파티 내 모든 캐릭터가 불 원소 피해 보너스를 60% 획득한다",
+      "파티 내 모든 캐릭터가 번개 원소 피해 보너스를 60% 획득한다"
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "대기 상태인 캐릭터가 불 원소 피해 보너스를 75% 획득한다"
+    ],
+    "SecondDescriptions": [
+      "캐릭터가 낙하 공격으로 주는 피해가 75% 증가한다"
+    ]
   }
 ]

@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin: Cuore raggiante",
+    "Description": "Stile per la carta giocatore.\nIl battito incessante nel suo petto gli permette di non dimenticare queste parole: \"Tu sostieni le speranza di un lontano passato, e possiedi un'anima tanto risplendente quanto nascente. In te brucia un fervore che nessuna tormenta potrà mai smorzare\".",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda: Una mano amica",
+    "Description": "Stile per la carta giocatore.\n\"Quando ho troppe cose da fare, vorrei poter prendere in prestito le mani di Jahoda!\" Questo significa che la persona a cui appartengono queste \"mani prestabili\" è tanto agile quanto affidabile, giusto?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Appunti di viaggio: Neve ardente",
+    "Description": "Stile per la carta giocatore.\nPer avanzare attraverso vento, neve e pioggia, ciò che conta non è il semplice coraggio, ma l'oculatezza per trovare il giusto cammino.",
+    "SpecialDescription": "Stile per la carta giocatore Appunti di viaggio: Neve ardente",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Celebrazione: Lettore di sogni",
+    "Description": "Stile per la carta giocatore.\nSi dice che i sogni notturni riflettano i pensieri diurni. Ciò potrebbe valere anche per i libri che vengono letti... Anche se questo probabilmente non conta come incubo. Forse.",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

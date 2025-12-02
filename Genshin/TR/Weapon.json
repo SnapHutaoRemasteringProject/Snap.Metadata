@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Karanlık Ayin Kılıcı",
+    "Description": "Küçük cadının hikayesinde Gündüz Kralı tarafından cesur kahramana hediye edilen değerli bir kılıç. Cadı bu kılıcı alıp kahramanı bizzat yenmiştir.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Gündüz Kralı'nın Işıltısı",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Element Patlamalarından gelen Kritik Hasar <color=#99FFFFFF>%16</color> artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı <color=#99FFFFFF>%20</color> artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları <color=#99FFFFFF>%16</color> artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+        },
+        {
+          "Level": 1,
+          "Description": "Element Patlamalarından gelen Kritik Hasar <color=#99FFFFFF>%20</color> artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı <color=#99FFFFFF>%25</color> artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları <color=#99FFFFFF>%20</color> artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+        },
+        {
+          "Level": 2,
+          "Description": "Element Patlamalarından gelen Kritik Hasar <color=#99FFFFFF>%24</color> artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı <color=#99FFFFFF>%30</color> artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları <color=#99FFFFFF>%24</color> artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+        },
+        {
+          "Level": 3,
+          "Description": "Element Patlamalarından gelen Kritik Hasar <color=#99FFFFFF>%28</color> artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı <color=#99FFFFFF>%35</color> artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları <color=#99FFFFFF>%28</color> artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+        },
+        {
+          "Level": 4,
+          "Description": "Element Patlamalarından gelen Kritik Hasar <color=#99FFFFFF>%32</color> artar. Element Patlaması bir düşmana isabet ettiğinde Gün Işığı Kılıcı etkisi kazanılır: Saldırı <color=#99FFFFFF>%40</color> artar. Kuşanan karakter dışında yakındaki aktif grup üyelerinin 3 saniyeliğine Saldırıları <color=#99FFFFFF>%32</color> artar.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken Gün Işığı Kılıcı etkisi %75 daha artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Gökkuşağı Yılanının Yağmur Yayı",
+    "Description": "Gece Rüzgarının Ustalarının nesilden nesile aktardığı kadim bir tören silahı. Bu karanlık yay, sonsuza dek sarsılmaz bir soğukla sarılıdır.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Kutsal Taht Ardında Kozmik Fısıltılar",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı <color=#99FFFFFF>%28</color> artar."
+        },
+        {
+          "Level": 1,
+          "Description": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı <color=#99FFFFFF>%35</color> artar."
+        },
+        {
+          "Level": 2,
+          "Description": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı <color=#99FFFFFF>%42</color> artar."
+        },
+        {
+          "Level": 3,
+          "Description": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı <color=#99FFFFFF>%49</color> artar."
+        },
+        {
+          "Level": 4,
+          "Description": "Kuşanan karakter savaş alanında değilken saldırıları düşmana isabet ettiğinde 8 saniyeliğine Saldırı <color=#99FFFFFF>%56</color> artar."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Şafak Günlükleri",
+    "Description": "Direniş şarkıları buraya rüzgarla taşınır ve yumuşak ezgiler halinde bu tellere yerleşir. Birleşmiş güçleri, sonsuz karanlığı şafağın ışığıyla yırtıp atacak kadar kudretlidir.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Zamanın Ötesindeki Ağıt",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%60</color> artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye <color=#99FFFFFF>%10</color> azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu <color=#99FFFFFF>%60</color> olana kadar <color=#99FFFFFF>%10</color> artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı <color=#99FFFFFF>%20</color> olur."
+        },
+        {
+          "Level": 1,
+          "Description": "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%75</color> artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye <color=#99FFFFFF>%12,5</color> azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu <color=#99FFFFFF>%75</color> olana kadar <color=#99FFFFFF>%12,5</color> artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı <color=#99FFFFFF>%25</color> olur."
+        },
+        {
+          "Level": 2,
+          "Description": "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%90</color> artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye <color=#99FFFFFF>%15</color> azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu <color=#99FFFFFF>%90</color> olana kadar <color=#99FFFFFF>%15</color> artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir tetiklenebilir. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı <color=#99FFFFFF>%30</color> olur."
+        },
+        {
+          "Level": 3,
+          "Description": "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%105</color> artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye <color=#99FFFFFF>%17,5</color> azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu <color=#99FFFFFF>%105</color> olana kadar <color=#99FFFFFF>%17,5</color> artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı <color=#99FFFFFF>%35</color> olur."
+        },
+        {
+          "Level": 4,
+          "Description": "Kuşanan karakter Şafağın Coşkulu Esintisi kazanır: Savaştan çıktıktan 3sn sonra Normal Saldırı, Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%120</color> artar. Savaş sırasında bu Hasar Bonusu %0 olana kadar her saniye <color=#99FFFFFF>%20</color> azalır. Kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, ilgili Hasar türündeki Hasar Bonusu <color=#99FFFFFF>%120</color> olana kadar <color=#99FFFFFF>%20</color> artar. Bu etki, yukarıda belirtilen her saldırı türü için 0,1 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir.\nAyrıca grup Cadılık: Saklı Ayin etkilerine sahipken kuşanan karakterin Normal Saldırıları, Element Becerileri veya Element Patlamaları bir düşmana isabet ettiğinde, tüm bu Hasar türlerindeki Hasar Bonusu artışı <color=#99FFFFFF>%40</color> olur."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

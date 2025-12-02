@@ -383,5 +383,20 @@
     "Id": 11220003,
     "Name": "Bức Màn Lừa Dối",
     "Description": "Hiệu quả nhận được sau khi Nefer hấp thụ Hạt Dối Trá thông qua thiên phú đột phá \"Đánh Cược Dưới Trăng\", giúp tăng sát thương Ảo Kịch gây ra.\nMỗi tầng Bức Màn Lừa Dối sẽ tăng sát thương khi Nefer thi triển Ảo Kịch thêm {PARAM#P1222101|6S100}%. Ban đầu tối đa cộng dồn {PARAM#P1222101|1S1} tầng, duy trì {PARAM#P1222101|2S1}s, mỗi tầng tính giờ riêng."
+  },
+  {
+    "Id": 11230001,
+    "Name": "Chuyển Hóa Tinh Chất",
+    "Description": "Hiệu quả nhận được sau khi Durin thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Nhị Nguyên - Hội Tụ Và Phân Chia</color>, duy trì 6s.\nTrong thời gian duy trì, Durin có thể nhấn Kỹ Năng Nguyên Tố để vào trạng thái <color=#FFD780FF>Xác Nhận Hóa Trắng</color>, hoặc nhấn Tấn Công Thường để vào trạng thái <color=#FFD780FF>Phủ Nhận Độ Đen</color>.\nTrong hai trạng thái này, Durin sẽ nhận các hiệu ứng cường hóa khác nhau và có thể thi triển Kỹ Năng Nộ khác nhau."
+  },
+  {
+    "Id": 11240001,
+    "Name": "Bình Kho Báu Khò Khè",
+    "Description": "Bình nguyên tố cỡ nhỏ Jahoda lấy ra sau khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Kỳ Sách - Cách Phân Chia Của Cải</color>.\nKhi Jahoda trong trạng thái Ảo Ảnh Truy Kích, nếu kẻ địch ở gần đang bị gán ấn Nguyên Tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color> hoặc <color=#99FFFFFF>Băng</color>, Bình Kho Báu Khò Khè sẽ chuyển hóa thành loại nguyên tố tương ứng và liên tục nạp dần, đồng thời sẽ chuyển hóa dựa trên mức độ ưu tiên Nguyên Tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color>, <color=#99FFFFFF>Băng</color>. Sau mỗi lần thi triển Kỹ Năng Nguyên Tố, Bình Kho Báu Khò Khè tối đa được tiến hành một lần chuyển hóa.\nKhi Bình Kho Báu Khò Khè được nạp đầy, Jahoda sẽ thoát trạng thái Ảo Ảnh Truy Kích, gây một lần <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> cho kẻ địch ở gần và xóa sạch Bình Kho Báu Khò Khè.\nMỗi lần thi triển Kỹ Năng Nguyên Tố, Jahoda đều sẽ lấy ra một Bình Kho Báu Khò Khè mới.\n\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>: Khi <color=#FFD780FF>Bình Kho Báu Khò Khè</color> được nạp đầy, Jahoda sẽ không lập tức xóa sạch <color=#FFD780FF>Bình Kho Báu Khò Khè</color>, mà trong một khoảng thời gian sau đó sẽ liên tục tiêu hao nguyên tố trong bình và phóng <color=#FFD780FF>Bóng Mèo Mềm Mại</color> lên kẻ địch ở gần theo chu kỳ, gây sát thương nguyên tố tương ứng với <color=#FFD780FF>Bình Kho Báu Khò Khè</color>."
+  },
+  {
+    "Id": 11240002,
+    "Name": "Thiết Bị Điều Phối Giúp Việc Dạng Mèo",
+    "Description": "Một trong những đạo cụ nhỏ mà Jahoda - cựu thợ săn kho báu luôn mang theo bên mình, được lấy ra sau khi thi triển Kỹ Năng Nộ <color=#FFD780FF>Bí Khí - Bảy Đạo Cụ Thợ Săn</color>.\nThiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ liên tục hồi phục HP cho nhân vật ra trận hiện tại trong đội bản thân. Nếu HP của nhân vật nhận trị liệu trên 70%, sẽ đồng thời hồi phục HP cho nhân vật có HP thấp nhất trong đội ở gần.\n\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>: Nếu kẻ địch ở gần đang bị gán ấn Nguyên Tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color> hoặc <color=#99FFFFFF>Băng</color>, Thiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ chuyển hóa thành loại nguyên tố tương ứng, và sẽ chuyển hóa dựa trên mức độ ưu tiên <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color>, <color=#99FFFFFF>Băng</color>. Sau mỗi lần lấy ra Thiết Bị Điều Phối Giúp Việc Dạng Mèo, tối đa được chuyển hóa nguyên tố một lần theo cách này. Sau khi kích hoạt chuyển hóa nguyên tố, Thiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ tấn công tối đa 3 kẻ địch ở gần theo chu kỳ, gây Sát Thương Nguyên Tố tương ứng."
   }
 ]

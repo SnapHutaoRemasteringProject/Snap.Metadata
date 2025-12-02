@@ -3139,5 +3139,54 @@
       "UI_NameCardPic_Bp45_Alpha",
       "UI_NameCardPic_Bp45_P"
     ]
+  },
+  {
+    "Id": 210263,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Durin: Parlak Kalp",
+    "Description": "İsim Kartı arka planı.\nGöğsündeki durmak bilmeyen kalp atışlarının sesi ona şunu hatırlatır: \"Uzak bir geçmişin umutlarını taşıyorsun. Ruhun ışıl ışıl ve taptaze, içinde kış fırtınalarının bile dindiremeyeceği bir coşkunun ateşi var.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "Pictures": [
+      "UI_NameCardPic_Durin_Alpha",
+      "UI_NameCardPic_Durin_P"
+    ]
+  },
+  {
+    "Id": 210264,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Jahoda: Yardım Eli",
+    "Description": "İsim Kartı arka planı.\n\"İşler çok yoğunlaştığında keşke Jahoda'nın ellerini ödünç alabilseydim!\" Bu cümle, \"ödünç verilebilir ellerin\" sahibinin hem çevik hem de güvenilir biri olduğu anlamına geliyordur, değil mi?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "Pictures": [
+      "UI_NameCardPic_Jahoda_Alpha",
+      "UI_NameCardPic_Jahoda_P"
+    ]
+  },
+  {
+    "Id": 210265,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Gezi Notları: Alevli Karlar",
+    "Description": "İsim Kartı arka planı.\nRüzgara, kara ve yağmura meydan okurken önemli olan tek şey cesaret değil, aynı zamanda doğru yolu bulmak için gösterilen muhakeme becerisidir.",
+    "SpecialDescription": "\"Gezi Notları: Alevli Karlar\" İsim Kartı arka planı.",
+    "Icon": "UI_NameCardIcon_Bp46",
+    "Pictures": [
+      "UI_NameCardPic_Bp46_Alpha",
+      "UI_NameCardPic_Bp46_P"
+    ]
+  },
+  {
+    "Id": 210266,
+    "RankLevel": 4,
+    "ItemType": 0,
+    "Name": "Kutlama: Rüya Okuyucu",
+    "Description": "İsim Kartı arka planı.\nGece görülen rüyaların gündüz düşüncelerini yansıttığı söylenir. Belki de bu, okunan kitaplar için de geçerlidir... Gerçi bu muhtemelen bir kabus sayılmaz. Muhtemelen...",
+    "Icon": "UI_NameCardIcon_Green",
+    "Pictures": [
+      "UI_NameCardPic_Green_Alpha",
+      "UI_NameCardPic_Green_P"
+    ]
   }
 ]

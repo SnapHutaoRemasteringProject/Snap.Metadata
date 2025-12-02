@@ -653,7 +653,11 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
           ]
         },
@@ -880,6 +884,10 @@
         "Context": "Barbara? Ela é uma Diaconisa muito empenhada. Uma vez tive a oportunidade de fazer um simples retrato dela. O que aconteceu com o desenho? Ah sim... Albert se ofereceu para comprá-lo, mas eu rejeitei sua proposta e o dei a Grande Mestre Intendente. As relações sociais... realmente exigem muito esforço."
       },
       {
+        "Title": "Sobre Durin",
+        "Context": "Meu irmão está aprendendo todo tipo de coisa nova. Ele é inteligente e profundamente filosófico. Às vezes isso causa alguns problemas, mas em nada diminui sua paixão pelo mundo. Sua chegada, ou melhor dizendo, sua entrada para a família, me deu uma nova compreensão sobre as relações humanas. Com meu parente mais próximo por perto, o lar se tornou um lugar cheio de vida. Sem dúvida, é algo positivo."
+      },
+      {
         "Title": "Mais sobre Albedo - I",
         "Context": "Você tem uma pergunta para mim? Vá em frente, pergunte. Vamos lá, não leva muito tempo para fazer uma única pergunta, leva? Estou prestes a começar a fase final de um experimento."
       },
@@ -1092,5 +1100,11 @@
     "Description": "Estilo de Cartão de Visita.\nPermitam-me testemunhar este milagre.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Viagem: Príncipe do Giz",
+    "Description": "Viagem Imaginária de Albedo. \"Do Nigredo ardente, a Radiação Solar floresce.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }
