@@ -5,8 +5,8 @@
   "Body": 3,
   "Icon": "UI_AvatarIcon_Jahoda",
   "SideIcon": "UI_AvatarIcon_Side_Jahoda",
-  "Name": "雅珂达",
-  "Description": "十分可靠，无所不能（自称）的「秘闻馆」员工。",
+  "Name": "雅珂達",
+  "Description": "十分可靠，無所不能（自稱）的「秘聞館」員工。",
   "BeginTime": "2025-12-03T00:00:00+08:00",
   "Quality": 4,
   "Weapon": 12,
@@ -36,13 +36,13 @@
         "GroupId": 11241,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}×{param3:F1}",
-            "三段伤害|{param4:F1P}",
-            "瞄准射击|{param5:F1P}",
-            "满蓄力瞄准射击|{param6:F1P}",
-            "下坠期间伤害|{param7:F1P}",
-            "低空/高空坠地冲击伤害|{param8:F1P}/{param9:F1P}"
+            "一段傷害|{param1:F1P}",
+            "二段傷害|{param2:F1P}×{param3:F1}",
+            "三段傷害|{param4:F1P}",
+            "瞄準射擊|{param5:F1P}",
+            "滿蓄力瞄準射擊|{param6:F1P}",
+            "下墜期間傷害|{param7:F1P}",
+            "低空/高空墜地衝擊傷害|{param8:F1P}/{param9:F1P}"
           ],
           "Parameters": [
             {
