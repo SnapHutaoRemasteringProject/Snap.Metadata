@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Cadının Gece Ayini: Yıldırım Taşkını",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Küçük Kurt Sürüsü</color> tamamlandıktan sonra Razor bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini geliştiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\nAyrıca Razor'ın <color=#FFD780FF>Şimşek Diş</color> Element Patlaması gelişir: <color=#FFD780FF>Kurt Yoldaş</color> ile verilen Hasar, Razor'ın Saldırısının %70'i kadar artar.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\nRazor'ın <color=#FFD780FF>Şimşek Diş</color> Element Patlaması ile çağrılan Kurt Yoldaş etkinken, Razor'ın <color=#FFD780FF>Pençe ve Yıldırım</color> Element Becerisinden gelen Elektrik Mühürleri sınırı aştığında, Kurt Yoldaş yakındaki düşmanların üzerine bir yıldırım atarak Razor'ın Saldırısının %150'si kadar Elektrik Alan Hasarı verir ve Razor için 7 Enerji yeniler. Bu etki her saniyede bir tetiklenebilir.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Uyanış",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Açlık",

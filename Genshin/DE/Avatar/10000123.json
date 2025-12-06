@@ -491,6 +491,28 @@
         "Icon": "Skill_S_Durin_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Geschenk der Hexennacht – Hymne der Erhabenheit",
+        "Description": "#Wandelt Durin nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von dieser Welt</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nVerstärkt alle Effekte des Aufstiegstalents {LINK#P1232101}<color=#FFD780FF>Erscheinen des Lichtgeistes</color>{/LINK} außer der Wirkungsdauer um 75{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 12339,
       "Proud": {
@@ -798,7 +820,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232101,
         "Name": "Erscheinen des Lichtgeistes",
@@ -819,7 +842,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232201,
         "Name": "Chaos wie die Nacht",

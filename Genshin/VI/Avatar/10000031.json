@@ -492,6 +492,31 @@
         "Icon": "Skill_S_Fischl_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 315101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                0.225,
+                10,
+                90
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 315101,
+        "Name": "Đêm Lễ Ma Nữ - Huyền Ảo Đêm Sâu",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Về Điều Bất Ngờ</color>, Fischl sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\nHỡi Hoàng Tử Quạ Đêm Ozvaldo Hrafnavins, người đã chứng kiến vô số thế giới chìm vào hủy diệt, hãy cất lên khúc thất tấu u ám dâng lên công chúa, đây chính là thời khắc những linh hồn hội tụ ở cuối nhân quả phải tiêu diệt tội lỗi của vận mệnh hắc ám...\nNgoài ra, khi Oz trong trận, nhân vật trong đội sẽ nhận hiệu quả cường hóa thêm:\n·Sau khi nhân vật trong đội ở gần kích hoạt phản ứng Quá Tải, Fischl và nhân vật khác ra trận trong đội gần đó sẽ tăng 22.5% Tấn Công trong 10s.\n·Sau khi nhân vật trong đội ở gần kích hoạt phản ứng Điện Cảm hoặc Nguyệt-Điện Cảm, Fischl và nhân vật khác ra trận trong đội gần đó sẽ tăng 90 điểm Tinh Thông Nguyên Tố trong 10s.",
+        "Icon": "UI_Talent_S_Fischl_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3139,
       "Proud": {
@@ -701,7 +726,8 @@
                 1.527
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312101,
         "Name": "Ác Điểu Nuốt Sao",
@@ -720,7 +746,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312201,
         "Name": "Ánh Sét Định Tội",

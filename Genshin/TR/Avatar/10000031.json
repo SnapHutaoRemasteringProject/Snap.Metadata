@@ -492,6 +492,31 @@
         "Icon": "Skill_S_Fischl_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 315101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                0.225,
+                10,
+                90
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 315101,
+        "Name": "Cadının Gece Ayini: Hayali Noktürn",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Umulmayan Şey</color> tamamlandıktan sonra Fischl bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\nKulak ver ey sayısız dünyanın çöküşüne tanıklık etmiş Prens Nachtraben, Ozvaldo Hrafnavins! Şimdi hükümdarın için yedi sesli besteyi oku; zira en büyük günahın işlendiği bu an, nedenselliğin sonunda toplanan ruhların kaderin karanlığını yerle bir ettiği andır.\nAyrıca Oz savaş alanındayken grup üyeleri ek güçlendirme etkileri kazanır:\n·Yakındaki bir grup üyesi Yüksek Voltaj tepkimesi tetiklediğinde Fischl ve yakındaki diğer aktif grup üyelerinin 10sn boyunca Saldırısı %22,5 artar.\n·Yakındaki bir grup üyesi Elektrik Yüklü veya Ay Yüklü tepkimesi tetiklediğinde Fischl ve yakındaki diğer aktif grup üyelerinin 10sn boyunca Element Ustalığı 90 artar.",
+        "Icon": "UI_Talent_S_Fischl_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3139,
       "Proud": {
@@ -701,7 +726,8 @@
                 1.527
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312101,
         "Name": "Yıldız Yiyen Kuzgun",
@@ -720,7 +746,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312201,
         "Name": "Yıldırımın Hükmü",

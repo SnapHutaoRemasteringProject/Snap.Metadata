@@ -491,6 +491,28 @@
         "Icon": "Skill_S_Durin_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Rito de la noche de brujas: Oda a la ascensión",
+        "Description": "Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De este mundo»</color>, Durin se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nPotencia en un 75% todos los efectos (excepto la duración) del talento de ascensión {LINK#P1232101}<color=#FFD780FF>Lumimanifestación del cálculo divino</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 12339,
       "Proud": {
@@ -798,7 +820,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232101,
         "Name": "Lumimanifestación del cálculo divino",
@@ -819,7 +842,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232201,
         "Name": "El caos se forma como la noche",

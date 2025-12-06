@@ -491,6 +491,28 @@
         "Icon": "Skill_S_Durin_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Presente da Noite da Bruxa: Ode à Sublimação",
+        "Description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Deste Mundo</color>, Durin se tornará um personagem <color=#FFD780FF>Mágico</color>. Quando a equipe possuir pelo menos 2 personagens Mágicos, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os personagens Mágicos.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\nO Talento de Ascensão {LINK#P1232101}<color=#FFD780FF>Luz Manifesta do Cálculo Divino</color>{/LINK} tem todos os seus efeitos fortalecidos em 75%, exceto sua duração.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 12339,
       "Proud": {
@@ -798,7 +820,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232101,
         "Name": "Luz Manifesta do Cálculo Divino",
@@ -819,7 +842,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1232201,
         "Name": "Caos Formado como a Noite",

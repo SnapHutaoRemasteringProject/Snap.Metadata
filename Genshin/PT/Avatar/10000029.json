@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Presente da Noite da Bruxa: Magia Flamejante",
+        "Description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Das Faíscas</color>, Klee se torna uma personagem <color=#FFD780FF>Mágica</color>. Ao possuir pelo menos 2 personagens Mágicos na equipe, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color> que fortalece os personagens Mágicos.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\nQuando o Ataque Normal, a Habilidade Elemental ou o Supremo de Klee causam Dano, obtém 1 Medalha Boom Boom por 20s. Cada tipo de ataque pode fazer Klee obter até 1 Medalha Boom Boom dessa forma. Medalhas Boom Boom obtidas de ataques diferentes possuem sua duração contada separadamente. Quando Klee possui 1/2/3 Medalhas Boom Boom, o Ataque Carregado especial Faíscas Boom Boom causará 115%/130%/150% do Dano original.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Presente Explosivo",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Faíscas Ilimitadas",

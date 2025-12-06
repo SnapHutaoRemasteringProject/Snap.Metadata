@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Cadının Gece Ayini: Burçların Doğuşu",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Sınanmamış Sezgi</color> tamamlandıktan sonra Mona bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini geliştiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\nMona'nın Normal veya Yüklü Saldırıları bir düşmana isabet ettiğinde Mona 8 saniyeliğine 1 <color=#FFD780FF>Merkürün Kozmik Parıltısı</color> kademesi kazanır. En fazla 3 kademeye kadar birikebilir. Bu etki en fazla her 0,1 saniyede bir kademe kazandırabilir. Diğer grup üyeleri bir düşman üzerinde Buharlaşma tepkimesi tetiklediğinde tüm Merkürün Kozmik Parıltısı kademeleri tüketilir. Tüketilen her kademe bu Buharlaşma tepkimesinin Hasarını %5 artırır.\nAyrıca, Mona'nın Normal veya Yüklü Saldırıları bir düşmana isabet ettiğinde düşmanın <color=#FFD780FF>Alamet</color> süresi 2sn uzar. Bu etki en fazla 0,5 saniyede bir defa tetiklenebilir ve bu yöntemle Alamet süresi en fazla 8sn uzatılabilir.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "\"Yakala da Görelim Yaşlı Cadı!\"",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "Sudan Kader",

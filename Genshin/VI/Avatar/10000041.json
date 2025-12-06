@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Đêm Lễ Ma Nữ - Nguồn Gốc Sao Trời",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Điều Chưa Kiểm Chứng</color>, Mona sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\nKhi Mona Tấn Công Thường hoặc Trọng Kích trúng kẻ địch, sẽ nhận 1 tầng \"Ánh Sáng Sao Thủy\" trong 8s, tối đa cộng dồn 3 tầng, mỗi 0.1s tối đa nhận 1 tầng Ánh Sáng Sao Thủy theo cách này. Khi nhân vật khác trong đội bản thân kích hoạt phản ứng Bốc Hơi lên kẻ địch, sẽ tiêu hao toàn bộ Ánh Sáng Sao Thủy, mỗi tầng tiêu hao sẽ tăng 5% sát thương phản ứng Bốc Hơi lần này.\nNgoài ra, khi Mona Tấn Công Thường hoặc Trọng Kích trúng kẻ địch, sẽ còn khiến trạng thái <color=#FFD780FF>Tinh Dị</color> của kẻ địch kéo dài thêm 2s. Hiệu quả này mỗi 0.5s tối đa kích hoạt một lần, và nhiều nhất kéo dài trạng thái <color=#FFD780FF>Tinh Dị</color> của kẻ địch thêm 8s theo cách này.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "\"Bà lão hãy đến bắt ta!\"",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "\"Cứ để mặc cho vận mệnh đi!\"",

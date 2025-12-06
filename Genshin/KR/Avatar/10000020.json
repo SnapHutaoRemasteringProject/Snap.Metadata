@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "마녀의 전야제·창뢰의 질주",
+        "Description": "<color=#FFD780FF>마녀의 과제·늑대 무리</color>를 완료하면 레이저가 <color=#FFD780FF>마도</color> 캐릭터가 된다. 파티에 마도 캐릭터를 2명 이상 편성하면 <color=#FFD780FF>마도·비밀 의식</color> 효과를 획득해 마도 캐릭터가 강화된다.\n또한, 레이저의 원소폭발 <color=#FFD780FF>뇌아</color>가 강화된다: <color=#FFD780FF>썬더울프</color>가 주는 피해가 레이저 공격력의 70%만큼 증가한다.\n\n<color=#FFD780FF>마도·비밀 의식</color>\n원소폭발 <color=#FFD780FF>뇌아</color>로 소환된 썬더울프가 존재하는 동안, 레이저가 원소전투 스킬 <color=#FFD780FF>날카로운 발톱과 창뢰</color>의 번개의 인장을 초과 획득하면, 썬더울프가 낙뢰를 내려 주변의 적에게 레이저 공격력의 150%에 해당하는 번개 원소 범위 피해를 주고, 레이저의 원소 에너지를 7pt 회복한다. 해당 효과는 1초마다 최대 1회 발동된다",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "각성",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "굶주림",

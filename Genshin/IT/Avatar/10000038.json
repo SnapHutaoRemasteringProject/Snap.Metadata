@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Rito della Vigilia della strega: Libro della luce accecante",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Oltre la lezione</color>, Albedo acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\n· Quando Albedo infligge DAN da abilità elementale a un avversario entro 20{NON_BREAK_SPACE}s dall'uso della suddetta abilità, si genera un'<color=#FFD780FF>Isotoma argenteo</color> della durata di 10{NON_BREAK_SPACE}s vicino all'avversario. Quando non sono presenti in campo Isotomi solari creati da Albedo, e finché Albedo non viene sconfitto, gli Isotomi argentei generano Boccioli effimeri proprio come gli Isotomi solari. Possono coesistere in campo fino a due Isotomi argentei creati da Albedo.\n· Dopo aver creato un Isotoma solare, i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri vicini del gruppo aumentano di un 4% per ogni 1.000 punti di DIF di Albedo per 20{NON_BREAK_SPACE}s, fino a un 12% di aumento massimo.\n· Dopo aver creato un Isotoma argenteo, i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri vicini del gruppo dotati di attributo Hexerei aumentano di un 10% per ogni 1.000 punti di DIF di Albedo per 20{NON_BREAK_SPACE}s, fino a un 30% di aumento massimo.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -659,7 +686,8 @@
                 2.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Potenza della calcite",
@@ -679,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Saggezza degli Homunculi",

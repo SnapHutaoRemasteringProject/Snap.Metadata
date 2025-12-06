@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Witch's Eve Rite: Sparkborne Magic",
+        "Description": "หลังจากสำเร็จ<color=#FFD780FF>แบบฝึกหัดของแม่มด: ปริศนาแห่งใบดอกไม้เพลิง</color> Klee จะกลายเป็นตัวละคร<color=#FFD780FF>มนตรา</color> เมื่อจัดทีมโดยมีตัวละครมนตราอย่างน้อย 2 ตัว จะได้รับเอฟเฟกต์ <color=#FFD780FF>Hexerei: Secret Rite</color> ซึ่งจะเสริมพลังให้กับตัวละครมนตรา\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nเมื่อการโจมตีปกติ, สกิลธาตุ หรือท่าไม้ตายของ Klee สร้างความเสียหาย จะได้รับ \"Boom Badge\" 1 อัน เป็นเวลา 20 วินาที การโจมตีแต่ละประเภทจะทำให้ Klee สามารถรับ Boom Badge ด้วยวิธีนี้ได้มากสุด 1 อัน โดย Boom Badge ที่ได้รับจากการโจมตีที่แตกต่างกันจะคงอยู่แยกกัน เมื่อ Klee มี Boom Badge 1/2/3 อัน การชาร์จโจมตีพิเศษ \"Boom-Boom Strike\" จะสร้างความเสียหาย 115%/130%/150% ของความเสียหายเดิม",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Pounding Surprise",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Sparkling Burst",

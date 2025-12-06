@@ -494,6 +494,30 @@
         "Icon": "Skill_S_Venti_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Cadının Gece Ayini: Zaman Rüzgarına Methiye",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Rüzgarın Uyanışı</color> tamamlandıktan sonra Venti bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\n<color=#FFD780FF>Rüzgarın Büyük Kasidesi</color> Element Patlaması tarafından oluşturulan Fırtına Gözü etkinken, yakındaki aktif bir karakter Girdap tepkimesi tetiklediğinde 4sn boyunca o karakterin Hasarı %50 artar ve Fırtına Gözü, orijinal Hasarının %135'i kadar Hasar verir.",
+        "Icon": "UI_Talent_S_Venti_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2239,
       "Proud": {
@@ -690,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Rüzgarların Kucaklaması",
@@ -710,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Fırtına Gözü",

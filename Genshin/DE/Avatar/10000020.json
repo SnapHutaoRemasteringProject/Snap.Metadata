@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Geschenk der Hexennacht – Dunkler Donnersturm",
+        "Description": "#Wandelt Razor nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von den kleinen Wölfen</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\nVerstärkt zudem Razors Spezialfähigkeit <color=#FFD780FF>Blitzklauen</color>: Erhöht den durch <color=#FFD780FF>Blitzwolf</color> verursachten SCH um 70{NON_BREAK_SPACE}% von Razors ANG.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nLässt den durch die Spezialfähigkeit <color=#FFD780FF>Blitzklauen</color> herbeigerufener Blitzwolf, solange dieser auf dem Feld existiert und die von Razor durch die Elementarfähigkeit <color=#FFD780FF>Klauen und Donner</color> gesammelten Elektro-Siegel überschüssig sind, Gegner in der Nähe mit Blitzschlägen treffen, die Elektro-Flächenschaden in Höhe von 150{NON_BREAK_SPACE}% von Razors ANG verursachen, und Razor 7{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellen, 1{NON_BREAK_SPACE}s Abklingzeit.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Erwachen",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Hunger",

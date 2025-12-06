@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Witch's Eve Rite: Genesis of Starsigns",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Kebijaksanaan Tak Teruji</color>, Mona akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nSaat Normal Attack atau Charged Attack Mona mengenai musuh, ia akan mendapatkan 1 lapis Astral Glow of Mercury. Efek ini bertahan selama 8 detik dan dapat ditumpuk sampai 3 lapis. Mona bisa mendapatkan maksimum satu lapis Astral Glow of Mercury setiap 0,1 detik dengan cara ini. Saat Karakter lain di dalam party sendiri memicu reaksi Vaporize terhadap musuh, semua lapisan Astral Glow of Mercury yang dimiliki akan terkonsumsi. Setiap lapis yang terkonsumsi akan mengakibatkan DMG Vaporize kali ini meningkat 5%.\nSelain itu, saat Normal Attack atau Charged Attack Mona mengenai musuh, durasi <color=#FFD780FF>Omen</color> pada musuh akan diperpanjang selama 2 detik. Efek ini dapat terpicu sekali setiap 0,5 detik, dan perpanjangan durasi <color=#FFD780FF>Omen</color> maksimum melalui cara ini adalah 8 detik.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "\"Come 'n' Get Me, Hag!\"",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "Waterborne Destiny",

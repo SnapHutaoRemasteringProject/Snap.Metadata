@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "魔女的前夜禮·七循之理",
+        "Description": "完成<color=#FFD780FF>魔女的課業·仙境花之題</color>後，砂糖將成為<color=#FFD780FF>魔導</color>角色。隊伍中編入至少2名魔導角色時，將獲得<color=#FFD780FF>魔導·秘儀</color>效果，使魔導角色獲得強化。\n\n<color=#FFD780FF>魔導·秘儀</color>\n·召喚小型風靈後的15秒內，隊伍中附近的角色的普通攻擊、重擊、下落攻擊、元素戰技和元素爆發造成的傷害提升5.71428%。\n·召喚大型風靈後的20秒內，隊伍中附近的魔導角色的普通攻擊、重擊、下落攻擊、元素戰技和元素爆發造成的傷害提升7.14285%。",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "觸媒置換術",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "小小的慧風",

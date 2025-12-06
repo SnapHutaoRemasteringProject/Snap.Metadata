@@ -492,6 +492,31 @@
         "Icon": "Skill_S_Fischl_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 315101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                0.225,
+                10,
+                90
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 315101,
+        "Name": "Veillée de la sorcière : Nocturne fantomatique",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « De l'inattendu »</color>, Fischl devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nOyez, Ozvaldo von Hrafnavines le seigneur des corbeaux, celui qui a assisté à la chute d'innombrables mondes : chantez maintenant le septuor étoilé pour votre souveraine, car c'est le moment du péché le plus profond, lorsque les âmes rassemblées à la fin de la causalité brisent les ténèbres du destin.\nDe plus, les personnages de l'équipe obtiennent des bonus supplémentaires lorsque Oz est sur le terrain :\n· L'ATQ de Fischl et des autres personnages déployés de l'équipe à proximité augmente de 22,5 % pendant 10 s lorsqu'un personnage de l'équipe à proximité a déclenché une réaction de Surcharge.\n· La maîtrise élémentaire de Fischl et des autres personnages déployés de l'équipe à proximité augmente de 90 pts pendant 10 s lorsqu'un personnage de l'équipe à proximité a déclenché une réaction d'Électrocution ou de Sélénocution.",
+        "Icon": "UI_Talent_S_Fischl_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3139,
       "Proud": {
@@ -701,7 +726,8 @@
                 1.527
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312101,
         "Name": "Corbeau maléfique",
@@ -720,7 +746,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312201,
         "Name": "Foudre divine",

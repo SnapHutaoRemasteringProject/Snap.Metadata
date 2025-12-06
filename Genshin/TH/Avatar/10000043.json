@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Witch's Eve Rite: Sevenfold Transmutation",
+        "Description": "หลังจากสำเร็จ<color=#FFD780FF>แบบฝึกหัดของแม่มด: ปริศนาแห่งบุปผาแดนสวรรค์</color> Sucrose จะกลายเป็นตัวละคร<color=#FFD780FF>มนตรา</color> เมื่อจัดทีมโดยมีตัวละครมนตราอย่างน้อย 2 ตัว จะได้รับเอฟเฟกต์ <color=#FFD780FF>Hexerei: Secret Rite</color> ซึ่งจะเสริมพลังให้กับตัวละครมนตรา\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\n·ภายใน 15 วินาที หลังจากเรียก Wind Spirit ขนาดเล็กออกมา ตัวละครในทีมที่อยู่ใกล้เคียงจะสร้างความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ และท่าไม้ตายเพิ่มขึ้น 5.71428%\n·ภายใน 20 วินาทีหลังจากเรียก Wind Spirit ขนาดใหญ่ออกมา ตัวละครมนตราในทีมที่อยู่ใกล้เคียงจะสร้างความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ และท่าไม้ตายเพิ่มขึ้น 7.14285%",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Catalyst Conversion",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

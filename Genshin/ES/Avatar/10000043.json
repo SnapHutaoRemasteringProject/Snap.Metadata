@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Rito de la noche de brujas: Transmutación séptuple",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De flores maravillosas»</color>, Sacarosa se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\n·Tras invocar un espíritu del viento pequeño, el daño de los Ataques Normales, Cargados y Descendentes y de la Habilidad Elemental y Definitiva de los personajes cercanos del equipo aumenta en un 5.71428% durante 15{NON_BREAK_SPACE}s.\n·Tras invocar un gran espíritu del viento, el daño de los Ataques Normales, Cargados y Descendentes y de la Habilidad Elemental y Definitiva de los personajes taumatúrgicos cercanos del equipo aumenta en un 7.14285% durante 20{NON_BREAK_SPACE}s.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Conversión de catalizador",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

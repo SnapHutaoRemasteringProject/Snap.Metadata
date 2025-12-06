@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Rito de la noche de brujas: Surgimiento atronador",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De la manada del Lobezno»</color>, Razor se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\nAdemás, fortalece la Habilidad Definitiva de Razor, <color=#FFD780FF>Colmillo relámpago</color>, de manera que el daño infligido por el <color=#FFD780FF>lobo interior</color> aumenta en una cantidad equivalente al 70% del ATQ de Razor.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nMientras el lobo interior invocado con la Habilidad Definitiva, <color=#FFD780FF>Colmillo relámpago</color>, esté activo, si Razor obtiene un exceso de cargas Electro creadas mediante la Habilidad Elemental, <color=#FFD780FF>Garra y trueno</color>, el lobo interior hará caer un rayo que atacará a los enemigos cercanos y les infligirá un Daño Electro en el AdE equivalente al 150% del ATQ de Razor, y que regenerará 7{NON_BREAK_SPACE}pts. de Energía Elemental para Razor. Este efecto solo puede activarse una vez por segundo.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Despertar",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Hambre",

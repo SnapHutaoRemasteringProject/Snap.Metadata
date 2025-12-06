@@ -494,6 +494,30 @@
         "Icon": "Skill_S_Venti_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Witch's Eve Rite: Temporal Wind's Eulogy",
+        "Description": "หลังจากสำเร็จ<color=#FFD780FF>แบบฝึกหัดของแม่มด: ปริศนาแห่งสายลม</color> Venti จะกลายเป็นตัวละคร<color=#FFD780FF>มนตรา</color> เมื่อจัดทีมโดยมีตัวละครมนตราอย่างน้อย 2 ตัว จะได้รับเอฟเฟกต์ <color=#FFD780FF>Hexerei: Secret Rite</color> ซึ่งจะเสริมพลังให้กับตัวละครมนตรา\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nในระหว่างที่ Stormeye ที่สร้างโดยท่าไม้ตาย <color=#FFD780FF>Wind's Grand Ode</color> ยังคงอยู่ ภายใน 4 วินาที หลังจากตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียงทำให้เกิดปฏิกิริยากระจาย ตัวละครดังกล่าวจะสร้างความเสียหายเพิ่มขึ้น 50% และทำให้ Stormeye ของ Venti สร้างความเสียหาย 135% ของความเสียหายเดิม",
+        "Icon": "UI_Talent_S_Venti_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2239,
       "Proud": {
@@ -690,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Embrace of Winds",
@@ -710,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Stormeye",
