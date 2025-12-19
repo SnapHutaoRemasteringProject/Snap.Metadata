@@ -4984,5 +4984,62 @@
       12405,
       15402
     ]
+  },
+  {
+    "Name": "Пиршество зрелищ",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/51de71c421d461d78b83e6f56cd00798_2268722638977303929_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/51de71c421d461d78b83e6f56cd00798_2268722638977303929_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000111
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000090,
+      10000092
+    ]
+  },
+  {
+    "Name": "Благословение пламени",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/7afa4e1fe80cd90916054f8c03c2294f_3924951764039002037_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/7afa4e1fe80cd90916054f8c03c2294f_3924951764039002037_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000103
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000090,
+      10000092
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/0dd444f9a86a8917259007c57dd4c4dd_9157517047200412718_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/0dd444f9a86a8917259007c57dd4c4dd_9157517047200412718_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14519,
+      11516
+    ],
+    "UpPurpleList": [
+      12430,
+      15410,
+      11401,
+      13407,
+      14402
+    ]
   }
 ]
