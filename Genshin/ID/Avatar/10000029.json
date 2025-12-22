@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Witch's Eve Rite: Sparkborne Magic",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Daun Kembang Api</color>, Klee akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nSaat Normal Attack, Elemental Skill, atau Elemental Burst Klee mengakibatkan DMG, ia akan mendapatkan 1 Boom Badge yang bertahan 20 detik. Setiap jenis serangan di atas bisa memberikan maksimum 1 Boom Badge kepada Klee. Boom Badge yang diperoleh dari jenis serangan yang berbeda akan dihitung secara terpisah. Saat Klee memiliki 1/2/3 Boom Badge, Charged Attack khusus Boom-Boom Strike miliknya akan mengakibatkan DMG sebesar 115%/130%/150% DMG awal.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Pounding Surprise",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Sparkling Burst",
@@ -886,6 +914,10 @@
       {
         "Title": "Tentang Sucrose",
         "Context": "Sucrose adalah yang terbaik! Pernah suatu kali dia tanya ke aku mau tidak Jumpy Dumpty yang bisa lari dan lompat. Hehe, ya aku pasti mau dong! Aku jelas mau banget, aku mau seratus Jumpy Dumpty kayak gitu! Aku bakal taruh di setiap sisi jalan, setiap anak tangga, terus di setiap sudut Mondstadt juga!"
+      },
+      {
+        "Title": "Tentang Durin",
+        "Context": "Hehe, Kakak Durin sekarang tinggal di Mondstadt ... jadi Klee mau main sama dia setiap hari! Klee bakal ajak meledakkan ikan, terus dia bisa menerbangkan Klee tinggi-tinggi buat lemparin Jumpy Dumpty ke ikan-ikan!"
       },
       {
         "Title": "Mengenal Klee: I",
@@ -1116,5 +1148,11 @@
     "Description": "Style kartu nama.\nBom keberuntungan milik Klee. Amati ekornya lalu tebak apakah ini Jumpty Dumpty atau Dodoco?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo: Fleeing Sunlight",
+    "Description": "Envisaged Echo milik Klee. \"Dadada~ Petualangan Spark Knight dimulai!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

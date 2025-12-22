@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Rito della Vigilia della strega: Ondata di fulmini",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Sul branco dei lupetti</color>, Razor acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\nInoltre, il Tripudio elementale <color=#FFD780FF>Zanna fulminante</color> di Razor viene potenziato. I DAN inflitti dal <color=#FFD780FF>Lupo interiore</color> aumentano di un 70% dell'ATT di Razor.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\nQuando il Lupo interiore evocato dal Tripudio elementale <color=#FFD780FF>Zanna fulminante</color> di Razor è attivo, se i Sigilli di Electro ottenuti dall'abilità elementale <color=#FFD780FF>Artiglio tonante</color> superano il limite, il Lupo interiore scaglia un fulmine sui nemici vicini, infliggendo DAN da Electro ad area pari a un 150% dell'ATT di Razor e ripristinandogli 7 di energia. Quest'effetto può attivarsi una volta ogni 1{NON_BREAK_SPACE}s.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Risveglio",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Appetito",
@@ -836,7 +863,7 @@
       {
         "Id": 206,
         "Name": "Lupus fulguris",
-        "Description": "Ogni 10 s la spada di Razor si carica, e l'attacco normale successivo rilascia un fulmine che infligge <color=#FFACFFFF>DAN da Electro</color> pari a un 100% dell'ATT di Razor.\nQuando Razor non sta utilizzando <color=#FFD780FF>Zanna fulminante</color>, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per <color=#FFD780FF>Artiglio tonante</color>.",
+        "Description": "#Ogni 10{NON_BREAK_SPACE}s la spada di Razor si carica, e l'attacco normale successivo sprigiona un fulmine che infligge <color=#FFACFFFF>DAN da Electro</color> pari a un 100% dell'ATT di Razor.\nQuando Razor non sta utilizzando <color=#FFD780FF>Zanna fulminante</color>, un fulmine che colpisce un avversario fornisce a Razor un Sigillo di Electro per <color=#FFD780FF>Artiglio tonante</color>.",
         "Icon": "UI_Talent_S_Razor_04"
       }
     ]

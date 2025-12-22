@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Veillée de la sorcière : Transmutation septuple",
+        "Description": "#Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « Des fleurs du pays des merveilles »</color>, Sucrose devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei{NON_BREAK_SPACE}: Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\n· Créer un esprit du vent de taille réduite augmente les DGT infligés par les attaques normales, les attaques chargées, les attaques plongeantes, les compétences élémentaires et les déchaînements élémentaires des personnages de l'équipe à proximité de 5,71428 % pendant 15 s.\n· Créer un esprit du vent de grande taille augmente les DGT infligés par les attaques normales, les attaques chargées, les attaques plongeantes, les compétences élémentaires et les déchaînements élémentaires des personnages héxères de l'équipe à proximité de 7,14285 % pendant 20 s.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Permutation de catalyste",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

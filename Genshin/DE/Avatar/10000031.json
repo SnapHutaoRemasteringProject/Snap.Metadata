@@ -492,6 +492,31 @@
         "Icon": "Skill_S_Fischl_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 315101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                0.225,
+                10,
+                90
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 315101,
+        "Name": "Geschenk der Hexennacht – Phantomkonzert",
+        "Description": "#Wandelt Fischl nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Vom Unerwarteten</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nO, Ozvaldo Hrafnavins, Nachtrabenprinz, Zeuge des Untergangs unzähliger Welten, singe die siebenteilige Nocturne für die Prinzessin, denn dies ist der Moment der tiefsten Sünde, in dem die Seelen, die am Ende von Ursache und Wirkung versammelt sind, das Schicksal auslöschen.\nVerleiht den Figuren in der Truppe außerdem zusätzliche Verstärkungseffekte, wenn Oz sich auf dem Feld befindet:\n· Erhöht den ANG von Fischl und anderen aktuellen Figuren in der Truppe in der Nähe 10{NON_BREAK_SPACE}s lang um 22,5{NON_BREAK_SPACE}%, nachdem ein Truppenmitglied in der Nähe die Reaktion „Überladen“ ausgelöst hat.\n· Erhöht die Elementarkunde von Fischl und anderen aktuellen Figuren in der Truppe in der Nähe 10{NON_BREAK_SPACE}s lang um 90 Punkte, nachdem ein Truppenmitglied in der Nähe die Reaktion „Unter Strom“ oder „Mond unter Strom“ ausgelöst hat.",
+        "Icon": "UI_Talent_S_Fischl_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3139,
       "Proud": {
@@ -701,7 +726,8 @@
                 1.527
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312101,
         "Name": "Sterneverschlinger",
@@ -720,7 +746,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312201,
         "Name": "Schatten der Verurteilung",

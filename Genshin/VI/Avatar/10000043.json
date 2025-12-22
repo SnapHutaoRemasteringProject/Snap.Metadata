@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Đêm Lễ Ma Nữ - Vòng Lặp Bảy Lần",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Về Hoa Tiên Cảnh</color>, Sucrose sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\n·Trong 15s sau khi triệu hồi Phong Linh Cỡ Nhỏ, nhân vật trong đội ở gần tăng 5.71428% sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ.\n·Trong 20s sau khi triệu hồi Phong Linh Cỡ Lớn, nhân vật Hexerei trong đội ở gần tăng 7.14285% sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Thay Thế Xúc Tác",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Gió Thổi Nhẹ Nhàng",

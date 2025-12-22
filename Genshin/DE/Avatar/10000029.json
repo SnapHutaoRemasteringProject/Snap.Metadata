@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Geschenk der Hexennacht – Funkenmagie",
+        "Description": "#Wandelt Klee nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von funkelnden Blättern</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nVerleiht, wenn Klee mit ihrem Standardangriff, ihrer Elementarfähigkeit oder Spezialfähigkeit Schaden verursacht, 20{NON_BREAK_SPACE}s lang ein „Funkelabzeichen“. Auf diese Weise kann Klee max. 1 „Funkelabzeichen“ pro Angriffsart erhalten. Auf unterschiedliche Arten erhaltene „Funkelabzeichen“ existieren unabhängig voneinander. Erhöht, wenn Klee 1/2/3 „Funkelabzeichen“ besitzt, den Schaden durch den besonderen heftigen Schlag „Rumms-Explosion“ auf 115{NON_BREAK_SPACE}%/130{NON_BREAK_SPACE}%/150{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Explosives Geschenk",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Unzählige Funken",
@@ -886,6 +914,10 @@
       {
         "Title": "Über Saccharose ...",
         "Context": "Saccharose ist auch toll! Sie hat mich einmal gefragt, ob ich noch etwas wie die Bimm-Bamm-Bombe haben will, das auch laufen und hüpfen kann, hehehe! Natürlich will ich das, ich will Hunderte davon, damit ich jede Ecke von Mondstadt damit zupflastern kann!"
+      },
+      {
+        "Title": "Über Durin ...",
+        "Context": "Hehe, großer Bruder Durin wohnt jetzt in Mondstadt – ich werde jeden Tag mit ihm spielen! Ich nehme ihn mit zum „Fische platzen lassen“ und er kann mich hoch in die Luft fliegen, damit ich die Bimm-Bamm-Bombe auf die Fische werfen kann!"
       },
       {
         "Title": "Ich will mehr über Klee erfahren I",
@@ -1116,5 +1148,11 @@
     "Description": "Ein Motiv für Namenskärtchen.\nIst Klees Glücksbombe die Bimm-Bamm-Bombe oder Dodoco? Wer sich nicht sicher ist, sollte auf den Schwanz achten.",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo – Fliehende Sonne",
+    "Description": "Klees Gemalte Echos. „Da da da! Das Abenteuer der Funkenritterin beginnt!“",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Witch's Eve Rite: Sparkborne Magic",
+        "Description": "After completing <color=#FFD780FF>Witch's Homework: Of Leaves That Spark</color>, Klee will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nWhen Klee deals DMG with Normal Attacks, Elemental Skills, or Elemental Bursts, she gains 1 Boom Badge that lasts 20s. Each type of attack can grant at most 1 Boom Badge this way, and each badge has its own independent timer. While Klee has 1/2/3 Boom Badges, her special Charged Attack Boom-Boom Strike deals 115%/130%/150% of its original DMG.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Pounding Surprise",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Sparkling Burst",
@@ -886,6 +914,10 @@
       {
         "Title": "About Sucrose",
         "Context": "Sucrose is the best! This one time she asked me if I wanted a Jumpy Dumpty that can run as well as jump. Tee-hee, well duh! Of course I do, I want hundreds of them! I wanna put them on every street, every staircase, and every square in Mondstadt!"
+      },
+      {
+        "Title": "About Durin",
+        "Context": "Hehe, Durin lives in Mondstadt now — I'm going to play with him every day! I'll take him fish blasting, and he can fly me up high to throw Jumpy Dumpty at the fish!"
       },
       {
         "Title": "More About Klee: I",
@@ -1116,5 +1148,11 @@
     "Description": "Namecard style.\nKlee's lucky explosive — can you tell if it's Jumpy Dumpty or Dodoco? (Hint: Look carefully at the tail...)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Echo: Fleeing Sunlight",
+    "Description": "Klee's Envisaged Echo. \"Da-da-da~ The Spark Knight's off on an adventure!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Flores de Jade",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Brisa dos Sonhos Remanescentes",
@@ -934,6 +936,10 @@
       {
         "Title": "Sobre Sethos",
         "Context": "O que faz você pensar que eu o conheço? O fato que ele sempre está me perseguindo, e pedindo pra olhar o meu chapéu? Mal nos conhecemos. A primeira vez que nos vimos, ele me perguntou se eu era o Cara do Chapéu... Até onde eu sei, julgar alguém pela sua aparência é superficial. Hunf, e de alguma forma, todo mundo sabe o nome \"Cara do Chapéu\" agora..."
+      },
+      {
+        "Title": "Sobre Durin",
+        "Context": "Quando ele saiu daquele livro pela primeira vez, tinha uma lista enorme de perguntas. Eu nunca imaginei que se tornar humano o deixaria ainda mais curioso. Suas cartas são tão longas, e sua caligrafia tão torta que mal consigo entender o que está escrito.\nSe tiver um tempo, você pode ajudá-lo a entender as coisas, só pra garantir que ele não se desvie do caminho."
       },
       {
         "Title": "#Mais sobre {REALNAME[ID(1)]} I",

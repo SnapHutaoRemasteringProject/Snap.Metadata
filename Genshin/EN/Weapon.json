@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Athame Artis",
+    "Description": "A precious sword gifted by the Day King to the brave hero in the little witch's story, only for the witch to take it and defeat the hero herself.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Day King's Splendor Solis",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "CRIT DMG from Elemental Bursts is increased by <color=#99FFFFFF>16%</color>. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by <color=#99FFFFFF>20%</color>. Nearby active party members other than the equipping character have their ATK increased by <color=#99FFFFFF>16%</color> for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+        },
+        {
+          "Level": 1,
+          "Description": "CRIT DMG from Elemental Bursts is increased by <color=#99FFFFFF>20%</color>. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by <color=#99FFFFFF>25%</color>. Nearby active party members other than the equipping character have their ATK increased by <color=#99FFFFFF>20%</color> for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+        },
+        {
+          "Level": 2,
+          "Description": "CRIT DMG from Elemental Bursts is increased by <color=#99FFFFFF>24%</color>. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by <color=#99FFFFFF>30%</color>. Nearby active party members other than the equipping character have their ATK increased by <color=#99FFFFFF>24%</color> for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+        },
+        {
+          "Level": 3,
+          "Description": "CRIT DMG from Elemental Bursts is increased by <color=#99FFFFFF>28%</color>. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by <color=#99FFFFFF>35%</color>. Nearby active party members other than the equipping character have their ATK increased by <color=#99FFFFFF>28%</color> for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+        },
+        {
+          "Level": 4,
+          "Description": "CRIT DMG from Elemental Bursts is increased by <color=#99FFFFFF>32%</color>. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by <color=#99FFFFFF>40%</color>. Nearby active party members other than the equipping character have their ATK increased by <color=#99FFFFFF>32%</color> for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Rainbow Serpent's Rain Bow",
+    "Description": "An ancient ceremonial weapon passed down by the Masters of the Night-Wind. This dark bow is forever wreathed in an unshakable chill.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Astral Whispers Beyond the Sacred Throne",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "ATK is increased by <color=#99FFFFFF>28%</color> for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+        },
+        {
+          "Level": 1,
+          "Description": "ATK is increased by <color=#99FFFFFF>35%</color> for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+        },
+        {
+          "Level": 2,
+          "Description": "ATK is increased by <color=#99FFFFFF>42%</color> for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+        },
+        {
+          "Level": 3,
+          "Description": "ATK is increased by <color=#99FFFFFF>49%</color> for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+        },
+        {
+          "Level": 4,
+          "Description": "ATK is increased by <color=#99FFFFFF>56%</color> for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "The Daybreak Chronicles",
+    "Description": "The songs of resistance come hither on the wind to settle as gentle tones upon these strings, their combined power great enough to rip boundless darkness asunder with the light of the breaking dawn.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ode Beyond Time",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by <color=#99FFFFFF>60%</color>. While in combat, this DMG Bonus will decrease by <color=#99FFFFFF>10%</color> per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by <color=#99FFFFFF>10%</color> until it reaches <color=#99FFFFFF>60%</color>. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by <color=#99FFFFFF>20%</color> instead."
+        },
+        {
+          "Level": 1,
+          "Description": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by <color=#99FFFFFF>75%</color>. While in combat, this DMG Bonus will decrease by <color=#99FFFFFF>12.5%</color> per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by <color=#99FFFFFF>12.5%</color> until it reaches <color=#99FFFFFF>75%</color>. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by <color=#99FFFFFF>25%</color> instead."
+        },
+        {
+          "Level": 2,
+          "Description": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by <color=#99FFFFFF>90%</color>. While in combat, this DMG Bonus will decrease by <color=#99FFFFFF>15%</color> per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by <color=#99FFFFFF>15%</color> until it reaches <color=#99FFFFFF>90%</color>. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by <color=#99FFFFFF>30%</color> instead."
+        },
+        {
+          "Level": 3,
+          "Description": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by <color=#99FFFFFF>105%</color>. While in combat, this DMG Bonus will decrease by <color=#99FFFFFF>17.5%</color> per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by <color=#99FFFFFF>17.5%</color> until it reaches <color=#99FFFFFF>105%</color>. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by <color=#99FFFFFF>35%</color> instead."
+        },
+        {
+          "Level": 4,
+          "Description": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by <color=#99FFFFFF>120%</color>. While in combat, this DMG Bonus will decrease by <color=#99FFFFFF>20%</color> per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by <color=#99FFFFFF>20%</color> until it reaches <color=#99FFFFFF>120%</color>. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by <color=#99FFFFFF>40%</color> instead."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

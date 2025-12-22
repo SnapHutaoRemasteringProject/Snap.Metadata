@@ -834,7 +834,8 @@
                 0.08
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222101,
         "Name": "Đánh Cược Dưới Trăng",
@@ -857,7 +858,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222201,
         "Name": "Con Gái Của Cát Bụi",
@@ -898,7 +900,7 @@
         },
         "Id": 1222501,
         "Name": "Âm Mưu Căn Phòng Vàng",
-        "Description": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Nod-Krai, phần thưởng nhận được tăng 25%.\nNgoài ra, với tư cách là chủ nhân Hội Đồng Bí Mật, dường như Nefer có thể thu thập thông tin tình báo từ nhiều bên theo cách nào đó, mà dường như thế lực nào đó ở Thị Trấn Nasha cũng rất hứng thú với những thông tin này...",
+        "Description": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Nod-Krai, phần thưởng nhận được tăng 25%.",
         "Icon": "UI_Talent_S_Nefer_08"
       }
     ],

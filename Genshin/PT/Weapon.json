@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Corrupção Sombria",
+    "Description": "Uma espada preciosa presenteada pelo Rei do Dia para o corajoso herói na história da Bruxa. No final, a Bruxa a roubou e derrotou o herói sozinha.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Esplendor do Rei Diurno",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Aumenta o Dano CRIT do Supremo em <color=#99FFFFFF>16%</color>. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em <color=#99FFFFFF>20%</color>; aumenta o ATQ de personagens ativos próximos que não sejam o portador em <color=#99FFFFFF>16%</color> por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+        },
+        {
+          "Level": 1,
+          "Description": "Aumenta o Dano CRIT do Supremo em <color=#99FFFFFF>20%</color>. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em <color=#99FFFFFF>25%</color>; aumenta o ATQ de personagens ativos próximos que não sejam o portador em <color=#99FFFFFF>20%</color> por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+        },
+        {
+          "Level": 2,
+          "Description": "Aumenta o Dano CRIT do Supremo em <color=#99FFFFFF>24%</color>. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em <color=#99FFFFFF>30%</color>; aumenta o ATQ de personagens ativos próximos que não sejam o portador em <color=#99FFFFFF>24%</color> por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+        },
+        {
+          "Level": 3,
+          "Description": "Aumenta o Dano CRIT do Supremo em <color=#99FFFFFF>28%</color>. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em <color=#99FFFFFF>35%</color>; aumenta o ATQ de personagens ativos próximos que não sejam o portador em <color=#99FFFFFF>28%</color> por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+        },
+        {
+          "Level": 4,
+          "Description": "Aumenta o Dano CRIT do Supremo em <color=#99FFFFFF>32%</color>. Obtém o efeito Lâmina do Dia ao atingir o Supremo no inimigo: aumenta o ATQ em <color=#99FFFFFF>40%</color>; aumenta o ATQ de personagens ativos próximos que não sejam o portador em <color=#99FFFFFF>32%</color> por 3s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, o efeito de Lâmina do Dia será aumentado em mais 75%. Esse efeito pode ser desencadeado mesmo que o portador não seja o personagem ativo."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Cordas da Chuva da Serpente Arco-Íris",
+    "Description": "Uma arma cerimonial antiga passada de geração em geração pelos Mestres do Vento Noturno. Esse arco escuro estará para sempre envolto por um frio indelével.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Idioma Estelar Estrangeiro Sagrado",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Quando o portador não é o personagem ativo, aumenta o ATQ em <color=#99FFFFFF>28%</color> por 8s após o portador atingir um inimigo com um ataque."
+        },
+        {
+          "Level": 1,
+          "Description": "Quando o portador não é o personagem ativo, aumenta o ATQ em <color=#99FFFFFF>35%</color> por 8s após o portador atingir um inimigo com um ataque."
+        },
+        {
+          "Level": 2,
+          "Description": "Quando o portador não é o personagem ativo, aumenta o ATQ em <color=#99FFFFFF>42%</color> por 8s após o portador atingir um inimigo com um ataque."
+        },
+        {
+          "Level": 3,
+          "Description": "Quando o portador não é o personagem ativo, aumenta o ATQ em <color=#99FFFFFF>49%</color> por 8s após o portador atingir um inimigo com um ataque."
+        },
+        {
+          "Level": 4,
+          "Description": "Quando o portador não é o personagem ativo, aumenta o ATQ em <color=#99FFFFFF>56%</color> por 8s após o portador atingir um inimigo com um ataque."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "As Crônicas do Amanhecer",
+    "Description": "As canções de resistência chegam ao vento como tons gentis, seu poder combinado é grande o suficiente para rasgar a escuridão sem limites com a luz do amanhecer.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Canção da Ode Atemporal",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em <color=#99FFFFFF>60%</color>. Em batalha, esse efeito de aumento de Dano é reduzido em <color=#99FFFFFF>10%</color> por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em <color=#99FFFFFF>10%</color> até alcançar <color=#99FFFFFF>60%</color>, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em <color=#99FFFFFF>20%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em <color=#99FFFFFF>75%</color>. Em batalha, esse efeito de aumento de Dano é reduzido em <color=#99FFFFFF>12.5%</color> por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em <color=#99FFFFFF>12.5%</color> até alcançar <color=#99FFFFFF>75%</color>, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, o efeito de aumento para todos os tipos de Dano passa a ser <color=#99FFFFFF>25%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em <color=#99FFFFFF>90%</color>. Em batalha, esse efeito de aumento de Dano é reduzido em <color=#99FFFFFF>15%</color> por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em <color=#99FFFFFF>15%</color> até alcançar <color=#99FFFFFF>90%</color>, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em <color=#99FFFFFF>30%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em <color=#99FFFFFF>105%</color>. Em batalha, esse efeito de aumento de Dano é reduzido em <color=#99FFFFFF>17.5%</color> por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em <color=#99FFFFFF>17.5%</color> até alcançar <color=#99FFFFFF>105%</color>, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, aumenta o efeito de aumento para todos os tipos de Dano em <color=#99FFFFFF>35%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "O portador obtém Prenúncio da Alvorada: 3s depois de sair de batalha, aumenta o Dano do Ataque Normal, Habilidade Elemental e Supremo em <color=#99FFFFFF>120%</color>. Em batalha, esse efeito de aumento de Dano é reduzido em <color=#99FFFFFF>20%</color> por segundo até alcançar 0%. Quando o Ataque Normal, Habilidade Elemental ou Supremo do portador atinge o inimigo, aumenta o efeito de aumento de Dano correspondente em <color=#99FFFFFF>20%</color> até alcançar <color=#99FFFFFF>120%</color>, esse efeito pode ser desencadeado uma vez a cada 0.1s para cada tipo de ataque acima. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo.\nAlém disso, quando a equipe possui o efeito Mágico: Ritual Secreto e o portador atinge o inimigo com um Ataque Normal, Habilidade Elemental ou Supremo, o efeito de aumento para todos os tipos de Dano passa a ser <color=#99FFFFFF>40%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

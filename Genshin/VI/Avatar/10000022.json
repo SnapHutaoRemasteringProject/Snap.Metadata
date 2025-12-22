@@ -45,7 +45,8 @@
             "Ngắm Bắn|{param7:F1P}",
             "Tụ Lực Ngắm Bắn|{param8:P}",
             "Sát Thương Khi Đáp|{param9:F1P}",
-            "ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}"
+            "ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}",
+            "Sát Thương Mũi Tên Bão|{param12:F1P} Sát Thương Tấn Công Thường"
           ],
           "Parameters": [
             {
@@ -62,7 +63,8 @@
                 1.24,
                 0.568288,
                 1.136335,
-                1.419344
+                1.419344,
+                1.6
               ]
             },
             {
@@ -79,7 +81,8 @@
                 1.333,
                 0.614544,
                 1.228828,
-                1.534872
+                1.534872,
+                1.7
               ]
             },
             {
@@ -96,7 +99,8 @@
                 1.426,
                 0.6608,
                 1.32132,
-                1.6504
+                1.6504,
+                1.8
               ]
             },
             {
@@ -113,7 +117,8 @@
                 1.55,
                 0.72688,
                 1.453452,
-                1.81544
+                1.81544,
+                1.9
               ]
             },
             {
@@ -130,7 +135,8 @@
                 1.643,
                 0.773136,
                 1.545944,
-                1.930968
+                1.930968,
+                2
               ]
             },
             {
@@ -147,7 +153,8 @@
                 1.736,
                 0.826,
                 1.65165,
-                2.063
+                2.063,
+                2.1
               ]
             },
             {
@@ -164,7 +171,8 @@
                 1.86,
                 0.898688,
                 1.796995,
-                2.244544
+                2.244544,
+                2.2
               ]
             },
             {
@@ -181,7 +189,8 @@
                 1.984,
                 0.971376,
                 1.94234,
-                2.426088
+                2.426088,
+                2.3
               ]
             },
             {
@@ -198,7 +207,8 @@
                 2.108,
                 1.044064,
                 2.087686,
-                2.607632
+                2.607632,
+                2.4
               ]
             },
             {
@@ -215,7 +225,8 @@
                 2.232,
                 1.12336,
                 2.246244,
-                2.80568
+                2.80568,
+                2.5
               ]
             },
             {
@@ -232,7 +243,8 @@
                 2.36096,
                 1.202656,
                 2.404802,
-                3.003728
+                3.003728,
+                2.6
               ]
             },
             {
@@ -249,7 +261,8 @@
                 2.5296,
                 1.281952,
                 2.563361,
-                3.201776
+                3.201776,
+                2.7
               ]
             },
             {
@@ -266,7 +279,8 @@
                 2.69824,
                 1.361248,
                 2.721919,
-                3.399824
+                3.399824,
+                2.8
               ]
             },
             {
@@ -283,7 +297,8 @@
                 2.86688,
                 1.440544,
                 2.880478,
-                3.597872
+                3.597872,
+                2.9
               ]
             },
             {
@@ -300,7 +315,8 @@
                 3.03552,
                 1.51984,
                 3.039036,
-                3.79592
+                3.79592,
+                3
               ]
             }
           ]
@@ -476,6 +492,30 @@
         "Name": "Bài Ca Trời Cao",
         "Description": "Triệu hồi ngọn gió kết hợp thơ và nhạc, cuốn mọi thứ trong bụi mù lên không trung.\n\n<color=#FFD780FF>Nhấn</color>\nTại vị trí của mục tiêu gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nLấy bản thân làm trung tâm gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch.\nSau khi nhấn giữ, Venti cưỡi gió bay lên không trung.\n\nĐịch bị Bài Ca Trời Cao đánh bay, trong thời gian ngắn sẽ rơi chậm.\n\n<i>Trong thời đại mà thần cùng con người cùng sống trên trái đất, có vô số bài hát truyền khắp bốn phương. Đây là giai điệu đã sớm bị lãng quên.</i>",
         "Icon": "Skill_S_Venti_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Đêm Lễ Ma Nữ - Như Gió Ca Tụng",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Về Chuyện Nổi Gió</color>, Venti sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\nTrong thời gian tồn tại Mắt Bão tạo ra từ Kỹ Năng Nộ <color=#FFD780FF>Bài Thơ Thần Gió</color>, trong 4s sau khi nhân vật trong trận hiện tại ở gần kích hoạt phản ứng Khuếch Tán, nhân vật này tăng 50% sát thương gây ra, đồng thời khiến Mắt Bão của bản thân Venti gây ra 135% sát thương gốc.",
+        "Icon": "UI_Talent_S_Venti_07"
       }
     ],
     "EnergySkill": {
@@ -674,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Cái Ôm Của Gió",
@@ -694,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Mắt Bão",
@@ -927,6 +969,10 @@
       {
         "Title": "Về Dahlia...",
         "Context": "#Nhà Lữ Hành, {F#cô}{M#cậu} muốn lắng nghe tiếng gió và cầu xin sự chỉ dẫn của gió sao? Nếu vậy thì... đi tìm vị phó tế này chắc chắn không sai đâu. Haha, nói đùa thôi. {F#Cô}{M#Cậu} có thể tìm tôi bất cứ lúc nào để uống rượu và trò chuyện nhé! Còn về lý do tại sao tôi thường nhờ Dahlia chuyển lời thì... chắc cũng đoán ra rồi chứ? Cậu ta say mê đuổi theo những cơn gió ồn ào, nhưng chưa bao giờ đánh mất phương hướng của chính mình."
+      },
+      {
+        "Title": "Về Durin...",
+        "Context": "Lại có một đứa con của ma nữ đến định cư ở Mondstadt rồi, thật là náo nhiệt đấy. Cậu nhóc này có vẻ rất muốn chơi với một người bạn to xác của tôi, thế nên tôi đã làm một vài công tác giới thiệu cho nhau. Điều bất ngờ là người bạn to xác đó còn phấn khích hơn cả cậu nhóc, vui đến mức nhảy tưng tưng, vỗ bụng xoay vòng nhảy múa nữa. Ôi, bị người bạn to xác đó nghe thấy rồi sao? Nhanh nào, chúng ta mau trốn sau cái cây thôi."
       },
       {
         "Title": "Muốn tìm hiểu Venti - Điều thứ 1",

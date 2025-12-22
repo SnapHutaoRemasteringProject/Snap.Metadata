@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Brisa alboalada",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Cual Adeptus en su morada",
@@ -989,6 +991,10 @@
       {
         "Title": "Sobre Gaming...",
         "Context": "Le tengo mucho aprecio a Gaming. Es amable, habla de temas interesantes y nunca suena grandilocuente. Cuando lo conocí, yo estaba descansando en la orilla de un estanque cuando él se acercó para compartir algo de comida conmigo. Luego me dijo que, más que como una Adeptus, me veía como alguien sabio y mayor que él y a quien respeta. Jeje, pues como Adeptus sabia y mayor que él, me aseguraré de cuidarlo bien."
+      },
+      {
+        "Title": "Sobre Zibai...",
+        "Context": "Desbloqueable en Niv. de Amistad 4"
       },
       {
         "Title": "Más sobre Xianyun (I)",

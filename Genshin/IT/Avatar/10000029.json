@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Rito della Vigilia della strega: Magia scintillante",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Sulle foglie che scintillano</color>, Klee acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\nQuando Klee infligge DAN da attacchi normali, abilità elementale o Tripudio elementale, ottiene un Distintivo Bumbum che dura 20{NON_BREAK_SPACE}s. In questo modo, è possibile ottenere non più di 1 Distintivo Bumbum per ogni tipo d'attacco, ciascuno di durata indipendente. Quando Klee ha 1/2/3 Distintivi Bumbum, il suo attacco caricato speciale Colpo Bumbum infligge un 115%/130%/150% dei suoi DAN originali.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Batosta a sorpresa",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Scoppio scintillante",
@@ -721,7 +749,7 @@
       {
         "Id": 294,
         "Name": "Esplosione scintillante",
-        "Description": "Se Klee lascia il campo di battaglia mentre <color=#FFD780FF>Schizzi e scintille</color> è attiva, verrà innescata un'esplosione che infligge <color=#FF9999FF>DAN da Pyro ad area</color> pari a un 555% del suo ATT.",
+        "Description": "Se Klee lascia il campo di battaglia mentre <color=#FFD780FF>Schizzi e scintille</color> è attiva, si innesca un'esplosione che infligge <color=#FF9999FF>DAN da Pyro ad area</color> pari a un 555% del suo ATT.",
         "Icon": "UI_Talent_S_Klee_03"
       },
       {
@@ -737,7 +765,7 @@
       {
         "Id": 296,
         "Name": "Delizia ardente",
-        "Description": "#Mentre è sotto l'effetto di <color=#FFD780FF>Schizzi e scintille</color>, Klee ripristinerà 3 di energia a tutti i membri del gruppo (esclusa Klee) ogni 3{NON_BREAK_SPACE}s.\nQuando <color=#FFD780FF>Schizzi e scintille</color> viene usata, tutti i membri del gruppo otterranno un <color=#FF9999FF>bonus DAN da Pyro</color> di un 10% per 25{NON_BREAK_SPACE}s.",
+        "Description": "#Mentre è sotto l'effetto di <color=#FFD780FF>Schizzi e scintille</color>, Klee ripristina di 3 l'energia di tutti i membri del gruppo (esclusa sé stessa) ogni 3{NON_BREAK_SPACE}s.\nPer 25{NON_BREAK_SPACE}s dopo aver usato <color=#FFD780FF>Schizzi e scintille</color>, tutti i membri del gruppo ottengono un <color=#FF9999FF>bonus DAN da Pyro</color> pari a un 10%.",
         "Icon": "UI_Talent_S_Klee_04"
       }
     ]
@@ -886,6 +914,10 @@
       {
         "Title": "A proposito di Sucrose",
         "Context": "Sucrose è la migliore! Una volta mi ha chiesto se volessi un Coniglio Bumbum che può correre e saltare. Eheheh, beh, certo che lo voglio! Ne voglio mille! Voglio metterli in ogni strada, ogni scala e ogni piazza di Mondstadt!"
+      },
+      {
+        "Title": "A proposito di Durin",
+        "Context": "Eheh, adesso Durin vive a Mondstadt... Andrò a giocare con lui ogni giorno! Lo porterò a fare pesca esplosiva, e lui potrà farmi volare in alto per lanciare il Coniglio Bumbum sui pesci!"
       },
       {
         "Title": "Altro su Klee (1)",
@@ -1116,5 +1148,11 @@
     "Description": "Stile per la carta giocatore.\nQual è l'esplosivo fortunato di Klee? Il Coniglio Bumbum o Dodoco? (Indizio: osserva bene la coda...)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Eco: Sole fugace",
+    "Description": "L'Eco immaginario di Klee. \"Tattaratà! La Cavalier Scintilla corre all'avventura!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

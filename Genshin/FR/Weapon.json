@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Athame Artis",
+    "Description": "Une épée précieuse offerte par le roi du jour au brave héros de l'histoire de la petite sorcière, mais la sorcière s'en empara et vainquit elle-même le héros.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Gloire ardente du roi du jour",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de <color=#99FFFFFF>16 %</color> et toucher un ennemi avec un déchaînement élémentaire accorde l'effet Lame du jour : augmente l'ATQ de <color=#99FFFFFF>20 %</color> et augmente l'ATQ des personnages déployés à proximité autre que le personnage équipé de l'arme de <color=#99FFFFFF>16 %</color>, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+        },
+        {
+          "Level": 1,
+          "Description": "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de <color=#99FFFFFF>20 %</color> et toucher un ennemi avec un déchaînement élémentaire accorde l'effet Lame du jour : augmente l'ATQ de <color=#99FFFFFF>25 %</color> et augmente l'ATQ des personnages déployés à proximité autre que le personnage équipé de l'arme de <color=#99FFFFFF>20 %</color>, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+        },
+        {
+          "Level": 2,
+          "Description": "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de <color=#99FFFFFF>24 %</color> et toucher un ennemi avec un déchaînement élémentaire accorde l'effet Lame du jour : augmente l'ATQ de <color=#99FFFFFF>30 %</color> et augmente l'ATQ des personnages déployés à proximité autre que le personnage équipé de l'arme de <color=#99FFFFFF>24 %</color>, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+        },
+        {
+          "Level": 3,
+          "Description": "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de <color=#99FFFFFF>28 %</color> et toucher un ennemi avec un déchaînement élémentaire accorde l'effet Lame du jour : augmente l'ATQ de <color=#99FFFFFF>35 %</color> et augmente l'ATQ des personnages déployés à proximité autre que le personnage équipé de l'arme de <color=#99FFFFFF>28 %</color>, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+        },
+        {
+          "Level": 4,
+          "Description": "#Les DGT CRIT infligés par les déchaînements élémentaires augmentent de <color=#99FFFFFF>32 %</color> et toucher un ennemi avec un déchaînement élémentaire accorde l'effet Lame du jour : augmente l'ATQ de <color=#99FFFFFF>40 %</color> et augmente l'ATQ des personnages déployés à proximité autre que le personnage équipé de l'arme de <color=#99FFFFFF>32 %</color>, le tout pendant 3{NON_BREAK_SPACE}s.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, les effets de la lame du jour augmentent de 75 % de plus. Cet effet peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Arc pluvial du serpent arc-en-ciel",
+    "Description": "Une arme cérémonielle ancestrale transmise par les Maîtres du vent nocturne. Cet arc ténébreux est à jamais imprégné d'un froid inébranlable.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Murmures astraux d'au-delà du trône sacré",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de <color=#99FFFFFF>28 %</color> pendant 8 s après que le personnage équipé de l'arme touche un ennemi."
+        },
+        {
+          "Level": 1,
+          "Description": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de <color=#99FFFFFF>35 %</color> pendant 8 s après que le personnage équipé de l'arme touche un ennemi."
+        },
+        {
+          "Level": 2,
+          "Description": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de <color=#99FFFFFF>42 %</color> pendant 8 s après que le personnage équipé de l'arme touche un ennemi."
+        },
+        {
+          "Level": 3,
+          "Description": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de <color=#99FFFFFF>49 %</color> pendant 8 s après que le personnage équipé de l'arme touche un ennemi."
+        },
+        {
+          "Level": 4,
+          "Description": "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, l'ATQ augmente de <color=#99FFFFFF>56 %</color> pendant 8 s après que le personnage équipé de l'arme touche un ennemi."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Les chroniques de l'aube",
+    "Description": "Les poèmes de la résistance furent transportés par les vents pour se poser en douces mélodies sur ces cordes. Son pouvoir est assez puissant pour transpercer les ténèbres les plus profondes et laisser place à la lumière du jour.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ode par-delà le temps",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Le personnage équipé de l'arme obtient l'effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de <color=#99FFFFFF>60 %</color>. En combat, l'effet de ce bonus diminue de <color=#99FFFFFF>10{NON_BREAK_SPACE}%</color> toutes les secondes jusqu'à atteindre 0 %. Lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l'effet de ce bonus pour le type de DGT correspondant augmente de <color=#99FFFFFF>10 %</color>, jusqu'à une augmentation maximum de <color=#99FFFFFF>60 %</color>. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d'attaque et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'augmentation du bonus de DGT lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à <color=#99FFFFFF>20 %</color> et s'applique à tous les types de DGT concernés."
+        },
+        {
+          "Level": 1,
+          "Description": "#Le personnage équipé de l'arme obtient l'effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de <color=#99FFFFFF>75 %</color>. En combat, l'effet de ce bonus diminue de <color=#99FFFFFF>12,5{NON_BREAK_SPACE}%</color> toutes les secondes jusqu'à atteindre 0 %. Lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l'effet de ce bonus pour le type de DGT correspondant augmente de <color=#99FFFFFF>12,5 %</color>, jusqu'à une augmentation maximum de <color=#99FFFFFF>75 %</color>. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d'attaque et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'augmentation du bonus de DGT lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à <color=#99FFFFFF>25 %</color> et s'applique à tous les types de DGT concernés."
+        },
+        {
+          "Level": 2,
+          "Description": "#Le personnage équipé de l'arme obtient l'effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de <color=#99FFFFFF>90 %</color>. En combat, l'effet de ce bonus diminue de <color=#99FFFFFF>15{NON_BREAK_SPACE}%</color> toutes les secondes jusqu'à atteindre 0 %. Lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l'effet de ce bonus pour le type de DGT correspondant augmente de <color=#99FFFFFF>15 %</color>, jusqu'à une augmentation maximum de <color=#99FFFFFF>90 %</color>. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d'attaque et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'augmentation du bonus de DGT lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à <color=#99FFFFFF>30 %</color> et s'applique à tous les types de DGT concernés."
+        },
+        {
+          "Level": 3,
+          "Description": "#Le personnage équipé de l'arme obtient l'effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de <color=#99FFFFFF>105 %</color>. En combat, l'effet de ce bonus diminue de <color=#99FFFFFF>17,5{NON_BREAK_SPACE}%</color> toutes les secondes jusqu'à atteindre 0 %. Lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l'effet de ce bonus pour le type de DGT correspondant augmente de <color=#99FFFFFF>17,5 %</color>, jusqu'à une augmentation maximum de <color=#99FFFFFF>105 %</color>. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d'attaque et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'augmentation du bonus de DGT lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à <color=#99FFFFFF>35 %</color> et s'applique à tous les types de DGT concernés."
+        },
+        {
+          "Level": 4,
+          "Description": "#Le personnage équipé de l'arme obtient l'effet Brise éveillante : après avoir été hors combat pendant 3 s, les DGT infligés par les attaques normales, les compétences élémentaires et les déchaînements élémentaires augmentent de <color=#99FFFFFF>120 %</color>. En combat, l'effet de ce bonus diminue de <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color> toutes les secondes jusqu'à atteindre 0 %. Lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire, l'effet de ce bonus pour le type de DGT correspondant augmente de <color=#99FFFFFF>20 %</color>, jusqu'à une augmentation maximum de <color=#99FFFFFF>120 %</color>. Cet effet peut être déclenché une fois toutes les 0,1 s pour chaque type d'attaque et peut être déclenché même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nDe plus, lorsque l'équipe bénéficie de l'effet Hexerei : Rituel secret, l'augmentation du bonus de DGT lorsque le personnage équipé de l'arme touche un ennemi avec une attaque normale, une compétence élémentaire ou un déchaînement élémentaire passe à <color=#99FFFFFF>40 %</color> et s'applique à tous les types de DGT concernés."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

@@ -1640,6 +1640,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "杜林的命星",
+    "Description": "杜林的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "雅珂达的命星",
+    "Description": "雅珂达的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2814,6 +2836,28 @@
     "Description": "奈芙尔的命之座激活素材",
     "TypeDescription": "命之座激活",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "杜林的命星",
+    "Description": "杜林的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "雅珂达的命星",
+    "Description": "雅珂达的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -30744,6 +30788,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的40%，并额外恢复2350点生命值。",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「课后作业」",
+    "Description": "雅珂达的特色料理。在第六次找伊涅芙请教烘焙技巧之后，雅珂达终于交上了她的作业——亲手制作的甜点。虽然造型看着歪歪扭扭的，但莓果的香气十分甜蜜，味道…呃，应该不会太差？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的40%，并额外恢复2350点生命值。",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "苹果焖肉（初试版）",
+    "Description": "杜林的特色料理。模仿你做菜的模样，杜林做出了人生第一道菜肴。四溢的果香中藏有他对这个世界美食的懵懂理解，微微焦脆的边缘是他努力控制自己力量的成果。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的30%，并在之后的30秒内，每5秒恢复510点生命值。",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "奇怪的香辛炸鸡块",
+    "Description": "裹着绿色脆皮的炸鸡。还没尝到炸鸡的味道，就被大量的香辛料呛得咳嗽…原本打算饱餐一顿后就去学习，只可惜现在更需要找杯水喝…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的32%，并在之后的30秒内，每5秒恢复730点生命值。",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "香辛炸鸡块",
+    "Description": "裹着绿色脆皮的炸鸡。鸡块裹上加入香辛料调制的面糊，再油炸而成。据说只要吃完，就会燃起刻苦学习的冲动…真的如此神奇吗？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的35%，并在之后的30秒内，每5秒恢复930点生命值。",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "美味的香辛炸鸡块",
+    "Description": "裹着绿色脆皮的炸鸡。趁热咬上一口，辛辣的味道唤醒了味蕾，丰盈的肉汁在唇齿之间迸发，使人精神抖擞…保持这种状态，总觉得无论什么知识都能学得进去！",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "好看又好吃，但是几乎没什么用。",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "糖雕・雅珂达",
+    "Description": "以人物印象为参考制作的糖雕。指引方向的罗盘，让人想到了秘闻馆的优秀雇员雅珂达。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "好看又好吃，但是几乎没什么用。",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "糖雕・月灵",
+    "Description": "以奇妙生物为原型制作的糖雕。轻飘飘的模样，是乖巧可爱的月灵。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33556,6 +33684,17 @@
     "ItemType": 2,
     "Name": "食谱：奶油鲑鱼汤",
     "Description": "步骤详实的食谱,记载着「奶油鲑鱼汤」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "食谱：香辛炸鸡块",
+    "Description": "步骤详实的食谱,记载着「香辛炸鸡块」的制作方法。",
     "TypeDescription": "食谱",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36434,6 +36573,17 @@
     "Description": "击败霜夜巡天灵主之后，自其角冠上脱落的碎片，质地轻盈而锋锐，即便是在未经打磨的情况下，也能毫不费力地削开普通的金属护甲。\n古老的民话中，这些高傲而优美的生灵受造于最初的神使。乐园殒落之时，它们曾与霜月的女主人立约，誓要以得赐于霜月的源光，涤净尘世的污秽，直至旧日的恩主再度归来。传说的来由与真实性如今早已无从考证，但过去与光同行的生灵依然在影中庇卫着这片大地——无论是凛冽的长夜还是漆黑的枯潮，都未能使它们的身姿从世间隐匿。",
     "TypeDescription": "角色培养素材",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "循环式军用月矩核心",
+    "Description": "击败超重型陆巡舰·机动战垒之后，自其能源核心中取得的月矩力装置。\n枫丹动能工程科学研究院曾定义过数类元素工质发动机的理想循环模式，无论是哪一种，最为完美的循环数目皆为四。尽管军械宫与帕哈岛试验设计局的工程师们大多倾向于将月矩力视为一种不同于元素力的工质，四循环以外的设计构型依然被证明是低效而不实用的。从某种意义上来说，「四」的循环也许是世界古怪的偏好吧——当然，世界也许并无偏好，对世界而言，自作聪明的凡人擅自猜度的习惯才是最古怪的偏好也说不定。",
+    "TypeDescription": "角色培养素材",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48781,7 +48931,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49098,6 +49248,127 @@
     "Description": "从箱子里取出来的一部分「秘闻馆」资金。千金不易得，谨慎使用。",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "莱茵多特的「礼物」",
+    "Description": "「黄金」莱茵多特赠给阿贝多的礼物。\n一份新礼物，一份新问题。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "破旧的「玩偶」",
+    "Description": "由伊赫安提所做的「玩偶」，和雅珂达之前所做的某种玩偶有所相似。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "特别的糖雕匣",
+    "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "「秘闻馆」资金",
+    "Description": "从箱子里取出来的一部分「秘闻馆」资金。千金不易得，谨慎使用。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「祈月之夜」导览册",
+    "Description": "那夏镇「祈月之夜」上发放的导览册，内部展示了许多可供游玩的有趣摊位。足以让参与者留下一晚难忘的回忆。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "送给哥伦比娅的贺卡",
+    "Description": "同伴们为哥伦比娅准备的祈月之夜贺卡，包含着大家对哥伦比娅的祝福。愿她不论身处何处，都能想起今夜朋友们的笑容。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "哥伦比娅准备的祈月糖",
+    "Description": "哥伦比娅为大家准备的祈月糖。在她的奇思妙想下，糖果呈现出了许许多多奇特的味道，或许也是存在于她记忆中的味道。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "哥伦比娅准备的祈月糖",
+    "Description": "哥伦比娅为大家准备的祈月糖。在她的奇思妙想下，糖果呈现出了许许多多奇特的味道，或许也是存在于她记忆中的味道。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "炽魂斗士战记·第二册",
+    "Description": "以纳塔本地传说为蓝本的历史幻想系漫画织卷——《炽魂斗士战记》，现已推出典藏版。\n英雄们悉数登场，光芒于风云际会之时交相辉映，在残酷的战斗中用生命为后世开辟道路！",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "名为「杜林」的故事",
+    "Description": "魔女M留下的魔法书最终还是要交给杜林，让他继续书写下去。艾莉丝为它制作了一件复制品，并将其送给了你。毕竟你是这个故事的见证者，没有纪念品可不行。当然，这件复制品没有神奇的魔法，但精彩的桥段都不缺。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "特别的糖雕匣",
+    "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -51757,7 +52028,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百四十八",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「晨风拭惬气」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51768,7 +52039,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百四十九",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「晚间畅惬」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51779,7 +52050,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「湛火的土壤」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51790,7 +52061,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十一",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「如铸星之业」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51801,7 +52072,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十二",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「源火的深隍」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51812,7 +52083,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十三",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「休暑且纵意」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51823,7 +52094,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十四",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「不绵的守望」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51834,7 +52105,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十五",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「宿浪抚沙岸」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51845,7 +52116,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十六",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自纳塔的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「彩染的绮绘」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52530,6 +52801,17 @@
     "Description": "「天光的纺琴」专用的精炼道具。\n在早已失落的古代文明中，曾有人认为主宰世界的命运就像舞台上的唱段，是由高天之上一架巨大的竖琴编制而成。或许是因为他们曾亲眼见过天使从天光中抽出金色的琴弦，在宏伟的乐声中宣告命运的无情。",
     "TypeDescription": "精炼材料",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "练心",
+    "Description": "「虹蛇的雨弦」专用的精炼道具。\n被弓手长期佩戴的护指，色彩鲜艳，制作精良。\n箭矢的准头有赖于弓手的经验，其人凝息拨弦的次数越多，弓与箭越能随心而动。搭弦挽弓便是练心，护指有多破损，心就有多锐利。",
+    "TypeDescription": "精炼材料",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54600,6 +54882,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "小魔女辞典",
+    "Description": "从艾莉丝那里得到的，由魔女们共同撰写的辞典。虽说名义上是为了一本名为《小魔女与不熄灭的火》的寓言书所作的注释，但实际内容却是魔女会为大家量身定制的「课题」。\n正所谓「流溢的逆行即是课业」，与伙伴们一同踏上取得擢升之冠冕的旅途吧！",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55511,6 +55804,17 @@
     "Description": "能够让兴致高昂的谈话继续下去的秘诀，其实是…",
     "TypeDescription": "头像",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "勤思勉学",
+    "Description": "日有所学，夜有所梦，或许这也是种知识进入脑海的方式吧…",
+    "TypeDescription": "头像",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -69857,38 +70161,179 @@
     "Icon": "UI_ItemIcon_Home_Common"
   },
   {
-    "Rank": 11101,
-    "MaterialType": 14,
-    "Id": 113080,
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「奇妙闪闪」",
+    "Description": "步骤详实的图纸，记载着「『奇妙闪闪』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「好运速转」",
+    "Description": "步骤详实的图纸，记载着「『好运速转』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「食欲迸发」",
+    "Description": "步骤详实的图纸，记载着「『食欲迸发』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "酒馆公告-「市井传闻」",
+    "Description": "步骤详实的图纸，记载着「酒馆公告-『市井传闻』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「一秒钟快快」",
+    "Description": "步骤详实的图纸，记载着「『一秒钟快快』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「实用型便携探测器」",
+    "Description": "步骤详实的图纸，记载着「『实用型便携探测器』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「超级烤肉传奇」",
+    "Description": "步骤详实的图纸，记载着「『超级烤肉传奇』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「摇摇小马」",
+    "Description": "步骤详实的图纸，记载着「『摇摇小马』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "立式三脚双极塔",
+    "Description": "步骤详实的图纸，记载着「立式三脚双极塔」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「失芬芳之花」",
+    "Description": "步骤详实的图纸，记载着「『失芬芳之花』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "循环式军用月矩核心",
-    "Description": "击败超重型陆巡舰 · 机动战垒之后，自其能源核心中取得的月矩力装置。\n枫丹动能工程科学研究院曾定义过数类元素工质发动机的理想循环模式，无论是哪一种，最为完美的循环数目皆为四。尽管军械宫与帕哈岛试验设计局的工程师们大多倾向于将月矩力视为一种不同于元素力的工质，四循环以外的设计构型依然被证明是低效而不实用的。从某种意义上来说，「四」的循环也许是世界古怪的偏好吧——当然，世界也许并无偏好，对世界而言，自作聪明的凡人擅自猜度的习惯才是最古怪的偏好也说不定。\n30级以上超重型陆巡舰 · 机动战垒掉落",
-    "TypeDescription": "角色培养素材",
-    "Icon": "UI_ItemIcon_113080"
+    "Name": "「魔龙出击」",
+    "Description": "步骤详实的图纸，记载着「『魔龙出击』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
   },
   {
-    "Rank": 330005,
-    "MaterialType": 1,
-    "EffectDescription": "为选中的角色恢复生命值上限的40%，并额外恢复2350点生命值。",
-    "Id": 108924,
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "苹果焖肉（初试版）",
-    "Description": "杜林的特色料理。模仿你做菜的模样，杜林做出了人生第一道菜肴。四溢的果香中藏有他对这个世界美食的懵懂理解，微微焦脆的边缘是他努力控制自己力量的成果。",
-    "TypeDescription": "食物",
-    "Icon": "UI_ItemIcon_330005"
+    "Name": "「独步行者」",
+    "Description": "步骤详实的图纸，记载着「『独步行者』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
   },
   {
-    "Rank": 330005,
-    "MaterialType": 1,
-    "EffectDescription": "为选中的角色恢复生命值上限的40%，并额外恢复2350点生命值。",
-    "Id": 108921,
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "「课后作业」",
-    "Description": "雅珂达的特色料理。在第六次找伊涅芙请教烘焙技巧之后，雅珂达终于交上了她的作业——亲手制作的甜点。虽然造型看着歪歪扭扭的，但莓果的香气十分甜蜜，味道…呃，应该不会太差？",
-    "TypeDescription": "食物",
-    "Icon": "UI_ItemIcon_330005"
+    "Name": "「不变的明光」",
+    "Description": "步骤详实的图纸，记载着「『不变的明光』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「小小雀雀」",
+    "Description": "步骤详实的图纸，记载着「『小小雀雀』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「美食大盗」",
+    "Description": "步骤详实的图纸，记载着「『美食大盗』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「幕后黑鼬」",
+    "Description": "步骤详实的图纸，记载着「『幕后黑鼬』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
   }
 ]

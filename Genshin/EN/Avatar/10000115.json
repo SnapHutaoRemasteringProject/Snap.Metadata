@@ -655,7 +655,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1152101,
         "Name": "The Wind's Gentle Grace",
@@ -675,7 +676,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1152201,
         "Name": "Prayer of Well-Wrought Joy",
@@ -774,7 +776,7 @@
     "Fetters": [
       {
         "Title": "Hello",
-        "Context": "Greetings, I'm Dahlia, Deacon of the Church of Favonius and Herald of Barbatos. As you can probably tell, I'm going out of my mind with boredom right now. So, what's going on in your life? Any issues you're facing? I'm hear to listen. And probably to laugh, a little... But also to help."
+        "Context": "Greetings, I'm Dahlia, Deacon of the Church of Favonius and Herald of Barbatos. As you can probably tell, I'm going out of my mind with boredom right now. So, what's going on in your life? Any issues you're facing? I'm here to listen. And probably to laugh, a little... But also to help."
       },
       {
         "Title": "Chat: A Whisper on the Wind",
@@ -954,7 +956,7 @@
       },
       {
         "Title": "Elemental Burst: I",
-        "Context": "May god protect you!"
+        "Context": "May the Archon protect you!"
       },
       {
         "Title": "Elemental Burst: II",

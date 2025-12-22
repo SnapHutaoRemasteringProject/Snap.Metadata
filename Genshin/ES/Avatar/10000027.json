@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Plan B",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Reserva estratégica",
@@ -829,6 +831,10 @@
       {
         "Title": "Sobre Xianyun...",
         "Context": "#Tengo pensado ir dentro de unos días con Xianyun a una casa de té. Justamente he estado reuniendo algunos artilugios para preguntarle por su sabia opinión, y de paso, también para que me cuente algunas historias interesantes sobre la vida de los Adeptus en Liyue. Ahora solo necesito a alguien que le entregue esta carta de invitación... ¿Te interesaría hacerlo, {NICKNAME}?"
+      },
+      {
+        "Title": "Sobre la Adeptus Yegua Blanca...",
+        "Context": "Desbloqueable en Niv. de Amistad 4"
       },
       {
         "Title": "Más sobre Ninguang (I)",

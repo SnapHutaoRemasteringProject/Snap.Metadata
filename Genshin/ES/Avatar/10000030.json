@@ -721,7 +721,8 @@
                 0.05
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302101,
         "Name": "Ondas resonantes",
@@ -742,7 +743,8 @@
                 0.33
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302201,
         "Name": "Dominio de la Tierra",
@@ -977,6 +979,10 @@
         "Context": "La larga historia de lucha de Natlan impulsó a sus guerreros a trascender el Abismo y la amenaza del destino para forjar un nuevo futuro. Detrás de este triunfo se encuentra una líder que maneja el tiempo y la historia como sus armas, con un nivel de fuerza comparable al de los dioses. Es realmente impresionante."
       },
       {
+        "Title": "Sobre la Adeptus Yegua Blanca...",
+        "Context": "La yegua blanca... Una vieja conocida a la que no veía desde hacía mucho tiempo. Lamentablemente, las noches de primavera son cortas, y los días de otoño pasan rápido. Un corcel se desboca y galopa velozmente, como una vela que se balancea con la brisa."
+      },
+      {
         "Title": "Más sobre Zhongli (I)",
         "Context": "¿Qué pasa? A duras penas logré encontrar tiempo para descansar, y ahora vienes a buscarme. ¿Quieres que te cuente una historia?"
       },
@@ -998,7 +1004,7 @@
       },
       {
         "Title": "Aficiones de Zhongli...",
-        "Context": "Cuando no tengo nada hacer, me gusta pasear por la ciudad. Es algo que me relaja mucho. Vaya, ¿desde cuándo me siento así?"
+        "Context": "Cuando no tengo nada que hacer, me gusta pasear por la ciudad. Es algo que me relaja mucho. Vaya, ¿desde cuándo me siento así?"
       },
       {
         "Title": "Preocupaciones de Zhongli...",

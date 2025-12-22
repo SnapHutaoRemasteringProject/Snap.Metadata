@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Kucing Malas Gerak",
     "Description": "Boneka kucing mekanik yang dibuat berdasarkan gaya kucing hitam yang terkenal. Memiliki beberapa tombol interaktif.\nSemua orang tahu, kucing adalah makhluk yang sangat misterius. Dengan prinsip ini, pembuat boneka ini menambahkan beberapa fungsi menarik, ada perilaku yang membuat kucing bahagia, tapi perilaku lainnya bisa membuat kucing malas gerak ini tiba-tiba melompat ....",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363411,
+    "Name": "\"Kilau Luar Biasa\"",
+    "Description": "Lampu meja yang terdiri dari dudukan dan tiga bola lampu melayang, desain uniknya terinspirasi dari perangkat penerangan di Kota Nasha.\n\"Bagaimana bisa melayang sambil bersinar begitu?\" Kemampuan bola lampu untuk melayang sepertinya ada hubungannya dengan kuuvahki, dan turis asing yang lewat selalu terkagum-kagum dengan desain yang menakjubkan ini.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363412,
+    "Name": "\"Roda Keberuntungan\"",
+    "Description": "Roda Keberuntungan yang bisa ditemukan di Kota Nasha, memiliki jarum penunjuk yang bisa berputar bebas di bagian tengahnya, yang akan menunjuk ke gelas-gelas berwarna dengan arti yang berbeda-beda.\n\"Putar rodanya, dan saat berhenti, 'Hot Dog' akan memberi tahu peruntunganmu hari ini.\" Tentu saja, kalau tidak puas dengan hasil putaran pertama, kamu bisa coba putar lagi beberapa kali ....",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363413,
+    "Name": "\"Menggugah Selera\"",
+    "Description": "Piring yang bisa ditemukan di mana saja di Kota Nasha, biasanya penuh dengan roti dan sosis yang mengenyangkan.\nRoti keemasan yang renyah, sosis panas mendesis ... sebagian besar pengembara yang kelaparan sulit menahan godaan makanan seperti ini. Hanya saja, setelah masuk ke Serenitea Pot sebagai perabotan, makanan-makanan ini hanya berfungsi untuk \"Menggugah Selera\" ....",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363386,
+    "Name": "\"Sauri-Sauri Seluncur\"",
+    "Description": "Boneka berbentuk Iktomisaurus Chick ini dilengkapi dengan inti mekanisme \"Rekan Pengintai\" dari Sumeru, yang dapat membantu mengintai monster dan mengamati medan. Boneka ini akan menjadi teman petualang yang imut dan dapat diandalkan.\nPetugas survei lapangan barisan depan Mika telah melakukan penyempurnaan menyeluruh pada \"Sauri-Sauri Seluncur\" dengan menggabungkan pengetahuan profesionalnya dan kebutuhan petualang. Berfokus meningkatkan keakuratan pengamatan medan dan fleksibilitas pergerakan, serta memilih sosok Iktomisaurus Chick yang memiliki kepekaan tinggi. Bagaimanapun juga, dalam petualangan yang penuh bahaya, rekan yang peka dan cerdik adalah sosok yang paling bisa diandalkan oleh semua orang.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 364225,
+    "Name": "Pengumuman Kedai: Rumor Jalanan",
+    "Description": "Papan Pengumuman di \"The Flagship\" yang digunakan untuk memasang hadiah sayembara, permukaannya cukup luas untuk menampung banyak pengumuman sayembara.\nKebanyakan orang sulit dapat bayaran tinggi dari sayembara yang rumit, tapi setelah membaca tulisan yang penuh informasi itu, mereka sering bisa menyusun satu per satu rumor kota yang aneh ....",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374637,
+    "Name": "\"Satu Detik Beres\"",
+    "Description": "Mesin yang ada di \"Clink-Clank Krumkake Craftshop\", memiliki lengan robot yang kompak dan presisi.\n\"Tunggu sebentar ya, 'Satu Detik Beres' bisa selesaikan semua~\" Mesin ini memang bekerja sangat efisien, tapi tidak bisa menyelesaikan semua dalam \"satu detik\" ... mungkin sang penemu berpikir ini adalah kecepatan yang tidak akan pernah dikeluhkan oleh pelanggan.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 373939,
+    "Name": "\"Detektor Portabel Praktis\"",
+    "Description": "Detektor yang sering ditemukan di Kota Nasha ini digunakan untuk mendeteksi material yang masih bisa dipakai dari tumpukan barang bekas yang perlu segera diproses. Namun, kebanyakan benda yang ditemukan detektor ini justru benda-benda aneh ... seperti kacamata hitam pria tua yang hilang, atau kancing baju seorang wanita yang tidak sengaja terlepas ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374639,
+    "Name": "\"Pemanggang Super Legendaris\"",
+    "Description": "Mesin pemanggang daging dari Kota Nasha, mampu mempertahankan suhu yang stabil, sehingga daging tetap empuk dan penuh sari.\nKonon, orang yang bertugas memanggang daging akan tanpa sadar bersenandung dengan riang saat menggunakan mesin ini ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374640,
+    "Name": "\"Kuda-Kudaan Goyang\"",
+    "Description": "Fasilitas permainan yang sering ditemukan di Kota Nasha, dibuat sepenuhnya dari besi bekas, tapi sangat disukai oleh anak-anak.\nTawa mereka mengambang di udara, tubuh anak-anak berayun mengikuti kuda-kudaan, dan kekhawatiran mereka pun melayang pergi dengan ringan~",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374641,
+    "Name": "Menara Bipolar Berkaki Tiga",
+    "Description": "Menara tiga kaki unik yang bisa ditemukan di \"Clink-Clank Krumkake Craftshop\".\nKonon, menara tiga kaki ini diubah dari mesin misterius yang tersisa dari zaman keemasan. Fitur aslinya tidak diketahui dan sekarang hanya berfungsi sebagai hiasan.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Didapatkan dari Quest Archon"
+    ],
+    "Id": 374811,
+    "Name": "\"Bersama Dirimu\"",
+    "Description": "Papan foto yang terinspirasi dari persahabatan antara Rimehorn Deer dan Chic Badger, dilengkapi dengan perangkat pencahayaan, sehingga pengunjung bisa berfoto dengan mudah bahkan di malam hari.\n\"Seperti Chic Badger yang lucu dan ... Rimehorn Deer yang ketiduran karena begadang?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Didapatkan dari Quest Archon"
+    ],
+    "Id": 373222,
+    "Name": "\"Bunga Tanpa Aroma\"",
+    "Description": "Teras berbunga yang diubah untuk menyesuaikan suasana Malam Doa Rembulan, dengan bunga-bunga mekaniknya yang memancarkan cahaya terang dan hangat di malam hari.\n\"Memang aneh ... tapi di Nod-Krai, hal seperti ini tidak aneh!\" kata beberapa pengembara.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374812,
+    "Name": "Soulblazer: Fietena",
+    "Description": "Stand karakter komik yang terinspirasi oleh Fietena dari \"Kisah Pertarungan Soulblazer\" yang sedang populer, menampilkan pose kerennya yang penuh semangat dan berani bertarung.\n\"Ayo maju bersama, aku tidak akan mundur!\"\nTentu saja, \"maju bersama\" belum tentu membawa hasil yang sempurna, tapi semangat dan usaha kalian sudah terbukti nyata. Mungkin di masa depan nanti, semua ini akan berbuah hasil yang gemilang tanpa penyesalan.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Didapatkan dari Quest Archon"
+    ],
+    "Id": 374813,
+    "Name": "\"Petualangan Berputar Dodoco\"",
+    "Description": "Wahana Dodoco yang berputar ini direkomendasikan untuk dua orang, sebuah wahana hiburan yang disponsori oleh sang penyihir agung.\n\"Ayo naik Dodoco yang empuk ini dan lewati petualangan yang tidak terlupakan!\"\nDodoco yang berputar pasti akan berhenti pada waktunya, tapi kamu dan orang yang naik Dodoco bersamamu akan selalu punya perjalanan baru yang menanti ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari membeli Gnostic Chorus Battle Pass"
+    ],
+    "Id": 374818,
+    "Name": "\"Naga yang Menyerang\"",
+    "Description": "Patung yang terinspirasi oleh seekor naga dari dunia dongeng. Patung itu memiliki sayap yang terkulai, ekspresi yang fokus, seolah-olah dalam posisi \"siap menyerang\".\n\nDengan berinteraksi, kamu bisa duduk di punggung \"Naga yang Menyerang\". Saat itu, mekanisme di dalam patung akan aktif dan membuatnya menunjukkan keadaan yang baru. Dia akan membuka mata lebar-lebar, mengepakkan sayap, dan menggerakkan ekornya, seakan-akan mengingatkan teman di punggungnya — \"Bersiaplah, kita akan segera terbang!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 360467,
+    "Name": "\"Pengembara Tunggal\"",
+    "Description": "Lampu jalan untuk penerangan di \"Clink-Clank Krumkake Craftshop\" dengan desain yang unik, bentuknya mirip seorang pengembara yang menundukkan kepala sambil berjalan.\nSaat malam tiba, lampu ini akan menyala perlahan ... \"Lampunya tinggi sekali ya, pinggang dan punggungnya tidak apa-apa?\"\nBegitulah komentar dari orang-orang yang lewat.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Didapatkan dari Quest Archon"
+    ],
+    "Id": 360468,
+    "Name": "\"Cahaya Abadi\"",
+    "Description": "Lampu yang dibuat dari logam ini meniru bentuk bulan sabit. Baik siang maupun malam, ia selalu memancarkan cahaya lembutnya dengan tenang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372516,
+    "Name": "\"Bisikan Kabut\"",
+    "Description": "Semak-semak pendek berwarna merah muda pucat, dengan rumpun batang kecil yang tumbuh tegak.\nKarena selalu tumbuh bergerombol, kadang-kadang dari kejauhan terlihat seperti kabut merah muda yang lembut, melayang rendah di atas tanah, bagai bisikan alam.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372517,
+    "Name": "\"Lambaian ke Masa Lalu\"",
+    "Description": "Tumbuhan gua dengan batang ramping dan lentur, daunnya seperti kipas-kipas kecil.\nJenis tumbuhan ini memiliki daya hidup yang sangat kuat. Bagaimanapun kondisi lingkungannya, daun-daunnya akan terus bergoyang lembut tertiup angin, seolah-olah setiap helai daun sedang melambaikan tangan mengucapkan selamat tinggal pada masa lalu.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372518,
+    "Name": "\"Kuncup Bersinar\"",
+    "Description": "Tumbuhan gua berwarna merah muda dengan daun yang mekar, memiliki \"tentakel\" kecil di ujung daunnya yang menyerupai kuncup bunga.\nTumbuhan ini memancarkan cahaya redup, di dalam gua, bisa dibilang ini juga jadi alat penerangan dengan suasana yang unik ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374814,
+    "Name": "\"Si Finch Kecil\"",
+    "Description": "Bola Pantul model Finch yang dibuat berdasarkan Ancient Scarlet-Plume Finch, memiliki penampilan yang menggemaskan.\nMeski kecil, Finch punya kekuatan yang besar!\nSaat bermain dengan bola ini, kamu pasti akan terpikat dengan keimutannya, sampai tanpa sadar berkata — \"Finch paling lucu!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374815,
+    "Name": "\"Pencuri Kuliner\"",
+    "Description": "Model yang dibuat berdasarkan \"Chip Bandit\" Gull. Sambil mengenakan topeng pencuri jahat, benar-benar terlihat seperti \"Pencuri Kuliner\" sejati.\n\"Kata Blubberbeast ... Natlan punya makanan yang unik, hmm, kalau begitu aku, si Pencuri Kuliner, harus mencicipinya sendiri!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374816,
+    "Name": "\"Musang di Balik Layar\"",
+    "Description": "Model yang dibuat berdasarkan \"Glutton\" Mountain Weasel, tak lain adalah \"Master Weaselmind\", si licik yang mengubah burung camar rakus menjadi pembawa upeti yang setia!\n\"Menurutku, 'Chip Bandit' Gull itu cuma sekumpulan pencuri bodoh ... dan aku akan menikmati semua popcorn ini sendiri!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374817,
+    "Name": "Manusia Salju Soulblazer: Pejuang",
+    "Description": "Model boneka salju yang dibuat berdasarkan Varesa ini dilengkapi dengan topeng pahlawan khasnya, menggambarkan sosoknya yang ramah dan penuh semangat dengan sangat akurat.\n\nPara desainer \"Melempar Salju\" sengaja membuat teman yang lucu ini untuk membantu para tamu dari berbagai negara bersantai. Dengan kehadirannya, bahkan saat menghadapi dinginnya Dragonspine yang menusuk tulang, kamu akan merasakan kehangatan yang istimewa.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

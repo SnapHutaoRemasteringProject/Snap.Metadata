@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Piuma della tempesta",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Rimira l'Adepta nel suo reame",
@@ -989,6 +991,10 @@
       {
         "Title": "A proposito di Gaming",
         "Context": "Costei è molto affezionata a Gaming. Ha un grande cuore, è molto piacevole avere conversazioni con lui e non risulta mai ampolloso. La prima volta che ci siamo incontrati, costei si stava riposando in riva a un lago, e lui fu così gentile da condividere con costei alcuni dei suoi viveri. Poi disse che costei sembrava molto saggia e meritevole di rispetto persino più degli stessi Adepti... Eheh, questa vecchia saggia cercherà sicuramente di prendersi cura di lui, d'ora in poi."
+      },
+      {
+        "Title": "A proposito di Zibai",
+        "Context": "Si sblocca al liv. amicizia 4"
       },
       {
         "Title": "Altro su Xianyun (1)",

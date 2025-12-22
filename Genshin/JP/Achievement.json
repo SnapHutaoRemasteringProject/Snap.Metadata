@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "QUEST CLEAR",
-    "Description": "「討伐懸賞」を10回完了する。",
+    "Description": "「討伐懸賞」を3回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "QUEST CLEAR",
-    "Description": "「討伐懸賞」を20回完了する。",
+    "Description": "「討伐懸賞」を6回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "QUEST CLEAR",
-    "Description": "「討伐懸賞」を30回完了する。",
+    "Description": "「討伐懸賞」を9回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "見習い勇者",
-    "Description": "「住民リクエスト」を10回完了する。",
+    "Description": "「住民リクエスト」を3回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "見習い勇者",
-    "Description": "「住民リクエスト」を20回完了する。",
+    "Description": "「住民リクエスト」を6回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "見習い勇者",
-    "Description": "「住民リクエスト」を30回完了する。",
+    "Description": "「住民リクエスト」を9回完了する。",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "ドルジスラヴの動く城",
+    "Description": "過熱で2回以上機能停止した重量級陸巡艦「バトルシップ」を破壊する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "大切な日",
+    "Description": "お祭りの日は楽しく過ごすもの。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "祈月の夜",
+    "Description": "月下の世界で最後の夜を愉しもう。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "永遠と一瞬の間に",
+    "Description": "昼も夜も、月光が我らを結ばん。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "朝霧に散りゆく月光",
+    "Description": "「朝霧に散りゆく月光」をクリア。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "石を持ち上げた時…",
+    "Description": "意外な収穫があるかもしれない。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "夢幻泡影のごとく",
+    "Description": "ここで起きた「歴史」を目の当たりにする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "交わる足跡",
+    "Description": "ある時、あなたたちはすれ違っていた…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "北の果ての夜想詩",
+    "Description": "「北の果ての夜想詩」をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

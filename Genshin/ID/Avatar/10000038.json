@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Witch's Eve Rite: Book of Blinding Light",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Persoalan di Luar Persoalan</color>, Albedo akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\n·Jika Elemental Skill Albedo mengakibatkan DMG terhadap musuh dalam kurun waktu 20 detik setelah dilancarkan, maka akan muncul <color=#FFD780FF>Silver Isotoma</color> di sekitar musuh yang bertahan selama 10 detik. Saat tidak ada Solar Isotoma yang dihasilkan oleh Albedo sendiri dan Albedo tidak gugur, satu Silver Isotoma akan mendapatkan efek yang sama dengan Solar Isotoma dan dapat menghasilkan Transient Blossom. Albedo bisa menciptakan maksimum 2 Silver Isotoma dalam waktu bersamaan.\n·Setelah menghasilkan Solar Isotoma, DMG Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst Karakter sekitar di dalam party akan meningkat selama 20 detik berdasarkan DEF Albedo: Untuk setiap 1.000 poin DEF, DMG meningkat 4%. Peningkatan DMG yang bisa diperoleh dengan cara ini adalah maksimum 12%.\n·Setelah menciptakan Silver Isotoma, DMG Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst milik Karakter Hexerei di sekitar dalam party akan meningkat selama 20 detik berdasarkan DEF Albedo: Untuk setiap 1.000 poin DEF, DMG meningkat 10%. Peningkatan DMG yang bisa diperoleh dengan cara ini adalah maksimum 30%.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Calcite Might",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Homuncular Nature",
@@ -878,6 +911,10 @@
       {
         "Title": "Tentang Barbara",
         "Context": "Barbara? Dia seorang Diakones yang taat. Waktu itu aku pernah menggambar wajahnya ... Di mana ya gambarnya? Ah, iya, tempo hari Albert sangat berminat dengan gambar itu, bahkan sudah buka harga, tapi kutolak. Akhirnya kuberikan gambar itu ke Acting Grand Master. Membangun hubungan sosial ... benar-benar perlu banyak usaha."
+      },
+      {
+        "Title": "Tentang Durin",
+        "Context": "Adikku ini sedang mempelajari berbagai hal baru. Dia cerdas dan sangat filosofis. Terkadang ini membuat kesulitan, tapi tetap tidak mengurangi semangatnya untuk memahami dunia. Kedatangannya, atau mungkin lebih tepatnya, bergabungnya dia dengan keluarga kami , telah memberiku pemahaman baru tentang hubungan antar manusia. Dengan kerabat terdekatku di sekitar, rumah menjadi tempat yang lebih hidup, yang tentunya merupakan hal yang positif."
       },
       {
         "Title": "Mengenal Albedo: I",
@@ -1092,5 +1129,11 @@
     "Description": "Style kartu nama.\nBiarkan aku menjadi saksi mata atas keajaiban ini.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Echo: Kreideprinz",
+    "Description": "Envisaged Echo milik Albedo. \"Solar Isotoma merekah dari nigredo yang membara.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

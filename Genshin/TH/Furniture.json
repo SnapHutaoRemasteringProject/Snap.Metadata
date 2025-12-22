@@ -119,7 +119,7 @@
       "ร้านค้า Teapot Traveling Salesman"
     ],
     "Id": 369105,
-    "Name": "Forest-Patrol Hound",
+    "Name": "สุนัขพิทักษ์ป่า",
     "Description": "เพื่อนที่ดีที่สุดของมวลมนุษย์!\nสุนัขที่มนุษย์เลี้ยงในฐานะคู่หูของพรานป่านั้นทั้งเชื่องและเฉียบแหลม สามารถทำหน้าที่ดูแลบ้านได้เป็นอย่างดี\nแม้ว่าอาณาจักรในกาน้ำชาจะปลอดภัยอย่างแน่นอน แต่พวกมันก็ยังคงเดินไปเดินมาอยู่แถวประตูและทำให้รู้สึกปลอดภัยอยู่เสมอ\n",
     "Icon": "UI_AnimalIcon_DogPrick_04",
     "Rank": 110100
@@ -2450,6 +2450,48 @@
     "GroupRecordType": 0,
     "Id": 368206,
     "Name": "Nefer",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
     "Description": "ตัวละครที่เข้าสู่อาณาจักร",
     "Icon": "",
     "Rank": 0
@@ -53691,6 +53733,606 @@
     "Name": "\"แมวน้อยนอนหมอบ\"",
     "Description": "ตุ๊กตาแมวจักรกลที่มีต้นแบบมาจากแมวดำที่มีชื่อเสียงตัวหนึ่ง มีปุ่มโต้ตอบหลากหลายรูปแบบ\nอย่างที่รู้กันดีว่า แมวเป็นสิ่งมีชีวิตที่ค่อนข้างลึกลับ และด้วยหลักการนี้ นักออกแบบจึงได้ติดตั้งเกมเพลย์ที่น่าสนใจให้ตุ๊กตาแมวจักรกลนี้... บางอย่างก็ทำให้เจ้าแมวเหมียวมีความสุข แต่บางอย่างก็ทำให้เจ้าแมวตัวน้อยที่กำลังนอนเกียจคร้านอยู่ดีดตัวสะดุ้งโหยงขึ้นมาแทน...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363411,
+    "Name": "\"ประกายมหัศจรรย์\"",
+    "Description": "โคมไฟตั้งโต๊ะที่ประกอบด้วยฐานและหลอดไฟลอยตัวสามดวง ดีไซน์อันเป็นเอกลักษณ์นี้ได้แรงบันดาลใจมาจากอุปกรณ์ส่องสว่างของเมือง Nasha\n\"มันลอยตัวพร้อมเปล่งแสงได้ยังไงกันนะ?\" การที่หลอดไฟลอยตัวได้นั้น ดูเหมือนจะเกี่ยวข้องกับแรงจันทราผัน ว่ากันว่าบรรดานักท่องเที่ยวต่างแดนที่ผ่านมา มักจะอดชื่นชมดีไซน์อันน่าทึ่งนี้ไม่ได้เลย",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363412,
+    "Name": "\"หมุนทำนาย\"",
+    "Description": "วงล้อแห่งโชคที่พบได้ทั่วไปในเมือง Nasha ตรงกลางมีเข็มหมุนที่หมุนได้อย่างอิสระ เมื่อหมุนเข็มจะชี้ไปยังถ้วยหลากสีที่มีความหมายต่างกัน\n\"หมุนวงล้อ เมื่อวงล้อหยุดลง 'ฮอทด็อก' ก็จะทำนายดวงชะตาในวันนี้ของคุณ\" และแน่นอนว่าถ้าไม่พอใจกับผลลัพธ์ ก็หมุนใหม่ได้อีกนะ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363413,
+    "Name": "\"เรียกน้ำย่อย\"",
+    "Description": "บนจานอาหารที่พบได้ทั่วไปในเมือง Nasha มักจะเต็มไปด้วยขนมปังและไส้กรอกที่อิ่มท้อง\nขนมปังสีทองกรอบ ไส้กรอกที่มีน้ำมันซึมออกมา... คงยากที่นักเดินทางผู้หิวโหยจะต้านทานความเย้ายวนของอาหารเหล่านี้ได้... แต่เมื่อมันกลายเป็นของตกแต่งใน Serenitea Pot แล้ว อาหารเหล่านี้ก็ทำหน้าที่เพียงเพื่อ \"เรียกน้ำย่อย\" เท่านั้นเอง...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363386,
+    "Name": "\"Saurian ด่านหน้า\"",
+    "Description": "ตุ๊กตารูปร่างคล้าย Iktomisaurus Chick ที่ผสานรวมกับแกนกลไก \"คู่หูสอดแนม\" จาก Sumeru สามารถช่วยตรวจตรามอนสเตอร์และสำรวจภูมิประเทศได้ จึงเป็น \"เพื่อนนักผจญภัย\" ที่ทั้งน่ารักและไว้ใจได้\nเจ้าหน้าที่สำรวจแนวหน้า Mika ได้ปรับปรุง \"Saurian ด่านหน้า\" อย่างครอบคลุม โดยใช้ความรู้ความเชี่ยวชาญของตนเองร่วมกับความต้องการของนักผจญภัย มุ่งเน้นเพิ่มความแม่นยำในการสำรวจภูมิประเทศ และความคล่องตัวในการเคลื่อนไหว พร้อมเลือกใช้รูปลักษณ์ของ Iktomisaurus Chick ที่เต็มไปด้วยสัมผัสแห่งการรับรู้ว่องไว เพราะในการผจญภัยที่เต็มไปด้วยอันตรายรอบด้าน เพื่อนร่วมทางที่ละเอียดอ่อนและเฉลียวฉลาด คือสิ่งที่ทุกคนพึ่งพาได้มากที่สุด",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 364225,
+    "Name": "ประกาศจากร้านเหล้า - \"เรื่องเล่าในเมือง\"",
+    "Description": "กระดานที่ใช้สำหรับประกาศรางวัลนำจับใน \"เรือธง\" มีขนาดกว้างใหญ่พอที่จะติดประกาศรางวัลนำจับได้มากมาย\nแม้คนส่วนใหญ่จะไม่สามารถได้รับรางวัลก้อนโตจากภารกิจที่ซับซ้อน แต่หลังจากที่พวกเขาได้อ่านตัวอักษรที่เต็มไปด้วยข่าวกรอง ก็มักจะปะติดปะต่อเรื่องเล่าประหลาดในเมืองได้ทีละเรื่องเสมอ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374637,
+    "Name": "\"หนึ่งวิพริบตาเดียว\"",
+    "Description": "ผลงานรังสรรค์จักรกลที่พบได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" มาพร้อมแขนกลขนาดกะทัดรัดและกลไกที่แม่นยำ\n\"แค่ชั่วครู่เดียว 'หนึ่งวิพริบตาเดียว' ก็ทำได้ทุกอย่างเลยนะ~\" แต่ถึงประสิทธิภาพของมันจะสูงล้ำแค่ไหน ก็ไม่สามารถทำทุกอย่างให้เสร็จภายใน \"หนึ่งวินาที\" ได้จริง... บางทีผู้ประดิษฐ์อาจคิดว่า นั่นคือความเร็วที่สมบูรณ์แบบที่สุด ในความคิดของลูกค้าก็เป็นได้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 373939,
+    "Name": "\"เครื่องตรวจจับพกพาอเนกประสงค์\"",
+    "Description": "เครื่องตรวจจับที่พบได้ทั่วไปในเมือง Nasha ใช้สำหรับตรวจหาวัสดุที่ยังใช้งานได้ จากเศษซากที่ต้องจัดการโดยด่วน แต่ส่วนใหญ่แล้ว สิ่งที่ทำให้เครื่องตรวจจับส่งเสียง \"ปี๊บ ๆ\" มักจะเป็นของแปลก ๆ ซะมากกว่า... อย่างเช่น แว่นกันแดดที่ลุงทำหล่น หรือกระดุมที่คุณหนูคนไหนทำตกไว้...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374639,
+    "Name": "\"ตำนานสุดยอดเนื้อย่าง\"",
+    "Description": "เครื่องย่างเนื้อในเมือง Nasha สามารถรักษาอุณหภูมิของไฟให้คงที่ ทำให้เนื้อยังคงความนุ่มและฉ่ำได้อย่างสมบูรณ์\nเล่ากันว่า ผู้ที่รับหน้าที่ย่างเนื้อ มักจะฮัมเพลงอย่างมีความสุขโดยไม่รู้ตัว ทุกครั้งที่ได้ยืนอยู่ตรงหน้าเจ้าเครื่องนี้...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374640,
+    "Name": "\"ม้าจิ๋วโยกเยก\"",
+    "Description": "เครื่องเล่นที่พบได้ทั่วไปในเมือง Nasha สร้างขึ้นจากเศษเหล็กที่ถูกทิ้งแล้ว แต่กลับกลายเป็นของเล่นที่เด็ก ๆ ชื่นชอบ\nเสียงหัวเราะล่องลอยในอากาศ ร่างกายของเด็ก ๆ โยกไปตามจังหวะของม้าตัวน้อย ความกังวลก็ค่อย ๆ ปลิวหายไป~",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374641,
+    "Name": "หอคอยสามขาแบบตั้งสองขั้ว",
+    "Description": "หอคอยสามขาที่พบได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" โดดเด่นด้วยรูปทรงที่แปลกตา\nว่ากันว่าหอคอยสามขาแห่งนี้ ถูกดัดแปลงมาจากจักรกลลึกลับที่หลงเหลือมาจากยุคทอง แต่ไม่มีใครล่วงรู้ถึงการทำงานที่แท้จริงเลย ปัจจุบันจึงถูกใช้เป็นเพียงของตกแต่งเท่านั้น",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากเควสต์เทพเจ้า"
+    ],
+    "Id": 374811,
+    "Name": "\"อยู่เคียงข้างกัน\"",
+    "Description": "กระดานรูปภาพที่สร้างขึ้นโดยได้รับแรงบันดาลใจจาก มิตรภาพระหว่างกวางเขาน้ำแข็งและแบดเจอร์สุดเก๋ มาพร้อมอุปกรณ์ส่องสว่างในตัว ทำให้นักท่องเที่ยวสามารถถ่ายรูปได้แม้ในยามค่ำคืน\n\"เหมือนแบดเจอร์สุดเก๋ที่ดูทึ่ม ๆ กับ... กวางเขาน้ำแข็งที่กำลังสัปหงกเพราะอดนอน?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากเควสต์เทพเจ้า"
+    ],
+    "Id": 373222,
+    "Name": "\"ดอกไม้ที่ไร้กลิ่นหอม\"",
+    "Description": "แปลงดอกไม้ที่ตกแต่งขึ้นใหม่ เพื่อให้เข้ากับบรรยากาศของคืนจันทราธิษฐาน ภายในมีดอกไม้จักรกลที่สามารถเปล่งแสงอบอุ่นในยามค่ำคืน\n\"ดูแปลกดีนะ... แต่ถ้าเป็นที่ Nod-Krai แบบนี้ก็ไม่แปลกหรอก!\" นักเดินทางต่างแดนกล่าว",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374812,
+    "Name": "นักรบวิญญาณโชติช่วง - \"Fietena\"",
+    "Description": "สแตนดี้ตัวละครที่สร้างขึ้นตามต้นแบบของ Fietena จาก \"มหากาพย์นักรบวิญญาณโชติช่วง\" ที่กำลังได้รับความนิยม ถ่ายทอดท่วงท่าที่เปี่ยมด้วยความกล้าหาญ และไฟแห่งการต่อสู้อย่างเต็มเปี่ยม\n\"งั้นก็ลุยพร้อมกันเลย ฉันจะไม่ยอมถอยแน่!\"\nแน่นอนว่า \"การลุยพร้อมกัน\" อาจไม่ได้ให้ผลลัพธ์ที่สมบูรณ์แบบเสมอไป แต่ความมุ่งมั่นและการทุ่มเทของพวกคุณนั้นเป็นสิ่งที่มีอยู่จริง บางทีในอนาคต มันอาจเบ่งบานเป็นความรุ่งโรจน์อันปราศจากความเสียใจก็เป็นได้",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากเควสต์เทพเจ้า"
+    ],
+    "Id": 374813,
+    "Name": "\"การผจญภัยหมุนวนของ Dodoco\"",
+    "Description": "Dodoco หมุนวนที่แนะนำให้นั่งสำหรับสองคน เป็นเครื่องเล่นที่ได้รับการสนับสนุนจากแม่มดผู้ยิ่งใหญ่\n\"มานั่งบน Dodoco นุ่มนิ่ม แล้วไปสัมผัสการผจญภัยที่ไม่มีวันลืมกันเถอะ!\"\nแม้ Dodoco ที่หมุนอยู่จะหยุดลงในสักวันหนึ่ง แต่คุณกับคนที่นั่ง Dodoco ด้วยกัน จะยังคงมีการเดินทางครั้งใหม่ที่รอให้เริ่มต้นอยู่เสมอ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อ BP เทพเจ้า"
+    ],
+    "Id": 374818,
+    "Name": "\"มังกรพร้อมรบ\"",
+    "Description": "รูปปั้นที่สร้างขึ้นตามต้นแบบของมังกรจากโลกนิทาน รูปปั้นมีปีกทั้งสองที่ลู่ลง ใบหน้าแสดงความจดจ่อราวกับอยู่ในท่าทาง \"เตรียมพร้อมออกตัว\"\nเมื่อมีการโต้ตอบ จะสามารถขึ้นไปนั่งบนหลังของ \"มังกรพร้อมรบ\" ได้ ซึ่งจะกระตุ้นให้กลไกภายในรูปปั้นทำงาน มันจะเบิกตากว้าง กระพือปีก และส่ายหาง ราวกับกำลังเตือนเพื่อนบนหลังว่า... \"เตรียมตัวให้ดี กำลังจะบินแล้ว!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360467,
+    "Name": "\"ผู้เดินเดียวดาย\"",
+    "Description": "โคมไฟข้างทางที่ใช้ส่องสว่างใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" มีรูปทรงที่เป็นเอกลักษณ์ ดูคล้ายนักเดินทางที่ก้มหน้าเดิน\nยามค่ำคืน แสงจากโคมจะค่อย ๆ ส่องประกายขึ้น... \"โคมไฟสูงจังเลย หลังกับเอวของมันจะเป็นยังไงบ้างนะ?\"\nผู้คนที่เดินผ่านไปมาต่างรำพึงเช่นนั้น",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากเควสต์เทพเจ้า"
+    ],
+    "Id": 360468,
+    "Name": "\"แสงสว่างที่ไม่เปลี่ยนแปลง\"",
+    "Description": "โคมไฟที่สร้างขึ้นจากแผ่นเหล็ก โดยได้รับแรงบันดาลใจมาจากจันทราใหม่ ไม่ว่าจะเป็นกลางวันหรือกลางคืน มันยังคงแผ่แสงสว่างอ่อน ๆ อย่างเงียบงันเช่นนี้เสมอ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372516,
+    "Name": "\"เสียงกระซิบแห่งหมอกอ่อนโยน\"",
+    "Description": "ไม้พุ่มเตี้ยสีชมพูอ่อน มีลักษณะเป็นกอเล็ก ๆ ตั้งตรง\nเนื่องจากมันมักจะเติบโตเรียงรายต่อเนื่องกันเป็นผืนกว้าง บางครั้งเมื่อมองจากไกล ๆ จะดูคล้ายหมอกสีชมพูอ่อนที่แผ่คลุมอยู่เหนือพื้นดิน ดั่งเสียงกระซิบอันอ่อนโยนของธรรมชาติ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372517,
+    "Name": "\"โบกมือลาวันวาน\"",
+    "Description": "พืชในถ้ำที่มีกิ่งก้านเรียวยาวและคดเคี้ยว ใบของมันมีรูปร่างคล้ายพัดเล็ก ๆ\nพืชชนิดนี้มีพลังชีวิตที่แข็งแกร่ง ไม่ว่าสภาพแวดล้อมจะเป็นอย่างไร กิ่งใบของมันก็ยังแกว่งไหวเบา ๆ ตามสายลม ราวกับว่าใบไม้แต่ละใบกำลังโบกมือลาวันวานที่ลับไป",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372518,
+    "Name": "\"ประกายแสงเกสร\"",
+    "Description": "พืชพรรณในถ้ำสีชมพูอมควัน มีใบที่แผ่กว้าง ปลายใบมี \"หนวด\" เล็ก ๆ คล้ายเกสรดอกไม้\nพืชชนิดนี้สามารถเรืองแสงอ่อน ๆ ได้ในความมืดของถ้ำ นับเป็นอีกหนึ่งอุปกรณ์ส่องสว่างที่ช่วยสร้างบรรยากาศพิเศษได้เหมือนกัน...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374814,
+    "Name": "\"นกน้อยจิ๊บจิ๊บ\"",
+    "Description": "โมเดลลูกนกกระจอกเด้งดึ๋ง ที่สร้างขึ้นจากต้นแบบของนกกระจอกโบราณขนสีขาด (Ancient Scarlet-Plume Finch) มีรูปลักษณ์ที่น่ารักน่าเอ็นดู\nแม้จะเป็นเพียงนกกระจอกตัวน้อย แต่ก็มีพลังมหาศาล!\nระหว่างที่เพลิดเพลินกับการเล่นลูกนกกระจอกนั้น คุณจะต้องหลงใหลในความน่ารักของมัน จนสุดท้ายก็อดไม่ได้ที่จะตะโกนออกมาว่า... \"นกกระจอกน่ารักที่สุด!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374815,
+    "Name": "\"โจรขโมยอาหาร\"",
+    "Description": "โมเดลที่สร้างขึ้นตามต้นแบบของนกนางนวลหัวขโมยมันฝรั่งทอด สวมหน้ากากจอมโจรผู้ยิ่งใหญ่ เป็น \"โจรขโมยอาหาร\" ตัวจริงเสียงจริง\n\"ได้ยิน Blubberbeast บอกว่า... Natlan มีอาหารที่ไม่เหมือนใคร ฮึฮึ โจรขโมยอาหารอย่างฉัน จะต้องไปลิ้มลองให้ได้เลย!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374816,
+    "Name": "\"วีเซลวายร้ายจอมบงการ\"",
+    "Description": "โมเดลที่สร้างขึ้นจากต้นแบบของวีเซลภูเขาจอมตะกละ คือ \"วีเซลวายร้ายจอมบงการ\" ที่ฝึกฝนนกนางนวลหัวขโมยให้คอยนำเครื่องบรรณาการมาถวาย!\n\"ฉันว่านะ นกนางนวลหัวขโมยมันฝรั่งทอดพวกนั้น ก็แค่พวกโง่ที่รู้แต่จะปล้น... ส่วนฉัน จะได้ครอบครองป๊อปคอร์นทั้งหมด!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374817,
+    "Name": "มนุษย์หิมะวิญญาณโชติช่วง - \"นักรบผู้ยิ่งใหญ่\"",
+    "Description": "โมเดลตุ๊กตาหิมะที่สร้างขึ้นตามต้นแบบของ Varesa มาพร้อมหน้ากากผู้กล้าอันเป็นเอกลักษณ์ ถ่ายทอดภาพลักษณ์อันอบอุ่นแต่เปี่ยมด้วยความมุ่งมั่นได้อย่างแม่นยำ\nเพื่อช่วยให้แขกจากทั่วทุกมุมโลกรู้สึกผ่อนคลาย นักออกแบบของ \"ปาหยกหรรษา\" ได้ตั้งใจสร้างเพื่อนตัวน้อยที่น่ารักนี้ขึ้นมา แม้จะต้องเผชิญกับความหนาวเหน็บที่ขั้วกระดูกของ Dragonspine ก็ยังสามารถสัมผัสถึงความอบอุ่นพิเศษที่มันมอบให้ได้เสมอ...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

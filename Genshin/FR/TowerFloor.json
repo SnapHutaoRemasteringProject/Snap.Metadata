@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "Les DGT Pyro infligés par les attaques normales des personnages augmentent de 75 %."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Pyro de 60 %.",
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Électro de 60 %."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Tous les personnages n'étant pas déployés bénéficient d'un bonus de DGT Pyro de 75 %."
+    ],
+    "SecondDescriptions": [
+      "Les DGT infligés par les attaques plongeantes des personnages augmentent de 75 %."
+    ]
   }
 ]

@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Đêm Lễ Ma Nữ - Ma Pháp Tia Lửa",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Về Lá Hoa Lửa</color>, Klee sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\nKhi Klee gây sát thương từ Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ, sẽ nhận được 1 \"Huy Hiệu Bùm Bùm\", duy trì 20s. Mỗi loại tấn công tối đa có thể giúp Klee nhận được 1 \"Huy Hiệu Bùm Bùm\" thông qua cách này, Huy Hiệu Bùm Bùm nhận từ các loại tấn công khác nhau sẽ tồn tại độc lập. Khi Klee có 1/2/3 \"Huy Hiệu Bùm Bùm\", Trọng Kích đặc biệt \"Bùm Bùm Oanh Tạc\" sẽ gây ra 115%/130%/150% sát thương gốc.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Món Quà Bằng Bằng",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Tia Lửa Vô Hạn",
@@ -886,6 +914,10 @@
       {
         "Title": "Về Sucrose...",
         "Context": "Chị Sucrose là người tốt! Chị ấy hỏi em có muốn một chiếc bom nảy vừa có thể chạy vừa có thể nhảy không? Hihi, đương nhiên là muốn rồi, em còn muốn có mấy trăm cái, để trên đường phố, trên bậc thang, trên quảng trường Mondstadt đều là bom nảy!"
+      },
+      {
+        "Title": "Về Durin...",
+        "Context": "Tuyệt quá! Anh Durin Nhỏ giờ sống ở Mondstadt, em sẽ tìm anh ấy chơi mỗi ngày! Khi đi nổ cá bằng bom, em muốn nhờ anh Durin Nhỏ đưa em bay lên thật cao để ném bom từ trên trời xuống!"
       },
       {
         "Title": "Muốn tìm hiểu Klee - Điều thứ 1",
@@ -1116,5 +1148,11 @@
     "Description": "Hoa văn danh thiếp.\nBom may mắn của Klee. Nhìn kỹ phần đuôi, nói cho mọi người biết đây là bom nảy hay là Dodoco?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Vết Tích - Mặt Trời Chạy Trốn",
+    "Description": "Vết Tích Tưởng Tượng của Klee. \"Dada~ Kỵ Sĩ Tia Lửa, mạo hiểm bắt đầu!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

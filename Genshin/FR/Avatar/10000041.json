@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Veillée de la sorcière : Genèse des signes stellaires",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « De perspicacité inconnue »</color>, Mona devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nLorsqu'une attaque normale ou chargée de Mona touche un ennemi, elle obtient un cumul de lueur astrale de Mercure pendant 8 s, cet effet pouvant être obtenu une fois toutes les 0,1 s de cette manière et pouvant se cumuler 3 fois maximum. Lorsqu'un autre personnage de votre équipe déclenche une réaction d'Évaporation sur un ennemi, tous les cumuls de lueur astrale de Mercure sont consommés pour augmenter les DGT de cette réaction de 5 % par cumul consommé.\nDe plus, lorsqu'une attaque normale ou chargée de Mona touche un ennemi, le <color=#FFD780FF>présage</color> de ce dernier est prolongé de 2 s. Cet effet peut être déclenché une fois toutes les 0,5 s, un <color=#FFD780FF>présage</color> pouvant être prolongé d'un maximum de 8 s de cette manière.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "Leurre du fatum",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "Que le destin décide",

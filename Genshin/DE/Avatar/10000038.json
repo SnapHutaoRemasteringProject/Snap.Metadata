@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Geschenk der Hexennacht – Buch des weißen Strahls",
+        "Description": "#Wandelt Albedo nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von Fragen über Fragen</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\n· Generiert innerhalb von 20{NON_BREAK_SPACE}s nach dem Anwenden der Elementarfähigkeit, wenn Albedo einen Gegner mit seiner Elementarfähigkeit trifft, in der Nähe der Gegner <color=#FFD780FF>Prächtiges Silber</color>, hält 10{NON_BREAK_SPACE}s. Lässt ein „Prächtiges Silber“, wenn sich auf dem Feld keine von Albedo generierten Sonnennachbildungen befinden und Albedo nicht ohnmächtig ist, genau wie Sonnennachbildungen ebenfalls Blüten der Vergänglichkeit generieren. Gleichzeitig können sich nur zwei von Albedo generierte „Prächtige Silber“ auf dem Feld befinden.\n· Erhöht innerhalb von 20{NON_BREAK_SPACE}s nach dem Generieren von Sonnennachbildungen den von Truppenmitgliedern in der Nähe durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden basierend auf Albedos VTD: Erhöht den Schaden pro 1.000 Punkte VTD um 4{NON_BREAK_SPACE}%, max. auf 12{NON_BREAK_SPACE}%.\n· Erhöht innerhalb von 20{NON_BREAK_SPACE}s nach dem Generieren von „Prächtigem Silber“ den von Hexerei-Figuren in der Truppe in der Nähe durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden basierend auf Albedos VTD: Erhöht den Schaden pro 1.000 Punkte VTD um 10{NON_BREAK_SPACE}%, max. auf 30{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Kreideweiße Macht",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Weisheit aus der Flasche",
@@ -878,6 +911,10 @@
       {
         "Title": "Über Barbara ...",
         "Context": "Barbara? Sie ist eine sehr ernsthafte Bischöfin. Ich hatte einmal Gelegenheit, ihr ein einfaches Porträt zu zeichnen ... Was mit der Zeichnung passiert ist? Oh ja ... Albert hat angeboten, es zu kaufen, doch ich habe sein Angebot abgelehnt und es dem Stellvertretenden Großmeister gegeben. Soziale Beziehungen ... erfordern wirklich sehr viel Aufwand."
+      },
+      {
+        "Title": "Über Durin ...",
+        "Context": "Mein Bruder lernt zurzeit so vieles dazu. Er ist klug und denkt mit echter Leidenschaft über die Welt nach – was manchmal zu Schwierigkeiten führt, aber seine Begeisterung dabei nie schwächer wird. Seit er zu unserer Familie gehört, sehe ich zwischenmenschliche Bindungen mit ganz anderen Augen. Jetzt, da meine engsten Vertrauten um mich sind, fühlt sich unser Zuhause viel lebendiger an – und das ist ohne Zweifel etwas Gutes."
       },
       {
         "Title": "Ich will mehr über Albedo erfahren I",
@@ -1092,5 +1129,11 @@
     "Description": "Ein Motiv für Namenskärtchen.\nErlaube mir, diesem Wunder beizuwohnen.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Echo – Kreideprinz",
+    "Description": "Albedos Gemalte Echos. „Aus dem lodernden Nigredo erblüht die Sonnennachbildung.“",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

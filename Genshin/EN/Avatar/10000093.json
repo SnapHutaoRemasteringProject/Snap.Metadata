@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Galefeather Pursuit",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Consider, the Adeptus in Her Realm",
@@ -989,6 +991,10 @@
       {
         "Title": "About Gaming",
         "Context": "One is very fond of Gaming. He is good-hearted and entertaining in conversation, but never grandiloquent. We first met when one was resting by a lake, and he very kindly shared some of his provisions with me. Later, he commented that one seemed to be a wise elder, worthier of respect than even the adepti themselves... Hehe, this wise elder will be sure to look out for him after that."
+      },
+      {
+        "Title": "About Zibai",
+        "Context": "Unlocks at Friendship Lv. 4"
       },
       {
         "Title": "More about Xianyun: I",

@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Veillée de la sorcière : Déferlement de foudre",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « De la petite meute »</color>, Razor devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\nDe plus, le déchaînement élémentaire <color=#FFD780FF>Croc éclair</color> de Razor est renforcé : les DGT infligés par le <color=#FFD780FF>loup de tonnerre</color> augmentent d'une valeur équivalant à 70 % de l'ATQ de Razor.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nSi la quantité de sceaux Électro de la compétence élémentaire <color=#FFD780FF>Griffe et tonnerre</color> dépasse la limite pendant la durée du loup de tonnerre invoqué par le déchaînement élémentaire <color=#FFD780FF>Croc éclair</color>, le loup de tonnerre déclenche un éclair sur les ennemis à proximité, infligeant des DGT Électro de zone d'une valeur équivalant à 150 % de l'ATQ de Razor et restaurant 7 pts d'énergie élémentaire à Razor. Cet effet peut être déclenché une fois toutes les secondes.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Éveil",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Famine",

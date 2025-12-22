@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Presente da Noite da Bruxa: Livro da Ponta Branca",
+        "Description": "Ao concluir <color=#FFD780FF>Tarefa da Bruxa: Além da Lição</color>, Albedo se tornará um Personagem do tipo <color=#FFD780FF>Mágico</color>. Quando houver pelo menos 2 Personagens Mágicos na equipe, será ativado o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os Personagens Mágicos.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\n· Nos 20 segundos após usar a Habilidade Elemental, quando Albedo, ao causar Dano de Habilidade Elemental nos inimigos, será refinada uma <color=#FFD780FF>Aurelita</color> próxima ao inimigo, com duração de 10 segundos. Caso não exista uma Radiação Solar criada por Albedo em campo e ele não esteja derrotado, a Aurelita receberá o mesmo efeito de geração de Flores Transitórias da Radiação Solar. Somente duas Aurelitas criadas por Albedo podem existir simultaneamente.\n· Nos 20 segundos após refinar uma Radiação Solar, com base na DEF de Albedo, o Dano causado por Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo dos Personagens próximos da equipe será aumentado: para cada 1.000 pontos de DEF, o Dano é aumentado em 4%, até um máximo de 12%.\n· Nos 20 segundos após refinar uma Aurelita, com base na DEF de Albedo, o Dano causado por Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo dos Personagens Mágicos próximos da equipe será aumentado: para cada 1.000 pontos de DEF, o Dano é aumentado em 10%, até um máximo de 30%.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Pressão Calcária",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Sabedoria em Uma Garrafa",
@@ -878,6 +911,10 @@
       {
         "Title": "Sobre Barbara...",
         "Context": "Barbara? Ela é uma Diaconisa muito empenhada. Uma vez tive a oportunidade de fazer um simples retrato dela. O que aconteceu com o desenho? Ah sim... Albert se ofereceu para comprá-lo, mas eu rejeitei sua proposta e o dei a Grande Mestre Intendente. As relações sociais... realmente exigem muito esforço."
+      },
+      {
+        "Title": "Sobre Durin",
+        "Context": "Meu irmão está aprendendo todo tipo de coisa nova. Ele é inteligente e profundamente filosófico. Às vezes isso causa alguns problemas, mas em nada diminui sua paixão pelo mundo. Sua chegada, ou melhor dizendo, sua entrada para a família, me deu uma nova compreensão sobre as relações humanas. Com meu parente mais próximo por perto, o lar se tornou um lugar cheio de vida. Sem dúvida, é algo positivo."
       },
       {
         "Title": "Mais sobre Albedo - I",
@@ -1092,5 +1129,11 @@
     "Description": "Estilo de Cartão de Visita.\nPermitam-me testemunhar este milagre.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Viagem: Príncipe do Giz",
+    "Description": "Viagem Imaginária de Albedo. \"Do Nigredo ardente, a Radiação Solar floresce.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

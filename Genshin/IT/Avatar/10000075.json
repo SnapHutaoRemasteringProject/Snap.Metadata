@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Fiore della giada",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Fantasticheria burrascosa",
@@ -934,6 +936,10 @@
       {
         "Title": "A proposito di Sethos",
         "Context": "Cosa ti fa pensare che lo conosca? Solo perché mi segue ovunque e mi chiede continuamente di fargli dare un'occhiata al mio cappello? Ci siamo a malapena rivolti la parola. La prima volta che ci siamo conosciuti, è venuto da me e mi ha chiesto se ero io Cappellotto... A casa mia, è un comportamento superficiale giudicare qualcuno dal suo aspetto. Umpf, chissà perché, tutti adesso conoscono il nome \"Cappellotto\"..."
+      },
+      {
+        "Title": "A proposito di Durin",
+        "Context": "Quando è uscito per la prima volta da quel libro, aveva un'infinità di domande. Non avrei mai immaginato che diventare umano lo avrebbe reso ancora più curioso. Le sue lettere sono così lunghe, e la sua calligrafia è così contorta che riesco a malapena a decifrarla.\nSe hai tempo, potresti spiegargli alcune cose? Giusto per assicurarti che non si cacci nei pasticci."
       },
       {
         "Title": "#A proposito di {REALNAME[ID(1)]} (1)",

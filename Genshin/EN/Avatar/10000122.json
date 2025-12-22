@@ -834,7 +834,8 @@
                 0.08
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222101,
         "Name": "A Wager of Moonlight",
@@ -857,7 +858,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222201,
         "Name": "Daughter of the Dust and Sand",
@@ -898,7 +900,7 @@
         },
         "Id": 1222501,
         "Name": "Conspiracy of the Golden Vault",
-        "Description": "Gains 25% more rewards when dispatched on a Nod-Krai Expedition for 20 hours.\nAdditionally, as the head of the Curatorium of Secrets, Nefer seemingly has the ability to obtain intelligence from a variety of sources — intelligence that certain factions in Nasha Town might find extremely interesting...",
+        "Description": "Gains 25% more rewards when dispatched on a Nod-Krai Expedition for 20 hours.",
         "Icon": "UI_Talent_S_Nefer_08"
       }
     ],

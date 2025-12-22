@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Rito della Vigilia della strega: Genesi del Presagio stellare",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Sull'intuizione indimostrata</color>, Mona acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\nQuando Mona colpisce un avversario con attacchi normali o caricati, ottiene 1 accumulo di <color=#FFD780FF>Bagliore astrale di Mercurio</color> per 8{NON_BREAK_SPACE}s, per un massimo di 3. È possibile ottenere 1 accumulo ogni 0,1{NON_BREAK_SPACE}s. Quando gli altri membri del gruppo innescano una reazione di Vaporizzazione su un nemico, tutti gli accumuli di Bagliore astrale di Mercurio vengono consumati, aumentando i DAN della suddetta reazione di un 5% per ciascun accumulo.\nInoltre, quando Mona colpisce un avversario con attacchi normali o caricati, la durata del <color=#FFD780FF>Presagio</color> del suddetto avversario si estende di 2{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 0,5{NON_BREAK_SPACE}s, e in questo modo è possibile estendere la durata di Presagio fino a 8{NON_BREAK_SPACE}s.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "\"Prova a prendermi, vecchia megera!\"",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "Destino acquatile",
@@ -806,7 +835,7 @@
       {
         "Id": 411,
         "Name": "Profezia sommersa",
-        "Description": "#Quando un membro del tuo gruppo colpisce un avversario sotto l'effetto di un Presagio, gli effetti delle <color=#80C0FFFF>reazioni elementali di Hydro</color> sono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
+        "Description": "#Quando un membro del tuo gruppo colpisce un avversario sotto l'effetto di un Presagio, gli effetti delle <color=#80C0FFFF>reazioni elementali di Hydro</color> vengono potenziati per 8{NON_BREAK_SPACE}s.\n· I DAN da Electrocarica aumentano di un 15%.\n· I DAN da Carica lunare aumentano di un 15%.\n· I DAN da Vaporizzazione aumentano di un 15%.\n· I DAN da Turbinio di Hydro aumentano di un 15%.\n· La durata di Congelamento si estende di un 15%.",
         "Icon": "UI_Talent_S_Mona_01"
       },
       {

@@ -721,7 +721,8 @@
                 0.05
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302101,
         "Name": "Ondes résonnantes",
@@ -742,7 +743,8 @@
                 0.33
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302201,
         "Name": "Domination de la Terre",
@@ -975,6 +977,10 @@
       {
         "Title": "À propos de Haborym...",
         "Context": "La longue histoire entachée par la guerre de Natlan a poussé ses guerriers à vaincre l'Abîme et à renverser le destin pour se forger un nouvel avenir. Derrière ce triomphe, il y a une dirigeante qui manie le temps et l'histoire comme des armes. Sa force rivalise avec celle des dieux. Elle est impressionnante."
+      },
+      {
+        "Title": "À propos de l'Adepte à l'apparence de cheval blanc...",
+        "Context": "Le cheval blanc... C'est une vieille connaissance que je n'ai pas revue depuis bien longtemps... Hélas, les nuits de printemps sont courtes, et les jours d'automne passent vite. Le cheval s'emballe et galope à toute allure, comme une bougie qui vacille dans la brise."
       },
       {
         "Title": "Connaître Zhongli (1)",

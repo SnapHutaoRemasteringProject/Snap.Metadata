@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Fırtına Tüyünün Peşinde",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Kendi Diyarında Bir Adeptus",
@@ -989,6 +991,10 @@
       {
         "Title": "Gaming Hakkında",
         "Context": "Ben Gaming'i çok severim. İyi kalpli ve hoşsohbet biridir. Hiç öyle böbürlenmez. İlk tanıştığımızda ben bir göl kenarında dinleniyordum, yanıma gelip çok kibar bir şekilde yemeğini benimle paylaştı. Daha sonra benim bilge bir ihtiyar gibi göründüğümü, Adeptuslardan bile daha saygıdeğer olduğumu söyledi... Hehe, bu bilge ihtiyarın bir gözü bundan sonra hep onun üzerinde olacak."
+      },
+      {
+        "Title": "Zibai Hakkında",
+        "Context": "4. Arkadaşlık Seviyesinde açılır."
       },
       {
         "Title": "Xianyun Hakkında Daha Fazlası: I",

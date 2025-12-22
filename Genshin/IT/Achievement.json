@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "MISSIONE COMPIUTA",
-    "Description": "Completa 10 cacce alle taglie.",
+    "Description": "Completa 3 cacce alle taglie.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "MISSIONE COMPIUTA",
-    "Description": "Completa 20 cacce alle taglie.",
+    "Description": "Completa 6 cacce alle taglie.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "MISSIONE COMPIUTA",
-    "Description": "Completa 30 cacce alle taglie.",
+    "Description": "Completa 9 cacce alle taglie.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Apprendista eroe",
-    "Description": "Completa 10 richieste.",
+    "Description": "Completa 3 richieste.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Apprendista eroe",
-    "Description": "Completa 20 richieste.",
+    "Description": "Completa 6 richieste.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Apprendista eroe",
-    "Description": "Completa 30 richieste.",
+    "Description": "Completa 9 richieste.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Il castello errante di Drzislav",
+    "Description": "Sconfiggi un Incrociatore terrestre super pesante: Fortezza meccanizzata surriscaldato e che è stato immobilizzato almeno 2 volte.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Un giorno importante",
+    "Description": "Le feste sono fatte per rilassarsi e divertirsi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Notte di Preghiera lunare",
+    "Description": "Goditi l'ultima notte in questo globo sublunare.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Tra l'eterno e l'effimero",
+    "Description": "Il chiaro di luna troverà un modo per ricongiungerci sempre, sia di giorno che di notte.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Chiaro di luna nella foschia mattutina",
+    "Description": "Completa Chiaro di luna nella foschia mattutina",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Quando si solleva la pietra",
+    "Description": "Chissà, potresti trovarci qualcosa d'inaspettato.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Come un sogno illusorio",
+    "Description": "Assisti alla storia che un tempo si è svolta qui.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Sentieri convergenti",
+    "Description": "Da qualche parte nel tempo, le vostre strade si sono incrociate...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Notturno dell'Estremo Nord",
+    "Description": "Completa Notturno dell'Estremo Nord",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Presente da Noite da Bruxa: Heptatransmutação",
+        "Description": "Ao concluir <color=#FFD780FF>Tarefa da Bruxa: Das Flores do País das Maravilhas</color>, Sucrose se tornará uma Personagem do tipo <color=#FFD780FF>Mágico</color>. Quando houver pelo menos 2 Personagens Mágicos na equipe, será ativado o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os Personagens Mágicos.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\n· Nos 15 segundos após invocar um Pequeno Espírito de Vento, os Personagens próximos da equipe terão o Dano de seus Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo aumentado em 5.71428%.\n· Nos 20 segundos após invocar um Grande Espírito do Vento, os Personagens Mágicos próximos da equipe terão o Dano de seus Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo aumentado em 7.14285%.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Conversão de Catalisador",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

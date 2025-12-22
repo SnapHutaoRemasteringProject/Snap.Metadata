@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Durin",
+    "Description": "Material zum Aktivieren von Durins Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Jahoda",
+    "Description": "Material zum Aktivieren von Jahodas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Material zum Aktivieren von Nefers Sternbild",
     "TypeDescription": "Zur Aktivierung von Sternbildern",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Durin",
+    "Description": "Material zum Aktivieren von Durins Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Jahoda",
+    "Description": "Material zum Aktivieren von Jahodas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -30865,6 +30909,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 40{NON_BREAK_SPACE}% LP sowie zusätzlich 2.350 LP wieder her.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Hausaufgaben“",
+    "Description": "Jahodas Spezialzubereitung. Nachdem sie Ineffa schon zum sechsten Mal um Tipps beim Backen gebeten hatte, gab Jahoda endlich ihre Hausaufgabe ab – ein selbstgemachtes Dessert. Obwohl die Form etwas schief aussieht, ist der Duft der Beeren wirklich süß. Der Geschmack ... äh, sollte nicht allzu schlecht sein?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 40{NON_BREAK_SPACE}% LP sowie zusätzlich 2.350 LP wieder her.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Apfelschmorfleisch (Erstversuch)",
+    "Description": "Durins Spezialzubereitung. Durin hat, nachdem er beobachtet hatte, wie du kochst, sein erstes Gericht zubereitet. Der herrliche Fruchtduft verrät sein noch kindliches Verständnis von den Köstlichkeiten dieser Welt. Die leicht knusprigen Ränder zeigen, wie sehr er seine Kräfte im Griff behalten hat.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 30{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 510 LP wieder her.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Misslungenes Brathähnchen mit Harra-Würze",
+    "Description": "Frittiertes, von einer knusprigen grünen Kruste umhülltes Hähnchenfleisch. Noch bevor man es richtig schmecken kann, muss man schon wegen der scharfen Harra-Würze husten ... Eigentlich stand nach dem Essen Lernen auf dem Programm, aber jetzt ist erstmal ein Glas Wasser nötig ...",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 32{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 730 LP wieder her.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Brathähnchen mit Harra-Würze",
+    "Description": "Frittiertes, von einer knusprigen grünen Kruste umhülltes Hähnchenfleisch. Erst wickelt man das Fleisch in eine mit Harra gewürzte Paste ein und frittiert es anschließend. Es heißt, dass man nach dem Verzehr dieses Gerichts den Drang verspüre, sich fleißig dem Lernen zu widmen ... Das klingt doch schon fast zu schön, um wahr zu sein, oder?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 35{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 930 LP wieder her.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Leckeres Brathähnchen mit Harra-Würze",
+    "Description": "Frittiertes, von einer knusprigen grünen Kruste umhülltes Hähnchenfleisch. Am besten reinbeißen, solange es noch heiß ist! Die Schärfe weckt sofort die Sinne, der Fleischsaft explodiert förmlich im Mund. Das macht richtig wach ... So kann ich bestimmt riesige Fortschritte beim Lernen machen!",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Sieht toll aus und schmeckt auch noch besser; hat allerdings leider keine wirkliche Wirkung.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Zuckerfigur – Jahoda",
+    "Description": "Eine von einer echten Person inspirierte Zuckerfigur. Der richtungsweisende Kompass erinnert an Jahoda, die ausgezeichnete Angestellte des Kuratoriums der Geheimnisse.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Sieht toll aus und schmeckt auch noch besser; hat allerdings leider keine wirkliche Wirkung.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Zuckerfigur – Kuuhenki",
+    "Description": "Eine auf einem fantastischen Wesen basierende Zuckerfigur. Das leichte, schwebende Aussehen zeigt eine brave und niedliche Kuuhenki.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33677,6 +33805,17 @@
     "ItemType": 2,
     "Name": "Rezept: Lohikeitto",
     "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Lohikeitto“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rezept: Brathähnchen mit Harra-Würze",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Brathähnchen mit Harra-Würze“.",
     "TypeDescription": "Rezept",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36555,6 +36694,17 @@
     "Description": "Ein Fragment, das nach dem Sieg über den Himmelswächter der Frostnacht von seinem Geweih abfiel. Es ist leicht und scharf und kann selbst unpolierte Metallrüstungen mühelos durchtrennen.\nIn uralten Legenden heißt es, diese stolzen und edlen Wesen seien von den ersten Gesandten der Götter erschaffen worden. Als das Elysium fiel, schlossen sie einen Bund mit der Heldin des Frostmonds, das ihnen verliehene Licht zu nutzen, um die Welt von der Unreinheit zu reinigen, bis die alte Herrin zurückkehrt. Ob die Legende wahr ist, lässt sich heute nicht mehr beweisen. Doch die Wesen, die einst im Licht wandelten, wachen noch immer über dieses Land im Schatten, unbeeindruckt von langer Nacht oder finsterer Flut.",
     "TypeDescription": "Material zur Verbesserung von Figuren",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zyklischer Militär-Kuuvahki-Kern",
+    "Description": "Ein Kuuvahki-Apparat, gewonnen aus dem Energiekern des „Superschweren Landkreuzers – Mobile Kampffestung“, nachdem er besiegt wurde.\nDas Forschungsinstitut für kinetische Energie Fontaine hat einst mehrere ideale Zyklusmodelle für elementare Arbeitsstoffe definiert. Ganz gleich, um welche Form es sich handelt: Die perfekte Zyklenzahl ist stets vier. Obwohl die Ingenieure des Büros für Heeresgerät und des Versuchs- und Konstruktionsbüros der Insel Paha dazu neigen, Kuuvahki als einen von der Elementarkraft verschiedenen Arbeitsstoff zu betrachten, hat sich jede Konstruktion jenseits des Vier-Zyklus-Designs als ineffizient und unpraktisch erwiesen. In gewisser Weise könnte man sagen, dass die Welt selbst eine seltsame Vorliebe für die Zahl „vier“ hat ... oder vielleicht hat die Welt gar keine Vorlieben, und es sind nur die klugen, selbstgefälligen Sterblichen, die sich solche Neigungen einbilden.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48956,7 +49106,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49273,6 +49423,127 @@
     "Description": "Ein Teil der Finanzmittel des „Kuratoriums der Geheimnisse“, aus einer Kiste entnommen. Geld ist schwer zu bekommen, also bitte mit Bedacht ausgeben.",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rheindottirs „Geschenk“",
+    "Description": "Ein Geschenk der „Goldenen“ Rheindottir an Albedo.\nEin neues Geschenk, ein neues Problem.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kaputte „Puppe“",
+    "Description": "Die „Puppe“, die von Ihanti gemacht wurde, ähnelt einer bestimmten Puppe, die Jahoda früher gemacht hat.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Besondere Zuckerfiguren-Schachtel",
+    "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Finanzmittel des Kuratoriums der Geheimnisse",
+    "Description": "Ein Teil der Finanzmittel des „Kuratoriums der Geheimnisse“, aus einer Kiste entnommen. Geld ist schwer zu bekommen, also bitte mit Bedacht ausgeben.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Broschüre zur „Mondgebetsnacht“",
+    "Description": "Diese Broschüre, die während der „Mondgebetsnacht“ in Nasha verteilt wird, lädt die Besucher ein, zahlreiche reizvolle Stände zu entdecken. Sie verspricht eine Nacht voller Erinnerungen, die noch lange nachhallen werden.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Grußkarte für Columbina",
+    "Description": "Diese Karte, die ihre Gefährten für Columbina zur Mondgebetsnacht vorbereitet haben, trägt ihre Segenswünsche in sich. Möge sie, wo auch immer sie weilt, sich an das Lächeln ihrer Freunde erinnern.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Columbinas Mondgebetsbonbons",
+    "Description": "Columbina hat diese Bonbons für die Mondgebetsnacht vorbereitet. Durch ihre verspielte Fantasie tragen sie die köstlichsten und ungewöhnlichsten Geschmacksnoten in sich – vielleicht jene, die einst in ihren Erinnerungen verweilten.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Columbinas Mondgebetsbonbons",
+    "Description": "Columbina hat diese Bonbons für die Mondgebetsnacht vorbereitet. Durch ihre verspielte Fantasie tragen sie die köstlichsten und ungewöhnlichsten Geschmacksnoten in sich – vielleicht jene, die einst in ihren Erinnerungen verweilten.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chronik der Flammenkrieger II",
+    "Description": "Eine Illustrations-Geweberolle aus der historischen Fantasy-Reihe „Chronik der Flammenkrieger“, die auf lokalen Legenden aus Natlan basiert, ist jetzt in einer Sammlerausgabe erhältlich.\nAlle Helden treten auf, ihr Glanz erstrahlt in einer schicksalhaften Begegnung und sie ebnen mit ihrem Leben in grausamen Kämpfen den Weg für zukünftige Generationen!",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Die Geschichte namens „Durin“",
+    "Description": "Das Zauberbuch der Hexe M muss am Ende doch an Durin übergeben werden, damit er es weiterschreibt. Alice hat eine Kopie davon gemacht und sie dir geschenkt. Du warst ja mittendrin in dieser Geschichte, da braucht’s natürlich ein Andenken! Die Kopie hat zwar keine Zauberkraft, aber spannend ist sie trotzdem genug!",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Besondere Zuckerfiguren-Schachtel",
+    "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -51932,7 +52203,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CXLVIII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Brisk Morning Air“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51943,7 +52214,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CXLIX",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Evening’s Ease“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51954,7 +52225,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CL",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Soil of Bright Flame“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51965,7 +52236,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLI",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Deed No Less Than Star-Forgin“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51976,7 +52247,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Land of Primal Flame“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51987,7 +52258,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLIII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Indulgence Beneath the Sun“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51998,7 +52269,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLIV",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Watch of a Sleepless Sheep“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52009,7 +52280,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLV",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Waves Curl Over Drifting Sand“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52020,7 +52291,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLVI",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Natlan enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Tapestry of Resplendent Hues“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52705,6 +52976,17 @@
     "Description": "Objekt zur Verfeinerung von „Laute des Himmelslichts“.\nIn einer längst untergegangenen Zivilisation glaubten einige daran, dass das Schicksal, das die Welt regiert, gewoben sei wie ein Lied auf einer Bühne; geboren aus den Saiten einer monumentalen Harfe, die hoch in den Himmeln schwebt. Möglicherweise wurden sie ja Zeuge dessen, wie Engel goldene Saiten aus dem Himmel pflückten und mit ihren göttlichen Akkorden die donnernde Gleichgültigkeit des Schicksals verkündeten.",
     "TypeDescription": "Verfeinerungsmaterial",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Übung des Herzens",
+    "Description": "Ein spezielles Objekt zur Verfeinerung von „Regenakkorde der Regenbogenschlange“.\nEin Fingerschutz, der lange Zeit von einem Bogenschützen getragen wurde, farbenfroh und gut verarbeitet.\nDie Treffsicherheit eines Pfeils hängt von der Erfahrung des Schützen ab. Je öfter man den Atem anhält und die Sehne zupft, desto mehr gehorchen Bogen und Pfeil dem Willen. Das Spannen des Bogens ist zugleich eine Übung des Herzens. Je abgenutzter der Fingerschutz, desto schärfer der Geist.",
+    "TypeDescription": "Verfeinerungsmaterial",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54775,6 +55057,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Kleines Hexenlexikon",
+    "Description": "Ein von Alice erhaltenes Lexikon, das von den Hexen gemeinsam verfasst wurde. Angeblich diente es als Kommentar zum Fabelbuch „Die kleine Hexe und das unauslöschliche Feuer“, doch in Wahrheit birgt es Aufgaben, die der Hexenzirkel eigens für alle ersann.\nWie es heißt: „Das Ankämpfen gegen die Strömung ist die Aufgabe.“ So zieh mit deinen Gefährten hinaus, um die Krone der Erhebung zu erringen!",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55686,6 +55979,17 @@
     "Description": "Das Geheimnis, wie man ein angeregtes Gespräch am Laufen hält, besteht darin ...",
     "TypeDescription": "Porträt",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Beständiges Lernen",
+    "Description": "Was man tagsüber lernt, davon träumt man nachts ... Vielleicht ist das auch eine Art, wie Wissen ins Gehirn gelangt.",
+    "TypeDescription": "Porträt",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70028,6 +70332,182 @@
     "ItemType": 2,
     "Name": "„Faules Kätzchen“",
     "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Faules Kätzchen“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Glanz & Schimmer“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Glanz & Schimmer“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Horoskoprad“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Horoskoprad“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Heißhungerattacke“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Heißhungerattacke“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavernen-Ankündigung – Man erzählt sich ...",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Tavernen-Ankündigung – Man erzählt sich ...“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Ruckizucki“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „‚Ruckizucki‘“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Praktischer Taschendetektor“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Praktischer Taschendetektor“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Super-Grill-Legende“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Super-Grill-Legende“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Hoppelpony",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Hoppelpony“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Vertikaler bipolarer Dreibeinturm",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Vertikaler bipolarer Dreibeinturm“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Blüten ohne Duft“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Blüten ohne Duft“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Drachenangriff“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Drachenangriff“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Der einsame Wanderer“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Der einsame Wanderer“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Zeitloser Glanz“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Zeitloser Glanz“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Kleiner Zwitschi“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Kleiner Zwitschi“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Gourmet-Bandit“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Gourmet-Bandit“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Marder-Meister“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Marder-Meister“.\nNach der Anwendung im Herstellungsmenü zu finden.",
     "TypeDescription": "Dekorationsbauplan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

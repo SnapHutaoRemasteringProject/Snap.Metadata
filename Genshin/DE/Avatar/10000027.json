@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Ausweichplan",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Rücklagen für alle Fälle",
@@ -829,6 +831,10 @@
       {
         "Title": "Über Xianyun ...",
         "Context": "#Ich habe vor, Xianyun in ein paar Tagen zu einem lockeren Gespräch beim Tee einzuladen. Zufällig besitze ich eine Reihe mechanischer Geräte und ich wäre sehr daran interessiert zu erfahren, was sie über deren Konstruktion und Verwendung denkt. Es wäre auch eine gute Gelegenheit, von ihren Erlebnissen als Adeptin zu hören, die sich an ein neues Leben in Liyue anpassen muss. Jetzt brauche ich nur noch einen geeigneten Kandidaten, der ihr die Einladung in meinem Namen überbringt ... Wärst du daran interessiert, Reisende{M#r}?"
+      },
+      {
+        "Title": "Über den Adepten in Form eines weißen Pferds ...",
+        "Context": "Ab Freundschaftsstufe 4 verfügbar"
       },
       {
         "Title": "Ich will mehr über Ningguang erfahren I",

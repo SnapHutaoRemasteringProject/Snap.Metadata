@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "QUEST CLEAR",
-    "Description": "「현상 토벌」 10회 완료하기",
+    "Description": "「현상 토벌」 3회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "QUEST CLEAR",
-    "Description": "「현상 토벌」 20회 완료하기",
+    "Description": "「현상 토벌」 6회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "QUEST CLEAR",
-    "Description": "「현상 토벌」 30회 완료하기",
+    "Description": "「현상 토벌」 9회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "견습 용사",
-    "Description": "「주민 의뢰」 10회 완료하기",
+    "Description": "「주민 의뢰」 3회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "견습 용사",
-    "Description": "「주민 의뢰」 20회 완료하기",
+    "Description": "「주민 의뢰」 6회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "견습 용사",
-    "Description": "「주민 의뢰」 30회 완료하기",
+    "Description": "「주민 의뢰」 9회 완료하기",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "드르지슬라브의 움직이는 성",
+    "Description": "과열 때문에 2회 이상 그로기 상태가 된 초대형 기갑 전함·기동전투 요새 1기 처치하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "중요한 날",
+    "Description": "축제는 즐겁게 보내야 한다",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "기도의 밤",
+    "Description": "달 아래 세계에서 마지막 밤 즐기기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "영원과 찰나 사이에서",
+    "Description": "달빛이 밤낮으로 영원히 우리를 이어주길",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "아침 안개 속에서 흩어진 달빛",
+    "Description": "「아침 안개 속에서 흩어진 달빛」 완료하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "바위를 들면",
+    "Description": "찾을 생각 없던 물건이 튀어나온다",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "덧없는 환상",
+    "Description": "과거에 벌어진 「역사」를 목격하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "교차하는 행적",
+    "Description": "스쳐 지나간 순간…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "극북의 야행시",
+    "Description": "「극북의 야행시」 완료하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

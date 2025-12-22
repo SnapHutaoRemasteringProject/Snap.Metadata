@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Presente da Noite da Bruxa: Magia Flamejante",
+        "Description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Das Faíscas</color>, Klee se torna uma personagem <color=#FFD780FF>Mágica</color>. Ao possuir pelo menos 2 personagens Mágicos na equipe, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color> que fortalece os personagens Mágicos.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\nQuando o Ataque Normal, a Habilidade Elemental ou o Supremo de Klee causam Dano, obtém 1 Medalha Boom Boom por 20s. Cada tipo de ataque pode fazer Klee obter até 1 Medalha Boom Boom dessa forma. Medalhas Boom Boom obtidas de ataques diferentes possuem sua duração contada separadamente. Quando Klee possui 1/2/3 Medalhas Boom Boom, o Ataque Carregado especial Faíscas Boom Boom causará 115%/130%/150% do Dano original.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Presente Explosivo",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Faíscas Ilimitadas",
@@ -886,6 +914,10 @@
       {
         "Title": "Sobre Sucrose...",
         "Context": "A Sucrose é a melhor! Uma vez ela me perguntou se eu queria uma Bomba Saltitante que pudesse correr assim como saltar. Hehehe, bem, duh! Claro que sim, eu quero centenas delas! Quero colocá-las em cada rua, cada escadaria e cada praça em Mondstadt!"
+      },
+      {
+        "Title": "Sobre Durin",
+        "Context": "Hehe, o Durinzinho mora em Mondstadt agora — vou brincar com ele todos os dias! Vou levar ele pra explodir peixes, e ele pode me levar voando bem alto pra eu jogar a Bomba Saltitante nos peixes!"
       },
       {
         "Title": "Mais sobre Klee - I",
@@ -1116,5 +1148,11 @@
     "Description": "Estilo de Cartão de Visita.\nBomba de Sorte da Klee. É a Bomba Saltitante ou Dodoco se observar bem a cauda?",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Viagem: Sol Fugitivo",
+    "Description": "Viagem Imaginária de Klee. \"Da-da-da~ A aventura da Cavaleira das Faíscas começa!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

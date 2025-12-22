@@ -1882,6 +1882,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "두린의 운명의 별",
+    "Description": "두린의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "야호다의 운명의 별",
+    "Description": "야호다의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3056,6 +3078,28 @@
     "Description": "네페르의 운명의 자리 활성화 소재",
     "TypeDescription": "운명의 자리 활성화",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "두린의 운명의 별",
+    "Description": "두린의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "야호다의 운명의 별",
+    "Description": "야호다의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -7982,7 +8026,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "호법선중야차록",
-    "Description": "수메르 학자 메수디가 쓴 민속 백과사전 《유리암과 국토 사이 기행》의 리월 버전 《유리 구름과 달 사이》. 글이 어렵고 내용이 심오해 서적상과 독자들에게 외면당했다. 《호법선중야차록》은 그중 한 편으로 바위 신과 함께 싸웠던 여러 야차의 이야기를 소개하고 있다",
+    "Description": "수메르 학자 메수디가 쓴 민속 백과사전 《유리암과 국토 사이 기행》의 리월 버전 《상자 속 유리, 구름 사이 달》. 글이 어렵고 내용이 심오해 서적상과 독자들에게 외면당했다. 《호법선중야차록》은 그중 한 편으로 바위 신과 함께 싸웠던 여러 야차의 이야기를 소개하고 있다",
     "TypeDescription": "임무 아이템",
     "Icon": "UI_ItemIcon_100426"
   },
@@ -31316,6 +31360,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 40%를 회복하고 추가로 HP를 2350pt 회복한다",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「요리 숙제」",
+    "Description": "야호다의 특제 요리. 야호다는 이네파에게 베이킹 기술 수업을 여섯 번이나 들은 후에야 숙제로 직접 만든 디저트를 제출했다. 모양은 삐뚤빼뚤하지만, 베리의 향은 달콤하게 느껴진다. 그리고 맛은… 음, 그렇게 나쁘진 않을지도?",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 40%를 회복하고 추가로 HP를 2350pt 회복한다",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "사과고기찜(첫 요리)",
+    "Description": "두린의 특제 요리. 당신이 요리하는 모습을 보고 따라 해서 만든 두린의 인생 첫 작품이다. 가득 퍼지는 과일 향에는 이 세상 미식에 대한 그의 서툰 이해가 담겨 있고, 살짝 바삭한 가장자리는 자신의 힘을 열심히 제어한 결과다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 30%를 즉시 회복하고 30초 동안 5초마다 HP를 510pt씩 회복한다",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "이상한 매콤한 치킨",
+    "Description": "바삭한 초록색 튀김옷의 치킨. 치킨 맛을 느끼기도 전에 엄청난 양의 향신료에 기침이 나온다…. 배부르게 먹고 공부하려고 했는데 지금은 물 한 잔이 더 절실하다…",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 32%를 즉시 회복하고 30초 동안 5초마다 HP를 730pt씩 회복한다",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "매콤한 치킨",
+    "Description": "바삭한 초록색 튀김옷의 치킨. 닭고기에 향신료를 더한 반죽을 입혀 튀겨냈다. 이걸 다 먹으면 공부에 대한 열정이 불타오른다던데… 정말 그런 신기한 효과가 있을까?",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 35%를 즉시 회복하고 30초 동안 5초마다 HP를 930pt씩 회복한다",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "맛있는 매콤한 치킨",
+    "Description": "바삭한 초록색 튀김옷의 치킨. 뜨거울 때 한입 베어 물면 매콤한 맛이 미뢰를 깨우고, 풍부한 육즙이 입안에서 터져 나와 정신이 번쩍 든다…. 이런 상태를 유지할 수 있다면 어떤 지식이라도 배울 수 있을 것이다!",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "보기 좋고 맛도 좋지만 딱히 쓸모는 없다",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "설탕 공예·야호다",
+    "Description": "인물의 이미지를 참고해 제작한 설탕 공예. 방향을 가리키는 나침반은 자연스레 비밀의 집의 우수 직원 야호다를 떠올리게 한다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "보기 좋고 맛도 좋지만 딱히 쓸모는 없다",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "설탕 공예·월령",
+    "Description": "신비한 생물을 모티브로 제작한 설탕 공예. 둥실둥실 떠다니는 모습이 얌전하고 귀여운 월령을 닮았다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34128,6 +34256,17 @@
     "ItemType": 2,
     "Name": "레시피: 크림 연어 수프",
     "Description": "조리 과정이 자세히 적혀 있는 레시피. 「크림 연어 수프」의 조리 방법이 적혀있다",
+    "TypeDescription": "레시피",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "레시피: 매콤한 치킨",
+    "Description": "조리 과정이 자세히 적혀 있는 레시피. 「매콤한 치킨」의 조리 방법이 적혀있다",
     "TypeDescription": "레시피",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37006,6 +37145,17 @@
     "Description": "서리밤 하늘 영주의 뿔에서 떨어져 나온 조각. 가볍고 날카로워서, 다듬지 않은 상태에서도 금속 갑옷을 쉽게 꿰뚫 수 있다.\n오래된 민간 설화에 따르면, 이 오만하고 아름다운 존재들은 최초의 신의 사자가 만든 피조물이라고 한다. 낙원이 몰락할 때, 이들은 서리달의 여주인에게 서리달의 광원으로 세상의 더러움을 정화하리라 맹세했다, 옛 주인이 다시 돌아올 그날까지. 이 전설이 어디까지 사실인지는 이제 알 길이 없지만, 빛과 동행하던 이들은 아직도 그림자 속에서 이 땅을 수호하고 있다. 혹독한 긴 밤과 칠흑의 파도도 결코 이들의 모습을 세상에서 지우지는 못했다",
     "TypeDescription": "캐릭터 육성 소재",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "군용 순환식 달의 힘 코어",
+    "Description": "초대형 기갑 전함·기동전투 요새를 처치하고 에너지 코어에서 얻은 달의 힘 장치.\n폰타인 운동 에너지 공학 연구원들은 다양한 원소 에너지 구동 엔진의 이상적인 순환 모드를 규정했는데, 어떤 종류든 가장 완벽한 순환수는 항상 4였다. 군수궁과 파하섬 실험설계국의 대다수 엔지니어는 달의 힘을 원소력과는 다른 에너지로 간주했으나, 4순환 이외의 설계는 비효율적이고 실용성이 떨어진다는 것이 증명되었다. 어떤 의미에서 「4」의 순환은 세계의 특이한 취향일지도 모른다. 물론 세계는 특별히 선호하는 것이 없으며, 스스로 똑똑하다고 여기는 인간들의 멋대로 추측하는 습관이야말로 특이한 취향일지도 모른다",
+    "TypeDescription": "캐릭터 육성 소재",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -49407,7 +49557,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49724,6 +49874,127 @@
     "Description": "상자에서 꺼낸 「비밀의 집」 자금 일부. 천금을 얻는 건 쉽지 않으니, 신중히 써야 한다",
     "TypeDescription": "소모품",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "라인도티르의 「선물」",
+    "Description": "「황금」의 라인도티르가 알베도에게 준 선물.\n새로운 선물이자 새로운 문제가 담겨 있다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "낡은 「인형」",
+    "Description": "이한티가 만든 「인형」. 야호다가 전에 만들었던 어떤 인형과 비슷하다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "특제 설탕 공예 상자",
+    "Description": "특제 설탕 공예가 들어 있는 상자. 누군가를 위해 만든 공예품으로 보인다. 아무튼 설탕이 녹아내리기 전에 얼른 먹어버리자",
+    "TypeDescription": "소모품",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "「비밀의 집」 자금",
+    "Description": "상자에서 꺼낸 「비밀의 집」 자금 일부. 돈은 귀한 것이니, 신중히 써야 한다",
+    "TypeDescription": "소모품",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「기도의 밤」 가이드북",
+    "Description": "나샤 마을 「기도의 밤」 축제에서 나눠준 가이드북. 재미있는 노점들이 소개되어 있어 방문객들에게 잊지 못할 하룻밤의 추억을 선사한다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "콜롬비나에게 전하는 축하 카드",
+    "Description": "동료들이 콜롬비나를 위해 준비한 기도의 밤 축하 카드. 그녀에게 전하는 모두의 축복이 가득 담겨있다. 콜롬비나가 어디에 있든 오늘 밤 친구들의 미소를 떠올릴 수 있기를",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "콜롬비나가 준비한 달 사탕",
+    "Description": "콜롬비나가 모두를 위해 준비한 달 사탕. 그녀의 기발한 상상력 덕분에 다양하고 독특한 맛이 탄생했다. 어쩌면 그녀의 기억 속에 존재하는 맛일지도 모른다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "콜롬비나가 준비한 달 사탕",
+    "Description": "콜롬비나가 모두를 위해 준비한 달 사탕. 그녀의 기발한 상상력 덕분에 다양하고 독특한 맛이 탄생했다. 어쩌면 그녀의 기억 속에 존재하는 맛일지도 모른다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "열혈 투사 전기·2권",
+    "Description": "나타 현지 전설을 바탕으로 한 역사 판타지 만화 시리즈——《열혈 투사 전기》 소장판 출시.\n영웅들이 총출동해 빛나는 활약을 펼치고, 잔혹한 전투 속에서 목숨을 걸고 후세를 위한 길을 개척한다!",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「두린」 이야기",
+    "Description": "마녀 M이 남긴 마법책은 결국 두린에게 넘어가 그의 손에서 계속 이어질 것이다. 앨리스는 책의 복제품을 당신에게 선물했다. 이야기의 관찰자인 당신에게도 기념품은 필요하니까. 이 복제품에는 신기한 마법이 없지만 중요한 부분은 빠짐없이 담겨 있다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "특제 설탕 공예 상자",
+    "Description": "특제 설탕 공예가 들어 있는 상자. 누군가를 위해 만든 공예품으로 보인다. 아무튼 설탕이 녹아내리기 전에 얼른 먹어버리자",
+    "TypeDescription": "소모품",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -52383,7 +52654,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·148",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「The Brisk Morning Air」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52394,7 +52665,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·149",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Evening's Ease」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52405,7 +52676,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·150",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Soil of Bright Flame」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52416,7 +52687,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·151",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「A Deed No Less Than Star-Forging」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52427,7 +52698,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·152",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Land of Primal Flame」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52438,7 +52709,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·153",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Indulgence Beneath the Sun」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52449,7 +52720,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·154",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「The Watch of a Sleepless Sheep」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52460,7 +52731,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·155",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Waves Curl Over Drifting Sand」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52471,7 +52742,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "빛나는 결정·156",
-    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에는 나타의 신비한 선율이 담겨 있다",
+    "Description": "음률이 담긴 기묘한 결정. 마치 부드러운 비단으로 만든 옥 같다. 대륙 각지에 흩어져 있거나 진기한 보물을 찾는 상인의 손에 있다. 「속세의 주전자」의 「천상의 소리·활공」 또는 「천상의 소리·얽힘」으로 기록된 선율을 복원할 수 있다. 현재 「빛나는 결정」에 담긴 선율: 「Tapestry of Resplendent Hues」",
     "TypeDescription": "모험 아이템",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -53156,6 +53427,17 @@
     "Description": "「금빛 류트」 전용 재련 아이템.\n오래전에 사라진 고대 문명 속에서는, 세계를 지배하는 운명은 마치 무대 위의 노래와 같으며, 하늘 높이 걸린 거대한 하프로 엮은 것이라 믿는 이들이 있었다. 아마도 그들은 천사가 하늘의 빛 속에서 금색의 현을 뽑아내며, 웅장한 악곡으로 운명의 무정함을 선언하는 모습을 목격했기 때문일 것이다",
     "TypeDescription": "재련 재료",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "정신 수양",
+    "Description": "「무지개뱀의 현」 전용 재련 아이템.\n궁수가 오랫동안 착용한 손가락 보호대. 정교하고 색깔이 화려하다.\n화살의 명중률은 궁수의 경험에 달려있다. 숨을 죽이고 활시위를 당기다 보면 활과 화살을 자유자재로 다룰 수 있게 된다. 활시위를 당기는 것은 일종의 정신 수양이며, 손가락 보호대가 낡고 닳을수록 정신은 날카로워진다",
+    "TypeDescription": "재련 재료",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -55226,6 +55508,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "꼬마 마녀 사전",
+    "Description": "마녀들이 함께 집필한 사전. 앨리스에게 받았다. 명목상으로는 《꼬마 마녀와 꺼지지 않는 불》이라는 우화집의 주석이라고 하지만, 실제 내용은 마녀회가 특별히 준비한 「과제」다.\n「흘러넘치는 흐름의 역류는 곧 과제」다. 동료들과 함께 승격의 왕관을 얻기 위한 여정을 떠나 보자!",
+    "TypeDescription": "간편 아이템",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -56137,6 +56430,17 @@
     "Description": "활기찬 대화를 오래 이어가는 비결은 사실…",
     "TypeDescription": "초상화",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "공부",
+    "Description": "낮에 배우고 밤에 꿈꾼다. 이것 또한 지식을 머릿속에 저장하는 방법일지도…",
+    "TypeDescription": "아이콘",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70479,6 +70783,182 @@
     "ItemType": 2,
     "Name": "「납작 고양이」",
     "Description": "작업 순서가 상세히 적힌 도면. 「『납작 고양이』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「기묘한 반짝임」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『기묘한 반짝임』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「행운의 룰렛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『행운의 룰렛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「식욕 폭발」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『식욕 폭발』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "술집 공지-「항간의 소문」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「술집 공지-『항간의 소문』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「1초 컷」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『1초 컷』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「휴대용 탐지기」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『휴대용 탐지기』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「전설의 바비큐 마스터」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『전설의 바비큐 마스터』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「흔들흔들 목마」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『흔들흔들 목마』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "입식 삼각 쌍극탑",
+    "Description": "작업 순서가 상세히 적힌 도면. 「입식 삼각 쌍극탑」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「향기 없는 꽃」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『향기 없는 꽃』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「마룡 출격」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『마룡 출격』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「홀로 걷는 사람」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『홀로 걷는 사람』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「변치 않는 빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『변치 않는 빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「짹짹 참새」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『짹짹 참새』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「미식 대도」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『미식 대도』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「흑막 족제비」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『흑막 족제비』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
     "TypeDescription": "장식 도면",
     "Icon": "UI_ItemIcon_Home_Common"
   }

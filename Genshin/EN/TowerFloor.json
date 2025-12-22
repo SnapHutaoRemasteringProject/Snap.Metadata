@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "Characters' Normal Attack Pyro DMG increased by 75%."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "All party members gain a 60% Pyro DMG Bonus.",
+      "All party members gain a 60% Electro DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Off-field characters gain a 75% Pyro DMG Bonus."
+    ],
+    "SecondDescriptions": [
+      "Characters' Plunging Attack DMG increased by 75%."
+    ]
   }
 ]

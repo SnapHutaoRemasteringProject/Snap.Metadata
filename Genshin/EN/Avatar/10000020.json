@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Witch's Eve Rite: Surge of Lightning",
+        "Description": "After completing <color=#FFD780FF>Witch's Homework: Of the Little Wolf Pack</color>, Razor will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\nAdditionally, Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is enhanced: <color=#FFD780FF>The Wolf Within</color>'s DMG dealt is increased by 70% of Razor's ATK.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nWhile the Wolf Within summoned by Razor's Elemental Burst <color=#FFD780FF>Lightning Fang</color> is active, if the Electro Sigils from Razor's Elemental Skill <color=#FFD780FF>Claw and Thunder</color> overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Awakening",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Hunger",

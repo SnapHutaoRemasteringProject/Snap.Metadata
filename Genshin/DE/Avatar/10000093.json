@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Im glückverheißenden Zephir schwankende Frostfedern",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Siehe, die Adeptin in ihrem Reich",
@@ -989,6 +991,10 @@
       {
         "Title": "Über Gaming ...",
         "Context": "Ich mag Gaming sehr. Er ist gutherzig und unterhaltsam im Gespräch, aber nie überzogen. Wir trafen uns zum ersten Mal, als ich an einem See rastete, und er teilte freundlicherweise etwas von seinem Proviant mit mir. Später merkt er an, dass ich alt und weise zu sein schien und mehr Respekt verdiente als die Adepten selbst ... Hehe, mit meinem Alter und meiner Weisheit werde ich gut auf ihn aufpassen."
+      },
+      {
+        "Title": "Über Zibai ...",
+        "Context": "Ab Freundschaftsstufe 4 verfügbar"
       },
       {
         "Title": "Ich will mehr über Xianyun erfahren I",

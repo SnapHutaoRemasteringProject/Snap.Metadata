@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Witch's Eve Rite: Book of Blinding Light",
+        "Description": "หลังจากสำเร็จ<color=#FFD780FF>แบบฝึกหัดของแม่มด: ปริศนานอกโจทย์</color> Albedo จะกลายเป็นตัวละคร<color=#FFD780FF>มนตรา</color> เมื่อจัดทีมโดยมีตัวละครมนตราอย่างน้อย 2 ตัว จะได้รับเอฟเฟกต์ <color=#FFD780FF>Hexerei: Secret Rite</color> ซึ่งจะเสริมพลังให้กับตัวละครมนตรา\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\n·ภายใน 20 วินาทีหลังจากใช้สกิลธาตุ เมื่อสกิลธาตุของ Albedo โจมตีโดนศัตรู จะหลอมสร้าง <color=#FFD780FF>Silver Isotoma</color> ขึ้นใกล้กับศัตรู เป็นเวลา 10 วินาที; เมื่อไม่มี Solar Isotoma ที่ Albedo สร้างขึ้นอยู่ในสนาม หาก Albedo ยังไม่หมดสติ Silver Isotoma 1 อันจะได้รับเอฟเฟกต์เดียวกันกับ Solar Isotoma ในการสร้าง Transient Blossom โดยสามารถมี Silver Isotoma ที่ Albedo สร้างขึ้นอยู่พร้อมกันได้ไม่เกิน 2 อัน\n·ภายใน 20 วินาทีหลังจากสร้าง Solar Isotoma จะเพิ่มความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ และท่าไม้ตายของตัวละครในทีมที่อยู่ใกล้เคียง ตามพลังป้องกันของ Albedo: พลังป้องกันทุก 1,000 หน่วย จะเพิ่มความเสียหาย 4% ซึ่งสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 12%\n·ภายใน 20 วินาทีหลังจากสร้าง Silver Isotoma จะเพิ่มความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ และท่าไม้ตายของตัวละครมนตราในทีมที่อยู่ใกล้เคียง ตามพลังป้องกันของ Albedo: พลังป้องกันทุก 1,000 หน่วย จะเพิ่มความเสียหาย 10% ซึ่งสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้สูงสุด 30%",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Calcite Might",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Homuncular Nature",
@@ -707,13 +740,13 @@
       {
         "Id": 381,
         "Name": "Flower of Eden",
-        "Description": "เมื่อ Transient Blossom ที่เกิดขึ้นจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> ของ Albedo เบ่งบาน จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง",
+        "Description": "เมื่อ Transient Blossom ที่เกิดขึ้นจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> ของ Albedo งอกเงย จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง",
         "Icon": "UI_Talent_S_Albedo_01"
       },
       {
         "Id": 382,
         "Name": "Opening of Phanerozoic",
-        "Description": "เมื่อ Transient Blossom ที่เกิดจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> เบ่งบาน จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง",
+        "Description": "เมื่อ Transient Blossom ที่เกิดจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> งอกเงย จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง",
         "Icon": "UI_Talent_S_Albedo_02"
       },
       {
@@ -878,6 +911,10 @@
       {
         "Title": "เกี่ยวกับ Barbara...",
         "Context": "Barbara เหรอ? เธอเป็นซิสเตอร์ที่เคร่งครัดมาก ครั้งหนึ่งฉันมีโอกาสวาดภาพเหมือนของเธอ... เกิดอะไรขึ้นกับภาพวาด? อ่า... Albert ขอซื้อมัน แต่ฉันปฏิเสธ และมอบให้รักษาการผู้บัญชาการแทนน่ะ ความสัมพันธ์ทางสังคม... มันช่างเปลืองแรงจริง ๆ"
+      },
+      {
+        "Title": "เกี่ยวกับ Durin...",
+        "Context": "น้องชายของฉันคนนี้กำลังสำรวจสิ่งใหม่ ๆ มากมาย เขาฉลาดมาก และยังกระตือรือร้นที่จะคิดวิเคราะห์ด้วย ถึงแม้เขาจะตกอยู่ในสภาวะสับสนทางความคิดอยู่บ่อย ๆ แต่นั่นก็ไม่ได้ขัดขวางความกระตือรือร้นที่เขามีต่อโลกใบนี้เลย การมาของเขา หรือจะพูดให้ถูกก็คือ การมาของเขาในฐานะคนในครอบครัว ทำให้ฉันได้เรียนรู้และเข้าใจความสัมพันธ์ของมนุษย์ในมุมมองใหม่ ตอนนี้ พอมีพวกเดียวกันที่ใกล้ชิดที่สุดอยู่ด้วย ที่บ้านก็เลยคึกคักขึ้นมา นี่เป็นการเปลี่ยนแปลงไปในทางที่ดีอย่างไม่ต้องสงสัยเลยล่ะ"
       },
       {
         "Title": "อยากรู้เกี่ยวกับ Albedo - 1",
@@ -1092,5 +1129,11 @@
     "Description": "ลายนามบัตร\nขอให้ฉันเป็นประจักษ์พยานในปาฏิหาริย์นี้ด้วยเถอะ",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "เอฟเฟกต์วิ่ง - องค์ชายชอล์กขาว",
+    "Description": "ทางสัญจรในจินตนาการของ Albedo \"เปลวขาวดินดำ เจิดจ้าดั่งแสงตะวัน\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

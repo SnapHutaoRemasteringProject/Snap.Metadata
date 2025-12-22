@@ -599,7 +599,7 @@
         },
         "Id": 11222,
         "Name": "Estrategia de senet: Danza de las mil noches",
-        "Description": "Una danza que derrocó naciones enteras, tan gélida como las noches de invierno del gran mar de arena y, al mismo tiempo, tierna como la fina luz lunar. Néfer arremete cierta distancia hacia delante para infligir <color=#99FF88FF>Daño Dendro en el AdE</color> y entrar en el estado de {LINK#N11220001}<color=#FFD780FF>danza de las sombras</color>{/LINK}.\nSi tiene al menos 1 gota de {LINK#N11190008}<color=#FFD780FF>rocío de la espesura</color>{/LINK} mientras está en dicho estado, el Ataque Cargado de Néfer se sustituye por el Ataque Cargado especial {LINK#N11220002}<color=#FFD780FF>Espectáculo fantasmagórico</color>{/LINK}, el cual no consume Aguante. La RES a interrupción de Néfer aumenta mientras está en el estado de danza de las sombras.\n\nInicialmente, esta habilidad tiene 2 cargas.\n\n<i>La vida es como una partida de ajedrez en la que los jugadores se esconden tras un telón. Si no quieres que te atrapen cuando menos te lo esperas, lo mejor que puedes hacer es poseer una gran cantidad de información. En eso consisten los secretos.</i>",
+        "Description": "Una danza que derrocó naciones enteras, tan gélida como las noches de invierno del gran mar de arena y, al mismo tiempo, tierna como la fina luz lunar. Néfer arremete cierta distancia hacia delante para infligir <color=#99FF88FF>Daño Dendro en el AdE</color> y entrar en el estado de {LINK#N11220001}<color=#FFD780FF>danza de las sombras</color>{/LINK}.\nSi tiene al menos 1 gota de {LINK#N11190008}<color=#FFD780FF>rocío de la espesura</color>{/LINK} mientras está en dicho estado, el Ataque Cargado de Néfer se sustituye por el Ataque Cargado especial {LINK#N11220002}<color=#FFD780FF>Espectáculo fantasmagórico</color>{/LINK}, el cual no consume Aguante. La RES a interrupción de Néfer aumenta mientras está en el estado de danza de las sombras.\n\nInicialmente, esta habilidad tiene 2 cargas.\n\n<i>“La vida es como una partida de ajedrez en la que los jugadores se esconden tras un telón. Si no quieres que te atrapen cuando menos te lo esperas, lo mejor que puedes hacer es poseer una gran cantidad de información. En eso consisten los secretos”.</i>",
         "Icon": "Skill_S_Nefer_01"
       }
     ],
@@ -834,7 +834,8 @@
                 0.08
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222101,
         "Name": "Apuesta bajo la luna",
@@ -857,7 +858,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222201,
         "Name": "Hija de las arenas",
@@ -898,7 +900,7 @@
         },
         "Id": 1222501,
         "Name": "Intrigas de la cámara dorada",
-        "Description": "#Aumenta en un 25% las recompensas de las expediciones de 20{NON_BREAK_SPACE}h en Nod Krai.\nAdemás, como dueña de la Cámara de Secretos, parece que Néfer puede obtener información de diversas maneras, y algunas facciones de la Villa Nasha podrían estar muy interesadas en ello...",
+        "Description": "#Aumenta en un 25% las recompensas de las expediciones de 20{NON_BREAK_SPACE}h en Nod Krai.",
         "Icon": "UI_Talent_S_Nefer_08"
       }
     ],

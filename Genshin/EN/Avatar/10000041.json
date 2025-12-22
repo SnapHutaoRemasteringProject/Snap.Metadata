@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Witch's Eve Rite: Genesis of Starsigns",
+        "Description": "After completing <color=#FFD780FF>Witch's Homework: Of Untested Insight</color>, Mona will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of <color=#FFD780FF>Astral Glow of Mercury</color>, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's <color=#FFD780FF>Omen</color> duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "\"Come 'n' Get Me, Hag!\"",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "Waterborne Destiny",

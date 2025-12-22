@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Jade-Claimed Flower",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Gales of Reverie",
@@ -934,6 +936,10 @@
       {
         "Title": "Tentang Sethos",
         "Context": "Kenapa kamu merasa aku kenal dengan dia? Apa karena dia selalu mengikutiku dan meminta untuk melihat topiku? Kami jarang ngobrol kok. Pertama kali kami ketemu, dia langsung tanya apa aku ini Om Topi apa bukan ... Hmph, ternyata dia tipe yang menilai orang dari penampilannya. Dan entah kenapa sekarang semua orang tahu soal nama panggilan \"Om Topi\" ...."
+      },
+      {
+        "Title": "Tentang Durin",
+        "Context": "Saat pertama kali keluar dari buku itu, dia punya banyak sekali pertanyaan. Aku tidak pernah membayangkan menjadi manusia akan membuatnya semakin penasaran. Surat-suratnya begitu panjang, dan tulisan tangannya begitu berantakan, hampir tidak bisa aku baca.\nKalau kamu punya waktu, kamu bisa bantu jelaskan beberapa hal-hal padanya, supaya dia tidak salah arah."
       },
       {
         "Title": "#Mengenal {REALNAME[ID(1)]}: I",

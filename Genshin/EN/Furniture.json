@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Loafing Kitty",
     "Description": "A mechanical cat doll modeled after a certain famous black feline and equipped with a variety of interactive buttons.\nAs we all know, cats are rather mysterious creatures. With this principle in mind, the doll's designer devised a system that lets it respond to the user's actions — certain behaviors will delight the kitty, while others may cause it to shed its sedentary style and suddenly spring to its feet...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363411,
+    "Name": "Gleam & Glow",
+    "Description": "A lamp composed of a base and three floating bulbs. Its unique design takes inspiration from the lighting devices of Nasha Town.\n\"How can they float and glow at the same time?\" The bulbs' levitation appears to have something to do with kuuvahki. It's the sort of curious creation that passing tourists frequently find fascinating.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363412,
+    "Name": "Lucky Spin",
+    "Description": "A lucky wheel of a type commonly seen around Nasha Town. At its center is a rotating pointer that can be spun to land on cups of various colors — each representing a different result.\n\"Spin the wheel, and when it stops, Hotdog will read your daily fortune!\" Of course, if you don't like the first result, feel free to spin a few more times...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363413,
+    "Name": "Burst of Appetite",
+    "Description": "A platter that can be found near everywhere in Nasha Town, commonly piled high with hearty chunks of bread and sausages.\nGolden-crusted loaves and sizzling packets of meat... few hungry travelers can resist such a feast. That said, once this display makes its way into the Serenitea Pot, it serves only to stimulate your appetite...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363386,
+    "Name": "\"Saury-Saury Scout\"",
+    "Description": "A doll modeled after an Iktomisaurus Chick, built around the Scouting Buddy core mechanism from Sumeru. It can help scout out monsters and survey terrain, an adorable and dependable adventurer's friend.\nFront-Line Land Surveyor Mika, drawing on both his expertise and adventurers' needs, fully redesigned the Saury-Saury Scout to improve its mapping precision and agility. He also picked Iktomisaurus Chick as its form to embody its keen awareness to the around environment. After all, in a world full of danger, a sharp and clever companion is one you can always rely on.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 364225,
+    "Name": "Tavern Notice: Whispers of the Street",
+    "Description": "A large bulletin board in The Flagship used for posting bounties. Its broad surface can hold a great many notices.\nFew can ever claim the rich rewards offered for the most intricate commissions, yet those who read through the densely written posts can always piece together one curious rumor after another...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374637,
+    "Name": "One-Sec Whiz",
+    "Description": "A mechanical contraption in the Clink-Clank Krumkake Craftshop, equipped with compact, precise robotic arms.\n\"Just a moment, One-Sec Whiz can do it all!\" It's highly efficient, though not everything gets done in \"one second.\" Still, that might be the exact pace the inventor believed no customer could ever find fault with.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 373939,
+    "Name": "Utility Pocket Detector",
+    "Description": "Often seen around Nasha Town, this scanner is used to sift through heaps of scrap for anything still usable. But more often than not, it tends to go off for all sorts of odd things – like an old fella's missing sunglasses, or a young lady's button that quietly popped off...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374639,
+    "Name": "Grillmaster Supreme",
+    "Description": "This roaster from Nasha Town keeps the heat steady and the flavor locked in, delivering perfectly tender and juicy bites every time.\nRumor has it, anyone operating it ends up humming happy little tunes without even noticing...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374640,
+    "Name": "Wobbly Pony Ride",
+    "Description": "This amusement ride, often seen in Nasha Town, is made entirely from discarded tin sheets. Despite its humble materials, it's a favorite among children.\nLaughter fills the air as kids rock back and forth on the pony, their worries seeming to float away with each sway.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374641,
+    "Name": "Vertical Bipolar Tri-Leg Tower",
+    "Description": "A quirky tri-leg tower found at the Clink-Clank Krumkake Craftshop.\nBelieved to be a repurposed relic from the golden age, its original function has long been lost to time. Now, it stands purely as a decorative structure.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Archon Quest"
+    ],
+    "Id": 374811,
+    "Name": "Together with You",
+    "Description": "A themed photo spot inspired by the friendship between the Rimehorn Deer and the Chic Badger. It's fitted with built-in lights so visitors can take pictures even after nightfall.\n\"Kind of looks like a dopey Chic Badger posing next to a sleep-deprived Rimehorn Deer, doesn't it?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Archon Quest"
+    ],
+    "Id": 373222,
+    "Name": "Petals Without Perfume",
+    "Description": "A flowerbed modified to match the atmosphere of the Moon-Prayer Night. The mechanical flowers within glow with a warm and gentle light in the dark.\n\"Odd? Maybe... But in Nod-Krai, odd is ordinary!\" said a few curious travelers.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374812,
+    "Name": "Soulblazer: Fietena",
+    "Description": "A character standee inspired by Fietena, the fierce lead of the popular comic The Soulblazer Saga. Her striking pose captures both her fearless spirit and unshakable passion for battle.\n\"There's no backing out now. Let's do this!\"\nOf course, charging in together doesn't always lead to a perfect victory. Even so, the passion you shared and the effort you gave were real. And maybe someday, all of it will grow into something brilliant, something you can look back on without regrets.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Archon Quest"
+    ],
+    "Id": 374813,
+    "Name": "Dodoco's Whirly Gig",
+    "Description": "A spinning ride best enjoyed with two passengers, this attraction is sponsored by none other than the great mage herself.\n\"Come ride on a soft and furry Dodoco, and embark on an unforgettable adventure!\"\nThe spinning Dodoco may come to a stop eventually, but for you and the one who rode beside you, there will always be another journey waiting to begin...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Battle Pass: Gnostic Chorus"
+    ],
+    "Id": 374818,
+    "Name": "Dragon on the Move",
+    "Description": "A statue inspired by a mythical storybook dragon, it rests with wings lowered and eyes focused, as if poised to strike.\nInteract with the Dragon on the Move by sitting on its back. This triggers its internal mechanism, causing the eyes to open, the wings to flap, and the tail to sway, as if signaling the passenger on its back – \"Hold on tight. We're about to soar!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360467,
+    "Name": "The Lonely Wayfarer",
+    "Description": "This streetlamp from the Clink-Clank Krumkake Craftshop looks just like a traveler walking alone, head bowed and shoulders hunched.\nWhen night falls, it lights up silently, prompting passersby to wonder:\n\"It's such a tall lamp... Do its back and waist still hold up?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Archon Quest"
+    ],
+    "Id": 360468,
+    "Name": "Timeless Shine",
+    "Description": "A crescent-shaped lamp made from tinplate. It gives off a soft, quiet glow at all hours, day or night.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372516,
+    "Name": "Blushmist Whisper",
+    "Description": "A pale pink shrub that grows low to the ground, with clusters of fine, upright stems.\nIt often spreads in dense, continuous patches. From a distance, it looks like a soft pink mist drifting just above the earth, as if nature itself were whispering in a gentle voice.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372517,
+    "Name": "Waving to Yesterday",
+    "Description": "A species of cave flora characterized by thin, flexible stems and fan-like leaves.\nThese plants are incredibly resilient. No matter the conditions, their slender branches and leaves always sway gently in the breeze, as if each one were quietly waving goodbye to the past.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372518,
+    "Name": "Softglow Stamen",
+    "Description": "A smoky pink cave plant with softly spreading leaves, each ending in slender tendrils that resemble the stamens of a flower.\nThis plant gives off a faint, gentle glow. It might not light up the whole cave, but it does add a unique touch to the atmosphere...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374814,
+    "Name": "Little Finchie",
+    "Description": "A bouncy ball model inspired by the Ancient Scarlet-Plume Finch, featuring an irresistibly chubby and charming appearance.\nSmall as a Finchie may be, it brims with surprising strength!\nDuring play, you might just get swept up in its cuteness and blurt out the inevitable: \"Finches are the cutest!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374815,
+    "Name": "Gourmet Bandit",
+    "Description": "Donning its signature rogue mask, this \"Chip Bandit\" Gull-inspired figurine perfectly captures the essence of a full-fledged Gourmet Bandit.\n\"The Blubberbeasts say Natlan's cuisine is out of this world. Heh... Then of course I, the Gourmet Bandit, have to taste it for myself!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374816,
+    "Name": "Master Weaselmind",
+    "Description": "Modeled after the \"Glutton\" Mountain Weasel, this figure is none other than Master Weaselmind, the cunning schemer who turned greedy gulls into loyal tribute-bearers!\n\"Those 'Chip Bandit' Gulls? Mere bumbling bandits. I shall be the one enjoying every last kernel of popcorn.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374817,
+    "Name": "Soulblaze Snowman: The Warrior",
+    "Description": "A snowman modeled after Varesa, complete with her signature hero's mask. It faithfully captures her warmth and approachable spirit, without losing the passion that defines her.\nTo help guests from all across Teyvat relax and have fun, the creator of Jade Pitching designed this charming little companion. Though the snows of Dragonspine may be harsh, its presence brings a subtle warmth that lingers.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

@@ -686,7 +686,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 592101,
         "Name": "Pratica paradossale",
@@ -706,7 +707,8 @@
                 80
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 592201,
         "Name": "Ragionamento penetrante",
@@ -803,7 +805,7 @@
     },
     "Fetters": [
       {
-        "Title": "Salve...",
+        "Title": "Presentazione",
         "Context": "Mi chiamo Shikanoin Heizou, e sono l'investigatore più intelligente e di maggior successo della Commissione Tenryou... Oh, santo cielo, la vita ti ha messo davvero alla prova di recente, non è così? Si vede. Allora perché non ti siedi e mi racconti tutto?"
       },
       {
@@ -823,7 +825,7 @@
         "Context": "Speriamo soltanto che la pioggia non abbia cancellato tutti gli indizi."
       },
       {
-        "Title": "Quando tuona...",
+        "Title": "Quando tuona",
         "Context": "Mmh... Chissà quale grande mente criminale ha appena protestato per la propria innocenza in tribunale... Una che mente a quanto pare. Eheh."
       },
       {

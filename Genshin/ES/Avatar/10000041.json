@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Rito de la noche de brujas: Fundamentos astrológicos",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De una percepción sin poner a prueba»</color>, Mona se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nCuando Mona golpee a un enemigo con un Ataque Normal o Cargado, obtendrá 1 carga de “resplandor astroacuático”. Este efecto dura 8{NON_BREAK_SPACE}s y puede acumularse hasta 3 veces. Solo puede obtenerse una acumulación de resplandor astroacuático cada 0.1{NON_BREAK_SPACE}s de esta manera. Cuando tus personajes del equipo (a excepción de Mona) causen una reacción de Vaporización contra un enemigo, se consumirán todas las cargas de resplandor astroacuático y el daño de esa reacción de Vaporización aumentará en un 5% por cada carga consumida.\nAdemás, cuando Mona golpee a un enemigo con un Ataque Normal o Cargado, también prolongará en 2{NON_BREAK_SPACE}s la duración del <color=#FFD780FF>presagio</color> en dicho enemigo. Este efecto solo puede activarse una vez cada 0.5{NON_BREAK_SPACE}s, y el <color=#FFD780FF>presagio</color> del enemigo solo se puede prolongar un máximo de 8{NON_BREAK_SPACE}s de esta manera.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "¡Atrápame si puedes!",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "¡Que el destino decida!",

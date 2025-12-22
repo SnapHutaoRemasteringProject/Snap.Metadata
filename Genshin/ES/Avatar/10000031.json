@@ -492,6 +492,31 @@
         "Icon": "Skill_S_Fischl_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 315101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                0.225,
+                10,
+                90
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 315101,
+        "Name": "Rito de la noche de brujas: Nocturno fantasmagórico",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De lo inesperado»</color>, Fischl se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nOh, Ozvaldo Hrafnavines, Príncipe Cuervo de la Noche, testigo de innumerables mundos sumidos en la destrucción, entona para tu Princesa el septeto de la noche eterna, ¡pues ha llegado el momento en el que las almas congregadas en el fin de la causalidad obliterarán el oscuro pecado del destino!\nCuando Oz está activo, los personajes del equipo obtendrán los siguientes fortalecimientos adicionales:\n·Después de que un personaje cercano del equipo cause una reacción de Sobrecarga, el ATQ de Fischl y de los demás personajes en uso cercanos del equipo aumentará en un 22.5% durante 10{NON_BREAK_SPACE}s.\n·Después de que un personaje cercano del equipo cause una reacción de Electrocargado o Electrocargado Lunar, la Maestría Elemental de Fischl y de los demás personajes en uso cercanos del equipo aumentará en 90{NON_BREAK_SPACE}pts. durante 10{NON_BREAK_SPACE}s.",
+        "Icon": "UI_Talent_S_Fischl_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3139,
       "Proud": {
@@ -701,7 +726,8 @@
                 1.527
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312101,
         "Name": "Cuervo devoraestrellas",
@@ -720,7 +746,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 312201,
         "Name": "Juicio de los pecadores",

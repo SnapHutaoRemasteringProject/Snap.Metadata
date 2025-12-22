@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Material de Ativação da Constelação de Durin",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Material de Ativação da Constelação de Jahoda",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Material de Ativação da Constelação de Nefer",
     "TypeDescription": "Ativação de Constelação",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Material de Ativação da Constelação de Durin",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Material de Ativação da Constelação de Jahoda",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31052,6 +31096,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 40% de Vida para o personagem selecionado, e restaura 2350 de Vida adicional.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Prática Pós-Aula\"",
+    "Description": "Especialidade de Jahoda. Após buscar orientação sobre técnicas de preparo com Ineffa pela sexta vez, Jahoda apresentou finalmente sua tarefa — uma sobremesa caseira. Embora seu formato pareça um pouco irregular, o aroma das frutas era maravilhosamente adocicado. Quanto ao sabor... bem, não deve ser tão ruim?",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 40% de Vida para o personagem selecionado, e restaura 2350 de Vida adicional.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ensopado de Maçã (Versão de Teste)",
+    "Description": "Especialidade de Durin. Imitando cada movimento seu no fogão, Durin preparou o primeiro prato de sua vida. Em seu aroma frutado e encorpado há a compreensão nascente dele sobre a culinária desse mundo. Junto às bordas levemente crocantes, repousam os frutos dos esforços dele para restringir o próprio poder.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 30% da Vida Máxima do personagem selecionado e regenera 510 de Vida a cada 5s por 30s.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Frango Frito Temperado Estranho",
+    "Description": "Frango frito enrolado em uma pele crocante e verde. Mas antes que você possa saborear o frango frito, a abundância de especiarias já faz você se engasgar... Você planejava estudar após essa refeição satisfatória, mas parece que um copo d'água terá prioridade...",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 30% da Vida Máxima do personagem selecionado e regenera 730 de Vida a cada 5s por 30s.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Frango Frito Temperado",
+    "Description": "Frango frito enrolado com uma pele crocante e verde. O frango é envolto em uma pasta misturada com temperos antes de ser frito. Dizem que comer isso fará você sentir muita vontade de estudar bastante... Será que existe algo tão incrível assim neste mundo?",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 30% da Vida Máxima do personagem selecionado e regenera 930 de Vida a cada 5s por 30s.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Frango Frito Temperado Delicioso",
+    "Description": "Frango frito enrolado com uma pele crocante e verde. Dê uma mordida enquanto está quente e o sabor picante despertará suas papilas gustativas conforme os sucos abundantes explodem entre seus dentes, revigorando seu espírito... Neste estado, você sente como se pudesse aprender qualquer coisa!",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Bonita e saborosa, mas não tem nenhum efeito.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Escultura de Açúcar: Jahoda",
+    "Description": "Uma escultura de açúcar feita para capturar a essência de uma pessoa. A bússola direcional e orientadora traz Jahoda à mente, a funcionária excepcional da Curadoria dos Segredos.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Bonita e saborosa, mas não tem nenhum efeito.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Escultura de Açúcar: Kuuhenki",
+    "Description": "Uma escultura de açúcar modelada em uma criatura misteriosa. Com uma forma etérea, é um kuuhenki à deriva gentilmente sob o luar.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33864,6 +33992,17 @@
     "ItemType": 2,
     "Name": "Receita: Lohikeitto",
     "Description": "Uma receita passo a passo detalhada para fazer Lohikeitto.",
+    "TypeDescription": "Receita",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Receita: Frango Frito Temperado",
+    "Description": "Uma receita passo a passo detalhada para fazer Frango Frito Temperado.",
     "TypeDescription": "Receita",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36742,6 +36881,17 @@
     "Description": "Um fragmento da coroa de chifres do Nobre da Noite Gelada derrotado. Leve e afiada como uma lâmina, ela consegue cortar armaduras de metal comuns mesmo sem ter sido polida ou afiada.\nNos contos antigos, essas belas e arrogantes criaturas vieram das mãos do primeiro emissário divino. Quando o paraíso caiu, elas fizeram um pacto com a senhora da Lua Gelada, jurando usar a luz primordial concedida pela Lua Gelada para purificar a profanação do mundo mortal até que o antigo patrono retornasse mais uma vez. Hoje, não é mais possível encontrar a origem da lenda, nem mesmo provar sua veracidade. Mas as criaturas que outrora andaram com a luz, continuam a zelar por essa terra das sombras, através das longas noites geladas e das marés negras e sem vida, das quais falharam em fazer com que suas formas desaparecessem deste mundo.",
     "TypeDescription": "Material de Elevação de Personagem",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Núcleo de Kuuvahki Militar Cíclico",
+    "Description": "Um dispositivo de Kuuvahki obtido do núcleo de energia após derrotar o Cruzador Terrestre Superpesado: Fortaleza Mecânica.\nO Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine definiu no passado vários padrões cíclicos ideais para motores de substância com funcionamento elemental. Independentemente do tipo, o número de ciclos mais perfeito consistentemente foi quatro. Embora a maioria dos engenheiros do Escritório de Ordenança de Snezhnaya e do Escritório de Design de Experimentos de Kuuvahki da Ilha Paha tendem a considerar Kuuvahki uma substância de trabalho distinta da energia elemental, configurações de design além do paradigma de quatro ciclos ainda se provam ineficientes e impraticáveis. Em certo sentido, os \"quatro\" ciclos podem ser a preferência peculiar do mundo. Apesar de o mundo não ter nenhuma preferência, para ele, o hábito de mortais presunçosos fazerem conjecturas autossatisfatórias poderia muio bem ser a preferência mais estranha de todas.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -49143,7 +49293,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49460,6 +49610,127 @@
     "Description": "Você pega uma parte dos fundos da Curadoria dos Segredos de dentro da caixa. Não é fácil de se conseguir, portanto, use com sabedoria.",
     "TypeDescription": "Consumíveis",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Presente\" de Rhinedottir",
+    "Description": "Um presente de Rhinedottir \"Ouro\" para Albedo.\nUm novo presente, uma nova missão.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Boneca\" Maltrapilha",
+    "Description": "Uma \"boneca\" criada por Ihanti, carregando semelhança a uma certa boneca feita anteriormente por Jahoda.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Caixa de Esculturas de Açúcar Especial",
+    "Description": "Uma caixa especial contendo esculturas de açúcar feitas sob encomenda, aparentemente esculpidas com alguém em mente. Melhor aproveitadas antes que comecem a derreter.",
+    "TypeDescription": "Consumível",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Fundos da Curadoria dos Segredos",
+    "Description": "Você pega uma parte dos fundos da Curadoria dos Segredos de dentro da caixa. Não é fácil de se conseguir, portanto, use com sabedoria.",
+    "TypeDescription": "Consumível",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Panfleto da Noite da Oração Lunar",
+    "Description": "Um panfleto entregue na Noite da Oração Lunar da Cidade de Nasha. Ele destaca uma variedade de estandes e atividades divertidas. Com ele em mãos, participantes com certeza desfrutarão de uma noite inesquecível.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cartão de Felicitações para Columbina",
+    "Description": "Um cartão de felicitações preparado pelos companheiros de Columbina para a Noite da Oração Lunar. Carrega os desejos de coração deles, esperando que onde ela estiver, ela se lembre dos sorrisos que todos compartilharam nessa noite.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Doce da Oração Lunar de Columbina",
+    "Description": "Um Doce da Oração Lunar feito por Columbina para todos aproveitarem. Inspirada pela imaginação sem limites dela, esse doce possui uma variedade de sabores surpreendentes, talvez extraídos dos sabores que ela lembra com mais felicidade.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Doce da Oração Lunar de Columbina",
+    "Description": "Um Doce da Oração Lunar feito por Columbina para todos aproveitarem. Inspirada pela imaginação sem limites dela, esse doce possui uma variedade de sabores surpreendentes, talvez extraídos dos sabores que ela lembra com mais felicidade.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "A Saga da Alma Flamejante: Volume 2",
+    "Description": "A Saga da Alma Flamejante, um pergaminho tecido em quadrinhos fantástico histórico das lendas locais de Natlan, agora disponível em edição de colecionador.\nHeróis se reúnem, seu brilho radiando mais forte quando os destinos entram em colisão, forjando um caminho para gerações futuras com suas vidas no crisol da batalha brutal.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "O Conto de \"Durin\"",
+    "Description": "O livro mágico deixado por \"M\" deve ser, no fim das contas, entregue a Durin, permitindo que ele continue escrevendo a própria história. Alice criou uma réplica dele para dar de presente a você. Afinal, como testemunha dessa história, você merece uma lembrança. Claro, essa réplica carece de quaisquer propriedades mágicas, mas preserva todas as histórias emocionantes nele.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Caixa de Esculturas de Açúcar Especial",
+    "Description": "Uma caixa especial contendo esculturas de açúcar feitas sob encomenda, aparentemente esculpidas com alguém em mente. Melhor aproveitadas antes que comecem a derreter.",
+    "TypeDescription": "Consumível",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -52119,7 +52390,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 148",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"The Brisk Morning Air\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52130,7 +52401,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 149",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Evening's Ease\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52141,7 +52412,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 150",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Soil of Bright Flame\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52152,7 +52423,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 151",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"A Deed No Less Than Star-Forging\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52163,7 +52434,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 152",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Land of Primal Flame\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52174,7 +52445,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 153",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Indulgence Beneath the Sun\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52185,7 +52456,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 154",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"The Watch of a Sleepless Sheep\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52196,7 +52467,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 155",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Waves Curl Over Drifting Sand\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52207,7 +52478,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cristal Rodopiante Radiante 156",
-    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Natlan.",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é \"Tapestry of Resplendent Hues\".",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52892,6 +53163,17 @@
     "Description": "Material especializado de refinamento para \"Lira do Tecedor da Luz\".\nEm uma civilização há muito perdida para o tempo, alguns acreditavam que o destino que governa o mundo foi tecido como uma canção sobre um palco, nascida das cordas de uma harpa colossal suspensa nos céus. Talvez seja porque eles testemunharam anjos tocarem cordas douradas do próprio céu acima, seus acordes divinos proclamando a indiferença estrondosa do destino.",
     "TypeDescription": "Material de Refinamento",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Coração Refinado",
+    "Description": "Material de refinamento especializado para \"Cordas da Chuva da Serpente Arco-Íris\".\nUma proteção de dedo de cores vivas, fabricada com requinte.\nA precisão de uma flecha depende da experiência do arqueiro: Quanto mais se puxa a corda do arco com respiração focada, mais uniformemente o arco e flecha se movem juntos. O desgaste na proteção reflete a intensidade da determinação do arqueiro.",
+    "TypeDescription": "Material de Refinamento",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54962,6 +55244,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Dicionário da Bruxinha",
+    "Description": "Recebido de Alice, esse dicionário foi criado pelas bruxas. Embora ele alegue explicar um livro de histórias de fábulas intitulado A Bruxinha e As Chamas Eternas, na verdade, é cheio de dever de casa personalizado pela Sociedade das Feiticeiras para cada leitor.\nComo dizem, \"desafiar a corrente é aprender\". Embarque na sua jornada com seus companheiros e busque a coroa da elevação!",
+    "TypeDescription": "Item",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55873,6 +56166,17 @@
     "Description": "Veja, o verdadeiro segredo para manter uma conversa animada é...",
     "TypeDescription": "Avatar",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Estudante Diligente",
+    "Description": "Aprendizado diurno alimenta sonhos noturnos. Talvez seja assim que o conhecimento encontra seu caminho naturalmente até nossas mentes...",
+    "TypeDescription": "Avatar",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70215,6 +70519,182 @@
     "ItemType": 2,
     "Name": "Gatinho Preguiçoso",
     "Description": "Um diagrama que descreve passo a passo como fabricar Gatinho Preguiçoso.\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Brilho e Luminescência",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Brilho e Luminescência\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Giro da Sorte",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Giro da Sorte\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Explosão de Apetite",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Explosão de Apetite\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Anúncios da Taverna: Sussurros das Ruas",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Sussurros das Ruas\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gênio de Um Segundo",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Gênio de Um Segundo\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Detector de Bolso Utilitário",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Detector de Bolso Utilitário\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mestre da Grelha Supremo",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Mestre da Grelha Supremo\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pônei Balançante",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Pônei Balançante\".\nDepois de usar, você pode entrar na interface de produção para vê-lo.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Torre Triangular Bipolar Vertical",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Torre Triangular Bipolar Vertical\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pétalas sem Perfume",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Pétalas sem Perfume\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dragão em Movimento",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Dragão em Movimento\".\nDepois de usar, você pode entrar na interface de produção para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "O Viajante Solitário",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"O Viajante Solitário\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Brilho Atemporal",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Brilho Atemporal\".\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Mini Passarinho",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Mini Passarinho.\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bandido Gourmet",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Bandido Gourmet\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Furão dos Bastidores",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Furão dos Bastidores\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
     "TypeDescription": "Diagrama de Decoração",
     "Icon": "UI_ItemIcon_Home_Common"
   }

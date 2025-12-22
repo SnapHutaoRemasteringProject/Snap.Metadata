@@ -4932,8 +4932,8 @@
     "Name": "白礜赤成",
     "Version": "6.2",
     "Order": 1,
-    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/e9291b4ae7e6840d81adf8c3bcf2ad5e_5777095417575400489_transformed.jpg",
-    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/e9291b4ae7e6840d81adf8c3bcf2ad5e_5777095417575400489_transformed.jpg",
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/19/787887ab414863e87de715fe14567f48_5549754351715850729_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/19/787887ab414863e87de715fe14567f48_5549754351715850729_transformed.jpg",
     "From": "2025-12-03T06:00:00+08:00",
     "To": "2025-12-23T17:59:00+08:00",
     "Type": 301,
@@ -4942,16 +4942,16 @@
     ],
     "UpPurpleList": [
       10000124,
-      10000076,
-      10000032
+      10000032,
+      10000076
     ]
   },
   {
-    "Name": "杯装之诗",
+    "Name": "杯裝之詩",
     "Version": "6.2",
     "Order": 1,
-    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/123cbe77341ba0337e56f56600effd09_1549480919145244906_transformed.jpg",
-    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/123cbe77341ba0337e56f56600effd09_1549480919145244906_transformed.jpg",
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/19/c1091c4555405e2735d6a6128ecec8a2_4563821917403442309_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/19/c1091c4555405e2735d6a6128ecec8a2_4563821917403442309_transformed.jpg",
     "From": "2025-12-03T06:00:00+08:00",
     "To": "2025-12-23T17:59:00+08:00",
     "Type": 400,
@@ -4960,21 +4960,21 @@
     ],
     "UpPurpleList": [
       10000124,
-      10000076,
-      10000032
+      10000032,
+      10000076
     ]
   },
   {
-    "Name": "神铸赋形",
+    "Name": "神鑄賦形",
     "Version": "6.2",
     "Order": 1,
-    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/0a9191e9c94c34f1862223aea72f88d8_6761506822979172855_transformed.jpg",
-    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2025/11/19/0a9191e9c94c34f1862223aea72f88d8_6761506822979172855_transformed.jpg",
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/11/19/c086866de6e97b0427097b6e12a882e3_2243719685701994604_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/11/19/c086866de6e97b0427097b6e12a882e3_2243719685701994604_transformed.jpg",
     "From": "2025-12-03T06:00:00+08:00",
     "To": "2025-12-23T17:59:00+08:00",
     "Type": 302,
     "UpOrangeList": [
-      15518,
+      11518,
       15515
     ],
     "UpPurpleList": [
@@ -4983,6 +4983,63 @@
       14410,
       12405,
       15402
+    ]
+  },
+  {
+    "Name": "飫宴角戲",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/6167f7f6bca8e40385b1c98eb6fd5e0e_4733526216547411206_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/6167f7f6bca8e40385b1c98eb6fd5e0e_4733526216547411206_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000111
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000090,
+      10000092
+    ]
+  },
+  {
+    "Name": "煅火的祝賜",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/c754150c8e544dde71136de1880b9ab1_8397503373962380439_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/c754150c8e544dde71136de1880b9ab1_8397503373962380439_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000103
+    ],
+    "UpPurpleList": [
+      10000110,
+      10000090,
+      10000092
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/08/0650e4cdc5fac7529683ea7f6781e470_665901498712819402_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/08/0650e4cdc5fac7529683ea7f6781e470_665901498712819402_transformed.jpg",
+    "From": "2025-12-23T18:00:00+08:00",
+    "To": "2026-01-13T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14519,
+      11516
+    ],
+    "UpPurpleList": [
+      12430,
+      15410,
+      11401,
+      13407,
+      14402
     ]
   }
 ]

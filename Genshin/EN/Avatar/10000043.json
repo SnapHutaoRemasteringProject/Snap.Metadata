@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Witch's Eve Rite: Sevenfold Transmutation",
+        "Description": "After completing <color=#FFD780FF>Witch's Homework: Of Wonderland Flowers</color>, Sucrose will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\n· After Sucrose creates a Small Wind Spirit, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 5.71428% for 15s.\n· After Sucrose creates a Large Wind Spirit, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 7.14285% for 20s.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Catalyst Conversion",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

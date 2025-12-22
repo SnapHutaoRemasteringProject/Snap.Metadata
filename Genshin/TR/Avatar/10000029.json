@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Cadının Gece Ayini: Kıvılcım Büyüsü",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Kıvılcım Saçan Yapraklar</color> tamamlandıktan sonra Klee bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\nKlee Normal Saldırı, Element Becerisi veya Element Patlaması ile Hasar verdiğinde 20 saniye süren 1 Patlama Rozeti kazanır. Her saldırı türü bu şekilde en fazla 1 Patlama Rozeti kazandırır ve her rozetin kendi bağımsız süresi vardır. Klee 1/2/3 Patlama Rozetine sahip olduğunda, özel Yüklü Saldırısı Güm Güm Vuruşu, orijinal Hasarının %115/%130/%150'si kadar Hasar verir.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Ezici Sürpriz",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Işıltılı Patlama",
@@ -886,6 +914,10 @@
       {
         "Title": "Sucrose Hakkında",
         "Context": "Sucrose'dan iyisi yok! Bu sefer hem iyi koşan hem iyi zıplayan bir Zıpzıp Bodur isteyip istemediğimi sordu. Hihi, e yani! Tabii ki istiyorum. Yüzlerce istiyorum! Onları her sokağa, her merdivene, Mondstadt'taki her meydana koymak istiyorum!"
+      },
+      {
+        "Title": "Durin Hakkında",
+        "Context": "Hehe, Durin artık Mondstadt'ta yaşıyor. Artık her gün onunla oynayacağım! Onu balık patlatmaya götüreceğim, o da balıklara Zıpzıp Bodur atmam için beni yükseklere uçuracak!"
       },
       {
         "Title": "Klee Hakkında Daha Fazlası: I",
@@ -1116,5 +1148,11 @@
     "Description": "İsim Kartı arka planı.\nKlee'nin şanslı patlayıcısı. Acaba Zıpzıp Bodur mu yoksa Dodoko mu? (İpucu: Kuyruğuna dikkatli bak.)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Yankı: Kaçan Güneş Işığı",
+    "Description": "Klee'nin Hayali Yankısı. \"Da-da-da, Kıvılcım Şövalyesi'nin macerası başlıyor!\"",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

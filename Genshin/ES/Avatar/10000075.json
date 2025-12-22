@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Flor de jade",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Céfiro de la ensoñación",
@@ -934,6 +936,10 @@
       {
         "Title": "Sobre Sethos...",
         "Context": "¿Qué te hace pensar que lo conozco? ¿Es porque siempre está siguiéndome y diciéndome que quiere ver mi sombrero? No hemos hablado mucho. La primera vez que nos vimos, se acercó y me preguntó si yo era Don Sombrero... Hasta donde sé, juzgar a alguien por su aspecto es muy superficial. Hum, parece que ahora todo el mundo conoce ese nombre..."
+      },
+      {
+        "Title": "Sobre Durin...",
+        "Context": "Ese tipo ya venía con un montón de preguntas cuando salió del libro, y ahora que se volvió humano, tiene aún más. Siempre escribe cartas larguísimas con una letra tan horrible que ni se pueden leer... *Tch*.\nSi tienes tiempo libre, podrías ayudarlo a resolver sus dudas, no vaya a ser que tome el camino equivocado."
       },
       {
         "Title": "#Más sobre {REALNAME[ID(1)]} (I)",

@@ -410,8 +410,33 @@
         },
         "Id": 10432,
         "Name": "Creazione Anemoipostasi astabile n. 6308",
-        "Description": "Crea un piccolo Spirito dei venti che attira gli avversari e gli oggetti verso la sua posizione, scaglia via gli avversari nella sua area d'effetto e infligge <color=#80FFD7FF>DAN da Anemo</color>.\n\n<i>È un po' imbarazzante ma, nonostante le forme di vita elementali nate attraverso questa procedura si dissipino molto rapidamente, sono incredibilmente utili all'avventura. Persino gli esperimenti falliti possono avere applicazioni pratiche.</i>",
+        "Description": "Crea un Piccolo Spirito dei venti che attira gli avversari e gli oggetti verso la sua posizione, scaglia via gli avversari nella sua area d'effetto e infligge <color=#80FFD7FF>DAN da Anemo</color>.\n\n<i>È un po' imbarazzante ma, nonostante le forme di vita elementali nate attraverso questa procedura si dissipino molto rapidamente, sono incredibilmente utili nelle avventure. Persino gli esperimenti falliti possono avere applicazioni pratiche.</i>",
         "Icon": "Skill_S_Sucrose_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Rito della Vigilia della strega: Trasmutazione in sette parti",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Sui fiori meravigliosi</color>, Sucrose acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\n· Dopo che Sucrose ha creato un Piccolo Spirito dei venti, potenzia di un 5,71428% per 15{NON_BREAK_SPACE}s i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri del gruppo vicini.\n· Dopo che Sucrose ha creato un Grande Spirito dei venti, potenzia di un 7,14285% per 20{NON_BREAK_SPACE}s i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri del gruppo vicini dotati di attributo Hexerei.",
+        "Icon": "UI_Talent_S_Sucrose_07"
       }
     ],
     "EnergySkill": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Conversione del catalizzatore",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

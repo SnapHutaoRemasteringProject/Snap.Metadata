@@ -45,7 +45,8 @@
             "DMG Membidik|{param7:F1P}",
             "DMG Membidik Penuh|{param8:P}",
             "DMG Selama Plunging|{param9:F1P}",
-            "DMG Plunging Attack Rendah/Tinggi|{param10:P}/{param11:P}"
+            "DMG Plunging Attack Rendah/Tinggi|{param10:P}/{param11:P}",
+            "DMG Windsunder Arrow|{param12:F1P} DMG Normal Attack"
           ],
           "Parameters": [
             {
@@ -62,7 +63,8 @@
                 1.24,
                 0.568288,
                 1.136335,
-                1.419344
+                1.419344,
+                1.6
               ]
             },
             {
@@ -79,7 +81,8 @@
                 1.333,
                 0.614544,
                 1.228828,
-                1.534872
+                1.534872,
+                1.7
               ]
             },
             {
@@ -96,7 +99,8 @@
                 1.426,
                 0.6608,
                 1.32132,
-                1.6504
+                1.6504,
+                1.8
               ]
             },
             {
@@ -113,7 +117,8 @@
                 1.55,
                 0.72688,
                 1.453452,
-                1.81544
+                1.81544,
+                1.9
               ]
             },
             {
@@ -130,7 +135,8 @@
                 1.643,
                 0.773136,
                 1.545944,
-                1.930968
+                1.930968,
+                2
               ]
             },
             {
@@ -147,7 +153,8 @@
                 1.736,
                 0.826,
                 1.65165,
-                2.063
+                2.063,
+                2.1
               ]
             },
             {
@@ -164,7 +171,8 @@
                 1.86,
                 0.898688,
                 1.796995,
-                2.244544
+                2.244544,
+                2.2
               ]
             },
             {
@@ -181,7 +189,8 @@
                 1.984,
                 0.971376,
                 1.94234,
-                2.426088
+                2.426088,
+                2.3
               ]
             },
             {
@@ -198,7 +207,8 @@
                 2.108,
                 1.044064,
                 2.087686,
-                2.607632
+                2.607632,
+                2.4
               ]
             },
             {
@@ -215,7 +225,8 @@
                 2.232,
                 1.12336,
                 2.246244,
-                2.80568
+                2.80568,
+                2.5
               ]
             },
             {
@@ -232,7 +243,8 @@
                 2.36096,
                 1.202656,
                 2.404802,
-                3.003728
+                3.003728,
+                2.6
               ]
             },
             {
@@ -249,7 +261,8 @@
                 2.5296,
                 1.281952,
                 2.563361,
-                3.201776
+                3.201776,
+                2.7
               ]
             },
             {
@@ -266,7 +279,8 @@
                 2.69824,
                 1.361248,
                 2.721919,
-                3.399824
+                3.399824,
+                2.8
               ]
             },
             {
@@ -283,7 +297,8 @@
                 2.86688,
                 1.440544,
                 2.880478,
-                3.597872
+                3.597872,
+                2.9
               ]
             },
             {
@@ -300,7 +315,8 @@
                 3.03552,
                 1.51984,
                 3.039036,
-                3.79592
+                3.79592,
+                3
               ]
             }
           ]
@@ -476,6 +492,30 @@
         "Name": "Skyward Sonnet",
         "Description": "Wahai angin tempat semua nyanyian dan pujian dilantunkan, mampukan pejalan kaki bumi ini naik ke langit.\n\n<color=#FFD780FF>Tekan</color>\nMemanggil sebuah Wind Domain di lokasi musuh yang mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> serta menghempaskan musuh ke udara.\n\n<color=#FFD780FF>Tahan</color>\nMemanggil Wind Domain yang lebih besar lagi dengan Venti berada di tengahnya. Mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> dan menghempaskan musuh ke udara.\nSetelah mengerahkan Wind Domain yang lebih besar, Venti mengendarai angin ke udara.\n\nMusuh yang terhempas oleh Skyward Sonnet akan jatuh ke tanah perlahan-lahan dalam waktu singkat.\n\n<i>Di masa ketika para dewa dan manusia berjalan bersama-sama di bumi, surga dipenuhi dengan lagu-lagu yang tak terhitung jumlahnya. Melodi ini sudah lama dilupakan.</i>",
         "Icon": "Skill_S_Venti_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Witch's Eve Rite: Temporal Wind's Eulogy",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Bertiupnya Sang Angin</color>, Venti akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nSelama Stormeye yang dihasilkan oleh Elemental Burst <color=#FFD780FF>Wind's Grand Ode</color> aktif, DMG Karakter ini meningkat 50% dan DMG Stormeye Venti sendiri meningkat menjadi 135% dari DMG awalnya selama 4 detik setelah Karakter aktif di sekitar memicu reaksi Swirl.",
+        "Icon": "UI_Talent_S_Venti_07"
       }
     ],
     "EnergySkill": {
@@ -674,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Embrace of Winds",
@@ -694,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Stormeye",
@@ -927,6 +969,10 @@
       {
         "Title": "Tentang Dahlia",
         "Context": "Pengembara, apakah engkau mencari suara angin dan menghendaki bimbingan dari padanya? Jika demikian, bicaralah kepada Diakon gereja. Haha, bercanda ... ngobrol langsung sama aku saja lah! Sambil minum, biar asyik. Alasan kenapa aku lebih suka bicara lewat Dahlia itu karena ... yah, kamu tahu lah alasannya, ehe. Dia suka mendengar embusan angin, tapi yang paling penting, dia juga tahu mana yang benar dan mana yang salah."
+      },
+      {
+        "Title": "Tentang Durin",
+        "Context": "Satu lagi anak dari Bu Penyihir di Mondstadt, menyenangkan sekali! Teman kecil yang baru ini sepertinya mau main dengan teman lamaku ... jadi aku mengatur agar mereka bisa saling berkenalan, ternyata temanku malah yang lebih bersemangat dari keduanya! Wah, kamu harusnya lihat dia lompat kegirangan, nepuk-nepuk perutnya, dan menari berputar-putar. Waduh, dia dengar aku ngomong apa barusan ya? Cepat, cepat, kita sembunyi di balik pohon itu!"
       },
       {
         "Title": "Mengenal Venti: I",

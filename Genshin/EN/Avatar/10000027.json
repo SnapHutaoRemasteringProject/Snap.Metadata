@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Backup Plan",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Strategic Reserve",
@@ -829,6 +831,10 @@
       {
         "Title": "About Xianyun",
         "Context": "#I plan to have Lady Xianyun over for a casual conversation over tea in a few days. I happen to have in my possession a number of mechanical devices, and I would be most interested to hear her insights on their design and use. It would also be a fine opportunity to hear about her experiences as an adeptus adapting to a new life in Liyue Harbor. All I require now is a suitable candidate to deliver the invitation to her on my behalf... Would you be interested, {NICKNAME}?"
+      },
+      {
+        "Title": "About the White Horse Adeptus",
+        "Context": "Unlocks at Friendship Lv. 4"
       },
       {
         "Title": "More About Ningguang: I",

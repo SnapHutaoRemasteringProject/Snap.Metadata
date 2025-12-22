@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Yedek Plan",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Stratejik Rezerv",
@@ -829,6 +831,10 @@
       {
         "Title": "Xianyun Hakkında",
         "Context": "#Birkaç güne Bayan Xianyun'u çay içip sohbet etmek üzere buraya davet etmeyi planlıyorum. Elimde çok fazla sayıda mekanik cihaz mevcut ve gerek cihazların tasarımı gerek kullanım şekli olsun kendisinin fikirlerini duymayı çok isterim. Ayrıca Liyue Limanı'nda yaşamaya başlayan bir Adeptus olarak deneyimlerini duymak da güzel olur. Şimdi gereken şey, davetimi ona iletmesi için uygun birini bulmak... Sen yapar mısın {NICKNAME}?"
+      },
+      {
+        "Title": "Beyaz At Adeptus Hakkında",
+        "Context": "4. Arkadaşlık Seviyesinde açılır."
       },
       {
         "Title": "Ningguang Hakkında Daha Fazlası: I",

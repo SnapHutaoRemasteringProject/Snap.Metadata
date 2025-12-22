@@ -1640,6 +1640,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Durin",
+    "Description": "Materiale per l'attivazione della costellazione di Durin",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Jahoda",
+    "Description": "Materiale per l'attivazione della costellazione di Jahoda",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2814,6 +2836,28 @@
     "Description": "Materiale per l'attivazione della costellazione di Nefer",
     "TypeDescription": "Attiva costellazione",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Durin",
+    "Description": "Materiale per l'attivazione della costellazione di Durin",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Jahoda",
+    "Description": "Materiale per l'attivazione della costellazione di Jahoda",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -30722,6 +30766,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 40% dei PS max e 2.350 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Pratica dopo le lezioni\"",
+    "Description": "La specialità di Jahoda. Dopo aver chiesto per la sesta volta consigli sulle tecniche di cottura a Ineffa, Jahoda ha finalmente presentato il suo compito: un dolce fatto a mano. La forma è un po' traballante, ma il piacevole profumo di frutti di bosco è irresistibile, e il sapore... beh, non può essere così male, giusto?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 40% dei PS max e 2.350 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stufato di mele (versione di prova)",
+    "Description": "La specialità di Durin. Imitando ogni tuo gesto ai fornelli, Durin ha preparato il primissimo piatto della sua vita. Nel suo ricco aroma fruttato risiede la sua nascente comprensione della cucina di questo mondo. Lungo i bordi leggermente croccanti giacciono i frutti del suo sforzo atto a contenere il suo stesso potere.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 30% dei PS max del personaggio selezionato e rigenera 510 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo fritto speziato sospetto",
+    "Description": "Pollo fritto avvolto in una crosta verde e croccante. Prima ancora che tu possa assaggiarlo, l'eccesso di spezie ti ha già provocato un attacco di tosse... Avevi in programma di metterti a studiare dopo questo pasto abbondante, ma forse è meglio iniziare con un bel bicchiere d'acqua...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 32% dei PS max del personaggio selezionato e rigenera 730 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo fritto speziato",
+    "Description": "Pollo fritto avvolto in una crosta verde e croccante. Il pollo viene avviluppato in una miscela di spezie prima di essere fritto. Si dice che finire questo piatto susciti la voglia di studiare sodo... Può esistere una cosa tanto straordinaria?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 35% dei PS max del personaggio selezionato e rigenera 930 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pollo fritto speziato delizioso",
+    "Description": "Pollo fritto avvolto in una crosta verde e croccante. Dagli un morso finché è caldo e il suo sapore piccante ti risveglierà le papille gustative, mentre i suoi abbondanti succhi provocheranno un'esplosione di sapore tra i tuoi denti, rinfrancando il tuo spirito... In questo modo, ti sembrerà di poter imparare qualsiasi cosa!",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Ha un bell'aspetto e un sapore delizioso, ma non ha alcun effetto.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scultura di zucchero: Jahoda",
+    "Description": "Una scultura di zucchero realizzata per catturare l'essenza di una persona. La bussola direzionale fa pensare a Jahoda, l'eccezionale impiegata del Consiglio dei segreti.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Ha un bell'aspetto e un sapore delizioso, ma non ha alcun effetto.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scultura di zucchero: Kuuhenki",
+    "Description": "Una scultura di zucchero modellata sulle fattezze di una creatura misteriosa. Con la sua forma eterea, la Kuuhenki fluttua dolcemente illuminata dal chiaro di luna.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33534,6 +33662,17 @@
     "ItemType": 2,
     "Name": "Ricetta: lohikeitto",
     "Description": "Una ricetta passo dopo passo per preparare del lohikeitto.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ricetta: pollo fritto speziato",
+    "Description": "Una ricetta passo dopo passo per preparare del pollo fritto speziato.",
     "TypeDescription": "Ricetta",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36412,6 +36551,17 @@
     "Description": "Un frammento dei maestosi palchi dell'Herra della Notte gelata. Leggero e affilato, è in grado di fendere con facilità anche le armature di metallo.\nSecondo antiche storie, queste magnifiche e fiere creature vennero create dalla prima emissaria. Quando l'Elisio cadde, venne stretto un patto con la signora della Luna gelata, che prevedeva di usarne la luce primordiale per purificare le impurità del mondo mortale fino al ritorno dell'antico protettore. Anche se le origini di queste leggende sono andate perdute, e la loro veridicità sia del tutto indimostrabile, le creature che camminavano un tempo nella luce continuano a vegliare dalle ombre su questa terra, attraverso lunghe e gelide notti e inaridenti onde nere, poiché la loro forma non può mai sparire del tutto da questo mondo.",
     "TypeDescription": "Materiale per aumento livello dei personaggi",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nucleo Kuuvahki militare ciclico",
+    "Description": "Un dispositivo a Kuuvahki ricavato dal nucleo energetico dopo aver sconfitto l'Incrociatore terrestre super pesante: Fortezza meccanizzata.\nL'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine ha definito in passato diversi schemi ciclici ideali per i motori a sostanza elementale. Indipendentemente dal tipo, il numero perfetto di cicli è sempre stato quattro. Sebbene la maggior parte degli ingegneri del Palazzo dell'Armeria e dell'Istituto di Progettazione sperimentale tenda a considerare il Kuuvahki come una sostanza operativa distinta dall'energia elementale, le configurazioni di progettazione che si discostano dal paradigma dei quattro cicli si sono dimostrate inefficienti e impraticabili. In un certo senso, i \"quattro cicli\" potrebbero essere la peculiare preferenza del mondo. Detto questo, il mondo potrebbe non avere alcuna preferenza e, per il mondo, l'abitudine dei presuntuosi mortali nel fare congetture autocompiaciute potrebbe essere la più strana delle preferenze.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -48813,7 +48963,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49130,6 +49280,127 @@
     "Description": "Una somma di denaro prelevata dai fondi del Consiglio dei segreti. I soldi non crescono sugli alberi, quindi spendili con criterio.",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Dono\" di Rhinedottir",
+    "Description": "Un regalo per Albedo da parte di Rhinedottir \"la Dorata\".\nUn nuovo dono, una nuova missione.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bambola logora",
+    "Description": "Una bambola creata da Ihanti, che ricorda vagamente delle bambole realizzate in precedenza da Jahoda.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scatola con sculture di zucchero speciale",
+    "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Fondi del Consiglio",
+    "Description": "Una somma di denaro prelevata dai fondi del Consiglio dei segreti. I soldi non crescono sugli alberi, quindi spendili con criterio.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Opuscolo della Notte di Preghiera lunare",
+    "Description": "Un opuscolo distribuito a Nasha durante la Notte di Preghiera lunare. Al suo interno vengono illustrate tutte le bancarelle e le attività disponibili. Grazie a questo oggetto, gli ospiti potranno vivere una serata difficile da dimenticare.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Biglietto d'auguri per Colombina",
+    "Description": "Un biglietto d'auguri preparato dai compagni di Colombina per la Notte di Preghiera lunare. Contiene i loro auguri sinceri, nella speranza che, ovunque lei si trovi, si ricordi dei sorrisi che hanno condiviso questa notte.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramelle della Preghiera lunare di Colombina",
+    "Description": "Delle Caramelle della Preghiera lunare preparate da Colombina per tutti. Ispirate dalla sua sconfinata immaginazione, queste caramelle racchiudono un'ampia varietà di sapori sorprendenti, forse attinti dai gusti che lei ricorda con più affetto.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Caramelle della Preghiera lunare di Colombina",
+    "Description": "Delle Caramelle della Preghiera lunare preparate da Colombina per tutti. Ispirate dalla sua sconfinata immaginazione, queste caramelle racchiudono un'ampia varietà di sapori sorprendenti, forse attinti dai gusti che lei ricorda con più affetto.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Saga delle Anime ardenti: Volume 2",
+    "Description": "La Saga delle Anime ardenti, una serie di fumetti fantasy storici ispirati alle leggende locali di Natlan, è ora disponibile in edizione da collezione!\nGli eroi si radunano, il loro fulgore sfavilla quando i destini si scontrano, forgiando con le loro vite un cammino per le generazioni future nel brutale crogiolo della battaglia.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Storia di \"Durin\"",
+    "Description": "Il libro magico lasciato da \"M\" deve essere consegnato a Durin, affinché egli possa continuare a scriverne la storia. Alice ne ha creato una replica per donarla a te. Dopotutto, in quanto testimone di questa storia, meriti di averne un souvenir. Ovviamente, questa replica è priva di qualsivoglia proprietà magica, ma al suo interno sono racchiusi tutti i colpi di scena della storia.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scatola con sculture di zucchero speciale",
+    "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -51789,7 +52060,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 148",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"The Brisk Morning Air\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51800,7 +52071,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 149",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Evening's Ease\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51811,7 +52082,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 150",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Soil of Bright Flame\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51822,7 +52093,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 151",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"A Deed No Less Than Star-Forging\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51833,7 +52104,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 152",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Land of Primal Flame\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51844,7 +52115,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 153",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Indulgence Beneath the Sun\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51855,7 +52126,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 154",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"The Watch of a Sleepless Sheep\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51866,7 +52137,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 155",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Waves Curl Over Drifting Sand\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -51877,7 +52148,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 156",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La musica contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Natlan.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Tapestry of Resplendent Hues\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52562,6 +52833,17 @@
     "Description": "Materiale di miglioramento specifico per il Liutofuso lucetereo.\nIn una civiltà ormai perduta, alcuni credevano che il destino che governa il mondo fosse tessuto come un canto su un palcoscenico, nato dalle corde di una gigantesca arpa sospesa nei cieli. Forse è perché hanno visto gli angeli pizzicare le dorate corde divine nel cielo, annunciando l'indifferenza tonante del destino.",
     "TypeDescription": "Materiale di miglioramento",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cuore raffinato",
+    "Description": "Materiale di miglioramento specifico per Arco pluviale del serpente arcobaleno.\nUn salvadita di fattura pregevole e dai colori vivaci, indossato dagli arcieri.\nLa precisione della freccia è strettamente legata all'esperienza dell'arciere: più il respiro accompagna la tensione della corda, più il movimento dell'arco si combina a quello della freccia. La sequenza di incocco e tensione tempra lo spirito, e la quantità di usura presente sull'impugnatura riflette la determinazione dell'arciere.",
+    "TypeDescription": "Materiale di miglioramento",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54632,6 +54914,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Dizionario della piccola strega",
+    "Description": "Un dizionario creato dalle streghe e ricevuto da Alice. Sebbene sia ufficialmente un commentario per un libro di fiabe intitolato \"La piccola strega e la fiamma perpetua\", è in realtà pieno di compiti preparati dall'Hexenzirkel appositamente per ogni lettore.\nCome si suol dire, \"imparare significa sfidare le correnti\". Parti insieme ai tuoi compagni per un viaggio alla ricerca della corona dell'esaltazione!",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55543,6 +55836,17 @@
     "Description": "Vedi, il segreto per mantenere una conversazione animata è...",
     "TypeDescription": "Ritratto",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Studio diligente",
+    "Description": "Lo studio diurno alimenta i sogni notturni. Forse è così che la conoscenza trova naturalmente la sua strada nelle nostre menti...",
+    "TypeDescription": "Ritratto",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -69885,6 +70189,182 @@
     "ItemType": 2,
     "Name": "Gattino ozioso",
     "Description": "Un progetto con istruzioni passo dopo passo per realizzare Gattino ozioso.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Luccichio e bagliore",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Luccichio e bagliore.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ruota della fortuna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Ruota della fortuna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Esplosione di appetito",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un set Esplosione di appetito.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Avviso della taverna: Sussurri dalla strada",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Avviso della taverna: Sussurri dalla strada.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Genio in un secondo",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Genio in un secondo.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rilevatore tascabile di utilità",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Rilevatore tascabile di utilità.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Maestro della griglia supremo",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Maestro della griglia supremo.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pony traballante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Pony traballante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Torre tripode verticale bipolare",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Torre tripode verticale bipolare.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Petali senza profumo",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Petali senza profumo.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Drago in movimento",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Drago in movimento.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Viandante solitario",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Viandante solitario.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Luce senza tempo",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Luce senza tempo.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fringuellino",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Fringuellino.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bandito buongustaio",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Bandito buongustaio.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Donnola superiore",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Donnola superiore.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   }

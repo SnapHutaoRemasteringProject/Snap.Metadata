@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "Rito de la noche de brujas: Magia chispeante",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De hojas chispeantes»</color>, Klee se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nCuando Klee inflige daño con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, obtiene una “medalla bum-bum” durante 20{NON_BREAK_SPACE}s. Como máximo, cada uno de dichos ataques puede otorgarle de esta manera una medalla bum-bum a Klee. Las medallas bum-bum obtenidas mediante distintos tipos de ataque son independientes entre sí. Cuando Klee tiene 1/2/3 medallas, su Ataque Cargado especial, “Bombardeo pium-pium”, infligirá un 115/130/150% de su daño original.",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "Regalo explosivo",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "Estallido incesante",
@@ -886,6 +914,10 @@
       {
         "Title": "Sobre Sacarosa...",
         "Context": "¡Sacarosa es la mejor! Una vez me preguntó si me gustaría tener una bomba saltarina que pudiera correr y saltar. ¡Obviamente le dije que sí! Jijiji. No quiero una, ¡sino cientos! ¡Quiero ponerlas en cada calle, cada escalera y cada plaza de Mondstadt!"
+      },
+      {
+        "Title": "Sobre Durin...",
+        "Context": "¡Qué bien! Ahora que Durincito vive en Mondstadt, ¡podré jugar con él todos los días! Cuando vayamos a pescar con explosivos, ¡quiero que Durincito me lleve volando muy muy alto para lanzar Bombas saltarinas desde el cielo!"
       },
       {
         "Title": "Más sobre Klee (I)",
@@ -1116,5 +1148,11 @@
     "Description": "Diseño de tarjeta de presentación.\nEl explosivo de la suerte de Klee. ¿Sabrías distinguir si es una bomba saltarina o Dodoco? (Pista: fíjate en la cola...)",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "Estela: El Sol Fugitivo",
+    "Description": "Retrato epopéyico de Klee. “¡Ta-ta-ta! ¡Que comience la aventura de la Caballera Chispeante!”.",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Witch's Eve Rite: Surge of Lightning",
+        "Description": "หลังจากสำเร็จ<color=#FFD780FF>แบบฝึกหัดของแม่มด: ปริศนาแห่งฝูงหมาป่าตัวน้อย</color> Razor จะกลายเป็นตัวละคร<color=#FFD780FF>มนตรา</color> เมื่อจัดทีมโดยมีตัวละครมนตราอย่างน้อย 2 ตัว จะได้รับเอฟเฟกต์ <color=#FFD780FF>Hexerei: Secret Rite</color> ซึ่งจะเสริมพลังให้กับตัวละครมนตรา\nนอกจากนี้ ท่าไม้ตาย <color=#FFD780FF>Lightning Fang</color> ของ Razor จะได้รับการเสริมพลัง: <color=#FFD780FF>Lightning Fang</color> สร้างความเสียหายเพิ่มขึ้น โดยค่าที่เพิ่มขึ้นเท่ากับ 70% ของพลังโจมตีของ Razor\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nในระหว่างที่ The Wolf Within ที่ท่าไม้ตาย <color=#FFD780FF>Lightning Fang</color> เรียกออกมายังคงอยู่ หาก Razor สะสมลูกแก้วไฟฟ้าของสกิลธาตุ <color=#FFD780FF>Claw and Thunder</color> จนล้นออกมา The Wolf Within จะปล่อยสายฟ้าโจมตีศัตรูที่อยู่ใกล้เคียง สร้างความเสียหายไฟฟ้าวงกว้างเท่ากับ 150% ของพลังโจมตีของ Razor และฟื้นฟูพลังงานธาตุ 7 หน่วยให้เขา โดยทุก 1 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Awakening",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Hunger",

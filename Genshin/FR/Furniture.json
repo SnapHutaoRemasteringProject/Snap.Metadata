@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Personnage dans le royaume",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Personnage dans le royaume",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Chat en boule",
     "Description": "Une poupée mécanique construite d'après un célèbre chat noir, qui est équipée de nombreux boutons d'interaction.\nComme nous le savons tous, les chats sont de mystérieuses créatures. En gardant cela à l'esprit, le concepteur de cette poupée a mis au point un système qui réagit aux actions de l'utilisateur : certains comportements raviront le chat, tandis que d'autres pourraient soudainement le faire bondir sur ses pattes...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363411,
+    "Name": "« Éclat et lueur »",
+    "Description": "Une lampe composée d'un socle et de trois ampoules en lévitation. Son design unique s'inspire des dispositifs d'éclairage du Village de Nasha.\n« Comment peuvent-elles flotter et briller en même temps ? » La lévitation des ampoules semble être liée au kuuvahki. Les touristes de passage s'émerveillent toujours devant sa fascinante conception.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363412,
+    "Name": "Roulette chanceuse",
+    "Description": "Une roulette chanceuse que l'on retrouve au Village de Nasha. L'aiguille pivotante en son centre pointe vers des verres de différentes couleurs représentant diverses significations.\n« Faites tourner la roue et lorsqu'elle s'arrête, « Hot-dog » vous donnera votre fortune du jour ! » Bien sûr, si le premier résultat ne vous satisfait pas, vous pouvez toujours retenter votre chance...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363413,
+    "Name": "Éclat d'appétit",
+    "Description": "Un plateau composé de pains moelleux et de saucisses que l'on retrouve au Village de Nasha.\nDu pain doré et croustillant accompagné de saucisses qui grésillent après cuisson... Difficile pour la plupart des voyageurs affamés de résister à la tentation. Cependant, une fois placé comme décoration dans la Sérénithéière, ce plateau ne sert plus qu'à mettre en appétit...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363386,
+    "Name": "Saurienneau éclaireur",
+    "Description": "Une peluche en forme d'iktomisaure. Combiné au noyau du camarade éclaireur de Sumeru, ce saurienneau permet de repérer les monstres et de cartographier le terrain, ce qui en fait un compagnon pour les aventuriers à la fois fiable et adorable.\nGrâce à son expertise professionnelle, l'arpenteur Mika lui a apporté des améliorations selon les besoins des aventuriers, en mettant l'accent sur la précision de la cartographie et la flexibilité des mouvements. Il a choisi la forme de l'iktomisaure pour sa sensibilité naturelle à son environnement. Après tout, lors des aventures pleines de dangers, il est toujours bon de pouvoir compter sur un compagnon attentif et perspicace.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 364225,
+    "Name": "Annonce de taverne « Murmures urbains »",
+    "Description": "Le panneau des primes du Navire amiral. Il est suffisamment large pour afficher de nombreuses annonces.\nRares sont ceux qui obtiennent les généreuses récompenses offertes pour les missions les plus complexes. Mais ceux qui lisent avec attention les informations détaillées pourront certainement reconstituer les éléments de toutes sortes de curieuses rumeurs qui circulent...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374637,
+    "Name": "As de la seconde",
+    "Description": "Une machine de la Knieperterie Cling-clang avec un bras mécanique compact et précis.\n« En un instant, l'as de la seconde peut tout faire ! » Son efficacité est remarquable, mais il ne peut pas tout accomplir en « une seule seconde ». Selon son inventrice, c'est probablement la vitesse que les clients jugeront irréprochable.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 373939,
+    "Name": "Détecteur portable utilitaire",
+    "Description": "Un détecteur que l'on trouve souvent dans le Village de Nasha. Il est principalement utilisé pour repérer des matériaux réutilisables dans les déchets. Cependant, la plupart des objets qui le font réagir sont généralement des choses plutôt insolites : des lunettes de soleil qu'un homme a fait tomber par mégarde ou un bouton qu'une demoiselle a perdu accidentellement...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374639,
+    "Name": "Grilleur suprême",
+    "Description": "Cette machine à griller du Village de Nasha permet de conserver la viande tendre et juteuse grâce à une température constante.\nOn raconte que ceux qui l'utilisent se mettent à fredonner spontanément de joyeuses mélodies sans même s'en rendre compte...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374640,
+    "Name": "Poney à bascule",
+    "Description": "Une attraction que l'on trouve au Village de Nasha, entièrement fabriqué à partir de tôles de ferraille. Malgré ces matériaux modestes, les enfants l'adorent.\nDes éclats de rire remplissent l'air tandis que les enfants se balancent sur le poney, leurs soucis semblant s'envoler à chaque mouvement.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374641,
+    "Name": "Tour bipolaire droite à trépied",
+    "Description": "Une tour à trois pieds à l'apparence singulière que l'on retrouve à la Knieperterie Cling-clang.\nIl s'agirait d'une relique modifiée datant de l'âge d'or, sa fonctionnalité d'origine a été oubliée depuis longtemps. Aujourd'hui, elle sert uniquement de structure décorative.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Quête d'Archons"
+    ],
+    "Id": 374811,
+    "Name": "« À tes côtés »",
+    "Description": "Un passe-têtes inspiré de l'amitié entre le cerf aux cornes givrées et du blaireau chic. Il est équipé d'un système d'éclairage permettant aux visiteurs de prendre des photos même la nuit.\n« On dirait un blaireau chic un peu benêt et un... cerf aux cornes givrées qui somnole après une nuit blanche ? »",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Quête d'Archons"
+    ],
+    "Id": 373222,
+    "Name": "Pétales sans parfum",
+    "Description": "Ce parterre de fleurs a été modifié pour s'accorder avec l'atmosphère de la Nuit de la prière lunaire. Les fleurs mécaniques qui y sont plantées émettent une lueur chaleureuse qui brille dans la nuit.\n« C'est plutôt étrange... mais à Nod-Krai, rien n'est vraiment étrange ! » disent certains voyageurs de passage.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 374812,
+    "Name": "Âme embrasée « Fietena »",
+    "Description": "Une silhouette à l'image de Fietena, un personnage de la série populaire intitulée « Légende des âmes embrasées ». Elle capture parfaitement sa posture charismatique, son tempérament passionné et son courage au combat.\n« Impossible de faire demi-tour à présent. Allons-y ! »\nBien sûr, se lancer ensemble au combat ne mène pas toujours à une victoire parfaite. Cependant, la passion partagée et les efforts fournis étaient réels. Peut-être qu'un jour, tout cela se transformera en quelque chose de brillant, un souvenir auquel vous pourrez penser sans regret.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Quête d'Archons"
+    ],
+    "Id": 374813,
+    "Name": "Le tourne-grabuge de Dodoco",
+    "Description": "Cette attraction dont on profite encore plus à deux est sponsorisée par la grande sorcière en personne.\n« Montez sur une Dodoco douce et duveteuse, puis embarquez pour une aventure inoubliable ! »\nMême si la Dodoco tournoyante finira par s'arrêter, un nouveau voyage vous attendra toujours aux côtés de la personne avec qui vous profitez de l'attraction...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Pass de bataille « Chant des perles{NON_BREAK_SPACE}»"
+    ],
+    "Id": 374818,
+    "Name": "Dragon en action",
+    "Description": "Une statue inspirée d'un dragon issu d'un monde de contes de fées. Avec ses ailes repliées et son expression concentrée, elle semble prête à bondir.\nInteragissez avec la statue pour vous asseoir sur le dos du « Dragon en action ». Le mécanisme interne de la statue s'activera alors, lui donnant un tout nouvel aspect. Elle écarquillera les yeux, battra des ailes et remuera la queue, comme pour dire à la personne sur son dos : « Attention au décollage ! »",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 360467,
+    "Name": "Le voyageur solitaire",
+    "Description": "Un lampadaire qui éclaire la Knieperterie Cling-clang. Sa forme unique rappelle celle d'un voyageur marchant la tête baissée.\nLe soir venu, elle s'allume en silence. Les passants se demandent alors :\n« Que cette lampe est haute... Son dos et sa taille tiennent-ils encore le coup ? »",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Quête d'Archons"
+    ],
+    "Id": 360468,
+    "Name": "Éclat intemporel",
+    "Description": "Une lampe faite de tôles en forme de croissant de lune. De jour comme de nuit, elle émet paisiblement sa douce lueur immuable.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372516,
+    "Name": "Chuchotement de brume rosée",
+    "Description": "Un arbuste rose pâle qui pousse près du sol, avec des grappes de tiges fines et dressées.\nIl pousse toujours en vastes étendues. De loin, il ressemble à une brume rosée et délicate flottant au ras du sol, rappelant le doux murmure de la nature.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372517,
+    "Name": "Salut au passé",
+    "Description": "Une espèce de flore cavernicole caractérisée par des tiges fines et souples ainsi que des feuilles en forme d'éventail.\nCes plantes sont incroyablement résistantes. Quelles que soient les conditions, leurs branches et leurs feuilles élancées se balancent toujours doucement dans la brise, comme si chacune d'entre elles faisait tranquillement ses adieux au passé.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372518,
+    "Name": "Étamine lumineuse",
+    "Description": "Une plante cavernicole rose fumé aux feuilles légèrement écartées, chacune se terminant par de fines vrilles qui ressemblent aux étamines d'une fleur.\nCette plante dégage une faible et douce lueur. Elle n'éclaire peut-être pas toute la grotte, mais elle apporte une touche unique à l'atmosphère...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 374814,
+    "Name": "« Petit pinson »",
+    "Description": "#Une adorable balle rebondissante en forme de pinson, inspirée de l'ancien pinson écarlate.\nAussi petit que soit le pinson, il déborde d'une force surprenante !\nEn jeu, vous pourriez bien être {M#subjugué}{F#subjuguée} par son adorable apparence et laisser échapper l'inévitable phrase : « Les pinsons sont les plus mignons ! ! »",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 374815,
+    "Name": "Chapardeur gourmand",
+    "Description": "Avec son masque de brigand caractéristique, cette figurine inspirée d'une mouette chapardeuse incarne parfaitement l'essence même d'un véritable chapardeur gourmand.\n« Les boudinés disent que la cuisine de Natlan est extraordinaire. Hé... Alors bien sûr que moi, le chapardeur gourmand, je me dois d'y goûter ! »",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 374816,
+    "Name": "Maître-belette",
+    "Description": "Inspirée d'une belette gourmande, cette figurine n'est autre que le maître-belette, qui a sournoisement dressé des mouettes pour qu'elles lui apportent leurs tributs !\n« Si vous voulez mon avis, ces mouettes chapardeuses ne sont que des idiotes... C'est moi qui devrais savourer chaque miette de popcorn. »",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 374817,
+    "Name": "#Bonhomme embrasé de neige «{NON_BREAK_SPACE}Gentille guerrière »",
+    "Description": "Un bonhomme de neige à l'effigie de Varesa, avec son masque d'héroïne caractéristique. Il reflète fidèlement sa chaleur et son esprit accessible, sans oublier la passion qui la définit.\nPour aider les visiteurs venus de tout Teyvat à se détendre et à s'amuser, les créatrices de Jet de jade ont conçu ce charmant petit compagnon. Même si la neige de Dosdragon peut être rude, sa présence apporte une subtile chaleur qui perdure.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

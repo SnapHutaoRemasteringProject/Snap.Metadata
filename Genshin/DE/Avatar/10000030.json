@@ -721,7 +721,8 @@
                 0.05
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302101,
         "Name": "Wellenartige Ausbreitung",
@@ -742,7 +743,8 @@
                 0.33
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302201,
         "Name": "Hungrige Erde",
@@ -975,6 +977,10 @@
       {
         "Title": "Über Haborym ...",
         "Context": "Natlans lange Geschichte des Kämpfens hat seine unzähligen Krieger dazu angetrieben, den Abgrund zu überwältigen und die Pfade des Schicksals zu verlassen, um eine neue Zukunft zu schmieden. Hinter diesem Triumph steht eine Führungspersönlichkeit, die Zeit und Geschichte als ihre Waffen schwingt – und das mit einer Stärke, die selbst Götter vor Neid erblassen lässt. Sie ist wahrlich beeindruckend."
+      },
+      {
+        "Title": "Über den Adepten in Form eines weißen Pferds ...",
+        "Context": "Das weiße Pferd ... eine alte Bekanntschaft, der ich seit langer Zeit nicht mehr begegnet bin ... Man seufzt über Frühlingsnächte, so flüchtig wie ein Hauch, und über Herbsttage, die ebenso rasch vergehen. Ein Ross, das losstürmt und entflieht, eine Kerze, die im Wind erzittert."
       },
       {
         "Title": "Ich will mehr über Zhongli erfahren I",

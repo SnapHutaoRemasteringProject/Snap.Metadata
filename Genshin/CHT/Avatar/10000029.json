@@ -460,6 +460,32 @@
         "Icon": "Skill_S_Klee_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 295101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                0.15,
+                0.3,
+                0.5,
+                2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 295101,
+        "Name": "魔女的前夜禮·火花魔法",
+        "Description": "完成<color=#FFD780FF>魔女的課業·火花葉之題</color>後，可莉將成為<color=#FFD780FF>魔導</color>角色。隊伍中編入至少2名魔導角色時，將獲得<color=#FFD780FF>魔導·秘儀</color>效果，使魔導角色獲得強化。\n\n<color=#FFD780FF>魔導·秘儀</color>\n可莉的普通攻擊、元素戰技或元素爆發造成傷害時，會獲得一枚「轟轟勳章」，持續20秒，每種類別的攻擊至多依此方式使可莉獲得一枚「轟轟勳章」，透過不同類別的攻擊獲得的「轟轟勳章」獨立存在。當可莉擁有1/2/3枚「轟轟勳章」時，特殊重擊「砰砰轟擊」將會造成原本115%/130%/150%的傷害。",
+        "Icon": "UI_Talent_S_Klee_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2939,
       "Proud": {
@@ -653,7 +679,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292101,
         "Name": "砰砰禮物",
@@ -670,7 +697,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 292201,
         "Name": "火花無限",
@@ -886,6 +914,10 @@
       {
         "Title": "關於砂糖…",
         "Context": "砂糖姐姐是好人！她問我，想不想要一個會跑會跳的蹦蹦！嘿嘿嘿，當然想要了，我還想要好幾百個，讓蒙德的街道上，臺階上，廣場上，全是蹦蹦！"
+      },
+      {
+        "Title": "關於杜林…",
+        "Context": "好耶！小杜林哥哥現在住在蒙德，我要天天找他玩！炸魚的時候，我想叫小杜林哥哥帶我飛上很高很高的地方，在天上丟蹦蹦炸彈！"
       },
       {
         "Title": "想要瞭解可莉·其一",
@@ -1116,5 +1148,11 @@
     "Description": "名片紋飾。\n可莉的幸運爆彈。仔細觀察尾巴，告訴大家，這個是蹦蹦還是嘟嘟可？",
     "Icon": "UI_NameCardIcon_Klee",
     "PicturePrefix": "UI_NameCardPic_Klee"
+  },
+  "TraceEffect": {
+    "Id": 215017,
+    "Name": "遊跡·逃跑的太陽",
+    "Description": "可莉的繪想遊跡。「噠噠噠~火花騎士，冒險開始！」",
+    "Icon": "UI_TraceEffectIcon_Klee"
   }
 }

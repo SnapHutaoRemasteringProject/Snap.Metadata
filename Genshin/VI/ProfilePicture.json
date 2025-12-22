@@ -910,6 +910,27 @@
     "UnlockParameter": 10000122
   },
   {
+    "Id": 10600,
+    "Icon": "UI_AvatarIcon_Durin_Circle",
+    "Name": "Durin",
+    "UnlockType": 2,
+    "UnlockParameter": 10000123
+  },
+  {
+    "Id": 10601,
+    "Icon": "UI_AvatarIcon_DurinCostumeWic_Circle",
+    "Name": "Durin - Phương Xa Của Câu Chuyện",
+    "UnlockType": 3,
+    "UnlockParameter": 212301
+  },
+  {
+    "Id": 10700,
+    "Icon": "UI_AvatarIcon_Jahoda_Circle",
+    "Name": "Jahoda",
+    "UnlockType": 2,
+    "UnlockParameter": 10000124
+  },
+  {
     "Id": 100010,
     "Icon": "UI_AvatarIcon_72105_Circle",
     "Name": "Mặt Nạ Của Hanachirusato",
@@ -1083,6 +1104,13 @@
     "Name": "Trò Chuyện Sôi Nổi",
     "UnlockType": 1,
     "UnlockParameter": 320002
+  },
+  {
+    "Id": 200011,
+    "Icon": "UI_AvatarIcon_Activity_02_Circle",
+    "Name": "Học Hành Chăm Chỉ",
+    "UnlockType": 1,
+    "UnlockParameter": 320003
   },
   {
     "Id": 900001,

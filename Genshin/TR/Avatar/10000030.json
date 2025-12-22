@@ -721,7 +721,8 @@
                 0.05
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302101,
         "Name": "Yankılanan Dalgalar",
@@ -742,7 +743,8 @@
                 0.33
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302201,
         "Name": "Toprak Hakimiyeti",
@@ -975,6 +977,10 @@
       {
         "Title": "Haborym Hakkında",
         "Context": "Natlan'ın mücadelelerle dolu uzun tarihi, savaşçılarını Hiçliği alt edip kendilerine yeni bir gelecek inşa etmeye itti. Bu zaferin ardında hem zamanı hem tarihi silahı olarak kullanan, tanrılarla boy ölçüşebilecek güce sahip bir lider var. Kendisi son derece etkileyicidir."
+      },
+      {
+        "Title": "Beyaz At Adeptus Hakkında",
+        "Context": "Beyaz at... Eski ve çok uzun zamandır görmediğim bir ahbabım... Bahar gecelerinin kısalığına ve çabucak geçen sonbahar günlerine hayıflanırım. Dörtnala koşan bir at ve rüzgarda titreyen bir mum gibi."
       },
       {
         "Title": "Zhongli Hakkında Daha Fazlası: I",

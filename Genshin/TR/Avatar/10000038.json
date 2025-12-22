@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Cadının Gece Ayini: Kör Edici Işık Kitabı",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Soruların Ötesinde</color> tamamlandıktan sonra Albedo bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini geliştiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\n·Albedo, Element Becerisini kullandıktan sonraki 20sn içinde Element Becerisiyle bir düşmanı vurduğunda, düşmanların yakınında 10sn süren bir <color=#FFD780FF>Gümüş Çiçeği</color> oluşur. Savaş alanında Albedo'nun oluşturduğu Güneş Çiçekleri yoksa ve Albedo henüz yere serilmediyse Gümüş Çiçeği, tıpkı Güneş Çiçekleri gibi Fani Çiçekler oluşturmaya başlar. Savaş alanında Albedo tarafından oluşturulmuş en fazla iki Gümüş Çiçeği bulunabilir.\n·Bir Güneş Çiçeği oluşturduktan sonra yakındaki grup üyelerinin Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi ve Element Patlaması Hasarı, Albedo'nun sahip olduğu her 1.000 Savunma için %4 artar. Bu etki 20sn sürer. Bu şekilde elde edilebilecek maksimum artış %12'dir.\n·Bir Gümüş Çiçeği oluşturduktan sonra, yakındaki grup üyesi Cadılık karakterlerinin 20sn boyunca Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi ve Element Patlaması Hasarı, Albedo'nun sahip olduğu her 1.000 Savunma için %10 artar. Bu şekilde elde edilebilecek maksimum artış %30'dur.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Tebeşirin Gücü",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Şişedeki Bilgelik",
@@ -878,6 +911,10 @@
       {
         "Title": "Barbara Hakkında",
         "Context": "Barbara mı? O oldukça ağırbaşlı bir Rahibedir. Bir keresinde ayaküstü çizimini yapma fırsatı yakalamıştım. Çizime ne mi oldu? Şey... Albert satın almak istedi ama teklifini kabul etmedim ve çizimi Büyük Kumandan Vekiline verdim. Ah şu toplumsal ilişkiler yok mu... Epey uğraştırıyor insanı."
+      },
+      {
+        "Title": "Durin Hakkında",
+        "Context": "Kardeşim sürekli yeni şeyler öğreniyor. Zeki ve felsefe tutkunu biri. Bu bazen zorluklara sebep olsa da dünyaya olan tutkusunu hiç azaltmıyor. Onun gelişi, daha doğrusu aileye katılması, insan ilişkileri hakkında yeni bir anlayış kazanmamı sağladı. En yakın akrabamla beraber ev cıvıl cıvıl bir yer haline geldi. Bu da olumlu bir şey tabii."
       },
       {
         "Title": "Albedo Hakkında Daha Fazlası: I",
@@ -1092,5 +1129,11 @@
     "Description": "İsim Kartı arka planı.\nBu mucizeye tanık olmama müsaade et.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Yankı: Kreideprinz",
+    "Description": "Albedo'nun Hayali Yankısı. \"Alevli siyahlıkta açar Güneş Çiçeği.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

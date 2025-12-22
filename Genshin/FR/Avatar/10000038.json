@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Veillée de la sorcière : Livre de lumière aveuglante",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « D'au-delà des questions »</color>, Albedo devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\n· Lorsque Albedo touche un ennemi avec une compétence élémentaire moins de 20 s après l'utilisation d'une compétence élémentaire, il génère des <color=#FFD780FF>auras argentées</color> pendant 10 s à proximité de l'ennemi. En l'absence d'aura solaire créée par Albedo sur le terrain, et tant qu'Albedo n'a pas été éliminé, les auras argentées, tout comme les auras solaires, génèrent également une germe éphémère. Un maximum de 2 auras argentées générées par Albedo peut exister simultanément sur le terrain.\n· Créer une aura solaire augmente les DGT infligés par les attaques normales, les attaques chargées, les attaques plongeantes, les compétences élémentaires et les déchaînements élémentaires des personnages de l'équipe à proximité de 4 % par tranche de 1 000 pts de DÉF d'Albedo pendant 20 s, les DGT pouvant être augmentés d'un maximum de 12 % de cette manière.\n· Générer une aura argentée augmente les DGT infligés par les attaques normales, les attaques chargées, les attaques plongeantes, les compétences élémentaires et les déchaînements élémentaires des personnages héxères de l'équipe à proximité de 10 % par tranche de 1 000 pts de DÉF d'Albedo pendant 20 s, les DGT pouvant être augmentés d'un maximum de 30 % de cette manière.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Menace calcaire",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Sagesse en bouteille",
@@ -878,6 +911,10 @@
       {
         "Title": "À propos de Barbara...",
         "Context": "Barbara ? Assurément une personne d'église aux convictions bien ancrées. Elle m'a servi de modèle, il n'y a pas si longtemps. Ce qu'est devenue la peinture ? Hum... J'ai refusé le prix qu'en offrait Albert pour l'offrir directement à Jean. Entretenir ses relations n'est pas chose aisée."
+      },
+      {
+        "Title": "À propos de Durin...",
+        "Context": "Mon frère apprend toutes sortes de choses nouvelles. Il est brillant et profondément philosophe. Cela lui cause parfois des ennuis, mais cela ne l'empêche pas d'être passionné par le monde qui l'entoure. Son arrivée, ou plutôt son intégration dans la famille, m'a permis de porter un nouveau regard sur les relations humaines. Avec mes proches à mes côtés, la maison est devenue un lieu plein de vie. Ce qui est une bonne chose, c'est certain."
       },
       {
         "Title": "Connaître Albedo (1)",
@@ -1092,5 +1129,11 @@
     "Description": "Thème.\nQuel privilège d'assister à ce miracle.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Écho : Kreideprinz",
+    "Description": "L'écho peinturé d'Albedo. « Khemia ardente et aura solaire. »",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

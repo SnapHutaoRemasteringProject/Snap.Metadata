@@ -1739,6 +1739,28 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Matériau d'activation de la constellation de Durin.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Matériau d'activation de la constellation de Jahoda.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2913,6 +2935,28 @@
     "Description": "Matériau d'activation de la constellation de Nefer.",
     "TypeDescription": "Matériau d'activation de constellation",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6123,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Durin",
+    "Description": "Matériau d'activation de la constellation de Durin.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6124,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Jahoda",
+    "Description": "Matériau d'activation de la constellation de Jahoda.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31041,6 +31085,90 @@
     "Icon": "UI_ItemIcon_108851"
   },
   {
+    "Rank": 220016,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 40 % des PV max du personnage sélectionné et 2 350 PV supplémentaires.",
+    "Id": 108921,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Devoir d'après-cours",
+    "Description": "#Spécialité culinaire de Jahoda. Après avoir demandé des conseils techniques à Ineffa pour la sixième fois, Jahoda a finalement présenté son travail : des pâtisseries faites maison. La forme est un peu bancale, mais le doux parfum des baies est irrésistible. Quant au goût... Eh bien, ça ne doit pas être si mauvais que ça, pas vrai{NON_BREAK_SPACE}?",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108852"
+  },
+  {
+    "Rank": 220002,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 40 % des PV max du personnage sélectionné et 2 350 PV supplémentaires.",
+    "Id": 108924,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ragoût de pommes (version d'essai)",
+    "Description": "Spécialité culinaire de Durin. Imitant chacun de vos gestes devant les fourneaux, Durin a préparé le tout premier plat de sa vie. Son arôme riche et fruité reflète sa compréhension naissante de la cuisine de ce monde. Ses bords légèrement croustillants témoignent des efforts qu'il a déployés pour maîtriser son propre pouvoir.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108853"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 30 % des PV max, puis 510 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108926,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Croquettes épicées au poulet (suspectes)",
+    "Description": "Du poulet frit enveloppé d'une panure verte croustillante. Avant même de goûter le poulet frit, la quantité excessive d'épices vous fait déjà suffoquer... Vous aviez prévu d'étudier après ce copieux repas, mais un grand verre d'eau semble d'abord nécessaire...",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 32 % des PV max, puis 730 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108927,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Croquettes épicées au poulet",
+    "Description": "Du poulet frit enveloppé d'une panure verte croustillante. Le poulet est enveloppé dans une pâte épicée avant d'être frit. On dit qu'en manger donne envie d'étudier sérieusement... Existe-t-il une chose aussi extraordinaire au monde ?",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 211000,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 35 % des PV max, puis 930 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108928,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Croquettes épicées au poulet (délicieuses)",
+    "Description": "Du poulet frit enveloppé d'une panure verte croustillante. Croquez dedans tant que c'est chaud, et sa saveur épicée réveillera vos papilles tandis que le jus jaillira en bouche, revigorant votre esprit... Vous aurez l'impression de pouvoir tout apprendre !",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108854"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "C'est joli et ça a bon goût, mais ça n'a pas vraiment d'effet.",
+    "Id": 108929,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sculpture en sucre : Jahoda",
+    "Description": "Une sculpture en sucre conçue pour capturer l'essence d'une personne. La boussole rappelle Jahoda, l'exceptionnelle employée du Curatorium des secrets.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108855"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "C'est joli et ça a bon goût, mais ça n'a pas vraiment d'effet.",
+    "Id": 108930,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sculpture en sucre : Kuuhenki",
+    "Description": "Une sculpture en sucre représentant une mystérieuse créature. Sa forme éthérée est celle d'une kuuhenki qui dérive doucement au clair de lune.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108856"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33853,6 +33981,17 @@
     "ItemType": 2,
     "Name": "Recette : Lohikeitto",
     "Description": "Étapes de préparation du lohikeitto.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109641,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Recette : Croquettes épicées au poulet",
+    "Description": "Étapes de préparation des croquettes épicées au poulet.",
     "TypeDescription": "Recette",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -36731,6 +36870,17 @@
     "Description": "Un fragment des cornes majestueuses d'un Herra de la nuit glaciale. Légère et tranchante comme un rasoir, elle ne nécessite aucun affûtage pour trancher aisément les armures métalliques.\nSelon d'anciens récits, ces magnifiques et fières créatures furent créées par le premier émissaire. À la chute du paradis, elles conclurent un pacte avec la maîtresse de la lune de givre, jurant d'utiliser la lumière primordiale conférée par la lune de givre pour purifier le monde des mortels jusqu'à ce que le protecteur des temps anciens puisse revenir. Aujourd'hui, les origines de ces légendes sont perdues depuis longtemps et leur véracité est impossible à prouver. Pourtant, les créatures qui marchaient autrefois avec la lumière continuent de veiller sur cette terre depuis les ombres, à travers les longues nuits glacées et la marée noire cinglante, rien de tout cela ne pouvant faire disparaître leurs formes de ce monde.",
     "TypeDescription": "Matériau d'amélioration de personnage",
     "Icon": "UI_ItemIcon_113079"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113080,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Noyau kuuvahkique militaire de type cyclique",
+    "Description": "Un appareil au kuuvahki obtenu à partir du noyau énergétique après avoir vaincu le Croiseur terrestre super-lourd : Forteresse mécanisée.\nL'Institut de recherche d'ingénierie cinétique de Fontaine a défini plusieurs modèles de cycle idéaux pour les moteurs alimentés grâce aux substances élémentaires. Quel que soit le type, le nombre parfait de cycles est toujours de quatre. Bien que les ingénieurs de l'Armurerie et du Bureau d'études expérimentales de l'Île de Paha considèrent généralement le kuuvahki comme un fluide différent des éléments, les configurations dépassant quatre cycles se sont avérées inefficaces et peu pratiques. D'une certaine manière, ce cycle de « quatre » est probablement une préférence étrange en ce monde. Ce dernier n'a peut-être pas de préférence. C'est plutôt l'habitude des mortels de faire des suppositions présomptueuses qui constitue la plus étrange des préférences.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113080"
   },
   {
     "Rank": 15101,
@@ -49132,7 +49282,7 @@
   },
   {
     "Rank": 10,
-    "MaterialType": 2,
+    "MaterialType": 75,
     "Id": 121367,
     "RankLevel": 4,
     "ItemType": 2,
@@ -49449,6 +49599,127 @@
     "Description": "Une somme d'argent prise du coffre contenant les fonds du Curatorium des secrets. L'argent ne tombe pas du ciel, alors dépensez-le sagement...",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121414,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "« Cadeau » de Rhinedottir",
+    "Description": "Un cadeau de la part de Rhinedottir pour Albedo.\nUn nouveau cadeau, une nouvelle énigme.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121414"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Poupée en lambeaux",
+    "Description": "Une poupée créée par Ihanti. Elle ressemble à certaines poupées réalisées par Jahoda.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121415"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121419,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Boîte spéciale de sculpture en sucre",
+    "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121420,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Fonds du Curatorium",
+    "Description": "Une somme d'argent prise du coffre contenant les fonds du Curatorium des secrets. L'argent ne tombe pas du ciel, alors dépensez-le sagement...",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 76,
+    "Id": 121421,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Carte de la Nuit de la prière lunaire",
+    "Description": "Une brochure distribuée lors de la « Nuit de la Prière lunaire » du Village de Nasha. Elle présente de nombreux stands intéressants à découvrir. De quoi créer des souvenirs inoubliables pour tous les participants.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121421"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 64,
+    "Id": 121422,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Carte de vœux pour Columbina",
+    "Description": "Une carte de vœux pour Columbina préparée par ses compagnons pour la Nuit de la prière lunaire. Elle contient les vœux les plus sincères de tous. Où qu'elle soit, puisse-t-elle se souvenir des sourires de ses amis en cette nuit.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121422"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121423,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bonbons de la prière lunaire de Columbina",
+    "Description": "Des bonbons de la prière lunaire préparés par Columbina. Inspirés de son imagination débordante, ces bonbons révèlent une multitude de saveurs singulières, peut-être issues des saveurs de ses souvenirs.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121423"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121424,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Bonbons de la prière lunaire de Columbina",
+    "Description": "Des bonbons de la prière lunaire préparés par Columbina. Inspirés de son imagination débordante, ces bonbons révèlent une multitude de saveurs singulières, peut-être issues des saveurs de ses souvenirs.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121424"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121425,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Légende des âmes embrasées : tome 2",
+    "Description": "La série de bandes dessinées historiques sur rouleau tissé intitulée la « Légende des âmes embrasées », inspirée des légendes locales de Natlan, est désormais disponible en édition collector.\nLes héros se rassemblent et leur éclat brille de mille feux lorsque les destins s'entrechoquent. À travers les batailles acharnées, ils ouvrent la voie aux générations futures au prix de leur vie.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121425"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 77,
+    "Id": 121426,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Histoire de « Durin »",
+    "Description": "Le livre magique laissé par la sorcière M doit finalement être remis à Durin pour qu'il puisse continuer à y écrire son histoire. Alice en a fabriqué une réplique pour vous l'offrir. Après tout, en tant que témoin de cette histoire, vous méritiez bien un souvenir. Cette réplique n'est bien sûr pas magique, mais toutes les merveilleuses péripéties y sont consignées.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121426"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121441,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Boîte spéciale de sculpture en sucre",
+    "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100101"
   },
   {
     "Rank": 287,
@@ -52108,7 +52379,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 148",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Brisk Morning Air ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52119,7 +52390,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 149",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Evening's Ease ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52130,7 +52401,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 150",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Soil of Bright Flame ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52141,7 +52412,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 151",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Deed No Less Than Star-Forging ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52152,7 +52423,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 152",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Land of Primal Flame. ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52163,7 +52434,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 153",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Indulgence Beneath the Sun ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52174,7 +52445,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 154",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Watch of a Sleepless Sheep ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52185,7 +52456,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 155",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Waves Curl Over Drifting Sand ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52196,7 +52467,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 156",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Natlan.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Tapestry of Resplendent Hues ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52881,6 +53152,17 @@
     "Description": "Matériau de raffinement spécial pour la Lyre du tisse-lumière.\nDans une civilisation perdue dans le temps, certains pensaient que le destin qui gouvernait le monde était tissé comme une chanson sur scène, né des cordes d'une lyre géante suspendue dans les cieux. Peut-être était-ce parce qu'ils virent des anges pincer les cordes dorées depuis ce même ciel au-dessus d'eux et leurs magnifiques mélodies annonçant la cruauté du destin ?",
     "TypeDescription": "Matériau de raffinement",
     "Icon": "UI_ItemIcon_200127"
+  },
+  {
+    "Rank": 90,
+    "MaterialType": 14,
+    "Id": 200128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cœur affiné",
+    "Description": "Matériau de raffinement spécial pour l'Arc pluvial du serpent arc-en-ciel.\nUn protège-doigt aux couleurs vives et à la fabrication raffinée, longtemps utilisé par les archers.\nLa précision d'une flèche dépend de l'expérience de l'archer. Plus celui-ci tire la corde de l'arc en se concentrant sur sa respiration, plus l'arc et la flèche bougent à l'unisson. Encocher et tirer, c'est tempérer l'esprit. L'usure de la garde reflète la détermination de l'archer.",
+    "TypeDescription": "Matériau de raffinement",
+    "Icon": "UI_ItemIcon_200128"
   },
   {
     "Rank": 0,
@@ -54951,6 +55233,17 @@
     "Icon": "UI_ItemIcon_220125"
   },
   {
+    "Rank": 5020,
+    "MaterialType": 21,
+    "Id": 220126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Dictionnaire de la petite sorcière",
+    "Description": "Un dictionnaire que vous avez obtenu auprès d'Alice. Il a été écrit collectivement par les sorcières. Bien qu'il soit officiellement présenté comme une série d'annotations au conte « La petite sorcière et le feu inextinguible », il s'agit en réalité d'une série de questions conçues par l'Hexenzirkel pour chaque lecteur.\nOn dit qu'« aller à contre-courant constitue l'essence même de l'apprentissage. ». Embarquez pour votre voyage avec vos compagnons et partez à la recherche de la couronne de l'élévation !",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220126"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -55862,6 +56155,17 @@
     "Description": "Le secret pour maintenir une conversation animée est de...",
     "TypeDescription": "Portrait",
     "Icon": "UI_ItemIcon_320002"
+  },
+  {
+    "Rank": 0,
+    "MaterialType": 50,
+    "Id": 320003,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Étude assidue",
+    "Description": "L'apprentissage diurne alimente les rêves nocturnes. C'est peut-être ainsi que la connaissance se fraye naturellement un chemin jusque dans notre esprit...",
+    "TypeDescription": "Portrait",
+    "Icon": "UI_ItemIcon_320003"
   },
   {
     "Rank": 300301,
@@ -70204,6 +70508,182 @@
     "ItemType": 2,
     "Name": "Chat en boule",
     "Description": "Étapes de fabrication du chat en boule.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383411,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Éclat et lueur »",
+    "Description": "Étapes de fabrication d'« Éclat et lueur ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Roulette chanceuse",
+    "Description": "Étapes de fabrication de la roulette chanceuse.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383413,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Éclat d'appétit",
+    "Description": "Étapes de fabrication de l'éclat d'appétit.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384225,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Annonce de taverne « Murmures urbains »",
+    "Description": "Étapes de fabrication de l'annonce de taverne « Murmures urbains ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394637,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "As de la seconde",
+    "Description": "Étapes de fabrication de l'as de la seconde.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Détecteur portable utilitaire",
+    "Description": "Étapes de fabrication du détecteur portable utilitaire.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394639,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Grilleur suprême",
+    "Description": "Étapes de fabrication du grilleur suprême.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394640,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Poney à bascule",
+    "Description": "Étapes de fabrication du poney à bascule.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394641,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tour bipolaire droite à trépied",
+    "Description": "Étapes de fabrication de la tour bipolaire droite à trépied.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393222,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pétales sans parfum",
+    "Description": "Étapes de fabrication des pétales sans parfum.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394818,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dragon en action",
+    "Description": "Étapes de fabrication du dragon en action.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380467,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Le voyageur solitaire",
+    "Description": "Étapes de fabrication de « Le voyageur solitaire ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380468,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Éclat intemporel",
+    "Description": "Étapes de fabrication de l'éclat intemporel.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394814,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "« Petit pinson »",
+    "Description": "Étapes de fabrication du « Petit pinson ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394815,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chapardeur gourmand",
+    "Description": "Étapes de fabrication du chapardeur gourmand.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394816,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Maître-belette",
+    "Description": "Étapes de fabrication du maître-belette.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
     "TypeDescription": "Plan de décoration",
     "Icon": "UI_ItemIcon_Home_Common"
   }

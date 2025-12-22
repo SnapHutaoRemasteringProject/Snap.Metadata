@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Lượm Ngọc Được Hoa",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Gió Lốc Hão Huyền",
@@ -934,6 +936,10 @@
       {
         "Title": "Về Sethos...",
         "Context": "#Điều gì khiến {F#cô}{M#cậu} nghĩ rằng tôi sẽ quen biết anh ta? Chỉ vì anh ta thường xuyên lẽo đẽo theo sau đòi xem chiếc nón của tôi sao? Chúng tôi không có giao lưu gì nhiều, lần đầu gặp mặt thì anh ta đã hỏi tôi có phải là Nón Tròn không... Đây chẳng phải là đang trông mặt mà bắt hình dong sao? Hừ, nhưng bằng cách nào đó thì cái tên Nón Tròn đã bị lan truyền ra ngoài rồi..."
+      },
+      {
+        "Title": "Về Durin...",
+        "Context": "Cậu ta khi vừa bước ra từ trong trang sách đã mang theo một đống vấn đề rồi, không ngờ sau khi trở thành con người thì vấn đề lại còn nhiều hơn nữa. Lần nào viết thư cũng dài dòng, chữ viết lại còn nguệch ngoạc chẳng đọc được, hừm.\nNếu rảnh rỗi thì hãy giúp tôi đi giải đáp thắc mắc cho cậu ta nhé, tránh việc cậu ta đi sai đường."
       },
       {
         "Title": "#Muốn tìm hiểu {REALNAME[ID(1)]} - Điều thứ 1",

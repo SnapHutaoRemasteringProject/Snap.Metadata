@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Rito della Vigilia della strega: Libro della luce accecante",
+        "Description": "#Dopo aver completato <color=#FFD780FF>Compiti della strega: Oltre la lezione</color>, Albedo acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\n· Quando Albedo infligge DAN da abilità elementale a un avversario entro 20{NON_BREAK_SPACE}s dall'uso della suddetta abilità, si genera un'<color=#FFD780FF>Isotoma argenteo</color> della durata di 10{NON_BREAK_SPACE}s vicino all'avversario. Quando non sono presenti in campo Isotomi solari creati da Albedo, e finché Albedo non viene sconfitto, gli Isotomi argentei generano Boccioli effimeri proprio come gli Isotomi solari. Possono coesistere in campo fino a due Isotomi argentei creati da Albedo.\n· Dopo aver creato un Isotoma solare, i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri vicini del gruppo aumentano di un 4% per ogni 1.000 punti di DIF di Albedo per 20{NON_BREAK_SPACE}s, fino a un 12% di aumento massimo.\n· Dopo aver creato un Isotoma argenteo, i DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale e Tripudio elementale dei membri vicini del gruppo dotati di attributo Hexerei aumentano di un 10% per ogni 1.000 punti di DIF di Albedo per 20{NON_BREAK_SPACE}s, fino a un 30% di aumento massimo.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,13 +680,18 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Potenza della calcite",
-        "Description": "I Boccioli effimeri generati da <color=#FFD780FF>Abiogenesi: Isotoma solare</color> infliggono un 25% di DAN extra agli avversari i cui PS sono inferiori a un 50%.",
+        "Description": "I Boccioli effimeri generati dall'abilità elementale <color=#FFD780FF>Abiogenesi: Isotoma solare</color> infliggono un 25% di DAN aggiuntivi agli avversari i cui PS sono inferiori a un 50%.",
         "Icon": "UI_Talent_S_Albedo_05"
       },
       {
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Saggezza degli Homunculi",
@@ -707,13 +740,13 @@
       {
         "Id": 381,
         "Name": "Fiore dell'Eden",
-        "Description": "I Boccioli effimeri generati da <color=#FFD780FF>Abiogenesi: Isotoma solare</color> rigenerano l'energia di Albedo di 1,2.",
+        "Description": "I Boccioli effimeri generati dall'abilità elementale di Albedo <color=#FFD780FF>Abiogenesi: Isotoma solare</color> rigenerano di 1,2 la sua energia.",
         "Icon": "UI_Talent_S_Albedo_01"
       },
       {
         "Id": 382,
         "Name": "Eone Fanerozoico",
-        "Description": "#I Boccioli effimeri generati da <color=#FFD780FF>Abiogenesi: Isotoma solare</color> forniscono ad Albedo Giudizio fatale per 30{NON_BREAK_SPACE}s:\n· rilasciare <color=#FFD780FF>Rito della discendenza: Ondata tettonica</color> consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e da Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte.",
+        "Description": "#I Boccioli effimeri generati dall'abilità elementale <color=#FFD780FF>Abiogenesi: Isotoma solare</color> forniscono ad Albedo Giudizio fatale per 30{NON_BREAK_SPACE}s:\n· rilasciare <color=#FFD780FF>Rito della discendenza: Ondata tettonica</color> consuma tutti gli accumuli di Giudizio fatale. Ciascun accumulo consumato aumenta i DAN inflitti dai Boccioli fatali e dal rilascio di Rito della discendenza: Ondata tettonica di una quantità pari a un 30% della DIF di Albedo;\n· cumulabile fino a 4 volte.",
         "Icon": "UI_Talent_S_Albedo_02"
       },
       {
@@ -729,7 +762,7 @@
       {
         "Id": 384,
         "Name": "Discesa divina",
-        "Description": "Aumenta di un 30% i DAN da attacco in picchiata dei membri attivi del gruppo all'interno del campo dell'Isotoma solare.",
+        "Description": "I DAN da attacco in picchiata dei membri attivi del gruppo all'interno del campo dell'Isotoma solare aumentano di un 30%.",
         "Icon": "UI_Talent_S_Albedo_03"
       },
       {
@@ -745,7 +778,7 @@
       {
         "Id": 386,
         "Name": "Polvere purificatrice",
-        "Description": "Aumenta di un 17% i DAN dei membri attivi del gruppo all'interno del campo dell'Isotoma solare protetti da uno scudo creato da una reazione di Cristallizzazione.",
+        "Description": "I DAN dei membri attivi del gruppo nel campo dell'Isotoma solare protetti da uno scudo creato tramite Cristallizzazione aumentano di un 17%.",
         "Icon": "UI_Talent_S_Albedo_04"
       }
     ]
@@ -878,6 +911,10 @@
       {
         "Title": "A proposito di Barbara",
         "Context": "Barbara? È una diaconessa molto severa. Una volta, ho avuto l'occasione di farle un ritratto... Vuoi sapere dov'è finito? Ah, sì... Albert voleva comprarlo e mi ha fatto un'offerta, ma ho preferito rifiutare e donarlo invece alla Gran Maestra Reggente. Le relazioni sociali... richiedono proprio tanti sforzi."
+      },
+      {
+        "Title": "A proposito di Durin",
+        "Context": "Mio fratello sta imparando ogni giorno cose nuove. È non solo intelligente, ma anche ardentemente filosofico. A volte questo suo atteggiamento causa qualche difficoltà, ma non attenua la sua passione per il mondo. Il suo arrivo, o dovrei dire il suo ingresso in famiglia, mi ha permesso di vedere le relazioni umane da una nuova prospettiva. Con la presenza dei miei familiari più stretti, la mia casa è diventata un luogo brioso, il che è sicuramente positivo."
       },
       {
         "Title": "Altro su Albedo (1)",
@@ -1092,5 +1129,11 @@
     "Description": "Stile per la carta giocatore.\nPermettetemi di assistere a questo miracolo.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Eco: Kreideprinz",
+    "Description": "L'Eco immaginario di Albedo. \"L'Isotoma solare fiorisce nelle fiamme della nigredo\".",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

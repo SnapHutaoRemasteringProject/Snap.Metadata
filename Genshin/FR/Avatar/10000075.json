@@ -673,7 +673,8 @@
                 0.8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752101,
         "Name": "Fleur de jade",
@@ -694,7 +695,8 @@
                 0.35
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 752201,
         "Name": "Rafales de rêverie",
@@ -934,6 +936,10 @@
       {
         "Title": "À propos de Sethos...",
         "Context": "Qu'est-ce qui te fait penser que je le connais ? Est-ce que c'est parce qu'il me suit partout et qu'il me demande de regarder mon chapeau de plus près ? La première fois que nous nous sommes rencontrés, il m'a demandé si je m'appelais le « type au chapeau »... Aux dernières nouvelles, juger quelqu'un selon son apparence est superficiel. Hmpf, va savoir pourquoi, le nom de « type au chapeau » s'est répandu..."
+      },
+      {
+        "Title": "À propos de Durin...",
+        "Context": "Quand il est sorti de ce livre pour la première fois, il avait une liste interminable de questions. Je n'aurais jamais imaginé que devenir humain le rendrait encore plus curieux. Ses lettres sont très longues, et j'ai beaucoup de mal à les déchiffrer. Il a une écriture en pattes de mouche.\nSi tu as le temps, tu pourrais essayer de l'aider à comprendre certaines choses pour qu'il reste sur la bonne voie."
       },
       {
         "Title": "#Connaître {REALNAME[ID(1)]} (1)",

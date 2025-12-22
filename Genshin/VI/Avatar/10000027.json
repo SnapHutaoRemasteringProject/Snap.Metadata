@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Vật Đổi Sao Dời",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Kiếm Củi Ba Năm Thiêu Một Giờ",
@@ -829,6 +831,10 @@
       {
         "Title": "Về Xianyun...",
         "Context": "#Qua mấy ngày nữa, tôi định hẹn Xianyun đến phòng trà ngồi một chút. Tôi tình cờ thu thập được một vài món đồ máy móc, muốn nghe thử ý kiến của cô ấy, cũng muốn nhân cơ hội này nghe cô ấy kể những câu chuyện thú vị về cuộc sống của tiên nhân ở cảng Liyue luôn. Còn về việc chọn người đi đưa thư mời này giúp tôi thì... {F#cô}{M#cậu} có muốn giúp tôi không?"
+      },
+      {
+        "Title": "Về Bạch Mã Tiên Nhân...",
+        "Context": "Mở sau khi Cấp Yêu Thích đạt cấp 4"
       },
       {
         "Title": "Muốn tìm hiểu Ningguang - Điều thứ 1",

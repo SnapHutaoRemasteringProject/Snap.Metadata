@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "QUEST SELESAI",
-    "Description": "Selesaikan 10 Bounty.",
+    "Description": "Selesaikan 3 Bounty.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "QUEST SELESAI",
-    "Description": "Selesaikan 20 Bounty.",
+    "Description": "Selesaikan 6 Bounty.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "QUEST SELESAI",
-    "Description": "Selesaikan 30 Bounty.",
+    "Description": "Selesaikan 9 Bounty.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Pejuang dalam Pelatihan",
-    "Description": "Selesaikan 10 Permintaan Penduduk.",
+    "Description": "Selesaikan 3 Permintaan Penduduk.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Pejuang dalam Pelatihan",
-    "Description": "Selesaikan 20 Permintaan Penduduk.",
+    "Description": "Selesaikan 6 Permintaan Penduduk.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Pejuang dalam Pelatihan",
-    "Description": "Selesaikan 30 Permintaan Penduduk.",
+    "Description": "Selesaikan 9 Permintaan Penduduk.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Kastil Bergerak Drzislav",
+    "Description": "Kalahkan Super-Heavy Landrover: Mechanized Fortress yang sudah kepanasan dan lumpuh minimum 2 kali.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Hari yang Penting",
+    "Description": "Liburan itu kan justru harus bersenang-senang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Malam Doa Rembulan",
+    "Description": "Nikmati malam terakhir di dunia di bawah rembulan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Antara Abadi dan Sesaat",
+    "Description": "Kiranya terang bulan senantiasa menghubungkan kita, siang dan malam, untuk selamanya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Cahaya Rembulan di Kabut Pagi",
+    "Description": "Selesaikan \"Cahaya Rembulan di Kabut Pagi\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Saat Batu Diangkat",
+    "Description": "Mungkin ada petunjuk yang bisa ditemukan tanpa diduga.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Seperti Sebuah Mimpi",
+    "Description": "Saksikan \"sejarah\" yang pernah terjadi di sini.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Jejak yang Bertemu",
+    "Description": "Kalian pernah bertemu pada suatu titik waktu ....",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Puisi Malam dari Ujung Utara",
+    "Description": "Selesaikan \"Puisi Malam dari Ujung Utara\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

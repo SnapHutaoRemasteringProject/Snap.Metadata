@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Athame Artis",
+    "Description": "En la historia de la brujita, esta espada se la concedió el rey del día a un guerrero, pero más tarde, la brujita derrotó a dicho guerrero con ella.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Splendor Solis del rey del día",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#El Daño CRIT de la Habilidad Definitiva aumenta en un <color=#99FFFFFF>16%</color>. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un <color=#99FFFFFF>20%</color>, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un <color=#99FFFFFF>16%</color>.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+        },
+        {
+          "Level": 1,
+          "Description": "#El Daño CRIT de la Habilidad Definitiva aumenta en un <color=#99FFFFFF>20%</color>. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un <color=#99FFFFFF>25%</color>, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un <color=#99FFFFFF>20%</color>.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+        },
+        {
+          "Level": 2,
+          "Description": "#El Daño CRIT de la Habilidad Definitiva aumenta en un <color=#99FFFFFF>24%</color>. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un <color=#99FFFFFF>30%</color>, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un <color=#99FFFFFF>24%</color>.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+        },
+        {
+          "Level": 3,
+          "Description": "#El Daño CRIT de la Habilidad Definitiva aumenta en un <color=#99FFFFFF>28%</color>. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un <color=#99FFFFFF>35%</color>, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un <color=#99FFFFFF>28%</color>.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+        },
+        {
+          "Level": 4,
+          "Description": "#El Daño CRIT de la Habilidad Definitiva aumenta en un <color=#99FFFFFF>32%</color>. Al golpear a un enemigo con la Habilidad Definitiva, se obtiene el efecto de “filo diurno”, el cual aumenta durante 3{NON_BREAK_SPACE}s el ATQ en un <color=#99FFFFFF>40%</color>, y también el ATQ del personaje en uso cercano (a excepción del portador de esta arma) en un <color=#99FFFFFF>32%</color>.\nAdemás, cuando el equipo tiene el efecto de “taumaturgia: rito secreto”, el de filo diurno se potencia en un 75% adicional. Este efecto se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Pluvioarco de la Serpiente Arcoíris",
+    "Description": "Un objeto ritual de los Augures Vientonocturno heredado desde tiempos inmemoriales. Un frío imposible de quitar envuelve el cuerpo de este arco de color oscuro.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Susurros estelares más allá del trono sagrado",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un <color=#99FFFFFF>28%</color> durante 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 1,
+          "Description": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 2,
+          "Description": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un <color=#99FFFFFF>42%</color> durante 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 3,
+          "Description": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un <color=#99FFFFFF>49%</color> durante 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 4,
+          "Description": "#Cuando el portador de esta arma está en tu equipo pero no en uso y golpea con un ataque a un enemigo, su ATQ aumenta en un <color=#99FFFFFF>56%</color> durante 8{NON_BREAK_SPACE}s."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Albores de la Historia",
+    "Description": "Toda canción de resistencia se convierte en una suave nota musical al ser traída por el viento, y la fuerza que concentra es como un rayo del alba capaz de romper la oscuridad tras una infinidad de noches.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Oda atemporal",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un <color=#99FFFFFF>60%</color>. Al estar en combate, este aumento de daño se reduce en un <color=#99FFFFFF>10%</color> por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un <color=#99FFFFFF>10%</color>, hasta alcanzar el <color=#99FFFFFF>60%</color>. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un <color=#99FFFFFF>20%</color> para todos los tipos de daño."
+        },
+        {
+          "Level": 1,
+          "Description": "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un <color=#99FFFFFF>75%</color>. Al estar en combate, este aumento de daño se reduce en un <color=#99FFFFFF>12.5%</color> por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un <color=#99FFFFFF>12.5%</color>, hasta alcanzar el <color=#99FFFFFF>75%</color>. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un <color=#99FFFFFF>25%</color> para todos los tipos de daño."
+        },
+        {
+          "Level": 2,
+          "Description": "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un <color=#99FFFFFF>90%</color>. Al estar en combate, este aumento de daño se reduce en un <color=#99FFFFFF>15%</color> por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un <color=#99FFFFFF>15%</color>, hasta alcanzar el <color=#99FFFFFF>90%</color>. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un <color=#99FFFFFF>30%</color> para todos los tipos de daño."
+        },
+        {
+          "Level": 3,
+          "Description": "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un <color=#99FFFFFF>105%</color>. Al estar en combate, este aumento de daño se reduce en un <color=#99FFFFFF>17.5%</color> por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un <color=#99FFFFFF>17.5%</color>, hasta alcanzar el <color=#99FFFFFF>105%</color>. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un <color=#99FFFFFF>35%</color> para todos los tipos de daño."
+        },
+        {
+          "Level": 4,
+          "Description": "#El portador de esta arma obtiene el efecto de “brisa del amanecer”, de manera que, 3{NON_BREAK_SPACE}s después de salir de combate, el daño del Ataque Normal, la Habilidad Elemental y la Habilidad Definitiva aumenta en un <color=#99FFFFFF>120%</color>. Al estar en combate, este aumento de daño se reduce en un <color=#99FFFFFF>20%</color> por segundo hasta llegar al 0%. Cuando el portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño correspondiente se incrementa en un <color=#99FFFFFF>20%</color>, hasta alcanzar el <color=#99FFFFFF>120%</color>. Este efecto solo puede activarse una vez cada 0.1{NON_BREAK_SPACE}s para cada tipo de ataque, y se puede activar incluso cuando el portador de esta arma está en tu equipo pero no en uso.\nAdemás, cuando el equipo tiene el efecto “taumaturgia: rito secreto” y dicho portador golpea a un enemigo con un Ataque Normal, la Habilidad Elemental o la Habilidad Definitiva, el aumento de daño obtenido pasa a ser de un <color=#99FFFFFF>40%</color> para todos los tipos de daño."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

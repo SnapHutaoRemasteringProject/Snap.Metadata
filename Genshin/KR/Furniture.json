@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "두린",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "야호다",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "「납작 고양이」",
     "Description": "어느 유명한 검은 고양이를 모티브로 만든 기계 고양이 장난감. 다양한 상호작용 버튼이 있다.\n고양이는 신비로운 동물이라, 설계자는 이 장난감에 사용자의 행동에 반응하는 기능을 넣었다. 어떤 행동은 고양이를 즐겁게 하지만, 또 어떤 행동은 고양이를 갑자기 벌떡 일어나게 만들기도 한다",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363411,
+    "Name": "「기묘한 반짝임」",
+    "Description": "받침대와 공중에 떠 있는 세 개의 전구로 구성된 스탠드. 독특한 디자인은 나샤 마을의 조명 장치에서 영감을 받았다.\n「떠 있는데 어떻게 빛을 낼 수 있는 걸까?」 전구의 공중 부양은 달의 힘과 관련이 있는 듯하며, 지나가는 외국인 관광객은 늘 이 기묘한 디자인에 감탄을 금치 못한다",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363412,
+    "Name": "「행운의 룰렛」",
+    "Description": "나샤 마을에서 볼 수 있는 행운 룰렛. 가운데 바늘을 돌리면 다양한 의미를 가진 색색의 컵을 가리킨다.\n「룰렛을 돌려 보세요. 룰렛이 멈추는 순간 『핫도그』가 오늘의 운세를 점쳐드립니다」 물론, 첫 번째로 나온 결과가 마음에 들지 않는다면 몇 번 더 돌려봐도 상관없다…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363413,
+    "Name": "「식욕 폭발」",
+    "Description": "나샤 마을 곳곳에서 볼 수 있는 접시에는 종종 빵과 소시지가 가득 담겨있다.\n노릇노릇하고 바삭한 빵, 기름이 흐르는 소시지… 허기진 여행가라면 이런 음식의 유혹을 이기기 힘들겠지만——속세의 주전자 안의 장식품이 되어버린 후에는 「식욕을 자극하는」 효과만 남았다…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363386,
+    "Name": "「용용 정찰기」",
+    "Description": "어린 명룡을 본뜬 인형. 수메르산 「정찰 파트너」 코어를 장착했다. 마물 수색과 지형 탐사를 도와주는 귀엽고 믿음직한 「모험가의 친구」다.\n전선 측량사 미카는 자신의 전문 지식과 모험가들의 요구 사항을 반영해 「용용 정찰기」를 전면 개량했다. 지형 탐사 정확도와 행동 유연성을 크게 끌어올렸고, 뛰어난 감지 능력을 지닌 어린 명룡을 외형 모델로 삼았다. 위험한 모험에는 섬세하고 영리한 동반자가 필요한 법이니까",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 364225,
+    "Name": "술집 공지-「항간의 소문」",
+    "Description": "「기함」에서 현상 수배를 올리는 게시판. 넓고 커서 현상 수배지를 많이 붙일 수 있다.\n복잡한 현상 수배 의뢰의 보상금을 받을 수 있는 사람은 소수이며, 대다수 사람들은 정보만 보고 여러 가지 기이한 항간의 소문을 엮어낸다…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374637,
+    "Name": "「1초 컷」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 볼 수 있는 기계 피조물. 튼튼하고 정밀한 기계 팔을 가졌다.\n「잠깐만 기다리면 『1초 컷』이 다 해줄 거야~」 작업 효율이 높지만 사실 「1초」만에 모든 일을 끝낼 순 없다. 발명가는 아무래도 1초가 고객이 흠잡을 수 없는 최고의 속도라고 생각한 것 같다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 373939,
+    "Name": "「휴대용 탐지기」",
+    "Description": "나샤 마을에서 흔히 볼 수 있는 탐지기. 주로 긴급 처리가 필요한 폐기물에서 사용 가능한 재료를 찾아내는 데 쓰인다. 다만, 탐지기가 「삐삐」 소리를 내며 반응하는 것들은 이상한 물건일 때가 많다. 아저씨가 실수로 잃어버린 선글라스나, 어떤 아가씨가 떨어뜨린 단추라든가…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374639,
+    "Name": "「전설의 바비큐 마스터」",
+    "Description": "나샤 마을의 고기 굽는 기계. 일정한 화력으로 가장 부드럽고 육즙이 풍부한 식감의 고기를 구워낸다.\n고기를 굽는 사람은 이 기계 앞에 서면 자기도 모르게 즉흥적으로 즐거운 멜로디를 흥얼거린다고 한다…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374640,
+    "Name": "「흔들흔들 목마」",
+    "Description": "나샤 마을에서 흔히 볼 수 있는 놀이기구. 고철로 만들어졌지만 아이들 사이에서 인기가 많다.\n목마를 타고 흔들리는 아이들의 웃음소리가 울려 퍼지면, 어느새 고민도 훨훨 날아가 버린다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374641,
+    "Name": "입식 삼각 쌍극탑",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 볼 수 있는 독특한 디자인의 삼각 탑.\n황금 시대의 신비한 유물 기계를 개조해 만들어졌다고 하나, 구체적인 기능은 알 수 없어 장식용으로만 쓰인다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "마신 임무 획득"
+    ],
+    "Id": 374811,
+    "Name": "「함께하는 우리」",
+    "Description": "서리뿔 사슴과 갈기 오소리의 우정에서 영감을 받아 제작된 포토 스팟. 조명 장치가 설치되어 있어 밤에도 관광객들이 사진을 찍을 수 있다.\n「어리버리해 보이는 갈기 오소리랑… 밤샘 작업 때문에 졸고 있는 서리뿔 사슴인 건가?」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "마신 임무 획득"
+    ],
+    "Id": 373222,
+    "Name": "「향기 없는 꽃」",
+    "Description": "기도의 밤의 분위기에 맞춰 개조된 화단. 밤이 되면 기계 꽃이 밝고 따스하게 빛난다.\n이를 본 외지의 여행객은 「이상하긴 하지만… 노드크라이에선 이상할 것도 없지!」라고 말한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374812,
+    "Name": "열혈 투사-「피에티나」",
+    "Description": "요즘 유행하는 《열혈 투사 전기》의 피에티나를 모티브로 제작된 만화 캐릭터 스탠드. 열정이 느껴지는 모습과 전투를 두려워하지 않는 특유의 멋진 포즈가 돋보인다.\n「그럼 가요, 선배님들. 전 물러서지 않을 거예요! 」\n물론 행동은 반드시 완벽한 결과를 가져다 주지는 않는다. 그러나 모두의 진실된 열정과 헌신은 분명 존재했기에, 언젠가 후회 없는 찬란한 결실을 맺게 될 것이다",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "마신 임무 획득"
+    ],
+    "Id": 374813,
+    "Name": "「도도코 빙글빙글 모험기」",
+    "Description": "추천 탑승 인원이 2명인 회전 도도코. 위대한 마녀가 후원하는 오락 프로그램이다.\n「부드러운 도도코를 타고 잊지 못할 모험을 떠나 보세요!」\n회전하는 도도코는 언젠가는 멈추겠지만, 함께 도도코에 탔던 사람과는 앞으로도 함께 새로운 여정을 떠나게 될 것이다…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기행·진주의 노래 구매 획득"
+    ],
+    "Id": 374818,
+    "Name": "「마룡 출격」",
+    "Description": "동화 세계에서 온 용을 모티브로 제작한 조각상. 날개를 펼치고 집중하는 표정은 마치 「출격 준비」를 마친 듯하다.\n상호작용을 통해 「마룡 출격」의 등에 올라타면 조각상 내부의 장치가 작동해 새로운 형태를 드러낸다. 눈을 크게 뜨고 날개와 꼬리를 흔드는 마룡은 등 위에 태운 친구에게 당부한다. 「준비해, 곧 날아오를 거야!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360467,
+    "Name": "「홀로 걷는 사람」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」의 조명인 가로등. 독특한 모양새는 고개를 숙이고 걷는 여행가의 모습을 닮았다.\n밤이 되면 이 가로등은 조용히 켜진다. 「가로등이 엄청 높네. 허리랑 등은 괜찮으려나?」\n지나가는 행인들은 이렇게 감탄하곤 한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "마신 임무 획득"
+    ],
+    "Id": 360468,
+    "Name": "「변치 않는 빛」",
+    "Description": "전부 철판으로 제작된 초승달 모양의 조명. 밤낮을 가리지 않고 늘 조용히 은은한 빛을 발산한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372516,
+    "Name": "「안개의 속삭임」",
+    "Description": "키가 작은 연분홍빛 관목. 작은 줄기가 모여 하나의 군집을 이룬다.\n항상 덤불의 형태로 자라나기 때문에 멀리서 바라보면 마치 연분홍빛 안개가 땅 위로 낮게 깔린 것처럼 보인다. 마치 자연의 속삭임처럼 말이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372517,
+    "Name": "「지난날을 향한 작별」",
+    "Description": "동굴 식물의 일종. 가늘고 유연한 줄기와 부채 모양의 잎이 특징이다.\n이런 식물들은 대개 강인한 생명력을 지니고 있어서, 어떤 환경에서도 가느다란 가지를 살랑살랑 흔든다. 마치 지난날을 향해 조용한 작별 인사를 보내듯이…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372518,
+    "Name": "「반짝이는 꽃술」",
+    "Description": "스모키한 분홍빛을 띈 동굴 식물. 잎사귀는 넓게 펼쳐져 있고, 그 끝부분에는 「촉수」처럼 생긴 꽃술이 달려 있다.\n이 식물이 발하는 은은한 형광빛은 동굴 전체를 밝혀주지는 못하지만, 주변 분위기에 독특한 감성을 더해준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374814,
+    "Name": "「짹짹 참새」",
+    "Description": "고대 불꽃 참새를 본떠 만든 앙증맞은 짹짹볼 모형.\n작은 참새라도 힘은 엄청나다!\n짹짹볼을 가지고 놀다 보면 귀여워서 자기도 모르게 감탄사를 외치게 된다. 「세상에서 제일 귀여운 건, 바로 참새!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374815,
+    "Name": "「미식 대도」",
+    "Description": "감튀 갈매기를 본떠 만든 모형. 사악한 대도의 가면을 쓴 영락없는 「미식 대도」다.\n「탱탱 물범의 말로는… 나타에 특별한 미식이 있다지? 후후, 그럼 이 미식 대도가 직접 먹어봐야지!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374816,
+    "Name": "「흑막 족제비」",
+    "Description": "식탐의 산족제비를 본떠 만든 모형. 도둑 갈매기를 지배하는 「흑막 족제비」다!\n「감튀 갈매기들은 도둑질만 할 줄 아는 바보에 불과하지… 팝콘은 전부 내 거야!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374817,
+    "Name": "열헐 눈사람-「히어로」",
+    "Description": "바레사를 모델로 제작한 눈사람 모형. 그녀를 상징하는 히어로 마스크가 장착되어 있어, 친근하면서도 열정적인 바레사의 모습을 정확하게 재현한다.\n각국 손님들이 편히 즐길 수 있도록, 「눈싸움 놀이」 디자이너가 특별히 이 귀여운 동료를 만들었다고 한다. 이 친구와 함께라면 뼈를 에는 듯한 드래곤 스파인의 추위 속에서도 따스함을 느낄 수 있을 것이다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

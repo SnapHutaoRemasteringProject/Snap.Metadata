@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Plano B",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Reserva Estratégica",
@@ -829,6 +831,10 @@
       {
         "Title": "Sobre Xianyun...",
         "Context": "#Planejo receber a Srta. Xianyun para uma conversa casual enquanto tomamos chá em alguns dias. Por acaso, tenho em minha posse inúmeros dispositivos mecânicos e ficaria muito interessada em ouvir as opiniões dela sobre o design e uso delas. Também seria uma bela oportunidade de saber mais sobre as experiências dela como uma adeptus se adaptando a uma nova vida no Porto de Liyue. Tudo que preciso agora é um{F#a} candidat{M#o}{F#a} adequad{M#o}{F#a} para entregar o convite a ela em meu nome... Teria interesse, Viajante?"
+      },
+      {
+        "Title": "Sobre o Adeptus Cavalo Branco",
+        "Context": "Desbloqueia quando Amizade atingir Nv.4"
       },
       {
         "Title": "Mais sobre Ningguang - I",

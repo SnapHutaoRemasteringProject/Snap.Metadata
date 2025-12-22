@@ -45,7 +45,8 @@
             "DGT tir visé|{param7:F1P}",
             "DGT tir visé (pleine charge)|{param8:P}",
             "DGT durant la chute|{param9:F1P}",
-            "DGT chute basse/élevée|{param10:P}/{param11:P}"
+            "DGT chute basse/élevée|{param10:P}/{param11:P}",
+            "DGT flèche de tourbillon|{param12:F1P} DGT d'attaque normale"
           ],
           "Parameters": [
             {
@@ -62,7 +63,8 @@
                 1.24,
                 0.568288,
                 1.136335,
-                1.419344
+                1.419344,
+                1.6
               ]
             },
             {
@@ -79,7 +81,8 @@
                 1.333,
                 0.614544,
                 1.228828,
-                1.534872
+                1.534872,
+                1.7
               ]
             },
             {
@@ -96,7 +99,8 @@
                 1.426,
                 0.6608,
                 1.32132,
-                1.6504
+                1.6504,
+                1.8
               ]
             },
             {
@@ -113,7 +117,8 @@
                 1.55,
                 0.72688,
                 1.453452,
-                1.81544
+                1.81544,
+                1.9
               ]
             },
             {
@@ -130,7 +135,8 @@
                 1.643,
                 0.773136,
                 1.545944,
-                1.930968
+                1.930968,
+                2
               ]
             },
             {
@@ -147,7 +153,8 @@
                 1.736,
                 0.826,
                 1.65165,
-                2.063
+                2.063,
+                2.1
               ]
             },
             {
@@ -164,7 +171,8 @@
                 1.86,
                 0.898688,
                 1.796995,
-                2.244544
+                2.244544,
+                2.2
               ]
             },
             {
@@ -181,7 +189,8 @@
                 1.984,
                 0.971376,
                 1.94234,
-                2.426088
+                2.426088,
+                2.3
               ]
             },
             {
@@ -198,7 +207,8 @@
                 2.108,
                 1.044064,
                 2.087686,
-                2.607632
+                2.607632,
+                2.4
               ]
             },
             {
@@ -215,7 +225,8 @@
                 2.232,
                 1.12336,
                 2.246244,
-                2.80568
+                2.80568,
+                2.5
               ]
             },
             {
@@ -232,7 +243,8 @@
                 2.36096,
                 1.202656,
                 2.404802,
-                3.003728
+                3.003728,
+                2.6
               ]
             },
             {
@@ -249,7 +261,8 @@
                 2.5296,
                 1.281952,
                 2.563361,
-                3.201776
+                3.201776,
+                2.7
               ]
             },
             {
@@ -266,7 +279,8 @@
                 2.69824,
                 1.361248,
                 2.721919,
-                3.399824
+                3.399824,
+                2.8
               ]
             },
             {
@@ -283,7 +297,8 @@
                 2.86688,
                 1.440544,
                 2.880478,
-                3.597872
+                3.597872,
+                2.9
               ]
             },
             {
@@ -300,7 +315,8 @@
                 3.03552,
                 1.51984,
                 3.039036,
-                3.79592
+                3.79592,
+                3
               ]
             }
           ]
@@ -476,6 +492,30 @@
         "Name": "Sonnet des Vents célestes",
         "Description": "Le vent porteur de chants et de mélodies vient faire voler les êtres foulant cette terre.\n\n<color=#FFD780FF>Appui simple</color>\nVenti invoque une bourrasque sur la position de l'ennemi, infligeant des <color=#80FFD7FF>DGT Anémo de zone</color> et projette les ennemis en l'air.\n\n<color=#FFD780FF>Appui long</color>\nVenti invoque une bourrasque plus puissante sur sa position, infligeant des <color=#80FFD7FF>DGT Anémo de zone</color> et projette les ennemis proches en l'air.\nL'appui long permet à Venti de voler dans les airs.\n\nLes ennemis projetés en l'air retombent lentement au sol.\n\n<i>Aux temps anciens où dieux et hommes se partageaient la terre, nombreux furent les chants qui atteignirent les cieux. Ce sonnet possède une mélodie oubliée depuis longtemps.</i>",
         "Icon": "Skill_S_Venti_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Veillée de la sorcière : Éloge au vent temporel",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « Du réveil du vent »</color>, Venti devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nPendant la durée de l'œil de la tempête créé par son déchaînement élémentaire <color=#FFD780FF>Ode au vent</color>, pendant 4 s après qu'un personnage déployé à proximité a déclenché une réaction de Dispersion, ses DGT augmentent de 50 % et l'œil de la tempête de Venti inflige des DGT d'une valeur équivalant à 135 % des DGT d'origine.",
+        "Icon": "UI_Talent_S_Venti_07"
       }
     ],
     "EnergySkill": {
@@ -674,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Embrasse des vents",
@@ -694,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Œil de la tempête",
@@ -927,6 +969,10 @@
       {
         "Title": "À propos de Dahlia...",
         "Context": "#Ô {M#voyageur}{F#voyageuse}, cherches-tu à entendre la voix du vent et à connaître ses conseils ? Dans ce cas, laisse-moi te dire que... Discuter avec le diacre est ce que tu as de mieux à faire. Haha, je rigole ! Viens discuter avec moi autour d'un verre quand tu veux ! La raison pour laquelle j'ai l'habitude de demander à Dahlia d'être mon intermédiaire est que... Eh bien, j'imagine que tu peux deviner pourquoi. Il aime écouter le souffle du vent, mais il possède également sa propre boussole."
+      },
+      {
+        "Title": "À propos de Durin...",
+        "Context": "Un autre enfant de Madame sorcière est ici à Mondstadt, quelle joie ! Ce nouvel ami semblait vouloir s'amuser avec une de mes vieilles connaissances à la taille bien plus imposante. Je me suis donc occupé des présentations, et le tour était joué ! C'est finalement mon ami de grande taille qui fut le plus enthousiaste des deux ! Tu aurais dû le voir sauter de joie, se tapoter le ventre et tourner sur lui-même. Oh mince ! Est-ce qu'il aurait entendu ce que je viens de dire ? Vite, vite, cachons-nous derrière cet arbre !"
       },
       {
         "Title": "Connaître Venti (1)",

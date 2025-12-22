@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Hắc Ám Xâm Thực",
+    "Description": "Trong câu chuyện của ma nữ nhỏ, đây vốn dĩ là thanh bảo kiếm được Vua Ban Ngày tặng cho dũng sĩ, sau đó ma nữ nhỏ đã dùng nó để đánh bại dũng sĩ.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ánh Sáng Của Vua Ban Ngày",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Sát Thương Bạo Kích từ Kỹ Năng Nộ tăng <color=#99FFFFFF>16%</color>. Khi Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận được hiệu ứng \"Lưỡi Đao Ban Ngày\": Tấn Công tăng <color=#99FFFFFF>20%</color>, ngoại trừ người trang bị, Tấn Công của nhân vật ra trận trong đội gần đó tăng <color=#99FFFFFF>16%</color>, duy trì 3s.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\" thì hiệu quả của \"Lưỡi Đao Ban Ngày\" sẽ tăng thêm 75%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 1,
+          "Description": "Sát Thương Bạo Kích từ Kỹ Năng Nộ tăng <color=#99FFFFFF>20%</color>. Khi Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận được hiệu ứng \"Lưỡi Đao Ban Ngày\": Tấn Công tăng <color=#99FFFFFF>25%</color>, ngoại trừ người trang bị, Tấn Công của nhân vật ra trận trong đội gần đó tăng <color=#99FFFFFF>20%</color>, duy trì 3s.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\" thì hiệu quả của \"Lưỡi Đao Ban Ngày\" sẽ tăng thêm 75%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 2,
+          "Description": "Sát Thương Bạo Kích từ Kỹ Năng Nộ tăng <color=#99FFFFFF>24%</color>. Khi Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận được hiệu ứng \"Lưỡi Đao Ban Ngày\": Tấn Công tăng <color=#99FFFFFF>30%</color>, ngoại trừ người trang bị, Tấn Công của nhân vật ra trận trong đội gần đó tăng <color=#99FFFFFF>24%</color>, duy trì 3s.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\" thì hiệu quả của \"Lưỡi Đao Ban Ngày\" sẽ tăng thêm 75%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 3,
+          "Description": "Sát Thương Bạo Kích từ Kỹ Năng Nộ tăng <color=#99FFFFFF>28%</color>. Khi Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận được hiệu ứng \"Lưỡi Đao Ban Ngày\": Tấn Công tăng <color=#99FFFFFF>35%</color>, ngoại trừ người trang bị, Tấn Công của nhân vật ra trận trong đội gần đó tăng <color=#99FFFFFF>28%</color>, duy trì 3s.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\" thì hiệu quả của \"Lưỡi Đao Ban Ngày\" sẽ tăng thêm 75%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 4,
+          "Description": "Sát Thương Bạo Kích từ Kỹ Năng Nộ tăng <color=#99FFFFFF>32%</color>. Khi Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận được hiệu ứng \"Lưỡi Đao Ban Ngày\": Tấn Công tăng <color=#99FFFFFF>40%</color>, ngoại trừ người trang bị, Tấn Công của nhân vật ra trận trong đội gần đó tăng <color=#99FFFFFF>32%</color>, duy trì 3s.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\" thì hiệu quả của \"Lưỡi Đao Ban Ngày\" sẽ tăng thêm 75%. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Dây Mưa Của Cầu Vồng",
+    "Description": "Dụng cụ nghi thức của Chủ Nhân Gió Đêm được truyền lại từ thời viễn cổ, thân cung mang màu sắc u ám, luôn mang đến một cảm giác lạnh lẽo không thể xua tan.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Ngôn Ngữ Tinh Tú Ngoài Thánh Tọa",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng <color=#99FFFFFF>28%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng <color=#99FFFFFF>35%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng <color=#99FFFFFF>42%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng <color=#99FFFFFF>49%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Khi người trang bị không ra trận, trong 8s sau khi đòn tấn công của người trang bị đánh trúng kẻ địch, Tấn Công tăng <color=#99FFFFFF>56%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Biên Niên Sử Bình Minh",
+    "Description": "Tất cả thơ ca về chiến tranh đều cưỡi gió mà đến, đọng lại thành những thanh âm nhẹ nhàng trên sợi dây. Sức mạnh hội tụ trong đó cứ như ánh sáng bình minh xé toạc đêm tối vô biên.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Bài Ca Vang Vọng Xa Xưa",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Người trang bị nhận được \"Ngọn Gió Nổi\": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng <color=#99FFFFFF>60%</color>. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm <color=#99FFFFFF>10%</color> mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng <color=#99FFFFFF>10%</color> cho đến khi đạt <color=#99FFFFFF>60%</color>, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng <color=#99FFFFFF>20%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Người trang bị nhận được \"Ngọn Gió Nổi\": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng <color=#99FFFFFF>75%</color>. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm <color=#99FFFFFF>12.5%</color> mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng <color=#99FFFFFF>12.5%</color> cho đến khi đạt <color=#99FFFFFF>75%</color>, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng <color=#99FFFFFF>25%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Người trang bị nhận được \"Ngọn Gió Nổi\": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng <color=#99FFFFFF>90%</color>. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm <color=#99FFFFFF>15%</color> mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng <color=#99FFFFFF>15%</color> cho đến khi đạt <color=#99FFFFFF>90%</color>, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng <color=#99FFFFFF>30%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Người trang bị nhận được \"Ngọn Gió Nổi\": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng <color=#99FFFFFF>105%</color>. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm <color=#99FFFFFF>17.5%</color> mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng <color=#99FFFFFF>17.5%</color> cho đến khi đạt <color=#99FFFFFF>105%</color>, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng <color=#99FFFFFF>35%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Người trang bị nhận được \"Ngọn Gió Nổi\": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng <color=#99FFFFFF>120%</color>. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm <color=#99FFFFFF>20%</color> mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng <color=#99FFFFFF>20%</color> cho đến khi đạt <color=#99FFFFFF>120%</color>, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng <color=#99FFFFFF>40%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

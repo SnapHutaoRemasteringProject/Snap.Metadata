@@ -5481,12 +5481,12 @@
     "Goal": 63,
     "Order": 416,
     "Title": "Морозные рощи за пределами тьмы I",
-    "Description": "Активируйте все точки телепортации на на островах Лемпо, Хийси и Паха в Нод-Крае.",
+    "Description": "Активируйте все точки телепортации на островах Лемпо, Хийси и Паха в Нод-Крае.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "Цель уничтожена",
-    "Description": "Выполните 10 заказов на монстров.",
+    "Description": "Выполните 3 заказа на монстров.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "Цель уничтожена",
-    "Description": "Выполните 20 заказов на монстров.",
+    "Description": "Выполните 6 заказов на монстров.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "Цель уничтожена",
-    "Description": "Выполните 30 заказов на монстров.",
+    "Description": "Выполните 9 заказов на монстров.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Герой-практикант",
-    "Description": "Выполните 10 просьб жителей.",
+    "Description": "Выполните 3 просьбы жителей.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Герой-практикант",
-    "Description": "Выполните 20 просьб жителей.",
+    "Description": "Выполните 6 просьб жителей.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Герой-практикант",
-    "Description": "Выполните 30 просьб жителей.",
+    "Description": "Выполните 9 просьб жителей.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -11775,7 +11775,7 @@
     "Id": 81490,
     "Goal": 0,
     "Order": 1474,
-    "Title": "Не говорить без разрешения!",
+    "Title": "Не брать без разрешения!",
     "Description": "Верните обсидиановую статую на родовой алтарь Потомков Крон.",
     "FinishReward": {
       "Id": 201,
@@ -13164,7 +13164,7 @@
     "Id": 81603,
     "Goal": 0,
     "Order": 1598,
-    "Title": "Навстречу Авроры",
+    "Title": "Навстречу Авроре",
     "Description": "Создайте прекрасную радугу в небе над озером Голубого Янтаря.",
     "FinishReward": {
       "Id": 201,
@@ -17386,7 +17386,7 @@
     "Id": 82299,
     "Goal": 0,
     "Order": 2299,
-    "Title": "Сияющий коконы",
+    "Title": "Сияющий кокон",
     "Description": "Исцелите своих персонажей и избавьтесь от сияющих коконов.",
     "FinishReward": {
       "Id": 201,
@@ -17434,6 +17434,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Ходячий замок Држислава",
+    "Description": "Победите сверхтяжёлый сухопутный крейсер: Мобильная крепость, который оказался обездвижен из-за перегрева как минимум 2 раза.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84000,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Важный день",
+    "Description": "В праздники нужно веселиться.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Ночь лунной молитвы",
+    "Description": "Наслаждайтесь последней ночью в подлунном мире.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Между вечностью и мгновением",
+    "Description": "Лунный свет всегда соединяет нас, днём и ночью.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Лунный свет в утреннем тумане",
+    "Description": "Завершите «Лунный свет в утреннем тумане».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Когда поднимешь камень",
+    "Description": "Возможно, там окажутся неожиданные находки.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Будто сон",
+    "Description": "Станьте свидетелем истории, произошедшей здесь в прошлом.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Пересечение путей",
+    "Description": "Когда-то ваши пути пересеклись...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Ноктюрн крайнего севера",
+    "Description": "Завершите «Ноктюрн крайнего севера».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

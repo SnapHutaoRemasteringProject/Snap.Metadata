@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "魔女からの贈り物・迸る蒼雷",
+        "Description": "<color=#FFD780FF>魔女の課題・小狼の群れの題</color>を完了すると、レザーは<color=#FFD780FF>魔導</color>キャラクターとして扱われるようになる。チームに魔導キャラクターを2名以上編成すると、<color=#FFD780FF>魔導秘儀</color>効果が発動し、魔導キャラクターは強化される。\nまた、レザーの元素爆発<color=#FFD780FF>雷牙</color>が強化され、<color=#FFD780FF>雷狼</color>によるダメージがレザーの攻撃力の70%分アップする。\n\n<color=#FFD780FF>魔導秘儀</color>\n元素爆発<color=#FFD780FF>雷牙</color>によって呼び出された雷狼が存在する間、レザーは元素スキル<color=#FFD780FF>鋭い爪と蒼雷</color>によって雷の印を蓄積し、溢れた場合、雷狼は落雷を召喚して近くの敵にレザーの攻撃力の150%分の雷元素範囲ダメージを与え、レザーの元素エネルギーを7ポイント回復する。この効果は1秒毎に1回のみ発動可能。",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "覚醒",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "飢餓",

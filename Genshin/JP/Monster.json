@@ -2,7 +2,6 @@
   {
     "Id": 20010101,
     "DescribeId": 101,
-    "RelationshipId": 101,
     "MonsterName": "Slime_Grass_02",
     "Name": "草スライム",
     "Title": "草スライム",
@@ -47,7 +46,6 @@
   {
     "Id": 20010201,
     "DescribeId": 102,
-    "RelationshipId": 102,
     "MonsterName": "Slime_Grass_03",
     "Name": "大型草スライム",
     "Title": "大型草スライム",
@@ -95,7 +93,6 @@
   {
     "Id": 20010301,
     "DescribeId": 103,
-    "RelationshipId": 103,
     "MonsterName": "Slime_Wind_02",
     "Name": "風スライム",
     "Title": "風スライム",
@@ -140,7 +137,6 @@
   {
     "Id": 20010401,
     "DescribeId": 104,
-    "RelationshipId": 104,
     "MonsterName": "Slime_Wind_03",
     "Name": "大型風スライム",
     "Title": "大型風スライム",
@@ -185,7 +181,6 @@
   {
     "Id": 20010501,
     "DescribeId": 105,
-    "RelationshipId": 105,
     "MonsterName": "Slime_Electric_02",
     "Name": "雷スライム",
     "Title": "雷スライム",
@@ -233,7 +228,6 @@
   {
     "Id": 20010601,
     "DescribeId": 106,
-    "RelationshipId": 106,
     "MonsterName": "Slime_Electric_03",
     "Name": "大型雷スライム",
     "Title": "大型雷スライム",
@@ -281,7 +275,6 @@
   {
     "Id": 20010701,
     "DescribeId": 107,
-    "RelationshipId": 107,
     "MonsterName": "Slime_Electric_03_Positive",
     "Name": "変異雷スライム",
     "Title": "変異雷スライム",
@@ -329,7 +322,6 @@
   {
     "Id": 20010801,
     "DescribeId": 108,
-    "RelationshipId": 108,
     "MonsterName": "Slime_Ice_02",
     "Name": "氷スライム",
     "Title": "氷スライム",
@@ -377,7 +369,6 @@
   {
     "Id": 20010901,
     "DescribeId": 109,
-    "RelationshipId": 109,
     "MonsterName": "Slime_Ice_03",
     "Name": "大型氷スライム",
     "Title": "大型氷スライム",
@@ -425,7 +416,6 @@
   {
     "Id": 20011001,
     "DescribeId": 110,
-    "RelationshipId": 110,
     "MonsterName": "Slime_Water_02",
     "Name": "水スライム",
     "Title": "水スライム",
@@ -470,7 +460,6 @@
   {
     "Id": 20011101,
     "DescribeId": 111,
-    "RelationshipId": 111,
     "MonsterName": "Slime_Water_03",
     "Name": "大型水スライム",
     "Title": "大型水スライム",
@@ -515,7 +504,6 @@
   {
     "Id": 20011201,
     "DescribeId": 112,
-    "RelationshipId": 112,
     "MonsterName": "Slime_Fire_02",
     "Name": "炎スライム",
     "Title": "炎スライム",
@@ -560,7 +548,6 @@
   {
     "Id": 20011301,
     "DescribeId": 113,
-    "RelationshipId": 113,
     "MonsterName": "Slime_Fire_03",
     "Name": "大型炎スライム",
     "Title": "大型炎スライム",
@@ -605,7 +592,6 @@
   {
     "Id": 20011401,
     "DescribeId": 114,
-    "RelationshipId": 114,
     "MonsterName": "Slime_Rock_02",
     "Name": "岩スライム",
     "Title": "岩スライム",
@@ -650,7 +636,6 @@
   {
     "Id": 20011501,
     "DescribeId": 115,
-    "RelationshipId": 115,
     "MonsterName": "Slime_Rock_03",
     "Name": "大型岩スライム",
     "Title": "大型岩スライム",
@@ -695,7 +680,6 @@
   {
     "Id": 0,
     "DescribeId": 116,
-    "RelationshipId": 116,
     "Name": "無相の水·召喚物",
     "Title": "大型水スライム",
     "Icon": "UI_MonsterIcon_Slime_Fire_02",
@@ -705,7 +689,6 @@
   {
     "Id": 0,
     "DescribeId": 117,
-    "RelationshipId": 117,
     "Name": "無相の水·召喚物",
     "Title": "大型水スライム",
     "Icon": "UI_MonsterIcon_Slime_Fire_03",
@@ -715,7 +698,6 @@
   {
     "Id": 0,
     "DescribeId": 118,
-    "RelationshipId": 118,
     "Name": "無相の水·召喚物",
     "Title": "大型水スライム",
     "Icon": "UI_MonsterIcon_Slime_Rock_02",
@@ -725,7 +707,6 @@
   {
     "Id": 0,
     "DescribeId": 119,
-    "RelationshipId": 119,
     "Name": "無相の水·召喚物",
     "Title": "大型水スライム",
     "Icon": "UI_MonsterIcon_Slime_Rock_03",
@@ -735,7 +716,6 @@
   {
     "Id": 20020101,
     "DescribeId": 201,
-    "RelationshipId": 201,
     "MonsterName": "Elemental_Wind_01",
     "Name": "狂風のコア",
     "Title": "狂風のコア",
@@ -777,7 +757,6 @@
   {
     "Id": 20040101,
     "DescribeId": 401,
-    "RelationshipId": 401,
     "MonsterName": "Effigy_Electric_01",
     "Name": "無相の雷",
     "Title": "無相の雷",
@@ -841,7 +820,6 @@
   {
     "Id": 20040201,
     "DescribeId": 402,
-    "RelationshipId": 402,
     "MonsterName": "Effigy_Wind_01",
     "Name": "無相の風",
     "Title": "無相の風",
@@ -902,7 +880,6 @@
   {
     "Id": 20040301,
     "DescribeId": 403,
-    "RelationshipId": 403,
     "MonsterName": "Effigy_Rock_01",
     "Name": "無相の岩",
     "Title": "無相の岩",
@@ -963,7 +940,6 @@
   {
     "Id": 20040401,
     "DescribeId": 404,
-    "RelationshipId": 404,
     "MonsterName": "Effigy_Water_01",
     "Name": "無相の水",
     "Title": "無相の水",
@@ -1023,7 +999,6 @@
   {
     "Id": 20040501,
     "DescribeId": 405,
-    "RelationshipId": 405,
     "MonsterName": "Effigy_Ice_01",
     "Name": "無相の氷",
     "Title": "無相の氷",
@@ -1083,7 +1058,6 @@
   {
     "Id": 20040601,
     "DescribeId": 406,
-    "RelationshipId": 406,
     "MonsterName": "Effigy_Fire_01",
     "Name": "無相の炎",
     "Title": "無相の炎",
@@ -1143,7 +1117,6 @@
   {
     "Id": 20040701,
     "DescribeId": 407,
-    "RelationshipId": 407,
     "MonsterName": "Effigy_Grass_01",
     "Name": "無相の草",
     "Title": "無相の草",
@@ -1201,7 +1174,6 @@
   {
     "Id": 20050101,
     "DescribeId": 501,
-    "RelationshipId": 501,
     "MonsterName": "Monster_Oceanid",
     "Name": "純水精霊",
     "Title": "此処の浄水の主",
@@ -1264,7 +1236,6 @@
   {
     "Id": 0,
     "DescribeId": 502,
-    "RelationshipId": 502,
     "Name": "幻形イノシシ·水",
     "Title": "幻形イノシシ·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1274,7 +1245,6 @@
   {
     "Id": 0,
     "DescribeId": 503,
-    "RelationshipId": 503,
     "Name": "幻形ツル·水",
     "Title": "幻形ツル·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1284,7 +1254,6 @@
   {
     "Id": 0,
     "DescribeId": 504,
-    "RelationshipId": 504,
     "Name": "幻形カニ·水",
     "Title": "幻形カニ·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1294,7 +1263,6 @@
   {
     "Id": 0,
     "DescribeId": 505,
-    "RelationshipId": 505,
     "Name": "幻形スズメ·水",
     "Title": "幻形スズメ·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1304,7 +1272,6 @@
   {
     "Id": 0,
     "DescribeId": 506,
-    "RelationshipId": 506,
     "Name": "幻形アヒル·水",
     "Title": "幻形アヒル·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1314,7 +1281,6 @@
   {
     "Id": 0,
     "DescribeId": 507,
-    "RelationshipId": 507,
     "Name": "幻形リス·水",
     "Title": "幻形リス·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1324,7 +1290,6 @@
   {
     "Id": 0,
     "DescribeId": 508,
-    "RelationshipId": 508,
     "Name": "幻形カエル·水",
     "Title": "幻形カエル·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1334,7 +1299,6 @@
   {
     "Id": 0,
     "DescribeId": 509,
-    "RelationshipId": 509,
     "Name": "幻形トビ·水",
     "Title": "幻形トビ·水",
     "Icon": "UI_MonsterIcon_Oceanid_Underling",
@@ -1344,7 +1308,6 @@
   {
     "Id": 20051001,
     "DescribeId": 510,
-    "RelationshipId": 510,
     "MonsterName": "Monster_Necalevia_Normal_01",
     "Name": "濁水粉砕の幻霊",
     "Title": "濁水粉砕の幻霊",
@@ -1396,7 +1359,6 @@
   {
     "Id": 20051101,
     "DescribeId": 511,
-    "RelationshipId": 511,
     "MonsterName": "Monster_Necalevia_Big_01",
     "Name": "濁水噴出の幻霊",
     "Title": "濁水噴出の幻霊",
@@ -1448,7 +1410,6 @@
   {
     "Id": 20051201,
     "DescribeId": 512,
-    "RelationshipId": 512,
     "MonsterName": "Monster_Narcissusborn_Normal_01",
     "Name": "水形タルパ",
     "Title": "水形タルパ",
@@ -1508,7 +1469,6 @@
   {
     "Id": 0,
     "DescribeId": 513,
-    "RelationshipId": 513,
     "Name": "未熟な水形タルパ",
     "Title": "幻形トビ·水",
     "Icon": "",
@@ -1521,7 +1481,6 @@
   {
     "Id": 0,
     "DescribeId": 514,
-    "RelationshipId": 514,
     "Name": "百戦錬磨の濁水粉砕の幻霊",
     "Title": "濁水粉砕の幻霊",
     "Icon": "UI_MonsterIcon_Necalevia_Normal",
@@ -1531,7 +1490,6 @@
   {
     "Id": 0,
     "DescribeId": 515,
-    "RelationshipId": 515,
     "Name": "百戦錬磨の濁水噴出の幻霊",
     "Title": "濁水噴出の幻霊",
     "Icon": "UI_MonsterIcon_Necalevia_Big",
@@ -1541,7 +1499,6 @@
   {
     "Id": 0,
     "DescribeId": 516,
-    "RelationshipId": 516,
     "Name": "水形タルパ",
     "Title": "幻形トビ·水",
     "Icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
@@ -1551,7 +1508,6 @@
   {
     "Id": 20060101,
     "DescribeId": 601,
-    "RelationshipId": 601,
     "MonsterName": "Sylph_Water_01",
     "Name": "水フライム",
     "Title": "水フライム",
@@ -1596,7 +1552,6 @@
   {
     "Id": 20060201,
     "DescribeId": 602,
-    "RelationshipId": 602,
     "MonsterName": "Sylph_Rock_01",
     "Name": "岩フライム",
     "Title": "岩フライム",
@@ -1641,7 +1596,6 @@
   {
     "Id": 20060301,
     "DescribeId": 603,
-    "RelationshipId": 603,
     "MonsterName": "Sylph_Wind_01",
     "Name": "風フライム",
     "Title": "風フライム",
@@ -1686,7 +1640,6 @@
   {
     "Id": 20060401,
     "DescribeId": 604,
-    "RelationshipId": 604,
     "MonsterName": "Sylph_Ice_01",
     "Name": "氷フライム",
     "Title": "氷フライム",
@@ -1725,7 +1678,6 @@
   {
     "Id": 20060501,
     "DescribeId": 605,
-    "RelationshipId": 605,
     "MonsterName": "Sylph_Electric_01",
     "Name": "雷フライム",
     "Title": "雷フライム",
@@ -1764,7 +1716,6 @@
   {
     "Id": 20060601,
     "DescribeId": 606,
-    "RelationshipId": 606,
     "MonsterName": "Sylph_Fire_01",
     "Name": "炎フライム",
     "Title": "炎フライム",
@@ -1803,7 +1754,6 @@
   {
     "Id": 20060701,
     "DescribeId": 607,
-    "RelationshipId": 607,
     "MonsterName": "Sylph_Grass_01",
     "Name": "草フライム",
     "Title": "草フライム",
@@ -1848,7 +1798,6 @@
   {
     "Id": 20070101,
     "DescribeId": 701,
-    "RelationshipId": 701,
     "MonsterName": "Monster_Raijin_01",
     "Name": "雷音権現",
     "Title": "雷音権現",
@@ -1908,7 +1857,6 @@
   {
     "Id": 20080101,
     "DescribeId": 801,
-    "RelationshipId": 801,
     "MonsterName": "Monster_Moonbeast_Electric_01",
     "Name": "輝電・霜夜の継霊者",
     "Title": "霜夜の継霊者",
@@ -1960,7 +1908,6 @@
   {
     "Id": 20080201,
     "DescribeId": 802,
-    "RelationshipId": 802,
     "MonsterName": "Monster_Moonbeast_Grass_01",
     "Name": "蔓草・霜夜の継霊者",
     "Title": "霜夜の継霊者",
@@ -2012,7 +1959,6 @@
   {
     "Id": 20080301,
     "DescribeId": 803,
-    "RelationshipId": 803,
     "MonsterName": "Monster_Moonbeast_Fire_01",
     "Name": "灼熱・霜夜の継霊者",
     "Title": "霜夜の継霊者",
@@ -2064,7 +2010,6 @@
   {
     "Id": 20080401,
     "DescribeId": 804,
-    "RelationshipId": 804,
     "MonsterName": "Monster_Moonbeast_Ice_01",
     "Name": "氷晶・霜夜の継霊者",
     "Title": "霜夜の継霊者",
@@ -2116,11 +2061,10 @@
   {
     "Id": 20081001,
     "DescribeId": 810,
-    "RelationshipId": 810,
     "MonsterName": "Monster_HerraFrost_01",
     "Name": "霜夜の空を巡る霊主",
     "Title": "聖光の庇護",
-    "Description": "月光の残輝の中を巡行する高慢な生き物――今は高天の主によって飼い慣らされた古の力を使役している。\n伝説によれば、これらの優雅な霊獣は霜月がまだ壊れていなかった時代に生まれ、また神の使いの偏愛により天光に染まることがなかったのだという。今日に至っても、霜月の追随者たちの間でさえ、これらの霊獣はこの世に存在しない聖獣として見なされており、月光の秘密の径を通って世界の外に姿を隠したと言われている。しかし、過去数百年と同じように、彼らは今なお月影の中を歩み、二つの世界の境界を巡りながら、災厄に狙われたこの地とそこに住む人々を守り続けている――それは、彼らがかつて黄金の街の聖徒に立てた誓いなのである。",
+    "Description": "月光の残輝の中を巡行する高慢な生き物——今は高天の主によって飼い慣らされた古の力を使役している。\n伝説によれば、これらの優雅な霊獣は霜月がまだ流転していた時代に生まれ、また神の使いの偏愛により天光に染まることがなかったのだという。今日に至っても、霜月の追随者たちの間でさえ、これらの霊獣はこの世に存在しない聖獣として見なされており、月光の秘密の径を通って世界の外に姿を隠したと言われている。しかし、過去数百年と同じように、彼らは今なお月影の中を歩み、二つの世界の境界を巡りながら、災厄に狙われたこの地とそこに住む人々を守り続けている——それは、彼らがかつて黄金の街の聖徒に立てた誓いなのである。",
     "Icon": "UI_MonsterIcon_HerraFrost",
     "Type": 2,
     "Arkhe": 0,
@@ -2180,7 +2124,6 @@
   {
     "Id": 0,
     "DescribeId": 811,
-    "RelationshipId": 811,
     "Name": "霜夜の空を巡る霊主",
     "Title": "聖光の庇護",
     "Icon": "UI_MonsterIcon_HerraFrost",
@@ -2190,7 +2133,6 @@
   {
     "Id": 21010101,
     "DescribeId": 10101,
-    "RelationshipId": 10101,
     "MonsterName": "Hili_None_01",
     "Name": "ヒルチャール",
     "Title": "ヒルチャール",
@@ -2235,7 +2177,6 @@
   {
     "Id": 21010201,
     "DescribeId": 10102,
-    "RelationshipId": 10102,
     "MonsterName": "Hili_None_01_Club",
     "Name": "ヒルチャール·戦士",
     "Title": "ヒルチャール",
@@ -2280,7 +2221,6 @@
   {
     "Id": 21010301,
     "DescribeId": 10103,
-    "RelationshipId": 10103,
     "MonsterName": "Hili_None_01_Shield",
     "Name": "ヒルチャール·木盾",
     "Title": "ヒルチャール",
@@ -2325,7 +2265,6 @@
   {
     "Id": 21010401,
     "DescribeId": 10104,
-    "RelationshipId": 10104,
     "MonsterName": "Hili_None_01_Range",
     "Name": "ヒルチャール·射手",
     "Title": "ヒルチャール·射手",
@@ -2373,7 +2312,6 @@
   {
     "Id": 21010501,
     "DescribeId": 10105,
-    "RelationshipId": 10105,
     "MonsterName": "Hili_Fire_Range",
     "Name": "ヒルチャール·炎矢",
     "Title": "ヒルチャール·射手",
@@ -2424,7 +2362,6 @@
   {
     "Id": 21010601,
     "DescribeId": 10106,
-    "RelationshipId": 10106,
     "MonsterName": "Hili_Fire_Bomb",
     "Name": "ヒルチャール·爆弾",
     "Title": "ヒルチャール",
@@ -2472,7 +2409,6 @@
   {
     "Id": 21010701,
     "DescribeId": 10107,
-    "RelationshipId": 10107,
     "MonsterName": "Hili_Fire_Rush",
     "Name": "ヒルチャール·突進",
     "Title": "ヒルチャール",
@@ -2520,7 +2456,6 @@
   {
     "Id": 21010901,
     "DescribeId": 10109,
-    "RelationshipId": 10109,
     "MonsterName": "Hili_Ice_Range",
     "Name": "ヒルチャール·氷矢",
     "Title": "ヒルチャール·射手",
@@ -2568,7 +2503,6 @@
   {
     "Id": 21011001,
     "DescribeId": 10110,
-    "RelationshipId": 10110,
     "MonsterName": "Hili_Electric_Range",
     "Name": "ヒルチャール·雷矢",
     "Title": "ヒルチャール·射手",
@@ -2616,7 +2550,6 @@
   {
     "Id": 21011201,
     "DescribeId": 10112,
-    "RelationshipId": 10112,
     "MonsterName": "Hili_None_01_RockShield",
     "Name": "ヒルチャール·岩盾",
     "Title": "ヒルチャール",
@@ -2661,7 +2594,6 @@
   {
     "Id": 21011301,
     "DescribeId": 10113,
-    "RelationshipId": 10113,
     "MonsterName": "Hili_Ice_Bomb",
     "Name": "ヒルチャール·氷弾",
     "Title": "ヒルチャール",
@@ -2706,7 +2638,6 @@
   {
     "Id": 21011401,
     "DescribeId": 10114,
-    "RelationshipId": 10114,
     "MonsterName": "Hili_Ice_IceShield",
     "Name": "ヒルチャール·氷盾",
     "Title": "ヒルチャール",
@@ -2751,7 +2682,6 @@
   {
     "Id": 21011501,
     "DescribeId": 10115,
-    "RelationshipId": 10115,
     "MonsterName": "Hili_Wei_NoWeapon_01",
     "Name": "変わったヒルチャール",
     "Title": "変わったヒルチャール",
@@ -2790,7 +2720,6 @@
   {
     "Id": 21011601,
     "DescribeId": 10116,
-    "RelationshipId": 10116,
     "MonsterName": "Hili_Electric_Bomb",
     "Name": "ヒルチャール·雷弾",
     "Title": "ヒルチャール",
@@ -2829,7 +2758,6 @@
   {
     "Id": 21020101,
     "DescribeId": 10201,
-    "RelationshipId": 10201,
     "MonsterName": "Brute_None_Shield",
     "Name": "ヒルチャール暴徒·木盾",
     "Title": "ヒルチャール暴徒·木盾",
@@ -2884,7 +2812,6 @@
   {
     "Id": 21020201,
     "DescribeId": 10202,
-    "RelationshipId": 10202,
     "MonsterName": "Brute_None_Axe",
     "Name": "ヒルチャール暴徒·炎斧",
     "Title": "ヒルチャール暴徒·炎斧",
@@ -2942,7 +2869,6 @@
   {
     "Id": 21020301,
     "DescribeId": 10203,
-    "RelationshipId": 10203,
     "MonsterName": "Brute_None_RockShield",
     "Name": "ヒルチャール暴徒·岩盾",
     "Title": "ヒルチャール暴徒·岩盾",
@@ -2997,7 +2923,6 @@
   {
     "Id": 21020401,
     "DescribeId": 10204,
-    "RelationshipId": 10204,
     "MonsterName": "Brute_Ice_None",
     "Name": "ヒルチャール·霜鎧の王",
     "Title": "ヒルチャール·霜鎧の王",
@@ -3052,7 +2977,6 @@
   {
     "Id": 21020501,
     "DescribeId": 10205,
-    "RelationshipId": 10205,
     "MonsterName": "Brute_Rock_None",
     "Name": "ヒルチャール·岩兜の王",
     "Title": "ヒルチャール·岩兜の王",
@@ -3107,7 +3031,6 @@
   {
     "Id": 21020601,
     "DescribeId": 10206,
-    "RelationshipId": 10206,
     "MonsterName": "Brute_Ice_Shield",
     "Name": "ヒルチャール暴徒·氷盾",
     "Title": "ヒルチャール暴徒·氷盾",
@@ -3162,7 +3085,6 @@
   {
     "Id": 21020701,
     "DescribeId": 10207,
-    "RelationshipId": 10207,
     "MonsterName": "Brute_Electric_Axe",
     "Name": "ヒルチャール暴徒·雷斧",
     "Title": "ヒルチャール暴徒·雷斧",
@@ -3201,7 +3123,6 @@
   {
     "Id": 21020801,
     "DescribeId": 10208,
-    "RelationshipId": 10208,
     "MonsterName": "Brute_Electric_None",
     "Name": "ヒルチャール·雷兜の王",
     "Title": "ヒルチャール·雷兜の王",
@@ -3240,7 +3161,6 @@
   {
     "Id": 21030101,
     "DescribeId": 10301,
-    "RelationshipId": 10301,
     "MonsterName": "Shaman_Water_01",
     "Name": "ヒルチャールシャーマン·水",
     "Title": "ヒルチャールシャーマン·水",
@@ -3288,7 +3208,6 @@
   {
     "Id": 21030201,
     "DescribeId": 10302,
-    "RelationshipId": 10302,
     "MonsterName": "Shaman_Grass_01",
     "Name": "ヒルチャールシャーマン·草",
     "Title": "ヒルチャールシャーマン·草",
@@ -3336,7 +3255,6 @@
   {
     "Id": 21030301,
     "DescribeId": 10303,
-    "RelationshipId": 10303,
     "MonsterName": "Shaman_Wind_01",
     "Name": "ヒルチャールシャーマン·風",
     "Title": "ヒルチャールシャーマン·風",
@@ -3384,7 +3302,6 @@
   {
     "Id": 21030401,
     "DescribeId": 10304,
-    "RelationshipId": 10304,
     "MonsterName": "Shaman_Rock_01",
     "Name": "ヒルチャールシャーマン·岩",
     "Title": "ヒルチャールシャーマン·岩",
@@ -3432,7 +3349,6 @@
   {
     "Id": 21030501,
     "DescribeId": 10305,
-    "RelationshipId": 10305,
     "MonsterName": "Shaman_Ice_01",
     "Name": "ヒルチャールシャーマン·氷",
     "Title": "ヒルチャールシャーマン·氷",
@@ -3480,7 +3396,6 @@
   {
     "Id": 21030601,
     "DescribeId": 10306,
-    "RelationshipId": 10306,
     "MonsterName": "Shaman_Electric_01",
     "Name": "ヒルチャールシャーマン·雷",
     "Title": "ヒルチャールシャーマン·雷",
@@ -3488,6 +3403,15 @@
     "Icon": "UI_MonsterIcon_Shaman_Electric_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112010,
+      112009,
+      112008,
+      112007,
+      112006,
+      112005
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 50.24,
@@ -3519,7 +3443,7 @@
   {
     "Id": 0,
     "DescribeId": 10307,
-    "RelationshipId": 10307,
+    "Name": "ナゾのデカチャール",
     "Title": "秘境に迷い込んだ悟りシャーマン？",
     "Icon": "",
     "Type": 0,
@@ -3528,7 +3452,6 @@
   {
     "Id": 21040101,
     "DescribeId": 10401,
-    "RelationshipId": 10401,
     "MonsterName": "Hilistray_Wind_01",
     "Name": "ヒルチャールレンジャー·風",
     "Title": "ヒルチャールレンジャー·風",
@@ -3580,7 +3503,6 @@
   {
     "Id": 21040201,
     "DescribeId": 10402,
-    "RelationshipId": 10402,
     "MonsterName": "Hilistray_Water_01",
     "Name": "ヒルチャールレンジャー·水",
     "Title": "ヒルチャールレンジャー·水",
@@ -3632,7 +3554,6 @@
   {
     "Id": 22010101,
     "DescribeId": 20101,
-    "RelationshipId": 20101,
     "MonsterName": "Abyss_Fire_01",
     "Name": "アビスの魔術師·炎",
     "Title": "炎の詠唱者",
@@ -3687,7 +3608,6 @@
   {
     "Id": 22010201,
     "DescribeId": 20102,
-    "RelationshipId": 20102,
     "MonsterName": "Abyss_Ice_01",
     "Name": "アビスの魔術師·氷",
     "Title": "氷の詠唱者",
@@ -3742,7 +3662,6 @@
   {
     "Id": 22010301,
     "DescribeId": 20103,
-    "RelationshipId": 20103,
     "MonsterName": "Abyss_Water_01",
     "Name": "アビスの魔術師·水",
     "Title": "水の詠唱者",
@@ -3794,7 +3713,6 @@
   {
     "Id": 22010401,
     "DescribeId": 20104,
-    "RelationshipId": 20104,
     "MonsterName": "Abyss_Electric_01",
     "Name": "アビスの魔術師·雷",
     "Title": "雷の詠唱者",
@@ -3833,7 +3751,6 @@
   {
     "Id": 22020101,
     "DescribeId": 20201,
-    "RelationshipId": 20201,
     "MonsterName": "Invoker_Herald_Water_01",
     "Name": "アビスの使徒·激流",
     "Title": "激流を操る漆黒の前兆",
@@ -3875,7 +3792,6 @@
   {
     "Id": 22020201,
     "DescribeId": 20202,
-    "RelationshipId": 20202,
     "MonsterName": "Invoker_Herald_Ice_01",
     "Name": "アビスの使徒·落霜",
     "Title": "刃に氷を纏いし守秘勅使",
@@ -3918,7 +3834,6 @@
   {
     "Id": 22030101,
     "DescribeId": 20301,
-    "RelationshipId": 20301,
     "MonsterName": "Invoker_Deacon_Electric_01",
     "Name": "アビスの詠唱者·紫電",
     "Title": "紫電を下す信仰の使者",
@@ -3960,7 +3875,6 @@
   {
     "Id": 22030201,
     "DescribeId": 20302,
-    "RelationshipId": 20302,
     "MonsterName": "Invoker_Deacon_Fire_01",
     "Name": "アビスの詠唱者·淵炎",
     "Title": "漆黒の身喰らう炎",
@@ -4002,7 +3916,6 @@
   {
     "Id": 22040101,
     "DescribeId": 20401,
-    "RelationshipId": 20401,
     "MonsterName": "Hound_Kanis_Rock_01",
     "Name": "獣域ウェルプ·岩",
     "Title": "獣域ウェルプ",
@@ -4054,7 +3967,6 @@
   {
     "Id": 22040201,
     "DescribeId": 20402,
-    "RelationshipId": 20402,
     "MonsterName": "Hound_Kanis_Electric_01",
     "Name": "獣域ウェルプ·雷",
     "Title": "獣域ウェルプ",
@@ -4106,7 +4018,6 @@
   {
     "Id": 22050101,
     "DescribeId": 20501,
-    "RelationshipId": 20501,
     "MonsterName": "Hound_Riftstalker_Rock_01",
     "Name": "獣域ハウンド·岩",
     "Title": "獣域ハウンド",
@@ -4158,7 +4069,6 @@
   {
     "Id": 22050201,
     "DescribeId": 20502,
-    "RelationshipId": 20502,
     "MonsterName": "Hound_Riftstalker_Electric_01",
     "Name": "獣域ハウンド·雷",
     "Title": "獣域ハウンド",
@@ -4210,7 +4120,6 @@
   {
     "Id": 22060101,
     "DescribeId": 20601,
-    "RelationshipId": 20601,
     "MonsterName": "Monster_Hound_Planelurker_01",
     "Name": "黄金王獣",
     "Title": "黄金王獣",
@@ -4268,7 +4177,6 @@
   {
     "Id": 22070101,
     "DescribeId": 20701,
-    "RelationshipId": 20701,
     "MonsterName": "ForlornVessel_Strong_Warbanner_Fire_01",
     "Name": "シャドウハスク·旗令",
     "Title": "黒蛇騎士の終末",
@@ -4320,7 +4228,6 @@
   {
     "Id": 22070201,
     "DescribeId": 20702,
-    "RelationshipId": 20702,
     "MonsterName": "ForlornVessel_Strong_Lance_Water_01",
     "Name": "シャドウハスク·破陣",
     "Title": "黒蛇騎士の終末",
@@ -4372,7 +4279,6 @@
   {
     "Id": 22070301,
     "DescribeId": 20703,
-    "RelationshipId": 20703,
     "MonsterName": "ForlornVessel_Strong_Chargebow_Ice_01",
     "Name": "シャドウハスク·守衛",
     "Title": "黒蛇騎士の終末",
@@ -4424,7 +4330,6 @@
   {
     "Id": 22080101,
     "DescribeId": 20801,
-    "RelationshipId": 20801,
     "MonsterName": "Darkwraith_Strong_Wind_01",
     "Name": "黒蛇騎士·斬風の剣",
     "Title": "「かつてはそよ風を駆けた…」",
@@ -4463,7 +4368,6 @@
   {
     "Id": 22080201,
     "DescribeId": 20802,
-    "RelationshipId": 20802,
     "MonsterName": "Darkwraith_Fat_Rock_01",
     "Name": "黒蛇騎士·砕岩の斧",
     "Title": "「かつて、黒水の奔流を遮った磐石の如く…」",
@@ -4502,7 +4406,6 @@
   {
     "Id": 0,
     "DescribeId": 20901,
-    "RelationshipId": 20901,
     "Icon": "UI_MonsterIcon_Darkwraith_Strong_Wind",
     "Type": 0,
     "Arkhe": 0
@@ -4510,7 +4413,6 @@
   {
     "Id": 0,
     "DescribeId": 21001,
-    "RelationshipId": 21001,
     "Name": "深罪の浸礼者·炎氷雷の使い手",
     "Title": "深罪の浸礼者",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4523,7 +4425,6 @@
   {
     "Id": 0,
     "DescribeId": 21002,
-    "RelationshipId": 21002,
     "Name": "深罪の浸礼者·水炎氷の導き手",
     "Title": "深罪の浸礼者",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4536,7 +4437,6 @@
   {
     "Id": 0,
     "DescribeId": 21003,
-    "RelationshipId": 21003,
     "Name": "深罪の浸礼者·水炎雷の命じ手",
     "Title": "深罪の浸礼者",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4549,7 +4449,6 @@
   {
     "Id": 0,
     "DescribeId": 21004,
-    "RelationshipId": 21004,
     "Name": "深罪の浸礼者·水氷雷の喚び手",
     "Title": "深罪の浸礼者",
     "Icon": "UI_MonsterIcon_Invoker_Archdeacon",
@@ -4562,7 +4461,6 @@
   {
     "Id": 22100501,
     "DescribeId": 21005,
-    "RelationshipId": 21005,
     "MonsterName": "Invoker_Archdeacon_01",
     "Name": "深罪の浸礼者",
     "Title": "深罪の浸礼者",
@@ -4604,7 +4502,6 @@
   {
     "Id": 22110101,
     "DescribeId": 21101,
-    "RelationshipId": 21101,
     "MonsterName": "Ovacua_Order_01",
     "Name": "大型瓦礫ブリーチャープリムス",
     "Title": "大型瓦礫ブリーチャープリムス",
@@ -4656,7 +4553,6 @@
   {
     "Id": 22110201,
     "DescribeId": 21102,
-    "RelationshipId": 21102,
     "MonsterName": "Ovacua_Order_02",
     "Name": "瓦礫ブリーチャープリムス",
     "Title": "瓦礫ブリーチャープリムス",
@@ -4708,7 +4604,6 @@
   {
     "Id": 22110301,
     "DescribeId": 21103,
-    "RelationshipId": 21103,
     "MonsterName": "Ovacua_Chaos_01",
     "Name": "大型狂蔓ブリーチャープリムス",
     "Title": "大型狂蔓ブリーチャープリムス",
@@ -4760,7 +4655,6 @@
   {
     "Id": 0,
     "DescribeId": 21104,
-    "RelationshipId": 21104,
     "Name": "狂蔓ブリーチャープリムス",
     "Title": "狂蔓ブリーチャープリムス",
     "Icon": "UI_MonsterIcon_Ovacua_Chaos_02",
@@ -4770,7 +4664,6 @@
   {
     "Id": 22120101,
     "DescribeId": 21201,
-    "RelationshipId": 21201,
     "MonsterName": "TheAbyss_Dendrite_01",
     "Name": "深遠なるミミックパピラ・I型",
     "Title": "深遠なるミミックパピラ",
@@ -4841,7 +4734,6 @@
   {
     "Id": 22120201,
     "DescribeId": 21202,
-    "RelationshipId": 21202,
     "MonsterName": "TheAbyss_Rhizome_01",
     "Name": "深遠なるミミックフローラ",
     "Title": "深遠なるミミックフローラ",
@@ -4849,6 +4741,9 @@
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
     "Type": 1,
     "Arkhe": 0,
+    "Affixes": [
+      "常规次数盾怪物通用"
+    ],
     "BaseValue": {
       "HpBase": 46.1856,
       "AttackBase": 37.68,
@@ -4880,7 +4775,6 @@
   {
     "Id": 0,
     "DescribeId": 21203,
-    "RelationshipId": 21203,
     "Name": "深遠擬態・遺跡守衛",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4890,7 +4784,6 @@
   {
     "Id": 0,
     "DescribeId": 21204,
-    "RelationshipId": 21204,
     "Name": "深遠擬態・ヒルチャールレンジャー・風",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4900,7 +4793,6 @@
   {
     "Id": 0,
     "DescribeId": 21205,
-    "RelationshipId": 21205,
     "Name": "深遠擬態・秘源機兵・ハンターシーカー",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4910,7 +4802,6 @@
   {
     "Id": 0,
     "DescribeId": 21206,
-    "RelationshipId": 21206,
     "Name": "深遠擬態・ヒルチャール暴徒・雷斧",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4920,7 +4811,6 @@
   {
     "Id": 0,
     "DescribeId": 21207,
-    "RelationshipId": 21207,
     "Name": "深遠擬態・テペトル竜",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4930,7 +4820,6 @@
   {
     "Id": 0,
     "DescribeId": 21208,
-    "RelationshipId": 21208,
     "Name": "深遠擬態・コホラ竜",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4940,7 +4829,6 @@
   {
     "Id": 0,
     "DescribeId": 21209,
-    "RelationshipId": 21209,
     "Name": "深遠擬態・ユムカ竜",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4950,7 +4838,6 @@
   {
     "Id": 0,
     "DescribeId": 21210,
-    "RelationshipId": 21210,
     "Name": "深遠擬態・テペトル竜戦士・砕晶のハンマー",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4960,7 +4847,6 @@
   {
     "Id": 0,
     "DescribeId": 21211,
-    "RelationshipId": 21211,
     "Name": "深遠擬態・テペトル竜戦士・砕岩のブレード",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4970,7 +4856,6 @@
   {
     "Id": 0,
     "DescribeId": 21212,
-    "RelationshipId": 21212,
     "Name": "深遠擬態・ユムカ竜戦士・鳴空の大砲",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4980,7 +4865,6 @@
   {
     "Id": 0,
     "DescribeId": 21213,
-    "RelationshipId": 21213,
     "Name": "深遠擬態・クク竜戦士・鍛冶の槌",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -4990,7 +4874,6 @@
   {
     "Id": 0,
     "DescribeId": 21214,
-    "RelationshipId": 21214,
     "Name": "深遠擬態・クク竜戦士・蒼天の焔",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5000,7 +4883,6 @@
   {
     "Id": 0,
     "DescribeId": 21215,
-    "RelationshipId": 21215,
     "Name": "深遠擬態・イクトミ竜戦士・寒流を運ぶ者",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5010,7 +4892,6 @@
   {
     "Id": 0,
     "DescribeId": 21216,
-    "RelationshipId": 21216,
     "Name": "深遠なるミミックパピラ・II型",
     "Title": "深遠なるミミックパピラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Dendrite",
@@ -5020,7 +4901,6 @@
   {
     "Id": 0,
     "DescribeId": 21217,
-    "RelationshipId": 21217,
     "Name": "深遠なるミミックパピラ・III型",
     "Title": "深遠なるミミックパピラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Dendrite",
@@ -5030,7 +4910,6 @@
   {
     "Id": 0,
     "DescribeId": 21218,
-    "RelationshipId": 21218,
     "Name": "深遠擬態・ベビーヴィシャップ・岩",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5040,7 +4919,6 @@
   {
     "Id": 0,
     "DescribeId": 21219,
-    "RelationshipId": 21219,
     "Name": "深遠擬態・ライノ竜",
     "Title": "深遠なるミミックフローラ",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
@@ -5050,7 +4928,6 @@
   {
     "Id": 22130001,
     "DescribeId": 21300,
-    "RelationshipId": 21300,
     "MonsterName": "Monster_WildHunt_Female_01",
     "Name": "ワイルド・ワンダラー",
     "Title": "ワイルドハントの影",
@@ -5102,7 +4979,6 @@
   {
     "Id": 0,
     "DescribeId": 21301,
-    "RelationshipId": 21301,
     "Name": "ワイルド・ワンダラー",
     "Title": "ワイルドハントの影",
     "Icon": "UI_MonsterIcon_WildHunt",
@@ -5112,7 +4988,6 @@
   {
     "Id": 0,
     "DescribeId": 21302,
-    "RelationshipId": 21302,
     "Name": "ワイルド・ワンダラー",
     "Title": "ワイルドハントの影",
     "Icon": "UI_MonsterIcon_WildHunt",
@@ -5122,7 +4997,6 @@
   {
     "Id": 22131001,
     "DescribeId": 21310,
-    "RelationshipId": 21310,
     "MonsterName": "Monster_WildHunt_Elite_01",
     "Name": "ワイルド・マッドウォーリアー",
     "Title": "ワイルドハントの影",
@@ -5174,7 +5048,6 @@
   {
     "Id": 0,
     "DescribeId": 21320,
-    "RelationshipId": 21320,
     "Name": "百戦錬磨のライトキーパー",
     "Title": "百戦錬磨のライトキーパー",
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
@@ -5184,7 +5057,6 @@
   {
     "Id": 23010101,
     "DescribeId": 30101,
-    "RelationshipId": 30101,
     "MonsterName": "Skirmisher_Male_Fat_SprayGun_Ice_01",
     "Name": "ファデュイ先遣隊·重衛士·氷銃",
     "Title": "先遣隊·重衛士·氷銃",
@@ -5229,7 +5101,6 @@
   {
     "Id": 23010201,
     "DescribeId": 30102,
-    "RelationshipId": 30102,
     "MonsterName": "Skirmisher_Male_Fat_SprayGun_Water_01",
     "Name": "ファデュイ先遣隊·重衛士·水銃",
     "Title": "先遣隊·重衛士·水銃",
@@ -5274,7 +5145,6 @@
   {
     "Id": 23010301,
     "DescribeId": 30103,
-    "RelationshipId": 30103,
     "MonsterName": "Skirmisher_Male_Strong_GreatHammer_Electric_01",
     "Name": "ファデュイ先遣隊·前鋒軍·雷ハンマー",
     "Title": "先遣隊·前鋒軍·雷ハンマー",
@@ -5319,7 +5189,6 @@
   {
     "Id": 23010401,
     "DescribeId": 30104,
-    "RelationshipId": 30104,
     "MonsterName": "Skirmisher_Male_Standard_Staff_Rock_01",
     "Name": "ファデュイ先遣隊·遊撃兵·岩使い",
     "Title": "先遣隊·遊撃兵·岩使い",
@@ -5364,7 +5233,6 @@
   {
     "Id": 23010501,
     "DescribeId": 30105,
-    "RelationshipId": 30105,
     "MonsterName": "Skirmisher_Male_Strong_Gloves_Wind_01",
     "Name": "ファデュイ先遣隊·前鋒軍·風拳",
     "Title": "先遣隊·前鋒軍·風拳",
@@ -5409,7 +5277,6 @@
   {
     "Id": 23010601,
     "DescribeId": 30106,
-    "RelationshipId": 30106,
     "MonsterName": "Skirmisher_Male_Standard_Rifle_Fire_01",
     "Name": "ファデュイ先遣隊·遊撃兵·炎銃",
     "Title": "先遣隊·遊撃兵·炎銃",
@@ -5454,7 +5321,6 @@
   {
     "Id": 0,
     "DescribeId": 30111,
-    "RelationshipId": 30111,
     "Name": "百戦錬磨のファデュイ先遣隊·重衛士·氷銃",
     "Title": "先遣隊·重衛士·氷銃",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
@@ -5464,7 +5330,6 @@
   {
     "Id": 0,
     "DescribeId": 30113,
-    "RelationshipId": 30113,
     "Name": "百戦錬磨のファデュイ先遣隊·前鋒軍·雷ハンマー",
     "Title": "先遣隊·前鋒軍·雷ハンマー",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
@@ -5474,7 +5339,6 @@
   {
     "Id": 0,
     "DescribeId": 30116,
-    "RelationshipId": 30116,
     "Name": "百戦錬磨のファデュイ先遣隊·遊撃兵·炎銃",
     "Title": "先遣隊·遊撃兵·炎銃",
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
@@ -5484,7 +5348,6 @@
   {
     "Id": 23020101,
     "DescribeId": 30201,
-    "RelationshipId": 30201,
     "MonsterName": "Fatuus_Fire_01",
     "Name": "ファデュイ·デットエージェント·炎",
     "Title": "デットエージェント·焼き払う刃先",
@@ -5539,7 +5402,6 @@
   {
     "Id": 0,
     "DescribeId": 30211,
-    "RelationshipId": 30211,
     "Name": "百戦錬磨のファデュイ·デットエージェント·炎",
     "Title": "デットエージェント·焼き払う刃先",
     "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
@@ -5549,7 +5411,6 @@
   {
     "Id": 23030101,
     "DescribeId": 30301,
-    "RelationshipId": 30301,
     "MonsterName": "Fatuus_Summoner_01",
     "Name": "ファデュイ·雷蛍術師",
     "Title": "蛍術師·雷を抱く少女",
@@ -5607,7 +5468,6 @@
   {
     "Id": 23040101,
     "DescribeId": 30401,
-    "RelationshipId": 30401,
     "MonsterName": "Fatuus_Mage_Ice_01",
     "Name": "ファデュイ·氷蛍術師",
     "Title": "蛍術師·霜降りの少女",
@@ -5665,7 +5525,6 @@
   {
     "Id": 23050101,
     "DescribeId": 30501,
-    "RelationshipId": 30501,
     "MonsterName": "Fatuus_Maiden_Water_01",
     "Name": "ファデュイ·ミラーメイデン",
     "Title": "冬国の仕女·水鏡の使者",
@@ -5717,7 +5576,6 @@
   {
     "Id": 23060101,
     "DescribeId": 30601,
-    "RelationshipId": 30601,
     "MonsterName": "Fatuus_Escadron_Ice_01",
     "Name": "ファデュイ·氷霜の従者",
     "Title": "従者·霜剣の律従",
@@ -5769,7 +5627,6 @@
   {
     "Id": 23060201,
     "DescribeId": 30602,
-    "RelationshipId": 30602,
     "MonsterName": "Fatuus_Escadron_Wind_01",
     "Name": "ファデュイ·烈風の従者",
     "Title": "従者·幽風の鈴蘭",
@@ -5821,7 +5678,6 @@
   {
     "Id": 0,
     "DescribeId": 30603,
-    "RelationshipId": 30603,
     "Name": "百戦錬磨のファデュイ·氷霜の従者",
     "Title": "従者·霜剣の律従",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
@@ -5831,7 +5687,6 @@
   {
     "Id": 0,
     "DescribeId": 30604,
-    "RelationshipId": 30604,
     "Name": "百戦錬磨のファデュイ·烈風の従者",
     "Title": "従者·幽風の鈴蘭",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Wind",
@@ -5841,7 +5696,6 @@
   {
     "Id": 0,
     "DescribeId": 30605,
-    "RelationshipId": 30605,
     "Name": "百戦錬磨のファデュイ・氷霜の従者",
     "Title": "百戦錬磨のファデュイ・氷霜の従者",
     "Icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
@@ -5851,7 +5705,6 @@
   {
     "Id": 23070101,
     "DescribeId": 30701,
-    "RelationshipId": 30701,
     "MonsterName": "Human_Male_Standard_Gun_01",
     "Name": "ファデュイ特務隊・戦列兵",
     "Title": "特務隊",
@@ -5899,7 +5752,6 @@
   {
     "Id": 0,
     "DescribeId": 30711,
-    "RelationshipId": 30711,
     "Name": "ファデュイ特務隊・戦列兵",
     "Title": "特務隊",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -5909,7 +5761,6 @@
   {
     "Id": 23072101,
     "DescribeId": 30721,
-    "RelationshipId": 30721,
     "MonsterName": "Human_MuscleMan_Shield_01",
     "Name": "ファデュイ特務隊・重撃兵",
     "Title": "特務隊",
@@ -5957,7 +5808,6 @@
   {
     "Id": 23073101,
     "DescribeId": 30731,
-    "RelationshipId": 30731,
     "MonsterName": "Human_Female_Shoulder_01",
     "Name": "ファデュイ特務隊・銃士",
     "Title": "特務隊",
@@ -6005,7 +5855,6 @@
   {
     "Id": 23074101,
     "DescribeId": 30741,
-    "RelationshipId": 30741,
     "MonsterName": "Human_Male_Standard_Claymore_PipeWrench_01",
     "Name": "ファデュイ特務隊・前衛",
     "Title": "特務隊",
@@ -6053,7 +5902,6 @@
   {
     "Id": 0,
     "DescribeId": 30751,
-    "RelationshipId": 30751,
     "Name": "ファデュイ特務隊・前衛",
     "Title": "特務隊",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -6063,7 +5911,6 @@
   {
     "Id": 23076101,
     "DescribeId": 30761,
-    "RelationshipId": 30761,
     "MonsterName": "Human_Male_Standard_Cudgel_01",
     "Name": "ファデュイ特務隊・衛生兵",
     "Title": "特務隊",
@@ -6111,7 +5958,6 @@
   {
     "Id": 0,
     "DescribeId": 30771,
-    "RelationshipId": 30771,
     "Name": "ファデュイ特務隊・衛生兵",
     "Title": "特務隊",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
@@ -6121,7 +5967,6 @@
   {
     "Id": 23078101,
     "DescribeId": 30781,
-    "RelationshipId": 30781,
     "MonsterName": "Human_Male_Standard_NoWeapon_BombBackpack_01",
     "Name": "ファデュイ特務隊・擲弾兵",
     "Title": "特務隊",
@@ -6169,7 +6014,6 @@
   {
     "Id": 23079101,
     "DescribeId": 30791,
-    "RelationshipId": 30791,
     "MonsterName": "Oprichnik_Male_Strong_LanceArquebus_01",
     "Name": "ファデュイ特務隊・突撃兵・ファイアーブレイド",
     "Title": "ファデュイ特務隊・突撃兵・ファイアーブレイド",
@@ -6219,7 +6063,6 @@
   {
     "Id": 23079201,
     "DescribeId": 30792,
-    "RelationshipId": 30792,
     "MonsterName": "Oprichnik_Male_Fat_CannonShield_01",
     "Name": "ファデュイ特務隊・重砲兵・ヘイルストーム",
     "Title": "特務隊",
@@ -6269,11 +6112,10 @@
   {
     "Id": 23079301,
     "DescribeId": 30793,
-    "RelationshipId": 30793,
     "MonsterName": "prichnik_Female_Slim_MachineGun_01",
     "Name": "ファデュイ特務隊・近衛兵・サンダーブリッツ",
     "Title": "特務隊",
-    "Description": "ファデュイ特務隊の精鋭士官。二丁の銃で戦うことを得意とする。\n先遣隊とは異なり、特務隊の士官のほとんどは貴族の生まれであろうが、才ある平民であろうが、スネージナヤ皇立軍官学校の出身である。女王の慈愛の理想においては、身分の区別など存在しないからだ。伝統的に妖精の名士にしか務められなかった「近衛兵」の肩書きは、今や特務隊の士官の栄誉称号となり、新たな世界を築く人々に平等に与えられている。",
+    "Description": "ファデュイ特務隊の精鋭士官。二丁の銃で戦うことを得意とする。\n先遣隊とは異なり、特務隊の士官のほとんどは貴族の生まれであろうが、才ある平民であろうが、スネージナヤ・ロイヤル軍事アカデミーの出身である。女王の慈愛の理想においては、身分の区別など存在しないからだ。伝統的に妖精の名士にしか務められなかった「近衛兵」の肩書きは、今や特務隊の士官の栄誉称号となり、新たな世界を築く人々に平等に与えられている。",
     "Icon": "UI_MonsterIcon_Oprichnik_Female_Slim_MachineGun",
     "Type": 1,
     "Arkhe": 0,
@@ -6319,7 +6161,6 @@
   {
     "Id": 0,
     "DescribeId": 30794,
-    "RelationshipId": 30794,
     "Name": "百戦錬磨の突撃兵・ファイアーブレイド",
     "Title": "百戦錬磨の突撃兵・ファイアーブレイド",
     "Icon": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus",
@@ -6329,7 +6170,6 @@
   {
     "Id": 0,
     "DescribeId": 30801,
-    "RelationshipId": 30801,
     "Name": "陸巡艇・近接攻撃型",
     "Title": "陸巡艇",
     "Icon": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
@@ -6342,7 +6182,6 @@
   {
     "Id": 23080201,
     "DescribeId": 30802,
-    "RelationshipId": 30802,
     "MonsterName": "Fatuimecha_CoreA_MoveA_AttackC_Water_01",
     "Name": "陸巡艇・近接斥候型",
     "Title": "陸巡艇",
@@ -6393,7 +6232,6 @@
   {
     "Id": 23080301,
     "DescribeId": 30803,
-    "RelationshipId": 30803,
     "MonsterName": "Fatuimecha_CoreB_MoveB_AttackB_Grass_01",
     "Name": "陸巡艇・偵察攻撃型",
     "Title": "陸巡艇",
@@ -6444,7 +6282,6 @@
   {
     "Id": 23080401,
     "DescribeId": 30804,
-    "RelationshipId": 30804,
     "MonsterName": "Fatuimecha_CoreB_MoveA_AttackB_Ice_01",
     "Name": "陸巡艇・偵察斥候型",
     "Title": "陸巡艇",
@@ -6495,7 +6332,6 @@
   {
     "Id": 23080501,
     "DescribeId": 30805,
-    "RelationshipId": 30805,
     "MonsterName": "Fatuimecha_CoreB_MoveE_AttackB_Wind_01",
     "Name": "陸巡艇・偵察ホバー型",
     "Title": "陸巡艇",
@@ -6546,11 +6382,10 @@
   {
     "Id": 23085101,
     "DescribeId": 30851,
-    "RelationshipId": 30851,
     "MonsterName": "Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric_01",
     "Name": "陸巡艇・最新万能攻撃型",
     "Title": "陸巡艇",
-    "Description": "最先端技術、生産コスト、稼働率のバランスがよく、戦闘部隊に強力な突破力を与える精鋭陸巡艇。戦線を支える重要な柱である。\n万能攻撃型は、多銃身マシンガンと近接ブレードを搭載しており、あらゆる交戦距離の敵軍に柔軟に対応できる。さらに、両腕のグレネードランチャーは掩体を破壊し、守備陣地の防御力を喪失させる。ファデュイと皇立軍官学校が共同で作成した戦術指令書によると、最新万能攻撃型陸巡艇の進攻に合わせて周囲のすべての兵が行動を開始し、敵の防衛線に速やかに穴をあけ、後続部隊が総攻撃を行い、敵の防衛線を徹底的に崩すこと、とある。",
+    "Description": "最先端技術、生産コスト、稼働率のバランスがよく、戦闘部隊に強力な突破力を与える精鋭陸巡艇。戦線を支える重要な柱である。\n万能攻撃型は、多銃身マシンガンと近接ブレードを搭載しており、あらゆる交戦距離の敵軍に柔軟に対応できる。さらに、両腕のグレネードランチャーは掩体を破壊し、守備陣地の防御力を喪失させる。ファデュイとロイヤル軍事アカデミーが共同で作成した戦術指令書によると、最新万能攻撃型陸巡艇の進攻に合わせて周囲のすべての兵が行動を開始し、敵の防衛線に速やかに穴をあけ、後続部隊が総攻撃を行い、敵の防衛線を徹底的に崩すこと、とある。",
     "Icon": "UI_MonsterIcon_Fatuimecha_CoreC_MoveD_AttackA_AttackC_AttackB_Electric",
     "Type": 1,
     "Arkhe": 0,
@@ -6597,7 +6432,6 @@
   {
     "Id": 23085201,
     "DescribeId": 30852,
-    "RelationshipId": 30852,
     "MonsterName": "Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water_01",
     "Name": "陸巡艇・最新万能斥候型",
     "Title": "陸巡艇",
@@ -6648,11 +6482,10 @@
   {
     "Id": 23085301,
     "DescribeId": 30853,
-    "RelationshipId": 30853,
     "MonsterName": "Fatuimecha_CoreC_MoveF_AttackB_Fire_01",
     "Name": "陸巡艇・最新火力ホバー型",
     "Title": "陸巡艇",
-    "Description": "最先端技術、生産コスト、稼働率のバランスがよく、戦闘部隊に強力な突破力を与える精鋭陸巡艇。戦線を支える重要な柱である。\n高出力の噴流エンジンに換装したこのホバー型陸巡艇は、複数の火器を使用でき、高火力を速やかに戦線のどこへでも届けられるようになった。そのため、ファデュイと皇立軍官学校が共同で作成した戦術指令書によれば、大規模作戦においてはこれらの陸巡艇を単独の「即応機動部隊」として編成し、敵の突破の阻止や反撃、戦況優位時の戦果拡大に用いるとされている。当然、これらの最先端陸巡艇は単独で任務を遂行する能力を備えており、長期の作戦任務においては、いつでも小隊の中核となって、ファデュイの様々な兵種の戦力を十分に発揮させることができる。",
+    "Description": "最先端技術、生産コスト、稼働率のバランスがよく、戦闘部隊に強力な突破力を与える精鋭陸巡艇。戦線を支える重要な柱である。\n高出力の噴流エンジンに換装したこのホバー型陸巡艇は、複数の火器を使用でき、高火力を速やかに戦線のどこへでも届けられるようになった。そのため、ファデュイとロイヤル軍事アカデミーが共同で作成した戦術指令書によれば、大規模作戦においてはこれらの陸巡艇を単独の「即応機動部隊」として編成し、敵の突破の阻止や反撃、戦況優位時の戦果拡大に用いるとされている。当然、これらの最先端陸巡艇は単独で任務を遂行する能力を備えており、長期の作戦任務においては、いつでも小隊の中核となって、ファデュイの様々な兵種の戦力を十分に発揮させることができる。",
     "Icon": "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire",
     "Type": 1,
     "Arkhe": 0,
@@ -6697,9 +6530,71 @@
     ]
   },
   {
+    "Id": 23090101,
+    "DescribeId": 30901,
+    "MonsterName": "Fatuimecha_AMP_02",
+    "Name": "重量級陸巡艦「バトルシップ」",
+    "Title": "重量級陸巡艦「バトルシップ」",
+    "Description": "オルジェイナヤ・パラタとクーヴァキ実験設計局が共同開発した重量級の機械。内部資料ではドルジスラヴ型と呼ばれている。\n設計者の当初の意図は、貨物運搬を目的とする全地形対応型の民間運送装置を作ることだったようで、多数の切断・掘削装置を搭載していた。しかしその後の汎用生産型は、複数の重火器を搭載する軍用バージョンとして改変されている。\n結局のところ、月下の俗世では真に完璧で神聖な計画でさえ、本来の意図から外れてしまうのだ。ましてや、それが人の些細な善意から生まれた、元より不完全な機械であれば、なおさらである。",
+    "Icon": "UI_MonsterIcon_Fatuimecha_AMP",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113080,
+      104114,
+      104113,
+      104112,
+      104111,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
+    "BaseValue": {
+      "HpBase": 298.848,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 24010101,
     "DescribeId": 40101,
-    "RelationshipId": 40101,
     "MonsterName": "Defender_None_01",
     "Name": "遺跡守衛",
     "Title": "遺跡守衛",
@@ -6751,7 +6646,6 @@
   {
     "Id": 24010201,
     "DescribeId": 40102,
-    "RelationshipId": 40102,
     "MonsterName": "Formathr_None",
     "Name": "遺跡ハンター",
     "Title": "遺跡ハンター",
@@ -6803,7 +6697,6 @@
   {
     "Id": 24010301,
     "DescribeId": 40103,
-    "RelationshipId": 40103,
     "MonsterName": "Konungmathr_None",
     "Name": "遺跡重機",
     "Title": "遺跡重機",
@@ -6855,7 +6748,6 @@
   {
     "Id": 24010401,
     "DescribeId": 40104,
-    "RelationshipId": 40104,
     "MonsterName": "Nithhoggr_None",
     "Name": "遺跡サーペント",
     "Title": "遺跡サーペント",
@@ -6913,7 +6805,6 @@
   {
     "Id": 24020101,
     "DescribeId": 40201,
-    "RelationshipId": 40201,
     "MonsterName": "Apparatus_Enigma_BionicDrone",
     "Name": "遺跡巡視者",
     "Title": "遺跡巡視者",
@@ -6965,7 +6856,6 @@
   {
     "Id": 24020201,
     "DescribeId": 40202,
-    "RelationshipId": 40202,
     "MonsterName": "Apparatus_Enigma_BionicFlora",
     "Name": "遺跡殲滅者",
     "Title": "遺跡殲滅者",
@@ -7017,7 +6907,6 @@
   {
     "Id": 24020301,
     "DescribeId": 40203,
-    "RelationshipId": 40203,
     "MonsterName": "Apparatus_Enigma_BionicInsecta",
     "Name": "遺跡防衛者",
     "Title": "遺跡防衛者",
@@ -7069,7 +6958,6 @@
   {
     "Id": 24020401,
     "DescribeId": 40204,
-    "RelationshipId": 40204,
     "MonsterName": "Apparatus_Enigma_BionicNettler",
     "Name": "遺跡偵察者",
     "Title": "遺跡偵察者",
@@ -7121,7 +7009,6 @@
   {
     "Id": 24021101,
     "DescribeId": 40211,
-    "RelationshipId": 40211,
     "MonsterName": "Apparatus_Perpetual",
     "Name": "恒常からくり陣形",
     "Title": "恒常からくり陣形",
@@ -7185,7 +7072,6 @@
   {
     "Id": 24030101,
     "DescribeId": 40301,
-    "RelationshipId": 40301,
     "MonsterName": "Gargoyle_Airborne_01",
     "Name": "遺跡ドレイク·飛空",
     "Title": "遺跡ドレイク·飛空",
@@ -7237,7 +7123,6 @@
   {
     "Id": 24030201,
     "DescribeId": 40302,
-    "RelationshipId": 40302,
     "MonsterName": "Gargoyle_Ground_01",
     "Name": "遺跡ドレイク·陸行",
     "Title": "遺跡ドレイク·陸行",
@@ -7289,7 +7174,6 @@
   {
     "Id": 24030301,
     "DescribeId": 40303,
-    "RelationshipId": 40303,
     "MonsterName": "Gargoyle_Fafnir_01",
     "Name": "兆載永劫ドレイク",
     "Title": "兆載永劫ドレイク",
@@ -7353,7 +7237,6 @@
   {
     "Id": 0,
     "DescribeId": 40304,
-    "RelationshipId": 40304,
     "Name": "百戦錬磨の遺跡ドレイク・陸行",
     "Title": "遺跡ドレイク·陸行",
     "Icon": "UI_MonsterIcon_Gargoyle",
@@ -7363,7 +7246,6 @@
   {
     "Id": 24040101,
     "DescribeId": 40401,
-    "RelationshipId": 40401,
     "MonsterName": "Monolith_Ordinator_01",
     "Name": "プライマル構造体·重力場発生器",
     "Title": "プライマル構造体·重力場発生器",
@@ -7415,7 +7297,6 @@
   {
     "Id": 24040201,
     "DescribeId": 40402,
-    "RelationshipId": 40402,
     "MonsterName": "Monolith_Ordinator_02",
     "Name": "プライマル構造体·再構築",
     "Title": "プライマル構造体·再構築",
@@ -7467,7 +7348,6 @@
   {
     "Id": 24040301,
     "DescribeId": 40403,
-    "RelationshipId": 40403,
     "MonsterName": "Monolith_Ordinator_03",
     "Name": "プライマル構造体·探査機",
     "Title": "プライマル構造体·探査機",
@@ -7519,7 +7399,6 @@
   {
     "Id": 24050101,
     "DescribeId": 40501,
-    "RelationshipId": 40501,
     "MonsterName": "Monolith_Starchild",
     "Name": "半永久統制マトリックス",
     "Title": "半永久統制マトリックス",
@@ -7583,7 +7462,6 @@
   {
     "Id": 0,
     "DescribeId": 40601,
-    "RelationshipId": 40601,
     "Name": "マシナリー·偵察記録型·ウーシア",
     "Title": "マシナリー·偵察記録型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
@@ -7596,7 +7474,6 @@
   {
     "Id": 0,
     "DescribeId": 40651,
-    "RelationshipId": 40651,
     "Name": "マシナリー·偵察記録型·プネウマ",
     "Title": "マシナリー·偵察記録型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
@@ -7606,7 +7483,6 @@
   {
     "Id": 24068101,
     "DescribeId": 40681,
-    "RelationshipId": 40681,
     "MonsterName": "MachinaIustitia_Sentry_Cdoex",
     "Name": "マシナリー·偵察記録型",
     "Title": "マシナリー·偵察記録型",
@@ -7649,7 +7525,6 @@
   {
     "Id": 0,
     "DescribeId": 40602,
-    "RelationshipId": 40602,
     "Name": "マシナリー·演算力増幅器·ウーシア",
     "Title": "マシナリー·演算力増幅器",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -7662,7 +7537,6 @@
   {
     "Id": 0,
     "DescribeId": 40652,
-    "RelationshipId": 40652,
     "Name": "マシナリー·演算力増幅器·プネウマ",
     "Title": "マシナリー·演算力増幅器",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -7672,7 +7546,6 @@
   {
     "Id": 24068201,
     "DescribeId": 40682,
-    "RelationshipId": 40682,
     "MonsterName": "MachinaIustitia_Pylon_Codex",
     "Name": "マシナリー·演算力増幅器",
     "Title": "マシナリー·演算力増幅器",
@@ -7715,7 +7588,6 @@
   {
     "Id": 0,
     "DescribeId": 40603,
-    "RelationshipId": 40603,
     "Name": "マシナリー·水中観測型·ウーシア",
     "Title": "マシナリー·水中観測型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Recon",
@@ -7728,7 +7600,6 @@
   {
     "Id": 0,
     "DescribeId": 40653,
-    "RelationshipId": 40653,
     "Name": "マシナリー·水中観測型·プネウマ",
     "Title": "マシナリー·水中観測型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Recon",
@@ -7738,7 +7609,6 @@
   {
     "Id": 24068301,
     "DescribeId": 40683,
-    "RelationshipId": 40683,
     "MonsterName": "MachinaIustitia_Recon_Codex",
     "Name": "マシナリー·水中観測型",
     "Title": "マシナリー·水中観測型",
@@ -7781,7 +7651,6 @@
   {
     "Id": 0,
     "DescribeId": 40604,
-    "RelationshipId": 40604,
     "Name": "マシナリー·地質探知型·ウーシア",
     "Title": "マシナリー·地質探知型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Probe",
@@ -7794,7 +7663,6 @@
   {
     "Id": 0,
     "DescribeId": 40654,
-    "RelationshipId": 40654,
     "Name": "マシナリー·地質探知型·プネウマ",
     "Title": "マシナリー·地質探知型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Probe",
@@ -7804,7 +7672,6 @@
   {
     "Id": 24060401,
     "DescribeId": 40684,
-    "RelationshipId": 40684,
     "MonsterName": "MachinaIustitia_Probe_01",
     "Name": "マシナリー·地質探知型",
     "Title": "マシナリー·地質探知型",
@@ -7853,7 +7720,6 @@
   {
     "Id": 0,
     "DescribeId": 40605,
-    "RelationshipId": 40605,
     "Name": "マシナリー·水中巡遊型·ウーシア",
     "Title": "マシナリー·水中巡遊型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nautilus",
@@ -7863,7 +7729,6 @@
   {
     "Id": 0,
     "DescribeId": 40655,
-    "RelationshipId": 40655,
     "Name": "マシナリー·水中巡遊型·プネウマ",
     "Title": "マシナリー·水中巡遊型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nautilus",
@@ -7873,7 +7738,6 @@
   {
     "Id": 24068501,
     "DescribeId": 40685,
-    "RelationshipId": 40685,
     "MonsterName": "MachinaIustitia_Nautilus_Codex",
     "Name": "マシナリー·水中巡遊型",
     "Title": "マシナリー·水中巡遊型",
@@ -7916,7 +7780,6 @@
   {
     "Id": 0,
     "DescribeId": 40606,
-    "RelationshipId": 40606,
     "Name": "マシナリー·深海攻撃型·ウーシア",
     "Title": "マシナリー·深海攻撃型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Frigate",
@@ -7926,7 +7789,6 @@
   {
     "Id": 0,
     "DescribeId": 40656,
-    "RelationshipId": 40656,
     "Name": "マシナリー·深海攻撃型·プネウマ",
     "Title": "マシナリー·深海攻撃型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Frigate",
@@ -7936,7 +7798,6 @@
   {
     "Id": 24068601,
     "DescribeId": 40686,
-    "RelationshipId": 40686,
     "MonsterName": "MachinaIustitia_Frigate_Codex",
     "Name": "マシナリー·深海攻撃型",
     "Title": "マシナリー·深海攻撃型",
@@ -7979,7 +7840,6 @@
   {
     "Id": 0,
     "DescribeId": 40607,
-    "RelationshipId": 40607,
     "Name": "マシナリー·機敏採集型·ウーシア",
     "Title": "マシナリー·機敏採集型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
@@ -7989,7 +7849,6 @@
   {
     "Id": 0,
     "DescribeId": 40657,
-    "RelationshipId": 40657,
     "Name": "マシナリー·機敏採集型·プネウマ",
     "Title": "マシナリー·機敏採集型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
@@ -7999,7 +7858,6 @@
   {
     "Id": 24068701,
     "DescribeId": 40687,
-    "RelationshipId": 40687,
     "MonsterName": "MachinaIustitia_Assimilator_Codex",
     "Name": "マシナリー·機敏採集型",
     "Title": "マシナリー·機敏採集型",
@@ -8042,7 +7900,6 @@
   {
     "Id": 0,
     "DescribeId": 40608,
-    "RelationshipId": 40608,
     "Name": "攻堅特化型マシナリー·ウーシア",
     "Title": "攻堅特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
@@ -8052,7 +7909,6 @@
   {
     "Id": 0,
     "DescribeId": 40658,
-    "RelationshipId": 40658,
     "Name": "攻堅特化型マシナリー·プネウマ",
     "Title": "攻堅特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
@@ -8062,7 +7918,6 @@
   {
     "Id": 24068801,
     "DescribeId": 40688,
-    "RelationshipId": 40688,
     "MonsterName": "MachinaIustitia_Ruggiero_Codex",
     "Name": "攻堅特化型マシナリー",
     "Title": "攻堅特化型",
@@ -8105,7 +7960,6 @@
   {
     "Id": 0,
     "DescribeId": 40609,
-    "RelationshipId": 40609,
     "Name": "制圧特化型マシナリー·ウーシア",
     "Title": "制圧特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
@@ -8115,7 +7969,6 @@
   {
     "Id": 0,
     "DescribeId": 40659,
-    "RelationshipId": 40659,
     "Name": "制圧特化型マシナリー·プネウマ",
     "Title": "制圧特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
@@ -8125,7 +7978,6 @@
   {
     "Id": 24068901,
     "DescribeId": 40689,
-    "RelationshipId": 40689,
     "MonsterName": "MachinaIustitia_Ruggiero_Codex",
     "Name": "制圧特化型マシナリー",
     "Title": "制圧特化型",
@@ -8168,7 +8020,6 @@
   {
     "Id": 0,
     "DescribeId": 40610,
-    "RelationshipId": 40610,
     "Name": "殲滅特化型マシナリー·ウーシア",
     "Title": "殲滅特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
@@ -8178,7 +8029,6 @@
   {
     "Id": 0,
     "DescribeId": 40660,
-    "RelationshipId": 40660,
     "Name": "殲滅特化型マシナリー·プネウマ",
     "Title": "殲滅特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Bradamante",
@@ -8188,7 +8038,6 @@
   {
     "Id": 24069001,
     "DescribeId": 40690,
-    "RelationshipId": 40690,
     "MonsterName": "MachinaIustitia_Bradamante_Codex",
     "Name": "殲滅特化型マシナリー",
     "Title": "殲滅特化型",
@@ -8231,7 +8080,6 @@
   {
     "Id": 0,
     "DescribeId": 40611,
-    "RelationshipId": 40611,
     "Name": "マシナリー·区域警戒型·ウーシア",
     "Title": "マシナリー·区域警戒型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
@@ -8244,7 +8092,6 @@
   {
     "Id": 0,
     "DescribeId": 40661,
-    "RelationshipId": 40661,
     "Name": "マシナリー·区域警戒型·プネウマ",
     "Title": "マシナリー·区域警戒型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter",
@@ -8254,7 +8101,6 @@
   {
     "Id": 24069101,
     "DescribeId": 40691,
-    "RelationshipId": 40691,
     "MonsterName": "MachinaIustitia_LengthShifter_Codex",
     "Name": "マシナリー·区域警戒型",
     "Title": "マシナリー·区域警戒型",
@@ -8297,7 +8143,6 @@
   {
     "Id": 0,
     "DescribeId": 40612,
-    "RelationshipId": 40612,
     "Name": "建造特化型マシナリー·ウーシア",
     "Title": "建造特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
@@ -8310,7 +8155,6 @@
   {
     "Id": 0,
     "DescribeId": 40662,
-    "RelationshipId": 40662,
     "Name": "建造特化型マシナリー·プネウマ",
     "Title": "建造特化型",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Excavator",
@@ -8320,7 +8164,6 @@
   {
     "Id": 24069201,
     "DescribeId": 40692,
-    "RelationshipId": 40692,
     "MonsterName": "MachinaIustitia_Excavator_Codex",
     "Name": "建造特化型マシナリー",
     "Title": "建造特化型",
@@ -8363,7 +8206,6 @@
   {
     "Id": 0,
     "DescribeId": 40613,
-    "RelationshipId": 40613,
     "Name": "百戦錬磨のマシナリー·演算力増幅器",
     "Title": "マシナリー·演算力増幅器",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
@@ -8376,7 +8218,6 @@
   {
     "Id": 0,
     "DescribeId": 40701,
-    "RelationshipId": 40701,
     "Name": "氷風組曲·コペリウスの劫罰",
     "Title": "「コペリウスの劫罰」",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
@@ -8389,7 +8230,6 @@
   {
     "Id": 0,
     "DescribeId": 40702,
-    "RelationshipId": 40702,
     "Name": "氷風組曲·コッペリアの葬送",
     "Title": "「コッペリアの葬送」",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
@@ -8399,7 +8239,6 @@
   {
     "Id": 24070301,
     "DescribeId": 40703,
-    "RelationshipId": 40703,
     "MonsterName": "Monster_MachinaIustitia_Nutcracker",
     "Name": "氷風組曲",
     "Title": "「コペリウスの劫罰」",
@@ -8442,7 +8281,6 @@
   {
     "Id": 24080101,
     "DescribeId": 40801,
-    "RelationshipId": 40801,
     "MonsterName": "Monster_MachinaIustitia_Gravitas_01",
     "Name": "実験用フィールド生成装置",
     "Title": "実験用フィールド生成装置",
@@ -8504,7 +8342,6 @@
   {
     "Id": 24090101,
     "DescribeId": 40901,
-    "RelationshipId": 40901,
     "MonsterName": "ToothTrap_01",
     "Name": "秘源機兵·ハンターシーカー",
     "Title": "秘源機兵·ハンターシーカー",
@@ -8556,7 +8393,6 @@
   {
     "Id": 24090201,
     "DescribeId": 40902,
-    "RelationshipId": 40902,
     "MonsterName": "DragonClaw",
     "Name": "秘源機兵・機巧デバイス",
     "Title": "秘源機兵・機巧デバイス",
@@ -8616,7 +8452,7 @@
   {
     "Id": 0,
     "DescribeId": 40903,
-    "RelationshipId": 40903,
+    "Name": "古の秘源機龍",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_DragonClaw",
     "Type": 0,
@@ -8625,7 +8461,7 @@
   {
     "Id": 0,
     "DescribeId": 40904,
-    "RelationshipId": 40904,
+    "Name": "古の秘源機龍",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_DragonClaw",
     "Type": 0,
@@ -8634,7 +8470,6 @@
   {
     "Id": 24090501,
     "DescribeId": 40905,
-    "RelationshipId": 40905,
     "MonsterName": "DragonCollar",
     "Name": "秘源機兵・統御デバイス",
     "Title": "秘源機兵・統御デバイス",
@@ -8694,7 +8529,6 @@
   {
     "Id": 24100101,
     "DescribeId": 41001,
-    "RelationshipId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "ボコボコダック",
     "Title": "工房主の自信作",
@@ -8754,8 +8588,7 @@
   {
     "Id": 0,
     "DescribeId": 41002,
-    "RelationshipId": 41002,
-    "Name": "ゴミ巨人-ドローン",
+    "Name": "ボコボコダック",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 0,
@@ -8767,7 +8600,6 @@
   {
     "Id": 0,
     "DescribeId": 48101,
-    "RelationshipId": 48101,
     "Name": "下級防御タワー·炎",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8777,7 +8609,6 @@
   {
     "Id": 0,
     "DescribeId": 48102,
-    "RelationshipId": 48102,
     "Name": "上級防御タワー·炎",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8787,7 +8618,6 @@
   {
     "Id": 0,
     "DescribeId": 48103,
-    "RelationshipId": 48103,
     "Name": "下級防御タワー·雷",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8797,7 +8627,6 @@
   {
     "Id": 0,
     "DescribeId": 48104,
-    "RelationshipId": 48104,
     "Name": "上級防御タワー·雷",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8807,7 +8636,6 @@
   {
     "Id": 0,
     "DescribeId": 48105,
-    "RelationshipId": 48105,
     "Name": "下級防御タワー·水",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8817,7 +8645,6 @@
   {
     "Id": 0,
     "DescribeId": 48106,
-    "RelationshipId": 48106,
     "Name": "上級防御タワー·水",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8827,7 +8654,6 @@
   {
     "Id": 0,
     "DescribeId": 48107,
-    "RelationshipId": 48107,
     "Name": "下級防御タワー·氷",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8837,7 +8663,6 @@
   {
     "Id": 0,
     "DescribeId": 48108,
-    "RelationshipId": 48108,
     "Name": "上級防御タワー·氷",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8847,7 +8672,6 @@
   {
     "Id": 0,
     "DescribeId": 48109,
-    "RelationshipId": 48109,
     "Name": "下級防御タワー·風",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8857,7 +8681,6 @@
   {
     "Id": 0,
     "DescribeId": 48110,
-    "RelationshipId": 48110,
     "Name": "上級防御タワー·風",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8867,7 +8690,6 @@
   {
     "Id": 0,
     "DescribeId": 48111,
-    "RelationshipId": 48111,
     "Name": "防御タワー·物理",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8877,7 +8699,6 @@
   {
     "Id": 0,
     "DescribeId": 48112,
-    "RelationshipId": 48112,
     "Name": "防衛ポイント（5.6対抗）（防衛）",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8887,7 +8708,6 @@
   {
     "Id": 0,
     "DescribeId": 49201,
-    "RelationshipId": 49201,
     "Name": "自律装置-スライム風船（小）",
     "Title": "プライマル構造体·重力場発生器",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8897,7 +8717,6 @@
   {
     "Id": 0,
     "DescribeId": 49202,
-    "RelationshipId": 49202,
     "Name": "自律装置-スライム風船（大）",
     "Title": "プライマル構造体·再構築",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8907,7 +8726,6 @@
   {
     "Id": 0,
     "DescribeId": 49203,
-    "RelationshipId": 49203,
     "Name": "自律装置-キノコン風船",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8917,7 +8735,6 @@
   {
     "Id": 0,
     "DescribeId": 49204,
-    "RelationshipId": 49204,
     "Name": "ナド・クライ潜入イベント-ロボット1",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8927,7 +8744,6 @@
   {
     "Id": 0,
     "DescribeId": 49205,
-    "RelationshipId": 49205,
     "Name": "ナド・クライ潜入イベント-ロボット2",
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
@@ -8937,7 +8753,6 @@
   {
     "Id": 0,
     "DescribeId": 49901,
-    "RelationshipId": 49901,
     "Title": "プライマル構造体·探査機",
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 0,
@@ -8946,7 +8761,6 @@
   {
     "Id": 0,
     "DescribeId": 50000,
-    "RelationshipId": 50000,
     "Title": "宝盗団·「トンズラ」",
     "Icon": "",
     "Type": 0,
@@ -8955,7 +8769,6 @@
   {
     "Id": 0,
     "DescribeId": 50001,
-    "RelationshipId": 50001,
     "Title": "宝盗団·「トンズラ」",
     "Icon": "",
     "Type": 0,
@@ -8964,7 +8777,6 @@
   {
     "Id": 0,
     "DescribeId": 50002,
-    "RelationshipId": 50002,
     "Title": "宝盗団·「トンズラ」",
     "Icon": "",
     "Type": 0,
@@ -8973,7 +8785,6 @@
   {
     "Id": 0,
     "DescribeId": 50003,
-    "RelationshipId": 50003,
     "Title": "宝盗団·「トンズラ」",
     "Icon": "",
     "Type": 0,
@@ -8982,7 +8793,6 @@
   {
     "Id": 25010101,
     "DescribeId": 50101,
-    "RelationshipId": 50101,
     "MonsterName": "Thoarder_Male_NoWeapon_01",
     "Name": "宝盗団·「トンズラ」",
     "Title": "宝盗団·「トンズラ」",
@@ -9020,7 +8830,6 @@
   {
     "Id": 25010201,
     "DescribeId": 50102,
-    "RelationshipId": 50102,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_02",
     "Name": "宝盗団·斥候",
     "Title": "宝盗団·斥候",
@@ -9065,7 +8874,6 @@
   {
     "Id": 25010301,
     "DescribeId": 50103,
-    "RelationshipId": 50103,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Fire_01",
     "Name": "宝盗団·炎の薬剤師",
     "Title": "宝盗団·炎の薬剤師",
@@ -9110,7 +8918,6 @@
   {
     "Id": 25010401,
     "DescribeId": 50104,
-    "RelationshipId": 50104,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Water_01",
     "Name": "宝盗団·水の薬剤師",
     "Title": "宝盗団·水の薬剤師",
@@ -9155,7 +8962,6 @@
   {
     "Id": 25010501,
     "DescribeId": 50105,
-    "RelationshipId": 50105,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Electric_01",
     "Name": "宝盗団·雷の薬剤師",
     "Title": "宝盗団·雷の薬剤師",
@@ -9200,7 +9006,6 @@
   {
     "Id": 25010601,
     "DescribeId": 50106,
-    "RelationshipId": 50106,
     "MonsterName": "Thoarder_Male_Standard_NoWeapon_Ice_01",
     "Name": "宝盗団·氷の薬剤師",
     "Title": "宝盗団·氷の薬剤師",
@@ -9245,7 +9050,6 @@
   {
     "Id": 25010701,
     "DescribeId": 50107,
-    "RelationshipId": 50107,
     "MonsterName": "Thoarder_Male_Fat_NoWeapon_01",
     "Name": "宝盗団·雑夫",
     "Title": "宝盗団·雑夫",
@@ -9290,7 +9094,7 @@
   {
     "Id": 0,
     "DescribeId": 50108,
-    "RelationshipId": 50108,
+    "Name": "リアム",
     "Title": "宝盗団·炎の薬剤師",
     "Icon": "",
     "Type": 0,
@@ -9299,7 +9103,6 @@
   {
     "Id": 25020101,
     "DescribeId": 50201,
-    "RelationshipId": 50201,
     "MonsterName": "Thoarder_Male_Crossbow_01",
     "Name": "宝盗団·「怪鳥」",
     "Title": "宝盗団·「怪鳥」",
@@ -9337,7 +9140,6 @@
   {
     "Id": 25020201,
     "DescribeId": 50202,
-    "RelationshipId": 50202,
     "MonsterName": "Thoarder_Male_Standard_Crossbow_02",
     "Name": "宝盗団·弓使い",
     "Title": "宝盗団·弓使い",
@@ -9382,7 +9184,6 @@
   {
     "Id": 25030101,
     "DescribeId": 50301,
-    "RelationshipId": 50301,
     "MonsterName": "Thoarder_Male_Shovel_01",
     "Name": "宝盗団·「カルメン」",
     "Title": "宝盗団·「カルメン」",
@@ -9420,7 +9221,6 @@
   {
     "Id": 25030201,
     "DescribeId": 50302,
-    "RelationshipId": 50302,
     "MonsterName": "Thoarder_Male_Fat_Shovel_03",
     "Name": "宝盗団·盗掘者",
     "Title": "宝盗団·盗掘者",
@@ -9465,7 +9265,6 @@
   {
     "Id": 25030301,
     "DescribeId": 50303,
-    "RelationshipId": 50303,
     "MonsterName": "Thoarder_Male_Fat_Shovel_02",
     "Name": "宝盗団·海の男児",
     "Title": "宝盗団·海の男児",
@@ -9510,7 +9309,6 @@
   {
     "Id": 25040101,
     "DescribeId": 50401,
-    "RelationshipId": 50401,
     "MonsterName": "Thoarder_Female_Hatchet_01",
     "Name": "宝盗団·「姉貴」",
     "Title": "宝盗団·「姉貴」",
@@ -9548,7 +9346,6 @@
   {
     "Id": 25050101,
     "DescribeId": 50501,
-    "RelationshipId": 50501,
     "MonsterName": "Millelith_Male_01",
     "Name": "千岩軍兵士",
     "Title": "千岩軍兵士",
@@ -9586,7 +9383,6 @@
   {
     "Id": 25050201,
     "DescribeId": 50502,
-    "RelationshipId": 50502,
     "MonsterName": "Millelith_Male_02",
     "Name": "千岩軍隊長",
     "Title": "千岩軍隊長",
@@ -9624,7 +9420,6 @@
   {
     "Id": 0,
     "DescribeId": 50503,
-    "RelationshipId": 50503,
     "Name": "幕府の足軽",
     "Title": "幕府の足軽",
     "Icon": "UI_MonsterIcon_Aahigaru_Male_01",
@@ -9634,7 +9429,6 @@
   {
     "Id": 0,
     "DescribeId": 50504,
-    "RelationshipId": 50504,
     "Name": "幕府の足軽頭",
     "Title": "幕府の足軽頭",
     "Icon": "UI_MonsterIcon_AahigaruTaisho_Male_01",
@@ -9644,7 +9438,6 @@
   {
     "Id": 0,
     "DescribeId": 50505,
-    "RelationshipId": 50505,
     "Name": "珊瑚宮衆",
     "Title": "珊瑚宮衆",
     "Icon": "UI_MonsterIcon_Millelith_Male_02",
@@ -9654,7 +9447,6 @@
   {
     "Id": 25060101,
     "DescribeId": 50601,
-    "RelationshipId": 50601,
     "MonsterName": "Thoarder_MuscleMan_NoWeapon_01",
     "Name": "宝盗団·拳術家",
     "Title": "宝盗団·拳術家",
@@ -9699,7 +9491,7 @@
   {
     "Id": 0,
     "DescribeId": 50602,
-    "RelationshipId": 50602,
+    "Name": "ロッキー・アヴィルドセン",
     "Title": "宝盗団·拳術家",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01",
     "Type": 0,
@@ -9708,7 +9500,6 @@
   {
     "Id": 25070101,
     "DescribeId": 50701,
-    "RelationshipId": 50701,
     "MonsterName": "Thoarder_MuscleMan_Hammer_01",
     "Name": "宝盗団·粉砕者",
     "Title": "宝盗団·粉砕者",
@@ -9753,7 +9544,6 @@
   {
     "Id": 0,
     "DescribeId": 50702,
-    "RelationshipId": 50702,
     "Name": "宝盗団·「ヴァレンシュタイン」",
     "Title": "宝盗団·「怪鳥」",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -9763,7 +9553,6 @@
   {
     "Id": 25080101,
     "DescribeId": 50801,
-    "RelationshipId": 50801,
     "MonsterName": "Samurai_Ronin_01",
     "Name": "野伏·陣刀番",
     "Title": "野伏·陣刀番",
@@ -9808,7 +9597,6 @@
   {
     "Id": 25080201,
     "DescribeId": 50802,
-    "RelationshipId": 50802,
     "MonsterName": "Samurai_Ronin_02",
     "Name": "野伏·火付番",
     "Title": "野伏·火付番",
@@ -9853,7 +9641,6 @@
   {
     "Id": 25080301,
     "DescribeId": 50803,
-    "RelationshipId": 50803,
     "MonsterName": "Samurai_Ronin_03",
     "Name": "野伏·機巧番",
     "Title": "野伏·機巧番",
@@ -9898,7 +9685,6 @@
   {
     "Id": 0,
     "DescribeId": 50804,
-    "RelationshipId": 50804,
     "Name": "寄騎武士",
     "Title": "寄騎武士",
     "Icon": "UI_MonsterIcon_Samurai_Hatamoto_01",
@@ -9908,7 +9694,6 @@
   {
     "Id": 25090101,
     "DescribeId": 50901,
-    "RelationshipId": 50901,
     "MonsterName": "Samurai_Ningyo_01",
     "Name": "魔偶剣鬼",
     "Title": "魔偶剣鬼",
@@ -9973,7 +9758,6 @@
   {
     "Id": 0,
     "DescribeId": 50902,
-    "RelationshipId": 50902,
     "Name": "魔偶剣鬼·孤風",
     "Title": "魔偶剣鬼·孤風",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Wind",
@@ -9983,7 +9767,6 @@
   {
     "Id": 0,
     "DescribeId": 50903,
-    "RelationshipId": 50903,
     "Name": "魔偶剣鬼·霜馳",
     "Title": "魔偶剣鬼·霜馳",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Ice",
@@ -9993,7 +9776,6 @@
   {
     "Id": 0,
     "DescribeId": 50904,
-    "RelationshipId": 50904,
     "Name": "魔偶剣鬼·凶面",
     "Title": "魔偶剣鬼·凶面",
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Mask",
@@ -10003,7 +9785,6 @@
   {
     "Id": 25100101,
     "DescribeId": 51001,
-    "RelationshipId": 51001,
     "MonsterName": "Samurai_Kairagi_01",
     "Name": "海乱鬼·雷騰",
     "Title": "海乱鬼·雷騰",
@@ -10051,7 +9832,6 @@
   {
     "Id": 25100201,
     "DescribeId": 51002,
-    "RelationshipId": 51002,
     "MonsterName": "Samurai_Kairagi_02",
     "Name": "海乱鬼·炎威",
     "Title": "海乱鬼·炎威",
@@ -10099,7 +9879,6 @@
   {
     "Id": 0,
     "DescribeId": 51003,
-    "RelationshipId": 51003,
     "Name": "落武者·呪雷",
     "Title": "落武者·呪雷",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_01",
@@ -10109,7 +9888,6 @@
   {
     "Id": 0,
     "DescribeId": 51004,
-    "RelationshipId": 51004,
     "Name": "落武者·祟炎",
     "Title": "落武者·祟炎",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_02",
@@ -10119,7 +9897,6 @@
   {
     "Id": 0,
     "DescribeId": 51101,
-    "RelationshipId": 51101,
     "Name": "悪霊·岩の魔蜥",
     "Title": "悪霊·岩の魔蜥",
     "Icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
@@ -10129,7 +9906,6 @@
   {
     "Id": 0,
     "DescribeId": 51102,
-    "RelationshipId": 51102,
     "Name": "悪霊·風の魔鳶",
     "Title": "悪霊·風の魔鳶",
     "Icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
@@ -10139,7 +9915,6 @@
   {
     "Id": 0,
     "DescribeId": 51103,
-    "RelationshipId": 51103,
     "Name": "悪霊·炎の魔蠍",
     "Title": "悪霊·炎の魔蠍",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_05",
@@ -10149,7 +9924,6 @@
   {
     "Id": 0,
     "DescribeId": 51104,
-    "RelationshipId": 51104,
     "Name": "悪霊·草の霊蛇",
     "Title": "悪霊·草の霊蛇",
     "Icon": "UI_MonsterIcon_Samurai_Kairagi_05",
@@ -10159,7 +9933,6 @@
   {
     "Id": 25210101,
     "DescribeId": 52101,
-    "RelationshipId": 52101,
     "MonsterName": "Eremite_Female_Hatchet_01",
     "Name": "エルマイト旅団·アックス",
     "Title": "エルマイト旅団·アックス",
@@ -10204,7 +9977,6 @@
   {
     "Id": 25210201,
     "DescribeId": 52102,
-    "RelationshipId": 52102,
     "MonsterName": "Eremite_Male_Standard_Crossbow_01",
     "Name": "エルマイト旅団·クロスボウ",
     "Title": "エルマイト旅団·クロスボウ",
@@ -10249,7 +10021,6 @@
   {
     "Id": 25210301,
     "DescribeId": 52103,
-    "RelationshipId": 52103,
     "MonsterName": "Eremite_Male_Standard_Pole_01",
     "Name": "エルマイト旅団·ベクドコルバン",
     "Title": "エルマイト旅団·ベクドコルバン",
@@ -10294,7 +10065,6 @@
   {
     "Id": 25210401,
     "DescribeId": 52104,
-    "RelationshipId": 52104,
     "MonsterName": "Eremite_MuscleMan_Gloves_01",
     "Name": "エルマイト旅団·ラインブレイカー",
     "Title": "エルマイト旅団·ラインブレイカー",
@@ -10339,7 +10109,6 @@
   {
     "Id": 25210501,
     "DescribeId": 52105,
-    "RelationshipId": 52105,
     "MonsterName": "Eremite_MuscleMan_Simitar_01",
     "Name": "エルマイト旅団·ソードダンサー",
     "Title": "エルマイト旅団·ソードダンサー",
@@ -10384,7 +10153,7 @@
   {
     "Id": 0,
     "DescribeId": 52106,
-    "RelationshipId": 52106,
+    "Name": "エルマイト旅団・ラインブレイカー",
     "Title": "魔偶剣鬼",
     "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
     "Type": 0,
@@ -10393,7 +10162,6 @@
   {
     "Id": 25310101,
     "DescribeId": 53101,
-    "RelationshipId": 53101,
     "MonsterName": "Eremite_Female_Slim_PushDagger_01",
     "Name": "エルマイト旅団·サンドウォーター",
     "Title": "エルマイト旅団·サンドウォーター",
@@ -10438,7 +10206,6 @@
   {
     "Id": 25310201,
     "DescribeId": 53102,
-    "RelationshipId": 53102,
     "MonsterName": "Eremite_Male_Standard_Glaive_01",
     "Name": "エルマイト旅団·サンフロスト",
     "Title": "エルマイト旅団·サンフロスト",
@@ -10483,7 +10250,6 @@
   {
     "Id": 25310301,
     "DescribeId": 53103,
-    "RelationshipId": 53103,
     "MonsterName": "Eremite_Male_Standard_Polearm_01",
     "Name": "エルマイト旅団·デイサンダー",
     "Title": "エルマイト旅団·デイサンダー",
@@ -10528,7 +10294,6 @@
   {
     "Id": 25410101,
     "DescribeId": 54101,
-    "RelationshipId": 54101,
     "MonsterName": "Eremite_Male_Strong_Katar_01",
     "Name": "エルマイト旅団·ストーンエンチャンター",
     "Title": "エルマイト旅団·ゲイルハンター",
@@ -10536,6 +10301,12 @@
     "Icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112067,
+      112066,
+      112065
+    ],
     "BaseValue": {
       "HpBase": 67.92,
       "AttackBase": 50.24,
@@ -10567,7 +10338,6 @@
   {
     "Id": 25410201,
     "DescribeId": 54102,
-    "RelationshipId": 54102,
     "MonsterName": "Eremite_Female_Standard_Longbow_01",
     "Name": "エルマイト旅団·ゲイルハンター",
     "Title": "エルマイト旅団·ストーンエンチャンター",
@@ -10606,7 +10376,6 @@
   {
     "Id": 25410301,
     "DescribeId": 54103,
-    "RelationshipId": 54103,
     "MonsterName": "Eremite_Female_Standard_Oracle_01",
     "Name": "エルマイト旅団·サンドロアマスター",
     "Title": "エルマイト旅団·サンドロアマスター",
@@ -10645,7 +10414,6 @@
   {
     "Id": 25410401,
     "DescribeId": 54104,
-    "RelationshipId": 54104,
     "MonsterName": "Eremite_Female_Standard_Dancer_01",
     "Name": "エルマイト旅団·フローラルリングダンサー",
     "Title": "エルマイト旅団·フローラルリングダンサー",
@@ -10684,7 +10452,6 @@
   {
     "Id": 25500101,
     "DescribeId": 55001,
-    "RelationshipId": 55001,
     "MonsterName": "Human_Female_NoWeapon_Mosasaurus_01",
     "Name": "流刃の勇士·遊撃手",
     "Title": "流刃の勇士·遊撃手",
@@ -10733,7 +10500,6 @@
   {
     "Id": 25500201,
     "DescribeId": 55002,
-    "RelationshipId": 55002,
     "MonsterName": "Human_Female_NoWeapon_Flamingo_01",
     "Name": "結羽の勇士・空を舞う者",
     "Title": "結羽の勇士・空を舞う者",
@@ -10777,7 +10543,6 @@
   {
     "Id": 25501101,
     "DescribeId": 55011,
-    "RelationshipId": 55011,
     "MonsterName": "Human_Female_Sword_Drillhead_01",
     "Name": "鋳砂の勇士·インタロゲイター",
     "Title": "鋳砂の勇士·インタロゲイター",
@@ -10827,7 +10592,6 @@
   {
     "Id": 25501201,
     "DescribeId": 55012,
-    "RelationshipId": 55012,
     "MonsterName": "Human_Female_Sword_Hookwalker_01",
     "Name": "迅疾の勇士·シーカー",
     "Title": "迅疾の勇士·シーカー",
@@ -10878,7 +10642,6 @@
   {
     "Id": 25501301,
     "DescribeId": 55013,
-    "RelationshipId": 55013,
     "MonsterName": "Human_Female_Sword_Flamingo_01",
     "Name": "結羽の勇士・羽を削ぐ者",
     "Title": "結羽の勇士・羽を削ぐ者",
@@ -10923,7 +10686,6 @@
   {
     "Id": 25501401,
     "DescribeId": 55014,
-    "RelationshipId": 55014,
     "MonsterName": "Human_Female_Sword_Shamansaurus_01",
     "Name": "霊覚の勇士・掌意師",
     "Title": "霊覚の勇士・掌意師",
@@ -10935,6 +10697,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -10967,7 +10735,6 @@
   {
     "Id": 25502101,
     "DescribeId": 55021,
-    "RelationshipId": 55021,
     "MonsterName": "Human_Male_Standard_Sword_Hookwalker_01",
     "Name": "迅疾の勇士·ストームスカウト",
     "Title": "迅疾の勇士·ストームスカウト",
@@ -11018,7 +10785,6 @@
   {
     "Id": 25502201,
     "DescribeId": 55022,
-    "RelationshipId": 55022,
     "MonsterName": "Human_Male_Standard_Sword_Mosasaurus_01",
     "Name": "流刃の勇士·グリースソウ",
     "Title": "流刃の勇士·グリースソウ",
@@ -11068,7 +10834,6 @@
   {
     "Id": 25502301,
     "DescribeId": 55023,
-    "RelationshipId": 55023,
     "MonsterName": "Human_Male_Standard_Sword_Shamansaurus_01",
     "Name": "霊覚の勇士・念力師",
     "Title": "霊覚の勇士・念力師",
@@ -11080,6 +10845,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -11112,7 +10883,6 @@
   {
     "Id": 25502401,
     "DescribeId": 55024,
-    "RelationshipId": 55024,
     "MonsterName": "Human_Male_Standard_Sword_Bisonsaurus_01",
     "Name": "猛進の勇士・スマッシャー",
     "Title": "猛進の勇士・スマッシャー",
@@ -11157,7 +10927,6 @@
   {
     "Id": 25503101,
     "DescribeId": 55031,
-    "RelationshipId": 55031,
     "MonsterName": "Human_Male_Standard_Claymore_Hookwalker_01",
     "Name": "迅疾の勇士·重刃の伝達使",
     "Title": "迅疾の勇士·重刃の伝達使",
@@ -11208,7 +10977,6 @@
   {
     "Id": 25503201,
     "DescribeId": 55032,
-    "RelationshipId": 55032,
     "MonsterName": "Human_Male_Standard_Claymore_Shamansaurus_01",
     "Name": "霊覚の勇士・冥思師",
     "Title": "霊覚の勇士・冥思師",
@@ -11220,6 +10988,12 @@
       "用于对攻击Type和特效配置进行区分",
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 27.168,
@@ -11252,7 +11026,6 @@
   {
     "Id": 25504101,
     "DescribeId": 55041,
-    "RelationshipId": 55041,
     "MonsterName": "Human_MuscleMan_Claymore_Drillhead_01",
     "Name": "鋳砂の勇士·シールドブレイカー",
     "Title": "鋳砂の勇士·シールドブレイカー",
@@ -11302,7 +11075,6 @@
   {
     "Id": 25504201,
     "DescribeId": 55042,
-    "RelationshipId": 55042,
     "MonsterName": "Human_MuscleMan_Claymore_Flamingo_01",
     "Name": "結羽の勇士・空を統べる者",
     "Title": "結羽の勇士・空を統べる者",
@@ -11347,7 +11119,6 @@
   {
     "Id": 25504301,
     "DescribeId": 55043,
-    "RelationshipId": 55043,
     "MonsterName": "Human_MuscleMan_Claymore_Bisonsaurus_01",
     "Name": "猛進の勇士・マイティガイ",
     "Title": "猛進の勇士・マイティガイ",
@@ -11392,7 +11163,6 @@
   {
     "Id": 25505101,
     "DescribeId": 55051,
-    "RelationshipId": 55051,
     "MonsterName": "Human_Male_Fat_Sword_Drillhead_01",
     "Name": "鋳砂の勇士·ジャベリニア",
     "Title": "鋳砂の勇士·ジャベリニア",
@@ -11442,7 +11212,6 @@
   {
     "Id": 25505201,
     "DescribeId": 55052,
-    "RelationshipId": 55052,
     "MonsterName": "Human_Male_Fat_Sword_Mosasaurus_01",
     "Name": "流刃の勇士·ジャベリックスロワー",
     "Title": "流刃の勇士·ジャベリックスロワー",
@@ -11492,7 +11261,6 @@
   {
     "Id": 25505301,
     "DescribeId": 55053,
-    "RelationshipId": 55053,
     "MonsterName": "Human_Male_Fat_Sword_Bisonsaurus_01",
     "Name": "猛進の勇士・グラップラー",
     "Title": "猛進の勇士・グラップラー",
@@ -11536,7 +11304,6 @@
   {
     "Id": 25510101,
     "DescribeId": 55101,
-    "RelationshipId": 55101,
     "MonsterName": "Tribalwarrior_Male_Standard_Powermaul_Drillhead_01",
     "Name": "テペトル竜戦士·砕晶のハンマー",
     "Title": "テペトル竜戦士·砕晶のハンマー",
@@ -11581,7 +11348,6 @@
   {
     "Id": 25510201,
     "DescribeId": 55102,
-    "RelationshipId": 55102,
     "MonsterName": "Tribalwarrior_Male_Strong_Chainsword_Drillhead_01",
     "Name": "テペトル竜戦士·砕岩のブレード",
     "Title": "テペトル竜戦士·砕岩のブレード",
@@ -11626,7 +11392,6 @@
   {
     "Id": 25510301,
     "DescribeId": 55103,
-    "RelationshipId": 55103,
     "MonsterName": "Tribalwarrior_Male_Standard_Chainsword_Hookwalker_01",
     "Name": "ユムカ竜戦士·飛葉の丸鋸",
     "Title": "ユムカ竜戦士·飛葉の丸鋸",
@@ -11671,7 +11436,6 @@
   {
     "Id": 25510401,
     "DescribeId": 55104,
-    "RelationshipId": 55104,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Hookwalker_01",
     "Name": "ユムカ竜戦士·鳴空の大砲",
     "Title": "ユムカ竜戦士·鳴空の大砲",
@@ -11716,7 +11480,6 @@
   {
     "Id": 25510501,
     "DescribeId": 55105,
-    "RelationshipId": 55105,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Mosasaurus_01",
     "Name": "コホラ竜戦士·裂波のスロワー",
     "Title": "コホラ竜戦士·裂波のスロワー",
@@ -11761,7 +11524,6 @@
   {
     "Id": 25510601,
     "DescribeId": 55106,
-    "RelationshipId": 55106,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Mosasaurus_01",
     "Name": "コホラ竜戦士·裂礁のガトリング",
     "Title": "コホラ竜戦士·裂礁のガトリング",
@@ -11806,7 +11568,6 @@
   {
     "Id": 25510701,
     "DescribeId": 55107,
-    "RelationshipId": 55107,
     "MonsterName": "Tribalwarrior_Male_Strong_Powermaul_Flamingo_01",
     "Name": "クク竜戦士・鍛冶の槌",
     "Title": "クク竜戦士・鍛冶の槌",
@@ -11814,6 +11575,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 50.24,
@@ -11845,7 +11612,6 @@
   {
     "Id": 25510801,
     "DescribeId": 55108,
-    "RelationshipId": 55108,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_01",
     "Name": "クク竜戦士・蒼天の焔",
     "Title": "クク竜戦士・蒼天の焔",
@@ -11884,7 +11650,6 @@
   {
     "Id": 25510901,
     "DescribeId": 55109,
-    "RelationshipId": 55109,
     "MonsterName": "Tribalwarrior_Male_Standard_Chainsword_Shamansaurus_01",
     "Name": "イクトミ竜戦士・寒流を運ぶ者",
     "Title": "イクトミ竜戦士・寒流を運ぶ者",
@@ -11892,6 +11657,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -11923,7 +11694,6 @@
   {
     "Id": 25511001,
     "DescribeId": 55110,
-    "RelationshipId": 55110,
     "MonsterName": "Tribalwarrior_Female_Standard_Launcher_Shamansaurus_01",
     "Name": "イクトミ竜戦士・氷晶の砲手",
     "Title": "イクトミ竜戦士・氷晶の砲手",
@@ -11931,6 +11701,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -11962,7 +11738,6 @@
   {
     "Id": 25511101,
     "DescribeId": 55111,
-    "RelationshipId": 55111,
     "MonsterName": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_01",
     "Name": "ライノ竜戦士・破空の響動",
     "Title": "ライノ竜戦士・破空の響動",
@@ -12001,7 +11776,6 @@
   {
     "Id": 25511201,
     "DescribeId": 55112,
-    "RelationshipId": 55112,
     "MonsterName": "Tribalwarrior_Female_Slim_Slingshot_Bisonsaurus_01",
     "Name": "ライノ竜戦士・霊明の追縛",
     "Title": "ライノ竜戦士・霊明の追縛",
@@ -12040,7 +11814,6 @@
   {
     "Id": 0,
     "DescribeId": 55151,
-    "RelationshipId": 55151,
     "Name": "百戦錬磨のテペトル竜戦士·砕岩のブレード",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
@@ -12050,7 +11823,6 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "RelationshipId": 55152,
     "Name": "百戦錬磨のコホラ竜戦士·裂波のスロワー",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
@@ -12060,7 +11832,6 @@
   {
     "Id": 0,
     "DescribeId": 55153,
-    "RelationshipId": 55153,
     "Name": "百戦錬磨のユムカ竜戦士·鳴空の大砲",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
@@ -12070,7 +11841,6 @@
   {
     "Id": 0,
     "DescribeId": 55154,
-    "RelationshipId": 55154,
     "Name": "？？？",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12080,7 +11850,6 @@
   {
     "Id": 0,
     "DescribeId": 55155,
-    "RelationshipId": 55155,
     "Name": "百戦錬磨のイクトミ竜戦士・氷晶の砲手",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12090,7 +11859,6 @@
   {
     "Id": 0,
     "DescribeId": 55156,
-    "RelationshipId": 55156,
     "Name": "百戦錬磨のライノ竜戦士・霊明の追縛",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
@@ -12100,7 +11868,6 @@
   {
     "Id": 0,
     "DescribeId": 55161,
-    "RelationshipId": 55161,
     "Name": "？？？",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12110,7 +11877,6 @@
   {
     "Id": 25520101,
     "DescribeId": 55201,
-    "RelationshipId": 55201,
     "MonsterName": "TribalWarrior_Udugan",
     "Name": "迷える霊覚の修験者",
     "Title": "迷える霊覚の修験者",
@@ -12170,7 +11936,6 @@
   {
     "Id": 0,
     "DescribeId": 55501,
-    "RelationshipId": 55501,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12179,7 +11944,6 @@
   {
     "Id": 0,
     "DescribeId": 55502,
-    "RelationshipId": 55502,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12188,7 +11952,6 @@
   {
     "Id": 0,
     "DescribeId": 55503,
-    "RelationshipId": 55503,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12197,7 +11960,6 @@
   {
     "Id": 0,
     "DescribeId": 55504,
-    "RelationshipId": 55504,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12206,7 +11968,6 @@
   {
     "Id": 0,
     "DescribeId": 55505,
-    "RelationshipId": 55505,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12215,7 +11976,6 @@
   {
     "Id": 0,
     "DescribeId": 55506,
-    "RelationshipId": 55506,
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
     "Type": 0,
@@ -12224,7 +11984,6 @@
   {
     "Id": 0,
     "DescribeId": 55507,
-    "RelationshipId": 55507,
     "Name": "テペトル竜の部族の長",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01",
@@ -12234,7 +11993,6 @@
   {
     "Id": 0,
     "DescribeId": 55602,
-    "RelationshipId": 55602,
     "Name": "百戦錬磨のピピルパンアイドル",
     "Title": "百戦錬磨のピピルパンアイドル",
     "Icon": "UI_MonsterIcon_Tenoyollotzin",
@@ -12247,7 +12005,6 @@
   {
     "Id": 26010101,
     "DescribeId": 60101,
-    "RelationshipId": 60101,
     "MonsterName": "Mimik_Ice",
     "Name": "トリックフラワー·氷",
     "Title": "トリックフラワー·氷",
@@ -12292,7 +12049,6 @@
   {
     "Id": 26010201,
     "DescribeId": 60102,
-    "RelationshipId": 60102,
     "MonsterName": "Mimik_Fire",
     "Name": "トリックフラワー·炎",
     "Title": "トリックフラワー·炎",
@@ -12337,7 +12093,6 @@
   {
     "Id": 26010301,
     "DescribeId": 60103,
-    "RelationshipId": 60103,
     "MonsterName": "Mimik_Electric",
     "Name": "トリックフラワー·雷",
     "Title": "トリックフラワー·雷",
@@ -12345,6 +12100,12 @@
     "Icon": "UI_MonsterIcon_Mimik_Electric",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112040,
+      112039,
+      112038
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 25.12,
@@ -12376,7 +12137,6 @@
   {
     "Id": 26020101,
     "DescribeId": 60201,
-    "RelationshipId": 60201,
     "MonsterName": "Regisvine_Ice",
     "Name": "急凍樹",
     "Title": "急凍樹",
@@ -12436,7 +12196,6 @@
   {
     "Id": 26020201,
     "DescribeId": 60202,
-    "RelationshipId": 60202,
     "MonsterName": "Regisvine_Fire",
     "Name": "爆炎樹",
     "Title": "爆炎樹",
@@ -12496,7 +12255,6 @@
   {
     "Id": 26020301,
     "DescribeId": 60203,
-    "RelationshipId": 60203,
     "MonsterName": "Regisvine_Electric",
     "Name": "迅電樹",
     "Title": "迅電樹",
@@ -12556,7 +12314,6 @@
   {
     "Id": 26030101,
     "DescribeId": 60301,
-    "RelationshipId": 60301,
     "MonsterName": "Wyrm_Rock",
     "Name": "ベビーヴィシャップ·岩",
     "Title": "ベビーヴィシャップ·岩",
@@ -12608,7 +12365,6 @@
   {
     "Id": 26040101,
     "DescribeId": 60401,
-    "RelationshipId": 60401,
     "MonsterName": "Drake_Rock_01_Water",
     "Name": "ヴィシャップ·岩",
     "Title": "ヴィシャップ·岩",
@@ -12663,7 +12419,6 @@
   {
     "Id": 0,
     "DescribeId": 60402,
-    "RelationshipId": 60402,
     "Name": "赤璋巡岳府君·移即",
     "Title": "ヴィシャップ·岩",
     "Icon": "UI_MonsterIcon_Drake_Rock",
@@ -12676,7 +12431,6 @@
   {
     "Id": 0,
     "DescribeId": 60403,
-    "RelationshipId": 60403,
     "Name": "赤璋巡岳府君·天虞",
     "Title": "ヴィシャップ·岩",
     "Icon": "UI_MonsterIcon_Drake_Rock",
@@ -12689,7 +12443,6 @@
   {
     "Id": 26050101,
     "DescribeId": 60501,
-    "RelationshipId": 60501,
     "MonsterName": "Drake_Primo_Rock_01_Water",
     "Name": "エンシェントヴィシャップ·岩",
     "Title": "エンシェントヴィシャップ·岩",
@@ -12771,7 +12524,6 @@
   {
     "Id": 0,
     "DescribeId": 60502,
-    "RelationshipId": 60502,
     "Name": "エンシェントヴィシャップ·岩",
     "Title": "エンシェントヴィシャップ·岩",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12784,7 +12536,6 @@
   {
     "Id": 0,
     "DescribeId": 60503,
-    "RelationshipId": 60503,
     "Name": "エンシェントヴィシャップ·岩",
     "Title": "エンシェントヴィシャップ·岩",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12797,7 +12548,6 @@
   {
     "Id": 0,
     "DescribeId": 60504,
-    "RelationshipId": 60504,
     "Name": "エンシェントヴィシャップ·岩",
     "Title": "エンシェントヴィシャップ·岩",
     "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
@@ -12810,7 +12560,6 @@
   {
     "Id": 26050601,
     "DescribeId": 60506,
-    "RelationshipId": 60506,
     "MonsterName": "Drake_DeepSea_Water_01",
     "Name": "アビサルヴィシャップ·原種",
     "Title": "アビサルヴィシャップ·原種",
@@ -12862,7 +12611,6 @@
   {
     "Id": 26050701,
     "DescribeId": 60507,
-    "RelationshipId": 60507,
     "MonsterName": "Drake_Deepsea_Ice_01",
     "Name": "アビサルヴィシャップ·噛氷",
     "Title": "アビサルヴィシャップ·噛氷",
@@ -12926,7 +12674,6 @@
   {
     "Id": 26050801,
     "DescribeId": 60508,
-    "RelationshipId": 60508,
     "MonsterName": "Drake_Deepsea_Electric_01",
     "Name": "アビサルヴィシャップ·吞雷",
     "Title": "アビサルヴィシャップ·吞雷",
@@ -12965,7 +12712,6 @@
   {
     "Id": 0,
     "DescribeId": 60509,
-    "RelationshipId": 60509,
     "Name": "アビサルヴィシャップの幼体·原種",
     "Title": "アビサルヴィシャップ·原種",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
@@ -12975,7 +12721,6 @@
   {
     "Id": 0,
     "DescribeId": 60510,
-    "RelationshipId": 60510,
     "Name": "アビサルヴィシャップの幼体·噛氷",
     "Title": "アビサルヴィシャップ·噛氷",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Ice",
@@ -12985,7 +12730,6 @@
   {
     "Id": 0,
     "DescribeId": 60511,
-    "RelationshipId": 60511,
     "Name": "アビサルヴィシャップの幼体·吞雷",
     "Title": "アビサルヴィシャップ·吞雷",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Electric",
@@ -12995,7 +12739,6 @@
   {
     "Id": 0,
     "DescribeId": 60512,
-    "RelationshipId": 60512,
     "Name": "百戦錬磨のアビサルヴィシャップ·原種",
     "Title": "アビサルヴィシャップ·原種",
     "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
@@ -13005,7 +12748,6 @@
   {
     "Id": 26060101,
     "DescribeId": 60601,
-    "RelationshipId": 60601,
     "MonsterName": "Cicin_Thunder_01",
     "Name": "雷蛍",
     "Title": "雷蛍",
@@ -13044,7 +12786,6 @@
   {
     "Id": 26060201,
     "DescribeId": 60602,
-    "RelationshipId": 60602,
     "MonsterName": "Cicin_Water_01",
     "Name": "水蛍",
     "Title": "水蛍",
@@ -13083,7 +12824,6 @@
   {
     "Id": 26060301,
     "DescribeId": 60603,
-    "RelationshipId": 60603,
     "MonsterName": "Cicin_Ice_01",
     "Name": "氷蛍",
     "Title": "氷蛍",
@@ -13122,7 +12862,6 @@
   {
     "Id": 0,
     "DescribeId": 60801,
-    "RelationshipId": 60801,
     "Name": "跋掣",
     "Title": "跋掣",
     "Icon": "UI_MonsterIcon_Cicin_Ice_01",
@@ -13132,7 +12871,6 @@
   {
     "Id": 26090101,
     "DescribeId": 60901,
-    "RelationshipId": 60901,
     "MonsterName": "Fungus_Un_Gamma_Water_01",
     "Name": "プカプカ水キノコン",
     "Title": "プカプカ水キノコン",
@@ -13140,6 +12878,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13171,7 +12918,6 @@
   {
     "Id": 26090201,
     "DescribeId": 60902,
-    "RelationshipId": 60902,
     "MonsterName": "Fungus_Un_Delta_Grass_01",
     "Name": "プカプカ草キノコン",
     "Title": "プカプカ草キノコン",
@@ -13219,7 +12965,6 @@
   {
     "Id": 26090301,
     "DescribeId": 60903,
-    "RelationshipId": 60903,
     "MonsterName": "Fungus_Un_Delta_Wind_01",
     "Name": "プカプカ風キノコン",
     "Title": "プカプカ風キノコン",
@@ -13227,6 +12972,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13258,7 +13012,6 @@
   {
     "Id": 26090401,
     "DescribeId": 60904,
-    "RelationshipId": 60904,
     "MonsterName": "Fungus_Trois_Epsilon_Electric_01",
     "Name": "グルグル雷キノコン",
     "Title": "グルグル雷キノコン",
@@ -13306,7 +13059,6 @@
   {
     "Id": 26090501,
     "DescribeId": 60905,
-    "RelationshipId": 60905,
     "MonsterName": "Fungus_Trois_Alpha_Ice_01",
     "Name": "グルグル氷キノコン",
     "Title": "グルグル氷キノコン",
@@ -13354,7 +13106,6 @@
   {
     "Id": 26090601,
     "DescribeId": 60906,
-    "RelationshipId": 60906,
     "MonsterName": "Fungus_Trois_Gamma_Fire_01",
     "Name": "グルグル炎キノコン",
     "Title": "グルグル炎キノコン",
@@ -13362,6 +13113,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -13393,7 +13153,6 @@
   {
     "Id": 26090701,
     "DescribeId": 60907,
-    "RelationshipId": 60907,
     "MonsterName": "Fungus_Deux_Alpha_Fire_01",
     "Name": "ボヨヨン炎キノコン",
     "Title": "ボヨヨン炎キノコン",
@@ -13441,7 +13200,6 @@
   {
     "Id": 26090801,
     "DescribeId": 60908,
-    "RelationshipId": 60908,
     "MonsterName": "Fungus_Deux_Epsilon_Wind_01",
     "Name": "ボヨヨン風キノコン",
     "Title": "ボヨヨン風キノコン",
@@ -13489,7 +13247,6 @@
   {
     "Id": 26090901,
     "DescribeId": 60909,
-    "RelationshipId": 60909,
     "MonsterName": "Fungus_Deux_Beta_Rock_01",
     "Name": "ボヨヨン岩キノコン",
     "Title": "ボヨヨン岩キノコン",
@@ -13537,7 +13294,6 @@
   {
     "Id": 26091001,
     "DescribeId": 60910,
-    "RelationshipId": 60910,
     "MonsterName": "Fungus_Deux_Delta_Electric_01",
     "Name": "ボヨヨン雷キノコン",
     "Title": "ボヨヨン雷キノコン",
@@ -13576,7 +13332,6 @@
   {
     "Id": 26100101,
     "DescribeId": 61001,
-    "RelationshipId": 61001,
     "MonsterName": "Gator_Sacred_Water_01",
     "Name": "聖骸ツノワニ",
     "Title": "滄流·聖骸ツノワニ",
@@ -13615,7 +13370,6 @@
   {
     "Id": 26100201,
     "DescribeId": 61002,
-    "RelationshipId": 61002,
     "MonsterName": "Panther_Sacred_Grass_01",
     "Name": "聖骸牙獣",
     "Title": "狂蔓·聖骸牙獣",
@@ -13654,7 +13408,6 @@
   {
     "Id": 26100301,
     "DescribeId": 61003,
-    "RelationshipId": 61003,
     "MonsterName": "Vulture_Sacred_Fire_01",
     "Name": "聖骸赤鷲",
     "Title": "赤炎·聖骸赤鷲",
@@ -13706,7 +13459,6 @@
   {
     "Id": 26100401,
     "DescribeId": 61004,
-    "RelationshipId": 61004,
     "MonsterName": "Scorpion_Sacred_Electric_01",
     "Name": "聖骸サソリ",
     "Title": "蒼雷·聖骸サソリ",
@@ -13758,7 +13510,6 @@
   {
     "Id": 26100501,
     "DescribeId": 61005,
-    "RelationshipId": 61005,
     "MonsterName": "Chrysopelea_Sacred_Wind_01",
     "Name": "聖骸トビヘビ",
     "Title": "御風·聖骸トビヘビ",
@@ -13810,7 +13561,6 @@
   {
     "Id": 26110101,
     "DescribeId": 61101,
-    "RelationshipId": 61101,
     "MonsterName": "Fungus_Raptor",
     "Name": "マッシュラプトル",
     "Title": "マッシュラプトル",
@@ -13868,7 +13618,6 @@
   {
     "Id": 26120101,
     "DescribeId": 61201,
-    "RelationshipId": 61201,
     "MonsterName": "Fungus_Amanita_Unu_Anudatta_Grass_01",
     "Name": "パタパタ草マッシュロン",
     "Title": "パタパタ草マッシュロン",
@@ -13916,7 +13665,6 @@
   {
     "Id": 26120201,
     "DescribeId": 61202,
-    "RelationshipId": 61202,
     "MonsterName": "Fungus_Amanita_Unu_Svarita_Ices_01",
     "Name": "パタパタ氷マッシュロン",
     "Title": "パタパタ氷マッシュロン",
@@ -13964,7 +13712,6 @@
   {
     "Id": 26120301,
     "DescribeId": 61203,
-    "RelationshipId": 61203,
     "MonsterName": "Fungus_Amanita_Du_Anudatta_Water_01",
     "Name": "トコトコ水マッシュロン",
     "Title": "トコトコ水マッシュロン",
@@ -14012,7 +13759,6 @@
   {
     "Id": 26120401,
     "DescribeId": 61204,
-    "RelationshipId": 61204,
     "MonsterName": "Fungus_Amanita_Du_Udatta_Rock_01",
     "Name": "トコトコ岩マッシュロン",
     "Title": "トコトコ岩マッシュロン",
@@ -14020,6 +13766,15 @@
     "Icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112064,
+      112063,
+      112062,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 38.0352,
       "AttackBase": 30.144,
@@ -14051,7 +13806,6 @@
   {
     "Id": 26130101,
     "DescribeId": 61301,
-    "RelationshipId": 61301,
     "MonsterName": "Sandworm",
     "Name": "風蝕ウェネト",
     "Title": "風蝕ウェネト",
@@ -14109,7 +13863,6 @@
   {
     "Id": 26140101,
     "DescribeId": 61401,
-    "RelationshipId": 61401,
     "MonsterName": "Golem_Centaur",
     "Name": "魔像レガトゥス",
     "Title": "「白石と黄銅の彫像」",
@@ -14173,7 +13926,6 @@
   {
     "Id": 26140201,
     "DescribeId": 61402,
-    "RelationshipId": 61402,
     "MonsterName": "Golem_Legion",
     "Name": "魔像プラエトリアニ",
     "Title": "不滅の軍団の衛兵",
@@ -14225,7 +13977,6 @@
   {
     "Id": 26151001,
     "DescribeId": 61510,
-    "RelationshipId": 61510,
     "MonsterName": "MantaRay_Larva_01",
     "Name": "狩猟刀エイ",
     "Title": "狩猟刀エイ",
@@ -14270,7 +14021,6 @@
   {
     "Id": 26151101,
     "DescribeId": 61511,
-    "RelationshipId": 61511,
     "MonsterName": "MantaRay_Larva_02",
     "Name": "狩猟刀エイ",
     "Title": "狩猟刀エイ",
@@ -14315,7 +14065,6 @@
   {
     "Id": 26152101,
     "DescribeId": 61521,
-    "RelationshipId": 61521,
     "MonsterName": "HermitCrab_Larva_01_Sea",
     "Name": "重甲ヤドカニ",
     "Title": "重甲ヤドカニ",
@@ -14363,7 +14112,6 @@
   {
     "Id": 26152201,
     "DescribeId": 61522,
-    "RelationshipId": 61522,
     "MonsterName": "HermitCrab_Larva_02_Sea",
     "Name": "重甲ヤドカニ",
     "Title": "重甲ヤドカニ",
@@ -14411,7 +14159,6 @@
   {
     "Id": 26153101,
     "DescribeId": 61531,
-    "RelationshipId": 61531,
     "MonsterName": "Seal_Larva_01_Sea",
     "Name": "プクプク獣",
     "Title": "プクプク獣",
@@ -14456,7 +14203,6 @@
   {
     "Id": 26154101,
     "DescribeId": 61541,
-    "RelationshipId": 61541,
     "MonsterName": "JellyFish_Larva_01",
     "Name": "ボウシクラゲ",
     "Title": "ボウシクラゲ",
@@ -14504,7 +14250,6 @@
   {
     "Id": 26154201,
     "DescribeId": 61542,
-    "RelationshipId": 61542,
     "MonsterName": "JellyFish_Larva_02",
     "Name": "ボウシクラゲ",
     "Title": "ボウシクラゲ",
@@ -14552,7 +14297,6 @@
   {
     "Id": 26155101,
     "DescribeId": 61551,
-    "RelationshipId": 61551,
     "MonsterName": "SeaHorse_Larva_01",
     "Name": "アワアワタツノコ",
     "Title": "アワアワタツノコ",
@@ -14597,7 +14341,6 @@
   {
     "Id": 26155201,
     "DescribeId": 61552,
-    "RelationshipId": 61552,
     "MonsterName": "SeaHorse_Larva_02",
     "Name": "アワアワタツノコ",
     "Title": "アワアワタツノコ",
@@ -14642,7 +14385,6 @@
   {
     "Id": 26155301,
     "DescribeId": 61553,
-    "RelationshipId": 61553,
     "MonsterName": "SeaHorse_Larva_03",
     "Name": "アワアワタツノコ",
     "Title": "アワアワタツノコ",
@@ -14687,7 +14429,6 @@
   {
     "Id": 26156101,
     "DescribeId": 61561,
-    "RelationshipId": 61561,
     "MonsterName": "Octopus_Larva_01",
     "Name": "マンマルタコ",
     "Title": "マンマルタコ",
@@ -14732,7 +14473,6 @@
   {
     "Id": 26156201,
     "DescribeId": 61562,
-    "RelationshipId": 61562,
     "MonsterName": "Octopus_Larva_02",
     "Name": "マンマルタコ",
     "Title": "マンマルタコ",
@@ -14777,7 +14517,6 @@
   {
     "Id": 26157101,
     "DescribeId": 61571,
-    "RelationshipId": 61571,
     "MonsterName": "Aplysia_Larva_01",
     "Name": "アンジェリックアプリシア",
     "Title": "アンジェリックアプリシア",
@@ -14825,7 +14564,6 @@
   {
     "Id": 26157201,
     "DescribeId": 61572,
-    "RelationshipId": 61572,
     "MonsterName": "Aplysia_Larva_02",
     "Name": "アンジェリックアプリシア",
     "Title": "アンジェリックアプリシア",
@@ -14873,7 +14611,6 @@
   {
     "Id": 26160101,
     "DescribeId": 61601,
-    "RelationshipId": 61601,
     "MonsterName": "HermitCrab_Mature_01_Sea",
     "Name": "堅盾重甲ヤドカニ",
     "Title": "堅盾重甲ヤドカニ",
@@ -14918,7 +14655,6 @@
   {
     "Id": 26160201,
     "DescribeId": 61602,
-    "RelationshipId": 61602,
     "MonsterName": "Aplysia_Mature_01_Sea",
     "Name": "チェルビックアプリシア",
     "Title": "チェルビックアプリシア",
@@ -14963,7 +14699,6 @@
   {
     "Id": 26160301,
     "DescribeId": 61603,
-    "RelationshipId": 61603,
     "MonsterName": "SeaHorse_Mature_01_Sea",
     "Name": "アワアワタツノコ·オス",
     "Title": "アワアワタツノコ·オス",
@@ -15008,7 +14743,6 @@
   {
     "Id": 0,
     "DescribeId": 61621,
-    "RelationshipId": 61621,
     "Name": "地方伝説·重甲ヤドカニ",
     "Title": "重甲ヤドカニ",
     "Icon": "UI_MonsterIcon_HermitCrab_Mature_02",
@@ -15018,7 +14752,6 @@
   {
     "Id": 0,
     "DescribeId": 61622,
-    "RelationshipId": 61622,
     "Name": "地方伝説·狩猟刀エイ",
     "Title": "狩猟刀エイ",
     "Icon": "UI_MonsterIcon_MantaRay_Larva_03",
@@ -15028,7 +14761,6 @@
   {
     "Id": 0,
     "DescribeId": 61623,
-    "RelationshipId": 61623,
     "Name": "地方伝説·プクプク獣",
     "Title": "プクプク獣",
     "Icon": "UI_MonsterIcon_Seal_Larva_02",
@@ -15038,7 +14770,6 @@
   {
     "Id": 0,
     "DescribeId": 61624,
-    "RelationshipId": 61624,
     "Name": "地方伝説·チェルビックアプリシア",
     "Title": "チェルビックアプリシア",
     "Icon": "UI_MonsterIcon_Aplysia_Mature",
@@ -15048,7 +14779,6 @@
   {
     "Id": 0,
     "DescribeId": 61625,
-    "RelationshipId": 61625,
     "Name": "地方伝説·ボウシクラゲ",
     "Title": "シャサニョン",
     "Icon": "UI_MonsterIcon_Aplysia_Mature",
@@ -15058,7 +14788,6 @@
   {
     "Id": 0,
     "DescribeId": 61626,
-    "RelationshipId": 61626,
     "Name": "百戦錬磨の岩ヤドカニ",
     "Title": "百戦錬磨の岩ヤドカニ",
     "Icon": "UI_MonsterIcon_HermitCrab_Mature_Elite",
@@ -15068,7 +14797,6 @@
   {
     "Id": 26160302,
     "DescribeId": 61701,
-    "RelationshipId": 61701,
     "MonsterName": "SeaHorse_Mature_01_Land",
     "Name": "鉄甲熔炎帝王",
     "Title": "鉄甲熔炎帝王",
@@ -15113,7 +14841,6 @@
   {
     "Id": 26180101,
     "DescribeId": 61801,
-    "RelationshipId": 61801,
     "MonsterName": "SeaHorse_Primo_Electric_01",
     "Name": "千年真珠の海駿",
     "Title": "千年真珠の海駿",
@@ -15173,7 +14900,6 @@
   {
     "Id": 26190101,
     "DescribeId": 61901,
-    "RelationshipId": 61901,
     "MonsterName": "Hermit_Normal_01",
     "Name": "山隠れの猊獣",
     "Title": "山隠れの猊獣",
@@ -15235,7 +14961,6 @@
   {
     "Id": 26190201,
     "DescribeId": 61902,
-    "RelationshipId": 61902,
     "MonsterName": "Striped_01",
     "Name": "玄文獣",
     "Title": "玄文獣",
@@ -15287,7 +15012,6 @@
   {
     "Id": 26200101,
     "DescribeId": 62001,
-    "RelationshipId": 62001,
     "MonsterName": "Monster_Natsaurus_Drillhead_Small_01",
     "Name": "テペトル仔竜",
     "Title": "テペトル仔竜",
@@ -15332,7 +15056,6 @@
   {
     "Id": 26200201,
     "DescribeId": 62002,
-    "RelationshipId": 62002,
     "MonsterName": "Monster_Natsaurus_Drillhead_Normal_01",
     "Name": "テペトル竜",
     "Title": "テペトル竜",
@@ -15377,7 +15100,6 @@
   {
     "Id": 0,
     "DescribeId": 62081,
-    "RelationshipId": 62081,
     "Name": "テペトル仔竜",
     "Title": "テペトル仔竜",
     "Icon": "UI_MonsterIcon_Natsaurus_Drillhead_Small",
@@ -15387,7 +15109,6 @@
   {
     "Id": 26210101,
     "DescribeId": 62101,
-    "RelationshipId": 62101,
     "MonsterName": "Monster_Natsaurus_Mosasaurus_Small_01",
     "Name": "コホラ仔竜",
     "Title": "コホラ仔竜",
@@ -15432,7 +15153,6 @@
   {
     "Id": 26210201,
     "DescribeId": 62102,
-    "RelationshipId": 62102,
     "MonsterName": "Monster_Natsaurus_Mosasaurus_Normal_01",
     "Name": "コホラ竜",
     "Title": "コホラ竜",
@@ -15477,7 +15197,6 @@
   {
     "Id": 26220101,
     "DescribeId": 62201,
-    "RelationshipId": 62201,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Small_01",
     "Name": "ユムカ仔竜",
     "Title": "ユムカ仔竜",
@@ -15522,7 +15241,6 @@
   {
     "Id": 26220201,
     "DescribeId": 62202,
-    "RelationshipId": 62202,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Normal_01",
     "Name": "ユムカ竜",
     "Title": "ユムカ竜",
@@ -15567,7 +15285,6 @@
   {
     "Id": 26220301,
     "DescribeId": 62203,
-    "RelationshipId": 62203,
     "MonsterName": "Monster_Natsaurus_Hookwalker_Primo_01",
     "Name": "山の王·貪食のユムカ竜",
     "Title": "山の王·貪食のユムカ竜",
@@ -15625,7 +15342,6 @@
   {
     "Id": 26230101,
     "DescribeId": 62301,
-    "RelationshipId": 62301,
     "MonsterName": "Monster_Natsaurus_Flamingo_Small_01",
     "Name": "クク仔竜",
     "Title": "クク仔竜",
@@ -15633,6 +15349,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Flamingo_Small",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 14.9424,
       "AttackBase": 22.608,
@@ -15664,7 +15386,6 @@
   {
     "Id": 26230201,
     "DescribeId": 62302,
-    "RelationshipId": 62302,
     "MonsterName": "Monster_Natsaurus_Flamingo_Normal_01",
     "Name": "クク竜",
     "Title": "クク竜",
@@ -15672,6 +15393,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Flamingo_Normal",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 37.68,
@@ -15703,7 +15430,6 @@
   {
     "Id": 26230301,
     "DescribeId": 62303,
-    "RelationshipId": 62303,
     "MonsterName": "Monster_Natsaurus_Flamingo_Primo_01",
     "Name": "暴君·金焔のクク竜",
     "Title": "暴君·金焔のクク竜",
@@ -15763,7 +15489,6 @@
   {
     "Id": 26240101,
     "DescribeId": 62401,
-    "RelationshipId": 62401,
     "MonsterName": "Monster_Natsaurus_Shamansaurus_Small_01",
     "Name": "イクトミ仔竜",
     "Title": "イクトミ仔竜",
@@ -15771,6 +15496,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Small",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 20.096,
@@ -15802,7 +15533,6 @@
   {
     "Id": 26240201,
     "DescribeId": 62402,
-    "RelationshipId": 62402,
     "MonsterName": "Monster_Natsaurus_Shamansaurus_Normal_01",
     "Name": "イクトミ竜",
     "Title": "イクトミ竜",
@@ -15810,6 +15540,12 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112103,
+      112102,
+      112101
+    ],
     "BaseValue": {
       "HpBase": 36.6768,
       "AttackBase": 33.912,
@@ -15841,7 +15577,6 @@
   {
     "Id": 0,
     "DescribeId": 62403,
-    "RelationshipId": 62403,
     "Name": "百戦錬磨のイクトミ竜",
     "Title": "イクトミ竜",
     "Icon": "UI_MonsterIcon_Aplysia_Larva_02",
@@ -15854,7 +15589,6 @@
   {
     "Id": 26250101,
     "DescribeId": 62501,
-    "RelationshipId": 62501,
     "MonsterName": "Monster_Natsaurus_Bisonsaurus_Small_01",
     "Name": "ライノ仔竜",
     "Title": "ライノ仔竜",
@@ -15893,7 +15627,6 @@
   {
     "Id": 26250201,
     "DescribeId": 62502,
-    "RelationshipId": 62502,
     "MonsterName": "Monster_Natsaurus_Bisonsaurus_Normal_01",
     "Name": "ライノ竜",
     "Title": "ライノ竜",
@@ -15932,7 +15665,6 @@
   {
     "Id": 0,
     "DescribeId": 62503,
-    "RelationshipId": 62503,
     "Name": "百戦錬磨のライノ竜",
     "Title": "ライノ竜",
     "Icon": "UI_MonsterIcon_Natsaurus_Bisonsaurus_Crystal",
@@ -15945,7 +15677,6 @@
   {
     "Id": 26260101,
     "DescribeId": 62601,
-    "RelationshipId": 62601,
     "MonsterName": "Wayob_Drillhead_01",
     "Name": "岩窟·大霊の化身",
     "Title": "噴流·大霊の化身",
@@ -15997,7 +15728,6 @@
   {
     "Id": 26260201,
     "DescribeId": 62602,
-    "RelationshipId": 62602,
     "MonsterName": "Wayob_Mosasaurus_01",
     "Name": "噴流·大霊の化身",
     "Title": "岩窟·大霊の化身",
@@ -16049,7 +15779,6 @@
   {
     "Id": 26260301,
     "DescribeId": 62603,
-    "RelationshipId": 62603,
     "MonsterName": "Wayob_Hookwalker_01",
     "Name": "疾葉·大霊の化身",
     "Title": "疾葉·大霊の化身",
@@ -16101,7 +15830,6 @@
   {
     "Id": 0,
     "DescribeId": 62604,
-    "RelationshipId": 62604,
     "Name": "百戦錬磨の岩窟·大霊の化身",
     "Title": "噴流·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
@@ -16111,7 +15839,6 @@
   {
     "Id": 0,
     "DescribeId": 62605,
-    "RelationshipId": 62605,
     "Name": "百戦錬磨の噴流·大霊の化身",
     "Title": "岩窟·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
@@ -16121,7 +15848,6 @@
   {
     "Id": 0,
     "DescribeId": 62606,
-    "RelationshipId": 62606,
     "Name": "百戦錬磨の疾葉·大霊の化身",
     "Title": "疾葉·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
@@ -16131,7 +15857,6 @@
   {
     "Id": 0,
     "DescribeId": 62607,
-    "RelationshipId": 62607,
     "Name": "百戦錬磨の焚焼・大霊の化身",
     "Title": "焚焼・大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Flamingo",
@@ -16141,7 +15866,6 @@
   {
     "Id": 26260801,
     "DescribeId": 62608,
-    "RelationshipId": 62608,
     "MonsterName": "Wayob_Shamansaurus_01",
     "Name": "凛烈・大霊の化身",
     "Title": "凛烈・大霊の化身",
@@ -16180,7 +15904,6 @@
   {
     "Id": 26260901,
     "DescribeId": 62609,
-    "RelationshipId": 62609,
     "MonsterName": "Wayob_Flamingo_01",
     "Name": "焚焼・大霊の化身",
     "Title": "焚焼・大霊の化身",
@@ -16219,7 +15942,6 @@
   {
     "Id": 0,
     "DescribeId": 62610,
-    "RelationshipId": 62610,
     "Name": "百戦錬磨の凛烈・大霊の化身",
     "Title": "凛烈・大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Shamansaurus",
@@ -16229,7 +15951,6 @@
   {
     "Id": 26261101,
     "DescribeId": 62611,
-    "RelationshipId": 62611,
     "MonsterName": "Wayob_Bisonsaurus_01",
     "Name": "震雷・大霊の化身",
     "Title": "震雷・大霊の化身",
@@ -16268,7 +15989,6 @@
   {
     "Id": 0,
     "DescribeId": 62612,
-    "RelationshipId": 62612,
     "Name": "百戦錬磨の震雷・大霊の化身",
     "Title": "震雷・大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Bisonsaurus",
@@ -16278,7 +15998,6 @@
   {
     "Id": 26270101,
     "DescribeId": 62701,
-    "RelationshipId": 62701,
     "MonsterName": "Monster_Lava_Liquid_01",
     "Name": "溶岩の像·流燃体",
     "Title": "溶岩の像·流燃体",
@@ -16330,7 +16049,6 @@
   {
     "Id": 26270201,
     "DescribeId": 62702,
-    "RelationshipId": 62702,
     "MonsterName": "Monster_Lava_Solid_01",
     "Name": "溶岩の像·土蝕者",
     "Title": "溶岩の像·土蝕者",
@@ -16382,7 +16100,6 @@
   {
     "Id": 26270301,
     "DescribeId": 62703,
-    "RelationshipId": 62703,
     "MonsterName": "Monster_LavaTitan_01",
     "Name": "輝ける溶岩の龍像",
     "Title": "輝ける溶岩の龍像",
@@ -16442,7 +16159,7 @@
   {
     "Id": 0,
     "DescribeId": 62704,
-    "RelationshipId": 62704,
+    "Name": "「微末」",
     "Title": "溶岩の像·土蝕者",
     "Icon": "UI_MonsterIcon_LavaTitan_01",
     "Type": 0,
@@ -16451,7 +16168,7 @@
   {
     "Id": 0,
     "DescribeId": 62801,
-    "RelationshipId": 62801,
+    "Name": "バクナワ",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_LavaTitan_01",
     "Type": 0,
@@ -16460,7 +16177,6 @@
   {
     "Id": 26290101,
     "DescribeId": 62901,
-    "RelationshipId": 62901,
     "MonsterName": "Monster_VolcanoWeasel_01",
     "Name": "マグマイタチ",
     "Title": "マグマイタチ",
@@ -16512,7 +16228,6 @@
   {
     "Id": 26300101,
     "DescribeId": 63001,
-    "RelationshipId": 63001,
     "MonsterName": "Monster_Magbeast_Argali_01",
     "Name": "集光の幻羊",
     "Title": "集光の異獣",
@@ -16564,7 +16279,6 @@
   {
     "Id": 26300201,
     "DescribeId": 63002,
-    "RelationshipId": 63002,
     "MonsterName": "Monster_Magbeast_Rhino_01",
     "Name": "集光のブレイドライノ",
     "Title": "集光の異獣",
@@ -16616,7 +16330,6 @@
   {
     "Id": 26300301,
     "DescribeId": 63003,
-    "RelationshipId": 63003,
     "MonsterName": "Monster_Magbeast_Squid_01",
     "Name": "集光の螺旋蛸",
     "Title": "集光の異獣",
@@ -16668,7 +16381,6 @@
   {
     "Id": 26301101,
     "DescribeId": 63011,
-    "RelationshipId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
     "Name": "集光の幻月蝶",
     "Title": "月下変幻の光と影",
@@ -16730,7 +16442,6 @@
   {
     "Id": 0,
     "DescribeId": 80213,
-    "RelationshipId": 80213,
     "Name": "百戦錬磨のテントガメ",
     "Title": "百戦錬磨のテントガメ",
     "Icon": "UI_MonsterIcon_Tortoise_Electric",
@@ -16740,7 +16451,6 @@
   {
     "Id": 0,
     "DescribeId": 80226,
-    "RelationshipId": 80226,
     "Name": "百戦錬磨のカピバラ",
     "Title": "？？？",
     "Icon": "UI_MonsterIcon_Capybara_02",
@@ -16753,7 +16463,6 @@
   {
     "Id": 0,
     "DescribeId": 80228,
-    "RelationshipId": 80228,
     "Name": "「戦羊」の幻影",
     "Title": "「戦羊」の幻影",
     "Icon": "UI_MonsterIcon_Capra_01",
@@ -16763,7 +16472,6 @@
   {
     "Id": 0,
     "DescribeId": 80310,
-    "RelationshipId": 80310,
     "Name": "「鉄爪」の幻影",
     "Title": "「鉄爪」の幻影",
     "Icon": "UI_MonsterIcon_Penguin_01",
@@ -16773,7 +16481,6 @@
   {
     "Id": 29010101,
     "DescribeId": 90101,
-    "RelationshipId": 90101,
     "MonsterName": "Monster_Dragon_Dvalin_S01",
     "Name": "空を裂く魔龍",
     "Title": "モンドを席巻するハリケーン",
@@ -16800,7 +16507,6 @@
   {
     "Id": 29020101,
     "DescribeId": 90201,
-    "RelationshipId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
     "Name": "北風の王狼、奔狼の領主",
     "Title": "北風の王狼",
@@ -16842,7 +16548,6 @@
   {
     "Id": 29030101,
     "DescribeId": 90301,
-    "RelationshipId": 90301,
     "MonsterName": "Monster_Tartaglia",
     "Name": "「公子」",
     "Title": "ファトゥス第十一位",
@@ -16885,7 +16590,6 @@
   {
     "Id": 29040101,
     "DescribeId": 90401,
-    "RelationshipId": 90401,
     "MonsterName": "Monster_Dahaka",
     "Name": "若陀龍王",
     "Title": "封印されし岩龍の王",
@@ -16965,7 +16669,6 @@
   {
     "Id": 29050101,
     "DescribeId": 90501,
-    "RelationshipId": 90501,
     "MonsterName": "Monster_LaSignora",
     "Name": "「淑女」",
     "Title": "ファトゥス第八位",
@@ -17008,7 +16711,6 @@
   {
     "Id": 0,
     "DescribeId": 90601,
-    "RelationshipId": 90601,
     "Name": "雷電将軍",
     "Title": "雷電将軍",
     "Icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
@@ -17021,7 +16723,6 @@
   {
     "Id": 29060201,
     "DescribeId": 90602,
-    "RelationshipId": 90602,
     "MonsterName": "Monster_Shougun_Mitakenarukami",
     "Name": "禍津御建鳴神命",
     "Title": "禍津御建鳴神命",
@@ -17064,7 +16765,6 @@
   {
     "Id": 29070101,
     "DescribeId": 90701,
-    "RelationshipId": 90701,
     "MonsterName": "Monster_Nada",
     "Name": "「正機の神」",
     "Title": "「正機の神」",
@@ -17107,7 +16807,6 @@
   {
     "Id": 29080101,
     "DescribeId": 90801,
-    "RelationshipId": 90801,
     "MonsterName": "Monster_Apep_Stage1",
     "Name": "アペプのオアシス守護者",
     "Title": "終末オアシスの守護者",
@@ -17149,7 +16848,6 @@
   {
     "Id": 0,
     "DescribeId": 90802,
-    "RelationshipId": 90802,
     "Name": "基本増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17159,7 +16857,6 @@
   {
     "Id": 0,
     "DescribeId": 90803,
-    "RelationshipId": 90803,
     "Name": "捕食増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17169,7 +16866,6 @@
   {
     "Id": 0,
     "DescribeId": 90804,
-    "RelationshipId": 90804,
     "Name": "防衛増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17179,7 +16875,6 @@
   {
     "Id": 0,
     "DescribeId": 90805,
-    "RelationshipId": 90805,
     "Name": "飼育増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17189,7 +16884,6 @@
   {
     "Id": 0,
     "DescribeId": 90806,
-    "RelationshipId": 90806,
     "Name": "破壊増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17199,7 +16893,6 @@
   {
     "Id": 0,
     "DescribeId": 90807,
-    "RelationshipId": 90807,
     "Name": "巣作り増殖生命体",
     "Title": "終末オアシスの守護者",
     "Icon": "UI_MonsterIcon_Hili_None_01",
@@ -17209,7 +16902,6 @@
   {
     "Id": 29090101,
     "DescribeId": 90901,
-    "RelationshipId": 90901,
     "MonsterName": "Monster_Ptahur_Devourer",
     "Name": "呑星の鯨",
     "Title": "呑星の鯨",
@@ -17276,7 +16968,7 @@
   {
     "Id": 0,
     "DescribeId": 90902,
-    "RelationshipId": 90902,
+    "Name": "呑星の鯨",
     "Title": "呑星の鯨",
     "Icon": "UI_MonsterIcon_Hili_None_01",
     "Type": 0,
@@ -17288,7 +16980,6 @@
   {
     "Id": 0,
     "DescribeId": 90903,
-    "RelationshipId": 90903,
     "Title": "呑星の鯨",
     "Icon": "UI_MonsterIcon_Hili_None_01",
     "Type": 0,
@@ -17300,7 +16991,6 @@
   {
     "Id": 0,
     "DescribeId": 91001,
-    "RelationshipId": 91001,
     "Name": "「召使」",
     "Title": "「召使」",
     "Icon": "UI_MonsterIcon_Nihil",
@@ -17310,7 +17000,6 @@
   {
     "Id": 0,
     "DescribeId": 91101,
-    "RelationshipId": 91101,
     "Name": "蝕まれし源焔の主",
     "Title": "蝕まれし源焔の主",
     "Icon": "UI_MonsterIcon_TheAbyssXiuhcoatl",
@@ -17320,7 +17009,6 @@
   {
     "Id": 0,
     "DescribeId": 91201,
-    "RelationshipId": 91201,
     "Name": "「チェス」・キング",
     "Title": "「チェス」・キング",
     "Icon": "",
@@ -17330,7 +17018,6 @@
   {
     "Id": 0,
     "DescribeId": 91202,
-    "RelationshipId": 91202,
     "Name": "「チェス」・クイーン",
     "Title": "「チェス」・クイーン",
     "Icon": "",
@@ -17340,7 +17027,6 @@
   {
     "Id": 0,
     "DescribeId": 91211,
-    "RelationshipId": 91211,
     "Name": "昇揚のキング",
     "Title": "昇揚のキング",
     "Icon": "UI_MonsterIcon_GiantChess_King",
@@ -17350,7 +17036,6 @@
   {
     "Id": 0,
     "DescribeId": 91212,
-    "RelationshipId": 91212,
     "Name": "昇華のクイーン",
     "Title": "昇華のクイーン",
     "Icon": "UI_MonsterIcon_GiantChess_Queen",
@@ -17360,7 +17045,6 @@
   {
     "Id": 29122000,
     "DescribeId": 91220,
-    "RelationshipId": 91220,
     "MonsterName": "Monster_GiantChess_DummyMonster",
     "Name": "扉に通ずる対局",
     "Title": "ファトゥス第八位",
@@ -17399,7 +17083,6 @@
   {
     "Id": 0,
     "DescribeId": 91401,
-    "RelationshipId": 91401,
     "Name": "？？？",
     "Title": "死を冒涜した罪人",
     "Icon": "",

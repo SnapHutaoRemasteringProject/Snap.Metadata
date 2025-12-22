@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Poursuite des plumes de givre",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Adepte dans sa demeure",
@@ -989,6 +991,10 @@
       {
         "Title": "À propos de Gaming...",
         "Context": "Gaming est un garçon chaleureux qui parle d'une manière intéressante, sans pour autant être grandiloquent. Je l'apprécie beaucoup. La première fois que je l'ai rencontré, il m'a vue me reposer au bord d'un lac et s'est décidé à partager ce qu'il avait à manger avec moi. Par la suite, il a dit qu'à ses yeux, j'étais une aînée vénérable plutôt qu'une Adepte. Héhé, en tant qu'aînée, je ne manquerai pas de prendre soin de lui."
+      },
+      {
+        "Title": "À propos de Zibai...",
+        "Context": "Débloqué au Niv. d'affinité 4"
       },
       {
         "Title": "Connaître Xianyun (1)",

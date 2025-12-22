@@ -1180,5 +1180,28 @@
     "SecondDescriptions": [
       "Karakterlerin Normal Saldırı Ateş Hasarı %75 artar."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tüm grup üyeleri %60 Ateş Hasarı Bonusu kazanır.",
+      "Tüm grup üyeleri %60 Elektrik Hasarı Bonusu kazanır."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Aktif olmayan karakterler %75 Ateş Hasarı Bonusu kazanır."
+    ],
+    "SecondDescriptions": [
+      "Karakterlerin Havadan Saldırı Hasarı %75 artar."
+    ]
   }
 ]

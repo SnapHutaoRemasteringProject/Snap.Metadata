@@ -477,6 +477,33 @@
         "Icon": "Skill_S_Albedo_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 385101,
+              "Level": 1,
+              "Parameters": [
+                0.04,
+                0.12,
+                0.1,
+                0.3,
+                20,
+                20
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 385101,
+        "Name": "Đêm Lễ Ma Nữ - Sách Ánh Sáng Trắng",
+        "Description": "Sau khi hoàn thành <color=#FFD780FF>Bài Tập Của Ma Nữ - Câu Hỏi Ngoài Lề</color>, Albedo sẽ trở thành nhân vật <color=#FFD780FF>Hexerei</color>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>, giúp nhân vật Hexerei nhận được cường hóa.\n\n<color=#FFD780FF>Hexerei - Nghi Thức Bí Mật</color>\n·Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, nếu Kỹ Năng Nguyên Tố của Albedo đánh trúng kẻ địch, sẽ luyện hóa ra <color=#FFD780FF>Đồng Vị Bạc</color> ở gần kẻ địch trong 10s. Khi trong trận không tồn tại Hoa Mặt Trời do bản thân Albedo tạo ra, nếu Albedo chưa ngã xuống, một Đồng Vị Bạc sẽ nhận hiệu quả tạo ra Hoa Khoảnh Khắc tương tự như Hoa Mặt Trời. Tối đa cùng lúc tồn tại hai Đồng Vị Bạc do bản thân Albedo tạo ra.\n·Trong 20s sau khi luyện hóa ra Hoa Mặt Trời, sẽ căn cứ vào Phòng Ngự của Albedo để tăng sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ cho nhân vật trong đội ở gần: Mỗi 1000 Phòng Ngự sẽ tăng 4% sát thương, tối đa tăng 12% sát thương theo cách này.\n·Trong 20s sau khi luyện hóa ra Đồng Vị Bạc, sẽ căn cứ vào Phòng Ngự của Albedo để tăng sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ cho nhân vật Hexerei trong đội ở gần: Mỗi 1000 Phòng Ngự sẽ tăng 10% sát thương, tối đa tăng 30% sát thương theo cách này.",
+        "Icon": "UI_Talent_S_Albedo_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3839,
       "Proud": {
@@ -653,9 +680,14 @@
             {
               "Id": 382101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.5,
+                0.25,
+                2.4
+              ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382101,
         "Name": "Uy Lực Màu Vôi Trắng",
@@ -675,7 +707,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 382201,
         "Name": "Trí Tuệ Người Trong Bình",
@@ -878,6 +911,10 @@
       {
         "Title": "Về Barbara...",
         "Context": "#Barbara sao? Cô ấy là một mục sư giỏi. Kể ra thì, trước đây tôi có vẽ chân dung của cô ấy... {F#Cô}{M#Cậu} hỏi bức tranh đang ở đâu sao? Ừm... tôi đã từ chối bán cho Albert và chuyển trực tiếp cho Đội Trưởng Đại Diện rồi. Chuyện xã giao... đúng là tốn công sức."
+      },
+      {
+        "Title": "Về Durin...",
+        "Context": "Người anh em này của tôi đang khám phá nhiều điều mới mẻ, cậu ấy rất thông minh và đam mê suy nghĩ. Dù đôi khi vì thế mà rơi vào những bế tắc nhận thức, nhưng điều đó không ngăn cản được nhiệt huyết của cậu ấy với thế giới này. Sự xuất hiện của cậu ấy, hay nói đúng hơn là sự xuất hiện của một người thân, đã cho tôi thêm nhiều hiểu biết mới về mối quan hệ giữa con người với nhau. Giờ đây, khi có thêm một đồng loại thân thiết, ngôi nhà này đã trở nên náo nhiệt hơn rồi. Đây chắc chắn là một sự thay đổi tốt đẹp."
       },
       {
         "Title": "Muốn tìm hiểu Albedo - Điều thứ 1",
@@ -1092,5 +1129,11 @@
     "Description": "Hoa văn danh thiếp.\nXin hãy cho tôi được làm nhân chứng cho kỳ tích này.",
     "Icon": "UI_NameCardIcon_Albedo",
     "PicturePrefix": "UI_NameCardPic_Albedo"
+  },
+  "TraceEffect": {
+    "Id": 215016,
+    "Name": "Vết Tích - Kreideprinz",
+    "Description": "Vết Tích Tưởng Tượng của Albedo. \"Đất đen ánh trắng, tỏa sáng lấp lánh.\"",
+    "Icon": "UI_TraceEffectIcon_Albedo"
   }
 }

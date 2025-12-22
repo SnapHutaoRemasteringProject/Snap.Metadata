@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Witch's Eve Rite: Sevenfold Transmutation",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Bunga di Tanah Ajaib</color>, Sucrose akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\n·Setelah memanggil Small Wind Spirit, DMG Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst Karakter di sekitar dalam party meningkat 5,71428% selama 15 detik.\n·Setelah memanggil Large Wind Spirit, DMG Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst Karakter Hexerei di sekitar dalam party meningkat 7,14285% selama 20 detik.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Catalyst Conversion",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Mollis Favonius",

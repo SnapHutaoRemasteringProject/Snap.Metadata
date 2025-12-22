@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Plan de reprise",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Réserve stratégique",
@@ -829,6 +831,10 @@
       {
         "Title": "À propos de Xianyun...",
         "Context": "#J'ai l'intention d'inviter madame Xianyun à boire le thé dans quelques jours. J'ai une collection de jouets mécaniques ingénieux et je voudrais connaître son avis là-dessus. J'en profiterai aussi pour écouter ses histoires passionnantes sur la vie des Adeptes dans le Port de Liyue. Seriez-vous {M#intéressé}{F#intéressée}... de lui remettre cette lettre d'invitation de ma part ?"
+      },
+      {
+        "Title": "À propos de l'Adepte à l'apparence de cheval blanc...",
+        "Context": "Débloqué au Niv. d'affinité 4"
       },
       {
         "Title": "Connaître Ningguang (1)",

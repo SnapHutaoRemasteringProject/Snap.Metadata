@@ -834,7 +834,8 @@
                 0.08
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222101,
         "Name": "Ay Işığına Bahis",
@@ -857,7 +858,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 1222201,
         "Name": "Tozun ve Kumun Kızı",
@@ -898,7 +900,7 @@
         },
         "Id": 1222501,
         "Name": "Altın Kasa Komplosu",
-        "Description": "20 saatliğine bir Nod-Krai Keşfine gönderildiğinde %25 daha fazla ödül kazanır.\nAyrıca Sırlar Arşivi'nin lideri olarak Nefer'ın çeşitli kaynaklardan istihbarat edinme yeteneği vardır. Nasha Kasabası'ndaki bazı gruplar bu istihbaratları son derece ilgi çekici bulabilir...",
+        "Description": "20 saatliğine bir Nod-Krai Keşfine gönderildiğinde %25 daha fazla ödül kazanır.",
         "Icon": "UI_Talent_S_Nefer_08"
       }
     ],
@@ -1278,7 +1280,7 @@
       },
       {
         "Title": "Karakter Hikayesi 3",
-        "Context": "\"... Hikaye uydurmakta iyisin yabancı. Tüm bu Sumeru ve çöl muhabbetlerin epey inandırıcı...\"\nKaba hazine avcısı, omuzlarını silkti ve karşısındaki çöl sakinini bir kez daha süzdü. \"Aracı\"nın dediğine göre kız, Nod-Krai'da yükselen bir yıldızdı ve bir engerek yılanı kadar kurnaz ve zekiydi...\nHıh. O \"Aracı\"nın üç beş kuruş için söylemeyeceği şey yoktu. Bu çocuk... Nod-Krai'da bir ay bile dayanamazdı.\n\"Benden toplamamı istediğin borcu hallettim.\"\n\"Usta\" olduğunu iddia eden hazine avcısı, aniden önünde koyu kırmızı bir para kesesi belirince donakaldı.\n... Kıza onu hangi iş için tuttuğunu bile söylememişti henüz.\n\"Şimdi de senin borcunu ödeme vaktin geldi.\"\nHazine avcısı bir anlığına afalladı. Ama bu kısacık süre bile, engereğin hamle yapıp avının boynuna dişlerini geçirmesi için yeterliydi.\nHazine avcısı daha tepki bile veremeden hayatı ellerinden kayıp gitti. Aşağılık yaratık çok geçmeden hak ettiği sonu bulmuştu.\nGurbetteki çöl sakini yavaşça nefes verdi, o sırada odanın dışında bekleyen kişi sessizce içeri girdi.\n\"Bayan Nefer, diğerleri de planlandığı gibi ortadan kaldırıldı. Bu sonuncusuydu.\"\nNefer hafifçe başını salladı. Bu kötü şöhretli hazine avcısı, yok etmesi gereken son \"lider\"di.\nBir zamanlar Nod-Krai, bu kendilerine \"lider\" diyen kimseler tarafından yönetiliyordu. Kapalı kapılar ardında bu toprakları kendi nüfuz bölgelerine ayırmışlardı. Memleketsiz kalan sürgünlerin zar zor kurtulduğu zalimlerden ve gaspçılardan geri kalır bir yanları yoktu. Halkın ortak malı olan bu Cenneti sessizce ele geçirmişlerdi ve insanlara zulmetmek için piyonlarını üzerlerine salıyorlardı.\nFakat Nefer, bu piyonların da kendi hırsları olduğunun farkındaydı. Sadık görünseler de tahtta oturanların boynuna dişlerini geçirmeyi düşlerdi hepsi.\nCanavarların kralının cansız bedeni odasında bulunduğunda, bir zamanlar ulaşılmaz gelen o hayaller artık gerçeğe dönüşebilecekti.\nArtık savaşacak, yutacak ve yağmalayacak, hırslarının ateşi kendi bedenlerini yakarken birbirlerini parçalayacaklardı. Tüm bunlar kemik ve kandan bir taç yapmak içindi; öyle bir taç ki, sahibine mutlak güç bahşedecekti.\nVe Nefer de o taç ortaya çıktığı anda onu kendi elleriyle paramparça edecekti.\n\"... Şimdi ne yapacağız Bayan Nefer?\"\nSuikastçıların lideri net bir şekilde cevapladı: \"Bekleyeceğiz. Güneş doğana ve ortalık durulana kadar bekleyeceğiz...\"\nSırlar Arşivi'nin gelecekteki sahibi, avucunun içinde kabarmakta olan kaosu düşündü ve yeniden konuştu.\n\"Daha fazla destek getirin. Masum insanları bu işe sürüklemek istemeyiz.\"\n\"İleride benim müşterilerim olacaklar sonuçta.\""
+        "Context": "\"... Hikaye uydurmakta iyisin yabancı. Tüm bu Sumeru ve çöl muhabbetlerin epey inandırıcı...\"\nKaba hazine avcısı, omuzlarını silkti ve karşısındaki çöl sakinini bir kez daha süzdü. \"Aracı\"nın dediğine göre kız, Nod-Krai'da yükselen bir yıldızdı ve bir engerek yılanı kadar kurnaz ve zekiydi...\nHıh. O \"Aracı\"nın üç beş kuruş için söylemeyeceği şey yoktu. Bu çocuk... Nod-Krai'da bir ay bile dayanamazdı.\n\"Benden toplamamı istediğin borcu hallettim.\"\n\"Usta\" olduğunu iddia eden hazine avcısı, aniden önünde koyu kırmızı bir para kesesi belirince donakaldı.\n... Kıza onu hangi iş için tuttuğunu bile söylememişti henüz.\n\"Şimdi de senin borcunu ödeme vaktin geldi.\"\nHazine avcısı bir anlığına afalladı. Ama bu kısacık süre bile, engereğin hamle yapıp avının boynuna dişlerini geçirmesi için yeterliydi.\nHazine avcısı daha tepki bile veremeden hayatı ellerinden kayıp gitti. Aşağılık yaratık çok geçmeden hak ettiği sonu bulmuştu.\nGurbetteki çöl sakini yavaşça nefes verdi, o sırada odanın dışında bekleyen kişi sessizce içeri girdi.\n\"Bayan Nefer, diğerleri de planlandığı gibi ortadan kaldırıldı. Bu sonuncusuydu.\"\nNefer hafifçe başını salladı. Bu kötü şöhretli hazine avcısı, yok etmesi gereken son \"lider\"di.\nBir zamanlar Nod-Krai, bu kendilerine \"lider\" diyen kimseler tarafından yönetiliyordu. Kapalı kapılar ardında bu toprakları kendi nüfuz bölgelerine ayırmışlardı. Memleketsiz kalan sürgünlerin zar zor kurtulduğu zalimlerden ve gaspçılardan geri kalır bir yanları yoktu. Halkın ortak malı olan bu Cenneti sessizce ele geçirmişlerdi ve insanlara zulmetmek için piyonlarını üzerlerine salıyorlardı.\nFakat Nefer, bu piyonların da kendi hırsları olduğunun farkındaydı. Sadık görünseler de tahtta oturanların boynuna dişlerini geçirmeyi düşlerdi hepsi.\nCanavarların kralının cansız bedeni odasında bulunduğunda, bir zamanlar ulaşılmaz gelen o hayaller artık gerçeğe dönüşebilecekti.\nArtık savaşacak, yutacak ve yağmalayacak, hırslarının ateşi kendi bedenlerini yakarken birbirlerini parçalayacaklardı. Tüm bunlar kemik ve kandan bir taç yapmak içindi; öyle bir taç ki, sahibine mutlak güç bahşedecekti.\nVe Nefer da o taç ortaya çıktığı anda onu kendi elleriyle paramparça edecekti.\n\"... Şimdi ne yapacağız Bayan Nefer?\"\nSuikastçıların lideri net bir şekilde cevapladı: \"Bekleyeceğiz. Güneş doğana ve ortalık durulana kadar bekleyeceğiz...\"\nSırlar Arşivi'nin gelecekteki sahibi, avucunun içinde kabarmakta olan kaosu düşündü ve yeniden konuştu.\n\"Daha fazla destek getirin. Masum insanları bu işe sürüklemek istemeyiz.\"\n\"İleride benim müşterilerim olacaklar sonuçta.\""
       },
       {
         "Title": "Karakter Hikayesi 4",

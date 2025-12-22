@@ -2558,6 +2558,59 @@
     ]
   },
   {
+    "Id": 11518,
+    "PromoteId": 11518,
+    "Sort": 5115,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Athame Artis",
+    "Description": "Nella storia della piccola strega, questa preziosa spada fu donata al coraggioso eroe dal Re del Giorno. Tuttavia, in seguito fu la strega a usarla per sconfiggere l'eroe.",
+    "Icon": "UI_EquipIcon_Sword_Motsognir",
+    "AwakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Splendor Solis del Re del Giorno",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#I DAN da CRIT del Tripudio elementale aumentano di un <color=#99FFFFFF>16%</color>. Quando il Tripudio elementale colpisce un avversario, si ottiene l'effetto Lama delle ore diurne, che aumenta l'ATT del personaggio che equipaggia l'arma di un <color=#99FFFFFF>20%</color> e l'ATT degli altri membri attivi del gruppo di un <color=#99FFFFFF>16%</color>. L'effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest'effetto può attivarsi anche se il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 1,
+          "Description": "#I DAN da CRIT del Tripudio elementale aumentano di un <color=#99FFFFFF>20%</color>. Quando il Tripudio elementale colpisce un avversario, si ottiene l'effetto Lama delle ore diurne, che aumenta l'ATT del personaggio che equipaggia l'arma di un <color=#99FFFFFF>25%</color> e l'ATT degli altri membri attivi del gruppo di un <color=#99FFFFFF>20%</color>. L'effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest'effetto può attivarsi anche se il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 2,
+          "Description": "#I DAN da CRIT del Tripudio elementale aumentano di un <color=#99FFFFFF>24%</color>. Quando il Tripudio elementale colpisce un avversario, si ottiene l'effetto Lama delle ore diurne, che aumenta l'ATT del personaggio che equipaggia l'arma di un <color=#99FFFFFF>30%</color> e l'ATT degli altri membri attivi del gruppo di un <color=#99FFFFFF>24%</color>. L'effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest'effetto può attivarsi anche se il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 3,
+          "Description": "#I DAN da CRIT del Tripudio elementale aumentano di un <color=#99FFFFFF>28%</color>. Quando il Tripudio elementale colpisce un avversario, si ottiene l'effetto Lama delle ore diurne, che aumenta l'ATT del personaggio che equipaggia l'arma di un <color=#99FFFFFF>35%</color> e l'ATT degli altri membri attivi del gruppo vicini di un <color=#99FFFFFF>28%</color>. L'effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest'effetto può attivarsi anche se il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 4,
+          "Description": "#I DAN da CRIT del Tripudio elementale aumentano di un <color=#99FFFFFF>32%</color>. Quando il Tripudio elementale colpisce un avversario, si ottiene l'effetto Lama delle ore diurne, che aumenta l'ATT del personaggio che equipaggia l'arma di un <color=#99FFFFFF>40%</color> e l'ATT degli altri membri attivi del gruppo vicini di un <color=#99FFFFFF>32%</color>. L'effetto dura 3{NON_BREAK_SPACE}s.\nInoltre, se il gruppo possiede gli effetti di Hexerei: Rito segreto, gli effetti di Lama delle ore diurne aumentano di un 75% aggiuntivo. Quest'effetto può attivarsi anche se il personaggio che equipaggia l'arma non è in campo."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112130,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -9257,7 +9310,7 @@
         },
         {
           "Level": 4,
-          "Description": "#Il tasso di CRIT aumenta di un <color=#99FFFFFF>16</color>. Quando il personaggio che equipaggia l'arma usa l'abilità elementale, ottiene l'effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di <color=#99FFFFFF>160</color> per 12{NON_BREAK_SPACE}s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l'effetto Luna della verità, che aumenta i DAN da CRIT di un <color=#99FFFFFF>48%</color> per 4{NON_BREAK_SPACE}s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%."
+          "Description": "#Il tasso di CRIT aumenta di un <color=#99FFFFFF>16%</color>. Quando il personaggio che equipaggia l'arma usa l'abilità elementale, ottiene l'effetto Segreto della menzogna, che aumenta la maestria elementale del personaggio di <color=#99FFFFFF>160</color> per 12{NON_BREAK_SPACE}s. Quando il personaggio infligge DAN da Fioritura lunare a un avversario, ottiene l'effetto Luna della verità, che aumenta i DAN da CRIT di un <color=#99FFFFFF>48%</color> per 4{NON_BREAK_SPACE}s. Quando i due effetti sono attivi contemporaneamente, il risultato di entrambi aumenta di un 50%."
         }
       ]
     },
@@ -10994,6 +11047,59 @@
     ]
   },
   {
+    "Id": 15434,
+    "PromoteId": 15434,
+    "Sort": 4528,
+    "WeaponType": 12,
+    "RankLevel": 4,
+    "Name": "Arco pluviale del serpente arcobaleno",
+    "Description": "Un'antica arma cerimoniale tramandata dai Maestri del Vento della Notte. Questo arco oscuro è perennemente avvolto da un gelo inestinguibile.",
+    "Icon": "UI_EquipIcon_Bow_ElegguaBow",
+    "AwakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 42.401,
+        "Type": 4,
+        "Value": 1201
+      },
+      {
+        "InitValue": 0.1,
+        "Type": 23,
+        "Value": 2201
+      }
+    ],
+    "Affix": {
+      "Name": "Sussurri astrali oltre il trono sacro",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un <color=#99FFFFFF>28%</color> per 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 1,
+          "Description": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un <color=#99FFFFFF>35%</color> per 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 2,
+          "Description": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un <color=#99FFFFFF>42%</color> per 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 3,
+          "Description": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un <color=#99FFFFFF>49%</color> per 8{NON_BREAK_SPACE}s."
+        },
+        {
+          "Level": 4,
+          "Description": "#Quando il personaggio che equipaggia l'arma colpisce un avversario con i suoi attacchi mentre non è in campo, il suo ATT aumenta di un <color=#99FFFFFF>56%</color> per 8{NON_BREAK_SPACE}s."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114072,
+      112118,
+      112127
+    ]
+  },
+  {
     "Id": 15501,
     "PromoteId": 15501,
     "Sort": 5501,
@@ -11521,6 +11627,59 @@
       114072,
       112118,
       112106
+    ]
+  },
+  {
+    "Id": 15515,
+    "PromoteId": 15515,
+    "Sort": 5513,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Cronache dell'alba",
+    "Description": "Come dolci melodie, i canti della resistenza giungono trasportati dal vento per posarsi su queste corde. L'unione del loro potere è sufficiente a squarciare l'oscurità sconfinata con la luce dell'aurora nascente.",
+    "Icon": "UI_EquipIcon_Bow_Arianna",
+    "AwakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.096,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ode atemporale",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Il personaggio che equipaggia l'arma ottiene Brezza dell'alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un <color=#99FFFFFF>60%</color>. Durante un combattimento, il suddetto bonus DAN diminuisce di un <color=#99FFFFFF>10%</color> al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un <color=#99FFFFFF>10%</color> fino a raggiungere il <color=#99FFFFFF>60%</color>. Quest'effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l'arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un <color=#99FFFFFF>20%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "#Il personaggio che equipaggia l'arma ottiene Brezza dell'alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un <color=#99FFFFFF>75%</color>. Durante un combattimento, il suddetto bonus DAN diminuisce di un <color=#99FFFFFF>12,5%</color> al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un <color=#99FFFFFF>12,5%</color> fino a raggiungere il <color=#99FFFFFF>75%</color>. Quest'effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l'arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un <color=#99FFFFFF>25%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "#Il personaggio che equipaggia l'arma ottiene Brezza dell'alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un <color=#99FFFFFF>90%</color>. Durante un combattimento, il suddetto bonus DAN diminuisce di un <color=#99FFFFFF>15%</color> al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un <color=#99FFFFFF>15%</color> fino a raggiungere il <color=#99FFFFFF>90%</color>. Quest'effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l'arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un <color=#99FFFFFF>30%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "#Il personaggio che equipaggia l'arma ottiene Brezza dell'alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un <color=#99FFFFFF>105%</color>. Durante un combattimento, il suddetto bonus DAN diminuisce di un <color=#99FFFFFF>17,5%</color> al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un <color=#99FFFFFF>17,5%</color> fino a raggiungere il <color=#99FFFFFF>105%</color>. Quest'effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l'arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un <color=#99FFFFFF>35%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "#Il personaggio che equipaggia l'arma ottiene Brezza dell'alba. Dopo aver trascorso 3{NON_BREAK_SPACE}s fuori da un combattimento, i DAN da attacco normale, abilità elementale e Tripudio elementale aumentano di un <color=#99FFFFFF>120%</color>. Durante un combattimento, il suddetto bonus DAN diminuisce di un <color=#99FFFFFF>20%</color> al secondo fino ad azzerarsi. Quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN corrispondente a quel tipo di DAN aumenta di un <color=#99FFFFFF>20%</color> fino a raggiungere il <color=#99FFFFFF>120%</color>. Quest'effetto può attivarsi una volta ogni 0,1{NON_BREAK_SPACE}s per ogni tipo di attacco sopracitato, anche se il personaggio che equipaggia l'arma non è in campo.\nSe il gruppo possiede gli effetti di Hexerei: Rito segreto, quando gli attacchi normali, le abilità elementali o i Tripudi elementali del personaggio che equipaggia l'arma colpiscono un avversario, il bonus DAN di tutti questi tipi di DAN aumenta invece di un <color=#99FFFFFF>40%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114012,
+      112016,
+      112037
     ]
   }
 ]

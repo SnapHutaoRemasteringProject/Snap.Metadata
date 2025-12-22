@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "ドゥリン",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "ヤフォダ",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53139,7 +53181,7 @@
     ],
     "Id": 362130,
     "Name": "「静寂と温もり」",
-    "Description": "ナシャタウンの「秘聞の館」にある柔らかな長いソファー。焼きたてのパンのような暖かな色合いで、目にした瞬間から親しみを覚える。\nソファーの上には、猫の肉球模様の枕がいくつも並べられており、休みたい人たちのクッションになれる――もちろん動物たちもソファーに登って、休憩中の人たちと一緒に、この静かで温かなひと時を楽しむことが出来る。",
+    "Description": "ナシャタウンの「秘聞の館」にある柔らかな長いソファー。焼きたてのパンのような暖かな色合いで、目にした瞬間から親しみを覚える。\nソファーの上には、猫の肉球模様の枕がいくつも並べられており、休みたい人たちのクッションになれる——もちろん動物たちもソファーに登って、休憩中の人たちと一緒に、この静かで温かなひと時を楽しむことが出来る。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_WSWshafa_01_Lod0",
     "Rank": 30100
   },
@@ -53163,8 +53205,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362131,
-    "Name": "ヘーゼルナッツ材とジャスパーの背もたれ椅子",
-    "Description": "ナシャタウンの「秘聞の館」で目にする背もたれ椅子は、主材にヘーゼルナッツが使われており、座面と背もたれにはジャスパー色があしらわれている。優雅なデザインで座り心地も快適だ。\n残念ながら多くの場合、訪問者は悩みを抱えていたり、落ち着きがなかったりする……だから、この長椅子の特別な部分に気づくことができる訪問者多くない。気づける人は比較的落ち着いており、心理的な強さも備えているということになる。そうした人には、「秘聞の館」もより丁寧に対応してくれるのだ。",
+    "Name": "ヘーゼルナッツ材の椅子（碧玉）",
+    "Description": "ナシャタウンの「秘聞の館」で目にする背もたれ椅子は、主材にヘーゼルナッツが使われており、座面と背もたれには碧玉色があしらわれている。優雅なデザインで座り心地も快適だ。\n残念ながら多くの場合、訪問者は悩みを抱えていたり、落ち着きがなかったりする…だから、この長椅子の特別な部分に気づくことができる訪問者多くない。気づける人は比較的落ち着いており、心理的な強さも備えているということになる。そうした人には、「秘聞の館」もより丁寧に対応してくれるのだ。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_WSWyizi_01_Vo",
     "Rank": 30100
   },
@@ -53238,8 +53280,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361411,
-    "Name": "酒場ベッド-「ちょうどいい寝心地」",
-    "Description": "ナシャタウンの「フラッグシップ」で見られる鉄製ベッドには、ほどよく硬いマットレスが敷かれている。「快適とは言えないが、寝られないほどではない」――利用した一部の客はそう評価した。\nしかし、疲れ切っていたり、横になる前に少しお酒を飲んでいたりした人にとっては違う。ただ丈夫で、寝返りを打っても崩れないベッドさえあれば、それが文句のつけようのない寝床なのだ。",
+    "Name": "酒場のベッド-「ほどほどの寝心地」",
+    "Description": "ナシャタウンの「フラッグシップ」で見られる鉄製ベッドには、ほどよく硬いマットレスが敷かれている。「快適とは言えないが、寝られないほどではない」——利用した一部の客はそう評価した。\nしかし、疲れ切っていたり、横になる前に少しお酒を飲んでいたりした人にとっては違う。ただ丈夫で、寝返りを打っても崩れないベッドさえあれば、それが文句のつけようのない寝床なのだ。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_JHSchuang_01_Lod0",
     "Rank": 20500
   },
@@ -53264,7 +53306,7 @@
     ],
     "Id": 364223,
     "Name": "工房のスピーカー―「眠気覚まし」",
-    "Description": "クーヴァキ実験設計局でよく使われるスピーカー装置。目立たない存在ながらも非常に大きな音が鳴る。「眠気覚まし」効果は抜群で、ある人はこうも評価した――「もっと出力があれば、音波武器に改造できるかも…」と。",
+    "Description": "クーヴァキ実験設計局でよく使われるスピーカー装置。目立たない存在ながらも非常に大きな音が鳴る。「眠気覚まし」効果は抜群で、ある人はこうも評価した——「もっと出力があれば、音波武器に改造できるかも…」と。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_BGCguangbo_01_Vo",
     "Rank": 50200
   },
@@ -53288,7 +53330,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 364224,
-    "Name": "酒場のターゲット-「有効得点」",
+    "Name": "酒場の的-「有効ポイント」",
     "Description": "ナシャタウンの「フラッグシップ」で見られるダーツセット。ボードのエリアは青と白で均等に分けられており、さまざまな遊び方が楽しめる。\n酒場のダーツには、柔らかめの木材が使われているらしい。というのも、ダーツを楽しむ客の中には、酔っぱらって力加減がうまくできない人もいるからだ。力を入れすぎてダーツが跳ね返るのを防ぐため、耐久性を少し犠牲にしてでも、安全性を優先した材質が選ばれているのだという。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSfeibiao_01_Vo",
     "Rank": 50200
@@ -53313,7 +53355,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361341,
-    "Name": "工場の長テーブル-「迫りくる時間」",
+    "Name": "工場のテーブル-「迫りくる期限」",
     "Description": "クーヴァキ実験設計局でよく見られる四角い金属製の長テーブル。広々とした天板が用いられている。\nこの机は主に仕事用として使われるが、締め切りが迫っている時には、臨時の食卓として利用されることもある。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_BGCzhuozi_01_Vo",
     "Rank": 20300
@@ -53338,8 +53380,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361342,
-    "Name": "酒場の四角いテーブル-「自己防衛」",
-    "Description": "ナシャタウンの「フラッグシップ」でよく使われる、特徴的な四角いテーブル。柔らかい赤い布で縁取りされている。\n酔っ払った人はどうしても何かにぶつかっていく――しかし、このテーブルを設計した人はこう言い切る。「実は、守りたいのはテーブルのほうなんだ…はは、酔っ払いたちって、力が強すぎて怖いくらいだからね」",
+    "Name": "酒場のテーブル-「自己防衛」",
+    "Description": "ナシャタウンの「フラッグシップ」でよく使われる、特徴的な四角いテーブル。柔らかい赤い布で縁取りされている。\n酔っ払った人はどうしても何かにぶつかっていく——しかし、このテーブルを設計した人はこう言い切る。「実は、守りたいのはテーブルのほうなんだ…はは、酔っ払いたちって、力が強すぎて怖いくらいだからね」",
     "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_JHSzhuozi_01_Lod0",
     "Rank": 20300
   },
@@ -53363,7 +53405,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361343,
-    "Name": "室内長テーブル-「丹精のお手入れ」",
+    "Name": "屋内用テーブル-「丹精なお手入れ」",
     "Description": "ナシャタウンの「秘聞の館」で見ることができる、上品な織物が掛けられた長テーブル。\nいたずら好きの子どもや、やんちゃな動物など、机を傷つけてしまう要因はいくらでもある…\nだがその傷も、色合いや模様、掛け方に工夫を凝らしたテーブルクロスと組み合わせれば、独特な模様のように見せられるのだ。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Build_WSWzhuozi_01_Lod0",
     "Rank": 20300
@@ -53388,7 +53430,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362320,
-    "Name": "室内絨毯-「密で柔らかな風合い」",
+    "Name": "絨毯-「柔らかな風合い」",
     "Description": "複雑な模様が施された、濃い褐色の四角い絨毯。ナシャタウンの「秘聞の館」でよく見られるこれは、対称の美しさが特徴的だ。\nナタのモコモコ駄獣の長毛を用いて織り上げられており、密で柔らかな風合いを持つ。踏みしめた際のふわりとした感触は、足の疲れを和らげてくれる。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_WSWditan_01_Vo",
     "Rank": 30400
@@ -53413,8 +53455,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362321,
-    "Name": "室内絨毯-「闇夜の星章」",
-    "Description": "複雑な模様が施された青く四角い絨毯。ナシャタウンの「秘聞の館」でよく見かけられ、伝統的な対称模様が用いられている。デザイナーは自らのデザイン理念をこう語っている――「暗い群青の夜空の中心に、一つ明るく輝く星がある。このイメージが、落ち込んでいる人の心に、少しでも励ましを与えることを願っている」",
+    "Name": "絨毯-「闇夜の星章」",
+    "Description": "複雑な模様が施された青く四角い絨毯。ナシャタウンの「秘聞の館」でよく見かけられ、伝統的な対称模様が用いられている。デザイナーは自らのデザイン理念をこう語っている——「暗い群青の夜空の中心に、一つ明るく輝く星がある。このイメージが、落ち込んでいる人の心に、少しでも励ましを与えることを願っている」",
     "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_WSWditan_02_Vo",
     "Rank": 30400
   },
@@ -53438,8 +53480,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362274,
-    "Name": "「雲で作られた船のように」",
-    "Description": "ナシャタウン「秘聞の館」で見られるロッキングチェア。曲線は滑らかで、体を横たわらせるために４つのクッションがある。\nもしこの椅子にもたれかかれば、とても独特な感覚を味わえる――頭や手足が柔らかなクッションに包まれ、目を閉じれば、まるで空に浮かぶ雲で作られた小舟に乗っているかのようで、地面の感覚はほとんど消える。やがて、知らず知らずのうちに夢の世界へと誘われるかもしれない。",
+    "Name": "「雲の船」",
+    "Description": "ナシャタウン「秘聞の館」で見られるロッキングチェア。曲線は滑らかで、体を横たわらせるために4つのクッションがある。\nもしこの椅子にもたれかかれば、とても独特な感覚を味わえる——頭や手足が柔らかなクッションに包まれ、目を閉じれば、まるで空に浮かぶ雲で作られた小舟に乗っているかのようで、地面の感覚はほとんど消える。やがて、知らず知らずのうちに夢の世界へと誘われるかもしれない。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_WSWshafa_02_Lod0",
     "Rank": 30200
   },
@@ -53463,7 +53505,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362275,
-    "Name": "「淡酔の旋律」",
+    "Name": "「ほろ酔いの旋律」",
     "Description": "ナシャタウン「フラッグシップ」で見られる特別なジュークボックス。四方向に設置された異なる周波数特性のスピーカーが、豊かな音の層を生み出す。\n様々なジャンルの音楽や照明との組み合わせにより雰囲気を演出し、来場客の気分に応じた体験を提供することが可能。ナシャタウンの「フラッグシップ」のジュークボックスに用意された楽曲は、優雅なものから躍動感に満ちたもの、壮大なものから軽快なものまで多様なスタイルがあり、お酒を楽しむ多くの客に最高の伴奏を提供する。",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_JHSyinyue_01",
     "Rank": 30200
@@ -53488,8 +53530,8 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 362276,
-    "Name": "サマーオーク製多機能キャットタワー",
-    "Description": "主に「サマーオーク」で作られたキャットタワー。登ったり跳んだり爪を研いだりと、猫の様々なニーズに応えている。\nショップによれば、このキャットタワーは発売以来、猫たちから高い評価を得ているという。\nショップが猫の好評ぶりをどうやって確認しているかというと、方法はシンプルだ――猫を飼っている人々のリピート率に加え、このキャットタワーを猫がよく出入りする場所に置き、少し観察すれば、どれだけ人気があるかすぐに分かるのである。",
+    "Name": "サマーオーク材の多機能キャットタワー",
+    "Description": "主に「サマーオーク」で作られたキャットタワー。登ったり跳んだり爪を研いだりと、猫の様々なニーズに応えている。\nショップによれば、このキャットタワーは発売以来、猫たちから高い評価を得ているという。\nショップが猫の好評ぶりをどうやって確認しているかというと、方法はシンプルだ——猫を飼っている人々のリピート率に加え、このキャットタワーを猫がよく出入りする場所に置き、少し観察すれば、どれだけ人気があるかすぐに分かるのである。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Build_WSWmaojia_01_Lod0",
     "Rank": 30200
   },
@@ -53514,7 +53556,7 @@
     ],
     "Id": 374634,
     "Name": "パーティースタンド-「止まらないワクワク」",
-    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「躍動リズムパーティー」で会場のシンボルとされたダンサーの立看板。「流泉の衆」を代表するダンサー、ムラアニの楽しげに舞う姿を余すところなく再現している。\nスメールのベテランダンサーでさえ、ムラアニの動きを真似て思い切り踊った後には、自分でも驚くほど新しい発想を得て、数多くの楽しいダンスの扉を開くことができる。\nこれまで踊ったことのないステップに挑戦し、見た目は簡単な動きの中から想像もしなかった表現力を引き出す――これこそが、主催者たちが「舞術交流」に熱意を注ぐ理由のひとつである。",
+    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「リズムビートパーティー」で会場のシンボルとされたダンサーの立看板。「流泉の衆」を代表するダンサー、ムラアニの楽しげに舞う姿を余すところなく再現している。\nスメールのベテランダンサーでさえ、ムラアニの動きを真似て思い切り踊った後には、自分でも驚くほど新しい発想を得て、数多くの楽しいダンスの扉を開くことができる。\nこれまで踊ったことのないステップに挑戦し、見た目は簡単な動きの中から想像もしなかった表現力を引き出す——これこそが、主催者たちが「舞術交流」に熱意を注ぐ理由のひとつである。",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Lipai_01_Vo",
     "Rank": 90100
   },
@@ -53538,8 +53580,8 @@
       "期間限定イベントで獲得"
     ],
     "Id": 374635,
-    "Name": "パーティスタンド-「しなやかな舞姿」",
-    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「躍動リズムパーティー」において、会場のシンボルとして設置されているダンサーの立て札。スメールのダンス顧問であるニィロウの優美な身のこなしが描かれている。\n遠方から来た踊り子は、まったく異なるダンスを披露した。しかし彼女が表現したのは悠然とした軽やかな気持ちであり、それは部族のダンサーたちにとっても馴染み深く、湖面のように静かで平和なひとときをもたらした。\n踊ったことのないステップを踏み、一見穏やかに見える動きに心の底からの満足感を得る。これこそが、イベントの主催者たちが「舞術交流」に熱中している理由の一つであろう。",
+    "Name": "パーティースタンド-「しなやかな舞姿」",
+    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「リズムビートパーティー」で会場のシンボルとされたダンサーの立看板。スメールのダンス顧問であるニィロウの優美な身のこなしが描かれている。\n遠方から来た踊り子は、まったく異なるダンスを披露した。しかし彼女が表現したのは悠然とした軽やかな気持ちであり、それは部族のダンサーたちにとっても馴染み深く、湖面のように静かで平和なひとときをもたらした。\n踊ったことのないステップを踏み、一見穏やかに見える動きに心の底からの満足感を得る。これこそが、イベントの主催者たちが「舞術交流」に熱中している理由の一つであろう。",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Lipai_02_Vo",
     "Rank": 90100
   },
@@ -53563,8 +53605,8 @@
       "期間限定イベントで獲得"
     ],
     "Id": 374636,
-    "Name": "謎解きのパートナー‐「さよなら、緊張」",
-    "Description": "ファルザン先輩をモデルに作られたぬいぐるみ。学生間で人気の高いぷかぷか水キノコンのぬいぐるみをベースに、歩行機能、地形認識、遠隔操作、重量感知などのモジュールを内蔵しており、自律稼働も可能という高性能な一品だ。\n謎解き協会と遺跡機械シンポジウムの共同開発によって誕生したこの謎解きのパートナーは、高い技術力を誇ると同時に、可愛らしい外見も兼ね備えている。暗くて不気味な遺跡に足を踏み入れても、ファルザン先輩のぬいぐるみの姿を見れば、緊張した気持ちもそっと和らぐだろう……",
+    "Name": "謎解きバディ‐「さよなら緊張」",
+    "Description": "ファルザン先輩をモデルに作られたぬいぐるみ。学生間で人気の高いぷかぷか水キノコンのぬいぐるみをベースに、歩行機能、地形認識、遠隔操作、重量感知などのモジュールを内蔵しており、自律稼働も可能という高性能な一品だ。\n謎解き協会と遺跡仕掛けシンポジウムの共同開発によって誕生したこの謎解きバディは、高い技術力を誇ると同時に、可愛らしい外見も兼ね備えている。暗くて不気味な遺跡に足を踏み入れても、ファルザン先輩のぬいぐるみの姿を見れば、緊張した気持ちもそっと和らぐだろう……",
     "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_Renou_01",
     "Rank": 90100
   },
@@ -53588,7 +53630,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361119,
-    "Name": "「論理推理と情報整理」",
+    "Name": "「帰納と演繹」",
     "Description": "各種情報を整理・集約するのに使える情報ボード。ナシャタウン「秘聞の館」でよく見られる。\n複雑な問題に直面したとき、まず必要なのは既知の情報をまとめ、論理的に推論すること。そのため、充実した機能を誇り、広さも十分な情報ボードは、とても便利なツールになる。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Build_WSWguizi_01_Lod0",
     "Rank": 20100
@@ -53613,7 +53655,7 @@
       "洞天百貨で調度品設計図を購入して習得"
     ],
     "Id": 361120,
-    "Name": "工場の収納‐「積み重ね収納」",
+    "Name": "工場の収納‐「気ままな積み重ね」",
     "Description": "クーヴァキ実験設計局でよく見かける収納棚。全体が鋼鉄で作られており、上半分は広い収納スペース、下半分は2つの引き出しで構成されている。\nこういう収納を使い始めるとき、最初こそは整理整頓されていることが多い。しかし時間が経つと、つい雑に物を積み重ねてしまい、次の整理のタイミングまでそのままになってしまうこともある。",
     "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_BGCguizi_01_Vo",
     "Rank": 20100
@@ -53688,9 +53730,609 @@
       "紀行・真珠の歌の購入"
     ],
     "Id": 374810,
-    "Name": "「もちころりんぬこ」",
-    "Description": "ある有名な黒猫をモデルに作られた機械仕掛けの猫のぬいぐるみ。さまざまな操作ボタンを備えている。\nご存知の通り、猫は非常に神秘的な生き物である。この原則に従い、デザイナーはこの機械猫に面白い仕掛けを施した――ある行動をすると猫は喜びを感じ、別の行動をすると、のんびり寝そべっていた猫が突然跳ね上がることもある……",
+    "Name": "「ころりんキャット」",
+    "Description": "ある有名な黒猫をモデルに作られた機械仕掛けの猫のぬいぐるみ。さまざまな操作ボタンを備えている。\nご存知の通り、猫は非常に神秘的な生き物である。この原則に従い、デザイナーはこの機械猫に面白い仕掛けを施した——ある行動をすると猫は喜びを感じ、別の行動をすると、のんびり寝そべっていた猫が突然跳ね上がることもある……",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363411,
+    "Name": "「きらきら」",
+    "Description": "基盤と3つの浮遊する電球で構成されたテーブルランプ。そのユニークなデザインはナシャタウンの照明装置を参考にしている。\n「なんで浮いてるのに光るの？」電球が浮遊できるのはクーヴァキと関係があるらしく、一部の外国人観光客はこの不思議な設計に感嘆している。",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363412,
+    "Name": "「ラッキールーレット」",
+    "Description": "ナシャタウンで見られる幸運のルーレット。中心にある自由に回転する針を動かすことで、色の違うカップが指し示される。\n「ルーレットを回して止まったら、『ホットドッグ』が今日の運勢を占ってくれるよ。」もちろん、最初に出た結果が不満なら、もう何度か回してもいいだろう…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363413,
+    "Name": "「食欲爆発」",
+    "Description": "ナシャタウンでよく見かけるトレー。パンとソーセージがどっさり盛り付けられている。\nこんがり焼かれた金色のパン、ジューシーな肉汁したたるソーセージ…空腹の旅人ならば、この誘惑には抗えないだろう——ただ、調度品として塵歌壺に置かれた後は、「食欲を刺激する」役割しか果たせなくなったが…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363386,
+    "Name": "「偵察竜」",
+    "Description": "イクトミ仔竜をモチーフにした人形に、スメール産の「偵察パートナー」機関コアを組み込んだもの。魔物の偵察や地形の調査をサポートする、可愛らしくも頼もしい「冒険者の友」です。\n前進測量士であるミカは、自身の専門知識と冒険者のニーズを活かし、「偵察竜」を全面的に改良。地形調査の精密性と機動性を重点的に向上させ、優れた感知力を持つイクトミ仔竜の姿を採用した。危険だらけの冒険では、繊細で機転の利く仲間こそが、最も頼りになる存在なのだから。",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 364225,
+    "Name": "酒場の掲示-「市井の噂」",
+    "Description": "「フラッグシップ」に設置された懸賞掲示板。十分な幅があり、多くの懸賞依頼を張り出せる。\n多くの者は複雑な依頼に対する高額の達成報酬を得ることはできないが、彼らは張り紙に記された情報から、奇妙な市井の噂を次々と組み立ててしまうのだ…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374637,
+    "Name": "「一秒でも早くっ！」",
+    "Description": "「カチャカチャ・クルムカケ工房」で見られる機械。コンパクトで精密なロボットアームが付いている。\n「ちょっと待ってて、『一秒でも早くっ！』ならなんでもお手の物だよ～」その作業効率は高いが、本当に「一秒」ですべてを終えられるわけではない——おそらく、発明者の考えうる、非の打ちどころのない最速の謳い文句なのだろう。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 373939,
+    "Name": "「実用型携帯探知機」",
+    "Description": "ナシャタウンでよく見かける探知機。主に処分が必要な廃材から、まだ使える資材を探知するのに使われる。ただ、この探知機が「ピピッ」と音を立てるのは、いつも変なものばかりだ——例えば、おじさんがうっかり落としたサングラス、どこかの女性が落としたボタンなど…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374639,
+    "Name": "「スーパーバーベキュー伝説」",
+    "Description": "ナシャタウンで肉を焼くのに使われる機械。一定の火加減で調理することで、肉をこの上なく柔らかくジューシーな状態に保つことができる。\n肉を焼く担当者は、この機械を前にすると、ついご機嫌なメロディーを口ずさんでしまうという…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374640,
+    "Name": "「ガタゴトポニー」",
+    "Description": "ナシャタウンで見られる遊具。全体が廃棄された鉄板でできているが、子供たちには大人気だ。\n笑い声が飛び交い、子供たちの体はポニーの動きに合わせて揺れる。悩みも一緒に、ふわふわと飛んで行ってしまうかのようだ～",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374641,
+    "Name": "立式三脚双極塔",
+    "Description": "「カチャカチャ・クルムカケ工房」で見られる三足の塔。独特な造形をしている。\n一説には、黄金時代に遺された謎の機械を改造したものらしく、その具体的な機能は今や不明で、もっぱら装飾として使われている。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "魔神任務で獲得"
+    ],
+    "Id": 374811,
+    "Name": "「君と共に」",
+    "Description": "ツノシカとモサモサアナグマの友情をモチーフに作られた顔出し看板。照明付きなので、夜でも気軽に撮影が楽しめる。\n「ほら、ちょっと抜けてそうなモサモサアナグマと、夜更かしした次の日に居眠りしてるツノシカみたいじゃんか。」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "魔神任務で獲得"
+    ],
+    "Id": 373222,
+    "Name": "「香りを失った花」",
+    "Description": "祈月の夜の雰囲気に合わせて改装された花壇。機械の花は夜になると明るく暖かい光を放つ。\nとある異国の旅人いわく、「奇妙奇天烈…だけど、ナド・クライじゃあ、これも普通なんだろうな！」とのこと。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374812,
+    "Name": "炎魂戦士-「フィエテナ」",
+    "Description": "人気の『炎魂戦記』のフィエテナをモチーフにした立看板。情熱あふれる彼女の勇姿が見事に表現されている。\n「さあ、かかってきなさい！私は決して引かないわ！」\n確かに、「共に立ち向かう」ことが必ずしも理想的な結果をもたらすとは限らない。だが、あなたたちの熱い想いと努力は確かに存在したのだ。きっと未来のどこかで、輝かしく結実するだろう。",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "魔神任務で獲得"
+    ],
+    "Id": 374813,
+    "Name": "「ドドコぐるぐる大冒険」",
+    "Description": "2人で乗ると楽しさ満点の回転ドドコ。偉大なる魔女がお届けするアトラクションだ。\n「ふわふわのドドコに乗って、忘れられない冒険へ旅立とう！」\n回転ドドコはいつか止まってしまうけれど、一緒に乗った人との旅は、いつでも次の始まりを待っている…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "紀行・真珠の歌の購入"
+    ],
+    "Id": 374818,
+    "Name": "「魔龍出撃」",
+    "Description": "おとぎ話の世界から来たドラゴンをモデルにして作られた彫像。両翼を低く垂らし、集中している表情は「出撃準備中」とでも言いたげだ。\nインタラクトして「魔龍出撃」の背中に乗ると、内部の仕掛けが作動し、新たな姿を見せる。目を大きく見開き、翼を羽ばたかせ、尻尾を揺らすその様子は、まるで背中の友人に——「準備はいいかい？さあ、出発だ！」と合図しているかのようだ。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360467,
+    "Name": "「独歩者」",
+    "Description": "「カチャカチャ・クルムカケ工房」で照明として使われる街灯。独特の造形で、俯きながら歩く旅人のように見える。\n夜になると、この灯りは静かに点る——「ずいぶん背の高い街灯だね。腰や背中、痛くないのかい？」\n通りすがる人は、そんなふうに呟くのだった。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "魔神任務で獲得"
+    ],
+    "Id": 360468,
+    "Name": "「不変の光」",
+    "Description": "新月を模した、鉄製の照明灯具。昼夜を問わず、いつも静かに淡い光を放っている。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372516,
+    "Name": "「柔霧のささやき」",
+    "Description": "群生して一面に広がることが多いため、遠くから眺めると、まるで柔らかなピンク色の霧が地面を覆っているように見える。\nまるで自然がささやいているかのような光景だ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372517,
+    "Name": "「往日に手を振る」",
+    "Description": "この種の植物は非常に強い生命力を持っている。\nどんな環境でも風に枝葉をそよがせるその光景は、まるで一枚一枚の葉が過ぎ去った日々に別れを告げるかのようだ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372518,
+    "Name": "「きらめく花蕊」",
+    "Description": "洞窟に見られる、くすみがかったピンク色の植物。広がった葉の先端には「触手」のような細かい花蕊がある。\n淡い蛍光を放つこの植物は、洞窟内で独特な雰囲気を醸し出す照明として使えそうだ…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374814,
+    "Name": "「チュンヤマガラ」",
+    "Description": "朱羽ヤマガラ・古種をモチーフにして作られた、愛嬌のある見た目のチュンボール模型。\n小さなヤマガラにも、大きな力が秘められている！\nチュンボールで遊ぶうちに、あなたもその可愛さに魅了され、思わず「ヤマガラが一番可愛い！！」と叫んでしまうだろう。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374815,
+    "Name": "「美食大盗賊」",
+    "Description": "ポテト盗賊カモメをモチーフにして作られた模型。邪悪な盗賊の仮面を着けた、正真正銘の「美食大盗賊」である。\n「プクプク獣から聞いた話じゃあ…ナタには唯一無二の美食があるそうだな。フッフン、この俺様、美食大盗賊が、何としてでも味わってやるぜ！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374816,
+    "Name": "「黒幕イタチ」",
+    "Description": "カモメたちを飼いならして貢ぎ物を受け取る食いしん坊のイタチをモデルにして作られた、「黒幕イタチ」の模型。\n「俺に言わせりゃ、あのポテト盗賊カモメどもは奪うことしか能のないバカさ…そしてこの俺様が、すべてのポップコーンをいただくのさ！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374817,
+    "Name": "炎魂雪だるま-「親切な戦士」",
+    "Description": "ヴァレサをモデルに作られた雪だるまは、彼女の象徴的な英雄の仮面を身に着け、優しくも情熱的な姿を見事に再現している。\n世界中のゲストの心を癒すため、「雪玉チャレンジ」の設計者は、このような愛らしい仲間を特別に作り上げた。この雪だるまと一緒なら、凍てつくドラゴンスパインでも、特別な温もりを感じることができるだろう。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

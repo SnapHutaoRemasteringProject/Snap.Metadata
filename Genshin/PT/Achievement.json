@@ -5486,7 +5486,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 48,
+    "Progress": 49,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
   },
@@ -5889,12 +5889,12 @@
     "Goal": 0,
     "Order": 1027,
     "Title": "MISSÃO CONCLUÍDA",
-    "Description": "Conclua 10 \"Recompensas de Caça\".",
+    "Description": "Complete a Recompensa de Caça 3 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5903,12 +5903,12 @@
     "Order": 1028,
     "PreviousId": 81026,
     "Title": "MISSÃO CONCLUÍDA",
-    "Description": "Conclua 20 \"Recompensas de Caça\".",
+    "Description": "Complete a Recompensa de Caça 6 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5917,12 +5917,12 @@
     "Order": 1029,
     "PreviousId": 81027,
     "Title": "MISSÃO CONCLUÍDA",
-    "Description": "Conclua 30 \"Recompensas de Caça\".",
+    "Description": "Complete a Recompensa de Caça 9 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -5930,12 +5930,12 @@
     "Goal": 0,
     "Order": 1030,
     "Title": "Aprendiz de Herói",
-    "Description": "Conclua 10 Requisições dos Habitantes",
+    "Description": "Complete a Requisição dos Habitantes 3 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 10,
+    "Progress": 3,
     "Version": "1.1"
   },
   {
@@ -5944,12 +5944,12 @@
     "Order": 1031,
     "PreviousId": 81029,
     "Title": "Aprendiz de Herói",
-    "Description": "Conclua 20 Requisições dos Habitantes",
+    "Description": "Complete a Requisição dos Habitantes 6 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 20,
+    "Progress": 6,
     "Version": "1.1"
   },
   {
@@ -5958,12 +5958,12 @@
     "Order": 1032,
     "PreviousId": 81030,
     "Title": "Aprendiz de Herói",
-    "Description": "Conclua 30 Requisições dos Habitantes",
+    "Description": "Complete a Requisição dos Habitantes 9 vezes.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 30,
+    "Progress": 9,
     "Version": "1.1"
   },
   {
@@ -17436,6 +17436,20 @@
     "Version": "6.1"
   },
   {
+    "Id": 82303,
+    "Goal": 0,
+    "Order": 2303,
+    "Title": "Castelo Móvel de Drzislav",
+    "Description": "Derrote um Cruzador Terrestre Superpesado: Fortaleza Mecânica que superaqueceu e foi imobilizado pelo menos 2 vezes.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19690,6 +19704,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 84366,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Um Dia Importante",
+    "Description": "Um feriado é para relaxar e se divertir.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84367,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Noite da Oração Lunar",
+    "Description": "Aproveite a última noite na esfera sublunar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84368,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Entre o Eterno e Efêmero",
+    "Description": "O luar sempre encontrará uma forma de nos conectar, seja dia ou seja noite.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84369,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Luar na Neblina Matinal",
+    "Description": "Conclua \"Luar na Neblina Matinal\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84370,
+    "Goal": 0,
+    "Order": 5145,
+    "Title": "Quando a Pedra é Levantada",
+    "Description": "Quem sabe, talvez você encontre algo inesperado lá.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84371,
+    "Goal": 0,
+    "Order": 5146,
+    "Title": "Como um Sonho Ilusório",
+    "Description": "Testemunhe a história que aconteceu aqui.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84372,
+    "Goal": 0,
+    "Order": 5147,
+    "Title": "Caminhos Convergentes",
+    "Description": "Vocês se cruzaram em algum momento do passado...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
+  },
+  {
+    "Id": 84373,
+    "Goal": 0,
+    "Order": 5148,
+    "Title": "Poesia Noturna do Extremo Norte",
+    "Description": "Conclua \"Poesia Noturna do Extremo Norte\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.2"
   },
   {
     "Id": 84501,

@@ -575,7 +575,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272101,
         "Name": "Backup Plan",
@@ -595,7 +596,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 272201,
         "Name": "Strategic Reserve",
@@ -829,6 +831,10 @@
       {
         "Title": "Tentang Xianyun",
         "Context": "Aku berencana mengundang Nona Xianyun kemari untuk minum teh sambil berbincang-bincang santai. Kebetulan aku punya beberapa alat mekanika yang menarik, aku sangat tertarik untuk mendengar apa komentarnya mengenai rancangan serta kegunaan alat-alat tersebut. Aku juga ingin mendengarkan kisahnya selaku Adeptus yang menjalani hidup baru, membaur dengan masyarakat Pelabuhan Liyue. Sekarang aku hanya perlu cari orang untuk mengantarkan surat undangannya saja .... Bersediakah kamu membantuku, Pengembara?"
+      },
+      {
+        "Title": "Tentang White Horse Adeptus",
+        "Context": "Terbuka saat Persahabatan Lv. 4"
       },
       {
         "Title": "Mengenal Ningguang: I",

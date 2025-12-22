@@ -721,7 +721,8 @@
                 0.05
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302101,
         "Name": "Ondas de Ressonância",
@@ -742,7 +743,8 @@
                 0.33
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 302201,
         "Name": "Domínio da Terra",
@@ -975,6 +977,10 @@
       {
         "Title": "Sobre Haborym...",
         "Context": "Natlan transformou sua longa história de lutas em poesia, inspirando incontáveis guerreiros a avançarem sem hesitação. Assim, conseguiram superar as ameaças do abismo e do destino, criando um novo futuro. E quem os liderava era uma guerreira humana que transformava o tempo e a história em suas armas. Sua força, capaz de rivalizar com a dos próprios deuses, é verdadeiramente admirável."
+      },
+      {
+        "Title": "Sobre o Adeptus Cavalo Branco",
+        "Context": "O cavalo branco... Um velho conhecido, que não encontro há muito tempo... Lamenta-se das noites de primavera, como são curtas, e dos dias de outono, que logo se vão. Um corcel que dispara e foge veloz, uma vela tremendo à brisa."
       },
       {
         "Title": "Mais sobre Zhongli - I",

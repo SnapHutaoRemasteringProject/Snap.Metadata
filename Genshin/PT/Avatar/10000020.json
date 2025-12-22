@@ -526,6 +526,31 @@
         "Icon": "Skill_S_Razor_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2051,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 205101,
+              "Level": 1,
+              "Parameters": [
+                0.7,
+                1.5,
+                7,
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 205101,
+        "Name": "Presente da Noite da Bruxa: Torrente Elétrica",
+        "Description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Dos Pequenos Lobos</color>, Razor se torna um personagem <color=#FFD780FF>Mágico</color>. Quando possuir pelo menos 2 personagens Mágicos na equipe, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os personagens Mágicos.\nAlém disso, o Supremo <color=#FFD780FF>Dente de Relâmpago</color> de Razor é fortalecido: aumenta o Dano causado de <color=#FFD780FF>Lobo do Trovão</color> em 70% do ATQ de Razor.\n\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\nDurante a invocação do Lobo do Trovão do Supremo <color=#FFD780FF>Dente de Relâmpago</color>, se os Selos Electro da Habilidade Elemental de Razor <color=#FFD780FF>Garra e Trovão</color> sobre-acumularem, o Lobo do Trovão causará ataques de raios elétricos contra os inimigos próximos equivalente a 150% do ATQ de Razor como Dano Electro em AdE, e regenera 7 de Energia Elemental para Razor. Esse efeito pode ser desencadeado uma vez por segundo.",
+        "Icon": "UI_Talent_S_Razor_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 2039,
       "Proud": {
@@ -752,7 +777,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202101,
         "Name": "Despertamento",
@@ -769,7 +795,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 202201,
         "Name": "Fome",

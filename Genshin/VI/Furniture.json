@@ -2456,6 +2456,48 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368207,
+    "Name": "Durin",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368208,
+    "Name": "Jahoda",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -53691,6 +53733,606 @@
     "Name": "Mèo Con Nằm Rạp",
     "Description": "Robot mèo này được mô phỏng theo một chú mèo đen nổi tiếng, có nhiều nút bấm tương tác đa dạng.\nNhư đã biết, mèo là một sinh vật khá bí ẩn. Vì vậy, người thiết kế đã thiết lập những cách chơi khá thú vị cho robot mèo này. Một vài hành vi sẽ khiến mèo cảm thấy vui vẻ, vài hành động khác sẽ khiến chú mèo lười biếng đang nằm rạp bỗng nhảy dựng lên...",
     "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Thing_Prop_Maomaoji_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 812,
+    "DiscountCost": 812,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363411,
+    "Name": "Kỳ Diệu Lấp Lánh",
+    "Description": "Một chiếc đèn bàn gồm đế và ba bóng đèn lơ lửng, thiết kế độc đáo của nó được lấy cảm hứng từ thiết bị chiếu sáng của Thị Trấn Nasha.\n\"Làm sao nó có thể vừa lơ lửng vừa phát sáng được nhỉ?\" Có vẻ như khả năng lơ lửng của bóng đèn có liên quan đến Kuuvahki, những du khách nước ngoài đi ngang qua luôn trầm trồ trước thiết kế kỳ diệu này.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Decoration_Prop_HSdengpao_01",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 930,
+    "DiscountCost": 930,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363412,
+    "Name": "Vòng Quay May Mắn",
+    "Description": "Vòng quay may mắn có thể thấy tại Thị Trấn Nasha, ở trung tâm là một chiếc kim có thể quay tự do và chỉ về những chiếc ly sặc sỡ mang ý nghĩa khác nhau.\n\"Quay vòng quay, khi nó dừng lại thì 'Hot Dog' sẽ cho bạn biết vận may hôm nay!\" Tất nhiên, nếu không hài lòng với kết quả lần đầu tiên, có thể thử quay thêm vài lần nữa...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HSjiweijiu_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363413,
+    "Name": "Vị Giác Bùng Nổ",
+    "Description": "Trên những chiếc đĩa có thể thấy ở khắp nơi tại Thị Trấn Nasha, thường bày đầy những ổ bánh mì no bụng và xúc xích.\nBánh mì vàng giòn, xúc xích bóng bẩy... Chắc hẳn hầu hết những người qua đường đang đói meo đều khó lòng cưỡng lại sức hấp dẫn của những món ăn này... Tuy nhiên, khi trở thành vật trang trí trong Ấm Trần Ca, những món ăn này chỉ còn tác dụng kích thích vị giác mà thôi...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_HScanpan_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 340,
+    "DiscountCost": 340,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363386,
+    "Name": "Trinh Sát Saurian",
+    "Description": "Đồ chơi hình dạng Iktomisaurus non kết hợp với lõi cơ quan \"Đồng Đội Trinh Sát\" được sản xuất tại Sumeru, có thể hỗ trợ trinh sát ma vật, khảo sát địa hình, sẽ là một người bạn đáng yêu lại đáng tin cậy của nhà mạo hiểm.\nNgười đo vẽ bản đồ Mika đã kết hợp kiến thức chuyên môn của mình với nhu cầu của các nhà mạo hiểm để cải tiến toàn diện Trinh Sát Saurian, tập trung nâng cao độ chính xác trong khảo sát địa hình và tính linh hoạt trong hành động, đồng thời chọn hình dạng Iktomisaurus có khả năng cảm nhận tuyệt vời. Xét cho cùng, trong những hành trình đầy rẫy hiểm nguy, một người bạn đồng hành tinh tế và nhanh nhạy chính là sự hiện diện đáng tin cậy nhất.",
+    "Icon": "UI_Homeworld_Ani_Interior_Nt_Decoration_Prop_Mika_01",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 364225,
+    "Name": "Thông Báo Của Quán Rượu - Tin Đồn Trên Phố",
+    "Description": "Bảng thông báo treo thưởng dùng trong Soái Hạm, có kích thước khá lớn, đủ để dán nhiều thông báo treo thưởng.\nPhần lớn mọi người khó có thể nhận được số tiền thưởng lớn từ những treo thưởng phức tạp, nhưng sau khi đọc những thông tin được viết kín trên đó, họ thường có thể ghép nối lại thành những tin đồn kỳ lạ trên phố...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_JHSgonggao_01_Lod0",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374637,
+    "Name": "Một Giây Nhanh Chóng",
+    "Description": "Tạo vật cơ khí có thể bắt gặp tại Xưởng Krumkake Clink-Clank, có cánh tay máy nhỏ gọn và tinh xảo.\n\"Chỉ cần một lúc thôi, 'Một Giây Nhanh Chóng' sẽ làm được tất cả mọi thứ!\" Nó có hiệu suất làm việc rất cao, nhưng không phải tất cả mọi việc đều có thể hoàn thành trong một giây. Có lẽ đây đã là tốc độ hoàn hảo nhất mà nhà phát minh tin rằng khách hàng sẽ không thể phàn nàn.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_LJjixie_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 373939,
+    "Name": "Máy Dò Di Động Hữu Ích",
+    "Description": "Thiết bị dò tìm phổ biến ở Thị Trấn Nasha, chủ yếu dùng để tìm ra vật liệu khả dụng trong đống phế liệu cần xử lý gấp. Tuy nhiên, phần lớn những thứ khiến thiết bị dò tìm phát ra tiếng \"bíp bíp\" thường là những món đồ kỳ quặc... Ví dụ như cặp kính râm mà ông chú nào đó đánh rơi, hay chiếc cúc áo của cô gái nào đó vô tình làm mất...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HStanceqi_01_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374639,
+    "Name": "Huyền Thoại Nướng Thịt Siêu Cấp",
+    "Description": "Chiếc máy dùng để nướng thịt ở Thị Trấn Nasha, có thể duy trì nhiệt độ ổn định, giúp thịt luôn giữ được độ mềm và mọng nước.\nNghe kể rằng, những người phụ trách nướng thịt khi đứng trước chiếc máy này, thường vô thức ngân nga những giai điệu vui tươi, thoải mái...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_HSkaorou_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 430,
+    "DiscountCost": 430,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374640,
+    "Name": "Ngựa Nhỏ Lắc Lư",
+    "Description": "Đồ chơi có thể tìm thấy ở Thị Trấn Nasha, được làm hoàn toàn từ vỏ sắt bỏ đi nhưng lại rất được lũ trẻ yêu thích.\nTiếng cười vang vọng trong không trung, cơ thể của bọn trẻ lắc lư theo chú ngựa, và mọi phiền muộn cũng đều nhẹ nhàng bay đi!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_HSmuma_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374641,
+    "Name": "Tháp Song Cực Ba Chân Dạng Đứng",
+    "Description": "Tháp ba chân có thể bắt gặp tại Xưởng Krumkake Clink-Clank với thiết kế độc đáo.\nNgười ta nói rằng, tháp ba chân này được cải tạo từ một cỗ máy bí ẩn còn sót lại từ thời đại hoàng kim, chức năng cụ thể của nó hiện không ai biết được, chỉ dùng để trang trí mà thôi.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 150,
+    "DiscountCost": 125,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhiệm Vụ Ma Thần"
+    ],
+    "Id": 374811,
+    "Name": "Đồng Hành Cùng Bạn",
+    "Description": "Bảng chụp ảnh lấy cảm hứng từ tình bạn của Hươu Sừng Lạnh và Lửng Áo Choàng, được trang bị sẵn hệ thống chiếu sáng, giúp du khách có thể chụp ảnh dễ dàng dù vào ban đêm.\n\"Trông giống một chú Lửng Áo Choàng ngốc nghếch và một chú... Hươu Sừng Lạnh đang gật gà gật gù vì thức khuya?\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Paizhao_01_Lod0",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 175,
+    "DiscountCost": 144,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhiệm Vụ Ma Thần"
+    ],
+    "Id": 373222,
+    "Name": "Hoa Mất Hương",
+    "Description": "Bồn hoa được trang trí lại để phù hợp với không khí của Đêm Cầu Nguyệt, những bông hoa máy móc bên trong có thể tỏa ra ánh sáng ấm áp và rực rỡ trong đêm.\n\"Kỳ lạ thật... nhưng ở Nod-Krai thì cũng chẳng có gì là lạ hết!\" Một số du khách nước ngoài đã nói thế.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Huatan_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374812,
+    "Name": "Đấu Sĩ Lửa - Fietena",
+    "Description": "Đây là mô hình nhân vật truyện tranh lấy hình mẫu từ Fietena trong bộ \"Chiến Ký Đấu Sĩ Lửa\" đang thịnh hành, thể hiện trọn vẹn tư thế oai hùng đầy nhiệt huyết và dũng cảm của cô ấy.\n\"Vậy thì cùng lên hết thôi, tôi sẽ không lùi bước!\"\nTất nhiên, việc \"cùng lên hết\" không phải lúc nào cũng mang lại kết quả hoàn hảo, nhưng nhiệt huyết và sự cống hiến của mọi người đã từng tồn tại một cách chân thật đến thế. Có lẽ trong tương lai nào đó, nó sẽ đơm hoa kết trái rực rỡ và trọn vẹn.",
+    "Icon": "UI_Homeworld_Exterior_Nt_Decoration_Prop_Lipai_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhiệm Vụ Ma Thần"
+    ],
+    "Id": 374813,
+    "Name": "Dodoco Xoay Tròn Kỳ Thú",
+    "Description": "Trò chơi Dodoco Xoay Tròn tuyệt vời nhất khi ngồi hai người, là một hạng mục giải trí được tài trợ bởi ma nữ vĩ đại.\n\"Hãy cùng ngồi lên chú Dodoco mềm mại và bắt đầu một cuộc phiêu lưu khó quên nào!\"\nDodoco Xoay Tròn rồi cũng sẽ có lúc dừng lại, nhưng bạn và người cùng ngồi trên Dodoco sẽ luôn có một hành trình mới đang chờ đợi phía trước...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Muma_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1050,
+    "DiscountCost": 1050,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhật Ký Hành Trình - Bài Ca Trân Châu"
+    ],
+    "Id": 374818,
+    "Name": "Ma Long Xuất Kích",
+    "Description": "Một bức tượng được tạo ra dựa trên hình mẫu của một con rồng đến từ thế giới cổ tích. Đôi cánh của bức tượng hạ xuống, biểu cảm tập trung, dường như đang trong tư thế \"chuẩn bị xuất kích\".\nThông qua tương tác, sẽ có thể ngồi lên lưng của \"Ma Long Xuất Kích\". Lúc này, cấu trúc bên trong bức tượng sẽ được kích hoạt, khiến nó mang một trạng thái mới. Nó sẽ mở to mắt, vỗ cánh và lắc đuôi, như thể đang nhắc nhở người bạn trên lưng rằng \"Sẵn sàng cất cánh thôi nào!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Chair_Prop_Dulindiaoxiang_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360467,
+    "Name": "Lữ Khách Cô Độc",
+    "Description": "Đèn đường dùng để chiếu sáng trong Xưởng Krumkake Clink-Clank, có thiết kế độc đáo, trông giống như một lữ khách đang cúi đầu bước đi.\nĐến tối, ngọn đèn này sẽ lặng lẽ sáng lên. \"Ngọn đèn cao quá, không biết có bị đau lưng mỏi eo không nhỉ?\"\nNhiều người qua đường đã cảm thán như vậy.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_LJludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 115,
+    "DiscountCost": 97,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhiệm Vụ Ma Thần"
+    ],
+    "Id": 360468,
+    "Name": "Ánh Sáng Kiên Định",
+    "Description": "Chiếc đèn chiếu sáng được làm hoàn toàn từ sắt, mô phỏng hình ảnh trăng non. Dù ngày hay đêm, nó vẫn luôn lặng lẽ tỏa ra ánh sáng nhàn nhạt.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Yueliangdeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372516,
+    "Name": "Lời Thì Thầm Của Sương",
+    "Description": "Bụi cây thấp màu hồng nhạt với thân cây nhỏ mọc thẳng đứng.\nVì chúng thường mọc thành từng mảng lớn san sát nhau nên nhìn từ xa, trông giống làn sương màu hồng phớt, phủ trên mặt đất như tiếng thì thầm của tự nhiên.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_01_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 50,
+    "DiscountCost": 50,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372517,
+    "Name": "Vẫy Tay Với Quá Khứ",
+    "Description": "Thực vật trong hang động có thân mảnh uốn cong, dáng lá như những chiếc quạt nhỏ.\nLoài thực vật này thường có sức sống mãnh liệt, dù môi trường thế nào, cành lá của chúng vẫn nhẹ nhàng đung đưa trong gió, như thể mỗi chiếc lá đều đang vẫy tay từ biệt với quá khứ.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 65,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372518,
+    "Name": "Nhụy Khói Lấp Lánh",
+    "Description": "Thực vật trong hang động có màu hồng khói, với những chiếc lá xòe rộng, phần \"xúc tu\" nhỏ ở ngọn lá trông như nhụy hoa.\nLoài thực vật này có ánh huỳnh quang nhàn nhạt, cũng có thể coi như một công cụ chiếu sáng khá độc đáo trong hang động...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_JJXDXzhibei_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 270,
+    "DiscountCost": 270,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374814,
+    "Name": "Chim Sẻ Nhỏ Bé",
+    "Description": "Mô hình Bóng Nảy Chim Sẻ được chế tác dựa trên nguyên mẫu Chim Sẻ Đỏ Cổ Xưa, với vẻ ngoài ngộ nghĩnh đáng yêu.\nDù là chim sẻ nhỏ bé nhưng cũng có sức mạnh phi thường!\nKhi chơi Bóng Sẻ cũng sẽ bị vẻ dễ thương của nó thu hút, và rồi không kìm được mà thốt lên câu: \"Chim sẻ đáng yêu quá!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374815,
+    "Name": "Đạo Tặc Đồ Ăn",
+    "Description": "Mô hình được tạo ra dựa trên nguyên mẫu Hải Âu Cướp Khoai Tây, đeo chiếc mặt nạ đạo tặc xấu xa, đúng là một đạo tặc đồ ăn chính hiệu.\n\"Nghe Hải Thú Bồng Bềnh nói... Natlan có những món ăn độc nhất vô nhị, hừm hừm, vậy thì đạo tặc đồ ăn đây nhất định phải đến nếm thử cho bằng được!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_02",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374816,
+    "Name": "Chồn Núi Chủ Mưu",
+    "Description": "Mô hình được tạo ra dựa trên nguyên mẫu Chồn Núi Tham Ăn, chính là chồn núi chủ mưu đã thuần phục lũ hải âu cống nạp cho mình!\n\"Theo ta thì lũ hải âu cướp khoai tây chỉ là một lũ ngốc chuyên đi cướp bóc... còn ta, sẽ thưởng thức tất cả bỏng ngô!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Tanqiu_03",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374817,
+    "Name": "Người Tuyết Lửa Hồn - Chiến Binh Giỏi",
+    "Description": "Mô hình người tuyết được tạo ra dựa trên nguyên mẫu Varesa, đeo mặt nạ mang tính biểu tượng, tái hiện một cách chính xác hình tượng thân thiện và nhiệt tình của cô ấy.\nNhằm giúp khách từ các quốc gia có được tâm trạng thoải mái, nhà thiết kế của Ngọc Bay Thú Vị đã cố tình tạo ra người bạn đồng hành đáng yêu này. Có nó ở bên, thì dù phải đối diện với Long Tích Tuyết Sơn lạnh thấu xương, cũng sẽ cảm thấy sự ấm áp vô cùng đặc biệt.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
   },
   {

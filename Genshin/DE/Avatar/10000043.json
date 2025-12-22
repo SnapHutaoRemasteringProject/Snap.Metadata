@@ -414,6 +414,31 @@
         "Icon": "Skill_S_Sucrose_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 435101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.057143,
+                20,
+                0.071429
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 435101,
+        "Name": "Geschenk der Hexennacht – Die sieben Prinzipien",
+        "Description": "#Wandelt Saccharose nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von den Blumen des Wunderlandes</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\n· Erhöht innerhalb von 15{NON_BREAK_SPACE}s nach der Beschwörung einer kleinen Windseele den von Figuren in der Nähe durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um 5,71428{NON_BREAK_SPACE}%.\n· Erhöht innerhalb von 20{NON_BREAK_SPACE}s nach der Beschwörung einer großen Windseele den von Hexerei-Figuren in der Nähe durch Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden um 7,14285{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Sucrose_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4339,
       "Proud": {
@@ -611,7 +636,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432101,
         "Name": "Katalysatorenkonversion",
@@ -631,7 +657,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 432201,
         "Name": "Favonius Mollis",

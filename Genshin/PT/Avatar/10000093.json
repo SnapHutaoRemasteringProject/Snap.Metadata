@@ -752,7 +752,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932101,
         "Name": "Perseguição da Pena Gelada",
@@ -773,7 +774,8 @@
                 0.4
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 932201,
         "Name": "Pense a Adeptus em seu Reino",
@@ -989,6 +991,10 @@
       {
         "Title": "Sobre Gaming...",
         "Context": "Esta gosta muito de Gaming. Ele tem um bom coração e é divertido em conversa, mas nunca fala demais. Nos encontramos pela primeira vez quando esta estava descansando perto do lago e ele gentilmente dividiu um pouco de suas provisões comigo. Mais tarde, ele comentou que esta parecia ser uma sábia anciã, merecedora de respeito até mesmo dos adepti... Hehe, essa sábia anciã vai garantir de cuidar dele depois disso."
+      },
+      {
+        "Title": "Sobre Zibai",
+        "Context": "Desbloqueia quando Amizade atingir Nv.4"
       },
       {
         "Title": "Mais Sobre Xianyun - I",

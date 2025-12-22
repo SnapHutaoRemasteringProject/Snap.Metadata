@@ -45,7 +45,8 @@
             "Gezielte Schüsse|{param7:F1P}",
             "Voll aufgeladene gezielte Schüsse|{param8:P}",
             "SCH beim Fallen|{param9:F1P}",
-            "SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
+            "SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}",
+            "Orkanpfeil-SCH|{param12:F1P} Standardangriffs-SCH"
           ],
           "Parameters": [
             {
@@ -62,7 +63,8 @@
                 1.24,
                 0.568288,
                 1.136335,
-                1.419344
+                1.419344,
+                1.6
               ]
             },
             {
@@ -79,7 +81,8 @@
                 1.333,
                 0.614544,
                 1.228828,
-                1.534872
+                1.534872,
+                1.7
               ]
             },
             {
@@ -96,7 +99,8 @@
                 1.426,
                 0.6608,
                 1.32132,
-                1.6504
+                1.6504,
+                1.8
               ]
             },
             {
@@ -113,7 +117,8 @@
                 1.55,
                 0.72688,
                 1.453452,
-                1.81544
+                1.81544,
+                1.9
               ]
             },
             {
@@ -130,7 +135,8 @@
                 1.643,
                 0.773136,
                 1.545944,
-                1.930968
+                1.930968,
+                2
               ]
             },
             {
@@ -147,7 +153,8 @@
                 1.736,
                 0.826,
                 1.65165,
-                2.063
+                2.063,
+                2.1
               ]
             },
             {
@@ -164,7 +171,8 @@
                 1.86,
                 0.898688,
                 1.796995,
-                2.244544
+                2.244544,
+                2.2
               ]
             },
             {
@@ -181,7 +189,8 @@
                 1.984,
                 0.971376,
                 1.94234,
-                2.426088
+                2.426088,
+                2.3
               ]
             },
             {
@@ -198,7 +207,8 @@
                 2.108,
                 1.044064,
                 2.087686,
-                2.607632
+                2.607632,
+                2.4
               ]
             },
             {
@@ -215,7 +225,8 @@
                 2.232,
                 1.12336,
                 2.246244,
-                2.80568
+                2.80568,
+                2.5
               ]
             },
             {
@@ -232,7 +243,8 @@
                 2.36096,
                 1.202656,
                 2.404802,
-                3.003728
+                3.003728,
+                2.6
               ]
             },
             {
@@ -249,7 +261,8 @@
                 2.5296,
                 1.281952,
                 2.563361,
-                3.201776
+                3.201776,
+                2.7
               ]
             },
             {
@@ -266,7 +279,8 @@
                 2.69824,
                 1.361248,
                 2.721919,
-                3.399824
+                3.399824,
+                2.8
               ]
             },
             {
@@ -283,7 +297,8 @@
                 2.86688,
                 1.440544,
                 2.880478,
-                3.597872
+                3.597872,
+                2.9
               ]
             },
             {
@@ -300,7 +315,8 @@
                 3.03552,
                 1.51984,
                 3.039036,
-                3.79592
+                3.79592,
+                3
               ]
             }
           ]
@@ -476,6 +492,30 @@
         "Name": "Sonett vom Himmel",
         "Description": "Beschwört einen Wind, der den Klängen und Liedern folgt und Dinge, die sonst fest auf dem Boden verankert sind, in die Luft reißt.\n\n<color=#FFD780FF>Drücken</color>\nErschafft dort, wo sich Gegner befinden, einen Sturm, der <color=#80FFD7FF>Anemo-Flächenschaden</color> verursacht und die betroffenen Gegner wegschleudert.\n\n<color=#FFD780FF>Gedrückt halten</color>\nErschafft einen größeren Sturm um Venti, der <color=#80FFD7FF>Anemo-Flächenschaden</color> verursacht und betroffene Gegner wegschleudert.\nNach dem Auslösen steigt Venti in die Luft.\n\nVom Sonett vom Himmel weggeschleuderte Gegner fallen langsam zu Boden.\n\n<i>Als die Archonten noch unter den Menschen weilten, hörte man unzählige Lieder durch die Luft hallen. Dies ist eine der lange vergessenen Melodien.</i>",
         "Icon": "Skill_S_Venti_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Geschenk der Hexennacht – Ode an die Winde der Zeit",
+        "Description": "#Wandelt Venti nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Vom Erwachen des Windes</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nErhöht, während das durch die Spezialfähigkeit <color=#FFD780FF>Ode vom Anemo-Archon</color> hervorgerufene Zentrum des Sturms existiert und innerhalb von 4{NON_BREAK_SPACE}s, nachdem die aktuelle Figur in der Nähe die Reaktion Verwirbelung ausgelöst hat, den von dieser Figur verursachten Schaden um 50{NON_BREAK_SPACE}%. Der von Ventis eigenem Zentrum des Sturms verursachte Schaden liegt zudem bei 135{NON_BREAK_SPACE}% des ursprünglichen Schadens.",
+        "Icon": "UI_Talent_S_Venti_07"
       }
     ],
     "EnergySkill": {
@@ -674,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Umarmung des Windes",
@@ -694,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Zentrum des Sturms",
@@ -927,6 +969,10 @@
       {
         "Title": "Über Dahlia ...",
         "Context": "Oh, Reisender, willst du die Stimme des Windes hören und dich von ihm leiten lassen? Dann sage ich dir ... ein Gespräch mit dem Diakon ist die beste Wahl. Haha, das war nur ein Scherz – du kannst jederzeit mit mir bei einem Drink plaudern! Der Grund, warum ich normalerweise Dahlia als Vermittler einsetze, ist, dass ... Nun ja, ich denke, du kennst den Grund. Er liebt es, dem Tosen des Windes zu lauschen, aber vor allem hat er auch seinen eigenen Kompass."
+      },
+      {
+        "Title": "Über Durin ...",
+        "Context": "Noch ein Kind des Hexenfräuleins hier in Mondstadt – wie amüsant! Mein neuer kleiner Spielgefährte schien unbedingt mit einem gewissen älteren, größeren Freund von mir Bekanntschaft machen zu wollen, also habe ich ein kleines Treffen arrangiert – und voilà! Am Ende war mein großer Freund derjenige, der vor Aufregung fast geplatzt ist! Ach, du hättest sehen sollen, wie er vor Freude herumhüpfte, sich den Bauch tätschelte und im Kreis tanzte. Oh nein ... hat er etwa gehört, was ich gerade gesagt habe? Schnell, schnell – hinter den Baum, bevor er uns entdeckt!"
       },
       {
         "Title": "Ich will mehr über Venti erfahren I",

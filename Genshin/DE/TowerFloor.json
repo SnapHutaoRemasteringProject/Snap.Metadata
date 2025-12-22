@@ -1180,5 +1180,29 @@
     "SecondDescriptions": [
       "#Erhöht den mit Standardangriffen der Figur verursachten Pyro-Schaden um 75{NON_BREAK_SPACE}%."
     ]
+  },
+  {
+    "Id": 1118,
+    "Index": 11,
+    "LevelGroupId": 118,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "(Test) Obsolet",
+      "#Verleiht allen Truppenmitgliedern einen Pyro-SCH-Bonus von 60{NON_BREAK_SPACE}%.",
+      "#Verleiht allen Truppenmitgliedern einen Elektro-SCH-Bonus von 60{NON_BREAK_SPACE}%."
+    ]
+  },
+  {
+    "Id": 1119,
+    "Index": 12,
+    "LevelGroupId": 119,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "#Verleiht allen inaktiven Figuren in der Truppe einen Pyro-SCH-Bonus von 75{NON_BREAK_SPACE}%."
+    ],
+    "SecondDescriptions": [
+      "#Erhöht den mit Angriffen aus dem Fall von der Figur verursachten Schaden um 75{NON_BREAK_SPACE}%."
+    ]
   }
 ]

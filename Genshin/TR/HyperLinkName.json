@@ -383,5 +383,20 @@
     "Id": 11220003,
     "Name": "Yanılgı Perdesi",
     "Description": "Nefer, \"Ay Işığına Bahis\" Yükseltme Yeteneği ile \"Aldatıcı Tohumlar\" topladığında bu etkiyi kazanır ve Hayali Performansının verdiği Hasar artar.\nHer yanılgı Perdesi kademesi, Nefer'ın Hayali Performansının verdiği Hasarı %{PARAM#P1222101|6S100} artırır. Başlangıçtaki maksimum kademe sayısı {PARAM#P1222101|1S1} ile sınırlıdır ve her kademe {PARAM#P1222101|2S1}sn sürer. Her kademenin süresi birbirinden bağımsızdır."
+  },
+  {
+    "Id": 11230001,
+    "Name": "Temel Dönüşüm",
+    "Description": "<color=#FFD780FF>İkili Form: Birleşme ve Ayrılma</color> Element Becerisi kullanıldıktan sonra Durin 6 saniyeliğine bu etkiyi kazanır.\nEtki aktifken Element Becerisi butonuna basarak <color=#FFD780FF>Saflığın Kabulü</color> durumuna veya Normal Saldırı butonuna basarak <color=#FFD780FF>Karanlığın Reddi</color> durumuna gir.\nDurin bu durumlardayken farklı güçlendirmeler kazanır ve farklı Element Patlamaları kullanabilir."
+  },
+  {
+    "Id": 11240001,
+    "Name": "Miyavtastik Hazine Şişesi",
+    "Description": "Jahoda'nın <color=#FFD780FF>Kurnaz Strateji: Ganimet Paylaşımı</color> Element Becerisini kullandıktan sonra elde ettiği küçük bir element şişesi.\nJahoda, Gölge Takibi durumundayken yakındaki düşmanlar <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> etkisinde olursa Miyavtastik Hazine Şişesi o elemente dönüşür ve dolmaya başlar. Dönüşeceği elementin öncelik sırası şöyledir: <color=#FF9999FF>Ateş</color> > <color=#80C0FFFF>Su</color> > <color=#FFACFFFF>Elektrik</color> > <color=#99FFFFFF>Buz</color>. Jahoda her Element Becerisi kullandığında Miyavtastik Hazine Şişesi bu şekilde bir dönüşüm geçirebilir.\nMiyavtastik Hazine Şişesi dolduğunda Jahoda onu hemen boşaltır, Gölge Takibi durumundan çıkar ve yakındaki düşmanlara tek seferlik <color=#80FFD7FF>Rüzgar Hasarı</color> verir.\nElement Becerisi her kullanıldığında Jahoda yeni bir Miyavtastik Hazine Şişesi çıkarır.\n\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: <color=#FFD780FF>Miyavtastik Hazine Şişesi</color> dolduğunda Jahoda onu hemen boşaltmaz. Bunun yerine kısa bir süre boyunca, depolanan element enerjisini sürekli olarak tüketir ve yakındaki düşmanlara belirli aralıklarla <color=#FFD780FF>Pofuduk Kedi Yumakları</color> fırlatarak <color=#FFD780FF>Miyavtastik Hazine Şişesinde</color> depolanan element türünde Hasar verir."
+  },
+  {
+    "Id": 11240002,
+    "Name": "Kedisel Koordineli Destek Robotları",
+    "Description": "Eski bir hazine avcısı olan Jahoda'nın yanında taşıdığı aygıtlardan biri. <color=#FFD780FF>Gizli Yetenekler: Avcının Yedi Aleti</color> Element Patlamasını kullandığında ortaya çıkar.\nKedisel Koordineli Destek Robotları sürekli olarak aktif karakterinin Canını yeniler. İyileştirilen karakterin Canı %70'in üzerindeyse yakındaki en düşük Cana sahip grup üyesinin de Canını yeniler.\n\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: Yakındaki düşmanlar <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> etkisindeyse Kedisel Koordineli Destek Robotları ilgili elemente dönüşür. Dönüşeceği elementin öncelik sırası şöyledir: <color=#FF9999FF>Ateş</color> > <color=#80C0FFFF>Su</color> > <color=#FFACFFFF>Elektrik</color> > <color=#99FFFFFF>Buz</color>. Her konuşlandırmadan sonra Kedisel Koordineli Destek Robotu bu şekilde bir dönüşüm geçirebilir. Dönüşümden sonra Kedisel Koordineli Destek Robotu, yakındaki en fazla 3 düşmana belirli aralıklarla saldırarak ilgili element türünde Hasar verir."
   }
 ]

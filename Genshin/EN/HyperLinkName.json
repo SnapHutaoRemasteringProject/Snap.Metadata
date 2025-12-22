@@ -383,5 +383,20 @@
     "Id": 11220003,
     "Name": "Veil of Falsehood",
     "Description": "After absorbing Seeds of Deceit via the Ascension Talent A Wager of Moonlight, Nefer gains this effect, thereby increasing the DMG dealt by her Phantasm Performance.\nEach stack of Veil of Falsehood increases the DMG dealt by Nefer's Phantasm Performance by {PARAM#P1222101|6S100}%. The initial maximum number of stacks is {PARAM#P1222101|1S1}, with each stack lasting for {PARAM#P1222101|2S1}s (each stack's duration is counted independently)."
+  },
+  {
+    "Id": 11230001,
+    "Name": "Essential Transmutation",
+    "Description": "After unleashing the Elemental Skill <color=#FFD780FF>Binary Form: Convergence and Division</color>, Durin gains this effect for 6s.\nWhile the effect is active, press the Elemental Skill button to enter the <color=#FFD780FF>Confirmation of Purity</color> state, or press the Normal Attack button to enter the <color=#FFD780FF>Denial of Darkness</color> state.\nDurin will gain different buffs and can unleash different Elemental Bursts while in these states."
+  },
+  {
+    "Id": 11240001,
+    "Name": "Purr-loined Treasure Flask",
+    "Description": "A small elemental vessel that Jahoda retrieves after casting her Elemental Skill <color=#FFD780FF>Savvy Strategy: Splitting the Spoils</color>.\nWhile Jahoda is in the Shadow Pursuit state, if nearby opponents are affected by <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, or <color=#99FFFFFF>Cryo</color>, the Purr-loined Treasure Flask will convert to that element and begin filling up. The order of priority that determines which element will be converted to is: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, then <color=#99FFFFFF>Cryo</color>. After each use of her Elemental Skill, the Purr-loined Treasure Flask can undergo one such conversion.\nWhen the Purr-loined Treasure Flask is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a single instance of <color=#80FFD7FF>Anemo DMG</color> to nearby opponents.\nEach time the Elemental Skill is cast, Jahoda takes out a brand-new Purr-loined Treasure Flask.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: When the <color=#FFD780FF>Purr-loined Treasure Flask</color> becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires <color=#FFD780FF>Fluffy Meowballs</color> at nearby opponents, dealing DMG of the corresponding element stored in the <color=#FFD780FF>Purr-loined Treasure Flask</color>."
+  },
+  {
+    "Id": 11240002,
+    "Name": "Purrsonal Coordinated Assistance Robots",
+    "Description": "One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color>.\nPurrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: If nearby opponents are affected by <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, or <color=#99FFFFFF>Cryo</color>, Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, then <color=#99FFFFFF>Cryo</color>. After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element."
   }
 ]

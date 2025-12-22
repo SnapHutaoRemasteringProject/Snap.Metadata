@@ -483,6 +483,33 @@
         "Icon": "Skill_S_Mona_02"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 4151,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 415101,
+              "Level": 1,
+              "Parameters": [
+                8,
+                3,
+                0.05,
+                2,
+                4,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 415101,
+        "Name": "Geschenk der Hexennacht – Ursprung der himmlischen Schritte",
+        "Description": "#Wandelt Mona nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von unerprobter Einsicht</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nVerleiht Mona, wenn sie einen Gegner mit ihrem Standardangriff oder heftigen Schlag trifft, 1 Stapelung „Merkurs himmlischer Glanz“. Dieser Effekt hält 8{NON_BREAK_SPACE}s, 3-fach stapelbar. Auf diese Weise kann sie alle 0,1{NON_BREAK_SPACE}s max. 1 Stapelung „Merkurs himmlischer Glanz“ erhalten. Verbraucht, wenn andere eigene Truppenmitglieder die Reaktion Verdampfen auf Gegner anwenden, alle Stapelungen „Merkurs himmlischer Glanz“. Erhöht den durch die Reaktion Verdampfen zugefügten Schaden für jede Stapelung um 5{NON_BREAK_SPACE}%.\nVerlängert, wenn Mona Gegner mit ihrem Standardangriff oder heftigen Schlag trifft, den Zustand <color=#FFD780FF>Omen</color> des Gegners um 2{NON_BREAK_SPACE}s. 0,5{NON_BREAK_SPACE}s Abklingzeit. Der Zustand <color=#FFD780FF>Omen</color> eines Gegners kann auf diese Weise um bis zu 8{NON_BREAK_SPACE}s verlängert werden.",
+        "Icon": "UI_Talent_S_Mona_07"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 4139,
       "Proud": {
@@ -757,7 +784,8 @@
                 0.5
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412101,
         "Name": "„Die Alte kriegt mich nicht!“",
@@ -777,7 +805,8 @@
                 0.2
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 412201,
         "Name": "„Lass das Schicksal entscheiden!“",

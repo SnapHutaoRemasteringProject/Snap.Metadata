@@ -45,7 +45,8 @@
             "Disparo Preciso|{param7:F1P}",
             "Disparo Preciso (carga completa)|{param8:P}",
             "Daño de Caída|{param9:F1P}",
-            "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
+            "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}",
+            "Daño de flecha huracanada|{param12:F1P} del daño de ATQ Normal"
           ],
           "Parameters": [
             {
@@ -62,7 +63,8 @@
                 1.24,
                 0.568288,
                 1.136335,
-                1.419344
+                1.419344,
+                1.6
               ]
             },
             {
@@ -79,7 +81,8 @@
                 1.333,
                 0.614544,
                 1.228828,
-                1.534872
+                1.534872,
+                1.7
               ]
             },
             {
@@ -96,7 +99,8 @@
                 1.426,
                 0.6608,
                 1.32132,
-                1.6504
+                1.6504,
+                1.8
               ]
             },
             {
@@ -113,7 +117,8 @@
                 1.55,
                 0.72688,
                 1.453452,
-                1.81544
+                1.81544,
+                1.9
               ]
             },
             {
@@ -130,7 +135,8 @@
                 1.643,
                 0.773136,
                 1.545944,
-                1.930968
+                1.930968,
+                2
               ]
             },
             {
@@ -147,7 +153,8 @@
                 1.736,
                 0.826,
                 1.65165,
-                2.063
+                2.063,
+                2.1
               ]
             },
             {
@@ -164,7 +171,8 @@
                 1.86,
                 0.898688,
                 1.796995,
-                2.244544
+                2.244544,
+                2.2
               ]
             },
             {
@@ -181,7 +189,8 @@
                 1.984,
                 0.971376,
                 1.94234,
-                2.426088
+                2.426088,
+                2.3
               ]
             },
             {
@@ -198,7 +207,8 @@
                 2.108,
                 1.044064,
                 2.087686,
-                2.607632
+                2.607632,
+                2.4
               ]
             },
             {
@@ -215,7 +225,8 @@
                 2.232,
                 1.12336,
                 2.246244,
-                2.80568
+                2.80568,
+                2.5
               ]
             },
             {
@@ -232,7 +243,8 @@
                 2.36096,
                 1.202656,
                 2.404802,
-                3.003728
+                3.003728,
+                2.6
               ]
             },
             {
@@ -249,7 +261,8 @@
                 2.5296,
                 1.281952,
                 2.563361,
-                3.201776
+                3.201776,
+                2.7
               ]
             },
             {
@@ -266,7 +279,8 @@
                 2.69824,
                 1.361248,
                 2.721919,
-                3.399824
+                3.399824,
+                2.8
               ]
             },
             {
@@ -283,7 +297,8 @@
                 2.86688,
                 1.440544,
                 2.880478,
-                3.597872
+                3.597872,
+                2.9
               ]
             },
             {
@@ -300,7 +315,8 @@
                 3.03552,
                 1.51984,
                 3.039036,
-                3.79592
+                3.79592,
+                3
               ]
             }
           ]
@@ -476,6 +492,30 @@
         "Name": "Sonata celestial",
         "Description": "#Oh, viento que lleva consigo la música y la poesía, ¡llévate a estos caminantes de la tierra a los cielos!\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nInvoca un campo de viento en la ubicación del enemigo, infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> y lanzando a los enemigos por los aires.\n\n<color=#FFD780FF>Mantener pulsado</color>\nInvoca un campo de viento aún más grande con Venti como epicentro, infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> y lanzando por los aires a los enemigos afectados.\nAl mantener pulsada esta habilidad, Venti también alzará el vuelo.\n\nLos enemigos golpeados por Sonata celestial caerán al suelo lentamente.\n\n<i>En los días en que dioses y hombres caminaban juntos por la tierra, los cielos estaban llenos de innumerables canciones. Sin embargo, esta melodía fue olvidada hace mucho tiempo.</i>",
         "Icon": "Skill_S_Venti_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 2251,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 225101,
+              "Level": 1,
+              "Parameters": [
+                0.5,
+                1.35,
+                4
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 225101,
+        "Name": "Rito de la noche de brujas: Alabanza del viento del tiempo",
+        "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: Del despertar del viento»</color>, Venti se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nMientras el Ojo del huracán creado por la Habilidad Definitiva, <color=#FFD780FF>Gran Oda del Viento</color>, esté activo, durante los 4{NON_BREAK_SPACE}s después de que un personaje en uso cercano cause una reacción de Torbellino, el daño infligido por dicho personaje aumentará en un 50%, y el Ojo del huracán de Venti infligirá un 135% de su daño original.",
+        "Icon": "UI_Talent_S_Venti_07"
       }
     ],
     "EnergySkill": {
@@ -658,7 +698,7 @@
       },
       "Id": 10225,
       "Name": "Gran Oda del Viento",
-      "Description": "Dispara una flecha imbuida de viento, creando un enorme ciclón que atrae a los enemigos e inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Cambio elemental</color>\nSi el ciclón entra en contacto con <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro </color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, inflige Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez por uso.\n\n<i>Muchos himnos escritos en alabanza al Arconte Anemo se han perdido en el tiempo. Este canta sobre su dominio del viento.</i>",
+      "Description": "Dispara una flecha imbuida de viento, creando un enorme ciclón que atrae a los enemigos e inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Cambio elemental</color>\nSi el ciclón entra en contacto con <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, inflige Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez por uso.\n\n<i>Muchos himnos escritos en alabanza al Arconte Anemo se han perdido en el tiempo. Este canta sobre su dominio del viento.</i>",
       "Icon": "Skill_E_Venti_01"
     },
     "Inherents": [
@@ -674,7 +714,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222101,
         "Name": "Abraza los vientos",
@@ -694,7 +735,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 1
         },
         "Id": 222201,
         "Name": "Ojo del huracán",
@@ -927,6 +969,10 @@
       {
         "Title": "Sobre Dahlia...",
         "Context": "#{NICKNAME}, ¿deseas oír la voz del viento y que este te guíe? Entonces... hablar con el Diácono es tu mejor opción. Jaja, es broma, ¡puedes venir cuando quieras a charlar conmigo mientras nos tomamos una copa! La razón por la que suelo pedirle a Dahlia que sea mi intermediario es porque... bueno, supongo que ya lo habrás deducido. Aunque le encanta escuchar la algarabía del viento, nunca pierde su propio rumbo."
+      },
+      {
+        "Title": "Sobre Durin...",
+        "Context": "Otro hijo de la Srta. Bruja se ha establecido en Mondstadt, ¡qué animado está todo! Este pequeño parecía muy interesado en jugar con otro de mis amigos más mayor que él, así que hice algunas presentaciones. Al final, fue mi amigo mayor el que se mostró más entusiasmado de los dos. Tendrías que haberlo visto saltar de alegría, darse palmadas en el estómago y dar vueltas sobre sí mismo. ¡Oh, no! ¿Ha oído lo que acabo de decir? ¡Rápido, rápido, escondámonos detrás de ese árbol!"
       },
       {
         "Title": "Más sobre Venti (I)",
