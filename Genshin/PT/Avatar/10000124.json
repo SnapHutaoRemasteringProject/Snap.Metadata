@@ -1,0 +1,1265 @@
+{
+  "Id": 10000124,
+  "PromoteId": 124,
+  "Sort": 108,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Jahoda",
+  "SideIcon": "UI_AvatarIcon_Side_Jahoda",
+  "Name": "Jahoda",
+  "Description": "A faz-tudo extremamente confiável (segundo ela) da Curadoria dos Segredos.",
+  "BeginTime": "2025-12-02T00:00:00+08:00",
+  "Quality": 4,
+  "Weapon": 12,
+  "BaseValue": {
+    "HpBase": 808.7586,
+    "AttackBase": 18.6984,
+    "DefenseBase": 48.64125
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 22
+    },
+    {
+      "Type": 4,
+      "Value": 32
+    },
+    {
+      "Type": 7,
+      "Value": 22
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12431,
+        "Proud": {
+          "Descriptions": [
+            "Dano do 1° Golpe|{param1:F1P}",
+            "Dano do 2° Golpe|{param2:F1P} x2",
+            "Dano do 3° Golpe|{param3:F1P}",
+            "Disparo com Mira|{param4:F1P}",
+            "Disparo com Mira com Energização Completa|{param5:P}",
+            "Dano Durante a Queda|{param6:F1P}",
+            "Dano de Queda de Baixa/Alta Altitude|{param7:P}/{param8:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1243101,
+              "Level": 1,
+              "Parameters": [
+                0.416739,
+                0.192313,
+                0.511975,
+                0.4386,
+                1.24,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1243102,
+              "Level": 2,
+              "Parameters": [
+                0.450659,
+                0.207967,
+                0.553648,
+                0.4743,
+                1.333,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1243103,
+              "Level": 3,
+              "Parameters": [
+                0.48458,
+                0.22362,
+                0.59532,
+                0.51,
+                1.426,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1243104,
+              "Level": 4,
+              "Parameters": [
+                0.533038,
+                0.245982,
+                0.654852,
+                0.561,
+                1.55,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1243105,
+              "Level": 5,
+              "Parameters": [
+                0.566959,
+                0.261635,
+                0.696524,
+                0.5967,
+                1.643,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1243106,
+              "Level": 6,
+              "Parameters": [
+                0.605725,
+                0.279525,
+                0.74415,
+                0.6375,
+                1.736,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1243107,
+              "Level": 7,
+              "Parameters": [
+                0.659029,
+                0.304123,
+                0.809635,
+                0.6936,
+                1.86,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1243108,
+              "Level": 8,
+              "Parameters": [
+                0.712333,
+                0.328721,
+                0.87512,
+                0.7497,
+                1.984,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1243109,
+              "Level": 9,
+              "Parameters": [
+                0.765636,
+                0.35332,
+                0.940606,
+                0.8058,
+                2.108,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1243110,
+              "Level": 10,
+              "Parameters": [
+                0.823786,
+                0.380154,
+                1.012044,
+                0.867,
+                2.232,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1243111,
+              "Level": 11,
+              "Parameters": [
+                0.881936,
+                0.406988,
+                1.083482,
+                0.9282,
+                2.356,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1243112,
+              "Level": 12,
+              "Parameters": [
+                0.940085,
+                0.433823,
+                1.154921,
+                0.9894,
+                2.48,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1243113,
+              "Level": 13,
+              "Parameters": [
+                0.998235,
+                0.460657,
+                1.226359,
+                1.0506,
+                2.635,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1243114,
+              "Level": 14,
+              "Parameters": [
+                1.056384,
+                0.487492,
+                1.297798,
+                1.1118,
+                2.79,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1243115,
+              "Level": 15,
+              "Parameters": [
+                1.114534,
+                0.514326,
+                1.369236,
+                1.173,
+                2.945,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11241,
+        "Name": "Flechada no Momento Preciso",
+        "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 3 disparos consecutivos com um arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>Disparo com Mira </color>mais preciso e com Dano aumentado.\nAo mirar, ventos fortes se acumularão na ponta da flecha. Uma flecha completamente carregada com ventos fortes irá infligir <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas no ar que atingirão o solo rapidamente, alcançando os inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+        "Icon": "Skill_A_02"
+      },
+      {
+        "GroupId": 12432,
+        "Proud": {
+          "Descriptions": [
+            "Dano de Bomba de Fumaça|{param1:F1P}",
+            "Dano de Garrafa Secreta Não Cheia|{param2:F1P}",
+            "Dano de Garrafa Secreta Cheia|{param3:F1P}",
+            "Duração de Garrafa Secreta|{param4:F1}s",
+            "Dano da Bola Miaufinha|{param5:F1P}",
+            "Tempo de Recarga|{param6:F1}s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1243201,
+              "Level": 1,
+              "Parameters": [
+                1.59,
+                1.908,
+                2.12,
+                20,
+                1.28,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243202,
+              "Level": 2,
+              "Parameters": [
+                1.70925,
+                2.0511,
+                2.279,
+                20,
+                1.376,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243203,
+              "Level": 3,
+              "Parameters": [
+                1.8285,
+                2.1942,
+                2.438,
+                20,
+                1.472,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243204,
+              "Level": 4,
+              "Parameters": [
+                1.9875,
+                2.385,
+                2.65,
+                20,
+                1.6,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243205,
+              "Level": 5,
+              "Parameters": [
+                2.10675,
+                2.5281,
+                2.809,
+                20,
+                1.696,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243206,
+              "Level": 6,
+              "Parameters": [
+                2.226,
+                2.6712,
+                2.968,
+                20,
+                1.792,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243207,
+              "Level": 7,
+              "Parameters": [
+                2.385,
+                2.862,
+                3.18,
+                20,
+                1.92,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243208,
+              "Level": 8,
+              "Parameters": [
+                2.544,
+                3.0528,
+                3.392,
+                20,
+                2.048,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243209,
+              "Level": 9,
+              "Parameters": [
+                2.703,
+                3.2436,
+                3.604,
+                20,
+                2.176,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243210,
+              "Level": 10,
+              "Parameters": [
+                2.862,
+                3.4344,
+                3.816,
+                20,
+                2.304,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243211,
+              "Level": 11,
+              "Parameters": [
+                3.021,
+                3.6252,
+                4.028,
+                20,
+                2.432,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243212,
+              "Level": 12,
+              "Parameters": [
+                3.18,
+                3.816,
+                4.24,
+                20,
+                2.56,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243213,
+              "Level": 13,
+              "Parameters": [
+                3.37875,
+                4.0545,
+                4.505,
+                20,
+                2.72,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243214,
+              "Level": 14,
+              "Parameters": [
+                3.5775,
+                4.293,
+                4.77,
+                20,
+                2.88,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243215,
+              "Level": 15,
+              "Parameters": [
+                3.77625,
+                4.5315,
+                5.035,
+                20,
+                3.04,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            }
+          ]
+        },
+        "Id": 11242,
+        "Name": "Estratagema Impressionante: Plano de Redistribuição de Riqueza",
+        "Description": "Jahoda avança em frente, entrando no estado Perseguição Sombria ao tocar um inimigo. Nesse estado, Jahoda se move mais rapidamente continuamente. Se houver um inimigo por perto afetado por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, Jahoda converterá discretamente sua {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} para esse elemento, enchendo-a gradualmente. Quando a duração acabar ou lançar novamente, Jahoda esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> e causará <color=#80FFD7FF>Dano Anemo</color> uma vez contra o inimigo próximo. Quando a <color=#FFD780FF>Garrafa Secreta Ronron</color> estiver cheia, Jahoda também esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> para sair do estado Perseguição Sombria, causando ainda mais <color=#80FFD7FF>Dano Anemo</color> contra os inimigos próximos uma vez.\nSe Jahoda não tocar em nenhum inimigo ao fazer sua investida, jogará uma Bomba de Fumaça na posição original que causa <color=#80FFD7FF>Dano Anemo</color> uma vez contra os inimigos próximos.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: quando a <color=#FFD780FF>Garrafa Secreta Ronron</color> estiver cheia, Jahoda não esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> imediatamente, mas sim passará a consumir o Elemento que está dentro da garrafa continuamente por um certo tempo, e periodicamente disparará contra os inimigos próximos <color=#FFD780FF>Bolas Miaufinhas</color>, causando Dano Elemental correspondente a <color=#FFD780FF>Garrafa Secreta Ronron</color>. Quando a <color=#FFD780FF>Bola Miaufinha</color> atinge um inimigo, regenera 2 de Energia Elemental para Jahoda. Esse efeito pode ser desencadeado uma vez a cada 3.5s.\n\n<i>Há muitas formas de se dividir a riqueza do mundo, mas para os caçadores e ladrões de tesouro de Nod-Krai, só uma se mostrou eficaz.</i>",
+        "Icon": "Skill_S_Jahoda_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12439,
+      "Proud": {
+        "Descriptions": [
+          "Dano de Habilidade|{param1:F1P}",
+          "Dano de Coordenador Felino de Assistência Doméstica|{param2:F1P}",
+          "Duração de Coordenador Felino de Assistência Doméstica|{param3:F1}s",
+          "Cura de Coordenador Felino de Assistência Doméstica|{param4:F1P} do ATQ + {param5:I}",
+          "Cura Adicional de Personagem com Vida Mais Baixa|{param6:F1P} do ATQ + {param7:I}",
+          "Tempo de Recarga|{param8:F1}s",
+          "Energia Elemental|{param9:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1243901,
+            "Level": 1,
+            "Parameters": [
+              2.072,
+              0.172664,
+              12,
+              0.79872,
+              500.73764,
+              0.3072,
+              192.59721,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243902,
+            "Level": 2,
+            "Parameters": [
+              2.2274,
+              0.185614,
+              12,
+              0.858624,
+              550.81836,
+              0.33024,
+              211.8596,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243903,
+            "Level": 3,
+            "Parameters": [
+              2.3828,
+              0.198564,
+              12,
+              0.918528,
+              605.0725,
+              0.35328,
+              232.7272,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243904,
+            "Level": 4,
+            "Parameters": [
+              2.59,
+              0.21583,
+              12,
+              0.9984,
+              663.5,
+              0.384,
+              255.2,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243905,
+            "Level": 5,
+            "Parameters": [
+              2.7454,
+              0.22878,
+              12,
+              1.058304,
+              726.1009,
+              0.40704,
+              279.27798,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243906,
+            "Level": 6,
+            "Parameters": [
+              2.9008,
+              0.24173,
+              12,
+              1.118208,
+              792.8752,
+              0.43008,
+              304.96118,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243907,
+            "Level": 7,
+            "Parameters": [
+              3.108,
+              0.258996,
+              12,
+              1.19808,
+              863.8229,
+              0.4608,
+              332.2496,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243908,
+            "Level": 8,
+            "Parameters": [
+              3.3152,
+              0.276262,
+              12,
+              1.277952,
+              938.944,
+              0.49152,
+              361.1432,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243909,
+            "Level": 9,
+            "Parameters": [
+              3.5224,
+              0.293529,
+              12,
+              1.357824,
+              1018.23846,
+              0.52224,
+              391.642,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243910,
+            "Level": 10,
+            "Parameters": [
+              3.7296,
+              0.310795,
+              12,
+              1.437696,
+              1101.7063,
+              0.55296,
+              423.74597,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243911,
+            "Level": 11,
+            "Parameters": [
+              3.9368,
+              0.328062,
+              12,
+              1.517568,
+              1189.3477,
+              0.58368,
+              457.45517,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243912,
+            "Level": 12,
+            "Parameters": [
+              4.144,
+              0.345328,
+              12,
+              1.59744,
+              1281.1622,
+              0.6144,
+              492.76956,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243913,
+            "Level": 13,
+            "Parameters": [
+              4.403,
+              0.366911,
+              12,
+              1.69728,
+              1377.1503,
+              0.6528,
+              529.68915,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243914,
+            "Level": 14,
+            "Parameters": [
+              4.662,
+              0.388494,
+              12,
+              1.79712,
+              1477.3118,
+              0.6912,
+              568.214,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243915,
+            "Level": 15,
+            "Parameters": [
+              4.921,
+              0.410077,
+              12,
+              1.89696,
+              1581.6466,
+              0.7296,
+              608.34393,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          }
+        ]
+      },
+      "Id": 11245,
+      "Name": "Dispositivo Secreto: Sete Itens do Caçador",
+      "Description": "É hora de usar o pacote que tá no fundo! Jahoda puxa dois {LINK#N11240002}<color=#FFD780FF>Coordenadores Felinos de Assistência Doméstica</color>{/LINK} e causa <color=#80FFD7FF>Dano Anemo</color> contra os inimigos próximos uma vez.\n\n<i>\"Coordenação mútua? Você paga a Mora da cooperação, e eu faço a coordenação. É justo, não?\"</i>",
+      "Icon": "Skill_E_Jahoda_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12421,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242101,
+              "Level": 1,
+              "Parameters": [
+                1.3,
+                1.2,
+                -0.1
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1242101,
+        "Name": "Plano de Recompensas",
+        "Description": "Quando a equipe possui pelo menos um personagem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, fortalece o {LINK#N11240002}<color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> de acordo com a quantidade de personagens do Tipo Elemental correspondente.\nJahoda secretamente registra o número de personagens dos Tipos Elementais acima. Se o número de personagens do maior Tipo Elemental for:\n· <color=#FF9999FF>Pyro</color>: aumenta o Dano original de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 130%.\n· <color=#80C0FFFF>Hydro</color>: aumenta a Cura original de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 120%.\n· <color=#FFACFFFF>Electro</color>: aumenta os usos de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 1.\n· <color=#99FFFFFF>Cryo</color>: diminui o intervalo do ataque de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 10%.\n\nSe o número de personagens dos Tipos Elementais acima forem iguais, registrará seguindo a ordem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> e <color=#99FFFFFF>Cryo</color>. Inicialmente só é possível possuir o efeito correspondente a um Tipo Elemental.",
+        "Icon": "UI_Talent_S_Jahoda_05"
+      },
+      {
+        "GroupId": 12422,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242201,
+              "Level": 1,
+              "Parameters": [
+                100,
+                6
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1242201,
+        "Name": "Recompensa Frutada Doce",
+        "Description": "Quando {LINK#N11240002}<color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> cura o personagem ativo, se o personagem curado tiver mais de 70% de Vida, aumenta sua Proficiência Elemental em 100 por 6s.",
+        "Icon": "UI_Talent_S_Jahoda_06"
+      },
+      {
+        "GroupId": 12423,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1242301,
+        "Name": "Bênção do Presságio Lunar: Corrida pelos Telhados",
+        "Description": "Quando Jahoda está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> da equipe em 1 nível.",
+        "Icon": "UI_Talent_S_Jahoda_07"
+      },
+      {
+        "GroupId": 12425,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1242501,
+        "Name": "Esperteza dos Becos",
+        "Description": "Quando despachada em uma expedição em Nod-Krai, o tempo consumido é reduzido em 25%",
+        "Icon": "UI_Talent_S_Jahoda_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1241,
+        "Name": "Mais Uma Garrafa!",
+        "Description": "Quando as <color=#FFD780FF>Bolas Miaufinhas</color> de {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} da Habilidade Elemental <color=#FFD780FF>Estratagema Impressionante: Plano de Redistribuição de Riqueza</color> atingem um inimigo, possuem 50% de chance de ricochetear, causando Dano Elemental correspondente contra os inimigos próximos.",
+        "Icon": "UI_Talent_S_Jahoda_03"
+      },
+      {
+        "Id": 1242,
+        "Name": "Pensamento Rápido da Ladra",
+        "Description": "<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: no Talento de Ascensão {LINK#P1242101}<color=#FFD780FF>Plano de Recompensas</color>{/LINK}, Jahoda pode registrar secretamente, além do Elemento com maior número de personagens, o Elemento com maior número de personagens em seguida dentre os Tipos Elementais restantes, permitindo com que até dois efeitos Elementais estejam ativos simultaneamente. É necessário desbloquear o Talento de Ascensão \"Plano de Recompensas\" primeiro.",
+        "Icon": "UI_Talent_S_Jahoda_02"
+      },
+      {
+        "Id": 1243,
+        "Name": "Aposta Desesperada",
+        "Description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11245}Dispositivo Secreto: Sete Itens do Caçador{/LINK}</color> em 3.\nO nível máximo de elevação é 15.",
+        "Icon": "UI_Talent_U_Jahoda_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1244,
+        "Name": "Frutas Selvagens na Poeira",
+        "Description": "Quando os {LINK#N11240002}<color=#FFD780FF>Coordenadores Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> passarem por Conversão Elemental, regenera 4 de Energia Elemental para Jahoda.",
+        "Icon": "UI_Talent_S_Jahoda_01"
+      },
+      {
+        "Id": 1245,
+        "Name": "O Maior Tesouro",
+        "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11242}Plano de Redistribuição de Riqueza{/LINK}</color> em 3 níveis. \nO nível máximo de elevação é 15.",
+        "Icon": "UI_Talent_U_Jahoda_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1246,
+        "Name": "A Menor Sorte",
+        "Description": "<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: nos 20s depois de a {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} da Habilidade Elemental <color=#FFD780FF>Estratagema Impressionante: Plano de Redistribuição de Riqueza</color> encher, aumenta a Taxa CRIT dos personagens de Presságio Lunar próximos em 5% e o Dano CRIT em 40%.",
+        "Icon": "UI_Talent_S_Jahoda_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Sombras da Ventania",
+    "Detail": "A faz-tudo extremamente confiável (segundo ela) da Curadoria dos Segredos.",
+    "Association": 12,
+    "Native": "Curadoria dos Segredos",
+    "BirthMonth": 1,
+    "BirthDay": 5,
+    "VisionBefore": "Anemo",
+    "VisionOverrideUnlocked": "Visão",
+    "ConstellationBefore": "Fragum",
+    "CvChinese": "韩娇娇",
+    "CvJapanese": "稲垣好",
+    "CvEnglish": "Sonya Krueger",
+    "CvKorean": "Oh Ro-ah",
+    "CookBonus": {
+      "OriginItemId": 108871,
+      "ItemId": 108921,
+      "InputList": [
+        110001,
+        101265,
+        101264,
+        110006
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Olá...",
+        "Context": "#Olá, prazer em conhecê-l{M#o}{F#a}. Se você tem uma comissão, fale logo. Desde que o pagamento seja certo, eu posso ajudar você com qualquer coisa... Uh, a maioria das coisas... posso ajudar você com a maioria das coisas."
+      },
+      {
+        "Title": "Bate-papo - Nefer",
+        "Context": "Ugh... Chefe Nef, quando é que vou poder ter um aumento? Há tanta coisas que quero comprar..."
+      },
+      {
+        "Title": "Bate-papo - Andando pelas Ruas",
+        "Context": "Vamos lá, vamos sair pela cidade. Vou te mostrar um lugar divertido... Mas não conte a ninguém, tá? Não diga nada para ninguém."
+      },
+      {
+        "Title": "Bate-papo - Ashru",
+        "Context": "Da última vez que tentei fazer carinho em Ashru, a bolinha de pelo fugiu. Hunf! Alguém não vai receber seu peixe seco hoje!"
+      },
+      {
+        "Title": "Quando está chovendo...",
+        "Context": "Chuva? Vai vai vai, precisamos achar um abrigo antes de ficarmos encharcados."
+      },
+      {
+        "Title": "Quando Está Nevando...",
+        "Context": "Aaaah! Tem neve nas minhas costas, friofriofrio..."
+      },
+      {
+        "Title": "No Deserto...",
+        "Context": "*Pfft!* *Pfft!* *Pfft!* Ugh, tem areia na minha boca!"
+      },
+      {
+        "Title": "Bom dia...",
+        "Context": "Bom dia. Já tomou café da manhã? Conheço um lugar bom."
+      },
+      {
+        "Title": "Boa tarde...",
+        "Context": "*Bocejo* Que tal voltarmos para a loja para tirar uma soneca? Estou com tanto sono..."
+      },
+      {
+        "Title": "Boa Noite...",
+        "Context": "Já é tão tarde assim? Arrume suas coisas, o expediente acabou, é a vez de Ashru~"
+      },
+      {
+        "Title": "Boa Noite...",
+        "Context": "#*Bocejo* É melhor ir dormir... Ei! Você ainda está acordad{M#o}{F#a}? É melhor você ir dormir também."
+      },
+      {
+        "Title": "Sobre Jahoda - Experiência",
+        "Context": "Antes de entrar para a Curadoria dos Segredos, meu histórico profissional era... confuso. Finalmente conhecer a Chefe Nef depois de passar por tantas dificuldades foi um verdadeiro ponto de virada."
+      },
+      {
+        "Title": "Sobre Jahoda - Curadoria dos Segredos",
+        "Context": "A Chefe Nef é boa para mim, e Ashru também é bem amigável. Algumas vezes eu esqueço de chamar a Nef de \"Chefe\". Velhos hábitos são difíceis de perder, eu acho..."
+      },
+      {
+        "Title": "Sobre Nós - Terra Natal",
+        "Context": "Minha cidade natal? Não me lembro... e, de qualquer forma, não me importo muito com esse tipo de coisa. Qualquer lugar onde eu possa comer bem e dormir bem é uma \"casa\" o suficiente para mim."
+      },
+      {
+        "Title": "Sobre Nós - Amigos",
+        "Context": "#Passamos pelo pior junt{M#o}{F#a}s, é claro que somos amig{M#o}{F#a}s! Da próxima vez que eu estiver em apuros, sei que você vai me ajudar. E tente não me trair... ou, pelo menos, garanta um bom preço se fizer isso. Hah! Estou brincando, sei que você nunca me trairia. Você é nobre demais para fazer algo tão ganancioso."
+      },
+      {
+        "Title": "Sobre a Visão...",
+        "Context": "Hehe, é o meu orgulho e alegria! Desde que a recebi, o trabalho tem sido muito menos estressante! Nunca imaginei que iria ser tão sortuda..."
+      },
+      {
+        "Title": "Algo para Compartilhar - Caçadores de Tesouros",
+        "Context": "Você já encontrou alguém que se chama de \"caçador de tesouros\"? Não deixe se enganar pelo título chique, eles são apenas mercenários de Nod-Krai. Dê dinheiro suficiente para eles, e eles farão praticamente qualquer coisa por você. Se você quiser contratar alguns, me avise. Posso apresentar alguns dos mais confiáveis."
+      },
+      {
+        "Title": "Algo para Compartilhar - Canhão",
+        "Context": "Quando o Canhão Explosivo de Energia Kuuvahki entra em ação, é uma coisa linda. *Suspiro*. Se ao menos eu pudesse colocar as mãos em um modelo mecânico em escala... Me pergunto se Aino poderia fazer um para mim? Afinal, ela fez o original."
+      },
+      {
+        "Title": "Coisas Interessantes...",
+        "Context": "Então, ontem, eu estava pensando... Quantos grãos de areia são necessários para formar uma pilha? Seria cem grãos para fazer uma pilha? E que tal mil? Não parece certo... Vou perguntar a Aino sobre isso daqui a alguns dias, ela com certeza sabe!"
+      },
+      {
+        "Title": "Sobre Lauma...",
+        "Context": "Senhorita Lauma? Uhm.... Não sei muito sobre ela, mas sei que é uma pessoa importante, poderosa... e que consegue falar com os animais... Pensando bem, ela deve ter olhos e orelhas peludas por toda Ilha Hiisi. Não é à toa que os caçadores de tesouros não vão \"caçar tesouros\" por lá, pois estariam andando diretamente em uma armadilha..."
+      },
+      {
+        "Title": "Sobre Ineffa...",
+        "Context": "Ah, aquela robô idiota? Ela é boa em fazer Rolinho de Ovo, mas ela tem uma memória péssima e nenhum senso de humor. Sempre que faço uma piada ela me pede para explicar por que é engraçada. Mas o rolinho de ovo dela são demais, você tem que experimentar."
+      },
+      {
+        "Title": "Sobre Nefer...",
+        "Context": "A Nef é a melhor chefe do mundo! Hehe, ela não só me paga em dia, mas como também paga minha comida e alojamento! Eu devo ser sua única funcionária de verdade... Não, espera, eu quase me esqueci de Ashru! Apesar de que ele não é exatamente um funcionário, certo? Ele nunca completou uma única comissão! Hunf! Não posso deixar ninguém sem nada para fazer... No próximo trabalho, ele vem comigo!"
+      },
+      {
+        "Title": "Sobre Aino...",
+        "Context": "A Aino tem habilidades incríveis. Não importa o que aconteça com o meu braço, ela sempre faz ele funcionar novamente. É só que... todas às vezes que ela conserta ele, ela sempre rabisca nele. Ela diz que fica mais fofo assim. Quero dizer, é meio fofo, mas por que ela nunca rabisca na Ineffa?"
+      },
+      {
+        "Title": "Sobre Flins...",
+        "Context": "Ouvi Nef falar sobre como os Portadores da Lâmpada são uma organização muito antiga, repleta de pessoas poderosas e inteligentes que sabem um monte de segredos antigos. Me diga... Você acha que Flins tem alguma pista sobre tesouros antigos? Ou talvez algumas ruínas antigas intocadas? Estou apenas pensando em voz alta, nunca perguntaria isso a ele! Caso contrário, Nef reclamaria comigo novamente."
+      },
+      {
+        "Title": "Sobre Varka...",
+        "Context": "Ohh, Varka? Sim, ele me contou ser o Grande Mestre dos Cavaleiros de Favonius, mas falando sério, ele não parece nada com isso. Um Grande Mestre não deveria ser todo sério e de aparência confiável? Não estou dizendo que ele não seja responsável! É só que... Se o Grande Mestre dos Cavaleiros de Favonius está aqui, então quem está em Mondstadt tomando conta dos Cavaleiros...? Hã? Alguém sério e de aparência confiável? Bem, está bom, haha... Os Cavaleiros de Favonius são realmente algo..."
+      },
+      {
+        "Title": "Sobre Kuutar...",
+        "Context": "Aquela VIP... *Suspiro* Antigamente, se eu encontrasse alguém com um passado tão obscuro, teria fugido para bem longe! Quanto mais longe, melhor! Mas... ela me salvou, então agora estou em dívida com ela, e dívidas são dívidas.\nAinda assim, é fácil falar, mas eu só tenho uma vida para perder e, nesse ritmo, nenhuma quantidade de vidas seria suficiente para cobrir a conta... Ó Chefe Nef! Me salve, você é minha única esperança..."
+      },
+      {
+        "Title": "Sobre Marionette...",
+        "Context": "Nunca mais vou a um lugar assim! E... Certo, mesmo se eu fosse, a Chefe Nef teria que ir comigo. Entre a Caçada Feroz e os Fatui... de que adianta ganhar dinheiro se você não está vivo para gastar ele?"
+      },
+      {
+        "Title": "Mais sobre Jahoda - I",
+        "Context": "Na Curadoria dos Segredos, Nef cuida das coisas importantes, eu tomo conta das coisas menores, e Ashru fica cuidando da porta. O que é importante e o que não é? Isso é com a Chefe Nef, ela é quem toma as decisões..."
+      },
+      {
+        "Title": "Mais sobre Jahoda - II",
+        "Context": "Ganhar bem, comer bem, esse é o meu lema atualmente. O ponto é que, enquanto eu ficar do lado da Nef, sei que não vou passar fome, hehehe..."
+      },
+      {
+        "Title": "Mais sobre Jahoda - III",
+        "Context": "Meu braço? Ah, isso... não é nada de mais. Foi apenas o \"preço\" que paguei em uma troca. Não se preocupe, tá tudo bem! Valeu muito a pena. Na verdade, diria que saí ganhando."
+      },
+      {
+        "Title": "Mais sobre Jahoda - IV",
+        "Context": "Não é diferente de como você precisa usar Mora para comprar coisas. Se você quiser algo, você precisa pagar algum tipo de \"preço\". Preços visíveis você pode planejar, calcular, mas alguns dos invisíveis são impossíveis de avaliar. Eles se escondem na sua sombra, esperando o momento certo, esperando até você estar mais vulnerável... é aí que eles aparecerão, exigindo um resgate que você nunca poderia pagar."
+      },
+      {
+        "Title": "Mais sobre Jahoda - V",
+        "Context": "#Ei, se você precisar pagar um \"resgate\" por algum motivo, pode vir até mim. Mesmo que eu não consiga juntar o dinheiro sozinha, eu posso engolir meu orgulho e pedir a Nef. Na pior das hipóteses... Vou trabalhar para pagar a dívida novamente. Mas não ouse pedir a Nef você mesm{M#o}{F#a}. Se você vai dever a alguém, é melhor que seja a mim. A dívida mais difícil de pagar é uma dívida no caderno da Nef... Como que eu sei isso? Uh, bem, eu, uhm... Olha, não me pergunte, apenas acredite em mim, está bom!?"
+      },
+      {
+        "Title": "Passatempos de Jahoda",
+        "Context": "Às vezes, costuro bonecas de pano quando tenho algum tempo livre. Nunca tive aulas formais com um professor ou algo do tipo, mas meus velhos... conhecidos, diziam que eu era muito boa nisso. Vou fazer uma para você da próxima vez."
+      },
+      {
+        "Title": "Preocupações de Jahoda",
+        "Context": "Não sei por que, mas não consigo dormir se a cama for muito macia. Me dê um chão duro como pedra para deitar e não só apago como uma luz, como durmo como um bebê! Por que será? É uma daquelas coisas, acho..."
+      },
+      {
+        "Title": "Comida Favorita...",
+        "Context": "Comida favorita? É difícil escolher... Eu gosto de Carne e peixe, mas esculturas de açúcar e biscoitos também são ótimos... Hehe, desde que seja saboroso, eu adoro!"
+      },
+      {
+        "Title": "Comida que Odeia...",
+        "Context": "Não gosto daqueles guisados espessos em que todos os ingredientes são misturados e cozidos durante muito tempo, até ficarem todos derretidos e transformados em purê... Uh, se é algo que eu absolutamente tenho que comer, não é como se eu não pudesse, é só que... eu realmente preferiria não..."
+      },
+      {
+        "Title": "Recebendo Presentes — I",
+        "Context": "HUM! Uau, desde quando você consegue cozinhar assim? Mais um pouco, por favor. Isso é muito melhor do que o da Nef... *Cof*! Uh, você já comeu? Se não... quer dividir?"
+      },
+      {
+        "Title": "Recebendo Presentes — II",
+        "Context": "Nada mal! Hehe, vamos comer! Precisamos de energia para trabalhar."
+      },
+      {
+        "Title": "Recebendo Presentes — III",
+        "Context": "Ugh... eu consigo— eu consigo terminar isto... Não devo... desperdiçar... comida. Haha... ha..."
+      },
+      {
+        "Title": "Aniversário...",
+        "Context": "Feliz aniversário! Aqui está, esta boneca é para você! Acabei de costurar ela. Foi minha primeira vez tentando essa técnica — demorou uma eternidade, sabia! Eu enchi ela com ervas calmantes que vão ajudar você a dormir, então coloque ela do lado do seu travesseiro e eu prometo que você vai dormir tranquilamente, 100% livre de pesadelos. O curativo na minha mão...? Ah... é só um arranhãozinho de... brincar com Ashru, hahaha... Não é nada, sério..."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Introdução",
+        "Context": "Oh? Nada mal!"
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Desenvolvimento",
+        "Context": "Mais ágil do que nunca."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Auge",
+        "Context": "Certo... Hora de se mover!"
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Conclusão",
+        "Context": "Hehe, estou me sentindo pronta para um grande trabalho agora... O que acha? Quer se juntar a mim?"
+      },
+      {
+        "Title": "Habilidade Elemental - I",
+        "Context": "Você é meu alvo!"
+      },
+      {
+        "Title": "Habilidade Elemental - II",
+        "Context": "Surrar e pegar!"
+      },
+      {
+        "Title": "Habilidade Elemental - III",
+        "Context": "Você não vai a lugar nenhum!"
+      },
+      {
+        "Title": "Supremo - I",
+        "Context": "Achado não é roubado!"
+      },
+      {
+        "Title": "Supremo - II",
+        "Context": "Me dê!"
+      },
+      {
+        "Title": "Supremo - III",
+        "Context": "Nunca saio de mãos vazias."
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - I",
+        "Context": "Oh! É tuuuudo nosso!"
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - II",
+        "Context": "Nada mal, valeu a pena o nosso esforço."
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - III",
+        "Context": "Vamos adicioná-lo à pilha~"
+      },
+      {
+        "Title": "Vida Baixa - I",
+        "Context": "Tudo bem... tudo bem..."
+      },
+      {
+        "Title": "Vida Baixa - II",
+        "Context": "Espere só...!"
+      },
+      {
+        "Title": "Vida Baixa - III",
+        "Context": "Eu vou...!"
+      },
+      {
+        "Title": "Aliado com Vida baixa - I",
+        "Context": "Você quer morrer!?"
+      },
+      {
+        "Title": "Aliado com Vida baixa - II",
+        "Context": "Para trás!"
+      },
+      {
+        "Title": "Derrotado - I",
+        "Context": "Ainda não consegui... fugir..."
+      },
+      {
+        "Title": "Derrotado - II",
+        "Context": "Minhas dívidas... estão pagas..."
+      },
+      {
+        "Title": "Derrotado - III",
+        "Context": "Acho que... isto serve..."
+      },
+      {
+        "Title": "Entrando na Equipe - I",
+        "Context": "Tem trabalho para mim?"
+      },
+      {
+        "Title": "Entrando na Equipe - II",
+        "Context": "Deixa comigo!"
+      },
+      {
+        "Title": "Entrando na Equipe - III",
+        "Context": "Observe e aprenda."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Informações do Personagem",
+        "Context": "Quando o povo da Cidade de Nasha falava sobre a única funcionária oficial da Câmara de Discussões, certamente aprovava as habilidades de Jahoda, bem, algumas delas, antes de se perguntar em voz alta:\nPor que a chefe da Câmara de Discussões contrataria somente ela?\nAfinal, aquela garota de língua solta e sempre desastrada vive dizendo que é \"a mestra ladra que saqueou todos os cantos de Nod-Krai\", \"a moradora mais esperta das ruas\" e \"aquela que tem contatos em todo lugar\". Tal conversa pode enganar alguns forasteiros, mas não há como enganar a perspicaz Srta. Nefer, certo?\n\"De qualquer forma, confiem no meu julgamento\".\nSempre que algum parceiro demonstrava a menor dúvida, Nefer respondia com um sorriso gentil.\nNo entanto, em dias especialmente terríveis, até mesmo Jahoda, apesar da experiência deprimente que teve durante sua comissão, perguntaria com a voz fraca e a cabeça baixa:\n\"Chefe Nef... não tem chance de você me demitir, né...?\"\n\"Como poderia ser?\" Sua adorada chefe responderia também com um sorriso: \"Sem você, quem cuidaria do Ashru? E como eu conseguiria dormir tranquila?\"\n\"É... é só isso?\"\n\"Miau! Miau...\"\n\"Ah! Ashru! Seu pestinha, sai da minha cabeça! Essa trança me deu um trabalhão!\"\nComo de costume, Jahoda agarrou o travesso Ashru, resmungando sobre dar um banho nele. Enquanto isso, Ashru, percebendo o que viria a seguir, rolava furiosamente, cobrindo o corpo de Jahoda com seus pelos.\nNefer ficava de lado, segurando o queixo e sorrindo enquanto observava.\n— Essa garotinha era uma das poucas pessoas em Nod-Krai capazes de despertar sua curiosidade.\n\"Jahoda, que tipo de pessoa você vai se tornar?\"\nOs murmúrios se dissiparam em meio à divertida briga entre uma pessoa e um gato, mas Nefer sabia que, mais cedo ou mais tarde, Jahoda ouviria aquilo.\n\"... E que grande feito você é capaz de realizar?\""
+      },
+      {
+        "Title": "História 1",
+        "Context": "Quando acabou de ser adotada pela Gangue do Gancho — ou, como ela mesma dizia, recrutada —, Jahoda não conseguia dormir direito.\nÀs vezes, era por causa da algazarra das pessoas lá fora. Às vezes, por causa de um trabalho que não ia bem. E às vezes, por causa da curiosidade incontrolável dentro do seu coração.\nA algazarra não era grande coisa. A chefe disse a Jahoda que, se quisesse que todos ficassem quietos, bastava pegar qualquer coisa por perto: copos, pratos ou até uma cadeira. Arremessar na direção da multidão e gritar para todos calarem a boca.\nJahoda tentou, e realmente funcionou. Ela pulava da cama, agarrava a boneca, jogava pela janela e berrava por silêncio a plenos pulmões. Aqueles bandidos bêbados cortavam imediatamente o barulho ensurdecedor. Depois disso, Jahoda despenteava o próprio cabelo, se encolhia sob o cobertor e adormecia. Já o azarado que levava a boneca na cabeça ficava encarregado de lavá-la e devolvê-la sorrateiramente ao lado da cama de Jahoda. Caso contrário, no dia seguinte, encontrariam sua pequena senhorita emburrada, fazendo bico.\nJahoda ficava abatida por muito tempo quando algum trabalho não saía bem. Quando isso pesava demais, ela escapulia de casa e ia acordar Zinaida em silêncio. Ainda com os olhos turvos de sono, Zinaida ouvia Jahoda murmurar que tinha perdido as chaves porque havia chaves demais em casa, e todas pareciam iguais. \"Da próxima vez\", dizia ela, \"acho melhor pintar cada uma de uma cor diferente para conseguir distingui-las...\"\n\"E lembra daquela vez em que eu caí do telhado e fui parar bem na frente do chefe? Ele tava no meio de uma negociação com um rival. E por que eu fui entregar a maçã que tava segurando para ele? Bom... porque... o chefe já tava falando fazia tanto tempo, devia estar com sede... E como eu só tinha uma, claro que tinha que dar para ele. O que eu ia fazer, dar para o rival? Desculpa. Da próxima vez eu levo duas...\"\nJahoda ficava tagarelando até adormecer, com a cabeça repousando no ombro de Zinaida. Acostumada a essa cena, Zinaida a carregava de volta para casa, a cobria com um cobertor e deixava um copo d’água na mesinha ao lado da cama, sabendo que, depois de tanto falar, ela acordaria morrendo de sede.\nClaro, o mais difícil de lidar era aquela curiosidade insistente que às vezes surgia do nada.\nPara sossegá-la, às vezes só havia um jeito: agir."
+      },
+      {
+        "Title": "História 2",
+        "Context": "Conforme Jahoda foi crescendo, alguns membros da Gangue do Gancho começaram a ter noites inquietas de vez em quando.\nÀs vezes era porque haviam bebido demais, outras porque estavam feridos, e às vezes simplesmente porque não queriam dormir.\nMas houve apenas uma única ocasião em que toda a gangue perdeu o sono.\nDepois de um certo \"trabalho\", a Gangue do Gancho se reuniu para um banquete de vitória. Aquele trambiqueiro tortuoso finalmente recebera o que merecia, devolvendo todo o dinheiro que havia enganado. Depois de separar o dinheiro destinado às vítimas, ainda havia uma parte justa para cada um.\nEmbora, quando tentaram pegar um colar, o trambiqueiro perdeu o controle, lançando-se sobre eles para pegá-lo de volta. Mas ele era fraco demais, e foi facilmente contido por eles.\nO que seguiu foi o mesmo velho clichê que eles já tinham ouvido milhares de vezes. O vigarista começou a chorar e a jurar de pés juntos que largaria tudo se apenas devolvessem o pingente. Dizia que nele estava a única foto que restava de sua esposa e filha.\nNaturalmente, os bandidos experientes não caíram na conversa. Nove em cada dez vigaristas que amarravam usavam essa desculpa para tentar recuperar algo — e aquele item provavelmente continha alguma pista de tesouro, um meio de dar a volta por cima. Deixando o vigarista com um pouco de dinheiro, o grupo partiu direto de volta para sua base...\nCom a barriga cheia e os copos novamente servidos, era hora de dividir o saque...\n\"Espera? Cadê a Jahoda? Ela tava aqui agora há pouco...\"\n\"Chefe, o colar sumiu! S-será que ela...?\"\nJahoda havia desaparecido — e com ela, o colar. Não era inestimável, mas estava longe de não valer nada.\nO silêncio tomou conta do salão. Os ladrões experientes se entreolharam. Ninguém acreditava que Jahoda os trairia por causa de um simples colar. Além do mais, Jahoda provavelmente nem sabia o que significava a palavra \"traição\"!\nPor fim, foi Zinaida quem falou, hesitante:\n\"Vocês não acham... que ela realmente foi... devolver o colar, acham...?\"\nAs palavras mal haviam sido concluídas quando uma pequena porta nos fundos do salão rangeu ao se abrir. Jahoda enfiou a cabeça para dentro lentamente. Mas, em vez de reencontrar o salão barulhento e cheio de gente que esperava, ficou surpresa com o silêncio atônito que encontrou.\n\"Eu... E-e-eu só fui ao banheiro...\"\nO primeiro suspiro de desespero veio do chefe, que enterrou o rosto nas mãos. O segundo veio de Zinaida, que agora sabia que havia acertado em sua suposição. Logo, o salão se encheu de suspiros, um após o outro. Enquanto isso, Jahoda continuava espiando pela porta, sem saber se devia entrar.\n\"Jahoda, venha aqui, boa menina\".\nO chefe acenou para Jahoda, que acabava de voltar de sua missão secreta.\n\"Como o custo daquele colar será descontado, você não vai receber uma parte desta vez\".\n\"Mas aquele colar valia — Hã! Q-que colar? Eu não faço ideia do que você está falando, eu...\"\n\"Jahoda.\"\n\"Sim, Chefe!\"\n\"Só coma o seu jantar.\"\n\"Sim... Chefe...\""
+      },
+      {
+        "Title": "História 3",
+        "Context": "Quando a infância de Jahoda chegou ao fim, seus inimigos passaram a perder o sono.\nNo passado, Ratfan sempre acreditara no poder do dinheiro. Ele podia ser usado para contratar membros da Gangue do Gancho para assassinar o próprio chefe, mergulhando a gangue problemática no caos. Podia comprar muito óleo para queimar todas as evidências e afugentar certos covardes. E, o mais importante, podia adquirir informações valiosas daquela misteriosa chefe.\nAs feras gigantes que controlavam secretamente a Cidade de Nasha haviam sido eliminadas uma a uma. Para se destacar entre os outros, todos precisavam de dinheiro!\nMas a caçadora que o perseguia não precisava.\n\"Chega! Apareça! O que você quer? O que você quer de mim?\"\nO homem corpulento rugiu em direção à floresta silenciosa. Seu acampamento havia sido atacado novamente. A pequena assassina de alguma forma havia se infiltrado, derrubando um vigia após o outro com facilidade, atravessando três tambores de alarme com seus disparos. Pela primeira vez, ela chegara até o centro do acampamento. Se não tivesse escorregado e caído do telhado por fraqueza, a cabeça de Ratfan já teria sido separada de seu corpo há muito tempo. No entanto, mesmo ferida por duas flechas e atingida por uma marreta, ela ainda conseguiu correr de volta para a floresta, desaparecendo sem deixar rastros. E, como em incontáveis noites anteriores, ela voltaria na noite seguinte, sempre conseguindo encontrar Ratfan, não importava para onde ele fugisse.\nO cansaço e o medo haviam deixado todos apavorados. Alguns diziam que a garota já havia morrido há muito tempo, e o que continuava voltando era apenas seu espírito, movido pela obsessão. Outros diziam que ela havia se tornado uma caçada feroz que ninguém podia matar, e que deveriam buscar ajuda dos Ratniks.\nMas Ratfan sabia que era apenas uma garotinha. Ele já havia visto Jahoda quando fora espionar a Gangue do Gancho. Até mesmo o chefe deles a elogiara muito.\nNaquela época, Jahoda era uma menina frágil e ingênua. Enquanto ficava embaixo, segurava secretamente a mão de uma companheira e balançava de um lado para o outro, só se aquietando quando levava um leve tapa na cabeça dela. Não parecia nem um pouco uma bandida. De qualquer ponto de vista, ainda tinha muito o que amadurecer. Nem sequer sabia que tipo de pessoa deveria se tornar.\nMas agora Ratfan percebeu seu erro. O crescimento de Jahoda não era uma questão de tempo, mas de motivação.\nE foi ele quem a havia fornecido.\n— Muito bem, então vamos terminar isso da maneira que os bandidos conhecem melhor.\nNaquela noite, Ratfan mandou que seus homens iluminassem o acampamento com tochas. Ele ficou sozinho no centro, empunhando uma arma.\nRatfan já nem se lembrava de quanto tempo fazia desde a última vez que segurara uma arma com as próprias mãos. A espada parecia incrivelmente pesada, mais pesada do que um saco cheio de Mora.\nEntão, seu rival apareceu conforme prometido, avançando calmamente em meio àquela armadilha óbvia.\nAs tochas iluminavam o rosto de Jahoda, encovado pela fome. Uma febre persistente a deixara pálida, com os cabelos grudados nas bochechas como capim seco. Seus lábios estavam rachados como terra ressecada... mas seus olhos permaneciam brilhantes e afiados, como se tivesse feito um pacto com a morte, trocando tudo por uma alma ardendo em vitalidade infinita até que sua vingança se consumasse.\nJahoda era uma jogadora solitária, tendo a própria vida como sua última aposta.\nComo não tinha mais nada a perder, por que não arriscar tudo?\n\"Seja o que for que você queira, eu posso te dar.\"\nRatfan engoliu em seco, e a coragem que havia reunido se dissipou em instantes.\nEle conhecia bem demais o olhar de uma bandida desesperada como Jahoda.\n\"E-E-eu sei que você é uma boa pessoa, Jahoda...\"\nJahoda não tinha nada, mas ele possuía tantos tesouros! Dinheiro, joias, ouro, riqueza e glória o aguardavam...\n\"E-e-escuta, não faça nada ruim... nós podemos...\"\nMas Jahoda não precisava de nada disso.\nSeus dentes já estavam cravados na presa."
+      },
+      {
+        "Title": "História 4",
+        "Context": "\"Parece que você não pode pagar o restante da dívida, garotinha.\"\nNefer observava a enfraquecida Jahoda. Embora coberta de ferimentos, ela ao menos havia sobrevivido.\n\"Eu vou pagar.\"\n\"Não vejo o que mais você poderia me pagar.\"\n\"Posso trabalhar para você.\"\nJahoda tocou a manga vazia do braço direito e acrescentou:\n\"Qualquer coisa.\"\nA sempre engenhosa Chefe Nefer deu de ombros, indiferente à declaração quase autodepreciativa de Jahoda. Dinheiro não significava nada. Ela havia dado a Jahoda o paradeiro de Ratfan por um único motivo: deixar que outra pessoa lidasse com um fantoche tentando romper suas cordas. Mesmo que falhasse, ainda serviria para ensinar uma lição àquele fantoche.\nQuem diria? Aquela hiena magricela realmente havia arrancado a garganta do lobo selvagem... Pelo visto, a informante que ela havia enterrado tão fundo agora não valia mais nada.\n\"Qual é o seu próximo plano? Vai continuar com o velho ofício de bandida? Posso apresentá-la a alguns... Ladrões de Tesouro um pouco mais confiáveis.\"\n\"...\"\n\"Ah, isso não te agrada? Então que tal a Guilda de Aventureiros? Talvez você dê sorte e fique rica em alguma ruína.\"\n\"...\"\n\"Ainda recusando? Certo. Parece que você quer deixar Nod-Krai para curar as cicatrizes do coração...\"\n\"Não preciso curar minhas cicatrizes.\"\nJahoda quebrou o silêncio, dando sua resposta final.\nEla já havia desprezado aquelas cicatrizes feias e dolorosas, vendo-as apenas como frutos podres em um pântano, ou restos deixados por alguma fera meio devorada...\nNo entanto, quando a febre quase a fez perder a emboscada do alto de uma árvore, foi a dor de uma cicatriz nas costas que a despertou. E quando uma armadilha inimiga quase a pegou, quando estava prestes a pisar no laço, a cicatriz recém-fechada na mão serviu de lembrete para não cometer o mesmo erro duas vezes...\nPara algumas almas afortunadas que vivem uma vida confortável, as cicatrizes podem ser manchas infelizes.\nMas para Jahoda, as cicatrizes eram testemunhas de suas escolhas e do caminho que havia traçado para si mesma.\nEla havia suportado as cicatrizes. Então suportaria a vida, como sempre fez.\nNefer bateu palmas de repente, encerrando a conversa como da última vez. Já tinha ouvido o suficiente.\n\"Certo, por hoje já basta. Se continuar, vai desmaiar de novo.\" Nefer semicerrou os olhos e sorriu.\" O resto não importa muito, mas você disse que trabalharia para mim e que podia fazer qualquer coisa... Considere o acordo fechado.\"\nUm contrato se formou de repente. Ainda confusa, Jahoda hesitou, depois assentiu. Pelo menos havia encontrado um lugar para ficar.\n\"...Sim, Srta. Nefer.\"\n\"Me chame de Chefe.\"\n\"Hã?\"\n\"A partir de agora, me chame de Chefe Nefer.\"\n\"Sim. Chefe... Nefer.\""
+      },
+      {
+        "Title": "História 5",
+        "Context": "Depois de começar a trabalhar oficialmente para a \"Curadoria dos Segredos\", Jahoda jamais esperava encontrar aquele vigarista que certa vez fora completamente depenado pela Gangue do Gancho.\nEla acabara de concluir uma comissão e saltava pelos telhados com o pagamento em mãos, tomando o caminho mais curto de volta à \"Curadoria dos Segredos\". Quando estava prestes a pular para outro telhado, uma janela se abriu de repente, e uma voz gritou:\n\"Ei! É a Srta. Jahoda? Srta. Jahoda!\"\nJahoda se virou, atordoada, sombras do passado passando diante de seus olhos.\n\"Você é... aquele vigarista...\"\n\"Aham! Eu não sou mais um vigarista, prometo. Já mudei de vida faz tempo.\"\nO mercador agitava as mãos de forma frenética, insistindo para que Jahoda entrasse, antes de se apressar em servir biscoitos doces e chá. Jahoda olhou ao redor; pouca coisa havia mudado desde sua última \"visita\".\n\"*Suspiro* Eu preciso agradecer pelo que fez naquela época, Srta. Jahoda. Foi muita bondade sua devolver o colar. Se eu realmente o tivesse perdido, não sei como teria seguido em frente.\"\nEnquanto falava, o mercador continuava a bater no próprio peito e a suspirar, tagarelando sobre como havia se endireitado nos últimos anos, como havia se reerguido e agora fazia boas ações para compensar o passado.\nMemórias que Jahoda tentava enterrar há muito tempo começaram a ressurgir. A voz do mercador se apagou, substituída por vozes muito mais familiares.\n\"A-Além disso, o dinheiro já foi devolvido às vítimas. Devolver um colar para aquele trapaceiro não vai fazer mal! Uma coisa de cada vez...\"\n\"Chefe! Ai, ai! Isso dóóói! Para de puxar minha orelha!\"\n\"S-Só porque somos ladrões não quer dizer que precisamos fazer coisas ruins o tempo todo. Vocês todos cuidaram de mim por tanto tempo, não foi...?\"\n\"Se não der mesmo certo, que tal más ações nos dias ímpares e boas ações nos dias pares? Assim, nenhum lado fica de fora. E nos domingos... eu só vou... ai! Ai, ai, ai!\"\n\"Por favor, não! Chefe, leve-me com você para a negociação! Eu não quero comer a comida da Zinaida — tem um gosto horrível!\"\nQuando o mercador terminou sua fala interminável e se despediu de Jahoda com agradecimentos sem fim, a noite já havia caído.\nEmpurrando a porta da Curadoria dos Segredos, Jahoda entrou, apenas para ver Ashru correr até ela primeiro, ansioso para brincar. Mesmo depois de bagunçar o cabelo dela, não recebeu os costumeiros cafunés em troca.\n\"Parece que você encontrou um velho amigo\", disse Nefer, colocando a xícara de chá sobre a mesa.\n\"Chefe... você sabia de tudo?\"\n\"Heh, digamos que nossos caminhos acabaram se cruzando. E eu acabei sabendo tanto das boas quanto das más coisas que você andou fazendo.\"\n\"Chefe, eu...\"\n\"Se você vai me perguntar se suas ações 'boas' ou 'más' são realmente 'certas' ou 'erradas', não vou responder.\"\nNefer se levantou e fechou a porta da Curadoria dos Segredos. O expediente havia terminado.\n\"Você mesma terá de encontrar as respostas para esse tipo de pergunta.\"\nJahoda desabou como se tivesse murchado. Ashru pulou em sua cabeça, soltando um resmungo irritado, ainda descontente por Jahoda não ter brincado com ele.\nNefer virou-se novamente, o olhar recaindo sobre sua pequena funcionária, deitada ali com os olhos baixos e o coração pesado.\nTalvez, em toda Nod-Krai, Jahoda fosse quem mais se assemelhava a ela.\nAmbas haviam cruzado águas traiçoeiras sozinhas, ambas haviam caçado inimigos que precisavam ser eliminados sozinhas, e ambas tinham seus próprios \"problemas\" a resolver.\nTalvez, quando cada uma encontrasse suas respostas...\nA dona da Curadoria dos Segredos balançou a cabeça, interrompendo esses pensamentos.\n\"...Heh, deixar um pouco de suspense para o futuro não é tão ruim, suponho.\""
+      },
+      {
+        "Title": "Braço Tlim Tlim",
+        "Context": "O \"braço de ferro\" de Jahoda foi pessoalmente fabricado, instalado e até aprimorado esteticamente por Aino.\nDurante a fabricação, Aino sugeriu diversas ideias de modificação, incluindo, mas não se limitando a: adicionar um dispositivo de varredura como o de Ineffa, \"dedos foguete\" retráteis que poderiam ser lançados pelas pontas dos dedos, embutir lâmpadas de alta intensidade ou propulsores na palma e assim por diante...\nA firmeza de Jahoda — e o orçamento limitado — acabaram forçando Aino a reduzir o escopo, deixando o \"Braço Tlim Tlim\" apenas com mobilidade básica e algumas funções menores de transformação.\nPara se adaptar rapidamente ao novo braço, Jahoda seguiu o conselho de Ineffa e iniciou um rigoroso \"treinamento de estrelas de papel\".\nQuando já havia dobrado trinta potes de estrelas de papel, ela já conseguia manusear talheres com destreza usando o novo braço.\nCom cinquenta potes, ela já conseguia trançar o próprio cabelo.\nCom setenta potes, passou a costurar bonecas de pano com habilidade.\nAo chegar a cem potes, finalmente criou coragem para escrever com o novo braço.\nGuiada por Ineffa, ela escreveu sua primeira frase de teste:\n\"Olá, Jahoda.\""
+      },
+      {
+        "Title": "Visão",
+        "Context": "A notícia de que Jahoda possuía uma \"Visão\" foi espalhada por Nefer.\nComo Nefer dizia, se a chefe tinha tesouros, a funcionária também devia ter um. Caso contrário, Jahoda poderia acabar em desvantagem em futuras negociações.\n\"Chefe, mas eu não tenho uma Visão...\"\n\"Não tem problema. Vou arrumar uma fita de vidro para você usar.\"\n\"As pessoas vão perceber na hora que é falsa!\"\n\"Não necessariamente. Tirando os próprios portadores de Visão, quem mais consegue verificar a autenticidade?\"\n\"Ah? Bem... acho que você tem razão...\"\nE assim, enfeitada com uma esfera de vidro azul-ciano que apareceu sabe-se lá de onde, cortesia da Chefe Nefer, Jahoda continuou sua vida atarefada como sempre.\nComo Nefer previu, a atitude das pessoas melhorou visivelmente depois que souberam que Jahoda possuía uma \"Visão\". As recompensas ficaram um pouco maiores e começaram a confiar a ela comissões mais desafiadoras...\nClaro que o alto pagamento, a dificuldade e as expectativas pesavam sobre Jahoda, que sabia muito bem não ter uma \"Visão\" de verdade. Essa pressão a fazia trabalhar ainda mais, girando como um piãozinho o dia inteiro. Mas, no fim das contas, ela sentia uma alegria genuína em ser mais útil, ganhar mais e finalmente conquistar um pouco de confiança.\nAté mesmo em seus sonhos, Jahoda muitas vezes se via ajudando os outros ou realizando grandes feitos.\n\"Não... não se preocupe, eu tenho... uma 'Visão'...\"\nEla murmurou, agitando os punhos como se tivesse acabado de derrotar um inimigo formidável em sonho.\nNa realidade, Nefer, que acabara de voltar de um passeio noturno, estava sentada ao lado de Jahoda. A mochila da \"única funcionária em tempo integral da Curadoria dos Segredos\" estava aberta, com a conta de vidro ciano cuidadosamente envolta em várias camadas de pano para evitar que quebrasse ou atraísse olhares curiosos.\nJahoda balançou o braço inconscientemente e murmurou:\n\"Eu vou te ajudar... eu tenho... uma 'Visão'...\"\n\"Com uma 'Visão'... você pode fazer boas ações...\"\n\"Com uma 'Visão'... você pode...\"\nQuando Nefer se levantou para sair, um lampejo passageiro de luz ciano chamou sua atenção.\nA dona da Curadoria dos Segredos parou, surpresa, e então riu baixinho.\nUma mentira repetida mil vezes, de algum modo, havia se tornado verdade."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212400,
+      "Name": "Sussurros Estelares",
+      "Description": "Vestuário de Jahoda. Se adaptar a um visual novo é o primeiro passo para se despedir do passado. As roupas desse conjunto foram feitas personalizadamente pela querida, brilhante e sábia chefe de Jahoda, Nefer, enquanto os óculos eram um presente de Aino, e gorro foi um presente feito por Ineffa.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104154,
+    113078,
+    101257,
+    112124,
+    104364,
+    113073
+  ],
+  "NameCard": {
+    "Name": "Jahoda: A Ajudante",
+    "Description": "Estilo de cartão de visita.\n\"Quando as coisas ficam agitadas demais, queria poder pegar emprestado as mãos de Jahoda!\" — Claro, isso deve significar que a dona dessas \"mãos emprestáveis\" é tanto ágil quanto confiável, não é?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "PicturePrefix": "UI_NameCardPic_Jahoda"
+  }
+}

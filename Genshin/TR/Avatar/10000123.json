@@ -1,0 +1,1341 @@
+{
+  "Id": 10000123,
+  "PromoteId": 123,
+  "Sort": 109,
+  "Body": 1,
+  "Icon": "UI_AvatarIcon_Durin",
+  "SideIcon": "UI_AvatarIcon_Side_Durin",
+  "Name": "Durin",
+  "Description": "M'nin kaleminden doğup insanların dünyasına gelen bir ejderha. \"Hikayesi\" anlatılmaya devam ediyor.",
+  "BeginTime": "2025-12-02T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 1,
+  "BaseValue": {
+    "HpBase": 967.6198,
+    "AttackBase": 26.999,
+    "DefenseBase": 64.0181
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12331,
+        "Proud": {
+          "Descriptions": [
+            "1 Vuruş Hasarı|{param1:F1P}",
+            "2 Vuruş Hasarı|{param2:F1P}",
+            "3 Vuruş Hasarı|{param3:F1P}+{param4:F1P}",
+            "4 Vuruş Hasarı|{param5:F1P}",
+            "Yüklü Saldırı Hasarı|{param6:F1P}",
+            "Yüklü Saldırı Dayanıklılık Maliyeti|{param7:F1}",
+            "Havadan Saldırı Hasarı|{param8:F1P}",
+            "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param9:P}/{param10:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233101,
+              "Level": 1,
+              "Parameters": [
+                0.456505,
+                0.410048,
+                0.291617,
+                0.291617,
+                0.711521,
+                1.13434,
+                20,
+                0.639324,
+                1.278377,
+                1.596762
+              ]
+            },
+            {
+              "Id": 1233102,
+              "Level": 2,
+              "Parameters": [
+                0.493663,
+                0.443424,
+                0.315354,
+                0.315354,
+                0.769436,
+                1.22667,
+                20,
+                0.691362,
+                1.382431,
+                1.726731
+              ]
+            },
+            {
+              "Id": 1233103,
+              "Level": 3,
+              "Parameters": [
+                0.53082,
+                0.4768,
+                0.33909,
+                0.33909,
+                0.82735,
+                1.319,
+                20,
+                0.7434,
+                1.486485,
+                1.8567
+              ]
+            },
+            {
+              "Id": 1233104,
+              "Level": 4,
+              "Parameters": [
+                0.583902,
+                0.52448,
+                0.372999,
+                0.372999,
+                0.910085,
+                1.4509,
+                20,
+                0.81774,
+                1.635134,
+                2.04237
+              ]
+            },
+            {
+              "Id": 1233105,
+              "Level": 5,
+              "Parameters": [
+                0.621059,
+                0.557856,
+                0.396735,
+                0.396735,
+                0.968,
+                1.54323,
+                20,
+                0.869778,
+                1.739187,
+                2.172339
+              ]
+            },
+            {
+              "Id": 1233106,
+              "Level": 6,
+              "Parameters": [
+                0.663525,
+                0.596,
+                0.423863,
+                0.423863,
+                1.034188,
+                1.64875,
+                20,
+                0.92925,
+                1.858106,
+                2.320875
+              ]
+            },
+            {
+              "Id": 1233107,
+              "Level": 7,
+              "Parameters": [
+                0.721915,
+                0.648448,
+                0.461162,
+                0.461162,
+                1.125196,
+                1.79384,
+                20,
+                1.011024,
+                2.02162,
+                2.525112
+              ]
+            },
+            {
+              "Id": 1233108,
+              "Level": 8,
+              "Parameters": [
+                0.780305,
+                0.700896,
+                0.498462,
+                0.498462,
+                1.216205,
+                1.93893,
+                20,
+                1.092798,
+                2.185133,
+                2.729349
+              ]
+            },
+            {
+              "Id": 1233109,
+              "Level": 9,
+              "Parameters": [
+                0.838696,
+                0.753344,
+                0.535762,
+                0.535762,
+                1.307213,
+                2.08402,
+                20,
+                1.174572,
+                2.348646,
+                2.933586
+              ]
+            },
+            {
+              "Id": 1233110,
+              "Level": 10,
+              "Parameters": [
+                0.902394,
+                0.81056,
+                0.576453,
+                0.576453,
+                1.406495,
+                2.2423,
+                20,
+                1.26378,
+                2.527025,
+                3.15639
+              ]
+            },
+            {
+              "Id": 1233111,
+              "Level": 11,
+              "Parameters": [
+                0.966092,
+                0.867776,
+                0.617144,
+                0.617144,
+                1.505777,
+                2.40058,
+                20,
+                1.352988,
+                2.705403,
+                3.379194
+              ]
+            },
+            {
+              "Id": 1233112,
+              "Level": 12,
+              "Parameters": [
+                1.029791,
+                0.924992,
+                0.657835,
+                0.657835,
+                1.605059,
+                2.55886,
+                20,
+                1.442196,
+                2.883781,
+                3.601998
+              ]
+            },
+            {
+              "Id": 1233113,
+              "Level": 13,
+              "Parameters": [
+                1.093489,
+                0.982208,
+                0.698525,
+                0.698525,
+                1.704341,
+                2.71714,
+                20,
+                1.531404,
+                3.062159,
+                3.824802
+              ]
+            },
+            {
+              "Id": 1233114,
+              "Level": 14,
+              "Parameters": [
+                1.157188,
+                1.039424,
+                0.739216,
+                0.739216,
+                1.803623,
+                2.87542,
+                20,
+                1.620612,
+                3.240537,
+                4.047606
+              ]
+            },
+            {
+              "Id": 1233115,
+              "Level": 15,
+              "Parameters": [
+                1.220886,
+                1.09664,
+                0.779907,
+                0.779907,
+                1.902905,
+                3.0337,
+                20,
+                1.70982,
+                3.418915,
+                4.27041
+              ]
+            }
+          ]
+        },
+        "Id": 11231,
+        "Name": "Parlak Kanat Darbesi",
+        "Description": "<color=#FFD780FF>Normal Saldırı</color>\nArka arkaya en fazla 4 kılıç saldırısı yapar.\n\n<color=#FFD780FF>Yüklü Saldırı</color>\nBelirli miktarda Dayanıklılık harcayarak ileri doğru bir darbe yapar.\n\n<color=#FFD780FF>Havadan Saldırı</color>\nHavadayken dalışa geçerek yere vurur ve yoluna çıkan düşmanlara Alan Hasarı verir.",
+        "Icon": "Skill_A_01"
+      },
+      {
+        "GroupId": 12332,
+        "Proud": {
+          "Descriptions": [
+            "Dönüşüm: Saflığın Kabulü Hasarı|{param1:F1P}",
+            "Dönüşüm: Karanlığın Reddi Hasarı|{param2:F1P}+{param3:F1P}+{param4:F1P}",
+            "Enerji Yenilenmesi|{param5:F1}",
+            "BS|{param6:F1}sn"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233201,
+              "Level": 1,
+              "Parameters": [
+                1.056,
+                0.7224,
+                0.532,
+                0.6464,
+                6,
+                12
+              ]
+            },
+            {
+              "Id": 1233202,
+              "Level": 2,
+              "Parameters": [
+                1.1352,
+                0.77658,
+                0.5719,
+                0.69488,
+                9,
+                12
+              ]
+            },
+            {
+              "Id": 1233203,
+              "Level": 3,
+              "Parameters": [
+                1.2144,
+                0.83076,
+                0.6118,
+                0.74336,
+                12,
+                12
+              ]
+            },
+            {
+              "Id": 1233204,
+              "Level": 4,
+              "Parameters": [
+                1.32,
+                0.903,
+                0.665,
+                0.808,
+                15,
+                12
+              ]
+            },
+            {
+              "Id": 1233205,
+              "Level": 5,
+              "Parameters": [
+                1.3992,
+                0.95718,
+                0.7049,
+                0.85648,
+                18,
+                12
+              ]
+            },
+            {
+              "Id": 1233206,
+              "Level": 6,
+              "Parameters": [
+                1.4784,
+                1.01136,
+                0.7448,
+                0.90496,
+                21,
+                12
+              ]
+            },
+            {
+              "Id": 1233207,
+              "Level": 7,
+              "Parameters": [
+                1.584,
+                1.0836,
+                0.798,
+                0.9696,
+                24,
+                12
+              ]
+            },
+            {
+              "Id": 1233208,
+              "Level": 8,
+              "Parameters": [
+                1.6896,
+                1.15584,
+                0.8512,
+                1.03424,
+                27,
+                12
+              ]
+            },
+            {
+              "Id": 1233209,
+              "Level": 9,
+              "Parameters": [
+                1.7952,
+                1.22808,
+                0.9044,
+                1.09888,
+                30,
+                12
+              ]
+            },
+            {
+              "Id": 1233210,
+              "Level": 10,
+              "Parameters": [
+                1.9008,
+                1.30032,
+                0.9576,
+                1.16352,
+                33,
+                12
+              ]
+            },
+            {
+              "Id": 1233211,
+              "Level": 11,
+              "Parameters": [
+                2.0064,
+                1.37256,
+                1.0108,
+                1.22816,
+                36,
+                12
+              ]
+            },
+            {
+              "Id": 1233212,
+              "Level": 12,
+              "Parameters": [
+                2.112,
+                1.4448,
+                1.064,
+                1.2928,
+                39,
+                12
+              ]
+            },
+            {
+              "Id": 1233213,
+              "Level": 13,
+              "Parameters": [
+                2.244,
+                1.5351,
+                1.1305,
+                1.3736,
+                42,
+                12
+              ]
+            },
+            {
+              "Id": 1233214,
+              "Level": 14,
+              "Parameters": [
+                2.376,
+                1.6254,
+                1.197,
+                1.4544,
+                45,
+                12
+              ]
+            },
+            {
+              "Id": 1233215,
+              "Level": 15,
+              "Parameters": [
+                2.508,
+                1.7157,
+                1.2635,
+                1.5352,
+                48,
+                12
+              ]
+            }
+          ]
+        },
+        "Id": 11232,
+        "Name": "İkili Form: Birleşme ve Ayrılma",
+        "Description": "Ruhların ve dileklerin özünü saflaştırarak {LINK#N11230001}<color=#FFD780FF>Temel Dönüşüm</color>{/LINK} geçirir. Dönüşüm sırasında Durin'in <color=#FFD780FF>İkili Form: Birleşme ve Ayrılma</color> Element Becerisi, <color=#FFD780FF>Dönüşüm: Saflığın Kabulü</color> özel Element Becerisi olarak değişir. <color=#FFD780FF>Parlak Kanat Darbesi</color> Normal Saldırısı ise <color=#FFD780FF>Dönüşüm: Karanlığın Reddi</color> özel Element Becerisi olarak değişir.\n\n<color=#FFD780FF>Dönüşüm: Saflığın Kabulü</color>\nYakındaki düşmanlara 1 defa <color=#FF9999FF>Ateş Alan Hasarı</color> verir, Temel Dönüşümü tersine çevirir ve 30 saniyeliğine <color=#FFD780FF>Saflığın Kabulü</color> durumuna girer.\n\n<color=#FFD780FF>Dönüşüm: Karanlığın Reddi</color>\nÖndeki düşmanlara art arda 3 defa <color=#FF9999FF>Ateş Hasarı</color> verir, Temel Dönüşümü tersine çevirir ve 30 saniyeliğine <color=#FFD780FF>Karanlığın Reddi</color> durumuna girer.\n\nDurin savaştayken <color=#FFD780FF>Saflığın Kabulü</color> veya <color=#FFD780FF>Karanlığın Reddi</color> durumuna girdiğinde belirli miktarda Element Enerjisi yeniler. Element Enerjisi bu şekilde her 6 saniyede bir yenilenebilir.",
+        "Icon": "Skill_S_Durin_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Cadının Gece Ayini: Yükselişe Övgü",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Bu Dünyaya Ait</color> tamamlandıktan sonra Durin bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\n{LINK#P1232101}<color=#FFD780FF>Kutsal Hesabın Işık Tezahürü</color>{/LINK} Yükseltme Yeteneğinin süresi hariç tüm etkilerini %75 artırır.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12339,
+      "Proud": {
+        "Descriptions": [
+          "Saflık İlkesi: Değişen Işık Misali Hasarı|{param1:F1P}+{param2:F1P}+{param3:F1P}",
+          "Karanlık İlkesi: Korlaşan Yıldız Misali Hasarı|{param4:F1P}+{param5:F1P}+{param6:F1P}",
+          "Beyaz Alev Ejderhası Hasarı|{param7:F1P}",
+          "Karanlık Çürüme Ejderhası Hasarı|{param8:F1P}",
+          "Beyaz Alev Ejderhası Süresi|{param9:F1}sn",
+          "Karanlık Çürüme Ejderhası Süresi|{param10:F1}sn",
+          "BS|{param11:F1}sn",
+          "Enerji Maliyeti|{param12:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1233901,
+            "Level": 1,
+            "Parameters": [
+              1.1896,
+              0.964,
+              1.1184,
+              1.2544,
+              1.0176,
+              1.1184,
+              0.9464,
+              1.2984,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233902,
+            "Level": 2,
+            "Parameters": [
+              1.27882,
+              1.0363,
+              1.20228,
+              1.34848,
+              1.09392,
+              1.20228,
+              1.01738,
+              1.39578,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233903,
+            "Level": 3,
+            "Parameters": [
+              1.36804,
+              1.1086,
+              1.28616,
+              1.44256,
+              1.17024,
+              1.28616,
+              1.08836,
+              1.49316,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233904,
+            "Level": 4,
+            "Parameters": [
+              1.487,
+              1.205,
+              1.398,
+              1.568,
+              1.272,
+              1.398,
+              1.183,
+              1.623,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233905,
+            "Level": 5,
+            "Parameters": [
+              1.57622,
+              1.2773,
+              1.48188,
+              1.66208,
+              1.34832,
+              1.48188,
+              1.25398,
+              1.72038,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233906,
+            "Level": 6,
+            "Parameters": [
+              1.66544,
+              1.3496,
+              1.56576,
+              1.75616,
+              1.42464,
+              1.56576,
+              1.32496,
+              1.81776,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233907,
+            "Level": 7,
+            "Parameters": [
+              1.7844,
+              1.446,
+              1.6776,
+              1.8816,
+              1.5264,
+              1.6776,
+              1.4196,
+              1.9476,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233908,
+            "Level": 8,
+            "Parameters": [
+              1.90336,
+              1.5424,
+              1.78944,
+              2.00704,
+              1.62816,
+              1.78944,
+              1.51424,
+              2.07744,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233909,
+            "Level": 9,
+            "Parameters": [
+              2.02232,
+              1.6388,
+              1.90128,
+              2.13248,
+              1.72992,
+              1.90128,
+              1.60888,
+              2.20728,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233910,
+            "Level": 10,
+            "Parameters": [
+              2.14128,
+              1.7352,
+              2.01312,
+              2.25792,
+              1.83168,
+              2.01312,
+              1.70352,
+              2.33712,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233911,
+            "Level": 11,
+            "Parameters": [
+              2.26024,
+              1.8316,
+              2.12496,
+              2.38336,
+              1.93344,
+              2.12496,
+              1.79816,
+              2.46696,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233912,
+            "Level": 12,
+            "Parameters": [
+              2.3792,
+              1.928,
+              2.2368,
+              2.5088,
+              2.0352,
+              2.2368,
+              1.8928,
+              2.5968,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233913,
+            "Level": 13,
+            "Parameters": [
+              2.5279,
+              2.0485,
+              2.3766,
+              2.6656,
+              2.1624,
+              2.3766,
+              2.0111,
+              2.7591,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233914,
+            "Level": 14,
+            "Parameters": [
+              2.6766,
+              2.169,
+              2.5164,
+              2.8224,
+              2.2896,
+              2.5164,
+              2.1294,
+              2.9214,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233915,
+            "Level": 15,
+            "Parameters": [
+              2.8253,
+              2.2895,
+              2.6562,
+              2.9792,
+              2.4168,
+              2.6562,
+              2.2477,
+              3.0837,
+              20,
+              20,
+              18,
+              70
+            ]
+          }
+        ]
+      },
+      "Id": 11235,
+      "Name": "Saflık İlkesi: Değişen Işık Misali",
+      "Description": "\"Canavar\"ın gücünü farklı şekillerde ortaya çıkar. Durin, {LINK#N11230001}<color=#FFD780FF>Temel Dönüşüm</color>{/LINK} durumuna bağlı olarak farklı Element Patlamaları kullanabilir.\n\n<color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color>\nDurin, <color=#FFD780FF>Saflığın Kabulü</color> durumundayken <color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color> Element Patlamasını kullanarak önündeki düşmanlara 3 defa <color=#FF9999FF>Ateş Alan Hasarı</color> verir ve gücünü <color=#FFD780FF>Beyaz Alev Ejderhası</color> formunda ortaya çıkarır. Beyaz Alev Ejderhası mevcut aktif karakteri takip eder ve belirli aralıklarla yakındaki düşmanlara saldırarak <color=#FF9999FF>Ateş Alan Hasarı</color> verir. Bu Hasar Element Patlaması Hasarı sayılır.\n\n<color=#FFD780FF>Karanlık İlkesi: Korlaşan Yıldız Misali</color>\nDurin, <color=#FFD780FF>Karanlığın Reddi</color> durumundayken <color=#FFD780FF>Karanlık İlkesi: Korlaşan Yıldız Misali</color> Element Patlamasını kullanarak önündeki düşmanlara 3 defa <color=#FF9999FF>Ateş Alan Hasarı</color> verir ve gücünü <color=#FFD780FF>Karanlık Çürüme Ejderhası</color> formunda ortaya çıkarır. Karanlık Çürüme Ejderhası mevcut aktif karakteri takip eder ve belirli aralıklarla yakındaki tek bir düşmana saldırarak <color=#FF9999FF>Ateş Hasarı</color> verir. Bu Hasar Element Patlaması Hasarı sayılır.\n\nDurin, Temel Dönüşüm sonucunda özel bir durumda değilse <color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color> Element Patlamasını kullanır.",
+      "Icon": "Skill_E_Durin_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12321,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232101,
+              "Level": 1,
+              "Parameters": [
+                0.2,
+                6,
+                0.4,
+                0.4
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232101,
+        "Name": "Kutsal Hesabın Işık Tezahürü",
+        "Description": "Durin, Element Patlamasını kullandığında gücünün ortaya çıktığı forma bağlı olarak farklı güçlendirmeler tetikler.\n\n<color=#FFD780FF>Beyaz Alev Ejderhası</color> formunda:\nYakındaki grup üyeleri bir düşman üzerinde Yanma, Yüksek Voltaj, Ateş Girdabı veya Ateş Kristalleşmesi tepkimelerini tetiklediğinde ya da Yanma etkisindeki bir düşmana <color=#FF9999FF>Ateş Hasarı</color> veya <color=#99FF88FF>Doğa Hasarı</color> verdiğinde, 6sn boyunca o düşmanın <color=#FF9999FF>Ateş Direnci</color> ve tepkimeye dahil olan ilgili Elementin Direnci %20 azalır.\n\n<color=#FFD780FF>Karanlık Çürüme Ejderhası</color> formunda:\nDurin'in Buharlaşma ve Erime Tepkimesi Hasarı %40 artar.",
+        "Icon": "UI_Talent_S_Durin_01"
+      },
+      {
+        "GroupId": 12322,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232201,
+              "Level": 1,
+              "Parameters": [
+                0.03,
+                0.75,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232201,
+        "Name": "Gecenin Formuna Bürünen Kaos",
+        "Description": "Durin, bir Element Patlaması kullandıktan sonra 20 saniyeliğine Ezeli Form Birleşimi etkisi kazanır ve 10 kademe Ezeli Birleşim elde eder. <color=#FFD780FF>Beyaz Alev Ejderhası</color> veya <color=#FFD780FF>Karanlık Çürüme Ejderhası</color> tarafından aralıklarla yapılan bir saldırı Hasar verdiğinde 1 kademe Ezeli Birleşim tüketilir ve verilen Hasar, her 100 Saldırı için orijinal Hasarın %3'ü kadar artar . Bu şekilde en fazla %75 ek Hasar verilebilir. <color=#FFD780FF>Beyaz Alev Ejderhası</color> veya <color=#FFD780FF>Karanlık Çürüme Ejderhası</color> tarafından yapılan tek bir saldırı birden fazla düşmana isabet ettiğinde yalnızca bir kademe Ezeli Birleşim tüketilir.\nElement Patlaması tekrar kullanıldığında Ezeli Kaynaşım kademeleri sıfırlanır.",
+        "Icon": "UI_Talent_S_Durin_02"
+      },
+      {
+        "GroupId": 12323,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1232301,
+        "Name": "Kabaran Toprağın Yankıları",
+        "Description": "20 saatliğine bir Mondstadt Keşfine gönderildiğinde %25 daha fazla ödül kazanır.",
+        "Icon": "UI_Talent_S_Durin_07"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1231,
+        "Name": "Adamah'nın Kurtuluşu",
+        "Description": "Durin Element Patlamasını kullandıktan sonra etkileri Element Patlamasının türüne göre değişir:\n·<color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color>: Yakındaki diğer tüm grup üyeleri 20 <color=#FFD780FF>Aydınlanma Döngüsü</color> kademesi kazanır, 20sn sürer. Yakındaki aktif karakterler Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması Hasarı verdiğinde 1 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasar, Durin'in Saldırısının %60'ı kadar artar. Gruptaki Aydınlanma Döngüsüne sahip karakterler için kademe sayıları ayrı hesaplanır.\n·<color=#FFD780FF>Karanlık İlkesi: Korlaşan Yıldız Misali</color>: Durin 20 <color=#FFD780FF>Aydınlanma Döngüsü</color> kademesi kazanır, 20sn sürer. Durin Element Patlaması Hasarı verdiğinde 2 Aydınlanma Döngüsü kademesi tüketilir ve verilen Hasarı Durin'in Saldırısının %150'si kadar artar.\n\nBir Element Patlaması kullanıldığında <color=#FFD780FF>Aydınlanma Döngüsü</color> kademeleri yenilenir.",
+        "Icon": "UI_Talent_S_Durin_03"
+      },
+      {
+        "Id": 1232,
+        "Name": "Temelsiz Görüler",
+        "Description": "Durin Element Patlamasını kullandıktan sonraki 20sn boyunca, yakındaki grup üyeleri Buharlaşma, Erime, Yanma, Yüksek Voltaj, Ateş Girdabı veya Ateş Kristalleşmesi tepkimeleri tetiklediğinde ya da Yanma etkisindeki bir düşmana <color=#FF9999FF>Ateş Hasarı</color> veya <color=#99FF88FF>Doğa Hasarı</color> verdiğinde yakındaki tüm grup üyelerinin 6sn boyunca <color=#FF9999FF>Ateş Hasarı</color> ve tepkimeye dahil olan ilgili Element Hasarı %50 artar.",
+        "Icon": "UI_Talent_S_Durin_04"
+      },
+      {
+        "Id": 1233,
+        "Name": "Alev Aynasındaki Hakikat",
+        "Description": "<color=#FFD780FF>{LINK#S11235}Saflık İlkesi: Değişen Işık Misali{/LINK}</color> Seviyesini 3 arttırır.\nMaksimum yükseltme seviyesi 15'tir.",
+        "Icon": "UI_Talent_U_Durin_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1234,
+        "Name": "Taşkının Kaynağı",
+        "Description": "Durin'in Element Patlaması Hasarı %40 artar. Ayrıca,<color=#FFD780FF>{LINK#T1231}Adamah'nın Kurtuluşu{/LINK}</color> Takımyıldızına bağlı olarak <color=#FFD780FF>Aydınlanma Döngüsü</color> kademesi tüketen etkiler tetiklendiğinde %30 ihtimalle Aydınlanma Döngüsü kademesi tüketilmeyebilir.",
+        "Icon": "UI_Talent_S_Durin_05"
+      },
+      {
+        "Id": 1235,
+        "Name": "Yakıcı Alevlerin Parçalanışı",
+        "Description": "<color=#FFD780FF>{LINK#S11232}İkili Form: Birleşme ve Ayrılma{/LINK}</color> Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15'tir.",
+        "Icon": "UI_Talent_U_Durin_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1236,
+        "Name": "Çifte Doğum",
+        "Description": "Durin'in Element Patlaması Hasarı, düşmanların Savunmasının %30'unu yok sayar.\nAyrıca Durin'in <color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color> ve <color=#FFD780FF>Karanlık İlkesi: Korlaşan Yıldız Misali</color> Element Patlamaları geliştirilir:\n·<color=#FFD780FF>Saflık İlkesi: Değişen Işık Misali</color> ve <color=#FFD780FF>Beyaz Alev Ejderhası</color> bir düşmana isabet ettiğinde 6 saniyeliğine o düşmanın Savunması %30 azalır.\n·<color=#FFD780FF>Karanlık İlkesi: Korlaşan Yıldız Misali</color> ve <color=#FFD780FF>Karanlık Çürüme Ejderhası</color> tarafından verilen Hasar, düşmanların Savunmasının %40'ını daha yok sayar.",
+        "Icon": "UI_Talent_S_Durin_06"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "\"Sönmeyen Ateş\"",
+    "Detail": "M'nin kaleminden doğup insanların dünyasına gelen bir ejderha. \"Hikayesi\" anlatılmaya devam ediyor.",
+    "Association": 1,
+    "Native": "Cadılar Meclisi",
+    "BirthMonth": 3,
+    "BirthDay": 14,
+    "VisionBefore": "Ateş",
+    "VisionOverrideUnlocked": "Önsezi",
+    "ConstellationBefore": "Kızıl Ejderha",
+    "CvChinese": "陶典",
+    "CvJapanese": "小林千晃",
+    "CvEnglish": "Laurie Kynaston",
+    "CvKorean": "Kim Ji-yul",
+    "CookBonus": {
+      "OriginItemId": 108171,
+      "ItemId": 108924,
+      "InputList": [
+        100061,
+        100001,
+        110004,
+        100077
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Merhaba",
+        "Context": "Uzun zaman oldu, ben Durin. Eskiden herkes bana Mini Durin derdi ama gördüğün gibi artık pek de \"mini\" sayılmam... Görünüşüm sana tuhaf geldi mi? Doğrusunu söylemek gerekirse bana bile hâlâ biraz tuhaf geliyor... Öğrenmem gereken çok şey var. Umarım yardımını istememde sakınca yoktur."
+      },
+      {
+        "Title": "Sohbet: Hikayeler",
+        "Context": "Her bir gün hikayemde yeni bir sayfa. Bir sonrakine geçmeden önce her sahnenin, her dipnotun tadına varmak istiyorum."
+      },
+      {
+        "Title": "Sohbet: Yürüyüş",
+        "Context": "Burada durup oynasam... Yani, gezintiye çıksam olur mu? Çok uzağa gitmem."
+      },
+      {
+        "Title": "Sohbet: Garip",
+        "Context": "\"İnsan ilişkileri\" hakkında hâlâ öğrenecek çok şeyim var. Mesela gerginken ellerimi nereye koymalıyım? Ben sadece... Gerçekten herkesle arkadaş olmak istiyorum."
+      },
+      {
+        "Title": "Yağmur Yağdığında",
+        "Context": "Ah, içimden bir su birikintisine atlamak geliyor..."
+      },
+      {
+        "Title": "Yıldırım Düştüğünde",
+        "Context": "Bu havada çok yükseğe uçmamak gerek..."
+      },
+      {
+        "Title": "Kar Yağdığında",
+        "Context": "\"O\" da bir zamanlar böyle bir yerde mi uyuyordu?"
+      },
+      {
+        "Title": "Güneş Açtığında",
+        "Context": "Tıpkı peri masalından bir sahne gibi, ne kadar da güzel."
+      },
+      {
+        "Title": "Çölde",
+        "Context": "Hay aksi, susamaya başladım..."
+      },
+      {
+        "Title": "Günaydın",
+        "Context": "Günaydın. Başımın yana düşmesine aldırma, boynum biraz tutuldu. Dün gece bir kedi gelip birkaç metre ötemde uyuyakaldı. Normalde küçük hayvanlar benden korkup kaçar. Onu rahatsız etmek istemedim, bu yüzden bütün gece hareket etmemeye çalıştım..."
+      },
+      {
+        "Title": "İyi Günler",
+        "Context": "Madem \"geç kahvaltı\" diye bir şey var, o halde \"geç öğle yemeği\" de olması gerekmez mi?"
+      },
+      {
+        "Title": "İyi Akşamlar",
+        "Context": "Acaba bu gece yıldızları görebilecek miyiz..."
+      },
+      {
+        "Title": "İyi Geceler",
+        "Context": "Kuyruğuna sarılıp güzel bir uyku çekmek kadar huzurlu bir şey yok."
+      },
+      {
+        "Title": "Durin Hakkında: Büyüme",
+        "Context": "Sence ben olgunlaşıyor muyum? Nereden bakarsan bak, bu çocuksu bir görüntüm yok... Hem ben ilerlemeye devam etmek istiyorum!"
+      },
+      {
+        "Title": "Durin Hakkında: Kontrolü Kaybetmek",
+        "Context": "İçimde bir yerde büyük, çılgınca bir güç hissediyorum. Neyse ki Albedo'nun kusursuz simyası sayesinde bedenimdeki Hiçlik gücü kontrol altında. Sanki her şey bir denge içinde ve bu da taşma ya da aşınma olasılığını önlüyor. Bu nedenle kontrolü kaybetmekten veya birine zarar vermekten korkmama gerek yok."
+      },
+      {
+        "Title": "Durin Hakkında: Bencillik",
+        "Context": "Bu dünyada Durin adını almamın eleştirilere yol açacağını biliyorum. Ejdersırtı'nın Durin'inin yerini almak, onun yeniden dirilme hakkını çalmam anlamına geliyor. Kabul ediyorum, bu bencilce bir davranış ama o zamanlar \"insan\" olmayı çok istiyordum. Herkesin dünyasının gerçek bir parçası olmayı ve o dünyaya daha fazla iyilik getirmeyi diliyordum... Bu fırsatı geri çevirmek istemedim. Verdiğim karardan pişman değilim. Belki de Albedo'nun dediği gibidir, tüm canlılar bencil olabilir...\nHer ne olursa olsun, diğer Durin adına konuşamam. Ben sadece kendi yolumda yürümek ve doğru olanı yapmak istiyorum ki insanlar \"Durin\" adını andığında akıllarına güzel anılar gelsin."
+      },
+      {
+        "Title": "Hakkında: Boynuz Tokuşturma",
+        "Context": "Ejderhalar arkadaşlıklarını göstermek için boynuzlarını tokuşturur. Ama çok fazla güç kullanmaktan korkuyorum. Sonuçta sana zarar vermek istemem... Korkmadığına emin misin? Pekala! Daha güvenli olması için ben durayım, sen de kafanı boynuzlarıma vur, ne dersin?"
+      },
+      {
+        "Title": "Hakkımızda: Kutsanmak",
+        "Context": "\"Nereye gidersen git, dostluk ve samimiyet seni bulsun.\"\nPek çok dünyayı dolaşmış bir Gezgin olarak bana verdiğin kutsamaydı bu. Hiç aklımdan çıkarmadım. O gün hikayem değişmeye başladı... Teşekkür ederim. Ne kadar değiştiğimi hissedebiliyorum. Belki de... Ne belkisi, hiç şüphesiz artık değer verdiklerimi koruyacak kuvvete sahibim. Bu yüzden kutsamanın karşılığını sana bir söz vererek ödemek istiyorum: Ne zaman nerede olursa olsun, bana ihtiyacın olduğu sürece sana yardım edeceğim.\nŞey, yani tehlikede olduğunu öğrendiğim an mutlaka geleceğim. Tamam, bu kadardı. Yeterince kapsamlı oldu bence..."
+      },
+      {
+        "Title": "Önsezi Hakkında",
+        "Context": "Hiçliğin etkilerinden biri de canlıların gücünü artırabilmesidir. Şu anki formum bunun en büyük kanıtı. Gücünü tam olarak kontrol edemesem de eşsiz bünyem sayesinde Hiçliği iyilik için kullanabileceğim gibi görünüyor. Onu kontrol etmek zor ve muazzam bir konsantrasyon gerektiriyor, aksi takdirde atacağım herhangi bir yanlış adım sevdiklerime zarar verebilir. Bunu önlemek için öğrenmeye ve pratik yapmaya devam etmeliyim...\nBu Önsezinin çabalarımın bir takdiri olduğuna inanıyorum."
+      },
+      {
+        "Title": "Paylaşılacak Bir Bilgi",
+        "Context": "Dvalin çok hızlı uçuyor... Acaba kanatları benimkilerden büyük diye mi? Bazen düşünüyorum da eğer hâlâ ejderha formuna sahip olsaydım -yani Simulanka'daki oyuncak blok olan- ona kök söktürürdüm."
+      },
+      {
+        "Title": "İlginç Şeyler",
+        "Context": "İlk arkadaşım bir origami uçan sincaptı. Başlarda benimle oynamak isteyen tek şey oydu. İki sivri kulağı ve kağıttan büyük bir kuyruğu vardı ve Teyvat'taki sincaplara benziyordu. Onun için yüksek yerlerden çiçekler toplardım... O sincabı çok özlüyorum.\nSincaplar için birlikte çam kozalağı mı toplamak istiyorsun? Elbette, çok isterim!"
+      },
+      {
+        "Title": "Annesi Hakkında",
+        "Context": "Annemin kalemini elime aldığımdan beri her günün hikayesini özenle kağıda döküyorum. Klee bana balık tutmayı öğretti ve bu, ceza odasına atılmamızla sonuçlandı. Albedo su kaynatmak için benden yardım istedi ve bu da neredeyse çaydanlığın küle dönmesiyle sonuçlanacaktı. Şehir kapısının dışındaki küçük bir çocuk bana güvercinleri nasıl besleyeceğimi gösterdi ve kuşlardan biri boynuzuma konmaya karar verdi. Kitabımın sayfalarını doldurmaya devam edeceğim ve belki bir gün sayfaları çevirirken tanıdık bir sesin usulca \"Bu gerçekten de harika bir hikaye.\" dediğini işitirim."
+      },
+      {
+        "Title": "Alice Hakkında",
+        "Context": "Alice Teyze, Klee ile daha fazla vakit geçirmemi istedi. Karşılığında bana istediğim her şeyi vereceğini söyledi. Ama sadece çocuklar ödül ister ve ben artık büyüdüm... Klee ile oynamayı seviyorum çünkü birlikte vakit geçirdiğimizde mutlu oluyorum, hepsi bu. Bunu Alice Teyze'ye söylediğimde ise çok sevindi ve sırf benim için \"kocaman bir oyuncak\" alacağını söyledi..."
+      },
+      {
+        "Title": "Albedo Hakkında: Aile",
+        "Context": "Albedo, gerçek bir insan olmaya dair birçok deneyimini benimle paylaştı. İnsanların karşılaştığı birçok sorunu bana anlattı: İş, idealler, hayat gibi... Bunlardan bazılarını anlamak benim için çok zor, bazılarını ise hayal dahi edemiyorum.\nAlbedo, kendi seçimlerimi yapmadan önce bu sorunları deneyimleyerek yavaş yavaş öğrenebileceğimi söyledi. Aile, bir insanın seçemediği yegane şeydir. Ailemin karmaşık ve son derece sıra dışı olduğunu biliyorum ama Albedo gibi bir kardeşim olduğu için içim huzur ve aidiyet duygusuyla dolu. Bu anlamda ailemin diğerlerinden bir farkı yok."
+      },
+      {
+        "Title": "Albedo Hakkında: Sezgi",
+        "Context": "Albedo mükemmel bir \"insan\". Çok şey biliyor ve karşılaştığı her şeyin üstesinden gelebiliyor. Etrafındakilere karşı samimi ve dost canlısı. Ama bazen kimsenin ondan beklemediği farklı bir yüzü daha varmış gibi hissediyorum. Hedeflerine ulaşmak için kararlı adımlar attığı zaman mesela... Bu tuhaf sezgimin nereden geldiğini bilmiyorum. Belki de aynı \"tür\" varlıklar arasındaki bir rezonanstır."
+      },
+      {
+        "Title": "Avare Hakkında: Arkadaşlar",
+        "Context": "Simulanka'dan ayrıldıktan kısa bir süre sonra Şapkalı Adam'ı takip ederek Sumeru'ya gittim. Akademi çok büyük ve çok güzeldi, bir sürü de kitap vardı. Okuma yazmayı yeni öğrenmeye başladığım şu sıralar, orada okumanın ne kadar stresli olabileceğini daha yeni anlıyorum.\nİnsanların boş zamanlarında Şapkalı Adam'ın yanına kart oynamaya, sohbet etmeye ve hatta lezzetli yiyecekler paylaşmaya geldiği zamanlar da oluyordu tabii. Mesela şu büyük kulaklı olan, daha da büyük kulaklı ve şapkalı olan ya da küçük bir kurt tazısına benzeyen kişi gibi... Şapkalı Adam'a onların arkadaşı olup olmadığını sordum. Hep ne kadar gürültücü olduklarından şikayet ediyordu ama arkadaşlıklarını hiç reddetmedi."
+      },
+      {
+        "Title": "Avare Hakkında: Kararlılık",
+        "Context": "Onunla bazı ortak yönlerimiz var. Sanki her zaman ne düşündüğümü biliyor ve \"her şeyi görmüş geçirmiş\" biri olarak bana yol gösteriyor. İnsanlara \"fazla yaklaşmayın\" dediğimde aslında kararlılıkla reddetmelerini istiyorum... Şapkalı Adam'ın yaptığı da bu. Bu yüzden yalnız kalmak istediğini söylediğinde, hatta beni kasten vazgeçirmeye çalıştığında bile ben her zaman onun yanında dururum."
+      },
+      {
+        "Title": "Nilou Hakkında",
+        "Context": "Sumeru'dayken Nilou Peri'yi ziyaret etme fırsatı buldum. Özür dilerim, ağız alışkanlığı. Bu dünyada ona Bayan Nilou demeliyim. Onu Kapalı Çarşı'da dans ederken izledim, bir peri kadar güzeldi."
+      },
+      {
+        "Title": "Navia Hakkında",
+        "Context": "Fırsat bulursam Takımyıldız Metropolü'nün Kralı'na... Şey, yani Bayan Navia'ya teşekkür etmek isterim. Acaba şimdiki halimi görünce şok olur mu? Sorun etmez mi diyorsun? E süper o zaman!"
+      },
+      {
+        "Title": "Kirara Hakkında",
+        "Context": "Kedi Kuyruğu'ndaki tüm kedicikler Kirara gibi olsaydı beni gördüklerinde bu kadar gerilmezlerdi herhalde..."
+      },
+      {
+        "Title": "Venti Hakkında",
+        "Context": "\"Genç ozan tellere nazikçe vurdu, sesi bir dağ pınarı kadar berraktı. Bu ne bir savaş marşı ne de bir duaydı; yıldızların mırıltısı, ağaçların arasından esen rüzgardı. Ejderhanın göz kapakları hafifçe seğirdi, boğazında alevler usulca çıtırdıyordu.\"\nBir gece uyuyamayınca kırlarda gezintiye çıktım. Orada Lord Barbatos'la karşılaştım, o da aynısını yapıyordu. Bana bu şarkıyı söyledi ve o kadar çok hoşuma gitti ki ben de ezberledim..."
+      },
+      {
+        "Title": "Lisa Hakkında",
+        "Context": "Bayan Lisa bana ödev verdikten sonra bitirmem için beni masama oturtur. Bir keresinde çok yorgundum, onun görüşünü engellemek için kitabımı masama dik koydum ve gizlice kestirmeye çalıştım. Uyandığımda gülümseyerek başımda dikiliyordu. Korkudan kaskatı kesilmiştim. Ama daha özür dilemeyi bitiremeden, en değerli dersi öğrendiğim için beni övmüştü... Sanırım hatalarımı kabul etmeye razı olmamdan bahsediyordu.\nÖyle mi? Sence onu kastetmemiş miydi yani?"
+      },
+      {
+        "Title": "Klee Hakkında",
+        "Context": "Albedo bir keresinde Klee'nin onun küçük kız kardeşi gibi olduğunu söylemişti. Bu arada Klee bana Durin Abi demeyi seviyor. Sanırım teknik olarak onun abisiyim ama henüz kısa bir süredir insanım. İnsan yaşına göre düşünürsek o gerçekten benim \"küçük\" kardeşim mi oluyor? Hımm..."
+      },
+      {
+        "Title": "Fischl Hakkında",
+        "Context": "Merak ediyorum da... Simulanka'dayken onun diğerlerinden farklı olduğunu hissetmiştim. O da benim gibi mi? Yani o da mı bir kitaptan çıktı?"
+      },
+      {
+        "Title": "Diona Hakkında",
+        "Context": "Peri masallarında kalbi ve zihni karıştıran iksirler hazırlayabilen, aynı zamanda kedilere de hükmedebilen biri mutlaka kuvvetli bir cadıdır."
+      },
+      {
+        "Title": "Varka Hakkında",
+        "Context": "Büyük Kumandan Varka, Mondstadt şövalyelerinin çoğundan farklıdır. Güçlüdür ama gösterişli değildir. İnsanlara sakinlik ve güven hissi verir. Vahşi Av ile savaşırken bile şaka yapabilen türden bir şövalyedir o. Gerçi şakalarının çoğu benim boynuzlarımı aşıyor... Hangilerini mi anladım? Şey, onları da pek net duyamadım aslında, muhtemelen içtikten sonra sık sık kelimeleri yuvarladığı için..."
+      },
+      {
+        "Title": "Durin Hakkında Daha Fazlası: I",
+        "Context": "Buraya gelmeden önce zamanımın çoğunu annemin hikayelerinde yaşayarak geçirdim. Ona hiç sarılmadım ya da sıcaklığını hissetmedim ama onun kibar sesi hem mutlu hem de üzgün birçok anımda bana yol gösterdi. Eğer bir gün onun hikayelerini dinlemek istersen sana seve seve okurum."
+      },
+      {
+        "Title": "Durin Hakkında Daha Fazlası: II",
+        "Context": "İnsanlarla konuşurken gözlerinin içine bakmanın kibarlık olduğunu duydum. Ama dik dik bakmanın da kaba olduğunu söylüyorlar. Ben de konuşurken sık sık göz kırpmayı ya da bir gözümü kapalı tutmayı denedim ama herkes bana Bayan Barbara'ya gidip gözlerimi kontrol ettirmemi söyledi...\nGörünüşe göre bu dünyadaki en zor kurallar, sosyalleşmeyle ilgili olanlar..."
+      },
+      {
+        "Title": "Durin Hakkında Daha Fazlası: III",
+        "Context": "Bir ara kalbimde garip bir ses duyuyordum, bana benliğimi sorgulatıyordu... Damarlarımda ejderha kanı aktığı için insanlar benden korkar mı? Bir keresinde rüyamda Takımyıldız Metropolü'ndeki tüm oyuncak figürlerin bana taş attığını görmüştüm. Uyandığımda etrafım konfeti yağmuruyla çevriliydi. Mondstadt'taki arkadaşlarım bana sürpriz bir doğum günü partisi düzenlemeye karar vermişler... İşte o an kalbimdeki garip sesin ejderhanın etkisi değil, kendime duyduğum güvensizlik ve şüphe olduğunu fark ettim...\nO anı asla unutmayacağım. Pastamdaki mumların ışığı, güler yüzlü arkadaşlarımın yüzlerini aydınlatıyordu... İşte o an belirsizlik sisinden çıktığımı hissettim."
+      },
+      {
+        "Title": "Durin Hakkında Daha Fazlası: IV",
+        "Context": "Nod-Krai'a yola çıkmadan önce Kumandan Jean ve Albedo beni çok tehlikeli bir yolculuğa çıktığımız konusunda uyarmıştı. Karşılaşacağımız şeyin hayal ettiğimden çok daha ciddi olabileceğini söylemişlerdi. Seçimime saygı duydular, sadece onlara katılmadan önce her şeyi iyice düşünmemi istediler. Ama senin tehlikede olduğunu duyunca onlardan hemen katılmama izin vermelerini istedim.\nTehlikenin ne demek olduğunu ancak Vahşi Avı yakından gördükten sonra anladım. Gördüklerim, ayağımın altındaki zeminin kayması ya da Blokyum Madenlerinin çökmesi gibi fikirlerden çok daha korkunçtu...\nHayır, kararımdan pişman değilim. Ama korktum... Yardımım dokunmaz diye korktum. Bu beni diken üstünde tuttu, eminim fark etmişsindir. Neyse ki her şey yolunda gitti de şimdi herkesin övgüsüne layık olabildim."
+      },
+      {
+        "Title": "Durin Hakkında Daha Fazlası: V",
+        "Context": "Bana öyle geliyor ki insanlar, başka insanların parçalarından oluşuyor... Simya gibi değil de daha ziyade... Daha ziyade arkadaşlarımın söylediklerini hatırlamam, birlikte yemek yediğimiz restoranları sevmem veya dünyayı gezmek için senden ilham almam gibi... Bugün karşındaki kişiysem bunun sebebi başkalarından gelen tüm bu etkileri özümsemiş olmamdır.\nŞimdi ben de başkalarının kalplerinin bir parçası olmak istiyorum."
+      },
+      {
+        "Title": "Durin'in Hobileri",
+        "Context": "Şu anda Mondstadt'taki her şey benim için yeni ve hepsini keşfetmek istiyorum. Ş-Şarap mı? H-Hayır, şarap içemem... En azından şimdilik."
+      },
+      {
+        "Title": "Durin'in Sorunları",
+        "Context": "Teyvat'taki hayvanlar kağıttan değil, hem benim de artık keskin pençelerim yok... Artık onları sevebilirim diye düşünmüştüm ama ne zaman denesem korkup kaçıyorlar... *iç çeker*"
+      },
+      {
+        "Title": "En Sevdiği Yemek",
+        "Context": "Et yemeye bayılırım, hem de kocaman parçalar halinde. Ama şu sıralar bitirmem uzun sürüyor. Bıçak ve çatal kullanmak benim için biraz zor, hangisinin kesmeye yaradığını bir türlü hatırlayamıyorum..."
+      },
+      {
+        "Title": "En Sevmediği Yemek",
+        "Context": "Kusura bakma ama benimkine biraz daha az sebze koyabilir misin? Hatta hiç olmasa olur mu?"
+      },
+      {
+        "Title": "Hediye Alma: I",
+        "Context": "Bunu yemek için hangi aleti kullanmalıyım? Ellerimle yesem olur mu?"
+      },
+      {
+        "Title": "Hediye Alma: II",
+        "Context": "Teşekkür ederim. Toplumsal ilişkilerde karşılık beklenir, bu yüzden sana bir içki ısmarlayayım."
+      },
+      {
+        "Title": "Hediye Alma: III",
+        "Context": "Özür dilerim, tat alma duyumda bir sorun var galiba... Bir daha deneyeyim... Eyvah, gerçekten bir sorun olmalı!"
+      },
+      {
+        "Title": "Doğum Günü",
+        "Context": "Doğum günün ne çabuk geldi! Özür dilerim, aklıma sürekli eklenecek yeni ayrıntılar geliyor, o yüzden hâlâ bitiremedim...\nBu senin için yaptığım bir origami gemi. Üzerindeki kağıt hayvanlar da arkadaşlarımız. Ve bu pruvada duran, henüz boyamaya vaktimin olmadığı kişi de sensin. Zihnimde altın sarısı bir ışık yayan bir gemi kaptanı gibisin... Seni altın rengine boyamama yardım eder misin?\nAa, az kalsın unutuyordum... Bu geminin adı \"Gezgin\". Arkadaşlarınla birlikte ileriye doğru yelken açmaya devam etmen dileğiyle! Nice senelere!"
+      },
+      {
+        "Title": "Yükseltme Hakkında: Giriş",
+        "Context": "Efsaneye göre kötü bir ejderha, bir kalenin yüksek pencerelerinin ardında parıldayan mücevherler biriktirirmiş."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Gelişme",
+        "Context": "Gezgin bir kahraman surlara tırmanmış ve pulları yıldız tozuyla kaplı ejderhayı görmüş. Ejderha, sanki kayıp yıldız ruhlarının yollarını bulmalarına yardım edermiş gibi burnuyla düşmüş yıldız parçalarını itiyormuş."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Zirve",
+        "Context": "Kahraman kılıcını yere atmış ve ellerini açıp konuşmuş: \"Ben yıldızların ötesinden geliyorum, lütfen yardım etmeme izin ver.\""
+      },
+      {
+        "Title": "Yükseltme Hakkında: Sonuç",
+        "Context": "Yüksek pencerelerin karanlık gece boyunca parladığı o günden sonra ejderha, kahramanın kozmik kıyıda devriye gezmesini sağlamış. Yıldız ışığı onlara bir pelerin, arkadaşlıkları ise yol gösteren bir pusula olmuş."
+      },
+      {
+        "Title": "Element Becerisi: I",
+        "Context": "Arkada kal!"
+      },
+      {
+        "Title": "Element Becerisi: II",
+        "Context": "Dikkat!"
+      },
+      {
+        "Title": "Element Becerisi: III",
+        "Context": "Bana bırak!"
+      },
+      {
+        "Title": "Element Becerisi: IV",
+        "Context": "Geri çekil!"
+      },
+      {
+        "Title": "Element Becerisi: V",
+        "Context": "Parçala!"
+      },
+      {
+        "Title": "Element Becerisi: VI",
+        "Context": "Yutan pençe!"
+      },
+      {
+        "Title": "Element Patlaması: I",
+        "Context": "Hikaye daha yeni başladı."
+      },
+      {
+        "Title": "Element Patlaması: II",
+        "Context": "Çürüme... Ve yeni hayat."
+      },
+      {
+        "Title": "Element Patlaması: III",
+        "Context": "Kaderin dönüm noktası."
+      },
+      {
+        "Title": "Element Patlaması: IV",
+        "Context": "Benden uzak dur!"
+      },
+      {
+        "Title": "Element Patlaması: V",
+        "Context": "Hiçliğin yakan gölgesi."
+      },
+      {
+        "Title": "Element Patlaması: VI",
+        "Context": "Son için bir ağıt."
+      },
+      {
+        "Title": "Hazine Sandığı Açma: I",
+        "Context": "Çok heyecanlı... Tıpkı bir hediye açmak gibi..."
+      },
+      {
+        "Title": "Hazine Sandığı Açma: II",
+        "Context": "Bunları nasıl kullanıyoruz?"
+      },
+      {
+        "Title": "Hazine Sandığı Açma: III",
+        "Context": "Bunu daha önce hiç görmemiştim... İlginç."
+      },
+      {
+        "Title": "Düşük Can: I",
+        "Context": "Devam edebilirim."
+      },
+      {
+        "Title": "Düşük Can: II",
+        "Context": "Gücüm henüz tükenmedi."
+      },
+      {
+        "Title": "Düşük Can: III",
+        "Context": "Hayır... Daha değil!"
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: I",
+        "Context": "Seni koruma sırası bende."
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: II",
+        "Context": "Bana güven."
+      },
+      {
+        "Title": "Yere Serilme: I",
+        "Context": "Bu... İyi bir son mu?"
+      },
+      {
+        "Title": "Yere Serilme: II",
+        "Context": "Özür dilerim..."
+      },
+      {
+        "Title": "Yere Serilme: III",
+        "Context": "Gökyüzünde... Bir yıldız mı olacağım?"
+      },
+      {
+        "Title": "Hafif Darbe Alma: I",
+        "Context": "Dur artık."
+      },
+      {
+        "Title": "Hafif Darbe Alma: II",
+        "Context": "Hayır."
+      },
+      {
+        "Title": "Ağır Darbe Alma: I",
+        "Context": "Saçmalık!"
+      },
+      {
+        "Title": "Ağır Darbe Alma: II",
+        "Context": "Kes şunu!"
+      },
+      {
+        "Title": "Gruba Katılma: I",
+        "Context": "Herkese merhaba, ben Durin."
+      },
+      {
+        "Title": "Gruba Katılma: II",
+        "Context": "Hemen arkanda olacağım."
+      },
+      {
+        "Title": "Gruba Katılma: III",
+        "Context": "Savaş kuvvetimizi mi artırıyoruz? Elimden geleni yapacağım."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Karakter Ayrıntıları",
+        "Context": "Bir Rüzgarçiçeği Festivalinin ardından Mondstadt'ta yeni bir yüz belirdi: Başında boynuzları ve sırtında kanatları olan genç bir çocuk. Kumandan Jean halka bu çocuğun bir zamanlar ejderha olduğunu söyledi. Harikulade bir simya mucizesi sayesinde insan suretine kavuşmuştu ve şimdi de aralarında nasıl yaşayacağını öğrenmek istiyordu.\nMondstadt'ta bir ejderhanın insana dönüşmesi pek de şaşırtıcı bir haber değildi. Sonuçta Mondstadt topraklarından sayısız peri masalı doğmuştu. Halkın dikkatini asıl çeken çocuğun adıydı: Durin.\nBu isim ne zaman yüksek sesle söylense insanlar içgüdüsel olarak Ejdersırtı'na doğru bakardı. Kör edici beyazlıktaki karların altında çoktan ölmüş bir yaratığın devasa kemikleri; bu kemiklerle birlikte ise hiç hatırlanmaması gereken bir felaketin anıları yatıyordu. Çoğu Mondstadt sakini için bu isim merak değil, huzursuzluk uyandırıyordu.\nYine de Jean ve Favonius Şövalyelerinin ona kefil olmasıyla Durin şehre kabul edildi.\nİnsanlar onu şehrin her yerinde görmeye başladı ve kısa süre sonra aslında her karşılaşmada daha çekingen olan tarafın Durin olduğunu keşfettiler. Herkesi merak ediyor ama uzaktan izlemeyi tercih ediyor; yaklaşmaya çekiniyordu. Karşılarındaki bu çocukta adının bir zamanlar uyandırdığı dehşetten eser yoktu.\nMondstadt halkı yavaş yavaş Durin'in varlığına alıştı. Temkinli bakışlar yumuşadı ve günlük hayat huzurlu ritmine geri döndü. Bir süre sonra artık çoğu kişi onun adını duyunca gözlerini beyaz dağlara çevirmez oldu. Aksine, akıllarına nazik bir çocuk geliyordu. Çiçek Fısıltısı'nın önünde Flora'ya bir arkadaşı için en uygun çiçekleri sorarken yüzü kızaran ya da Avcının Yeri'nin önünde durup eti nasıl yakmadan pişireceğini mahcup ama samimi bir şekilde soran o çocuk... Bu nazik sahneler, o eski felaketin anısını yavaş yavaş sildi. Bir zamanlar korkuyla anılan \"Durin\" adı artık kimseyi ürkütmüyordu.\nBu durum, hüzünlü bir masalın sonunu en baştan yazmak gibiydi adeta."
+      },
+      {
+        "Title": "Karakter Hikayesi 1",
+        "Context": "Durin'in hikayesini hiç duydun mu?\nMaceracılar Loncası, yerinde araştırmalar yapıp Mondstadt halkı arasında nesilden nesile aktarılan kadim kayıtları inceleyerek oldukça ayrıntılı bir anlatı ortaya çıkardı. Yüzlerce yıl önce, Khaenri'ah'dan gelen felaket tüm topraklara yayıldığında Durin adında kötü bir ejderha, peşinde bir sürü Hiçlik yaratığıyla beraber Mondstadt'a indi. Onun varlığı bile başlı başına bir felaketti; tek bir nefesiyle verimli ovaları çorak arazilere çevirebilirdi. Rüzgar Hükümdarı Barbatos'un rehberliğinde yoldaşı Dvalin, Durin'le çetin bir savaşta yüzleşmek için karlı dağların üzerindeki göklere yükseldi. Sonunda Dvalin, Durin'in boğazını parçaladı ve ejderhayı alt etti. Ancak Dvalin de zehirli kanla lekelenmişti, kısa süre öncesine kadar da öyle kaldı...\nSonuç olarak epey trajik bir hikaye bu.\nO büyük felaketi izleyen günlerde Mondstadt ozanları arasında bir şiir sessizce yayılmaya başladı:\n\"Anne, buyurduğun gibi bana, herkese güzelliğimi göstermek için geldim bu diyara.\"\n\"Buradaki çiçekler pek hoş kokar, nazik eser rüzgar. Koşuyorum esintiyle beraber, ardımda daha parlak açıyor çiçekler.\"\n\"Kelebekler uçuşuyor etrafımda, sanki güzelliğime hayranlar burada. Ama elimi uzattığımda onlara, ürküp kaçıyorlar uzağa.\"\n\"Ama sonra, içlerinden sevimli bir tanesi kendi isteğiyle yaklaştı yanıma, sanki beni davet edercesine dansa.\"\n\"Kabul ettim davetini hevesle, dönüp durduk beraber neşeyle. Rüzgarla açtı çiçeklerin yaprakları, renkleriyle süsledi dansımızı.\"\n\"Anne... Yeni bir arkadaş buldum kendime.\"\nİlginçtir ki ortaya çıkmasından kısa bir süre sonra Favonius Şövalyeleri, bilinmeyen bir tarafın ihbarı üzerine şiirin kaynağını buldu. Başlığını sildiler ve içinde yer aldığı koleksiyonu mühürleyerek yasaklı bir metin olarak işaretlediler.\nO zamanlar insanlar Favonius Şövalyelerinin bunu neden yaptığını bilmiyordu. Ama Durin'in hikayesine ilgi duyar ve biraz daha derine inersen bir simyagerin deney notlarını bulabilirsin. Bu notlara göre Durin'in bilinci göklerin ötesinden gelmişti ve simya aracılığıyla zalim ejderhanın bedeniyle birleştirilmişti. Ejderhanın Hiçlik gücü tarafından yozlaştırılan duyuları ve deneyimleri, sıradan varlıklardan çok farklıydı. Düşüşüne kadar bir felaket timsali olmaktan başka çaresi yoktu, hiç olmamıştı; muhtemelen etrafındaki zalim dünyayı anlamlandıramıyordu.\nBu açıdan bakıldığında şiir, aslında Durin'in hikayesini onun bakış açısından anlatıyor olabilir.\nBir büyücü bu hikayeye rastladı ve ister istemez biraz pişmanlık hissetti. Eğer Durin olarak bilinen ruh kendini gerçekten Hiçliğin lanetinden kurtarmış ve sonunda Dvalin ile bir arkadaşlık kurmuş olsaydı hikayenin sonu ne kadar farklı olurdu?\nBüyücü, belki de bu dinmeyen kederi dindirmek için kalemini eline alıp ana karakterin Durin adını taşıdığı yeni bir hikaye yazmaya koyuldu."
+      },
+      {
+        "Title": "Karakter Hikayesi 2",
+        "Context": "Durin Mondstadt'a ilk geldiğinde kalabalık yerlerden hep kaçınırdı. Bir tablonun kenarında tek başına duran renkli bir fırça darbesi gibiydi; çarpıcıydı ama tek başına anlamlı bir sahne oluşturmuyordu. Bu durağan lekede mahsur halde yeni arkadaşlar edinmek ve gerçekten kendisine ait olan bir hikaye başlatmak için çabaladı.\nO zamanlar Lisa, Jean'in ricası üzerine Durin'e hocalık yapmaya yeni başlamıştı. Tüm bunları gözlemleyince Durin'in doğuştan yalnız biri olmadığını çabucak fark etti. Arkadaş edinme arzusu barizdi ama her fırsatta tereddüt ediyordu. Lisa ona bu konuyu sorduğunda Durin sonunda endişelerini itiraf etti.\n\"Ben... Ben diğer insanlarla nasıl anlaşacağımı bilmiyorum...\"\n\"Evet, insanlarla iletişim kurmayı öğrenmek, arkadaş edinmenin ön koşuludur.\" diye yanıtladı Lisa. \"Ama sınıfta öğretilebilecek bir şey değil bu.\"\nBöylece Lisa, Durin'e bir ödev verdi: Odasından çıkıp Mondstadt halkının birbiriyle nasıl iletişim kurduğunu gözlemleyecekti. Hocasının bu talebi, Durin'in tereddütlerinin çoğunu ortadan kaldırdı ve tıpkı bir zamanlar madende saklandığı yerden tırmanarak çıktığı gibi sonunda odasından ayrıldı.\nDurin'in rehberlik için ilk tercihi, her şeyi bilen bir dahi olarak gördüğü Albedo'ydu. Ancak konunun \"insanların sosyal becerilerini\" öğrenmek olduğunu duyan Albedo; etrafı karla kaplı, gözlerden uzak simya atölyesine bir göz attı ve biraz düşündükten sonra Durin'e daha uygun bir öğretmen bulmasını önerdi.\nDurin'in aklına gelen bir sonraki isim Klee oldu. Herkesle arkadaş olabiliyor gibiydi. Başkalarıyla bağ kurmak için etkili bir yöntemi olmalıydı mutlaka. Ancak Klee'nin tavsiyesi sadece \"onlarla balık patlatmaya gitmek\"ti. Ona göre, yan yana balık patlatmış iki kişi kesinlikle silah arkadaşı sayılırdı. Durin, Jean tarafından Klee ile birlikte ceza odasına kapatıldıktan sonra onun ne demek istediğini anlamaya başladı.\nDurin daha sonra Dahlia ve Kaeya'dan da yardım istemeyi düşündü. Ne de olsa biri insanları dinleme konusunda yetenekli bir rahipti, diğeri ise başkalarına yardım etmeye hevesli Süvari Yüzbaşıydı. Durin durumu anlatıp yardım istediğinde ikisi de hemen kabul etti ve onu Meleklerin Payı'na götürdü. Çekingen Durin orada hanın müdavimlerinin kadehlerini kaldırıp birlikte şarkı söyleyip gülüşmelerini izledi. Mondstadt'ta insanlar böyle sosyalleşiyordu. Ancak Durin, bardaki içecekleri bir kez kokladıktan sonra neredeyse düşüp bayılacak gibi oldu. Neyse ki soğukkanlı barmen, Durin'in içkisini hemen meyve suyuyla değiştirdi. Durin bu sosyalleşme yönteminin onu aştığını fark etti... En azından şimdilik.\nAncak bu deneyim aklına bir fikir getirdi. Baş döndürücü alkol kokusunun olmadığı daha sessiz bir hana gitti. Orada insanlar \"Dehanın Yakarışı\" adlı bir kart oyunuyla sosyalleşiyordu. Fakat Durin kendine bir rakip bile bulamadan bir grup kedinin saldırısına uğradı ve ancak Diona'nın müdahalesi sayesinde kurtulabildi...\nGöz açıp kapayıncaya kadar birkaç gün geçti. Durin tekrar tekrar denedi ama başkalarıyla iletişim kurmanın pratik bir yolunu bir türlü öğrenemedi ve bu sebeple de Lisa'nın ona verdiği ödevi tamamlayamadı.\nAncak yanına dönüp bunu söylediğinde Lisa onu suçlamadı.\n\"O zaman bunu uzun vadeli bir ödev olarak düşünelim. Hazır hissettiğinde yanıma gel, sonuçlarını kontrol edeyim.\"\n\"Gerçekten mi? Teşekkürler hocam!\"\nLisa kuralları öylesine esnetmemişti. Durin'in artık eskisi gibi yalnız ve renksiz olmadığını görebiliyordu; dünyadaki yerini bulmaya başlamıştı. Albedo dağdaki atölyesine fazladan ısıtıcı kurmuştu, şövalyeler bazen ceza odasına fazladan bir sandalye bırakıyordu, Meleklerin Payı'nda sadece meyve suyu için bir bar taburesi ayrılmıştı ve Kedi Kuyruğu'nun önünde ara sıra özel bir masa beliriyordu. Gerçekten de insan iletişiminin belirli bir şekli şemali yoktu. Herkes kendi köşeleriyle gelir, keskin olsun olmasın bu köşeler birbirine çarpar ve sonunda herkes uyum sağladığı yeri bulurdu. Durin, farkında olmadan çoktan bu tablonun bir parçası olmuştu. Renkleri hâlâ biraz sıra dışıydı ama artık etrafında gelişen birçok ilginç manzaraya katkıda bulunuyordu. Bu manzaralarda yer alan insanlar onun şimdiki ve gelecekteki arkadaşlarıydı. Bu manzaralarda geçen olaylar ise onun hikayesiydi.\nVe bunu fark ettiği zaman ödevi tamamlanmış olacaktı."
+      },
+      {
+        "Title": "Karakter Hikayesi 3",
+        "Context": "Durin Teyvat'a ilk geldiğinde ilk durağı Sumeru olmuştu. O zamanlar henüz insan bedenine sahip değildi ve herkes tarafından \"Mini Durin\" olarak biliniyordu. Onun varlığı başlı başına olağanüstüydü, bu da doğal olarak hem meraklıların hem de vicdansızların dikkatini çekti. Neyse ki Şapkalı Adam ona sadece rehberlik etmekle kalmadı, aynı zamanda korumalığını da yaptı. Yüzünden kasvet akan ifadesiyle çevresindeki meraklıların çoğunu korkutup kaçırabiliyordu, egzotik hayvan tüccarları tarafından tutulan paralı askerler ise onun karşısında duramıyordu.\nO günler Durin için kaygısız ve mutlu geçti. Doğrusunu söylemek gerekirse Teyvat, Simulanka'nın huzuru ve rahatlığıyla boy ölçüşemezdi ama yine de Durin kendini bu yeni dünyanın büyüsüne kaptırmıştı.\nDurin'in bu dünyaya geldikten sonra zihninde kalan tek şüphe Şapkalı Adam'dan kaynaklanıyordu.\nPeri masallarından doğan bir ejderha olarak Durin, herkesi eşsiz bir hikaye olarak görürdü. Şapkalı Adam ile Sumeru'da yaşarken \"Yağmur Ormanı, Mantarlar, Kuyruk Bakımı ve Büyük Kulaklar\" ya da \"Akademi, Ejderhaların Anlamadığı Şakalar, Dehanın Yakarışı Kart Oyunu ve Şapkadaki Büyük Kulaklar\" gibi sayısız hikayeye tanıklık edecek kadar şanslıydı. Arada sırada çöle yapılan gezilerde \"Çöl, Kovalamaca Oyunları ve Küçük Kurt Tazısı\" gibi hikayeleri okuma fırsatı buluyordu...\nGelgelelim Durin ne zaman yanında en çok vakit geçirdiği Şapkalı Adam'a baksa onda hiçbir hikaye göremiyordu.\nDurin, Şapkalı Adam'a karşı bu şüphelerini dile getirmedi. Henüz çok erken olduğunu düşündüğü için Şapkalı Adam'ın hikayesini ortaya çıkarma umuduyla onun yakınında kaldı. Ancak çok geçmeden Şapkalı Adam beraber yaptıkları yolculuğa bir son vermeyi teklif etti.\n\"Bu küçük yolculuk şimdilik bana yetti. Git başkasının başını ağrıt, istersen de ait olduğun o masal dünyasına geri dön.\"\n\"Olmaz, senin hikayeni hâlâ bilmiyorum!\"\nDurin reddetmekte kararlıydı. Şapkalı Adam'ın ses tonu her zamanki gibi herkesin yüzünü buruşturacak kadar keskin olsa da Durin, onun kendisini sırf sabırsızlığından dolayı göndermeye çalışmadığını anlayabiliyordu. Şapkalı Adam'ın bu isteğinin asıl nedeni, henüz ortaya çıkmayan hikayesinin derinliklerinde gizli gibiydi.\nBaşkası olsaydı Şapkalı Adam muhtemelen arkasını dönüp giderdi. Ama Durin'in gözlerindeki kararlılığı gördü. Durin, Teyvat'taki yolculuğunda onu takip etmeye karar verdiği günden beri Şapkalı Adam onu bir türlü başından savamamıştı. Bir kez daha pes etti.\n\"Hikayenin bu dünyada kök salmasını ister misin Durin?\"\n\"Hikayemin... Bu dünyada mı?\"\n\"Senin için önemli bir seçim olacak bu, şüphesiz. Ama sonsuza dek yanımda kalırsan dünyayı ne kadar tanıyabilirsin ki? Daha uzağa gitmeni, dünyanın güzelliklerini ve çirkinliklerini de görmeni istiyorum. Yeterince şey gördüğünde de seçimini yaparsın.\"\n\"Hımm... Peki ya senin hikayen ne olacak Şapkalı Adam?\"\n\"Eğer hikayeni bu dünyada yeşertmeye karar verirsen sanırım benim de bunda küçük bir rolüm olur. Sadece oynadığım rolü hatırla, o bana yeter. Senin için benim hikayem bu.\"\nBunu duyan Durin uzun bir süre sessiz kaldı. Şapkalı Adam'ı ilk defa böyle konuşurken duyuyordu. Cesaret verici bir tonu vardı ama aynı zamanda neredeyse bir yalvarışı andıran belli belirsiz bir iz taşıyordu.\nSonunda Durin onun tavsiyesini kabul etti."
+      },
+      {
+        "Title": "Karakter Hikayesi 4",
+        "Context": "Durin, herkesin ona bahşettiği lütuflar sayesinde lanetten kurtarılmadan önce Simulanka'daki günlerinin çoğunu yalnızlık ve umutsuzluk içinde madenlerde kıvranarak geçirdi. Yine de gözlerini ilk açtığında kısa süreliğine mutlu bir dönem yaşamıştı. O günlerde annesi Anya \"Marie\" Andersdotter hâlâ hayattaydı.\nO zamanlar Simulanka hâlâ inşaat halindeydi. Durin, annesinin işine ara verebildiği zamanlarda sık sık ona eşlik ederdi ve birlikte Simulanka'nın dört bir yanını keşfederlerdi.\nYol boyunca annesi ve iki teyzesinin etraflarındaki dünyayı nasıl şekillendireceklerini tartışmalarını izlerdi. Tartışmaları her zaman aynı soruyla başlardı: Ejderhaların olduğu bir dünya nasıl görünürdü? Bu kıvılcımdan büyük tasarımlar doğdu: oyulmuş vadiler, döşeli yollar, yükselen kaleler... Hepsi onların hararetli münazaralarının ortasında hayat buldu.\nAncak bazen bu münazaralar tartışmalara dönüşürdü. Durin'in ateş kırmızısı teyzesi heyecan verici unsurlar eklemeyi severdi (bombalar veya dünyayı daha heyecanlı kılacak herhangi bir şey gibi), annesi ise her zaman endişelerini dile getirirdi. Simulanka halkını kendi çocuklarıymış gibi seviyor ve evlerinin pervasız bir düzenek yüzünden harabeye dönmesi düşüncesine katlanamıyordu. Yine de tartışmalar asla uzun sürmezdi. Çok geçmeden ateş kırmızısı teyzesi fikirlerini değiştirmek için zekice yollar bulur ve sadece annesinin endişelerini gidermekle kalmaz, aynı zamanda dünyalarını daha da canlı ve büyüleyici hale getirirdi.\nO zamanlar Simulanka'nın hikayesi henüz tamamlanmamıştı ve annesi düşünmek için sık sık yazmaya ara verirdi.\nNe zaman ara verse Durin'in soluk mavi teyzesi ziyarete gelir, yanında zarif çay fincanları ve lezzetli tatlılarla dolu tabaklar getirirdi. Sohbetleri derin ve kapsamlı olur; keyifli öğle saatlerinden sessiz gecelere, yukarıdaki yıldızlardan Simulanka'nın geleceğine kadar uzanırdı.\nBu sohbetler sırasında soluk mavi teyzesi sık sık Durin'in üzerinde çıkan yeni pullara gözlerinde karmaşık bir ifadeyle bakardı. Bu bakış Durin'i huzursuz ederdi. Yine de her zaman harika ikramlar getirdiği için bu teyzesinin ziyaretlerini pek de dert etmezdi.\nBunun haricindeki zamanlarda annesini genellikle masasında iki büklüm yazı yazarken bulurdu. Durin, annesinin kaleminin sesini dinleyerek sessizce onun yanında otururdu ve uykuya dalardı. O günlerin sonsuza dek süreceğini düşünüyordu, ta ki bir gün annesi sanki işini nihayet bitirmiş gibi aniden kalemini bırakana dek.\n\"Gel çocuğum.\" dedi sandalyesinden kalkarken. \"Seninle bir yürüyüşe çıkalım.\"\nDurin'i gökyüzünün yükseklerindeki bir avluya götürdü. Ufka doğru bakarak sanki bir sayfanın kenarını tutuyormuş gibi elini uzattı.\n\"Canım, eğer fırsatın olsaydı... Bu dünyadan ayrılıp ötesinde ne olduğunu görmek ister miydin?\"\n\"Ben... Bu dünyadan gerçekten ayrılabilir miyim ki?\"\n\"Tabii ki.\" diye cevap verdi annesi, yüzünde kibar bir gülümsemeyle. \"Alice Teyzen olağanüstü biri. Büyüsünün bunu mümkün kılabileceğini bana çoktan kanıtladı.\"\n\"O zaman... Ayrılırsam bana ne olacak?\"\n\"İşte bunu söyleyemem.\" dedi annesi usulca. \"Bunlar 'benim sonum'dan sonra yaşanacak şeyler. Fakat unutma, 'uzak bir diyara gitmek' ilginç bir ifadedir. Bazı hikayeler bunu son için kullanırken bazılarıysa başlangıç olarak alır. Durin... Benim için bir şey yapmanı istiyorum. Fırsatını bulunca Simulanka'dan ayrılmayı dene. Dışarıda ne olduğunu gör.\"\n\"Seni bekleyen pek çok zorluk olacak ama korkma. Alice'in büyüsü sana yol gösterecek... Ve benim kutsamam da seninle olacak.\"\nDurin, annesinin sözlerinin ne kadar önemli olduğunu anlayınca ona emanet edilen görevi ciddiyetle başını sallayarak kabul etti.\n\"Öyleyse,\" diye mırıldandı annesi, \"sanırım en önemli bölümü yazmayı bitirmiş oldum...\"\nArdından Durin, annesinin bakışlarını uzaktaki gün batımına çevirmesini izledi. Gözlerinde titreşen duygular, gün batımından yansıyan ışık gibiydi. Önce sıcaklık ve isteksiz bir vedayla yandı, sonra sessiz bir şefkate dönüştü ve en sonunda yaklaşan gecenin içinde yavaşça kayboldu.\nÇok geçmeden Simulanka'nın kaderinin çarkları dönmeye başladı. Lütuflar Ormanı'nın kağıttan hayvanları ve Takımyıldız Metropolü'nün oyuncak figürleri, üç tanrıça tarafından onlar için yazılan hikayelere doğru yola çıktı.\nAncak Durin'in annesi artık yoktu. Mutlu günleri şimdilik sona ermişti."
+      },
+      {
+        "Title": "Karakter Hikayesi 5",
+        "Context": "Venti'nin ona hediye ettiği rüzgarın taşıdığı Durin, Dvalin'e yetişti ve birlikte Rüzgaralan'ın üzerinde süzüldüler. Ve nihayet büyücünün yazdığı hikaye, beklediği bölüme ulaştı.\nBüyücülerin toplantılar için bir araya geldiği uzun masanın yanında duran Alice, Durin'in uzaklaşan silüetini izledi. Düşünceleri yıllar öncesine, yedisinin de katıldığı bir çay partisine gitti. Bu partiye çok sevinen Alice, anlık bir hevesle bir hikaye anlatma oyunu başlatmak istemiş ama bir tema seçerken zorlanmıştı. Aralarındaki yazar Anya'ya sordu, Anya ise ona basit ama güçlü bir cevap verdi: \"Sönmeyen Ateş\".\n\"Eğer bir gün fırsatım olursa hikayelerim aracılığıyla arkamda bir 'Sönmeyen Ateş' bırakmak istiyorum. Bir yazar olarak hayal edebileceğim en büyük hedef bu.\"\n\"'Sönmeyen Ateş' mi? O ne demek ki?\"\n\"Sanırım bu soruya her birimizin farklı bir cevabı var. Bunu bir hikaye anlatımı oyunu için mükemmel yapan da bu değil mi zaten? Misal ben hâlâ kendi cevabımı arıyorum.\"\nAnya doğrudan cevap vermedi. Kendi eserlerinde de sıkça yaptığı gibi, Alice'in merakını körükleyen gizemli bir ipucu bıraktı.\n\"Pekala o zaman, bu temayı seçelim! Her buluştuğumuzda sıradaki kişi kendi bölümünü yazacak. Hımm... Anya, son bölümü sen yaz. Hikaye sonuca ulaştığında cevabını benim için hazırlamış olursun herhalde.\"\nVe böylece oyun başladı. Açılışı yazmaya Alice gönüllü oldu: Küçük bir cadı, yaşlı cadının hazırladığı imtihanları tamamlamak için \"Sönmeyen Ateş\"i bulmak üzere bir yolculuğa çıktı.\nFakat Alice'in beklemediği bir şey oldu: Cadılar tekrar bir araya geldiğinde Anya vefat etmiş, tabutunda ebedi uykuya dalmıştı. Cadıların ve insanların zamanın akışını ne kadar farklı deneyimlediğini ve bunun Anya'yı ne kadar derinden etkileyeceğini yanlış hesaplamıştı. Bir sonraki bölümü beklemeyi umuyordu ama Anya çoktan yaşlanmıştı. Hikaye beşinci cilde ulaştığında Anya aralarından ayrılmıştı.\nAlice'in başlattığı masal, sırasıyla Barbeloth ve Rhinedottir tarafından ele alınan ikinci ve üçüncü ciltlerde fena halde yoldan çıkmaya başladı ama dördüncü ciltte Ivanovna sayesinde kısmen kurtarıldı. Fakat Nicole tarafından kaleme alınan beşinci ciltte, tek bir satırla alelacele sonuca bağlandı. Alice, Anya'nın vereceği cevabı asla öğrenemeyeceğini fark edince hüsrana uğradı.\nHikaye, Octavia ile bir dönüm noktasına ulaştı. Cadılar Meclisi, kuruluşundan bu yana Anya'nın vefatına kadar hiç kayıp vermemişti ve bu kayıp, ortalarda pek sık görünmeyen Octavia'yı toplantıya getirmişti. Yanında çoktan yazılmış olan altıncı cildi de getirmişti. Bu ciltte küçük cadıya ikinci bir şans verilmiş ve yaşlı cadıyla yeniden bir araya gelmişti.\n\"Sönmeyen Ateş gerçekten var olabilir.\" dedi.\nOctavia'nın hatırlatması üzerine Alice, dikkatini Anya'nın geride bıraktığı son esere, yani birlikte yarattıkları dünya olan Simulanka'ya çevirdi. Bu dünyada Durin adında bir ejderha, huzursuz ve belirsiz bir şekilde gelecekte gelebilecek mucizeleri bekliyordu. Anya'nın ona yazdığı olasılıklar, tıpkı diğer eserlerinde bıraktığı çözülmemiş konular gibi adeta sakince yanan bir alev gibi parlıyor, hikayenin dünyasını aydınlatıyor ve Alice'in merakını cezbediyordu. Alice bu aleve bakarken bir zamanlar Anya'ya verdiği sözü hatırladı.\n\"Görünüşe göre onun yazması gereken sonu yazmak bana düştü.\"\nVe böylece geçen yıllar içinde Alice sık sık gözlerini ejderhaya çevirdi. Bir zamanlar uğursuz bir ejderhanın adının yükünü taşıyan çocuğun başkalarından lütuflar almasını, hikaye dünyasından dışarı adım atmasını, yeni arkadaşlar edinmesini, masalın ötesindeki dünyayla bağlar kurmasını ve yoldaşlarıyla birlikte kadere meydan okuyup onu alt etmesini izledi. Sonunda ise onun Zalim Ejderha Durin'in hikayesini tamamen yeniden yazdığını ve Dvalin ile birlikte uçtuğunu gördü...\nAlice yeniden düşüncelere daldığında Anya'nın cevabını nihayet öğrendiğini fark etti.\n\"Anya, hikaye oyunumuzun sonunda da yazdığım gibi, aramızdaki en yetenekli kişinin sen olduğunu düşündüm hep.\"\n\"Geride pek bir şey bırakmayacağını söylerdin her zaman ama şimdi görüyorum... Bize bıraktığın o sönmeyen ateşi görüyorum.\""
+      },
+      {
+        "Title": "Ejderhanın Kalbi",
+        "Context": "Durin'in günlük giysisi son derece olağanüstü bir tecrübenin sonucuydu. Doğrudan bir kanıt olmasa da annesi Anya'dan gelen ve sihirli bir tür tılsım barındıran bir hediye olduğuna inanmıştı hep. Ne de olsa giysinin her bir unsuru ona tanıdık geliyordu ve her birinin kökeni annesinin eserlerine dayanıyordu. Anlaşılan o ki annesi onu çok sevmişti ve peri masalından çıkmış bir prens gibi giydirmişti.\nAncak Durin'e tanıdık gelmeyen bir ayrıntı vardı: yakasındaki kalp şeklindeki mücevher. Yeniden doğuşunu ve mücevherin kilitli tasarımını düşündükçe anlamını yavaş yavaş anladı. Mücevher, onunla bütünleşen kötü ejderhanın kalbini barındırıyordu ve bedeni artık onu mühürlü tutan bir kafes görevi görüyordu.\nFakat Durin annesinin kalemini alıp kendi hikayesini yazmaya başladığında kalbin üzerindeki kilit yok oldu. Elini mücevherin üzerine koyduğunda kötü niyetli bir varlığın nabzını değil, kendi kalp atışını hissetti.\nO anda Durin, taşın gerçek anlamını sonunda anladı: Ejderhanın kalbi değildi o. Kendi kalbiydi.\nVe artık o kalp özgürdü."
+      },
+      {
+        "Title": "Önsezi",
+        "Context": "Durin, Albedo'yu ziyaret etmek için Mondstadt'a gittiğinde karlı dağların arasında uyuyan devasa ejderha iskeletini ilk kez gördü. Bu kemiklerin sahibi onunla aynı adı taşıyordu.\nAlbedo'nun anlattıklarıyla Durin, adının bir zamanlar bu topraklara getirdiği yıkımı ve tarihin tekerrür etmek üzere olduğunu öğrendi.\n\"Buradaki insanları kurtarmanın bir yolu yok mu?\"\n\"Var ama...\"\nAlbedo bir olasılıktan bahsetti. Simya kullanarak Durin'i kötü ejderhanın kalbiyle birleştirebilir, onun Hiçlik gücünü tamamen mühürleyebilirdi.\nAncak plan mükemmel değildi. Planın önemli bir kısmı, Durin'in bazı bedeller ödemesini gerektiriyordu. Albedo simya işlemi tamamlandığında Durin'in kötü ejderhanın yerini alacağını ve bu dünyada kalacağını açıkladı. Ancak bu dünya, Simulanka'nın huzurlu güzelliğinden çok uzaktı ve mühürlemesi gereken güç, bir zamanlar her şeyi yapı bloklarına dönüştüren lanetten çok daha korkunçtu.\nAlbedo bunun tek taraflı bir karar olamayacağını biliyordu ve Durin'in kararına saygı duyuyordu.\nDurin, onu buraya getiren yol gösterici gücü hissederek uzaktaki ejderha kemiklerine baktı. Ancak bu kararla karşı karşıya kaldığı anda o güç sessizliğe bürünmüştü. Kaderi yazan tanrıçalar bile kalemlerini bırakmış gibiydi. Bu karar yalnızca Durin'e aitti.\n\"Ya ben... Kalmak istiyorsam?\"\nO anda geçmişinden hatıralar zihnine akın etti. Annesi ona uzaklara gitmesini söylemiş, bu da onu Teyvat'a getirmişti. Şapkalı Adam ise onu daha da uzağa gitmesi için teşvik etmiş ve bu sayede dünyayı tüm güzelliği ve acımasızlığıyla görmüştü. Yol boyunca kimisi neşeli, kimisi hayal kırıklığıyla dolu sayısız beklenmedik olayla karşılaşmıştı ve hiçbiri bir hikayedeki gibi düzgün bir sırayla yaşanmamıştı. Sürprizler davetsiz gelmiş, beklentiler ise bazen yetersiz kalmıştı.\nAncak bir masalın sayfalarından çıkıp gelen Durin'i cezbeden şey tam da bu belirsizlikti. Bu durum onu dünyayı keşfetmeye devam etmeye itti. Ve yine bu belirsizlik, ona bir hikayeye bağlı hiçbir karakterin sahip olamayacağı, yalnızca bilinmezlikle yüzleşildiğinde ortaya çıkan bir şeyi bahşetmişti:\nBir \"dilek\".\n\"Kalmak istiyorum. Bu dünyayı seviyorum. Annemin dileğini yerine getirmek, Şapkalı Adam'ın dediği gibi hikayemden çıkmak ve herkesi kurtarmana yardım etmek istiyorum... Kötü ejderhayı bastırmak ve... Gerçek bir insan olmak istiyorum.\"\nSonunda Durin, arzusunu tüm ciddiyetiyle Albedo'ya emanet etti.\n\"Lütfen... Bu dileğimi gerçekleştirmeme yardım et.\"\nVe böylece büyük bir sınav başladı. Simya diziliminin ışığı Mondstadt semalarında parladı.\nToz duman dağılınca Durin, dizilimin kendi tarafının merkezinde parlayan bir Önsezi buldu.\nDileği kabul olmuştu."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212301,
+      "Name": "Uzaktaki Ufka Doğru",
+      "Description": "Durin'in giysisi. Durin'in orijinal giysisi, annesinin kalemini eline almasıyla yeni bir soluk kazandı. Nihayetinde, kalemin önceki sahibinin çizdiği geçmişe veda etti. Göğsündeki kilit solduğunda dileğinin işaret ettiği uzaktaki ufuk, hikayesinin gelişmeye devam ettiği yön oldu.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
+      "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
+    },
+    {
+      "Id": 212300,
+      "Name": "Yıldızlardan Bir Hediye",
+      "Description": "Durin'in giysisi. Simya çemberinden çıkan duman yavaşça dağılırken bir yıldız ışığının parıltısı Durin'in bakışlarını pencereye yöneltti. Camın yansımasında tıpkı bir peri masalından fırlamış bir prens gibi zarif, resmi bir kıyafet giydiğini gördü. Sonra tekrar kendine baktığında gerçekten de o kıyafeti giydiğini fark etti. Ama bu hediyeyi ona kim vermiş olabilirdi ki? Dışarıdaki yıldızlar sessizce parıldıyor, hiçbir cevap vermiyordu.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104114,
+    113080,
+    101261,
+    112127,
+    104309,
+    113069
+  ],
+  "NameCard": {
+    "Name": "Durin: Parlak Kalp",
+    "Description": "İsim Kartı arka planı.\nGöğsündeki durmak bilmeyen kalp atışlarının sesi ona şunu hatırlatır: \"Uzak bir geçmişin umutlarını taşıyorsun. Ruhun ışıl ışıl ve taptaze, içinde kış fırtınalarının bile dindiremeyeceği bir coşkunun ateşi var.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "PicturePrefix": "UI_NameCardPic_Durin"
+  }
+}

@@ -1,0 +1,1265 @@
+{
+  "Id": 10000124,
+  "PromoteId": 124,
+  "Sort": 108,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Jahoda",
+  "SideIcon": "UI_AvatarIcon_Side_Jahoda",
+  "Name": "Jahoda",
+  "Description": "Karyawan Curatorium of Secrets yang sangat andal dan (mengaku) serba bisa!",
+  "BeginTime": "2025-12-02T00:00:00+08:00",
+  "Quality": 4,
+  "Weapon": 12,
+  "BaseValue": {
+    "HpBase": 808.7586,
+    "AttackBase": 18.6984,
+    "DefenseBase": 48.64125
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 22
+    },
+    {
+      "Type": 4,
+      "Value": 32
+    },
+    {
+      "Type": 7,
+      "Value": 22
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12431,
+        "Proud": {
+          "Descriptions": [
+            "DMG Tahap 1|{param1:F1P}",
+            "DMG Tahap 2|{param2:F1P} ×2",
+            "DMG Tahap 3|{param3:F1P}",
+            "DMG Membidik|{param4:F1P}",
+            "DMG Membidik Penuh|{param5:P}",
+            "DMG Selama Plunging|{param6:F1P}",
+            "DMG Plunging Attack Rendah/Tinggi|{param7:P}/{param8:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1243101,
+              "Level": 1,
+              "Parameters": [
+                0.416739,
+                0.192313,
+                0.511975,
+                0.4386,
+                1.24,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1243102,
+              "Level": 2,
+              "Parameters": [
+                0.450659,
+                0.207967,
+                0.553648,
+                0.4743,
+                1.333,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1243103,
+              "Level": 3,
+              "Parameters": [
+                0.48458,
+                0.22362,
+                0.59532,
+                0.51,
+                1.426,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1243104,
+              "Level": 4,
+              "Parameters": [
+                0.533038,
+                0.245982,
+                0.654852,
+                0.561,
+                1.55,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1243105,
+              "Level": 5,
+              "Parameters": [
+                0.566959,
+                0.261635,
+                0.696524,
+                0.5967,
+                1.643,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1243106,
+              "Level": 6,
+              "Parameters": [
+                0.605725,
+                0.279525,
+                0.74415,
+                0.6375,
+                1.736,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1243107,
+              "Level": 7,
+              "Parameters": [
+                0.659029,
+                0.304123,
+                0.809635,
+                0.6936,
+                1.86,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1243108,
+              "Level": 8,
+              "Parameters": [
+                0.712333,
+                0.328721,
+                0.87512,
+                0.7497,
+                1.984,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1243109,
+              "Level": 9,
+              "Parameters": [
+                0.765636,
+                0.35332,
+                0.940606,
+                0.8058,
+                2.108,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1243110,
+              "Level": 10,
+              "Parameters": [
+                0.823786,
+                0.380154,
+                1.012044,
+                0.867,
+                2.232,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1243111,
+              "Level": 11,
+              "Parameters": [
+                0.881936,
+                0.406988,
+                1.083482,
+                0.9282,
+                2.356,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1243112,
+              "Level": 12,
+              "Parameters": [
+                0.940085,
+                0.433823,
+                1.154921,
+                0.9894,
+                2.48,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1243113,
+              "Level": 13,
+              "Parameters": [
+                0.998235,
+                0.460657,
+                1.226359,
+                1.0506,
+                2.635,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1243114,
+              "Level": 14,
+              "Parameters": [
+                1.056384,
+                0.487492,
+                1.297798,
+                1.1118,
+                2.79,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1243115,
+              "Level": 15,
+              "Parameters": [
+                1.114534,
+                0.514326,
+                1.369236,
+                1.173,
+                2.945,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11241,
+        "Name": "Strike While the Arrow's Hot",
+        "Description": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 3 tembakan panah berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG yang lebih besar.\nSaat membidik, angin kuat akan berkumpul di ujung anak panah. Panah dengan angin kuat yang terkumpul penuh akan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara, menerjang tanah dengan kecepatan tinggi, menyerang musuh di jalur terjangan, dan mengakibatkan DMG Area saat mendarat.",
+        "Icon": "Skill_A_02"
+      },
+      {
+        "GroupId": 12432,
+        "Proud": {
+          "Descriptions": [
+            "DMG Bom Asap|{param1:F1P}",
+            "DMG Treasure Flask Tidak Penuh|{param2:F1P}",
+            "DMG Treasure Flask Penuh|{param3:F1P}",
+            "Durasi Treasure Flask|{param4:F1} dtk",
+            "DMG Meowball|{param5:F1P}",
+            "Cooldown|{param6:F1} dtk"
+          ],
+          "Parameters": [
+            {
+              "Id": 1243201,
+              "Level": 1,
+              "Parameters": [
+                1.59,
+                1.908,
+                2.12,
+                20,
+                1.28,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243202,
+              "Level": 2,
+              "Parameters": [
+                1.70925,
+                2.0511,
+                2.279,
+                20,
+                1.376,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243203,
+              "Level": 3,
+              "Parameters": [
+                1.8285,
+                2.1942,
+                2.438,
+                20,
+                1.472,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243204,
+              "Level": 4,
+              "Parameters": [
+                1.9875,
+                2.385,
+                2.65,
+                20,
+                1.6,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243205,
+              "Level": 5,
+              "Parameters": [
+                2.10675,
+                2.5281,
+                2.809,
+                20,
+                1.696,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243206,
+              "Level": 6,
+              "Parameters": [
+                2.226,
+                2.6712,
+                2.968,
+                20,
+                1.792,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243207,
+              "Level": 7,
+              "Parameters": [
+                2.385,
+                2.862,
+                3.18,
+                20,
+                1.92,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243208,
+              "Level": 8,
+              "Parameters": [
+                2.544,
+                3.0528,
+                3.392,
+                20,
+                2.048,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243209,
+              "Level": 9,
+              "Parameters": [
+                2.703,
+                3.2436,
+                3.604,
+                20,
+                2.176,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243210,
+              "Level": 10,
+              "Parameters": [
+                2.862,
+                3.4344,
+                3.816,
+                20,
+                2.304,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243211,
+              "Level": 11,
+              "Parameters": [
+                3.021,
+                3.6252,
+                4.028,
+                20,
+                2.432,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243212,
+              "Level": 12,
+              "Parameters": [
+                3.18,
+                3.816,
+                4.24,
+                20,
+                2.56,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243213,
+              "Level": 13,
+              "Parameters": [
+                3.37875,
+                4.0545,
+                4.505,
+                20,
+                2.72,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243214,
+              "Level": 14,
+              "Parameters": [
+                3.5775,
+                4.293,
+                4.77,
+                20,
+                2.88,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            },
+            {
+              "Id": 1243215,
+              "Level": 15,
+              "Parameters": [
+                3.77625,
+                4.5315,
+                5.035,
+                20,
+                3.04,
+                15,
+                2,
+                10.5,
+                2,
+                3.5
+              ]
+            }
+          ]
+        },
+        "Id": 11242,
+        "Name": "Savvy Strategy: Splitting the Spoils",
+        "Description": "Jahoda menerjang ke arah musuh, dan memasuki status Shadow Pursuit saat menyentuh musuh. Dalam status ini, Jahoda akan terus bergerak cepat. Jika musuh di sekitar sedang terpengaruh oleh <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color>, maka Jahoda akan diam-diam mengonversi {LINK#N11240001}<color=#FFD780FF>Purr-loined Treasure Flask</color>{/LINK} yang dibawanya menjadi jenis elemen yang sesuai dan akan terus mengisinya. Saat durasi skill ini berakhir atau saat dilancarkan sekali lagi, Jahoda akan mengosongkan <color=#FFD780FF>Purr-loined Treasure Flask</color> ini dan mengakibatkan satu kali <color=#80FFD7FF>Anemo DMG</color> terhadap musuh-musuh di sekitar. Saat <color=#FFD780FF>Purr-loined Treasure Flask</color> sudah penuh, Jahoda juga akan langsung mengosongkannya, keluar dari status Shadow Pursuit, dan mengakibatkan satu kali <color=#80FFD7FF>Anemo DMG</color> yang lebih kuat terhadap musuh di sekitar.\nJika terjangannya tidak mengenai musuh, Jahoda akan melemparkan sebuah bom asap di posisi berdirinya dan mengakibatkan satu kali <color=#80FFD7FF>Anemo DMG</color> terhadap musuh di sekitar.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Saat <color=#FFD780FF>Purr-loined Treasure Flask</color> penuh, Jahoda tidak akan langsung mengosongkannya, melainkan akan terus mengonsumsi elemen yang terkumpul dalam botol selama beberapa waktu, dan secara berkala menembakkan <color=#FFD780FF>Fluffy Meowball</color> terhadap musuh di sekitar, mengakibatkan DMG dengan jenis elemen yang tersimpan di <color=#FFD780FF>Purr-loined Treasure Flask</color>. <color=#FFD780FF>Fluffy Meowball</color> yang mengenai musuh akan memulihkan 2 poin Energy Jahoda. Efek ini hanya dapat terpicu sekali setiap 3,5 detik.\n\n<i>Sebenarnya di dunia ini ada banyak cara untuk membagi-bagi kekayaan, tapi bagi para pemburu dan penimbun harta karun di Nod-Krai, hanya ada satu cara yang sudah terbukti efektif.</i>",
+        "Icon": "Skill_S_Jahoda_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12439,
+      "Proud": {
+        "Descriptions": [
+          "DMG Skill|{param1:F1P}",
+          "DMG Purrsonal Coordinated Assistance Robot|{param2:F1P}",
+          "Durasi Purrsonal Coordinated Assistance Robot|{param3:F1} detik",
+          "Pemulihan HP Purrsonal Coordinated Assistance Robot|{param4:F1P} ATK+{param5:I}",
+          "Pemulihan HP Tambahan untuk Karakter HP Terendah|{param6:F1P} ATK+{param7:I}",
+          "Cooldown|{param8:F1} dtk",
+          "Konsumsi Energy|{param9:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1243901,
+            "Level": 1,
+            "Parameters": [
+              2.072,
+              0.172664,
+              12,
+              0.79872,
+              500.73764,
+              0.3072,
+              192.59721,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243902,
+            "Level": 2,
+            "Parameters": [
+              2.2274,
+              0.185614,
+              12,
+              0.858624,
+              550.81836,
+              0.33024,
+              211.8596,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243903,
+            "Level": 3,
+            "Parameters": [
+              2.3828,
+              0.198564,
+              12,
+              0.918528,
+              605.0725,
+              0.35328,
+              232.7272,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243904,
+            "Level": 4,
+            "Parameters": [
+              2.59,
+              0.21583,
+              12,
+              0.9984,
+              663.5,
+              0.384,
+              255.2,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243905,
+            "Level": 5,
+            "Parameters": [
+              2.7454,
+              0.22878,
+              12,
+              1.058304,
+              726.1009,
+              0.40704,
+              279.27798,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243906,
+            "Level": 6,
+            "Parameters": [
+              2.9008,
+              0.24173,
+              12,
+              1.118208,
+              792.8752,
+              0.43008,
+              304.96118,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243907,
+            "Level": 7,
+            "Parameters": [
+              3.108,
+              0.258996,
+              12,
+              1.19808,
+              863.8229,
+              0.4608,
+              332.2496,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243908,
+            "Level": 8,
+            "Parameters": [
+              3.3152,
+              0.276262,
+              12,
+              1.277952,
+              938.944,
+              0.49152,
+              361.1432,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243909,
+            "Level": 9,
+            "Parameters": [
+              3.5224,
+              0.293529,
+              12,
+              1.357824,
+              1018.23846,
+              0.52224,
+              391.642,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243910,
+            "Level": 10,
+            "Parameters": [
+              3.7296,
+              0.310795,
+              12,
+              1.437696,
+              1101.7063,
+              0.55296,
+              423.74597,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243911,
+            "Level": 11,
+            "Parameters": [
+              3.9368,
+              0.328062,
+              12,
+              1.517568,
+              1189.3477,
+              0.58368,
+              457.45517,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243912,
+            "Level": 12,
+            "Parameters": [
+              4.144,
+              0.345328,
+              12,
+              1.59744,
+              1281.1622,
+              0.6144,
+              492.76956,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243913,
+            "Level": 13,
+            "Parameters": [
+              4.403,
+              0.366911,
+              12,
+              1.69728,
+              1377.1503,
+              0.6528,
+              529.68915,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243914,
+            "Level": 14,
+            "Parameters": [
+              4.662,
+              0.388494,
+              12,
+              1.79712,
+              1477.3118,
+              0.6912,
+              568.214,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          },
+          {
+            "Id": 1243915,
+            "Level": 15,
+            "Parameters": [
+              4.921,
+              0.410077,
+              12,
+              1.89696,
+              1581.6466,
+              0.7296,
+              608.34393,
+              18,
+              70,
+              2.4,
+              1.5
+            ]
+          }
+        ]
+      },
+      "Id": 11245,
+      "Name": "Hidden Aces: Seven Tools of the Hunter",
+      "Description": "Saatnya mengeluarkan senjata pamungkas! Jahoda mengeluarkan dua buah {LINK#N11240002}<color=#FFD780FF>Purrsonal Coordinated Assistance Robot</color>{/LINK} dan mengakibatkan satu kali <color=#80FFD7FF>Anemo DMG</color> terhadap musuh di sekitar.\n\n<i>\"Saling bantu dan koordinasi? Itu maksudnya kamu 'bantu' kasih Mora, lalu kami yang urus 'koordinasi'-nya. Masuk akal banget, kan?\"</i>",
+      "Icon": "Skill_E_Jahoda_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12421,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242101,
+              "Level": 1,
+              "Parameters": [
+                1.3,
+                1.2,
+                -0.1
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1242101,
+        "Name": "Plan to Get Paid",
+        "Description": "Saat terdapat setidaknya 1 Karakter dengan jenis elemen <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dalam party, {LINK#N11240002}<color=#FFD780FF>Purrsonal Coordinated Assistance Robots</color>{/LINK} dari Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color> akan diperkuat berdasarkan jumlah Karakter dengan jenis elemen yang sesuai dalam party.\n\nJahoda akan diam-diam mencatat Karakter party dengan jenis elemen yang disebutkan di atas. Di antara Karakter tersebut, jika jumlah Karakter terbanyak adalah:\n·<color=#FF9999FF>Pyro</color>: DMG <color=#FFD780FF>Purrsonal Coordinated Assistance Robots</color> meningkat menjadi 130% DMG awalnya.\n·<color=#80C0FFFF>Hydro</color>: Pemulihan HP <color=#FFD780FF>Purrsonal Coordinated Assistance Robots</color> menjadi 120% jumlah awalnya.\n·<color=#FFACFFFF>Electro</color>: Jumlah <color=#FFD780FF>Purrsonal Coordinated Assistance Robots</color> bertambah satu.\n·<color=#99FFFFFF>Cryo</color>: Jeda antar serangan <color=#FFD780FF>Purrsonal Coordinated Assistance Robots</color> berkurang 10%.\n\nJika jumlah Karakter dengan jenis elemen di atas berjumlah sama, maka prioritas buff yang didapat akan mengikuti sesuai urutan berikut: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, kemudian <color=#99FFFFFF>Cryo</color>. Pada awalnya, paling banyak hanya efek dari satu jenis elemen yang dapat aktif.",
+        "Icon": "UI_Talent_S_Jahoda_05"
+      },
+      {
+        "GroupId": 12422,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242201,
+              "Level": 1,
+              "Parameters": [
+                100,
+                6
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1242201,
+        "Name": "Sweet Berry Bounty",
+        "Description": "Saat {LINK#N11240002}<color=#FFD780FF>Purrsonal Coordinated Assistance Robot</color>{/LINK} dari Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color> memicu pemulihan HP terhadap Karakter aktif di dalam party dan jika HP Karakter yang dipulihkan lebih tinggi dari 70%, maka Elemental Mastery Karakter ini meningkat 100 poin selama 6 detik.",
+        "Icon": "UI_Talent_S_Jahoda_06"
+      },
+      {
+        "GroupId": 12423,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1242301,
+        "Name": "Moonsign Benediction: Rooftop Dash",
+        "Description": "Saat Jahoda berada di dalam party, <color=#FFD780FF>Moonsign</color> party meningkat 1 level.",
+        "Icon": "UI_Talent_S_Jahoda_07"
+      },
+      {
+        "GroupId": 12425,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1242501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1242501,
+        "Name": "Backstreet Guile",
+        "Description": "Ketika dikirim untuk melakukan ekspedisi di Nod-Krai, waktu yang dibutuhkan berkurang 25%.",
+        "Icon": "UI_Talent_S_Jahoda_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1241,
+        "Name": "One More Flask!",
+        "Description": "Saat <color=#FFD780FF>Fluffy Meowball</color> yang ditembakkan oleh {LINK#N11240001}<color=#FFD780FF>Purr-loined Treasure Flask</color>{/LINK} dari Elemental Skill <color=#FFD780FF>Savvy Strategy: Splitting the Spoils</color> mengenai musuh, ada 50% kemungkinan untuk memantul satu kali dan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai kepada musuh di sekitarnya.",
+        "Icon": "UI_Talent_S_Jahoda_03"
+      },
+      {
+        "Id": 1242,
+        "Name": "Rogue's Quick Thinking",
+        "Description": "<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Dalam Talenta Ascension {LINK#P1242101}<color=#FFD780FF>\"Plan to Get Paid\"</color>{/LINK}, selain jumlah Karakter dengan jenis elemen terbanyak, Jahoda juga bisa mencatat Karakter dengan jenis elemen terbanyak kedua secara diam-diam. Sehingga maksimum dua efek jenis elemen bisa aktif di saat yang bersamaan. Harus membuka Talenta Ascension \"Plan to Get Paid\" terlebih dahulu.",
+        "Icon": "UI_Talent_S_Jahoda_02"
+      },
+      {
+        "Id": 1243,
+        "Name": "Desperate Gamble",
+        "Description": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11245}Hidden Aces: Seven Tools of the Hunter{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Jahoda_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1244,
+        "Name": "Wild Berry Amid the Dust",
+        "Description": "Saat {LINK#N11240002}<color=#FFD780FF>Purrsonal Coordinated Assistance Robot</color>{/LINK} dari Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color> mengalami konversi elemen, akan memulihkan 4 poin Energy Jahoda.",
+        "Icon": "UI_Talent_S_Jahoda_01"
+      },
+      {
+        "Id": 1245,
+        "Name": "The Greatest Treasure",
+        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11242}Savvy Strategy: Splitting the Spoils{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Jahoda_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1246,
+        "Name": "The Littlest Luck",
+        "Description": "<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Setelah <color=#FFD780FF>{LINK#N11240001}Purr-loined Treasure Flask{/LINK}</color> dari Elemental Skill <color=#FFD780FF>Savvy Strategy: Splitting the Spoils</color> terisi penuh, Karakter Moonsign sekitar di dalam party mendapatkan peningkatan CRIT Rate sebesar 5% dan peningkatan CRIT DMG sebesar 40% selama 20 detik.",
+        "Icon": "UI_Talent_S_Jahoda_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Windthreading Shadow",
+    "Detail": "Karyawan Curatorium of Secrets yang sangat andal dan (mengaku) serba bisa!",
+    "Association": 12,
+    "Native": "Curatorium of Secrets",
+    "BirthMonth": 1,
+    "BirthDay": 5,
+    "VisionBefore": "Anemo",
+    "VisionOverrideUnlocked": "Vision",
+    "ConstellationBefore": "Fragum",
+    "CvChinese": "韩娇娇",
+    "CvJapanese": "稲垣好",
+    "CvEnglish": "Sonya Krueger",
+    "CvKorean": "Oh Ro-ah",
+    "CookBonus": {
+      "OriginItemId": 108871,
+      "ItemId": 108921,
+      "InputList": [
+        110001,
+        101265,
+        101264,
+        110006
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Halo",
+        "Context": "Halo, senang bertemu denganmu. Kalau ada butuh bantuan, langsung bilang saja ya. Selama imbalannya sesuai, aku bisa membantu untuk semua hal ... Eh, \"hampir\" semua hal ... Aku bisa membantumu untuk \"hampir\" semua hal."
+      },
+      {
+        "Title": "Berbincang: Nefer",
+        "Context": "Ugh ... Bos Nef, kapan gajiku bisa naik? Ada banyak barang yang mau kubeli nih ...."
+      },
+      {
+        "Title": "Berbincang: Jalan-Jalan",
+        "Context": "Ayo, kita jalan-jalan ke kota. Nanti kutunjukkan tempat-tempat yang seru ... Tapi jangan bilang siapa-siapa ya? Ini rahasia kita."
+      },
+      {
+        "Title": "Berbincang: Ashru",
+        "Context": "Terakhir kali aku coba mau elus Ashru, dia malah kabur. Huh! Hari ini aku enggak mau kasih dia ikan kering!"
+      },
+      {
+        "Title": "Ketika Turun Hujan",
+        "Context": "Hujan? Ayo, ayo, ayo, kita harus cari tempat berteduh sebelum basah kuyup nih."
+      },
+      {
+        "Title": "Ketika Salju Turun",
+        "Context": "Waaah! Ada salju masuk ke punggungku, dingin ... dingin ... dingin ...!"
+      },
+      {
+        "Title": "Di Padang Pasir",
+        "Context": "*Pfft!* *Pfft!* *Pfft!* Ugh, ada pasir masuk ke mulutku!"
+      },
+      {
+        "Title": "Selamat Pagi",
+        "Context": "Pagi. Sudah sarapan? Aku tahu tempat yang enak."
+      },
+      {
+        "Title": "Selamat Siang",
+        "Context": "*hoammm* Bagaimana kalau kita kembali ke toko dan tidur siang dulu? Aku ngantuk banget ...."
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "Sudah semalam ini? Bereskan semuanya deh, waktu kerja sudah selesai, sekarang waktunya Ashru~"
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "*hoamm* Lebih baik tidur— ... Eh! Kamu masih di sini? Kamu juga mending istirahat dulu deh."
+      },
+      {
+        "Title": "Tentang Jahoda: Pengalaman",
+        "Context": "Sebelum bergabung dengan Curatorium of Secrets, riwayat pekerjaanku ... berantakan. Akhirnya aku ketemu sama Bos Nef setelah nyaris tidak bisa bertahan hidup, waktu itu benar-benar titik balik hidupku deh."
+      },
+      {
+        "Title": "Tentang Jahoda: Curatorium of Secrets",
+        "Context": "Bos Nef baik sama aku, dan Ashru juga ramah. Kadang aku lupa memanggil Nefer pakai \"Bos\". Kebiasaan lama memang susah hilang ...."
+      },
+      {
+        "Title": "Tentang Kita: Kampung Halaman",
+        "Context": "Kampung halaman? Enggak ingat ... dan aku juga enggak terlalu peduli dengan hal semacam itu. Bagiku, yang penting aku bisa makan kenyang dan tidur nyenyak, sudah cukup untuk jadi \"rumah\"ku."
+      },
+      {
+        "Title": "Tentang Kita: Teman",
+        "Context": "Kita kan udah melewati banyak suka dan duka sama-sama, tentu saja kita ini teman! Lain kali kalau aku dalam masalah, aku tahu kamu akan membantuku. Jangan mengkhianatiku ya ... atau setidaknya, pastikan kamu dapat harga yang bagus dulu. Haha! Aku bercanda, aku tahu kamu bukan orang yang begitu kok. Kamu terlalu baik untuk melakukan hal serakah seperti itu."
+      },
+      {
+        "Title": "Tentang Vision",
+        "Context": "Hehe, ini kebanggaanku! Sejak dapat ini, pekerjaanku jadi jauh lebih mudah! Tak kusangka aku bisa beruntung begini ...."
+      },
+      {
+        "Title": "Berbagi Cerita: Pemburu Harta Karun",
+        "Context": "Pernah ketemu sama orang yang nyebut diri mereka \"pemburu harta karun\"? Jangan tertipu sama namanya yang sok keren, mereka cuma tentara bayaran Nod-Krai. Asalkan ada uang, mereka bakal lakuin apa pun. Kalau kamu mau menyewa jasa mereka, beri tahu saja ke aku. Aku bisa mengenalkanmu ke yang lebih bisa diandalkan."
+      },
+      {
+        "Title": "Berbagi Cerita: Meriam",
+        "Context": "Waktu Meriam Energi Kuuvahki Dhuar-Dhuar-nya mulai nembak, memang keren banget deh. *huff* Andai saja aku bisa mendapatkan model mekaniknya dalam skala kecil ... Kira-kira Aino mau buatin enggak ya? Kan memang dia pencipta yang aslinya."
+      },
+      {
+        "Title": "Kisah Menarik",
+        "Context": "Jadi, kemarin aku mikir ... berapa butir pasir yang dibutuhkan sampai bisa disebut tumpukan pasir? Seratus butir sudah bisa disebut tumpukan? Atau seribu? Sepertinya kurang pas ... jadi aku mau tanya ke Aino dalam beberapa hari ini, dia pasti tahu!"
+      },
+      {
+        "Title": "Tentang Lauma",
+        "Context": "Nona Lauma? Hm ... Aku tidak begitu kenal, tapi yang kutahu dia itu orang penting, dan dia juga kuat banget ... bahkan dia juga bisa bicara sama hewan. Kalau dipikir-pikir, dia pasti punya mata dan telinga seluruh Pulau Hiisi. Pantas saja para pemburu harta tidak berani \"mencari harta\" di sana, pasti akan langsung masuk ke perangkap ...."
+      },
+      {
+        "Title": "Tentang Ineffa",
+        "Context": "Oh, si robot bodoh itu? Dia jago membuat krumkake, tapi ingatannya seperti saringan bocor dan sama sekali tidak punya selera humor. Setiap kali aku melawak, dia selalu minta dijelaskan kenapa itu lucu. Tapi krumkake buatannya benar-benar mantap, kamu harus coba loh."
+      },
+      {
+        "Title": "Tentang Nefer",
+        "Context": "Nef itu bos terbaik di dunia! Hehe, dia tidak cuma bayar gajiku tepat waktu, tapi juga menanggung biaya makan dan tempat tinggalku! Kayaknya aku satu-satunya karyawan tetapnya ... Eh, tunggu, aku hampir lupa soal Ashru! Tapi dia hitungannya bukan karyawan, kan? Dia bahkan belum pernah menyelesaikan satu tugas pun! Huh! Tidak ada yang boleh numpang gratis ... Dia harus ikut sama aku di kerjaan berikutnya!"
+      },
+      {
+        "Title": "Tentang Aino",
+        "Context": "Aino ini lihai sekali deh. Ada masalah apa pun sama lenganku, pasti bisa dia perbaiki. Hanya saja ... setiap kali dia perbaiki, dia selalu tambahin coret-coretan di atasnya. Dia bilang itu biar jadi lebih imut. Yah, memang agak imut sih, tapi kenapa dia tidak pernah coret-coret di Ineffa?"
+      },
+      {
+        "Title": "Tentang Flins",
+        "Context": "Aku pernah dengar Bos Nef membicarakan soal Lightkeeper. Katanya ini organisasi yang sangat tua, lalu isinya orang-orang hebat dan cerdas yang tahu banyak soal rahasia kuno. Hmmmm ... apa menurutmu Flins punya petunjuk tentang harta karun kuno? Atau mungkin reruntuhan kuno yang belum terjamah? Eh, aku cuma asal ngomong doang kok, bukan mau tanya beneran! Bisa-bisa aku dimarahi Bos Nef lagi."
+      },
+      {
+        "Title": "Tentang Varka",
+        "Context": "Oh, Varka? Ya, dia sih bilangnya dia itu Grand Master dari Knights of Favonius, tapi serius deh, dia sama sekali enggak kelihatan begitu. Bukannya Grand Master harus terlihat serius dan bisa diandalkan? Eh, bukan berarti dia tidak bertanggung jawab ya! Cuma ... kalau Grand Master Knights of Favonius ada di sini, lalu siapa yang mengurus para knight di Mondstadt dong? Eh? Ada orang lain yang lebih kelihatan serius dan bisa diandalkan? Wah, wah, Knights of Favonius emang beda ya ...."
+      },
+      {
+        "Title": "Tentang Kuutar",
+        "Context": "VIP itu ... *huff* Dulu, kalau aku bertemu dengan seseorang yang latar belakangnya segelap itu, aku pasti sudah kabur jauh-jauh! Makin jauh makin baik! Tapi ... dia pernah selamatin aku, jadi sekarang aku berutang budi sama dia, dan utang itu harus dibayar.\nTapi itu sih gampang di mulut saja, nyawaku cuma satu. Kalau begini terus, berapa pun nyawaku juga enggak bakal cukup buat bayar utangku ... Oh, Bos Nef! Tolong aku, hanya Bos Nef harapanku ...."
+      },
+      {
+        "Title": "Tentang Marionette",
+        "Context": "Aku tidak akan ke tempat seperti itu lagi! Dan ... Baiklah, kalaupun aku pergi, Boss Nef harus ikut. Antara Perburuan Liar dan Fatui ... apa gunanya mengumpulkan uang kalau aku tidak selamat?!"
+      },
+      {
+        "Title": "Mengenal Jahoda: I",
+        "Context": "Di Curatorium of Secrets, Nef menangani urusan besar, aku mengurus hal-hal kecil, dan Ashru bertugas menjaga pintu. Mana yang dianggap urusan besar mana yang kecil? Itu terserah Bos Nef, dia yang membuat keputusan ...."
+      },
+      {
+        "Title": "Mengenal Jahoda: II",
+        "Context": "Gaji tinggi, makan enak, itulah moto hidupku sekarang. Intinya, selama aku bersama Bos Nef, aku tahu aku enggak bakal kelaparan, hehehe ...."
+      },
+      {
+        "Title": "Mengenal Jahoda: III",
+        "Context": "Tanganku? Ah ... bukan masalah besar kok. Itu hanya \"harga\" yang kubayar buat sebuah transaksi. Tenang saja, enggak apa-apa kok! Transaksinya sepadan, bahkan bisa dibilang aku yang untung."
+      },
+      {
+        "Title": "Mengenal Jahoda: IV",
+        "Context": "Sama kayak pakai Mora buat beli barang. Kalau mau sesuatu, tentu harus bayar \"harganya\" dong. Harga yang terlihat bisa kamu rencanakan dan perhitungkan, tapi harga yang tidak terlihat ini yang sulit diukur. Mereka akan bersembunyi dalam bayanganmu, menunggu waktu yang tepat, menanti sampai kamu ada di titik paling rentan ... dan BAM! Mereka bakal muncul dan minta tebusan harga yang enggak bakal bisa kamu bayar."
+      },
+      {
+        "Title": "Mengenal Jahoda: V",
+        "Context": "Hei, kalau kamu harus bayar \"tebusan\" karena alasan apa pun, kamu bisa cari aku ya. Yah, meskipun aku enggak bisa kasih uangnya sendiri, paling enggak aku bisa bermuka tebal sedikit buat minta tolong Bos Nef. Paling-paling ... aku harus lunasin utangnya pakai gajiku lagi. Tapi kamu jangan sampai minta langsung ke Bos Nef. Kalau kamu harus utang ke seseorang, lebih baik ke aku saja. Utang yang paling sudah dilunasi itu utang di buku catatan Bos Nef. Kenapa aku bisa tahu? Eh, yah, aku, hm ... Sudahlah, jangan banyak tanya, percaya saja sama aku, oke?!"
+      },
+      {
+        "Title": "Hobi Jahoda",
+        "Context": "Kadang, aku membuat boneka kain kalau punya waktu luang. Aku belum pernah belajar secara formal dari guru atau apa pun sih, tapi teman-teman lamaku ... bilang hasilnya lumayan bagus. Lain kali akan kubuatkan satu buatmu ya."
+      },
+      {
+        "Title": "Kekhawatiran Jahoda",
+        "Context": "Entah kenapa, aku tidak bisa tidur kalau kasurnya terlalu empuk. Coba kasih aku lantai yang keras buat berbaring, aku pasti langsung tidur pulas kayak bayi! Aku juga heran kenapa bisa begitu. Yah, mungkin memang bawaan saja ...."
+      },
+      {
+        "Title": "Makanan Favorit",
+        "Context": "Makanan favorit? Hm, susah juga ... Aku suka daging dan ikan, tapi permen gulali dan kue kering juga enak ... Hehe, asal enak, aku suka semuanya!"
+      },
+      {
+        "Title": "Makanan yang Tidak Disukai",
+        "Context": "Aku enggak suka sup kental, yang semua bahannya dicampur jadi satu dan direbus terlalu lama sampai semuanya meleleh jadi bubur ... Eh, kalau memang harus makan sih bukan berarti enggak bisa, tapi ... mendingan enggak ada ...."
+      },
+      {
+        "Title": "Menerima Hadiah: I",
+        "Context": "ENAK! Wah, sejak kapan kamu bisa masak seperti ini? Tambah lagi dong, hehehe. Ini jauh lebih enak daripada masakan Bos Nef ... *uhuk*! Eh, kamu sudah makan? Kalau belum ... mau makan bareng?"
+      },
+      {
+        "Title": "Menerima Hadiah: II",
+        "Context": "Lumayan! Hehe. Ayo makan! Harus makan kenyang biar bisa kerja."
+      },
+      {
+        "Title": "Menerima Hadiah: III",
+        "Context": "Ugh ... Aku bi-bisa habisin ini ... Tidak ... boleh ... menyia-nyiakan ... makanan. Haha ... ha ...."
+      },
+      {
+        "Title": "Ulang Tahun",
+        "Context": "Selamat ulang tahun! Ini, boneka untukmu! Baru selesai aku jahit. Ini pertama kalinya aku mencoba teknik ini ... butuh waktu lama, lho! Aku sudah isi pakai ramuan penenang yang bisa bantu kamu tidur, cukup taruh saja di samping bantalmu dan aku jamin kamu bakal langsung tidur nyenyak tanpa mimpi buruk. Perban di tanganku ...? Ah ... cuma luka kecil ... karena bermain dengan Ashru, hahaha ... Bukan apa-apa kok ...."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Permulaan",
+        "Context": "Oh? Lumayan juga!"
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Persiapan",
+        "Context": "Lebih gesit dari sebelumnya."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Klimaks",
+        "Context": "Baiklah .... Saatnya bergerak!"
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Konklusi",
+        "Context": "Hehe, aku sudah siap buat pekerjaan besar sekarang .... Bagaimana? Mau ikut?"
+      },
+      {
+        "Title": "Elemental Skill: I",
+        "Context": "Kamulah targetku!"
+      },
+      {
+        "Title": "Elemental Skill: II",
+        "Context": "Serbu dan rampas!"
+      },
+      {
+        "Title": "Elemental Skill: III",
+        "Context": "Kamu tidak akan bisa kabur!"
+      },
+      {
+        "Title": "Elemental Burst: I",
+        "Context": "Siapa cepat, dia dapat!"
+      },
+      {
+        "Title": "Elemental Burst: II",
+        "Context": "Serahkan saja padaku!"
+      },
+      {
+        "Title": "Elemental Burst: III",
+        "Context": "Aku tidak pernah pulang dengan tangan kosong."
+      },
+      {
+        "Title": "Membuka Peti Harta: I",
+        "Context": "Oh! Semuanya punya kita!"
+      },
+      {
+        "Title": "Membuka Peti Harta: II",
+        "Context": "Hasilnya lumayan juga, sepadan dengan usaha kita."
+      },
+      {
+        "Title": "Membuka Peti Harta: III",
+        "Context": "Ayo tambahkan ke tumpukannya~"
+      },
+      {
+        "Title": "HP Rendah: I",
+        "Context": "Oke ... oke ...."
+      },
+      {
+        "Title": "HP Rendah: II",
+        "Context": "Tunggu ya ...!"
+      },
+      {
+        "Title": "HP Rendah: III",
+        "Context": "Aku bakal ...!"
+      },
+      {
+        "Title": "HP Rekan Rendah: I",
+        "Context": "Kamu mau mati ya?!"
+      },
+      {
+        "Title": "HP Rekan Rendah: II",
+        "Context": "Mundur!"
+      },
+      {
+        "Title": "Gugur: I",
+        "Context": "Aku tidak bisa ... melarikan diri ...."
+      },
+      {
+        "Title": "Gugur: II",
+        "Context": "Utang-utangku ... sudah lunas ...."
+      },
+      {
+        "Title": "Gugur: III",
+        "Context": "Begini ... saja ... cukup ...."
+      },
+      {
+        "Title": "Bergabung ke Party: I",
+        "Context": "Ada kerjaan untukku?"
+      },
+      {
+        "Title": "Bergabung ke Party: II",
+        "Context": "Serahkan padaku!"
+      },
+      {
+        "Title": "Bergabung ke Party: III",
+        "Context": "Perhatikan dan pelajari."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Info Karakter",
+        "Context": "Saat orang-orang di Kota Nasha membicarakan satu-satunya pegawai resmi Curatorium of Secrets, setelah mereka memuji kemampuan Jahoda, lebih tepatnya, sebagian kemampuan Jahoda, semua orang pasti akan mulai bertanya-tanya.\nKenapa bos Curatorium of Secrets itu cuma mempekerjakan Jahoda sebagai satu-satunya pegawai resmi ya?\nMeskipun gadis yang selalu terpeleset dan tak pernah diam itu selalu mengaku bahwa dia adalah \"Bandit kelas kakap yang pernah merampok semua kota dan desa di Nod-Krai\", \"Pakar lokal yang suda hapal mati dengan seluk-beluk Nod-Krai\", dan \"Orang serba tahu yang punya koneksi super luas\", semua gelar ini paling-paling hanya bisa menipu orang luar. Mustahil yang beginian bisa menipu Bos Nefer.\n\"Anggap saja benar, percaya saja padaku.\"\nBegitulah jawaban Bos Nefer saat menjawab mitra yang ragu dengan senyuman.\nSedangkan di hari-hari sialnya, setelah bertemu kesialan saat menjalankan tugasnya, Jahoda akan bertanya kepada bos tercintanya dengan rasa cemas:\n\"Bos Nef ... kamu enggak bakal pecat aku suatu, kan ...?\"\n\"Mana mungkin?\", bos tercintanya menjawab sambil tersenyum: \"Kalau tidak ada kamu, siapa yang akan bersihkan, beri makan, dan menuang air untuk Ashru? Dan siapa yang akan menjamin kualitas tidur bosmu?\"\n\"Eh? Jadi ... karena itu?\"\n\"Meong! Meong ....\"\n\"Wah! Dasar Ashru! Cepat turun dari kepalaku! Ngepang rambut ini lama, tahu!\"\nSeperti hari biasanya, Jahoda menangkap Ashru yang sengaja mengacau, lalu berteriak-teriak ingin memandikannya. Ashru yang bisa membaca situasi pun berguling keras dan menitipkan bulu di seluruh tubuhnya untuk Jahoda.\nNefer yang berdiri di samping menopang dagunya sambil tersenyum.\nGadis ini ... adalah salah satu dari banyak orang di Nod-Krai yang bisa membuatnya penasaran.\n\"Jahoda, sebenarnya kamu ingin mengubah dirimu sendiri seperti apa?\"\nBisikan-bisikan tenggelam oleh pertengkaran main-main antara si kucing dan si gadis, tetapi Nefer tahu bahwa suatu hari, Jahoda akan mendengar kata-kata itu.\n\"Dan ... pencapaian apa yang bisa kamu raih?\""
+      },
+      {
+        "Title": "Kisah Karakter 1",
+        "Context": "Saat baru saja diadopsi (kalau versinya sih, \"direkrut\") oleh Geng Kait Laut, Jahoda kadang-kadang tidak bisa tidur.\nAlasannya tidak bisa tidur adalah karena keributan di luar. Kadang-kadang karena pekerjaan yang tidak terlalu lancar, kadang-kadang karena hatinya dipenuhi oleh rasa penasaran yang tak tertahankan.\nMasalah ribut-ribut sih gampang diselesaikan. Bos memberi tahu Jahoda, kalau dia ingin semua orang tenang, maka ambil saja barang apa pun yang ada di sampingnya, cangkir, piring, atau kursi, lalu lempar keluar dengan kuat, dan berteriak untuk menyuruh semua orang diam.\nSaat Jahoda mencobanya, cara ini memang ampuh. Saat dia bangun dari kasurnya, mengambil boneka kain dan melemparkannya keluar jendela, lalu berteriak dengan keras, para pencuri yang sudah mabuk berat di luar jendela itu langsung terdiam. Jahoda pun merapikan rambutnya yang berantakan dan memeluk selimutnya sambil tertidur kembali. Sedangkan orang di bawah tertawa diam-diam sambil melihat orang sial yang kepalanya terlempar oleh boneka kain itu ... Kali ini gilirannya untuk membersihkan boneka kain dan mengembalikannya ke sisi ranjang Jahoda. Kalau tidak, adik kecil ini pasti akan jengkel pada hari berikutnya.\nPekerjaan yan tak lancar akan membuat Jahoda khawatir untuk waktu yang lama. Saat kekhawatirannya sudah tak tertahankan, Jahoda akan keluar dari rumah dan membangunkan Zinaida secara diam-diam. Di hadapan tatapan mata Zinaida yang masih setengah sadar, dia akan mengoceh telah kehilangan kunci. Karena terlalu banyak kunci di dalam bangunan itu, dia tidak bisa membedakannya. Duh, lain kali berikan warna yang berbeda untuk setiap kunci deh, biar lebih mudah dikenali ....\nAda juga kejadian saat dia terjatuh dari atap, dan mendarat tepat di depan bosnya yang sedang bernegosiasi dengan lawan bicara. Kenapa menyerahkan apel yang dibawanya untuk bos? Karena ... bosnya sudah berbicara selama itu, dia pasti haus ... sedangkan dia cuma punya satu apel, jadi tentu harus diberikan kepada bos dong! Masa diberikan kepada lawan bicaranya? Maaf ya, lain kali aku bawa dua apel ....\nSambil terus mengoceh, Jahoda akan bersandar di bahu Zinaida dan perlahan tertidur. Zinaida terbiasa menggendong Jahoda kembali ke rumah, menyelimutinya, lalu menuangkan segelas air dan meletakkannya di samping tempat tidurnya. Karena dia tahu, Jahoda pasti akan kehausan setelah mengomel panjang lebar.\nTentu saja, yang paling sulit dibereskan adalah rasa penasaran tak terbendung yang kadang-kadang muncul.\nKalau ingin menenangkan rasa penasaran, kadang-kadang kamu harus mengambil risiko."
+      },
+      {
+        "Title": "Kisah Karakter 2",
+        "Context": "Setelah Jahoda sedikit lebih dewasa, orang-orang di Geng Kait Laut kadang-kadang susah tidur.\nKadang karena kebanyakan minum-minum, kadang karena terluka, kadang karena sedang tidak ingin tidur saja.\nTapi situasi saat semua orang terpaksa kurang tidur, sejauh ini hanya pernah terjadi sekali saja.\nSetelah \"bisnis\" di sebuah tempat selesai, anggota Geng Kait Laut mengadakan pesta untuk merayakan kemenangan mereka. Pedagang jahat itu akhirnya mendapatkan balasannya dan menyerahkan semua uang yang sudah ditipu olehnya. Selain harus mengembalikan uang kepada korban tipuan, semua orang juga pasti kebagian uang yang banyak.\nMeski saat mengambil liontin darinya, pedagang licik itu tiba-tiba menerjang seperti orang gila dan berusaha merebutnya kembali, tapi karena terlalu lemah, dia akhirnya ditaklukkan oleh semua orang.\nSetelah itu adalah drama yang sudah sering ditonton oleh semua orang, pedagang licik itu menangis tersedu-sedu, bersumpah kepada langit dan mengatakan bahwa dia bersedia melakukan apa saja untuk meminta \"Geng Kait Laut\" mengembalikan liontin itu kepadanya, liontin yang berisi satu-satunya foto istri dan putrinya yang tersisa di dunia.\nTentu saja para pencuri yang sudah berpengalaman tidak akan percaya kebohongannya. Sembilan dari sepuluh pembohong yang mereka sandera akan menggunakan alasan ini untuk meminta sesuatu, dan benda itu mungkin berisi petunjuk tentang harta karun yang cukup untuk membuat mereka berjaya kembali. Setelah meninggalkan sisa uang terakhir untuk pedagang licik itu, semua orang pergi dan langsung kembali ke markas ....\nTapi setelah makan-makan dan mulai membagikan upah ....\n\"Eh? Jahoda ke mana? Tadi masih di sini kok ....\"\n\"Bos. Kalungnya hilang! Jangan-jangan ....\"\nJahoda menghilang, dan liontin yang entah mahal entah murah itu lenyap bersama dengannya ....\nKeheningan menyelimuti aula. Para pencuri yang berpengalaman itu saling bertukar pandang. Tidak ada yang berpikir kalau Jahoda akan mengkhianati semua orang demi sebuah liontin yang tak jelas. Terlebih lagi, Jahoda bahkan tidak mengerti arti kata \"berkhianat\"!\nAkhirnya, Zinaida pun mulai berbicara ....\n\"Jangan-jangan ... dia benar-benar ... kembalikan liontin itu ....\"\nBelum selesai dia berbicara, sebuah pintu kecil di belakang lobi tiba-tiba terbuka, Jahoda perlahan-lahan menjulurkan kepalanya. Tapi bukannya berhasil menyelinap diam-diam ke aula yang ramai seperti yang dibayangkannya, dia justru terkejut oleh keheningan yang menyelimuti seluruh ruangan.\n\"Aku ... aku aku aku tadi ke toilet ....\"\nDesahan putus asa pertama datang dari bos yang menutupi wajahnya, desahan kedua datang dari Zinaida yang mengetahui kalau tebakannya benar. Desahan demi desahan memenuhi aula. Jahoda masih mengintip ke dalam, ragu apakah dia harus masuk ke dalam atau tidak.\n\"Jahoda, yuk, sini.\"\nBos melambaikan tangannya ke arah Jahoda yang baru saja menyelesaikan sebuah petualangan rahasia.\n\"Karena upahmu harus dipotong dengan liontin yang tadi, jadi kali ini kamu tidak kebagian bonus.\"\n\"Liontin tadi semahal itu ...? Eh! Lion-Liontin apaan? Aku tidak tahu, aku ....\"\n\"Jahoda.\"\n\"Ya, Bos!\"\n\"Diam, makan.\"\n\"Siap, bos!\""
+      },
+      {
+        "Title": "Kisah Karakter 3",
+        "Context": "Saat masa kanak-kanak Jahoda berakhir, musuhnya selalu adalah insomnia.\nDalam konsep Ratfan yang sebelumnya, uang itu sangat berharga. Bisa membuat orang-orang \"Geng Kait Laut\" membunuh bos mereka sendiri dan membuat geng yang sulit ditaklukkan ini menjadi kacau balau, juga bisa membeli minyak yang banyak untuk membakar habis seluruh bukti dan menakuti para pengecut. Yang paling penting adalah, bisa membeli banyak sekali informasi berharga dari bos wanita misterius itu.\nMonster raksasa yang awalnya diam-diam mengendalikan Kota Nasha telah mati. Kalau ingin menjadi terkenal, semua orang perlu uang!\nTapi tidak diperlukan oleh pemburu yang mengincarnya.\n\"Sudah cukup! Keluar! Apa yang kamu inginkan? Sebenarnya apa yang kamu inginkan?\"\nPria bertubuh kekar itu meraung ke arah hutan yang sunyi. Perkemahannya baru saja diserang lagi. Pembunuh bertubuh ramping itu telah menyusup ke perkemahan, menjatuhkan satu per satu penjaga dengan mudah, bahkan menembak menembus tiga drum peringatan. Untuk pertama kalinya, dia masuk tepat di tengah perkemahan. Kalau bukan karena dia tak sengaja terjatuh dari atap karena kelemahannya, kepala Ratfan pasti sudah putus dari tubuhnya sejak lama. Namun, bahkan setelah terkena dua anak panah dan satu kali serangan, dia tetap berlari kembali ke hutan dan menghilang tanpa jejak. Dia akan kembali keesokan malamnya, seperti malam-malam sebelumnya yang tak terhitung jumlahnya, ke mana pun Ratfan melarikan diri, dia selalu berhasil melacaknya dengan tepat.\nKelelahan dan ketakutan membuat semua orang trauma. Ada yang mengatakan kalau gadis itu sebenarnya sudah mati, dan yang datang adalah roh yang dikuasai oleh obsesi, ada juga yang mengatakan kalau dia telah menjadi Perburuan Liar, tak seorang pun yang bisa membunuhnya, sehingga mereka harus mencari bantuan Ratnik.\nTapi Ratfan tahu kebenarannya, dia hanya seorang gadis kecil. Sebelumnya, saat dia pergi ke Geng Kait Laut dan bertemu Jahoda, bos Geng Kait Laut bahkan sempat memujinya.\nPada saat itu, Jahoda masih sangat kurus dan bodoh. Sambil berdiri di bawah, dia diam-diam menarik tangan temannya ke sana kemari, dia baru bisa tenang setelah kepalanya ditepuk. Dia sama sekali tidak terlihat seperti pencuri. Bagaimanapun, dia masih butuh banyak waktu untuk berkembang, atau lebih tepatnya, dia bahkan belum tahu mau menjadi orang seperti apa.\nTapi sekarang, Ratfan menyadari kesalahannya. Pertumbuhan tidak perlu waktu, hanya memerlukan alasan.\nSedangkan dia, membantu Jahoda menemukan alasannya, dengan tangannya sendiri.\nKalau begitu, ayo, kita selesaikan cara yang paling dikenal di antara para pencuri.\nPada suatu malam yang lain, Ratfan menyalakan kemah dengan obor penuh, berdiri di tengah dengan senjata di tangannya.\nRatfan bahkan tidak ingat sudah berapa lama dia memegang senjatanya itu. Pedang itu terlalu berat, bahkan lebih berat dari sekantong Mora penuh.\nSelanjutnya, musuhnya muncul samar-samar, dan melangkah dengan tenang ke dalam perangkat yang jelas terlihat ini.\nObor api menerangi wajah Jahoda yang terlihat cekung karena kelaparan, raut wajahnya pucat karena demam tinggi yang tak kunjung reda. Rambutnya menempel di pipinya seperti rumput kering, dan retakan di bibirnya menyerupai tanah yang kering ... Namun, matanya tetap cerah dan tajam, seolah-olah dia telah membuat perjanjian dengan kematian, dan jiwanya akan memiliki daya hidup tanpa batas hingga pembalasan dendamnya berakhir.\nJahoda adalah seorang penjudi kesepian, dan nyawanya adalah taruhannya yang terakhir.\nKarena memang sudah tak ada yang dimilikinya, kenapa tidak bertaruh saja?\n\"Apa pun yang kamu inginkan, bisa kuberikan.\"\nRatfan menelan kembali ludahnya, keberanian yang dikumpulkannya susah payah lenyap dalam sekejap.\nDia sudah paham betul dengan kedua mata Jahoda ini, orang yang berhasil melarikan diri mati-matian.\n\"Aku ... aku tahu kamu orang baik, Jahoda ....\"\nJahoda sudah tidak memiliki apa pun lagi. Tapi dia masih memiliki banyak sekali harta! Uang, permata, emas, semua kemewahan dunia sedang menunggunya ....\n\"Dengarkan ... aku dulu. Jangan gegabah. Kita bisa ....\"\nTapi tidak ada yang dibutuhkan Jahoda ....\nDia sudah menerkam mangsanya."
+      },
+      {
+        "Title": "Kisah Karakter 4",
+        "Context": "\"Sepertinya kamu sudah terdesak, gadis muda.\"\nNefer mengamati Jahoda yang bertubuh lemah, meski tubuhnya dipenuhi bekas luka, tapi dia masih tetap bisa bertahan hidup.\n\"Aku pasti bisa bayar.\"\n\"Aku tidak melihat ada barang yang bisa kamu pakai untuk membayarnya.\"\n\"Aku bisa kerja untukmu.\"\nJahoda mengelus lengan baju kanannya yang kosong, lalu menambahkan:\n\"Kerja apa saja.\"\nBos Nefer yang hebat mengangkat bajunya, tetap acuh tak acuh terhadap ucapan Jahoda yang seolah sudah menyerah terhadap dirinya sendiri. Uang tidak berarti apa-apa baginya. Alasannya mengungkapkan lokasi Ratfan kepada Jahoda sebelumnya adalah untuk memanfaatkan orang lain untuk menyingkirkan boneka yang berusaha melepaskan diri dari belenggunya. Meski gagal, dia berharap bisa memberi pelajaran pada boneka itu.\nTapi tak disangka, anjing jalanan kurus ini benar-benar bisa menggigit! Dia bahkan bisa menggigit tenggorokan serigala liar. Sepertinya gadis dengan agenda tersembunyi itu sudah kehilangan tujuannya sepenuhnya.\n\"Apa rencanamu selanjutnya? Aku bisa kenalkan beberapa bos untukmu di bidang pencuri ... Atau lebih tepatnya, Treasure Hoarder yang bisa diandalkan.\"\n\"....\"\n\"Oh, tidak mau ya? Kalau begitu, coba peruntungan di Adventurers' Guild. Siapa tahu kamu beruntung dan bisa kaya mendadak di dalam reruntuhan entah yang mana.\"\n\"....\"\n\"Masih tidak mau? Ya sudah, sepertinya kamu ingin keluar dari Nod-Krai dan menyembuhkan luka di hatimu dulu ....\"\n\"Aku tidak perlu sembuhkan luka.\"\nJahoda tidak lagi diam, dia memberikan jawaban terakhirnya.\nDia juga pernah membenci luka yang sakit dan jelek itu, seperti buah yang membusuk dalam lumpur, membenci sisa bangkai yang dilahap binatang buas ....\nTapi, saat dia hampir kehilangan kesempatan untuk menyergap waktu tertidur di puncak pohon karena demam tinggi, rasa sakit dari bekas luka di punggungnyalah yang membangunkannya. Saat dia terpancing oleh musuh dan hampir masuk ke dalam perangkap, bekas luka yang baru sembuh di punggung tangannyalah yang memperingatkannya untuk tidak mengulangi kesalahan yang sama ....\nAtau mungkin, bagi beberapa orang yang beruntung, bekas luka adalah noda kesialan.\nTapi bagi Jahoda, bekas luka ini adalah saksi atas pilihannya, juga saksi atas jalan yang dipilihnya untuk diri sendiri.\nDia bisa menerima bekas luka, dan bisa menerima kehidupannya, masa lalu atau masa datang, dia akan tetap seperti itu.\nNefer tiba-tiba bertepuk tangan dan menghentikan pembicaraannya, seperti sebelumnya. Sudah cukup kata-kata yang didengar olehnya.\n\"Oke, kita ngobrol sampai di sini saja dulu. Kalau kita lanjutkan lagi, bisa-bisa kamu pingsan\", ucap Nefer sambil tersenyum dan menyipitkan matanya: \"Yang lain bukan masalah, tapi kamu bilang mau kerja untukku, kerja apa saja ... Oke, begitu saja.\"\nTiba-tiba saja perjanjian sudah ditetapkan, dan Jahoda yang masih kebingungan mengangguk ragu-ragu. Bagaimanapun juga, setidaknya dia punya tempat tinggal.\n\"Ya, Nona Nefer.\"\n\"Panggil aku bos.\"\n\"Eh?\"\n\"Lain kali, panggil aku Bos Nefer.\"\n\"Baik. Bos ... Nefer.\""
+      },
+      {
+        "Title": "Kisah Karakter 5",
+        "Context": "Setelah resmi menjadi pegawai di Curatorium of Secrets, Jahoda tidak menyangka bahwa dia akan bertemu dengan pedagang licik yang dulu dibersihkan oleh Geng Kait Laut.\nWaktu itu dia baru saja menyelesaikan sebuah misi, mengambil bayarannya, melompat ke atap, dan berlari ke Curatorium of Secrets melalui jalan terdekat. Saat dia bersiap untuk melompat ke atap yang lain, sebuah jendela tiba-tiba terbuka, ada orang yang berteriak:\n\"Hei! Nona Jahoda ya? Nona Jahoda ...!\"\nJahoda berbalik badan sambil tercengang, sebuah bayangan dari masa lalu muncul di benaknya.\n\"Kamu ... penipu itu ....\"\n\"Uhuk, hei, aku sudah tidak nipu lagi. Aku sudah bertobat dan kembali ke jalan yang benar.\"\nPedagang itu melambaikan tangannya dengan bersemangat, terus mengundang Jahoda untuk masuk dan duduk, lalu dia menyuguhkan makanan manis dan teh. Jahoda melihat ke sekeliling, sepertinya tidak ada perbedaan yang menonjol dengan \"kunjungan\" terakhirnya.\n\"Duh, untung waktu itu ada Nona Jahoda. Kamu benar-benar sudah menolongku, malah bersedia mengembalikan liontin itu kepadaku. Kalau aku sampai kehilangan liontinnya, entah bagaimana aku bisa terus bertahan hidup.\"\nSambil berkata, pedagang itu menepuk dadanya dan menghela napas. Terus-menerus menceritakan bagaimana dia bertobat, bangkit kembali, dan menebus dosanya dengan perbuatan baik ....\nKenangan yang sengaja ditekan oleh Jahoda perlahan menyebar dari lubuk hatinya. Suara pedagang itu perlahan menjadi pudar, yang menggantikannya adalah suara yang lebih akrab.\n\"Kan ... Kan uangnya sudah dikembalikan. Kenapa liontinnya tidak boleh dibalikkan ke dia? Ini dua hal yang berbeda ....\"\n\"Bos! Sakit, sakit sakit! Jangan jewer telingaku! Sakit!\"\n\"Jadi ... jadi pencuri juga tidak boleh berbuat jahat. Semua orang juga menjagaku selama ini, kan ....\"\n\"Pokoknya tidak boleh, Senin Rabu Jumat berbuat dosa, Selasa Kamis Sabtu, berbuat baik. Jadi semuanya dapat giliran. Pas Minggu aku ... Aduh! Sakit sakit ....\"\n\"Jangan dong! Bos, waktu nego bawa aku dong! Aku tidak mau makan makanan buatan Zinaida, enggak enak ....\"\nSaat pedagang itu sudah selesai komat-kamit dan mengantarkan kepergian Jahoda dengan ribuan terima kasih, waktu sudah menunjukkan malam hari.\nSetelah membuka gerbang Curatorium of Secrets, yang pertama menyambutnya adalah Ashru yang ingin bermain dengan Jahoda. Tapi meski dia sudah mengacak-acak rambut rekannya itu, dia tidak mendapatkan elusan seperti hari biasanya.\n\"Sepertinya, kamu bertemu dengan teman lamamu\", ucap Nefer sambil meletakkan gelas di tangannya.\n\"Bos tahu?\"\n\"Heheh. Kebetulan kenal saja. Kebetulan juga, aku tahu tentang perbuatan baik dan burukmu.\"\n\"Bos, aku ....\"\n\"Kalau kamu tanya kepadaku, semua 'hal baik' dan 'hal buruk' yang kamu lakukan, sebenarnya mana yang 'benar' dan mana yang 'salah', aku tidak bisa menjawabnya.\"\nNefer berdiri, menutup gerbang Curatorium of Secrets. Pekerjaan hari ini sudah selesai.\n\"Jawaban dari pertanyaan seperti itu hanya bisa dicari di dalam dirimu.\"\nJahoda menghela napas panjang dan terbaring di tanah. Ashru melompat ke atas rambutnya, mengeluarkan dengkuran tak puas, seperti sedang jengkel karena Jahoda tidak mau bermain dengannya.\nNefer berbalik dan menatap pegawai kecil yang cemberut dan bermuka muram itu.\nDi seluruh Nod-Krai, mungkin Jahoda adalah orang yang paling dekat dengannya.\nMereka pernah melintasi kesulitan sendirian, membunuh musuh sendirian, dan masing-masing memiliki \"masalah\" sendiri yang harus dijawab.\nMungkin saja, saat mereka sudah menemukan jawabannya masing-masing ....\nPemilik Curatorium of Secrets menggelengkan kepalanya dan menghentikan pemikirannya.\n\"Ah, biarlah masa depan dipenuhi kejutan. Menarik juga.\""
+      },
+      {
+        "Title": "\"Lengan Berdentang-Denting\"",
+        "Context": "\"Lengan besi\" Jahoda dibuat, dipasang, dan dihias langsung oleh Aino.\nDalam proses pembuatannya, Aino mengajukan beberapa jenis modifikasi, termasuk namun tidak terbatas pada, memasang perangkat penyapu pada lengannya seperti milik Ineffa, memodifikasi ujung jari menjadi \"jari roket\" yang dapat menembakkan roket, dan memasang lampu sorot berintensitas tinggi, atau perangkat jet di telapak tangan, dan sebagainya ....\nPada akhirnya Jahoda tetap kokoh pada pendiriannya, ditambah dengan dana yang terbatas, \"Lengan Berdentang-Denting\" yang diciptakan oleh Aino hanya mempertahankan fungsi operasi paling dasar dan transformasi dalam skala kecil saja.\nAgar bisa menyesuaikan diri dengan lengan ini secepat mungkin, Jahoda menerima pendapat Ineffa untuk menjalankan \"pelatihan melipat bintang kertas\" yang kejam.\nSaat Jahoda selesai melipat 30 stoples bintang kertas, dia sudah bisa menggunakan pisau dan garpu dengan lengan barunya dengan bebas.\nSaat Jahoda selesai melipat 50 stoples bintang kertas, dia sudah bisa mengepang rambutnya dengan lengan barunya dengan bebas.\nSaat Jahoda selesai melipat 70 stoples bintang kertas, dia sudah bisa menjahit boneka kain dengan lengan barunya dengan bebas.\nSaat Jahoda selesai melipat 100 stoples bintang kertas, dia akhirnya punya keberanian untuk menulis dengan lengan barunya.\nDi bawah bimbingan Ineffa, dia menggunakan lengannya untuk menulis sebaris teks uji coba.\n\"Halo, Jahoda.\""
+      },
+      {
+        "Title": "Vision",
+        "Context": "Kabar bahwa Jahoda memiliki 'Vision' disebarkan oleh Nefer.\nKalau dalam bahasa Nefer, pusaka yang dimiliki oleh dirinya sebagai bos, sudah sewajarnya harus dimiliki oleh Jahoda sebagai pegawainya. Kalau tidak, waktu keluar bekerja kelak, auranya akan kalah.\n\"Bos, tapi aku kan tidak punya 'Vision' ....\"\n\"Tidak masalah, aku akan buatkan bola kaca, kamu bawa.\"\n\"Lah, langsung ketahuan dong kalau begini!\"\n\"Tidak masalah dong! Selain pemilik 'Vision', siapa sih yang bisa membedakan keasliannya?\"\n\"Eh? Hmm ... Kayaknya ... masuk akal sih.\"\nLalu, sambil mengenakan bola kaca hijau yang entah didapatkan Nefer dari mana, Jahoda mulai sibuk seperti biasanya.\nSama seperti yang dikatakan Nefer, setelah orang-orang melihat Jahoda memiliki 'Vision', sikap mereka berubah drastis. Bukan hanya imbalannya yang menjadi lebih tinggi, bahkan mereka bersedia memberikan misi yang lebih sulit kepada Jahoda.\nTentu saja, dihujani oleh imbalan tinggi, misi yang sulit, serta tatapan mata penuh harapan dari orang-orang, Jahoda yang menyadari bahwa dia tidak memiliki 'Vision' yang sebenarnya juga sangat tertekan. Sehingga dia lebih giat lagi, sama seperti gasing kecil, yang terus berputar sepanjang hari. Tapi pada akhirnya, dia bisa lebih membantu semua orang, mendapatkan uang yang lebih banyak, dan lebih dipercaya orang-orang. Jahoda tentu senang dengan hal ini.\nDi dalam mimpi pun, Jahoda kadang memimpikan bahwa dirinya sedang membantu seseorang, dan bisa mengangkat kepalanya tinggi-tinggi.\n\"Tenang saja, tenang. Aku punya ... 'Vision' kok ....\"\nJahoda mengepalkan tangannya sambil bergumam, sepertinya dia baru saja mengalahkan musuh kuat di dalam mimpinya.\nDi dunia nyata, Nefer yang baru saja kembali dari percakapan malam duduk di samping Jahoda. Tas \"satu-satunya pegawai Curatorium of Secrets\" ini terbuka, bola kaca berwarna hijau itu terbungkus rapat oleh beberapa lapis kain, supaya tidak bisa pecah, juga sulit diintip orang-orang.\nTanpa sadar, Jahoda melambaikan tangannya dan berkata dengan santai:\n\"Aku bisa bantu kamu ... Aku punya 'Vision' kok ....\"\n\"Kalau punya 'Vision', bisa berbuat baik ....\"\n\"Kalau ada 'Vision' ... pasti bisa ....\"\nNefer yang sudah berdiri dan hendak pergi tiba-tiba melihat secercah cahaya berwarna kehijauan.\nBos Curatorium of Secrets itu sedikit terkejut, tidak bisa menahan tawanya.\nKebohongan yang diulang ribuan kali, ternyata bisa menjadi kebenaran."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212400,
+      "Name": "Nova's Whisper",
+      "Description": "Model pakaian Jahoda. Pakaian ini dibuat khusus oleh Nefer, bos yang paling disayanginya, bijaksana, dan serba tahu. Kacamata pelindungnya adalah hadiah gratis dari Aino, dan tudungnya dirajut langsung oleh Ineffa. Mengenakan pakaian baru adalah langkah pertama untuk mengucapkan selamat tinggal pada masa lalu.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104154,
+    113078,
+    101257,
+    112124,
+    104364,
+    113073
+  ],
+  "NameCard": {
+    "Name": "Jahoda: Helping Hand",
+    "Description": "Style Kartu Nama.\n\"Kalau sedang sibuk, rasanya ingin sekali pinjam tangan Jahoda.\" — Artinya pemiliknya \"tangan\" itu lincah dan bisa diandalkan, benar kan?",
+    "Icon": "UI_NameCardIcon_Jahoda",
+    "PicturePrefix": "UI_NameCardPic_Jahoda"
+  }
+}

@@ -1,0 +1,1341 @@
+{
+  "Id": 10000123,
+  "PromoteId": 123,
+  "Sort": 109,
+  "Body": 1,
+  "Icon": "UI_AvatarIcon_Durin",
+  "SideIcon": "UI_AvatarIcon_Side_Durin",
+  "Name": "Durin",
+  "Description": "Naga yang lahir dari pena milik \"M\" akhirnya tiba di dunia manusia. Dan \"kisah\"-nya masih terus berlanjut.",
+  "BeginTime": "2025-12-02T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 1,
+  "BaseValue": {
+    "HpBase": 967.6198,
+    "AttackBase": 26.999,
+    "DefenseBase": 64.0181
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12331,
+        "Proud": {
+          "Descriptions": [
+            "DMG Tahap 1|{param1:F1P}",
+            "DMG Tahap 2|{param2:F1P}",
+            "DMG Tahap 3|{param3:F1P}+{param4:F1P}",
+            "DMG Tahap 4|{param5:F1P}",
+            "DMG Charged Attack|{param6:F1P}",
+            "Konsumsi Stamina Charged Attack|{param7:F1}",
+            "DMG Selama Plunging|{param8:F1P}",
+            "DMG Plunging Attack Rendah/Tinggi|{param9:P}/{param10:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233101,
+              "Level": 1,
+              "Parameters": [
+                0.456505,
+                0.410048,
+                0.291617,
+                0.291617,
+                0.711521,
+                1.13434,
+                20,
+                0.639324,
+                1.278377,
+                1.596762
+              ]
+            },
+            {
+              "Id": 1233102,
+              "Level": 2,
+              "Parameters": [
+                0.493663,
+                0.443424,
+                0.315354,
+                0.315354,
+                0.769436,
+                1.22667,
+                20,
+                0.691362,
+                1.382431,
+                1.726731
+              ]
+            },
+            {
+              "Id": 1233103,
+              "Level": 3,
+              "Parameters": [
+                0.53082,
+                0.4768,
+                0.33909,
+                0.33909,
+                0.82735,
+                1.319,
+                20,
+                0.7434,
+                1.486485,
+                1.8567
+              ]
+            },
+            {
+              "Id": 1233104,
+              "Level": 4,
+              "Parameters": [
+                0.583902,
+                0.52448,
+                0.372999,
+                0.372999,
+                0.910085,
+                1.4509,
+                20,
+                0.81774,
+                1.635134,
+                2.04237
+              ]
+            },
+            {
+              "Id": 1233105,
+              "Level": 5,
+              "Parameters": [
+                0.621059,
+                0.557856,
+                0.396735,
+                0.396735,
+                0.968,
+                1.54323,
+                20,
+                0.869778,
+                1.739187,
+                2.172339
+              ]
+            },
+            {
+              "Id": 1233106,
+              "Level": 6,
+              "Parameters": [
+                0.663525,
+                0.596,
+                0.423863,
+                0.423863,
+                1.034188,
+                1.64875,
+                20,
+                0.92925,
+                1.858106,
+                2.320875
+              ]
+            },
+            {
+              "Id": 1233107,
+              "Level": 7,
+              "Parameters": [
+                0.721915,
+                0.648448,
+                0.461162,
+                0.461162,
+                1.125196,
+                1.79384,
+                20,
+                1.011024,
+                2.02162,
+                2.525112
+              ]
+            },
+            {
+              "Id": 1233108,
+              "Level": 8,
+              "Parameters": [
+                0.780305,
+                0.700896,
+                0.498462,
+                0.498462,
+                1.216205,
+                1.93893,
+                20,
+                1.092798,
+                2.185133,
+                2.729349
+              ]
+            },
+            {
+              "Id": 1233109,
+              "Level": 9,
+              "Parameters": [
+                0.838696,
+                0.753344,
+                0.535762,
+                0.535762,
+                1.307213,
+                2.08402,
+                20,
+                1.174572,
+                2.348646,
+                2.933586
+              ]
+            },
+            {
+              "Id": 1233110,
+              "Level": 10,
+              "Parameters": [
+                0.902394,
+                0.81056,
+                0.576453,
+                0.576453,
+                1.406495,
+                2.2423,
+                20,
+                1.26378,
+                2.527025,
+                3.15639
+              ]
+            },
+            {
+              "Id": 1233111,
+              "Level": 11,
+              "Parameters": [
+                0.966092,
+                0.867776,
+                0.617144,
+                0.617144,
+                1.505777,
+                2.40058,
+                20,
+                1.352988,
+                2.705403,
+                3.379194
+              ]
+            },
+            {
+              "Id": 1233112,
+              "Level": 12,
+              "Parameters": [
+                1.029791,
+                0.924992,
+                0.657835,
+                0.657835,
+                1.605059,
+                2.55886,
+                20,
+                1.442196,
+                2.883781,
+                3.601998
+              ]
+            },
+            {
+              "Id": 1233113,
+              "Level": 13,
+              "Parameters": [
+                1.093489,
+                0.982208,
+                0.698525,
+                0.698525,
+                1.704341,
+                2.71714,
+                20,
+                1.531404,
+                3.062159,
+                3.824802
+              ]
+            },
+            {
+              "Id": 1233114,
+              "Level": 14,
+              "Parameters": [
+                1.157188,
+                1.039424,
+                0.739216,
+                0.739216,
+                1.803623,
+                2.87542,
+                20,
+                1.620612,
+                3.240537,
+                4.047606
+              ]
+            },
+            {
+              "Id": 1233115,
+              "Level": 15,
+              "Parameters": [
+                1.220886,
+                1.09664,
+                0.779907,
+                0.779907,
+                1.902905,
+                3.0337,
+                20,
+                1.70982,
+                3.418915,
+                4.27041
+              ]
+            }
+          ]
+        },
+        "Id": 11231,
+        "Name": "Radiant Wingslash",
+        "Description": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan maksimum hingga 4 serangan pedang beruntun.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melakukan satu kali tebasan ke arah depan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah di bawahnya, menyerang musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+        "Icon": "Skill_A_01"
+      },
+      {
+        "GroupId": 12332,
+        "Proud": {
+          "Descriptions": [
+            "DMG Transmutation: Confirmation of Purity|{param1:F1P}",
+            "DMG Transmutation: Denial of Darkness|{param2:F1P}+{param3:F1P}+{param4:F1P}",
+            "Pemulihan Energy|{param5:F1}",
+            "Cooldown|{param6:F1} dtk"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233201,
+              "Level": 1,
+              "Parameters": [
+                1.056,
+                0.7224,
+                0.532,
+                0.6464,
+                6,
+                12
+              ]
+            },
+            {
+              "Id": 1233202,
+              "Level": 2,
+              "Parameters": [
+                1.1352,
+                0.77658,
+                0.5719,
+                0.69488,
+                9,
+                12
+              ]
+            },
+            {
+              "Id": 1233203,
+              "Level": 3,
+              "Parameters": [
+                1.2144,
+                0.83076,
+                0.6118,
+                0.74336,
+                12,
+                12
+              ]
+            },
+            {
+              "Id": 1233204,
+              "Level": 4,
+              "Parameters": [
+                1.32,
+                0.903,
+                0.665,
+                0.808,
+                15,
+                12
+              ]
+            },
+            {
+              "Id": 1233205,
+              "Level": 5,
+              "Parameters": [
+                1.3992,
+                0.95718,
+                0.7049,
+                0.85648,
+                18,
+                12
+              ]
+            },
+            {
+              "Id": 1233206,
+              "Level": 6,
+              "Parameters": [
+                1.4784,
+                1.01136,
+                0.7448,
+                0.90496,
+                21,
+                12
+              ]
+            },
+            {
+              "Id": 1233207,
+              "Level": 7,
+              "Parameters": [
+                1.584,
+                1.0836,
+                0.798,
+                0.9696,
+                24,
+                12
+              ]
+            },
+            {
+              "Id": 1233208,
+              "Level": 8,
+              "Parameters": [
+                1.6896,
+                1.15584,
+                0.8512,
+                1.03424,
+                27,
+                12
+              ]
+            },
+            {
+              "Id": 1233209,
+              "Level": 9,
+              "Parameters": [
+                1.7952,
+                1.22808,
+                0.9044,
+                1.09888,
+                30,
+                12
+              ]
+            },
+            {
+              "Id": 1233210,
+              "Level": 10,
+              "Parameters": [
+                1.9008,
+                1.30032,
+                0.9576,
+                1.16352,
+                33,
+                12
+              ]
+            },
+            {
+              "Id": 1233211,
+              "Level": 11,
+              "Parameters": [
+                2.0064,
+                1.37256,
+                1.0108,
+                1.22816,
+                36,
+                12
+              ]
+            },
+            {
+              "Id": 1233212,
+              "Level": 12,
+              "Parameters": [
+                2.112,
+                1.4448,
+                1.064,
+                1.2928,
+                39,
+                12
+              ]
+            },
+            {
+              "Id": 1233213,
+              "Level": 13,
+              "Parameters": [
+                2.244,
+                1.5351,
+                1.1305,
+                1.3736,
+                42,
+                12
+              ]
+            },
+            {
+              "Id": 1233214,
+              "Level": 14,
+              "Parameters": [
+                2.376,
+                1.6254,
+                1.197,
+                1.4544,
+                45,
+                12
+              ]
+            },
+            {
+              "Id": 1233215,
+              "Level": 15,
+              "Parameters": [
+                2.508,
+                1.7157,
+                1.2635,
+                1.5352,
+                48,
+                12
+              ]
+            }
+          ]
+        },
+        "Id": 11232,
+        "Name": "Binary Form: Convergence and Division",
+        "Description": "Memurnikan substansi jiwa dan harapan untuk melakukan {LINK#N11230001}<color=#FFD780FF>Essential Transmutation</color>{/LINK}. Selama durasi ini, Elemental Skill Durin <color=#FFD780FF>Binary Form: Convergence and Division</color> akan berubah menjadi Elemental Skill khusus <color=#FFD780FF>Transmutation: Confirmation of Purity</color>, sedangkan Normal Attack <color=#FFD780FF>Radiant Wingslash</color> akan berubah menjadi Elemental Skill khusus <color=#FFD780FF>Transmutation: Denial of Darkness</color>.\n\n<color=#FFD780FF>Transmutation: Confirmation of Purity</color>\nMengakibatkan satu kali <color=#FF9999FF>Pyro DMG Area</color> terhadap musuh di sekitar, menghapus efek Essential Transmutation, dan memasuki status <color=#FFD780FF>Confirmation of Purity</color> selama 30 detik.\n\n<color=#FFD780FF>Transmutation: Denial of Darkness</color>\nMengakibatkan 3 kali <color=#FF9999FF>Pyro DMG</color> secara berturut-turut terhadap musuh di depan, menghapus efek Essential Transmutation dan memasuki status <color=#FFD780FF>Denial of Darkness</color> selama 30 detik.\n\nSaat Durin dalam kondisi bertempur dan memasuki status <color=#FFD780FF>Confirmation of Purity</color> atau <color=#FFD780FF>Denial of Darkness</color>, sejumlah Energy-nya akan dipulihkan. Pemulihan Energy dengan cara ini dapat terpicu sekali setiap 6 detik.",
+        "Icon": "Skill_S_Durin_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Witch's Eve Rite: Ode to Ascension",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Dunia Ini</color>, Durin akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nMeningkatkan seluruh efek Talenta Ascension {LINK#P1232101}<color=#FFD780FF>Light Manifest of the Divine Calculus</color>{/LINK} (kecuali durasinya) sebesar 75%.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12339,
+      "Proud": {
+        "Descriptions": [
+          "DMG Principle of Purity: As the Light Shifts|{param1:F1P}+{param2:F1P}+{param3:F1P}",
+          "DMG Principle of Darkness: As the Stars Smolder|{param4:F1P}+{param5:F1P}+{param6:F1P}",
+          "DMG Dragon of White Flame|{param7:F1P}",
+          "DMG Dragon of Dark Decay|{param8:F1P}",
+          "Durasi Dragon of White Flame|{param9:F1} dtk",
+          "Durasi Dragon of Dark Decay|{param10:F1} dtk",
+          "Cooldown|{param11:F1} dtk",
+          "Konsumsi Energy|{param12:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1233901,
+            "Level": 1,
+            "Parameters": [
+              1.1896,
+              0.964,
+              1.1184,
+              1.2544,
+              1.0176,
+              1.1184,
+              0.9464,
+              1.2984,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233902,
+            "Level": 2,
+            "Parameters": [
+              1.27882,
+              1.0363,
+              1.20228,
+              1.34848,
+              1.09392,
+              1.20228,
+              1.01738,
+              1.39578,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233903,
+            "Level": 3,
+            "Parameters": [
+              1.36804,
+              1.1086,
+              1.28616,
+              1.44256,
+              1.17024,
+              1.28616,
+              1.08836,
+              1.49316,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233904,
+            "Level": 4,
+            "Parameters": [
+              1.487,
+              1.205,
+              1.398,
+              1.568,
+              1.272,
+              1.398,
+              1.183,
+              1.623,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233905,
+            "Level": 5,
+            "Parameters": [
+              1.57622,
+              1.2773,
+              1.48188,
+              1.66208,
+              1.34832,
+              1.48188,
+              1.25398,
+              1.72038,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233906,
+            "Level": 6,
+            "Parameters": [
+              1.66544,
+              1.3496,
+              1.56576,
+              1.75616,
+              1.42464,
+              1.56576,
+              1.32496,
+              1.81776,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233907,
+            "Level": 7,
+            "Parameters": [
+              1.7844,
+              1.446,
+              1.6776,
+              1.8816,
+              1.5264,
+              1.6776,
+              1.4196,
+              1.9476,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233908,
+            "Level": 8,
+            "Parameters": [
+              1.90336,
+              1.5424,
+              1.78944,
+              2.00704,
+              1.62816,
+              1.78944,
+              1.51424,
+              2.07744,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233909,
+            "Level": 9,
+            "Parameters": [
+              2.02232,
+              1.6388,
+              1.90128,
+              2.13248,
+              1.72992,
+              1.90128,
+              1.60888,
+              2.20728,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233910,
+            "Level": 10,
+            "Parameters": [
+              2.14128,
+              1.7352,
+              2.01312,
+              2.25792,
+              1.83168,
+              2.01312,
+              1.70352,
+              2.33712,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233911,
+            "Level": 11,
+            "Parameters": [
+              2.26024,
+              1.8316,
+              2.12496,
+              2.38336,
+              1.93344,
+              2.12496,
+              1.79816,
+              2.46696,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233912,
+            "Level": 12,
+            "Parameters": [
+              2.3792,
+              1.928,
+              2.2368,
+              2.5088,
+              2.0352,
+              2.2368,
+              1.8928,
+              2.5968,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233913,
+            "Level": 13,
+            "Parameters": [
+              2.5279,
+              2.0485,
+              2.3766,
+              2.6656,
+              2.1624,
+              2.3766,
+              2.0111,
+              2.7591,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233914,
+            "Level": 14,
+            "Parameters": [
+              2.6766,
+              2.169,
+              2.5164,
+              2.8224,
+              2.2896,
+              2.5164,
+              2.1294,
+              2.9214,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233915,
+            "Level": 15,
+            "Parameters": [
+              2.8253,
+              2.2895,
+              2.6562,
+              2.9792,
+              2.4168,
+              2.6562,
+              2.2477,
+              3.0837,
+              20,
+              20,
+              18,
+              70
+            ]
+          }
+        ]
+      },
+      "Id": 11235,
+      "Name": "Principle of Purity: As the Light Shifts",
+      "Description": "Melepaskan kekuatan \"hewan buas\" dengan cara yang berbeda-beda. Durin bisa melancarkan Elemental Burst yang berbeda sesuai dengan status {LINK#N11230001}<color=#FFD780FF>Essential Transmutation</color>{/LINK} yang dimiliki.\n\n<color=#FFD780FF>Principle of Purity: As the Light Shifts</color>\nJika sedang berada dalam status <color=#FFD780FF>Confirmation of Purity</color>, Durin akan melancarkan Elemental Burst <color=#FFD780FF>Principle of Purity: As the Light Shifts</color> untuk mengakibatkan 3 kali <color=#FF9999FF>Pyro DMG Area</color> terhadap musuh di depan dan akan menampakkan kekuatan dirinya dalam wujud <color=#FFD780FF>Dragon of White Flame</color>. Dragon of White Flame akan mengikuti Karakter aktif dan menyerang musuh-musuh di sekitar secara berkala, mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>. DMG ini dianggap sebagai DMG Elemental Burst.\n\n<color=#FFD780FF>Principle of Darkness: As the Stars Smolder</color>\nJika sedang berada dalam status <color=#FFD780FF>Denial of Darkness</color>, Elemental Burst Durin akan dikonversi menjadi <color=#FFD780FF>Principle of Darkness: As the Stars Smolder</color>, mengakibatkan 3 kali <color=#FF9999FF>Pyro DMG Area</color> terhadap musuh di depan, dan akan menampakkan kekuatan dirinya dalam wujud <color=#FFD780FF>Dragon of Dark Decay</color>. Dragon of Dark Decay akan mengikuti Karakter aktif dan menyerang satu musuh di sekitar secara berkala, mengakibatkan <color=#FF9999FF>Pyro DMG</color>. DMG ini dianggap sebagai DMG Elemental Burst.\n\nJika Durin sedang tidak berada dalam status spesial dari Essential Transmutation, maka Elemental Burst yang dilancarkan adalah <color=#FFD780FF>Principle of Purity: As the Light Shifts</color>.",
+      "Icon": "Skill_E_Durin_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12321,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232101,
+              "Level": 1,
+              "Parameters": [
+                0.2,
+                6,
+                0.4,
+                0.4
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232101,
+        "Name": "Light Manifest of the Divine Calculus",
+        "Description": "Durin akan menghasilkan efek penguatan yang berbeda berdasarkan bentuk kekuatan yang diwujudkan saat ia melancarkan Elemental Burst-nya. Jika kekuatan Durin berwujud:\n\n<color=#FFD780FF>Dragon of White Flame</color>\nSetelah Karakter party di sekitar memicu reaksi Burning, Overloaded, Pyro Swirl, atau Pyro Crystallize, atau saat mengakibatkan <color=#FF9999FF>Pyro DMG</color> atau <color=#99FF88FF>Dendro DMG</color> terhadap musuh yang berada dalam status Burning, maka <color=#FF9999FF>Pyro RES</color> musuh ini dan RES elemen yang terlibat di dalam reaksinya akan berkurang 20% selama 6 detik.\n\n<color=#FFD780FF>Dragon of Dark Decay</color>\nDMG reaksi Vaporize yang dipicu Durin meningkat 40%, dan DMG reaksi Melt yang dipicu Durin meningkat 40%.",
+        "Icon": "UI_Talent_S_Durin_01"
+      },
+      {
+        "GroupId": 12322,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232201,
+              "Level": 1,
+              "Parameters": [
+                0.03,
+                0.75,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232201,
+        "Name": "Chaos Formed Like the Night",
+        "Description": "Setelah melancarkan Elemental Burst, Durin akan mendapatkan efek Primordial Fusion of Forms selama 20 detik: Selama durasi ini, Durin akan mendapatkan 10 lapis Primordial Fusion. Saat serangan berjeda dari <color=#FFD780FF>Dragon of White Flame</color> dan <color=#FFD780FF>Dragon of Dark Decay</color> mengakibatkan DMG, satu lapis Primordial Fusion akan dikonsumsi untuk meningkatkan DMG-nya. Setiap 100 ATK akan mengakibatkan DMG tambahan sebesar 3% dari DMG awalnya. DMG tambahan yang bisa diakibatkan dengan cara ini adalah maksimum 75% dari DMG awalnya. Setiap kali serangan <color=#FFD780FF>Dragon of White Flame</color> dan <color=#FFD780FF>Dragon of Dark Decay</color> mengenai beberapa musuh sekaligus, tetap hanya satu lapis Primordial Fusion yang akan dikonsumsi.\nJumlah lapisan Primordial Fusion akan diperbarui saat Durin melancarkan Elemental Burst lagi.",
+        "Icon": "UI_Talent_S_Durin_02"
+      },
+      {
+        "GroupId": 12323,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1232301,
+        "Name": "Echoes of the Surging Earth",
+        "Description": "Ketika dikirim untuk melakukan ekspedisi di Mondstadt selama 20 jam, hadiah yang didapatkan akan bertambah 25%.",
+        "Icon": "UI_Talent_S_Durin_07"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1231,
+        "Name": "Adamah's Redemption",
+        "Description": "Setelah melancarkan Elemental Burst, akan menghasilkan efek yang berbeda berdasarkan wujud Elemental Burst yang dilancarkan Durin:\n·<color=#FFD780FF>Principle of Purity: As the Light Shifts</color>: Seluruh Karakter party di sekitar mendapatkan 20 lapis <color=#FFD780FF>Cycle of Enlightenment</color> selama 20 detik. Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst Karakter aktif yang memiliki Cycle of Enlightenment mengakibatkan DMG, 1 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 60% ATK Durin. Lapisan Cycle of Enlightenment yang dimiliki oleh setiap Karakter di dalam party dihitung terpisah.\n·<color=#FFD780FF>Principle of Darkness: As the Stars Smolder</color>: Durin mendapatkan 20 lapis <color=#FFD780FF>Cycle of Enlightenment</color> selama 20 detik. Saat Elemental Burst Durin mengakibatkan DMG, 2 lapis Cycle of Enlightenment akan terkonsumsi untuk meningkatkan DMG sebesar 150% ATK Durin.\n\nSaat melancarkan Elemental Burst, jumlah lapisan <color=#FFD780FF>Cycle of Enlightenment</color> akan direset.",
+        "Icon": "UI_Talent_S_Durin_03"
+      },
+      {
+        "Id": 1232,
+        "Name": "Unground Visions",
+        "Description": "Dalam kurun waktu 20 detik setelah Durin melancarkan Elemental Burst, dan setelah Karakter dalam party di sekitar mengakibatkan reaksi Vaporize, Melt, Burning, Overloaded, Pyro Swirl, atau Pyro Crystallize, atau saat mengakibatkan <color=#FF9999FF>Pyro DMG</color> atau <color=#99FF88FF>Dendro DMG</color> terhadap musuh yang berada dalam status Burning, maka <color=#FF9999FF>Pyro DMG</color> dan Elemental DMG yang elemennya terlibat dalam Reaksi Elemental di atas akan meningkat 50% untuk seluruh anggota party di sekitar. Berlangsung selama 6 detik.",
+        "Icon": "UI_Talent_S_Durin_04"
+      },
+      {
+        "Id": 1233,
+        "Name": "Flame Mirror's Revelation",
+        "Description": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11235}Principle of Purity: As the Light Shifts{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Durin_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1234,
+        "Name": "Emanare's Source",
+        "Description": "DMG Elemental Burst Durin meningkat 40%. Selain itu, saat efek mengonsumsi Cycle of Enlightenment dari Konstelasi <color=#FFD780FF>{LINK#T1231}Adamah's Redemption{/LINK}</color> terpicu, ada 30% kemungkinan untuk tidak mengonsumsi <color=#FFD780FF>Cycle of Enlightenment</color> tersebut.",
+        "Icon": "UI_Talent_S_Durin_05"
+      },
+      {
+        "Id": 1235,
+        "Name": "Scouring Flame's Sundering",
+        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11232}Binary Form: Convergence and Division{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Durin_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1236,
+        "Name": "Dual Birth",
+        "Description": "DMG Elemental Burst Durin akan mengabaikan 30% DEF musuh.\nSelain itu, Elemental Burst Durin <color=#FFD780FF>Principle of Purity: As the Light Shifts</color> dan <color=#FFD780FF>Principle of Darkness: As the Stars Smolder</color> akan ditingkatkan:\n·Setelah Elemental Burst <color=#FFD780FF>Principle of Purity: As the Light Shifts</color> dan <color=#FFD780FF>Dragon of White Flame</color> mengenai musuh, DEF musuh ini berkurang 30% selama 6 detik.\n·DMG Elemental Burst <color=#FFD780FF>Principle of Darkness: As the Stars Smolder</color> dan <color=#FFD780FF>Dragon of Dark Decay</color> akan mengabaikan 40% DEF musuh lagi.",
+        "Icon": "UI_Talent_S_Durin_06"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "\"The Undying Fire\"",
+    "Detail": "Naga yang lahir dari pena milik \"M\" akhirnya tiba di dunia manusia. Dan \"kisah\"-nya masih terus berlanjut.",
+    "Association": 1,
+    "Native": "Hexenzirkel",
+    "BirthMonth": 3,
+    "BirthDay": 14,
+    "VisionBefore": "Pyro",
+    "VisionOverrideUnlocked": "Vision",
+    "ConstellationBefore": "Draco Rubedo",
+    "CvChinese": "陶典",
+    "CvJapanese": "小林千晃",
+    "CvEnglish": "Laurie Kynaston",
+    "CvKorean": "Kim Ji-yul",
+    "CookBonus": {
+      "OriginItemId": 108171,
+      "ItemId": 108924,
+      "InputList": [
+        100061,
+        100001,
+        110004,
+        100077
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Halo",
+        "Context": "Lama tidak bertemu. Aku Durin. Dulu semua orang memanggilku Mini Durin, tapi seperti yang kamu lihat, aku sudah tidak \"mini\" lagi .... Apa kamu merasa penampilanku sekarang aneh? Sejujurnya, aku masih merasa sedikit tidak biasa .... Masih banyak yang harus kupelajari ... jadi semoga kamu tidak keberatan ya kalau aku minta bantuanmu."
+      },
+      {
+        "Title": "Berbincang: Cerita",
+        "Context": "Setiap hari adalah halaman baru dalam kisahku. Aku mau menikmati setiap adegan dan setiap catatan, sebelum beralih ke halaman berikutnya."
+      },
+      {
+        "Title": "Berbincang: Berjalan",
+        "Context": "Boleh berhenti di sini dan bermain— eh, maksudku jalan-jalan? Aku tidak akan pergi terlalu jauh."
+      },
+      {
+        "Title": "Berbincang: Canggung",
+        "Context": "Masih banyak yang harus aku pelajari tentang \"interaksi manusia.\" Misalnya, tanganku harus taruh di mana saat gugup? Aku hanya ... benar-benar mau berteman dengan semua orang."
+      },
+      {
+        "Title": "Ketika Turun Hujan",
+        "Context": "Ya ampun, aku rasanya ingin sekali lompat ke genangan airnya ...."
+      },
+      {
+        "Title": "Ketika Petir Menyambar",
+        "Context": "Lebih baik jangan terbang terlalu tinggi dalam cuaca begini ...."
+      },
+      {
+        "Title": "Ketika Salju Turun",
+        "Context": "Apakah \"dia\" pernah tertidur di tempat seperti ini ...?"
+      },
+      {
+        "Title": "Ketika Matahari Bersinar",
+        "Context": "Kelihatannya seperti pemandangan dari dongeng, indah sekali."
+      },
+      {
+        "Title": "Di Padang Pasir",
+        "Context": "Wah, aku haus sekali ...."
+      },
+      {
+        "Title": "Selamat Pagi",
+        "Context": "Pagi. Abaikan saja kepalaku yang agak miring ini, soalnya leherku agak kaku. Semalam ada kucing yang tidur di dekatku, padahal biasanya, hewan-hewan kecil takut. Aku tidak ingin mengganggunya, jadi berusaha tidak gerak sepanjang malam ...."
+      },
+      {
+        "Title": "Selamat Siang",
+        "Context": "Kalau ada yang namanya \"brunch\", apakah ada \"linner\" juga?"
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "Aku penasaran, kita bisa lihat bintang-bintang tidak ya malam ini ...?"
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "Tidak ada yang lebih damai dibandingkan meringkuk nyaman dan tidur nyenyak."
+      },
+      {
+        "Title": "Tentang Durin: Tumbuh Dewasa",
+        "Context": "Menurutmu aku sudah lebih dewasa? Dilihat bagaimana pun, ini sudah bukan sosok anak-anak ... Selain itu, aku juga ingin terus melangkah maju!"
+      },
+      {
+        "Title": "Tentang Durin: Kehilangan Kendali",
+        "Context": "Aku bisa merasakan kekuatan besar yang membabi buta ini bersembunyi jauh di dalam diriku. Untungnya, alkimia Albedo sangat sempurna, jadi energi Abyss di dalam tubuhku ini terkendali dengan baik ... seolah-olah semuanya seimbang dan mencegah kemungkinan terjadinya luapan atau kerusakan. Karena itu, tidak perlu khawatir aku akan lepas kendali atau melukai siapa pun."
+      },
+      {
+        "Title": "Tentang Durin: Egois",
+        "Context": "Aku tahu mengambil nama Durin untuk diriku sendiri di dunia ini mengundang kritik. Menggantikan Durin dari Dragonspine berarti aku telah mencuri haknya untuk dibangkitkan kembali. Ini memang egois, tapi saat itu, aku sangat ingin menjadi \"manusia\". Aku ingin menjadi bagian nyata dari dunia semua orang, dan juga membawa lebih banyak kebaikan ke dalamnya ... Aku tidak ingin menolak kesempatan itu. Aku tidak menyesali pilihanku. Mungkin seperti yang dikatakan Albedo, semua kehidupan punya sisi egois ....\nBagaimanapun juga, aku tidak bisa berbicara mewakili Durin yang satunya. Aku hanya ingin menjalani jalanku sendiri, melakukan hal yang benar, agar ketika nama \"Durin\" terucap dari bibir orang-orang, nama itu akan diikuti oleh kenangan yang indah."
+      },
+      {
+        "Title": "Tentang Kita: Tanduk yang Beradu",
+        "Context": "Para naga saling beradu tanduk sebagai cara mengekspresikan persahabatan mereka. Tapi aku takut kalau aku menggunakan terlalu banyak tenaga. Aku tidak ingin melukaimu ... Kamu yakin? Baiklah! Agar aman, bagaimana kalau aku diam saja, dan kamu yang menabrakkan kepalamu ke tandukku?"
+      },
+      {
+        "Title": "Tentang Kita: Berkah",
+        "Context": "\"Kiranya teman-teman yang setia dan berhati baik senantiasa menemanimu, ke mana pun kamu pergi.\"\nInilah berkah yang kamu berikan padaku, sebagai seorang Pengembara yang telah menjelajahi banyak dunia. Aku tak pernah melupakannya. Sejak hari itu, kisahku mulai berubah ... Terima kasih. Aku bisa merasakan betapa banyak aku telah berubah. Mungkin— hm, tidak, sudah pasti, sekarang aku punya kekuatan untuk melindungi orang-orang yang kuhargai. Karena itu, aku ingin membalas berkahmu dengan sebuah janji: Kapan pun, di mana pun, asal kamu membutuhkanku, aku akan membantumu.\nHm, jadi aku pasti akan datang secepat mungkin begitu tahu kamu dalam bahaya. Baiklah, kurasa itu sudah semuanya ...."
+      },
+      {
+        "Title": "Tentang Vision",
+        "Context": "Salah satu efek dari Abyss adalah kemampuannya untuk meningkatkan kekuatan makhluk hidup. Wujudku saat ini adalah bukti nyata dari fenomena tersebut. Meski aku tidak bisa sepenuhnya mengendalikan kekuatannya, fisikku yang unik sepertinya memberiku potensi untuk menggunakan Abyss demi kebaikan. Mengendalikannya sangat sulit dan butuh konsentrasi yang luar biasa ... Jika tidak, setiap kesalahan yang kubuat bisa melukai orang-orang yang kusayangi. Untuk menghindari hal ini, aku harus terus belajar dan berlatih ....\nAku percaya kalau Vision ini adalah pengakuan atas upayaku."
+      },
+      {
+        "Title": "Berbagi Cerita",
+        "Context": "Dvalin terbangnya cepat sekali .... Apakah karena sayapnya lebih besar dari sayapku? Kadang aku berpikir, kalau aku masih punya wujud nagaku ... maksudku yang berbentuk balok mainan dari Simulanka, aku mungkin bisa terbang lebih cepat darinya."
+      },
+      {
+        "Title": "Kisah Menarik",
+        "Context": "Teman pertamaku adalah seekor tupai terbang kertas. Awalnya, hanya dia yang mau bermain denganku. Dia punya dua telinga runcing dan ekor kertas yang besar, dan terlihat sedikit mirip dengan tupai-tupai di Teyvat. Aku sering memetik bunga dari tempat-tempat tinggi untuknya .... Aku kangen sekali dengan si tupai itu.\nKamu mau mengumpulkan runjung untuk para tupai sama-sama? Tentu saja aku mau!"
+      },
+      {
+        "Title": "Tentang Ibu",
+        "Context": "Sejak menggunakan pena Ibu, aku selalu mencatat cerita setiap hari dengan tekun. Klee mengajariku cara memancing, yang berakhir dengan kami dikunci dalam sel isolasi. Albedo memintaku membantunya mendidihkan air, yang hampir berakhir dengan ketel habis terbakar. Seorang anak kecil di luar gerbang kota mengajariku cara memberi makan merpati, dan salah satu dari mereka memutuskan untuk bertengger di tandukku. Aku akan terus mengisi halaman-halaman bukuku, dan mungkin, suatu hari saat aku membalik halamannya, aku akan mendengar suara yang familiar berkata pelan, \"Ini sungguh cerita yang indah\"."
+      },
+      {
+        "Title": "Tentang Alice",
+        "Context": "Tante Alice memintaku untuk menghabiskan lebih banyak waktu dengan Klee. Dia bilang akan memberiku apa pun yang kuinginkan sebagai hadiah. Tapi hanya anak kecil yang mau hadiah, dan aku jelas sudah dewasa ... Aku suka bermain dengan Klee karena aku merasa senang saat menghabiskan waktu bersamanya, sesederhana itu saja. Namun, ketika aku memberitahu Tante Alice, dia sangat gembira dan berkata akan memilihkan \"mainan besar\" khusus untukku ...."
+      },
+      {
+        "Title": "Tentang Albedo: Keluarga",
+        "Context": "Albedo telah membagikan banyak pengalamannya tentang menjadi manusia yang utuh kepadaku. Dia menjelaskan banyak masalah yang dihadapi manusia, seperti pekerjaan, cita-cita, kehidupan ... Beberapa hal ini terlalu sulit untuk aku pahami, bahkan ada yang terlalu sulit untuk kubayangkan.\nAku bisa pelan-pelan mempelajari masalah-masalah ini saat melewatinya, sebelum membuat pilihanku sendiri. Keluarga adalah satu-satunya hal yang tidak bisa dipilih oleh manusia. Aku tahu keluargaku rumit dan sangat tidak biasa, tapi dengan Albedo sebagai kakakku, aku merasa damai dan punya tempat untuk pulang. Dari segi ini, keluargaku tidak berbeda dengan kebanyakan orang."
+      },
+      {
+        "Title": "Tentang Albedo: Firasat",
+        "Context": "Albedo adalah \"manusia\" yang sempurna. Dia tahu banyak hal dan selalu bisa menangani semua masalah yang dihadapinya. Dia tulus dan ramah kepada orang-orang di sekitarnya. Tapi terkadang, aku merasa ada sisi lain dalam dirinya yang tak terduga. Seperti bagaimana dia mengambil tindakan tegas untuk mencapai tujuannya ... Aku tidak tahu dari mana firasat aneh ini berasal ... mungkin ini semacam resonansi antara \"spesies\" yang sama?"
+      },
+      {
+        "Title": "Tentang Wanderer: Teman",
+        "Context": "Setelah meninggalkan Simulanka, aku ikut Om Topi pergi ke Sumeru. Akademiya di sana besar dan indah sekali, bukunya juga banyak seperti gunung. Sekarang setelah aku mulai belajar membaca dan menulis, aku jadi mengerti pasti tidak mudah belajar di sana.\nBukan berarti tidak ada waktu saat orang-orang sedang libur dan datang ke Om Topi untuk main kartu, mengobrol, atau berbagi makanan enak. Seperti yang bertelinga besar itu, atau yang memakai topi dengan telinga yang lebih besar lagi, atau yang terlihat seperti anjing pemburu kecil .... Aku pernah bertanya pada Om Topi apakah mereka temannya. Dia selalu mengeluh karena mereka berisik sekali, tapi dia tidak pernah menyangkal persahabatan mereka."
+      },
+      {
+        "Title": "Tentang Wanderer: Resolusi",
+        "Context": "Kami punya beberapa kesamaan, dia dan aku ... dia selalu seperti tahu apa yang kupikirkan, dan membimbingku sebagai seseorang yang \"sudah melihat segalanya\". Setiap kali aku berkata pada orang lain, \"Jangan terlalu dekat\", sebenarnya aku ingin mereka menolak dengan tegas ... Itulah yang dilakukan Om Topi. Jadi bahkan ketika dia bilang ingin sendirian, bahkan ketika dia sengaja mencoba menghalangiku, aku selalu teguh ada di sisinya."
+      },
+      {
+        "Title": "Tentang Nilou",
+        "Context": "Saat aku di Sumeru, aku menyempatkan diri untuk mengunjungi Ibu Peri Nilou. Ah maaf, kebiasaan lama ... seharusnya aku memanggilnya Nona Nilou di dunia ini. Aku melihatnya menari di Grand Bazaar, dan dia memang cantik sekali seperti peri."
+      },
+      {
+        "Title": "Tentang Navia",
+        "Context": "Kalau ada kesempatan, aku ingin berterima kasih pada Raja Constellation Metropole. Eh, maksudku, Nona Navia. Aku penasaran apakah dia akan terkejut waktu melihat penampilanku sekarang? Menurutmu dia akan terima-terima saja? Wah, bagus deh!"
+      },
+      {
+        "Title": "Tentang Kirara",
+        "Context": "Kalau saja semua kucing di The Cat's Tail seperti Kirara, kurasa mereka tidak akan setakut itu saat melihatku ...."
+      },
+      {
+        "Title": "Tentang Venti",
+        "Context": "\"Sang penyair muda memetik senar dengan lembut, suaranya sejernih aliran sungai di pegunungan. Bukanlah sebuah lagu perang ataupun doa, melainkan bisikan bintang-bintang, angin yang berembus di antara pepohonan. Kelopak mata sang naga bergerak samar, api perlahan berderak di tenggorokannya.\"\nSuatu malam, saat tidak bisa tidur, aku berjalan-jalan di alam liar. Aku bertemu Barbatos yang juga sedang melakukan hal yang sama. Dia menyanyikan lagu ini untukku, dan aku sangat suka, aku lalu memastikan untuk mempelajarinya ...."
+      },
+      {
+        "Title": "Tentang Lisa",
+        "Context": "Setelah Nona Lisa memberikan PR untukku, dia mengharuskanku duduk di meja untuk mengerjakannya. Suatu aku hari sudah kelelahan, jadi aku mendirikan buku di atas meja agar tidak terlihat saat aku tidur diam-diam. Waktu aku bangun, dia sudah berdiri di sana sambil tersenyum. Aku langsung membeku. Tapi sebelum aku selesai meminta maaf, dia malah memujiku karena telah belajar pelajaran yang paling berharga ... Kurasa maksudnya adalah karena aku bersedia untuk mengakui kesalahan.\nOh, jadi menurutmu bukan itu yang dia maksud?"
+      },
+      {
+        "Title": "Tentang Klee",
+        "Context": "Albedo pernah bilang kalau dia menganggap Klee seperti adik perempuannya. Klee juga suka memanggilku Kak Durin. Kurasa secara teknis aku memang kakaknya, meski aku belum lama menjadi manusia ... tapi kalau bicara soal umur manusia, apa benar dia itu \"adik\"-ku? Hmm ...."
+      },
+      {
+        "Title": "Tentang Fischl",
+        "Context": "Aku jadi penasaran ... Waktu di Simulanka, aku merasa dia berbeda dari yang lain. Apakah dia sama sepertiku ... apakah dia juga berasal dari sebuah buku?"
+      },
+      {
+        "Title": "Tentang Diona",
+        "Context": "Dalam dongeng, siapa pun yang bisa membuat ramuan yang mempengaruhi hati dan pikiran serta memerintah kucing-kucing pasti adalah seorang penyihir yang hebat."
+      },
+      {
+        "Title": "Tentang Varka",
+        "Context": "Grand Master Varka berbeda dari kebanyakan kesatria Mondstadt. Dia kuat tapi tidak mengintimidasi ... dia membuat orang merasa tenang dan aman. Dia adalah tipe kesatria yang bisa bercanda sambil melawan Perburuan Liar. Meskipun kebanyakan leluconnya terlalu sulit kupahami ... Kamu mau tahu tentang lelucon yang aku mengerti? Yah, aku juga tidak dengar terlalu jelas, mungkin karena kata-katanya kurang jelas setelah dia minum ...."
+      },
+      {
+        "Title": "Mengenal Durin: I",
+        "Context": "Sebelum aku datang ke sini, sebagian besar waktuku kuhabiskan dalam cerita-cerita Ibu. Aku tidak pernah memeluknya atau merasakan kehangatan pelukannya, tapi suaranya yang lembut telah membimbingku melewati banyak kejadian ... baik suka maupun duka. Kalau kamu mau dengar cerita-ceritanya, aku akan membacakannya untukmu dengan senang hati."
+      },
+      {
+        "Title": "Mengenal Durin: II",
+        "Context": "Aku dengar kalau sedang berbicara dengan orang lain, sebaiknya menatap mata mereka. Tapi aku juga dengar kalau menatap terlalu lama itu tidak sopan. Aku mencoba untuk sering berkedip saat berbicara, atau menutup satu mata secara bergantian, tapi semua orang menyuruhku untuk mencari Nona Barbara dan memeriksa mataku ....\nSepertinya aturan bersosialisasi di dunia ini memang sulit sekali untuk diikuti ...."
+      },
+      {
+        "Title": "Mengenal Durin: III",
+        "Context": "Selama beberapa saat, aku bisa mendengar suara aneh di dalam hatiku yang membuatku mempertanyakan apakah aku benar-benar diriku sendiri .... Ada darah naga yang mengalir dalam tubuhku, apakah para manusia akan takut padaku karena ini? Ada suatu kali, aku bermimpi semua figur mainan di Constellation Metropole melempariku dengan batu. Ketika aku terbangun, aku dikelilingi oleh hujan konfeti ... teman-temanku di Mondstadt memutuskan untuk mengadakan pesta kejutan ulang tahun untukku .... Pada saat itulah aku sadar bahwa suara aneh di dalam hatiku bukanlah pengaruh naga, melainkan keraguan diriku sendiri ....\nAku tidak akan pernah melupakan momen itu ... cahaya dari lilin di atas kueku menerangi senyuman teman-temanku ... Saat itulah aku berhasil keluar dari kabut ketidakpastian."
+      },
+      {
+        "Title": "Mengenal Durin: IV",
+        "Context": "Sebelum berangkat ke Nod-Krai, Master Jean dan Albedo memperingatkanku bahwa kami akan memulai perjalanan yang sangat berbahaya ... bahwa apa pun yang akan kami hadapi mungkin jauh lebih serius dari yang bisa kubayangkan. Mereka menghormati pilihanku, mereka hanya ingin aku mempertimbangkan semuanya dengan matang sebelum bergabung dengan mereka. Tapi ketika aku mendengar kamu dalam bahaya, aku langsung meminta mereka untuk mengizinkanku bergabung.\nSetelah melihat Perburuan Liar dari dekat, aku baru mengerti apa itu bahaya yang sebenarnya. Semuanya jauh lebih mengerikan dari yang kubayangkan tentang tanah yang runtuh di bawah kaki, atau Toytanium Mines yang ambruk.\nTidak, aku tidak menyesali keputusanku. Tapi aku khawatir kalau aku tidak bisa membantu. Hal itu membuatku gelisah, aku yakin kamu juga menyadarinya. Untungnya, semuanya berakhir dengan baik, dan sekarang aku bisa dengan lega menerima pujian dari semua orang."
+      },
+      {
+        "Title": "Mengenal Durin: V",
+        "Context": "Menurutku manusia itu seperti disatukan dari bagian-bagian orang lain ... Bukan dalam artian susunan alkimia, tapi lebih seperti ... seperti bagaimana aku mengingat hal-hal yang dikatakan teman-temanku, atau bagaimana aku menyukai restoran yang kita kunjungi bersama, atau bagaimana kamu memberiku inspirasi untuk berkeliling dunia .... Alasan aku menjadi diriku yang sekarang, adalah karena aku telah menyerap semua pengaruh dari orang lain.\nDan sekarang aku juga ingin menjadi bagian dari hati orang lain."
+      },
+      {
+        "Title": "Hobi Durin",
+        "Context": "Sekarang, semua yang ada di Mondstadt terasa baru bagiku, dan aku ingin mencoba semuanya. A-Anggur? Ti-Tidak deh, aku tidak boleh minum anggur .... Setidaknya, belum boleh."
+      },
+      {
+        "Title": "Kekhawatiran Durin",
+        "Context": "Hewan-hewan di Teyvat tidak terbuat dari kertas origami, dan aku sudah tidak punya cakar tajam ... jadi kukira sudah bisa membelai mereka sekarang, tapi mereka malah kabur setiap kali kudekati ...."
+      },
+      {
+        "Title": "Makanan Favorit",
+        "Context": "Aku suka makan daging ... yang potongannya besar-besar. Tapi sementara ini, aku butuh waktu untuk menghabiskannya. Aku masih agak kesulitan memakai pisau dan garpu ... aku selalu lupa yang mana untuk memotong ...."
+      },
+      {
+        "Title": "Makanan yang Tidak Disukai",
+        "Context": "Permisi, aku boleh minta porsi sayurannya dibuat lebih sedikit? Atau mungkin tanpa sayur sama sekali?"
+      },
+      {
+        "Title": "Menerima Hadiah: I",
+        "Context": "Alat makan apa yang harus kugunakan untuk ini? Aku boleh makan langsung dengan tangan?"
+      },
+      {
+        "Title": "Menerima Hadiah: II",
+        "Context": "Terima kasih. Norma sosial menuntut adanya timbal balik, jadi izinkan aku mentraktirmu minum."
+      },
+      {
+        "Title": "Menerima Hadiah: III",
+        "Context": "Maaf, sepertinya lidahku bermasalah .... Biar kucoba lagi .... Gawat, benar-benar ada masalah dengan indera perasaku!"
+      },
+      {
+        "Title": "Ulang Tahun",
+        "Context": "Rasanya ulang tahunmu datangnya cepat sekali! Maaf ya, aku terus kepikiran detail yang baru mau ditambahkan, jadi masih belum selesai ....\nIni perahu origami yang kubuat untukmu ... hewan-hewan kertas di atasnya adalah teman-teman kita. Dan orang yang berdiri di haluan ini, yang belum sempat kuwarnai, adalah kamu. Dalam pikiranku, kamu seperti seorang nahkoda yang memancarkan cahaya keemasan .... Bisa bantu aku mewarnaimu dengan warna emas?\nOh, aku hampir lupa ... kapal ini namanya \"The Traveler.\" Semoga kamu bisa terus berlayar maju bersama teman-temanmu! Selamat ulang tahun!"
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Permulaan",
+        "Context": "Sebuah legenda bercerita tentang naga jahat yang menimbun permata berkilauan di balik jendela-jendela tinggi sebuah kastil."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Persiapan",
+        "Context": "Seorang pahlawan pengembara mendaki benteng, dan menemukan sang naga dengan sisik-sisiknya yang diselimuti debu bintang. Ia sedang mendorong pecahan bintang jatuh dengan mulutnya, seolah membantu roh-roh bintang yang tersesat kembali ke jalurnya."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Klimaks",
+        "Context": "*klang* Sang pahlawan menjatuhkan pedangnya dan berbicara dengan telapak tangan terbuka, \"Aku datang dari balik bintang-bintang, izinkan aku membantumu\"."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Konklusi",
+        "Context": "Sejak hari itu, jendela-jendela di atas sana bersinar sepanjang malam, saat sang naga memandu sang pahlawan untuk berkeliling di tepian kosmos. Cahaya bintang menjadi jubah mereka, dan persahabatan menjadi kompas yang menuntun jalan mereka."
+      },
+      {
+        "Title": "Elemental Skill: I",
+        "Context": "Awas!"
+      },
+      {
+        "Title": "Elemental Skill: II",
+        "Context": "Hati-hati!"
+      },
+      {
+        "Title": "Elemental Skill: III",
+        "Context": "Serahkan saja padaku!"
+      },
+      {
+        "Title": "Elemental Skill: IV",
+        "Context": "Mundur!"
+      },
+      {
+        "Title": "Elemental Skill: V",
+        "Context": "Hancur!"
+      },
+      {
+        "Title": "Elemental Skill: VI",
+        "Context": "Cakar pemangsa!"
+      },
+      {
+        "Title": "Elemental Burst: I",
+        "Context": "Cerita ini baru saja dimulai."
+      },
+      {
+        "Title": "Elemental Burst: II",
+        "Context": "Membusuk .... jadi kehidupan baru."
+      },
+      {
+        "Title": "Elemental Burst: III",
+        "Context": "Titik balik takdir."
+      },
+      {
+        "Title": "Elemental Burst: IV",
+        "Context": "Jangan mendekat!"
+      },
+      {
+        "Title": "Elemental Burst: V",
+        "Context": "Bayangan membara dari Abyss."
+      },
+      {
+        "Title": "Elemental Burst: VI",
+        "Context": "Ratapan untuk akhir."
+      },
+      {
+        "Title": "Membuka Peti Harta: I",
+        "Context": "Mendebarkan sekali ... seperti sedang membuka hadiah ...."
+      },
+      {
+        "Title": "Membuka Peti Harta: II",
+        "Context": "Bagaimana cara memakainya?"
+      },
+      {
+        "Title": "Membuka Peti Harta: III",
+        "Context": "Aku belum pernah melihat ini sebelumnya ... Menarik."
+      },
+      {
+        "Title": "HP Rendah: I",
+        "Context": "Aku masih bisa bertahan."
+      },
+      {
+        "Title": "HP Rendah: II",
+        "Context": "Tenagaku masih banyak."
+      },
+      {
+        "Title": "HP Rendah: III",
+        "Context": "Tidak ... masih belum!"
+      },
+      {
+        "Title": "HP Rekan Rendah: I",
+        "Context": "Sekarang giliranku untuk melindungimu."
+      },
+      {
+        "Title": "HP Rekan Rendah: II",
+        "Context": "Percayalah padaku."
+      },
+      {
+        "Title": "Gugur: I",
+        "Context": "Apakah ini ... akhir cerita yang bagus?"
+      },
+      {
+        "Title": "Gugur: II",
+        "Context": "Maaf ...."
+      },
+      {
+        "Title": "Gugur: III",
+        "Context": "Apa aku akan menjadi bintang ... di langit ...?"
+      },
+      {
+        "Title": "Menerima Serangan Ringan: I",
+        "Context": "Hentikan."
+      },
+      {
+        "Title": "Menerima Serangan Ringan: II",
+        "Context": "Tidak."
+      },
+      {
+        "Title": "Menerima Serangan Hebat: I",
+        "Context": "Konyol!"
+      },
+      {
+        "Title": "Menerima Serangan Hebat: II",
+        "Context": "Jangan begitu!"
+      },
+      {
+        "Title": "Bergabung ke Party: I",
+        "Context": "Halo semuanya, namaku Durin."
+      },
+      {
+        "Title": "Bergabung ke Party: II",
+        "Context": "Aku akan ada tepat di belakangmu."
+      },
+      {
+        "Title": "Bergabung ke Party: III",
+        "Context": "Meningkatkan kekuatan? Aku akan berusaha sekuatku!"
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Info Karakter",
+        "Context": "Setelah Festival Windblume, muncul seorang pemuda dengan tanduk dan sayap di Mondstadt. Jean selaku Kapten, memberi tahu semua orang bahwa pemuda ini sebenarnya adalah seekor naga yang mendapatkan wujud sekarang melalui sihir alkimia, dan sedang berusaha belajar untuk hidup sebagai manusia.\nSeekor naga yang berubah menjadi seorang manusia muda tidak cukup menggemparkan penduduk, karena sudah sangat banyak dongeng yang terlahir di Mondstadt ini. Yang benar-benar memicu diskusi orang-orang adalah nama pemuda itu ... \"Durin\".\nSetiap kali nama itu disebut, orang-orang akan secara spontan memandang ke arah Dragonspine. Di tempat peristirahatan tulang naga raksasa itu, salju yang putih telah mengubur sebuah bencana masa lalu. Bagi sebagian besar penduduk Mondstadt, nama itu hanya membangkitkan kenangan yang tidak menyenangkan.\nNamun, karena adanya jaminan dari Master Jean dan Knights of Favonius, Durin akhirnya menjadi salah satu penduduk Mondstadt.\nSetiap hari setelahnya, orang-orang melihat Durin berkeliling di berbagai tempat di Mondstadt. Mereka segera menyadari bahwa dalam proses berinteraksi, sebenarnya Durin yang lebih gugup. Dia sangat penasaran dengan penduduk kota ini, tapi biasanya hanya memperhatikan dari jauh, tidak berani mendekat. Bagaimanapun juga, sosok pemuda ini sama sekali tidak seperti situasi berbahaya yang ada di benak semua orang.\nLama-kelamaan, warga mulai menerima keberadaan Durin dan melanjutkan kehidupan mereka seperti biasa. Ketika mereka menyebut nama \"Durin\", banyak yang tidak lagi memandang ke arah Dragonspine, melainkan teringat akan sosok pemuda yang lembut. Dia sering terlihat di depan toko Floral Whisper, dengan malu-malu bertanya pada Flora tentang bunga mana yang cocok untuk diberikan kepada teman. Dia juga sering berhenti di depan Good Hunter, dengan rasa bersalah bertanya cara menghindari daging terlalu gosong ... Pemandangan seperti ini perlahan-lahan menggantikan bayangan bencana di benak mereka, dan orang-orang tidak lagi takut dengan nama \"Durin\".\nPerasaan ini sangat luar biasa, seperti menulis ulang sebuah cerita yang tidak indah dari awal."
+      },
+      {
+        "Title": "Kisah Karakter 1",
+        "Context": "Kamu pernah dengar cerita tentang \"Durin\"?\nAdventurers' Guild telah melakukan penelitian dan terjun ke lapangan untuk mempelajari catatan sejarah yang tersebar di warga Mondstadt, dan sekarang mereka bisa memberikan jawaban yang cukup detail. Ratusan tahun yang lalu, saat bencana dari Khaenri'ah terjadi, seekor naga jahat bernama Durin menyerang Mondstadt bersama dengan monster-monster Abyss. Keberadaannya sendiri sudah merupakan bencana, hembusan napasnya saja bisa mengubah dataran di bawahnya menjadi tanah gersang. Di bawah bimbingan Archon Anemo Barbatos, abdi Dvalin bertarung melawan Durin di atas pegunungan salju. Pada akhirnya, Dvalin berhasil merobek leher Durin dan mengalahkan naga jahat tersebut. Namun Dvalin juga terkena racun dari darah Durin, sampai beberapa waktu lalu ....\nSingkatnya, ini adalah sebuah cerita yang sangat tragis.\nDan tidak lama setelah bencana itu berakhir, para penyair di Mondstadt menyebarkan sebuah puisi yang berbunyi seperti ini ....\n\"Ibu, aku datang ke tempat ini sesuai pesanmu, untuk memperlihatkan keindahanku pada semua orang.\"\n\"Bunga-bunga di sini sangat wangi, anginnya juga begitu lembut. Aku berlari melawan angin, dan bunga-bunga pun mekar semakin indah.\"\n\"Kupu-kupu terbang mengelilingiku, seolah mengagumi keindahanku. Tapi begitu aku mengulurkan tangan, mereka akan menghindar.\"\n\"Tapi dia yang cantik malah mendekatiku, seakan mengundangku untuk berdansa.\"\n\"Aku menerima undangannya, dan kami berdansa bersama. Angin meniup kelopak bunga, menghiasi tarian kami berdua.\"\n\"Ibu, sepertinya aku sudah berhasil mendapat teman baru ....\"\nYang anehnya, entah atas perintah siapa, Knights of Favonius dengan cepat melacak kumpulan puisi tersebut, lalu menghapus namanya dan memasukkannya ke dalam daftar buku terlarang.\nOrang-orang pada masa itu tidak mengerti alasan Knights of Favonius berbuat demikian. Namun, jika kamu memiliki minat yang sangat besar terhadap kisah \"Durin\" dan berusaha menggali lebih dalam, kamu mungkin akan menemukan informasi seperti ini dalam catatan eksperimen seorang ahli alkimia. Kesadaran \"Durin\" berasal dari langit yang tinggi, menyatu dengan tubuh naga jahat itu melalui alkimia. Setelah terinfeksi oleh energi Abyss, semua yang dia lihat dan dengar sangat berbeda dari makhluk hidup normal. Karena itu, hingga ajalnya, dia tidak punya pilihan selain menjadi perwujudan dari bencana, dan mungkin juga tidak bisa memahami kekejaman yang ada di hadapannya.\nJadi, puisi itu mungkin menggambarkan kisah \"Durin\" dari sudut pandangnya sendiri ....\nSeorang penyihir yang kebetulan mengetahui semua ini tak kuasa menahan rasa kecewanya ... bagaimana jika jiwa yang bernama \"Durin\" berhasil lepas dari kutukan Abyss, dan akhirnya benar-benar berteman dengan Dvalin, mungkin akhir cerita ini akan berbeda?\nMungkin untuk menebus penyesalannya, sang penyihir mulai menulis cerita baru. Dan nama tokoh utamanya adalah \"Durin\"."
+      },
+      {
+        "Title": "Kisah Karakter 2",
+        "Context": "Saat pertama kali tiba di Mondstadt, Durin selalu suka menghindari tempat yang ramai, bagaikan warna yang terpisah di luar kanvas, sangat mencolok, tetapi tidak bisa membentuk pemandangan yang berarti. Durin terjebak dalam warna yang membeku ini, tidak bisa mendapatkan teman baru, dan tidak bisa memulai ceritanya sendiri.\nSaat itu, Lisa baru saja menerima misi dari Jean untuk menjadi guru Durin. Dia melihat semua itu dengan jelas dan menyadari bahwa Durin sebenarnya tidak suka menyendiri. Dia jelas ingin berteman dengan yang lain, tapi selalu ragu untuk melangkah. Ketika Lisa bertanya, Durin akhirnya mau berbagi apa yang mengganggu pikirannya.\n\"Aku tidak tahu bagaimana cara berinteraksi dengan orang lain ....\"\n\"Memang benar, belajar cara interaksi dengan orang lain itu syarat utama untuk berteman. Tapi, hal seperti itu tidak bisa diajarkan di dalam kelas.\"\nKarena itu, Lisa memberi Durin tugas di luar kelas, keluar dari ruangan dan belajar cara bersosialisasi dengan manusia dari penduduk Mondstadt. Dengan adanya permintaan dari gurunya, sebagian besar keraguan Durin pun hilang, dan akhirnya dia keluar dari ruangannya, sama seperti saat dia keluar dari gua tempat dia bersembunyi dulu.\nPilihan pertama Durin untuk meminta saran adalah Albedo, karena di matanya, Albedo adalah seorang jenius yang tahu segalanya. Namun, ketika membahas soal \"cara berinteraksi dengan manusia\", Albedo memandang sekeliling laboratorium alkimianya yang terpencil dan padang salju yang jarang dilalui orang di sekitarnya, lalu setelah berpikir sejenak ... dia menyarankan Durin untuk mencari orang lain yang lebih cocok untuk dimintai saran.\nDurin kemudian teringat pada Klee yang sepertinya bisa berteman dengan siapa saja. Dia pasti punya kemampuan sosial yang sangat efektif. Jawaban yang Klee berikan adalah mengajak orang memancing ikan dengan bom. Menurutnya, kalau dua orang sudah pernah memancing ikan dengan bom bersama, pasti mereka sudah jadi teman seperjuangan. Durin baru paham maksud perkataan Klee setelah mereka dikurung di Ruang Tahanan oleh Jean.\nDurin juga mempertimbangkan untuk meminta bantuan kepada Dahlia dan Kaeya, karena yang satu adalah Diakon gereja yang pandai mendengarkan, dan yang satu lagi adalah Cavalry Captain yang suka membantu. Setelah mendengar cerita Durin, mereka berdua langsung setuju dan mengajak Durin ke Angel's Share. Setelah itu, Durin yang canggung melihat orang-orang di kedai mengangkat gelas sambil bernyanyi, tertawa, dan minum bersama. Di Mondstadt, ini jelas merupakan \"cara sosialisasi ala manusia\". Namun, Durin yang hanya mencium aroma minuman keras di meja bar saja sudah hampir pingsan, untungnya pemilik kedai yang tenang itu segera mengganti minumannya dengan jus. Cara sosialisasi seperti ini, sepertinya belum bisa dia kuasai.\nTapi, setidaknya ini memberi Durin sebuah ide. Dia mencoba pergi ke kedai lainnya, tapi yang tanpa keramaian atau aroma alkohol yang membuatnya pusing. Semua orang bersosialisasi lewat permainan kartu bernama \"Genius Invokation TCG\". Namun, sebelum dia sempat mendapat lawan mainnya, dia dikepung oleh sekumpulan kucing kecil dan baru bisa kabur setelah Diona turun tangan ....\nBeberapa hari berlalu begitu saja. Meskipun Durin sudah mencoba berulang kali, dia tetap gagal mempelajari cara bersosialisasi yang tepat dan tidak bisa menyelesaikan tugas tambahan dari Lisa.\nTapi saat melaporkan hasilnya, Lisa tidak menyalahkan Durin.\n\"Anggap saja ini tugas tambahan jangka panjang. Kalau kamu sudah merasa bisa menyelesaikannya sendiri, baru datang lagi untuk dinilai.\"\n\"Oh ya? Terima kasih, Guru!\"\nLisa bukan dengan sengaja menurunkan standarnya. Dia melihat bahwa Durin sekarang bukan lagi sekadar warna yang terisolasi di luar lukisan. Albedo telah memasang peralatan penghangat tambahan di bengkel alkimia di gunung salju, terkadang ada kursi tambahan di Ruang Tahanan Knights of Favonius, Angel's Share punya kursi bar khusus untuk menyajikan jus, dan terkadang ada meja kartu yang khusus dipasang di luar Cat's Tail ... Sebenarnya, tidak ada bentuk tetap dalam interaksi antar manusia. Setiap orang, dengan keunikannya masing-masing, akan saling bertabrakan dan akhirnya menemukan tempat yang paling cocok. Tanpa disadari, Durin telah berbaur dalam lukisan itu. Meskipun masih memiliki warna yang berbeda, setidaknya dia telah menciptakan banyak pemandangan yang menarik. Orang-orang yang muncul dalam pemandangan ini adalah teman-temannya, baik sekarang maupun di masa depan. Dan hal-hal yang terjadi dalam pemandangan ini adalah cerita miliknya.\nKetika dia sudah paham soal itu, tugas ini pun akan selesai dengan sendirinya."
+      },
+      {
+        "Title": "Kisah Karakter 3",
+        "Context": "Saat pertama kali Durin tiba di Teyvat, Sumeru adalah tempat pertama yang dia kunjungi. Saat itu, dia belum mendapatkan tubuh manusia dan dipanggil \"Mini Durin\". Keberadaannya yang unik tidak jarang menarik perhatian pembuat onar atau penjahat. Untungnya, Om Topi tidak hanya menjadi pemandu, tapi juga sebagai pengawalnya. Hanya dengan ekspresi muramnya saja sudah cukup untuk mengusir sebagian besar pembuat onar, sedangkan para tentara bayaran yang disewa oleh pedagang ilegal untuk menangkap makhluk langka, bahkan hampir tidak bisa bertahan satu ronde pun melawannya.\nBagi Durin, masa itu terasa ringan dan menyenangkan. Sebenarnya, Teyvat memang tidak setenang dan seindah Simulanka, tapi Durin sangat menyukai dunia barunya ini.\nNamun, satu-satunya kekhawatiran yang ada di hati Durin setelah tiba di dunia baru justru berasal dari Om Topi.\nSebagai seekor naga dari dongeng, Durin memandang setiap orang sebagai sebuah \"cerita\" yang unik. Saat tinggal di Sumeru City bersama Om Topi, Durin beruntung bisa membaca banyak cerita, seperti \"Hutan Hujan, Jamur, Perawatan Ekor, dan Telinga Besar\", \"Akademiya, Lelucon yang Tidak Dipahami Naga, Genius Invokation TCG, dan Telinga Besar di Topi\". Ketika sesekali pergi ke padang pasir, Durin juga punya kesempatan membaca \"Gurun Pasir, Permainan Kejar-kejaran, dan Wolfy\" ....\nNamun, setiap kali Durin melihat Om Topi yang sudah paling lama bersamanya, dia tidak bisa melihat \"cerita\" apa pun.\nDurin akhirnya tidak memilih untuk mengungkapkan keraguannya kepada Om Topi, dia merasa mungkin karena waktu yang dia habiskan bersama Om Topi masih belum cukup. Karena itu dia terus mengikuti Om Topi, berharap bisa menemukan cerita yang dimiliki Om Topi. Namun tidak lama kemudian, Om Topi malah mengusulkan untuk mengakhiri perjalanan kali ini.\n\"Sudah waktunya, kamu juga sebaiknya mengganggu orang lain saja, atau kembali ke dunia dongeng itu.\"\n\"Tidak bisa, aku belum tahu cerita Om Topi!\"\nDurin memilih untuk menolak dengan tegas. Meski nada bicara Om Topi seperti biasa membuat orang mengerutkan kening, tapi Durin bisa melihat kalau Om Topi bukan sedang mengusirnya. Alasan sebenarnya Om Topi ingin Durin pergi ... sepertinya tersembunyi dalam ceritanya yang belum Durin ketahui.\nKalau orang lain, mungkin Om Topi akan berbalik dan langsung pergi begitu saja, tapi dia bisa melihat tekad yang kuat di mata Durin. Sejak Durin ingin ikut berkelana bersamanya ke Teyvat, dia tidak pernah berhasil menolak permintaan Durin. Dan kali ini pun, akhirnya dia memilih untuk mengalah.\n\"Durin, kamu mau meninggalkan ceritamu di dunia ini?\"\n\"Meninggalkan ceritaku di dunia ini ....\"\n\"Ini mungkin akan jadi keputusan yang sangat penting, tapi kalau kamu terus di sisiku, seberapa banyak yang bisa kamu pelajari tentang dunia ini? Karena itu, aku harap kamu bisa pergi ke lebih jauh, melihat keindahan dunia ini, juga melihat sisi buruknya, baru setelah itu membuat keputusan.\"\n\"Um ... tapi, cerita Om Topi ....\"\n\"Kalau kamu memang sudah memutuskan untuk meninggalkan ceritamu, mungkin aku akan jadi bagian dari cerita itu. Kamu cukup ingat bagianku saja, karena bagi kamu, itu sudah jadi ceritaku.\"\nDurin berpikir lama, ini pertama kalinya dia melihat Om Topi berbicara ke orang lain dengan nada seperti ini, dengan dorongan semangat, bahkan ada sedikit permohonan yang nyaris tidak terasa.\nDurin akhirnya menerima saran dari Om Topi."
+      },
+      {
+        "Title": "Kisah Karakter 4",
+        "Context": "Sebelum semua orang memberkati dan menyelamatkan Durin yang terkena kutukan, dia menghabiskan sebagian besar waktunya di Simulanka terkurung dalam tambang, tersiksa oleh kesepian dan keputusasaan. Namun, Durin sempat menikmati masa-masa bahagia ketika pertama kali tiba di Simulanka. Saat itu, ibunya Anya \"Marie\" Andersdotter, masih hidup.\nSaat itu, Simulanka masih dalam tahap pembangunan. Di sela-sela pekerjaannya, ibunya sering mengajak Durin berkeliling ke berbagai tempat di Simulanka.\nSelama perjalanan, Durin sering melihat ibunya dan kedua tantenya berdiskusi tentang bagaimana menata pemandangan. Mereka sering berdiskusi tentang \"makhluk apa saja yang ada di dunia tempat naga tinggal\", dan selama diskusi yang seru itu mereka menjelajahi lembah, memasang rel, dan membangun kastil ....\nTerkadang ibu dan tantenya juga berselisih paham, tantenya berwarna merah suka menambahkan elemen-elemen yang mendebarkan, seperti berbagai macam bom. Sementara ibu selalu khawatir, dia menyayangi penduduk Simulanka seperti anaknya sendiri, dan tidak ingin tempat tinggal mereka berubah jadi reruntuhan karena percobaan yang terlalu ekstrem. Tapi, perdebatan seperti itu tidak berlangsung lama. Tante berwarna merah dengan cepat mendesain ulang elemen-elemen tersebut dengan ide-ide cemerlang, yang tidak hanya menghilangkan keraguan ibu, tapi juga membuat dunia ini menjadi lebih menarik.\nSaat itu, cerita Simulanka masih belum selesai, ibu kadang berhenti menulis untuk memikirkan kelanjutannya.\nSetiap kali ibu berhenti menulis, tante berwarna biru muda akan datang berkunjung, membawa cangkir teh yang cantik dan camilan yang lezat. Dia dan ibu membicarakan hal-hal yang dalam dan jauh, dari sore yang menyenangkan hingga malam yang sunyi, dari bintang-bintang di langit hingga masa depan Simulanka ....\nSaat berdiskusi, tante berwarna biru muda itu sering memandangi sisik baru yang tumbuh di tubuh Durin dengan tatapan yang rumit, dan tatapan itu membuat Durin tidak nyaman. Tapi karena kue yang dibawa tante itu enak, Durin tidak keberatan dengan kedatangannya.\nDi waktu lainnya, ibu selalu sibuk menulis, sementara Durin dengan tenang menunggu di sampingnya, berulang kali tertidur mendengarkan suara ibunya menulis ... Durin mengira saat-saat seperti ini akan terus berlanjut, sampai suatu hari, ibunya tiba-tiba meletakkan penanya, sepertinya telah selesai dengan karyanya.\n\"Anakku, ikuti aku, temani aku jalan-jalan sebentar.\"\nSang ibu membimbing Durin ke sebuah halaman yang melayang di angkasa. Dia menatap ke arah cakrawala, lalu mengulurkan tangannya seolah sedang membelai tepi halaman buku.\n\"Anakku, kalau ada kesempatan, kamu pernah berpikir untuk pergi dari dunia ini dan melihat dunia luar?\"\n\"Aku benar-benar bisa keluar dari dunia ini?\"\n\"Tentu saja bisa, Tante Alice sangat hebat. Dia sudah membuktikan padaku kalau sihirnya bisa melakukannya.\"\n\"Hm ... apa yang akan terjadi padaku setelah aku pergi dari dunia ini?\"\n\"Aku tidak tahu apa yang terjadi setelah itu, karena semua itu terjadi setelah 'akhir ceritaku' ... Tapi, 'pergi ke tempat jauh' adalah ungkapan yang sangat menarik. Ada banyak cerita yang menjadikannya sebagai akhir, tapi ada juga banyak cerita yang menjadikannya sebagai awal. Durin, ibu ingin kamu melakukan sesuatu. Jika nanti kamu punya kesempatan, cobalah untuk pergi dari Simulanka, pergi ke tempat yang jauh.\"\n\"Tentu saja, kamu mungkin akan menghadapi banyak kesulitan, tapi jangan khawatir, sihir Tante Alice akan membantumu, dan ibu juga akan mendoakanmu.\"\nDurin sadar kalau ibunya sepertinya ingin meninggalkan pesan yang sangat penting, jadi Durin mengangguk dengan serius sebagai tanggapan atas harapan ibunya.\n\"Kalau begitu, bagian terpenting dari tulisan yang perlu kutinggalkan sudah selesai ....\"\nSetelah itu, Durin melihat ibunya menatap matahari terbenam di kejauhan. Perasaan yang terpancar dari kedua matanya seperti langit senja yang terpantul di sana ... Awalnya berupa rasa enggan yang menggebu dan mendalam, lalu perlahan berubah menjadi kehangatan yang lembut, hingga akhirnya melebur ke dalam kegelapan malam.\nTak lama kemudian, \"takdir\" Simulanka mulai berputar, hewan-hewan origami dari Forest of Blessings dan orang-orangan mainan dari Constellation Metropole memulai kisah mereka yang dirajut oleh ketiga dewi.\nDan ibu Durin juga telah pergi meninggalkan dunia, mengakhiri masa-masa bahagianya untuk sementara."
+      },
+      {
+        "Title": "Kisah Karakter 5",
+        "Context": "Dibawa angin yang dihadiahkan oleh Venti, Durin berhasil mengejar Dvalin dan terbang bersama ke langit Windrise. Dan kisah yang ditulis oleh sang penyihir akhirnya mencapai bab yang telah dia dambakan.\nBerdiri di samping meja panjang tempat para penyihir berkumpul, Alice memandang sosok Durin yang menjauh. Pikirannya tiba-tiba kembali ke acara minum teh para penyihir bertahun-tahun yang lalu. Saat itu, langka sekali ketujuh penyihir bisa berkumpul, Alice sangat senang dan tiba-tiba ingin mengajak semua orang bermain permainan sambung cerita, tapi dia kesulitan memilih topik. Dia lalu meminta bantuan Anya, seorang penulis, dan jawaban darinya adalah \"Api yang Tak Pernah Padam\".\n\"Kalau ada kesempatan, aku ingin meninggalkan sebuah cerita tentang 'Api yang Tak Pernah Padam'. Itu adalah pencapaian terbesar yang bisa kubayangkan sebagai seorang penulis.\"\n\"'Api yang Tak Pernah Padam'? Maksudnya apa itu?\"\n\"Untuk pertanyaan itu, mungkin kita masing-masing punya jawaban sendiri, dan itu cocok jadi tema untuk cerita bersambung, bukan? Aku sendiri juga masih mencari jawabanku.\"\nAnya tidak menjawab secara langsung, seperti yang sering dia lakukan dalam karyanya sendiri, membuat Alice penuh dengan rasa penasaran.\n\"Baiklah, tema ini saja! Setelah ini, setiap kali kita berkumpul, yang mendapat giliran harus menyampaikan bagian cerita yang menjadi tanggung jawabnya. Hm ... untuk bagian akhir cerita, aku serahkan pada Anya ... Saat cerita ini berakhir, aku yakin kamu sudah bisa memberikan jawabanmu.\"\nPermainan cerita berantai ini pun dimulai, Alice dengan sukarela memulai ceritanya. Seorang penyihir kecil yang memulai perjalanannya untuk mencari \"Api yang Tak Pernah Padam\" demi menyelesaikan ujian dari penyihir tua ....\nNamun, Alice tidak menyangka bahwa saat para penyihir berkumpul kembali, Anya sudah terbaring di dalam peti mati, tertidur untuk selamanya. Alice tidak memperhitungkan dampak jarak waktu antara setiap pertemuan mereka terhadap Anya yang hanya manusia biasa. Saat Alice masih menantikan cerita berikutnya, Anya sudah semakin menua. Pada akhirnya, ketika cerita baru mencapai jilid kelima, Anya sudah meninggal dunia.\nCerita yang dimulai oleh Alice ini sempat melenceng jauh di jilid kedua yang ditulis Barbeloth dan jilid ketiga yang ditulis Rhinedottir, tapi untungnya masih bisa diselamatkan sedikit di jilid keempat yang ditulis Ivanovna. Namun, di jilid kelima yang ditulis Nicole, cerita itu harus diakhiri tiba-tiba dengan satu kalimat. Alice sangat tidak senang, dia merasa tidak akan pernah bisa tahu jawaban yang sudah disiapkan Anya.\nNamun Octavia membawa perubahan. Kepergian Anya memang menandai pengurangan anggota pertama sejak berdirinya Hexenzirkel, karena itu dia yang paling sering absen pun ikut hadir dalam pertemuan kali ini, dan membawa jilid keenam yang sudah selesai ditulis. Dalam cerita tersebut, sang penyihir kecil mendapatkan kesempatan lagi untuk kembali ke sisi sang penyihir tua.\n\"'Api yang Tak Pernah Padam' mungkin benar ada.\"\nSetelah diingatkan oleh Octavia, Alice memperhatikan karya terakhir yang ditinggalkan Anya, dunia bernama \"Simulanka\" yang mereka ciptakan bersama. Di dunia ini, seekor naga bernama Durin sedang menunggu keajaiban masa depan dalam kegelisahan dan kebimbangan. Kemungkinan yang ditinggalkan Anya padanya, seperti misteri yang dia tinggalkan dalam karya-karyanya yang lain, membara seperti nyala api yang berkelap-kelip, menerangi dunia dalam cerita dan menggugah rasa penasaran Alice. Saat menatap api itu, Alice teringat akan janji yang pernah dia buat dengan Anya.\n\"Sepertinya, akhir cerita yang seharusnya dia selesaikan, akulah yang akan menyelesaikannya.\"\nWaktu terus berlalu, dan Alice mulai sering memperhatikan naga tersebut. Dia mengamati anak yang menanggung nama naga jahat itu, melihatnya mendapatkan berkah dari semua orang dan keluar dari dunia dongeng, lalu melihatnya berhasil mendapatkan teman dan membangun hubungan dengan dunia di luar dongeng. Dia juga melihat anak itu bersama teman-temannya menghadapi dan mengalahkan takdir, hingga akhirnya dia berhasil mengubah kisah Durin si Naga Jahat dan terbang ke langit bersama Dvalin ....\nSetelah tersadar dari lamunannya, Alice menyadari bahwa dia akhirnya mendapatkan jawaban dari Anya.\n\"Anya, seperti yang aku tulis di akhir cerita berantai itu, aku selalu merasa kalau kamu penyihir yang paling kuat di antara kita.\"\n\"Kamu selalu bilang tidak bisa meninggalkan apa pun, tapi aku sudah lihat, 'Api yang Tak Pernah Padam' yang kamu tinggalkan.\""
+      },
+      {
+        "Title": "Jantung Naga",
+        "Context": "Pakaian sehari-hari Durin berasal dari pengalaman yang sangat ajaib. Meski tidak ada bukti langsung, Durin selalu percaya bahwa pakaian ini adalah hadiah dari ibunya, Anya, dengan menggunakan semacam sihir ajaib. Lagi pula, semua elemen yang ada di pakaian ini sangat familiar bagi Durin, semuanya bisa ditemukan dalam karya-karya ibunya. Ibunya jelas sangat menyayangi Durin, itulah sebabnya dia mendandaninya seperti pangeran dalam dongeng.\nNamun, masih ada satu elemen di pakaian ini yang tidak dikenal Durin ... permata berbentuk hati yang mencolok di bagian kerah. Tetapi, mengingat proses kelahirannya kembali dan hiasan kunci di permata itu, Durin bisa menebak arti dari permata berbentuk hati itu, yaitu jantung naga jahat yang menyatu dengan Durin, dan tubuh Durin sekarang adalah penjara yang menyegel jantung tersebut.\nTapi, ketika Durin mengambil pena dari ibunya dan mulai menulis kisahnya sendiri, hiasan kunci pada permata itu menghilang. Saat Durin meletakkan tangannya di atas permata tersebut, yang dia rasakan bukanlah denyut dari suatu makhluk jahat, melainkan detak jantungnya sendiri.\nSaat itu, Durin baru menyadari makna sebenarnya permata itu ... dia bukanlah jantung naga jahat, melainkan jantungnya sendiri.\nSekarang, hati ini sudah bebas."
+      },
+      {
+        "Title": "Vision",
+        "Context": "Saat Durin pergi ke Mondstadt untuk mengunjungi Albedo, untuk pertama kalinya dia melihat tulang naga raksasa yang tertidur di gunung bersalju. Pemilik tulang naga ini memiliki nama yang sama dengannya.\nDari cerita Albedo, Durin jadi tahu bahwa nama yang dia miliki pernah membawa bencana ke negeri ini, dan dia juga tahu bahwa bencana itu akan terulang lagi.\n\"Apakah tidak ada cara untuk menyelamatkan semua orang?\"\n\"Ada saja, tapi ....\"\nAlbedo menceritakan sebuah kemungkinan kepada Durin, yaitu dengan menggunakan alkimia untuk menyatukan Durin dengan jantung naga jahat, yang bisa sepenuhnya menyegel energi Abyss di dalamnya.\nNamun rencana ini bukannya tanpa kekurangan, Durin yang menjadi bagian penting dari rencana ini harus menanggung beberapa konsekuensi. Dia memberitahu Durin bahwa setelah proses alkimia selesai, Durin akan bangkit kembali menggantikan Naga Jahat dan tetap berada di dunia ini. Tapi dunia ini tidak seindah Simulanka, dan kekuatan yang harus Durin segel jauh lebih menakutkan dibandingkan kutukan yang mengubah segalanya menjadi balok bangunan.\nAlbedo paham, ini tidak bisa jadi permintaan sepihak, dab dia menghormati pilihan Durin.\nDurin menatap ke arah tulang-tulang naga di kejauhan, seolah ada kekuatan misterius yang menuntunnya sampai ke tempat ini. Namun ketika keputusan ini dihadapkan padanya, kekuatan itu justru terdiam. Bahkan sang dewi pun seperti meletakkan penanya, keputusan ini hanya bisa dibuat oleh Durin sendiri.\n\"Bagaimana kalau, aku ingin tetap tinggal di sini?\"\nSaat itu, Durin teringat banyak hal dari masa lalu. Ibunya mengirimnya pergi ke tempat yang jauh, dan dia datang ke dunia Teyvat. Om Topi mengirimnya pergi ke tempat yang lebih jauh lagi, dan dia bisa melihat berbagai hal di dunia ini. Dalam perjalanannya, Durin mengalami banyak hal, dan kebanyakan dari hal-hal itu tidak memiliki akhir cerita yang telah ditentukan. Kadang terjadi sesuatu yang tidak terduga, segala hal selalu berubah-ubah, ada kejutan yang melebihi harapan, juga ada kekecewaan karena harapan yang tidak terpenuhi.\nTapi justru ketidakpastian itulah yang menarik perhatian Durin yang telah keluar dari cerita, mendorongnya untuk terus menjelajahi dunia ini. Dan ketidakpastian itu juga yang membuat Durin memiliki sesuatu yang berharga, sesuatu yang tidak akan dimiliki oleh karakter lain yang hanya mengikuti alur yang sudah ditentukan, sesuatu yang hanya muncul saat menghadapi masa depan yang tidak diketahui ....\nSebuah \"harapan\".\n\"Aku ingin tetap tinggal di sini, aku masih suka dengan dunia ini. Aku ingin mewujudkan keinginan ibuku, ingin meninggalkan ceritaku sendiri seperti yang Om Topi katakan, dan juga ingin membantu Albedo menyelamatkan semua orang, mengalahkan naga jahat, dan menjadi 'manusia sejati'.\"\nPada akhirnya, justru Durin yang dengan sungguh-sungguh menyampaikan tugas ini kepada Albedo.\n\"Tolong bantu aku mewujudkan harapan ini.\"\nLalu dimulailah sebuah ujian yang besar, cahaya dari lingkaran alkimia akhirnya menerangi langit Mondstadt.\nSetelah semuanya tenang kembali, Durin menemukan sebuah Vision yang berkilau di tengah lingkaran transmutasi di sisinya.\nHarapannya sudah terwujud."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212301,
+      "Name": "Toward the Distant Horizon",
+      "Description": "Model pakaian Durin. Setelah menerima kuas dari ibunya, kostum asli Durin pun berubah menjadi bentuk yang baru, akhirnya dia harus mengucapkan selamat tinggal pada masa lalu yang digambar oleh ibunya. Setelah gembok hati di dadanya menghilang, harapan yang tertuju pada tempat yang jauh itu menjadi arah kelanjutan cerita ini.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
+      "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
+    },
+    {
+      "Id": 212300,
+      "Name": "A Gift From the Stars",
+      "Description": "Model pakaian Durin. Saat asap yang dihasilkan oleh formasi alkimia perlahan menghilang, secercah cahaya bintang menarik perhatian Durin ke arah luar jendela. Dalam pantulan di jendela, dia melihat dirinya mengenakan setelan jas yang elegan, seperti pangeran yang keluar dari dongeng. Dan saat pandangannya kembali tertuju pada tubuhnya sendiri, dia baru menyadari bahwa dia benar-benar mengenakan setelan jas itu. Hadiah dari siapakah ini? Bintang-bintang di luar hanya berkedip dalam diam, tanpa memberikan jawaban.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104114,
+    113080,
+    101261,
+    112127,
+    104309,
+    113069
+  ],
+  "NameCard": {
+    "Name": "Durin: Radiant Heart",
+    "Description": "Style Kartu Nama.\nDentuman di dadanya senantiasa mengingatkannya: \"Kamu memikul harapan dari masa silam yang jauh. Jiwamu gemilang sekaligus muda, dan di dalamnya menyala kobaran semangat yang takkan pernah padam, meski musim dingin datang membawa badai.\"",
+    "Icon": "UI_NameCardIcon_Durin",
+    "PicturePrefix": "UI_NameCardPic_Durin"
+  }
+}

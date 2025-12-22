@@ -1,0 +1,1341 @@
+{
+  "Id": 10000123,
+  "PromoteId": 123,
+  "Sort": 109,
+  "Body": 1,
+  "Icon": "UI_AvatarIcon_Durin",
+  "SideIcon": "UI_AvatarIcon_Side_Durin",
+  "Name": "Durin",
+  "Description": "Il drago nato dalla penna di \"M\", giunto nel mondo degli umani. La sua \"storia\" continua a svilupparsi.",
+  "BeginTime": "2025-12-02T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 1,
+  "BaseValue": {
+    "HpBase": 967.6198,
+    "AttackBase": 26.999,
+    "DefenseBase": 64.0181
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12331,
+        "Proud": {
+          "Descriptions": [
+            "DAN da 1º colpo|{param1:F1P}",
+            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 3º colpo|{param3:F1P}+{param4:F1P}",
+            "DAN da 4º colpo|{param5:F1P}",
+            "DAN da ATT caricato|{param6:F1P}",
+            "Costo vigore ATT caricato|{param7:F1}",
+            "DAN da ATT in picchiata|{param8:F1P}",
+            "DAN da ATT in picchiata basso/alto|{param9:P}/{param10:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233101,
+              "Level": 1,
+              "Parameters": [
+                0.456505,
+                0.410048,
+                0.291617,
+                0.291617,
+                0.711521,
+                1.13434,
+                20,
+                0.639324,
+                1.278377,
+                1.596762
+              ]
+            },
+            {
+              "Id": 1233102,
+              "Level": 2,
+              "Parameters": [
+                0.493663,
+                0.443424,
+                0.315354,
+                0.315354,
+                0.769436,
+                1.22667,
+                20,
+                0.691362,
+                1.382431,
+                1.726731
+              ]
+            },
+            {
+              "Id": 1233103,
+              "Level": 3,
+              "Parameters": [
+                0.53082,
+                0.4768,
+                0.33909,
+                0.33909,
+                0.82735,
+                1.319,
+                20,
+                0.7434,
+                1.486485,
+                1.8567
+              ]
+            },
+            {
+              "Id": 1233104,
+              "Level": 4,
+              "Parameters": [
+                0.583902,
+                0.52448,
+                0.372999,
+                0.372999,
+                0.910085,
+                1.4509,
+                20,
+                0.81774,
+                1.635134,
+                2.04237
+              ]
+            },
+            {
+              "Id": 1233105,
+              "Level": 5,
+              "Parameters": [
+                0.621059,
+                0.557856,
+                0.396735,
+                0.396735,
+                0.968,
+                1.54323,
+                20,
+                0.869778,
+                1.739187,
+                2.172339
+              ]
+            },
+            {
+              "Id": 1233106,
+              "Level": 6,
+              "Parameters": [
+                0.663525,
+                0.596,
+                0.423863,
+                0.423863,
+                1.034188,
+                1.64875,
+                20,
+                0.92925,
+                1.858106,
+                2.320875
+              ]
+            },
+            {
+              "Id": 1233107,
+              "Level": 7,
+              "Parameters": [
+                0.721915,
+                0.648448,
+                0.461162,
+                0.461162,
+                1.125196,
+                1.79384,
+                20,
+                1.011024,
+                2.02162,
+                2.525112
+              ]
+            },
+            {
+              "Id": 1233108,
+              "Level": 8,
+              "Parameters": [
+                0.780305,
+                0.700896,
+                0.498462,
+                0.498462,
+                1.216205,
+                1.93893,
+                20,
+                1.092798,
+                2.185133,
+                2.729349
+              ]
+            },
+            {
+              "Id": 1233109,
+              "Level": 9,
+              "Parameters": [
+                0.838696,
+                0.753344,
+                0.535762,
+                0.535762,
+                1.307213,
+                2.08402,
+                20,
+                1.174572,
+                2.348646,
+                2.933586
+              ]
+            },
+            {
+              "Id": 1233110,
+              "Level": 10,
+              "Parameters": [
+                0.902394,
+                0.81056,
+                0.576453,
+                0.576453,
+                1.406495,
+                2.2423,
+                20,
+                1.26378,
+                2.527025,
+                3.15639
+              ]
+            },
+            {
+              "Id": 1233111,
+              "Level": 11,
+              "Parameters": [
+                0.966092,
+                0.867776,
+                0.617144,
+                0.617144,
+                1.505777,
+                2.40058,
+                20,
+                1.352988,
+                2.705403,
+                3.379194
+              ]
+            },
+            {
+              "Id": 1233112,
+              "Level": 12,
+              "Parameters": [
+                1.029791,
+                0.924992,
+                0.657835,
+                0.657835,
+                1.605059,
+                2.55886,
+                20,
+                1.442196,
+                2.883781,
+                3.601998
+              ]
+            },
+            {
+              "Id": 1233113,
+              "Level": 13,
+              "Parameters": [
+                1.093489,
+                0.982208,
+                0.698525,
+                0.698525,
+                1.704341,
+                2.71714,
+                20,
+                1.531404,
+                3.062159,
+                3.824802
+              ]
+            },
+            {
+              "Id": 1233114,
+              "Level": 14,
+              "Parameters": [
+                1.157188,
+                1.039424,
+                0.739216,
+                0.739216,
+                1.803623,
+                2.87542,
+                20,
+                1.620612,
+                3.240537,
+                4.047606
+              ]
+            },
+            {
+              "Id": 1233115,
+              "Level": 15,
+              "Parameters": [
+                1.220886,
+                1.09664,
+                0.779907,
+                0.779907,
+                1.902905,
+                3.0337,
+                20,
+                1.70982,
+                3.418915,
+                4.27041
+              ]
+            }
+          ]
+        },
+        "Id": 11231,
+        "Name": "Colpo d'ala splendente",
+        "Description": "<color=#FFD780FF>Attacco normale</color>\nSferra fino a 4 colpi di spada consecutivi.\n\n<color=#FFD780FF>Attacco caricato</color>\nConsuma una determinata quantità di vigore per eseguire un fendente in avanti.\n\n<color=#FFD780FF>Attacco in picchiata</color>\nAttacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+        "Icon": "Skill_A_01"
+      },
+      {
+        "GroupId": 12332,
+        "Proud": {
+          "Descriptions": [
+            "DAN da Trasmutazione: Conferma della purezza|{param1:F1P}",
+            "DAN da Trasmutazione: Negazione delle tenebre|{param2:F1P}+{param3:F1P}+{param4:F1P}",
+            "RIGEN energia|{param5:F1}",
+            "#TdR|{param6:F1}{NON_BREAK_SPACE}s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1233201,
+              "Level": 1,
+              "Parameters": [
+                1.056,
+                0.7224,
+                0.532,
+                0.6464,
+                6,
+                12
+              ]
+            },
+            {
+              "Id": 1233202,
+              "Level": 2,
+              "Parameters": [
+                1.1352,
+                0.77658,
+                0.5719,
+                0.69488,
+                9,
+                12
+              ]
+            },
+            {
+              "Id": 1233203,
+              "Level": 3,
+              "Parameters": [
+                1.2144,
+                0.83076,
+                0.6118,
+                0.74336,
+                12,
+                12
+              ]
+            },
+            {
+              "Id": 1233204,
+              "Level": 4,
+              "Parameters": [
+                1.32,
+                0.903,
+                0.665,
+                0.808,
+                15,
+                12
+              ]
+            },
+            {
+              "Id": 1233205,
+              "Level": 5,
+              "Parameters": [
+                1.3992,
+                0.95718,
+                0.7049,
+                0.85648,
+                18,
+                12
+              ]
+            },
+            {
+              "Id": 1233206,
+              "Level": 6,
+              "Parameters": [
+                1.4784,
+                1.01136,
+                0.7448,
+                0.90496,
+                21,
+                12
+              ]
+            },
+            {
+              "Id": 1233207,
+              "Level": 7,
+              "Parameters": [
+                1.584,
+                1.0836,
+                0.798,
+                0.9696,
+                24,
+                12
+              ]
+            },
+            {
+              "Id": 1233208,
+              "Level": 8,
+              "Parameters": [
+                1.6896,
+                1.15584,
+                0.8512,
+                1.03424,
+                27,
+                12
+              ]
+            },
+            {
+              "Id": 1233209,
+              "Level": 9,
+              "Parameters": [
+                1.7952,
+                1.22808,
+                0.9044,
+                1.09888,
+                30,
+                12
+              ]
+            },
+            {
+              "Id": 1233210,
+              "Level": 10,
+              "Parameters": [
+                1.9008,
+                1.30032,
+                0.9576,
+                1.16352,
+                33,
+                12
+              ]
+            },
+            {
+              "Id": 1233211,
+              "Level": 11,
+              "Parameters": [
+                2.0064,
+                1.37256,
+                1.0108,
+                1.22816,
+                36,
+                12
+              ]
+            },
+            {
+              "Id": 1233212,
+              "Level": 12,
+              "Parameters": [
+                2.112,
+                1.4448,
+                1.064,
+                1.2928,
+                39,
+                12
+              ]
+            },
+            {
+              "Id": 1233213,
+              "Level": 13,
+              "Parameters": [
+                2.244,
+                1.5351,
+                1.1305,
+                1.3736,
+                42,
+                12
+              ]
+            },
+            {
+              "Id": 1233214,
+              "Level": 14,
+              "Parameters": [
+                2.376,
+                1.6254,
+                1.197,
+                1.4544,
+                45,
+                12
+              ]
+            },
+            {
+              "Id": 1233215,
+              "Level": 15,
+              "Parameters": [
+                2.508,
+                1.7157,
+                1.2635,
+                1.5352,
+                48,
+                12
+              ]
+            }
+          ]
+        },
+        "Id": 11232,
+        "Name": "Forma binaria: Convergenza e divisione",
+        "Description": "#Purifica la sostanza dell'anima ed esprime la volontà di sottoporsi alla {LINK#N11230001}<color=#FFD780FF>Trasmutazione essenziale</color>{/LINK}. Mentre è trasmutato, l'abilità elementale <color=#FFD780FF>Forma binaria: Convergenza e divisione</color> e l'attacco normale <color=#FFD780FF>Colpo d'ala splendente</color> di Durin vengono sostituiti rispettivamente con le abilità elementali speciali <color=#FFD780FF>Trasmutazione: Conferma della purezza</color> e <color=#FFD780FF>Trasmutazione: Negazione delle tenebre</color>.\n\n<color=#FFD780FF>Trasmutazione: Conferma della purezza</color>\nInfligge 1 iterazione di <color=#FF9999FF>DAN da Pyro ad area</color> agli avversari vicini, inverte la Trasmutazione essenziale ed entra nello stato di <color=#FFD780FF>Conferma della purezza</color> per 30{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Trasmutazione: Negazione delle tenebre</color>\nInfligge 3 iterazioni consecutive di <color=#FF9999FF>DAN da Pyro</color> agli avversari davanti a sé, inverte la Trasmutazione essenziale ed entra nello stato di <color=#FFD780FF>Negazione delle tenebre</color> per 30{NON_BREAK_SPACE}s.\n\nQuando Durin entra nello stato di <color=#FFD780FF>Conferma della purezza</color> o di <color=#FFD780FF>Negazione delle tenebre</color> mentre è in combattimento, la sua energia elementale si ripristina di una certa quantità. Tale ripristino può verificarsi una volta ogni 6{NON_BREAK_SPACE}s.",
+        "Icon": "Skill_S_Durin_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12351,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1235101,
+              "Level": 1,
+              "Parameters": [
+                0.75
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1235101,
+        "Name": "Rito della Vigilia della strega: Ode all'ascensione",
+        "Description": "Dopo aver completato <color=#FFD780FF>Compiti della strega: Su questo mondo</color>, Durin acquisisce l'attributo <color=#FFD780FF>Hexerei</color>. Quando il gruppo include almeno 2 personaggi con attributo Hexerei, questi ultimi ottengono l'effetto di potenziamento <color=#FFD780FF>Hexerei: Rito segreto</color>.\n\n<color=#FFD780FF>Hexerei: Rito segreto</color>\nAumenta tutti gli effetti del talento d'ascensione {LINK#P1232101}<color=#FFD780FF>Luce manifesta del calcolo divino</color>{/LINK} (tranne la durata) di un 75%.",
+        "Icon": "UI_Talent_S_Durin_03"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12339,
+      "Proud": {
+        "Descriptions": [
+          "DAN da Principio della purezza: Trasmutazione luminosa|{param1:F1P}+{param2:F1P}+{param3:F1P}",
+          "DAN da Principio dell'oscurità: Stelle quiescenti|{param4:F1P}+{param5:F1P}+{param6:F1P}",
+          "DAN da Drago della Fiamma bianca|{param7:F1P}",
+          "DAN da Drago del Deterioramento oscuro|{param8:F1P}",
+          "#Durata Drago della Fiamma bianca|{param9:F1}{NON_BREAK_SPACE}s",
+          "#Durata Drago del Deterioramento oscuro|{param10:F1}{NON_BREAK_SPACE}s",
+          "#TdR|{param11:F1}{NON_BREAK_SPACE}s",
+          "Costo energia|{param12:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1233901,
+            "Level": 1,
+            "Parameters": [
+              1.1896,
+              0.964,
+              1.1184,
+              1.2544,
+              1.0176,
+              1.1184,
+              0.9464,
+              1.2984,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233902,
+            "Level": 2,
+            "Parameters": [
+              1.27882,
+              1.0363,
+              1.20228,
+              1.34848,
+              1.09392,
+              1.20228,
+              1.01738,
+              1.39578,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233903,
+            "Level": 3,
+            "Parameters": [
+              1.36804,
+              1.1086,
+              1.28616,
+              1.44256,
+              1.17024,
+              1.28616,
+              1.08836,
+              1.49316,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233904,
+            "Level": 4,
+            "Parameters": [
+              1.487,
+              1.205,
+              1.398,
+              1.568,
+              1.272,
+              1.398,
+              1.183,
+              1.623,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233905,
+            "Level": 5,
+            "Parameters": [
+              1.57622,
+              1.2773,
+              1.48188,
+              1.66208,
+              1.34832,
+              1.48188,
+              1.25398,
+              1.72038,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233906,
+            "Level": 6,
+            "Parameters": [
+              1.66544,
+              1.3496,
+              1.56576,
+              1.75616,
+              1.42464,
+              1.56576,
+              1.32496,
+              1.81776,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233907,
+            "Level": 7,
+            "Parameters": [
+              1.7844,
+              1.446,
+              1.6776,
+              1.8816,
+              1.5264,
+              1.6776,
+              1.4196,
+              1.9476,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233908,
+            "Level": 8,
+            "Parameters": [
+              1.90336,
+              1.5424,
+              1.78944,
+              2.00704,
+              1.62816,
+              1.78944,
+              1.51424,
+              2.07744,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233909,
+            "Level": 9,
+            "Parameters": [
+              2.02232,
+              1.6388,
+              1.90128,
+              2.13248,
+              1.72992,
+              1.90128,
+              1.60888,
+              2.20728,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233910,
+            "Level": 10,
+            "Parameters": [
+              2.14128,
+              1.7352,
+              2.01312,
+              2.25792,
+              1.83168,
+              2.01312,
+              1.70352,
+              2.33712,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233911,
+            "Level": 11,
+            "Parameters": [
+              2.26024,
+              1.8316,
+              2.12496,
+              2.38336,
+              1.93344,
+              2.12496,
+              1.79816,
+              2.46696,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233912,
+            "Level": 12,
+            "Parameters": [
+              2.3792,
+              1.928,
+              2.2368,
+              2.5088,
+              2.0352,
+              2.2368,
+              1.8928,
+              2.5968,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233913,
+            "Level": 13,
+            "Parameters": [
+              2.5279,
+              2.0485,
+              2.3766,
+              2.6656,
+              2.1624,
+              2.3766,
+              2.0111,
+              2.7591,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233914,
+            "Level": 14,
+            "Parameters": [
+              2.6766,
+              2.169,
+              2.5164,
+              2.8224,
+              2.2896,
+              2.5164,
+              2.1294,
+              2.9214,
+              20,
+              20,
+              18,
+              70
+            ]
+          },
+          {
+            "Id": 1233915,
+            "Level": 15,
+            "Parameters": [
+              2.8253,
+              2.2895,
+              2.6562,
+              2.9792,
+              2.4168,
+              2.6562,
+              2.2477,
+              3.0837,
+              20,
+              20,
+              18,
+              70
+            ]
+          }
+        ]
+      },
+      "Id": 11235,
+      "Name": "Principio della purezza: Trasmutazione luminosa",
+      "Description": "Scatena il potere della \"Bestia\" in diversi modi. Durin può usare diversi Tripudi elementali in base al suo stato di {LINK#N11230001}<color=#FFD780FF>Trasmutazione essenziale</color>{/LINK}.\n\n<color=#FFD780FF>Principio della purezza: Trasmutazione luminosa</color>\nQuando Durin è nello stato di <color=#FFD780FF>Conferma della purezza</color>, usa il Tripudio elementale <color=#FFD780FF>Principio della purezza: Trasmutazione luminosa</color>, infliggendo 3 iterazioni di <color=#FF9999FF>DAN da Pyro ad area</color> agli avversari davanti a sé e manifestando il suo potere nella forma di <color=#FFD780FF>Drago della Fiamma bianca</color>. Quest'ultimo segue il personaggio attivo e attacca periodicamente i nemici vicini, infliggendo <color=#FF9999FF>DAN da Pyro ad area</color>. Tali DAN sono considerati DAN da Tripudio elementale.\n\n<color=#FFD780FF>Principio dell'oscurità: Stelle quiescenti</color>\nQuando Durin è nello stato di <color=#FFD780FF>Negazione delle tenebre</color>, usa il Tripudio elementale <color=#FFD780FF>Principio dell'oscurità: Stelle quiescenti</color>, infliggendo 3 iterazioni di <color=#FF9999FF>DAN da Pyro ad area</color> agli avversari davanti a sé e manifestando il suo potere nella forma di <color=#FFD780FF>Drago del Deterioramento oscuro</color>. Quest'ultimo segue il personaggio attivo e attacca periodicamente un nemico vicino, infliggendo <color=#FF9999FF>DAN da Pyro</color>. Tali DAN sono considerati DAN da Tripudio elementale.\n\nQuando Durin non è in uno stato speciale causato da Trasmutazione essenziale, usa il Tripudio elementale <color=#FFD780FF>Principio della purezza: Trasmutazione luminosa</color>.",
+      "Icon": "Skill_E_Durin_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12321,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232101,
+              "Level": 1,
+              "Parameters": [
+                0.2,
+                6,
+                0.4,
+                0.4
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232101,
+        "Name": "Luce manifesta del calcolo divino",
+        "Description": "#Durin innesca effetti positivi diversi in base alla forma manifestata dai suoi poteri quando sprigiona il Tripudio elementale.\n\n<color=#FFD780FF>Drago della Fiamma bianca</color>\nDopo che i personaggi del gruppo vicini hanno innescato reazioni di Ustione, Sovraccarico, Turbinio di Pyro o Cristallizzazione di Pyro su un avversario, o hanno inflitto <color=#FF9999FF>DAN da Pyro</color> o <color=#99FF88FF>da Dendro</color> a un avversario sotto l'effetto di Ustione, quest'ultimo subisce una riduzione delle <color=#FF9999FF>RES a Pyro</color> e all'elemento corrispondente coinvolto nella reazione di un 20% per 6{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Drago del Deterioramento oscuro</color>\nI DAN da Vaporizzazione e da Fusione di Durin aumentano di un 40%.",
+        "Icon": "UI_Talent_S_Durin_01"
+      },
+      {
+        "GroupId": 12322,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232201,
+              "Level": 1,
+              "Parameters": [
+                0.03,
+                0.75,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1232201,
+        "Name": "Caos simile alla notte",
+        "Description": "#Dopo aver usato il suo Tripudio elementale, Durin ottiene l'effetto Fusione primordiale delle forme per 20{NON_BREAK_SPACE}s, che gli conferisce 10 accumuli di Fusione primordiale. Quando un attacco periodico di <color=#FFD780FF>Drago della Fiamma bianca</color> o <color=#FFD780FF>Drago del Deterioramento oscuro</color> infligge DAN, viene consumato 1 accumulo di Fusione primordiale delle forme per aumentare i DAN inflitti di un 3% dei DAN originali per ogni 100 di ATT. È possibile infliggere in questo modo fino a un 75% di DAN aggiuntivi. Quando un singolo attacco di <color=#FFD780FF>Drago della Fiamma bianca</color> o <color=#FFD780FF>Drago del Deterioramento oscuro</color> colpisce più avversari, viene consumato solo 1 accumulo di Fusione primordiale delle forme.\nGli accumuli di Fusione primordiale delle forme vengono ripristinati usando nuovamente il Tripudio elementale.",
+        "Icon": "UI_Talent_S_Durin_02"
+      },
+      {
+        "GroupId": 12323,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1232301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1232301,
+        "Name": "Echi di una terra crescente",
+        "Description": "Ottiene un 25% in più di ricompense quando intraprende una spedizione a Mondstadt per 20 ore.",
+        "Icon": "UI_Talent_S_Durin_07"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1231,
+        "Name": "Redenzione dell'Adamah",
+        "Description": "#Dopo aver utilizzato il suo Tripudio elementale, gli effetti di Durin cambiano in base alla forma del Tripudio.\n·<color=#FFD780FF> Principio della purezza: Trasmutazione luminosa</color>: tutti gli altri membri del gruppo vicini ottengono 20 accumuli di <color=#FFD780FF>Ciclo dell'illuminazione</color> della durata di 20{NON_BREAK_SPACE}s. Quando infliggono DAN da attacco normale, attacco caricato, attacco in picchiata, abilità elementale o Tripudio elementale, i personaggi attivi vicini consumano 1 accumulo di Ciclo dell'illuminazione per aumentare i DAN inflitti di un 60% dell'ATT di Durin. Il numero di accumuli di Ciclo dell'illuminazione è indipendente per ciascun personaggio nel gruppo.\n· <color=#FFD780FF>Principio dell'oscurità: Stelle quiescenti</color>: Durin ottiene 20 accumuli di <color=#FFD780FF>Ciclo dell'illuminazione</color> per 20{NON_BREAK_SPACE}s. Quando Durin infligge DAN da Tripudio elementale, vengono consumati 2 accumuli di Ciclo dell'illuminazione per aumentare i DAN inflitti di un 150% dell'ATT di Durin.\n\nQuando viene utilizzato un Tripudio elementale, gli accumuli di <color=#FFD780FF>Ciclo dell'illuminazione</color> vengono ripristinati.",
+        "Icon": "UI_Talent_S_Durin_03"
+      },
+      {
+        "Id": 1232,
+        "Name": "Visioni senza fondo",
+        "Description": "#Per 20{NON_BREAK_SPACE}s dopo l'uso del Tripudio elementale di Durin, dopo che i personaggi del gruppo vicini hanno innescato reazioni di Vaporizzazione, Fusione, Ustione, Sovraccarico, Turbinio di Pyro o Cristallizzazione di Pyro, o hanno inflitto <color=#FF9999FF>DAN da Pyro</color> o <color=#99FF88FF>da Dendro</color> a un avversario sotto l'effetto di Ustione, tutti i membri del gruppo vicini ottengono per 6{NON_BREAK_SPACE}s un aumento dei <color=#FF9999FF>DAN da Pyro</color> e dei DAN dell'elemento corrispondente coinvolto nella reazione pari a un 50%.",
+        "Icon": "UI_Talent_S_Durin_04"
+      },
+      {
+        "Id": 1233,
+        "Name": "Rivelazione dello Specchio di fiamma",
+        "Description": "Aumenta di 3 il livello di <color=#FFD780FF>{LINK#S11235}Principio della purezza: Trasmutazione luminosa{/LINK}</color>.\nIl livello di potenziamento massimo è 15.",
+        "Icon": "UI_Talent_U_Durin_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1234,
+        "Name": "Fonte dell'emanare",
+        "Description": "I DAN da Tripudio elementale di Durin aumentano di un 40%. Inoltre, quando gli effetti che consumano accumuli di <color=#FFD780FF>Ciclo dell'illuminazione</color> vengono attivati come parte del livello costellazione <color=#FFD780FF>{LINK#T1231}Redenzione dell'Adamah{/LINK}</color>, c'è un 30% di probabilità che i suddetti accumuli non vengano consumati.",
+        "Icon": "UI_Talent_S_Durin_05"
+      },
+      {
+        "Id": 1235,
+        "Name": "Scissione della Fiamma abrasiva",
+        "Description": "Aumenta di 3 il livello di <color=#FFD780FF>{LINK#S11232}Forma binaria: Convergenza e divisione{/LINK}</color>.\nIl livello di potenziamento massimo è 15.",
+        "Icon": "UI_Talent_U_Durin_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1236,
+        "Name": "Nascita duale",
+        "Description": "#I DAN da Tripudio elementale di Durin ignorano un 30% della DIF avversaria.\nInoltre, i Tripudi elementali di Durin, <color=#FFD780FF>Principio della purezza: Trasmutazione luminosa</color> e <color=#FFD780FF>Principio dell'oscurità: Stelle quiescenti</color>, ricevono un potenziamento:\n· dopo che <color=#FFD780FF>Principio della purezza: Trasmutazione luminosa</color> e <color=#FFD780FF>Drago della Fiamma bianca</color> hanno colpito un avversario, la DIF di quest'ultimo diminuisce di un 30% per 6{NON_BREAK_SPACE}s;\n· i DAN inflitti da <color=#FFD780FF>Principio dell'oscurità: Stelle quiescenti</color> e da <color=#FFD780FF>Drago del Deterioramento oscuro</color> ignorano un ulteriore 40% della DIF degli avversari.",
+        "Icon": "UI_Talent_S_Durin_06"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "\"Fiamma perpetua\"",
+    "Detail": "Il drago nato dalla penna di \"M\", giunto nel mondo degli umani. La sua \"storia\" continua a svilupparsi.",
+    "Association": 1,
+    "Native": "Hexenzirkel",
+    "BirthMonth": 3,
+    "BirthDay": 14,
+    "VisionBefore": "Pyro",
+    "VisionOverrideUnlocked": "Visione",
+    "ConstellationBefore": "Draco Rubedo",
+    "CvChinese": "陶典",
+    "CvJapanese": "小林千晃",
+    "CvEnglish": "Laurie Kynaston",
+    "CvKorean": "Kim Ji-yul",
+    "CookBonus": {
+      "OriginItemId": 108171,
+      "ItemId": 108924,
+      "InputList": [
+        100061,
+        100001,
+        110004,
+        100077
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Presentazione",
+        "Context": "È passato tanto tempo. Sono Durin. Tutti mi chiamavano Mini Durin ma, come puoi ben vedere, non sono più tanto \"mini\"... Il mio aspetto ti sembra strano? A dire il vero, anche per me lo è ancora un po'... Ho così tanto da imparare... Spero non ti dispiaccia se ti chiederò aiuto."
+      },
+      {
+        "Title": "Dialogo: Storie",
+        "Context": "Ogni giorno è una nuova pagina della mia storia. Voglio assaporare ogni scena e ogni nota a piè di pagina prima di passare a quella successiva."
+      },
+      {
+        "Title": "Dialogo: Passeggiata",
+        "Context": "Posso fermarmi qui a gio... Anzi, a fare una passeggiata? Non mi allontanerò troppo."
+      },
+      {
+        "Title": "Dialogo: Impaccio",
+        "Context": "Ho ancora così tanto da imparare sulle \"interazioni umane\". Per esempio, dove devo mettere le mani quando sono nervoso? Voglio davvero... fare amicizia con tutti."
+      },
+      {
+        "Title": "Quando piove",
+        "Context": "Oh, no, sento il bisogno di saltare in una pozzanghera..."
+      },
+      {
+        "Title": "Quando tuona",
+        "Context": "Meglio non volare troppo in alto con questo tempo..."
+      },
+      {
+        "Title": "Quando nevica",
+        "Context": "\"Lui\" dormiva in un posto come questo...?"
+      },
+      {
+        "Title": "Quando spunta il sole",
+        "Context": "Sembra la scena di una fiaba... Che meraviglia."
+      },
+      {
+        "Title": "Nel deserto",
+        "Context": "Uff... Sto morendo di sete..."
+      },
+      {
+        "Title": "Buongiorno",
+        "Context": "Buongiorno. Non badare alla mia testa ciondolante, ho il collo un po' rigido. Ieri notte un gatto è venuto a dormire a pochi metri da me. Di solito i piccoli animali mi temono... Non volevo disturbarlo, così ho trascorso la notte cercando di restare immobile..."
+      },
+      {
+        "Title": "Buon pomeriggio",
+        "Context": "Se esiste la \"prima colazione\", significa che esiste anche la \"seconda colazione\"?"
+      },
+      {
+        "Title": "Buonasera",
+        "Context": "Chissà se stasera vedremo le stelle...?"
+      },
+      {
+        "Title": "Buonanotte",
+        "Context": "Non c'è nulla di più rilassante che raggomitolarsi nella propria coda e farsi una bella dormita."
+      },
+      {
+        "Title": "A proposito di Durin: Crescere",
+        "Context": "Pensi che io stia diventando più maturo? Comunque la si guardi, questo non è l'aspetto di un bambino... E poi, voglio continuare a fare progressi!"
+      },
+      {
+        "Title": "A proposito di Durin: Perdere il controllo",
+        "Context": "Riesco a percepire questo vasto potere, quasi frenetico, che si annida dentro di me. Per fortuna l'alchimia di Albedo è impeccabile, e riesce a tenere a bada il potere dell'Abisso. È come se ogni cosa fosse in equilibrio, impedendo ogni possibilità di eccesso o contaminazione. Quindi niente paura, non perderò il controllo e non farò del male a nessuno."
+      },
+      {
+        "Title": "A proposito di Durin: Egoismo",
+        "Context": "So che portare il nome di Durin in questo mondo mi espone a delle critiche. Sostituire il Durin del Picco del Drago significa che ho rubato il suo diritto alla rinascita. Lo ammetto, è stato un atto egoistico, ma in quel momento non desideravo altro che essere \"umano\". Volevo far parte della vita degli altri e dare anch'io il mio contributo... Non ho saputo rinunciare a una tale opportunità. Non mi pento della scelta che ho fatto. Forse è proprio come dice Albedo: \"Ogni forma di vita può essere egoista\".\nIn ogni caso, non posso parlare per l'altro Durin. Desidero solo seguire il mio cammino e fare la cosa giusta, affinché il nome di \"Durin\" sia associato a dei bei ricordi."
+      },
+      {
+        "Title": "A proposito di noi: Incornate",
+        "Context": "#I draghi si prendono a incornate in segno d'amicizia, ma temo che potrei metterci troppa forza. Non voglio farti male, dopotutto... Sei {F#sicura}{M#sicuro} di non essere {F#preoccupata}{M#preoccupato}? D'accordo! Per sicurezza, che ne dici se io sto fermo e tu sbatti la testa contro le mie corna?"
+      },
+      {
+        "Title": "A proposito di noi: Benedizione",
+        "Context": "#\"Che tu possa trovare bontà e amicizia ovunque tu vada\".\nQuesta è la benedizione che tu, {F#viaggiatrice}{M#viaggiatore} di mille mondi, mi hai donato. Non l'ho mai dimenticato. Da quel giorno, la mia storia ha iniziato a trasformarsi... Ti ringrazio. Sento di essere cambiato molto. Forse... Anzi, sicuramente, ora ho la forza di proteggere coloro a cui voglio bene. Quindi voglio ricambiare la tua benedizione con una promessa: se avrai bisogno di me ti aiuterò, ovunque tu sia e in qualsiasi momento.\nEhm, quindi verrò sicuramente in tuo aiuto non appena saprò che sei in pericolo. Ecco, credo di aver detto tutto..."
+      },
+      {
+        "Title": "A proposito della Visione",
+        "Context": "Uno degli effetti dell'Abisso è quello di aumentare il potere degli esseri viventi. La mia forma attuale ne è la prova. Sebbene io non riesca a controllarne completamente il potere, la mia particolare costituzione dovrebbe permettermi di utilizzare l'Abisso al servizio del bene. Tenerlo a bada è difficile, e richiede un'immensa concentrazione... Qualsiasi passo falso potrebbe ferire coloro a cui tengo. Per evitare quest'eventualità, devo continuare a imparare e a fare pratica...\nCredo che questa Visione sia un riconoscimento per i miei sforzi."
+      },
+      {
+        "Title": "Qualcosa da condividere",
+        "Context": "Dvalin vola così veloce... Sarà perché le sue ali sono più grandi delle mie? A volte penso che, se avessi ancora la mia forma di drago, quella di mattoncini come a Simulanka, per intenderci... potrei dargli del filo da torcere."
+      },
+      {
+        "Title": "Curiosità",
+        "Context": "Il mio primo amico è stato uno scoiattolo volante origami. All'inizio era l'unico che volesse giocare con me. Aveva due orecchie appuntite e una grande coda di carta, e somigliava un po' agli scoiattoli di Teyvat. Io raggiungevo i luoghi più alti per raccogliergli dei fiori... Mi manca molto quel piccoletto.\nVuoi raccogliere delle pigne per gli scoiattoli insieme a me? Certo, mi piacerebbe molto!"
+      },
+      {
+        "Title": "A proposito di mia madre",
+        "Context": "Da quando ho preso in mano la penna di mia madre, ho messo per iscritto le storie che ho vissuto ogni giorno: Klee mi ha insegnato a pescare, il che ci ha fatto finire in cella d'isolamento; Albedo mi ha chiesto di aiutarlo a far bollire l'acqua, e per poco il bollitore non si è ridotto in cenere; un bambino alle porte della città mi ha mostrato come dare da mangiare ai piccioni, e uno di loro ha deciso di appollaiarsi sulle mie corna... Continuerò a riempire le pagine del mio libro e forse, un giorno, mentre ne sfoglierò le pagine, sentirò una voce familiare dire dolcemente: \"Questa è davvero una storia meravigliosa\"."
+      },
+      {
+        "Title": "A proposito di Alice",
+        "Context": "La Zia Alice mi ha chiesto di passare più tempo con Klee. Ha detto che mi avrebbe ricompensato con qualsiasi cosa avessi voluto. Ma solo i bambini vogliono delle ricompense, e io ormai sono grande... Mi piace giocare con Klee perché sono felice quando stiamo insieme, niente di più. Quando l'ho detto alla Zia Alice, però, era al settimo cielo e ha detto che mi avrebbe regalato un \"giocattolo gigante\" tutto per me..."
+      },
+      {
+        "Title": "A proposito di Albedo: Famiglia",
+        "Context": "Albedo ha condiviso con me tantissime delle sue esperienze sul diventare veramente umano. Mi ha spiegato molti dei problemi che devono affrontare gli umani: il lavoro, gli ideali, la vita... Alcune di queste cose sono troppo difficili da capire per me, certe sono persino troppo difficili da immaginare.\nAlbedo dice che posso imparare a conoscere questi problemi gradualmente affrontandoli in prima persona, per poi fare le mie scelte. L'unica cosa che un essere umano non può scegliere è la propria famiglia. La mia è complicata e molto insolita, ma mio fratello Albedo mi trasmette un senso di pace e appartenenza. In tal senso, la mia famiglia non è diversa da tante altre."
+      },
+      {
+        "Title": "A proposito di Albedo: Intuizione",
+        "Context": "Albedo è l'essere \"umano\" per eccellenza. Sa così tante cose... Ed è in grado di gestire qualsiasi situazione. È sincero e amichevole con chi lo circonda. Ma a volte sento che c'è un altro lato di lui che nessuno si aspetterebbe. Come quando prende delle misure decisive per raggiungere i suoi obiettivi... Non so da dove provenga questa strana intuizione... Che sia una sorta di risonanza tra esseri della stessa \"specie\"?"
+      },
+      {
+        "Title": "A proposito del Vagabondo: Amici",
+        "Context": "Poco dopo aver lasciato Simulanka ho seguito Cappellotto fino a Sumeru. L'Akademiya era così grande e bella, e c'erano moltissimi libri... Solo ora, che sto imparando a leggere e a scrivere, mi rendo conto di quanto debba essere stressante studiare lì.\nPerò ci sono stati anche dei momenti in cui le persone avevano del tempo libero e venivano da Cappellotto per giocare a carte, chiacchierare o persino condividere del cibo delizioso. Come quella persona con le orecchie grandi, o quell'altra con il cappello e le orecchie ancora più grandi, o ancora quella che sembra un piccolo levriero... Ho chiesto a Cappellotto se siano amici suoi. Lui si lamenta sempre di quanto siano rumorosi, ma non ha mai negato la loro amicizia."
+      },
+      {
+        "Title": "A proposito del Vagabondo: Determinazione",
+        "Context": "In un certo senso, io e lui ci assomigliamo. Sembra che sappia sempre cosa penso, e mi guida come qualcuno che \"ha già visto tutto\". Ogni volta che dico alla gente di non avvicinarsi troppo, in realtà spero che rifiutino con determinazione... Ed è quello che fa anche Cappellotto. Così, quando dice di voler stare da solo, anche se cerca di scoraggiarmi, io resto sempre al suo fianco."
+      },
+      {
+        "Title": "A proposito di Nilou",
+        "Context": "Quando ero a Sumeru, ho trovato il tempo di visitare la fata Nilou... Chiedo scusa, è la forza dell'abitudine... Dovrei chiamarla signorina Nilou in questo mondo. L'ho vista danzare al Gran Bazaar, ed era bella come una fata."
+      },
+      {
+        "Title": "A proposito di Navia",
+        "Context": "Se ne avrò l'occasione, mi piacerebbe ringraziare il Re di Sideropoli... Uhm, cioè, la signorina Navia. Mi chiedo se resterà scioccata vedendo come sono adesso... Pensi di no? Che bella notizia!"
+      },
+      {
+        "Title": "A proposito di Kirara",
+        "Context": "Se tutti i micetti della Coda di Gatto fossero come Kirara, non credo che s'innervosirebbero così tanto quando mi vedono..."
+      },
+      {
+        "Title": "A proposito di Venti",
+        "Context": "\"Il giovane bardo pizzicò delicatamente le corde, con la voce limpida come un ruscello di montagna. Non era un inno di battaglia né una preghiera, ma il mormorio delle stelle, il vento che soffiava tra gli alberi. Le palpebre del drago si contrassero leggermente, mentre le fiamme crepitavano dolcemente nella sua gola\".\nUna notte in cui non riuscivo a dormire sono uscito a fare una passeggiata. Ho incontrato il Supremo Barbatos, che aveva deciso di fare due passi per il mio stesso motivo. Mi ha cantato questa canzone, e mi è piaciuta così tanto che l'ho imparata a memoria..."
+      },
+      {
+        "Title": "A proposito di Lisa",
+        "Context": "Dopo avermi assegnato i compiti, la signorina Lisa mi fa sedere alla scrivania per completarli. Una volta ero talmente esausto che ho sistemato il libro sulla scrivania in modo che lei non mi vedesse e ho fatto un pisolino di nascosto. Al mio risveglio, era lì in piedi che sorrideva. Mi sono pietrificato dalla paura. Ma, prima che potessi finire di scusarmi, mi ha elogiato per aver imparato la lezione più preziosa... Penso si riferisse alla mia volontà di riconoscere i miei errori.\nAh, quindi non pensi che intendesse davvero quello?"
+      },
+      {
+        "Title": "A proposito di Klee",
+        "Context": "Una volta Albedo mi ha detto che tratta Klee come se fosse una sorella minore. A Klee piace chiamarmi \"fratellone Durin\". Tecnicamente immagino di esserlo davvero, anche se non sono umano da molto tempo... In termini di età umana, lei è davvero la mia sorella \"minore\"? Mmh..."
+      },
+      {
+        "Title": "A proposito di Fischl",
+        "Context": "Non posso fare a meno di chiedermelo... A Simulanka sentivo che era diversa dagli altri. Anche lei è come me? Sembra sia uscita da un libro anche lei."
+      },
+      {
+        "Title": "A proposito di Diona",
+        "Context": "Nelle fiabe, chiunque sappia preparare pozioni che irretiscono il cuore e la mente e che sia in grado di farsi obbedire dai gatti è quasi certamente una strega potentissima."
+      },
+      {
+        "Title": "A proposito di Varka",
+        "Context": "Il Gran Maestro Varka è diverso dalla maggior parte dei Cavalieri di Mondstadt. È potente ma non intimidatorio, sa tranquillizzare le persone facendole sentire al sicuro. È il tipo di Cavaliere che può fare una battuta mentre combatte la Caccia selvaggia, anche se la maggior parte delle volte non ci capisco un \"corno\"... Vuoi sapere quali ho capito? Beh, non le ho sentite bene nemmeno io, probabilmente perché spesso biascica le parole dopo aver bevuto..."
+      },
+      {
+        "Title": "Altro su Durin (1)",
+        "Context": "Prima di venire qui ho trascorso la maggior parte del mio tempo vivendo nelle storie di mia madre. Io non l'ho mai abbracciata, né lei mi ha mai stretto a sé, ma la sua voce delicata mi ha guidato attraverso tanti momenti, sia allegri che tristi. Se vuoi ascoltare le sue storie, sarò più che felice di leggertele."
+      },
+      {
+        "Title": "Altro su Durin (2)",
+        "Context": "Ho sentito dire che, quando si parla con le persone, è segno di buona educazione guardarle negli occhi. Ma ho anche sentito dire che è maleducato fissare. Ho pensato di provare a sbattere spesso le palpebre mentre parlo, o di tenere un occhio chiuso alla volta, ma tutti continuavano a dirmi di andare dalla signorina Barbara per farmi controllare gli occhi...\nA quanto pare, le regole per socializzare in questo mondo sono tra le più difficili da seguire..."
+      },
+      {
+        "Title": "Altro su Durin (3)",
+        "Context": "Per un po' di tempo ho sentito questa strana voce dentro il mio cuore che mi faceva dubitare di ciò che sono veramente... Nelle mie vene scorre il sangue dei draghi... Gli umani mi temeranno per questo? Una volta ho sognato che tutti i modellini giocattolo di Sideropoli mi lanciavano delle pietre. Mi sono svegliato sommerso da una pioggia di coriandoli! I miei amici di Mondstadt avevano deciso di organizzarmi una festa di compleanno a sorpresa... In quel momento ho capito che la strana voce nel mio cuore non era l'influenza del drago, ma la mia insicurezza...\nNon lo dimenticherò mai: la luce delle candeline sulla mia torta che illuminava i volti sorridenti dei miei amici... È stato proprio allora che sono uscito dalla nebbia dell'incertezza."
+      },
+      {
+        "Title": "Altro su Durin (4)",
+        "Context": "Prima di partire per Nod-Krai, la maestra Jean e Albedo mi avevano avvertito che stavamo per intraprendere un viaggio estremamente pericoloso, e che qualunque cosa avremmo dovuto affrontare sarebbe stata molto più impegnativa di quanto immaginassi. Hanno rispettato la mia scelta, ma volevano solo che ci riflettessi bene prima di prendere una decisione. Quando ho saputo che eri in pericolo, però, ho chiesto immediatamente di unirmi a loro.\nÈ stato solo dopo aver visto la Caccia selvaggia da vicino che ho capito cosa fosse veramente il pericolo. La scena era molto più terrificante delle immagini mentali che mi ero creato del terreno che cedeva sotto i piedi, delle Miniere di Giocattolenio che crollavano su sé stesse...\nNo, non rimpiango la mia decisione. Ma ero spaventato... Temevo di non essere in grado di aiutare. Ero molto teso, l'avrai notato sicuramente. Per fortuna è andato tutto bene, e ora posso sentirmi a mio agio nell'accettare gli elogi di tutti."
+      },
+      {
+        "Title": "Altro su Durin (5)",
+        "Context": "Ho l'impressione che gli esseri umani siano composti da \"parti\" di altre persone... Non in senso alchemico, più come... quando mi ricordo le cose dette dai miei amici, o quando mi piacciono i ristoranti dove mangiamo insieme, o quando tu mi hai ispirato a viaggiare per il mondo... Il motivo per cui oggi sono quello che sono è che ho assorbito tutte queste influenze di altre persone.\nE ora voglio diventare anch'io una parte del cuore degli altri."
+      },
+      {
+        "Title": "Gli hobby di Durin",
+        "Context": "Al momento tutto a Mondstadt è nuovo per me, e voglio fare più esperienze possibili. V-Vino? N-No, non posso bere vino... Almeno, non ancora."
+      },
+      {
+        "Title": "I guai di Durin",
+        "Context": "Gli animali a Teyvat non sono fatti di carta ripiegata, e io non ho più gli artigli affilati... Pensavo che forse ora avrei potuto accarezzarli, ma ogni volta che ci provo, scappano spaventati... *sospira*"
+      },
+      {
+        "Title": "Cibo preferito",
+        "Context": "Adoro mangiare la carne, specialmente quei bei pezzi grandi. Ma ultimamente ci metto molto tempo per finirla. Usare il coltello e la forchetta è un po' complicato per me; non riesco mai a ricordare quale dei due serve per tagliare..."
+      },
+      {
+        "Title": "Cibo meno amato",
+        "Context": "Chiedo scusa, potrei avere una porzione più piccola di verdure nel mio piatto? O magari non averne per niente?"
+      },
+      {
+        "Title": "Ricevere un regalo (1)",
+        "Context": "Che tipo di posate dovrei utilizzare per questo? Non posso usare le mani?"
+      },
+      {
+        "Title": "Ricevere un regalo (2)",
+        "Context": "Grazie. Le convenzioni sociali richiedono reciprocità, quindi permettimi di offrirti da bere."
+      },
+      {
+        "Title": "Ricevere un regalo (3)",
+        "Context": "Mi dispiace, le mie papille gustative sembrano difettose... Fammi riprovare... Oh, cielo, hanno davvero qualcosa che non va!"
+      },
+      {
+        "Title": "Compleanno",
+        "Context": "#Il tuo compleanno sembra arrivato in un baleno! Mi dispiace, continuo a pensare a nuovi dettagli da aggiungere, quindi non ho ancora finito...\nQuesta è una barca di origami che ho fatto per te: gli animali di carta che sono a bordo sono i nostri amici. E questa persona in piedi a prua, che non ho ancora avuto il tempo di colorare, sei tu. Nella mia mente, sei proprio come {F#una timoniera}{M#un timoniere}, che irradia luce dorata... Vuoi aiutarmi a dipingerti d'oro?\nAh, quasi dimenticavo... Questa barca si chiama \"{F#La viaggiatrice}{M#Il viaggiatore}\". Spero che continuerai a navigare insieme ai tuoi amici! Buon compleanno!"
+      },
+      {
+        "Title": "Pensieri sull'ascensione: Introduzione",
+        "Context": "Una leggenda narra di un drago malvagio che accumulava gemme luccicanti dietro le alte finestre di un castello."
+      },
+      {
+        "Title": "Pensieri sull'ascensione: Crescendo",
+        "Context": "Un eroe errante si arrampicò sui bastioni e vide il drago, le cui squame erano ricoperte di polvere stellare, spingere con il muso dei frammenti di stelle cadute, come ad aiutare gli spiriti smarriti delle stelle a ritrovare il loro cammino."
+      },
+      {
+        "Title": "Pensieri sull'ascensione: Culmine",
+        "Context": "L'eroe gettò la spada e parlò a palmi aperti: \"Vengo da oltre le stelle, permettimi di aiutarti\"."
+      },
+      {
+        "Title": "Pensieri sull'ascensione: Conclusione",
+        "Context": "Da quel giorno le alte finestre brillarono nella notte, mentre il drago guidava l'eroe a pattugliare la sponda cosmica. La luce delle stelle divenne il loro mantello, e l'amicizia la bussola che indicava loro il cammino."
+      },
+      {
+        "Title": "Abilità elementale (1)",
+        "Context": "State indietro!"
+      },
+      {
+        "Title": "Abilità elementale (2)",
+        "Context": "Attenzione!"
+      },
+      {
+        "Title": "Abilità elementale (3)",
+        "Context": "Ci penso io!"
+      },
+      {
+        "Title": "Abilità elementale (4)",
+        "Context": "Indietro!"
+      },
+      {
+        "Title": "Abilità elementale (5)",
+        "Context": "Distruggi!"
+      },
+      {
+        "Title": "Abilità elementale (6)",
+        "Context": "Artiglio divoratore!"
+      },
+      {
+        "Title": "Tripudio elementale (1)",
+        "Context": "La storia è appena iniziata."
+      },
+      {
+        "Title": "Tripudio elementale (2)",
+        "Context": "Deterioramento... Nuova vita."
+      },
+      {
+        "Title": "Tripudio elementale (3)",
+        "Context": "Una svolta nel destino."
+      },
+      {
+        "Title": "Tripudio elementale (4)",
+        "Context": "Stammi lontano!"
+      },
+      {
+        "Title": "Tripudio elementale (5)",
+        "Context": "L'ombra ardente dell'Abisso."
+      },
+      {
+        "Title": "Tripudio elementale (6)",
+        "Context": "Un lamento per il finale."
+      },
+      {
+        "Title": "Apertura baule (1)",
+        "Context": "Che emozione... È come aprire un regalo..."
+      },
+      {
+        "Title": "Apertura baule (2)",
+        "Context": "Come si usano?"
+      },
+      {
+        "Title": "Apertura baule (3)",
+        "Context": "Non avevo mai visto niente del genere... Interessante."
+      },
+      {
+        "Title": "PS bassi (1)",
+        "Context": "Posso continuare."
+      },
+      {
+        "Title": "PS bassi (2)",
+        "Context": "Ho ancora forza a sufficienza."
+      },
+      {
+        "Title": "PS bassi (3)",
+        "Context": "No... Non ancora!"
+      },
+      {
+        "Title": "PS bassi alleato (1)",
+        "Context": "È il mio turno di proteggerti."
+      },
+      {
+        "Title": "PS bassi alleato (2)",
+        "Context": "Fidati di me."
+      },
+      {
+        "Title": "Fuori combattimento (1)",
+        "Context": "Questo è... un buon finale?"
+      },
+      {
+        "Title": "Fuori combattimento (2)",
+        "Context": "Mi dispiace..."
+      },
+      {
+        "Title": "Fuori combattimento (3)",
+        "Context": "Diventerò una stella... nel cielo...?"
+      },
+      {
+        "Title": "Danni da colpo leggero (1)",
+        "Context": "Tieni le mani a posto."
+      },
+      {
+        "Title": "Danni da colpo leggero (2)",
+        "Context": "No."
+      },
+      {
+        "Title": "Danni da colpo pesante (1)",
+        "Context": "Assurdo!"
+      },
+      {
+        "Title": "Danni da colpo pesante (2)",
+        "Context": "Smettila!"
+      },
+      {
+        "Title": "Unione al gruppo (1)",
+        "Context": "Ciao a tutti, sono Durin."
+      },
+      {
+        "Title": "Unione al gruppo (2)",
+        "Context": "Ti seguo a ruota."
+      },
+      {
+        "Title": "Unione al gruppo (3)",
+        "Context": "Dobbiamo aumentare la nostra forza di combattimento? Darò il meglio di me."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Informazioni sul personaggio",
+        "Context": "Dopo un particolare Festival del Florvento, a Mondstadt apparve un volto nuovo: un giovane ragazzo con corna sulla testa e ali dietro la schiena. La maestra Jean disse alla gente che, un tempo, quel giovane era stato un drago; aveva ottenuto una forma umana attraverso una prodigiosa alchimia, e ora desiderava imparare come vivere tra di loro.\nA Mondstadt, una terra di innumerevoli fiabe, un drago trasformatosi in un umano non era esattamente una notizia sconvolgente. Ciò che davvero incuriosiva gli abitanti era il nome del ragazzo: Durin.\nOgni volta che quel nome veniva pronunciato ad alta voce, la gente guardava istintivamente verso il Picco del Drago. Sotto le sue nevi abbaglianti giacevano le titaniche ossa di una creatura scomparsa da tempo e, con esse, i ricordi di una calamità da mantenere sepolta. Per la maggior parte dei cittadini di Mondstadt, quel nome non evocava meraviglia, ma inquietudine.\nEppure, con Jean e i Cavalieri di Favonius a intercedere per lui, Durin venne comunque accolto in città.\nLa gente iniziò a vederlo ovunque in città, e scoprirono presto che, in realtà, Durin era estremamente timido. Era curioso verso tutti, ma preferiva osservare da lontano, incerto ed esitante ad avvicinarsi. Qualsiasi sensazione di terrore avesse suscitato un tempo il suo nome, il ragazzo che avevano davanti non ne mostrava traccia.\nPoco a poco, gli abitanti di Mondstadt si abituarono alla presenza di Durin. I loro sguardi diffidenti si addolcirono, e la vita quotidiana tornò al suo ritmo pacifico. Col tempo, pronunciare nuovamente il suo nome non portava più a guardare verso le bianche cime. Invece, faceva pensare a un ragazzo gentile, che arrossiva mentre chiedeva a Flora, davanti al Sussurro dei Fiori, quale bouquet potesse essere più adatto per un amico, o che stava fuori dal Buon Cacciatore, imbarazzato ma sincero, a chiedere come fare a non bruciare la carne. Poco alla volta, queste scene delicate cancellarono il ricordo di quell'antico disastro. Il nome \"Durin\", un tempo pronunciato con paura, non faceva più trasalire nessuno.\nIn un certo senso, era come riscrivere il finale di una storia dolorosa, partendo proprio dall'inizio."
+      },
+      {
+        "Title": "Storia del personaggio (1)",
+        "Context": "Conosci la storia di Durin?\nAttraverso delle indagini sul campo e lo studio di antichi documenti tramandati dalla gente di Mondstadt, la Gilda degli avventurieri riuscì a ricostruire un resoconto abbastanza dettagliato. Secoli addietro, quando la catastrofe di Khaenri'ah si diffuse su tutta la terra, un drago malvagio di nome Durin discese su Mondstadt con un'orda di creature dell'Abisso al suo seguito. La sua stessa esistenza rappresentava un disastro: con un solo respiro, esso poteva trasformare pianure fertili in terre desolate e aride. Guidato dal suo padrone Barbatos, l'Archon di Anemo, il famiglio Dvalin volò nei cieli sopra le montagne innevate per affrontare Durin in una feroce battaglia. Alla fine, Dvalin squarciò la gola di Durin e abbatté il drago. Tuttavia, anche Dvalin rimase contaminato dal suo sangue venefico, e rimase in questo stato fino a non molto tempo fa...\nTutto sommato, è una storia piuttosto tragica.\nNei giorni successivi a quella grande calamità, una certa poesia si diffuse silenziosamente tra i bardi di Mondstadt:\n\"Mamma, come tu mi hai chiesto, sono venuto su questa terra per mostrare a tutti la mia bellezza.\nI fiori di qui sono aulenti, il vento è soave. Corro con la brezza e i boccioli fioriscono più luminosi al mio passaggio.\nLe farfalle volteggiano attorno, come incantate dalla mia bellezza. Eppure, quando allungo la mano verso di loro, puntualmente si allontanano.\nIn seguito, però, una di loro mi si è avvicinata sua sponte, come invitandomi a danzare.\nHo accettato il suo invito e, insieme, abbiamo volteggiato e piroettato. A un certo punto, il vento ha sollevato i petali, adornando la nostra danza con i loro colori.\nMamma, credo di... aver fatto una nuova amicizia.\"\nStranamente, poco dopo la sua comparsa, i Cavalieri di Favonius risalirono all'origine della poesia dopo essere stati informati da uno sconosciuto. Così ne cancellarono il titolo e sigillarono la raccolta in cui era apparsa, dichiarandola un testo proibito.\nAll'epoca la gente non aveva idea del perché i Cavalieri di Favonius avessero agito in quel modo. Ma se nutri un vivo interesse per la storia di Durin e scavi un po' più a fondo, potresti trovare gli appunti sperimentali di un alchimista che rivelano che la coscienza di Durin, proveniente da oltre il cielo, venne fusa con il corpo del drago malvagio attraverso l'alchimia. Contaminato dal potere dell'Abisso, i suoi sensi e le sue esperienze erano ben lontani da quelli degli esseri comuni. Fino alla sua caduta, non ebbe altra scelta che diventare l'incarnazione del disastro, probabilmente senza riuscire a dare senso al mondo crudele che lo circondava.\nVista in questo modo, la poesia potrebbe in realtà raccontare la storia di Durin dal suo stesso punto di vista.\nUna certa maga s'imbatté in quella storia, e non poté fare a meno di provare un cocente rimpianto. Se l'anima conosciuta come Durin fosse riuscita a liberarsi dalla maledizione dell'Abisso, stringendo infine amicizia con Dvalin, quanto sarebbe potuto essere diverso il finale?\nForse per placare quel dolore persistente, la maga prese in mano la penna per ordire una nuova storia, una in cui l'eroe avrebbe portato il nome di Durin."
+      },
+      {
+        "Title": "Storia del personaggio (2)",
+        "Context": "Quando Durin arrivò per la prima volta a Mondstadt, evitava sempre i luoghi affollati. Era come una pennellata di colore solitaria ai margini di un dipinto... Sorprendente, eppure incapace di dar vita a una scena significativa. Intrappolato in quella pennellata statica, faticava a fare nuove amicizie e a iniziare una storia che fosse veramente sua.\nIn quel periodo, Lisa aveva appena accettato la richiesta di Jean di diventare l'educatrice di Durin. Osservando tutto con attenzione, si rese ben presto conto che Durin non era solitario per natura. Era evidente che desiderasse fare amicizia, eppure esitava a ogni occasione. Quando Lisa gli chiese spiegazioni, Durin finalmente confessò le sue preoccupazioni.\n\"Non... so come relazionarmi con gli altri esseri umani...\"\n\"Beh, imparare a interagire con le persone è un prerequisito dell'amicizia, ma non è qualcosa che si possa insegnare in un'aula\", rispose Lisa.\nCosì Lisa assegnò a Durin un compito speciale: uscire dalla sua stanza e osservare il modo in cui le persone di Mondstadt interagivano tra loro. La richiesta della sua educatrice dissolse gran parte della sua esitazione, e alla fine lasciò la sua stanza, proprio come un tempo era uscito dal suo nascondiglio nella miniera.\nAll'inizio, Durin scelse come sua guida Albedo, che considerava un genio in ogni cosa. Ma quando Durin disse di voler imparare le \"abilità sociali umane\"... Albedo si guardò intorno nel suo recondito laboratorio di alchimia, circondato da campi innevati. Dopo un momento di riflessione, suggerì a Durin di trovare un insegnante più appropriato.\nAllora Durin pensò a Klee. Lei sembrava capace di fare amicizia con chiunque, e di certo conosceva un metodo efficace per interagire con gli altri. Il consiglio di Klee, tuttavia, fu semplicemente di \"andare a fare pesca esplosiva insieme\". Secondo lei, due persone che avessero fatto saltare in aria qualche pesce assieme avrebbero potuto considerarsi dei veri compagni d'armi. Durin capì cosa intendesse solo dopo che Jean lo chiuse in cella d'isolamento insieme a Klee.\nDurin prese anche in considerazione di chiedere aiuto a Dahlia e Kaeya. Dopotutto, uno era un diacono esperto nell'ascolto e l'altro un Capitano di cavalleria desideroso di aiutare gli altri. Una volta che Durin ebbe spiegato la sua situazione, i due accettarono senza indugio e lo portarono al Dono dell'Angelo. Lì, il riservato Durin si mise a osservare i clienti della taverna che alzavano i loro boccali, cantando e ridendo tutti insieme. A Mondstadt, questa era chiaramente una \"interazione sociale umana\". Tuttavia, ci mancò poco che Durin non svenne al solo annusare quelle bevande. Fortunatamente, senza scomporsi, il barista sostituì rapidamente la sua bevanda con del succo di frutta. E così Durin si rese conto che quel metodo di socializzare andava ben oltre le sue capacità... Almeno per il momento.\nNonostante tutto, quell'esperienza gli diede un'idea. Si avventurò in un'altra taverna, più tranquilla e priva dei fumi inebrianti dell'alcool. Lì, la gente socializzava con un gioco di carte chiamato \"Invokazione del genio\". Tuttavia, prima che Durin riuscisse a trovare un avversario, venne circondato da una schiera di gatti, e riuscì a scappare solo grazie all'intervento di Diona...\nI giorni seguenti passarono in un batter d'occhio. Durin ci provò ancora e ancora, ma non riuscì mai a imparare un modo pratico per interagire con gli altri, e alla fine non aveva completato il compito speciale che Lisa gli aveva assegnato.\nTuttavia, quando tornò da lei per dirglielo, Lisa non lo biasimò.\n\"Vorrà dire che lo considereremo un compito a lungo termine. Quando sarai pronto, vieni da me e ti valuterò.\"\n\"Davvero? Grazie, signora!\"\nLisa non aveva allentato le regole con leggerezza. Vedeva che Durin non era più quel blocco isolato e incolore di prima. Aveva iniziato a trovare il suo posto nel mondo. Albedo aveva installato un sistema di riscaldamento supplementare nel suo laboratorio in montagna, i Cavalieri a volte lasciavano una sedia in più nella cella d'isolamento, il Dono dell'Angelo aveva aggiunto al bancone un posto riservato al consumo di succhi di frutta, e fuori dalla Coda di Gatto veniva posto occasionalmente un tavolo speciale. In effetti, l'interazione umana non aveva una forma fissa. Ogni persona aveva i propri limiti, si scontrava con gli altri, e alla fine trovava i luoghi più idonei per sé. Inconsapevolmente, Durin era già diventato una parte del dipinto. I suoi colori erano ancora un po' insoliti, ma ora aggiungeva qualcosa alle molte scene interessanti che si svolgevano intorno a lui. Le persone che apparivano in queste scene erano i suoi amici presenti e futuri. Gli eventi che si svolgevano al loro interno erano la sua storia.\nQuando se ne rese conto, il suo compito era già stato completato."
+      },
+      {
+        "Title": "Storia del personaggio (3)",
+        "Context": "Quando Durin arrivò per la prima volta a Teyvat, Sumeru fu la sua prima tappa. A quel tempo, non aveva ancora ottenuto un corpo umano ed era conosciuto da tutti come \"Mini Durin\". La sua stessa esistenza era straordinaria, il che naturalmente attirò l'attenzione sia di curiosi sia di persone senza scrupoli. Fortunatamente, Cappellotto non servì solo come sua guida, ma anche come guardia del corpo. Con nient'altro che la sua espressione perennemente cupa, riusciva a spaventare la maggior parte dei ficcanaso, mentre i mercenari assoldati dai mercanti che trafficavano bestie esotiche raramente sopravvivevano a un incontro in sua presenza.\nQuei giorni furono leggeri e felici per Durin. A confronto, Teyvat non poteva eguagliare la pace e le comodità di Simulanka, eppure si ritrovò incantato da quel nuovo mondo.\nMa l'unico dubbio che persisteva nella mente di Durin dal suo arrivo proveniva da Cappellotto stesso.\nIn quanto drago nato dalle fiabe, Durin vedeva tutti come una storia unica. Vivendo a Sumeru con Cappellotto, ebbe la fortuna di leggere innumerevoli racconti, tra cui \"Foresta pluviale, funghi, cura della coda e grandi orecchie\" o \"L'Akademiya, battute che i draghi non capiscono, Invokazione del genio e grandi orecchie sui cappelli\". Occasionalmente, i viaggi nel deserto offrivano l'opportunità di leggere \"Il deserto, l'acchiapparello e il piccolo levriero\"...\nEppure, ogni volta che Durin guardava Cappellotto, colui che aveva trascorso più tempo al suo fianco, non riusciva a scorgere alcuna storia.\nAlla fine Durin non espresse i suoi dubbi a Cappellotto. Sentiva che era semplicemente troppo presto, così gli rimase vicino, sperando di scoprire la sua storia. Non molto tempo dopo, tuttavia, Cappellotto suggerì di porre fine al loro viaggio.\n\"Mi sono stancato di questo viaggio. Dovresti andare a infastidire qualcun altro, o tornare in quel tuo mondo delle storie.\"\n\"No, non conosco ancora la tua storia!\"\nDurin si rifiutò categoricamente. Sebbene il tono di Cappellotto fosse tagliente come sempre, Durin capì che non stava cercando impazientemente di mandarlo via. La vera ragione per cui Cappellotto voleva che se ne andasse sembrava sepolta da qualche parte nella sua storia, ancora sconosciuta a Durin.\nSe fosse stato chiunque altro, Cappellotto probabilmente si sarebbe semplicemente voltato e se ne sarebbe andato via. Ma vide la determinazione negli occhi di Durin. Da quando il ragazzo aveva scelto di seguirlo in questo viaggio attraverso Teyvat, non era mai riuscito a respingerlo. E, anche quella volta, cedette.\n\"Tu desideri che la tua storia metta radici in questo mondo, Durin?\"\n\"La mia storia... In questo mondo?\"\n\"Questa sarà quasi certamente una scelta importante per te. Ma se resterai al mio fianco per sempre, quanto riuscirai a conoscere davvero del mondo? Voglio che tu vada oltre, che ne veda le cose belle, ma anche quelle brutte... Poi, una volta che avrai visto abbastanza, farai la tua scelta.\"\n\"Mmh... Ma che ne sarà della tua storia, Cappellotto?\"\n\"Se deciderai d'insidiare la tua storia in questo mondo, suppongo che ne farò parte anch'io, seppur marginalmente. Basterà solo che ti ricordi del ruolo che ho interpretato. La mia storia è questa, per quanto ti riguarda.\"\nSentendo quelle parole, Durin rimase in silenzio per molto tempo. Era la prima volta che sentiva Cappellotto parlare a qualcuno in quel modo: con un tono incoraggiante, ma al contempo quasi supplichevole.\nAlla fine, Durin accettò il suo consiglio."
+      },
+      {
+        "Title": "Storia del personaggio (4)",
+        "Context": "Prima che Durin venisse liberato dalla maledizione grazie alle benedizioni che tutti gli avevano concesso, aveva trascorso la maggior parte dei suoi giorni nelle miniere di Simulanka, tormentato dalla solitudine e dalla disperazione. Eppure, quando era arrivato per la prima volta, aveva vissuto un breve periodo di felicità. In quei giorni, sua madre, Anya \"Marie\" Andersdotter, era ancora viva.\nA quel tempo, Simulanka era ancora in costruzione. Ogni volta che sua madre riusciva a prendersi una pausa dal lavoro, lei e Durin la esploravano insieme.\nLungo il cammino, osservava lei e le sue due zie discutere su come plasmare il mondo intorno a loro. Quelle discussioni iniziavano sempre con la stessa domanda: \"Come sarebbe un mondo con i draghi?\" Da quella scintilla nascevano progetti grandiosi: profonde valli, lunghi sentieri e alti castelli... Tutto prendeva vita nel mezzo dei loro vivaci dibattiti.\nA volte, però, quelle discussioni si trasformavano in litigi. La zia rosso fuoco amava aggiungere elementi avvincenti, bombe o qualsiasi cosa rendesse il mondo più eccitante, mentre sua madre esprimeva sempre le proprie preoccupazioni. Amava gli abitanti di Simulanka come se fossero figli suoi, e non sopportava il pensiero che la loro casa potesse essere ridotta in rovine da qualche artificio sconsiderato. Tuttavia, i litigi non duravano mai a lungo. Ben presto, la zia rosso fuoco trovava modi ingegnosi per ritoccare le sue idee, placando le preoccupazioni di sua madre e rendendo il loro mondo ancora più animato e affascinante.\nAll'epoca la storia di Simulanka doveva ancora essere completata, e sua madre interrompeva spesso la scrittura per riflettere.\nOgni volta che lo faceva, sua zia azzurro pallido andava a trovarla, portando con sé raffinate tazze da tè e vassoi di dolci deliziosi. Le loro conversazioni erano profonde e lungimiranti, spaziando dai piacevoli pomeriggi alle silenziose notti, dalle stelle sopra di loro al futuro della stessa Simulanka.\nDurante quelle conversazioni, la zia azzurro pallido scrutava spesso le nuove scaglie che erano spuntate sul corpo di Durin, mettendolo a disagio. Tuttavia, portava sempre dei dolcetti stupendi, quindi quelle visite non gli dispiacevano troppo.\nIn tutti gli altri momenti, sua madre era spesso china alla scrivania a scrivere. Durin si sedeva silenziosamente al suo fianco, addormentandosi al suono della penna. Pensava che quei momenti sarebbero durati per sempre. Finché, un giorno, sua madre posò improvvisamente la penna, come se avesse finalmente terminato il suo lavoro.\n\"Vieni, figlio mio\", disse, alzandosi dalla sedia. \"Facciamo due passi assieme.\"\nCondusse Durin in un cortile in alto nel cielo. Guardando verso l'orizzonte, tese la mano, come se stesse tracciando il bordo di una pagina.\n\"Mio caro, se ne avessi l'opportunità... Vorresti lasciare questo mondo e vedere cosa si cela oltre di esso?\"\n\"Potrei davvero... farlo?\"\n\"Potresti\", rispose con un sorriso gentile. \"Tua zia Alice è davvero straordinaria, mi ha già dimostrato che la sua magia può renderlo possibile\".\n\"Allora... Cosa mi succederebbe dopo che me ne fossi andato?\"\n\"Non so dirlo\", disse dolcemente. \"Sono cose che accadranno dopo 'la mia fine'. Ma sai, 'andare in una terra lontana' è una frase curiosa. Alcune storie la usano come finale, mentre altre la usano come inizio. Durin, voglio che tu faccia qualcosa per me. Quando ne avrai l'occasione, prova a lasciare Simulanka. Vai a vedere cosa c'è là fuori.\nDovrai affrontare molte, molte difficoltà, ma non aver paura. La magia di Alice ti guiderà... E la mia benedizione ti accompagnerà\".\nRendendosi conto dell'importanza delle sue parole, Durin annuì solennemente, accettando il compito che gli era stato affidato.\n\"In tal caso\", mormorò sua madre, \"suppongo di aver appena finito di scrivere il passaggio più importante di tutti...\"\nDurin la osservò volgere lo sguardo verso il tramonto lontano. Le emozioni che baluginavano nei suoi occhi erano come la luce che vi si rifletteva... Prima ardendo di calore e d'un riluttante addio, per poi addolcirsi d'una quieta tenerezza, fino a svanire dolcemente nella notte.\nPoco dopo, gli ingranaggi del destino di Simulanka iniziarono a girare. Gli animali di origami del Bosco delle Benedizioni e i modellini giocattolo di Sideropoli iniziarono a vivere le storie che le tre dee avevano intessuto per loro.\nTuttavia la madre di Durin non c'era più e, per il momento, i suoi giorni di felicità erano giunti al termine."
+      },
+      {
+        "Title": "Storia del personaggio (5)",
+        "Context": "Trasportato dal vento che gli aveva donato Venti, Durin raggiunse Dvalin, e si librò insieme a lui nel cielo sopra Levanteolo. Così, finalmente, la storia che la maga stava scrivendo arrivò al capitolo che aveva tanto atteso.\nIn piedi accanto al lungo tavolo, intorno al quale le maghe si sedevano per le loro riunioni, Alice osservò la figura di Durin svanire in lontananza. I suoi pensieri vagarono indietro negli anni, fino a quella volta in cui tutte e sette le maghe si erano riunite a quello stesso tavolo per bere il tè. Deliziata dall'occasione, Alice aveva dato inizio a un gioco narrativo, per poi fermarsi al momento della scelta di un tema. Si rivolse ad Anya, la scrittrice tra loro, che offrì una risposta semplice e potente: \"Fiamma Perpetua\".\n\"Se mai ne avrò l'occasione, voglio lasciare dietro di me una 'Fiamma perpetua' attraverso le mie storie. Per uno scrittore, questa è la più grande aspirazione che io possa immaginare.\"\n\"Una 'Fiamma perpetua'? Cosa significa, esattamente?\"\n\"Credo che ognuna di noi abbia la propria risposta. Non è forse questo che la rende perfetta per la nostra storia? E io sto ancora cercando la mia, in ogni caso.\"\nAnya non rispose direttamente. Come faceva spesso nelle sue opere, lasciò un velo di suspense, accendendo la curiosità di Alice.\n\"Perfetto, allora procediamo con questo tema! Ogni volta che c'incontreremo, la persona successiva scriverà il suo capitolo. Mmh... Anya, tu ti occuperai del capitolo finale. Quando la storia arriverà alla conclusione, mi aspetto che tu abbia pronta una risposta per me.\"\nE fu così che iniziò la scrittura di gruppo. Alice si offrì volontaria per scrivere il primo capitolo: la piccola strega partì per un viaggio alla ricerca della \"Fiamma perpetua\", per completare le prove imposte dalla vecchia strega.\nAlice non aveva previsto che, prima della loro riunione successiva, Anya sarebbe morta, giacendo per sempre addormentata nella sua bara. Aveva sottovalutato il fatto che le streghe e gli umani vivevano il passaggio del tempo diversamente, e che questo avrebbe influenzato Anya profondamente. Credeva che avrebbe aspettato il prossimo capitolo, ma Anya era già invecchiata. Quando la storia giunse al suo quinto capitolo, Anya non c'era più.\nLa storia che Alice aveva iniziato prese una piega completamente diversa nel secondo e nel terzo capitolo, di cui dovevano occuparsi Barbeloth e Rhinedottir, ma venne parzialmente recuperata da Ivanovna nel quarto capitolo. Tuttavia, nel quinto capitolo, scritto da Nicole, fu conclusa frettolosamente in una sola riga. Alice si sentì frustrata, convinta che non avrebbe mai scoperto la risposta di Anya.\nLa storia prese una svolta con Octavia. L'Hexenzirkel non era mai stata segnata da una perdita. La morte di Anya aveva segnato particolarmente Octavia, che prima di allora si presentava raramente alle riunioni. Ella portò con sé il sesto capitolo già scritto, in cui alla piccola strega veniva data una seconda possibilità di riunirsi con la vecchia strega.\n\"Forse la Fiamma perpetua esiste davvero, dopotutto\", disse Octavia.\nSu suggerimento di Octavia, Alice rivolse la sua attenzione all'ultima opera che Anya si era lasciata alle spalle: il mondo che avevano creato insieme, chiamato \"Simulanka\". In quel mondo, un drago di nome Durin attendeva, irrequieto e incerto, i miracoli che si sarebbero potuti verificare in futuro. Le possibilità che Anya aveva intessuto in lui, proprio come i risvolti che aveva lasciato insoluti nelle sue altre opere, brillavano come una fiamma che ardeva dolcemente, illuminando il mondo della storia e stuzzicando la curiosità di Alice. Osservando quella fiamma, Alice ricordò la promessa che un tempo aveva fatto ad Anya.\n\"Sembra che il finale che avrebbe dovuto scrivere ora sia nelle mie mani.\"\nE così passarono gli anni, con Alice che spesso rivolgeva lo sguardo verso il drago. Osservò il bambino, un tempo gravato dal nome di un drago malvagio, ricevere le benedizioni degli altri, uscire dal mondo della storia, fare amicizie, forgiare legami con il mondo oltre il racconto, e insieme ai suoi compagni affrontare e superare il destino. Alla fine, lo vide riscrivere completamente la storia del drago malvagio Durin e prendere il volo insieme a Dvalin...\nRiportando i suoi pensieri al presente, Alice si rese conto di aver finalmente ricevuto la risposta di Anya.\n\"Anya, proprio come ho scritto alla fine della nostra storia, ho sempre pensato che tu fossi la più capace tra noi.\nDici sempre di non lasciare nulla dietro di te... ma ora riesco a vederla, la fiamma perpetua che ci hai lasciato.\""
+      },
+      {
+        "Title": "Cuore di drago",
+        "Context": "Il completo quotidiano di Durin deriva da un'esperienza straordinaria. Sebbene non esistesse alcuna prova, lui credeva che fosse un dono da parte di sua madre Anya, e per lui aveva un fascino magico. Dopotutto, conosceva molto bene ogni elemento del completo, ognuno dei quali poteva essere collegato alle opere di lei. Evidentemente sua madre adorava profondamente Durin, e lo vestiva come se fosse stato il principe di una fiaba.\nTuttavia, c'era un dettaglio che Durin non riconosceva: la gemma a forma di cuore sul colletto. Considerando com'era rinato e la particolare forma della gemma, ne comprese gradualmente il significato. La gemma conteneva il cuore del drago malvagio fuso con lui, e il suo corpo ora fungeva da custodia per tenerlo sigillato.\nMa quando Durin prese la penna di sua madre e iniziò a scrivere la propria storia, il lucchetto sul cuore svanì. Posando la mano sulla gemma, non sentì il battito di qualche essere malvagio, bensì il suo.\nIn quel momento, Durin finalmente comprese il vero significato della gemma: non era il cuore del drago, ma il suo.\nE ora quel cuore era libero."
+      },
+      {
+        "Title": "Visione",
+        "Context": "Quando Durin si recò a Mondstadt per visitare Albedo, vide per la prima volta l'enorme scheletro di un drago dormiente sulle montagne innevate. I proprietari di quelle ossa condividevano il suo nome.\nAttraverso le parole di Albedo, Durin apprese la devastazione che un tempo il suo nome aveva portato in quella terra, e che la storia era sul punto di ripetersi.\n\"Non c'è nessun modo per salvare la gente di qui?\"\n\"Un modo ci sarebbe, ma...\"\nAlbedo spiegò una possibilità: utilizzando l'alchimia per fondere Durin con il cuore del drago malvagio, avrebbe potuto sigillare completamente il suo potere abissale.\nTuttavia, il piano era tutt'altro che perfetto. Come parte essenziale di esso, Durin avrebbe dovuto sopportare alcuni costi. Albedo spiegò che, una volta completato il processo alchemico, Durin avrebbe preso il posto del drago malvagio e sarebbe rimasto in quel mondo. Eppure quel mondo era ben lontano dalla bellezza pacifica di Simulanka, e il potere che avrebbe dovuto sigillare era molto più terrificante della maledizione che un tempo aveva trasformato ogni cosa in blocchi da costruzione.\nAlbedo sapeva che non era una richiesta unilaterale, e rispettava la scelta di Durin.\nDurin guardò verso le ossa di drago in lontananza, percependo la forza che lo aveva guidato fin lì. Eppure, con quella decisione davanti a sé, ora quella forza si era fatta silenziosa. Persino le dee che scrivevano il destino sembravano aver posato le loro penne. Questa scelta era solo sua.\n\"E se... volessi rimanere?\"\nIn quel momento, i ricordi del suo passato lo travolsero. Sua madre gli aveva detto di andare lontano, portandolo a Teyvat. Cappellotto lo aveva esortato ad andare ancora più lontano e, in quel modo, aveva visto il mondo in tutta la sua bellezza e crudeltà. Lungo il cammino, aveva affrontato innumerevoli eventi inaspettati, alcuni gioiosi, altri deludenti, nessuno dei quali era disposto ordinatamente come in una storia. Le sorprese erano giunte senza essere state richieste, e a volte le aspettative erano rimaste deluse.\nEppure era proprio quell'incertezza ad affascinare Durin, colui che era uscito dalle pagine di un racconto, e lo spingeva a continuare a esplorare quel mondo. Ed era proprio quell'incertezza a concedergli qualcosa che nessun personaggio vincolato da una storia avrebbe mai potuto possedere, qualcosa che nasce solo quando si affronta l'ignoto:\nun \"desiderio\".\n\"Voglio rimanere. Amo questo mondo. Voglio esaudire la richiesta di mia madre, lasciare la mia storia come ha detto Cappellotto, e aiutarti a salvare tutti... Sopprimere il drago malvagio e diventare... un vero essere umano.\"\nAlla fine, fu Durin ad affidare solennemente il suo desiderio ad Albedo.\n\"Ti prego... Aiutami a realizzare questo desiderio.\"\nE così iniziò una grande prova. La luce della matrice alchemica brillò nel cielo di Mondstadt.\nQuando fu tutto finito, Durin vide una Visione splendente al centro del cerchio.\nIl suo desiderio era stato esaudito."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212301,
+      "Name": "Verso l'orizzonte distante",
+      "Description": "Il completo di Durin. Il completo originale di Durin ha ricevuto nuova vita una volta che ha preso in mano la penna di sua madre. Alla fine, ha detto addio al passato scritto dal suo precedente proprietario. Quando il lucchetto del suo cuore è sparito, l'orizzonte distante verso cui ora punta il suo desiderio è diventato la direzione verso la quale la sua storia continua a svilupparsi.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
+      "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
+    },
+    {
+      "Id": 212300,
+      "Name": "Un dono dalle stelle",
+      "Description": "L'abito di Durin. Mentre il fumo della matrice alchemica si dissipava gradualmente, un bagliore di stelle attirò lo sguardo di Durin verso la finestra. Nel riflesso del vetro, si vide vestito con un elegante abito formale, proprio come un principe uscito da una fiaba. Poi, quando si guardò di nuovo, si rese conto che in realtà indossava proprio quell'abito. Ma chi poteva avergli mandato quel dono? Le stelle all'esterno si limitavano a scintillare silenziosamente, senza dare risposta.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104114,
+    113080,
+    101261,
+    112127,
+    104309,
+    113069
+  ],
+  "NameCard": {
+    "Name": "Durin: Cuore raggiante",
+    "Description": "Stile per la carta giocatore.\nIl battito incessante nel suo petto gli permette di non dimenticare queste parole: \"Tu sostieni le speranza di un lontano passato, e possiedi un'anima tanto risplendente quanto nascente. In te brucia un fervore che nessuna tormenta potrà mai smorzare\".",
+    "Icon": "UI_NameCardIcon_Durin",
+    "PicturePrefix": "UI_NameCardPic_Durin"
+  }
+}
