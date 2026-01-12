@@ -711,7 +711,7 @@
       {
         "Id": 1001,
         "Name": "Los fragmentos también son gemas",
-        "Description": "#Cuando Kachina se suba o se baje del <color=#FFD780FF>turbogirador</color>, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento, Kachina recupera 3{NON_BREAK_SPACE}pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5{NON_BREAK_SPACE}s de esta manera.",
+        "Description": "#Cuando Kachina se suba o se baje del <color=#FFD780FF>turbogirador</color>, recogerá los fragmentos cercanos creados con la reacción de Cristalización.\nAdemás, cuando un personaje del equipo recoge un fragmento o causa una reacción de Cristalización Lunar, Kachina recupera 3{NON_BREAK_SPACE}pts. de Energía Elemental. Solo puede recuperar Energía Elemental una vez cada 5{NON_BREAK_SPACE}s de esta manera.",
         "Icon": "UI_Talent_S_Kachina_01"
       },
       {

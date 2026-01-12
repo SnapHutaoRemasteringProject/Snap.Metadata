@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina - Un jour...",
+    "Description": "Thème.\nElle danse dans les eaux peu profondes des ruisseaux limpides et se laisse porter par le courant, s'endormant sous les pâles ombres des montagnes. Elle erre à travers les ondulations du temps, jouant à cache-cache avec les kuuhenkis.\nElle se repose dans le jardin de toutes choses, fredonnant doucement à chaque être vivant. Dans les heures silencieuses précédant l'aube, elle attend le jour de leurs retrouvailles.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai - Vue voilée",
+    "Description": "Thème.\nLe ciel et la terre ne sont qu'une auberge pour le voyageur, et le temps n'est qu'un vagabond traversant les âges.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga - Oiseau de cauchemar",
+    "Description": "Thème.\nAprès avoir bravé les ténèbres de la nuit, l'oriole déverse son ardeur dans le monde lumineux du jour, et consume les cauchemars d'une fureur féroce.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Succès - Vue lointaine",
+    "Description": "Thème.\nLe voyageur se tenait autrefois au sommet de la ville pour contempler l'horizon lointain, convaincu que les paysages aperçus au loin deviendraient un jour des étapes dans son voyage à venir.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai - Longue nuit",
+    "Description": "Thème.\nDans la plus noire des nuits, une lampe s'élèvera, ce soir, et pour mille nuits encore.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "PB - Ode sous la lanterne",
+    "Description": "Thème.\nPriez une lune éclatante pour moi, souhaitez-moi une belle journée. Dans ma cape printanière, je suis la danse des rayons de lune.",
+    "SpecialDescription": "Thème PB - Ode sous la lanterne",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

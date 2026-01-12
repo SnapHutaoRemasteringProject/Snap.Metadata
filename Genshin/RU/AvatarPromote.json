@@ -16940,6 +16940,468 @@
     ]
   },
   {
+    "Id": 125,
+    "Level": 0,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 0
+      },
+      {
+        "Type": 7,
+        "Value": 0
+      },
+      {
+        "Type": 4,
+        "Value": 0
+      },
+      {
+        "Type": 20,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 1,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 980.86285
+      },
+      {
+        "Type": 7,
+        "Value": 34.371
+      },
+      {
+        "Type": 4,
+        "Value": 6.38552
+      },
+      {
+        "Type": 20,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 2,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 1677.7917
+      },
+      {
+        "Type": 7,
+        "Value": 58.7925
+      },
+      {
+        "Type": 4,
+        "Value": 10.9226
+      },
+      {
+        "Type": 20,
+        "Value": 0.048
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 3,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 2607.0303
+      },
+      {
+        "Type": 7,
+        "Value": 91.3545
+      },
+      {
+        "Type": 4,
+        "Value": 16.97204
+      },
+      {
+        "Type": 20,
+        "Value": 0.096
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 4,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 3303.959
+      },
+      {
+        "Type": 7,
+        "Value": 115.776
+      },
+      {
+        "Type": 4,
+        "Value": 21.50912
+      },
+      {
+        "Type": 20,
+        "Value": 0.096
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 5,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 4000.888
+      },
+      {
+        "Type": 7,
+        "Value": 140.1975
+      },
+      {
+        "Type": 4,
+        "Value": 26.0462
+      },
+      {
+        "Type": 20,
+        "Value": 0.144
+      }
+    ]
+  },
+  {
+    "Id": 125,
+    "Level": 6,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 4697.817
+      },
+      {
+        "Type": 7,
+        "Value": 164.619
+      },
+      {
+        "Type": 4,
+        "Value": 30.58328
+      },
+      {
+        "Type": 20,
+        "Value": 0.192
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 0,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 0
+      },
+      {
+        "Type": 7,
+        "Value": 0
+      },
+      {
+        "Type": 4,
+        "Value": 0
+      },
+      {
+        "Type": 22,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 1,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 862.3419
+      },
+      {
+        "Type": 7,
+        "Value": 63.8685
+      },
+      {
+        "Type": 4,
+        "Value": 15.006
+      },
+      {
+        "Type": 22,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 2,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 1475.0585
+      },
+      {
+        "Type": 7,
+        "Value": 109.2488
+      },
+      {
+        "Type": 4,
+        "Value": 25.6681
+      },
+      {
+        "Type": 22,
+        "Value": 0.096
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 3,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 2292.014
+      },
+      {
+        "Type": 7,
+        "Value": 169.7558
+      },
+      {
+        "Type": 4,
+        "Value": 39.8843
+      },
+      {
+        "Type": 22,
+        "Value": 0.192
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 4,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 2904.7307
+      },
+      {
+        "Type": 7,
+        "Value": 215.136
+      },
+      {
+        "Type": 4,
+        "Value": 50.5464
+      },
+      {
+        "Type": 22,
+        "Value": 0.192
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 5,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 3517.4473
+      },
+      {
+        "Type": 7,
+        "Value": 260.5163
+      },
+      {
+        "Type": 4,
+        "Value": 61.2086
+      },
+      {
+        "Type": 22,
+        "Value": 0.288
+      }
+    ]
+  },
+  {
+    "Id": 126,
+    "Level": 6,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 4130.164
+      },
+      {
+        "Type": 7,
+        "Value": 305.8965
+      },
+      {
+        "Type": 4,
+        "Value": 71.8707
+      },
+      {
+        "Type": 22,
+        "Value": 0.384
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 0,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 0
+      },
+      {
+        "Type": 7,
+        "Value": 0
+      },
+      {
+        "Type": 4,
+        "Value": 0
+      },
+      {
+        "Type": 28,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 1,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 749.27
+      },
+      {
+        "Type": 7,
+        "Value": 50.958
+      },
+      {
+        "Type": 4,
+        "Value": 11.97342
+      },
+      {
+        "Type": 28,
+        "Value": 0
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 2,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 1281.6461
+      },
+      {
+        "Type": 7,
+        "Value": 87.165
+      },
+      {
+        "Type": 4,
+        "Value": 20.48085
+      },
+      {
+        "Type": 28,
+        "Value": 24
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 3,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 1991.4808
+      },
+      {
+        "Type": 7,
+        "Value": 135.441
+      },
+      {
+        "Type": 4,
+        "Value": 31.82409
+      },
+      {
+        "Type": 28,
+        "Value": 48
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 4,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 2523.857
+      },
+      {
+        "Type": 7,
+        "Value": 171.648
+      },
+      {
+        "Type": 4,
+        "Value": 40.33152
+      },
+      {
+        "Type": 28,
+        "Value": 48
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 5,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 3056.233
+      },
+      {
+        "Type": 7,
+        "Value": 207.855
+      },
+      {
+        "Type": 4,
+        "Value": 48.83895
+      },
+      {
+        "Type": 28,
+        "Value": 72
+      }
+    ]
+  },
+  {
+    "Id": 127,
+    "Level": 6,
+    "AddProperties": [
+      {
+        "Type": 1,
+        "Value": 3588.6091
+      },
+      {
+        "Type": 7,
+        "Value": 244.062
+      },
+      {
+        "Type": 4,
+        "Value": 57.34638
+      },
+      {
+        "Type": 28,
+        "Value": 96
+      }
+    ]
+  },
+  {
     "Id": 999,
     "Level": 0,
     "AddProperties": [

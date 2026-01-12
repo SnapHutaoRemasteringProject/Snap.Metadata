@@ -26293,34 +26293,35 @@
     "Goal": 0,
     "FirstWaves": [
       {
-        "Type": 0,
+        "Type": 1,
         "Monsters": [
           {
-            "Id": 108,
-            "Count": 1
+            "Id": 109,
+            "Count": 2
           },
           {
             "Id": 111,
-            "Count": 1
+            "Count": 3
+          },
+          {
+            "Id": 108,
+            "Count": 30
           },
           {
             "Id": 110,
-            "Count": 1
-          },
-          {
-            "Id": 109,
-            "Count": 1
+            "Count": 30
           }
         ]
       }
     ],
     "SecondWaves": [
       {
-        "Type": 0,
+        "Type": 1,
+        "Description": "<b>维持2个</b>",
         "Monsters": [
           {
             "Id": 50801,
-            "Count": 1
+            "Count": 10
           }
         ]
       }
@@ -26334,22 +26335,32 @@
     "Goal": 0,
     "FirstWaves": [
       {
-        "Type": 0,
+        "Type": 1,
+        "Description": "<b>维持5个</b>",
         "Monsters": [
           {
-            "Id": 604,
-            "Count": 1
+            "Id": 601,
+            "Count": 15
           },
           {
-            "Id": 601,
-            "Count": 1
+            "Id": 604,
+            "Count": 15
           }
         ]
       }
     ],
     "SecondWaves": [
       {
-        "Type": 0,
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 62702,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
         "Monsters": [
           {
             "Id": 62702,
@@ -26367,20 +26378,35 @@
     "Goal": 0,
     "FirstWaves": [
       {
-        "Type": 0,
+        "Type": 1,
         "Monsters": [
           {
             "Id": 30401,
-            "Count": 1
-          },
+            "Count": 2
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
           {
             "Id": 30101,
-            "Count": 1
-          },
+            "Count": 2
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Monsters": [
           {
             "Id": 30793,
             "Count": 1
-          },
+          }
+        ]
+      },
+      {
+        "Type": 4,
+        "Monsters": [
           {
             "Id": 30501,
             "Count": 1
@@ -26552,6 +26578,461 @@
         "Monsters": [
           {
             "Id": 40632,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 358,
+    "GroupId": 120,
+    "Index": 1,
+    "MonsterLevel": 87,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 54101,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 54101,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Monsters": [
+          {
+            "Id": 54101,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 30851,
+            "Count": 3
+          },
+          {
+            "Id": 30852,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 359,
+    "GroupId": 120,
+    "Index": 2,
+    "MonsterLevel": 89,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 40302,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 40302,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 21300,
+            "Count": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 360,
+    "GroupId": 120,
+    "Index": 3,
+    "MonsterLevel": 91,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 40103,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 40103,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Monsters": [
+          {
+            "Id": 40103,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 5102,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 361,
+    "GroupId": 121,
+    "Index": 1,
+    "MonsterLevel": 94,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 40211,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 21300,
+            "Count": 2
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 21320,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 362,
+    "GroupId": 121,
+    "Index": 2,
+    "MonsterLevel": 97,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 40612,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 62609,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 3,
+        "Monsters": [
+          {
+            "Id": 62609,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 55602,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 363,
+    "GroupId": 121,
+    "Index": 3,
+    "MonsterLevel": 99,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 63001,
+            "Count": 1
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 63004,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 41001,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 364,
+    "GroupId": 122,
+    "Index": 1,
+    "MonsterLevel": 87,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 113,
+            "Count": 1
+          },
+          {
+            "Id": 112,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 60509,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 365,
+    "GroupId": 122,
+    "Index": 2,
+    "MonsterLevel": 89,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 40658,
+            "Count": 1
+          },
+          {
+            "Id": 54101,
+            "Count": 1
+          },
+          {
+            "Id": 54102,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 61402,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 366,
+    "GroupId": 122,
+    "Index": 3,
+    "MonsterLevel": 91,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 63004,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 511,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 367,
+    "GroupId": 123,
+    "Index": 1,
+    "MonsterLevel": 94,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 6201,
+        "Monsters": [
+          {
+            "Id": 21401,
+            "Count": 15
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 810,
+            "Count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 368,
+    "GroupId": 123,
+    "Index": 2,
+    "MonsterLevel": 97,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 1,
+        "Monsters": [
+          {
+            "Id": 61601,
+            "Count": 2
+          }
+        ]
+      },
+      {
+        "Type": 2,
+        "Monsters": [
+          {
+            "Id": 61701,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 6301,
+        "Description": "<b>维持2个</b>",
+        "Monsters": [
+          {
+            "Id": 21310,
+            "Count": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 369,
+    "GroupId": 123,
+    "Index": 3,
+    "MonsterLevel": 99,
+    "Goal": 0,
+    "FirstWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 21501,
+            "Count": 1
+          }
+        ]
+      }
+    ],
+    "SecondWaves": [
+      {
+        "Type": 0,
+        "Monsters": [
+          {
+            "Id": 61401,
             "Count": 1
           }
         ]

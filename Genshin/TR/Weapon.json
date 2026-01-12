@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Işıldayan Ay Parçası",
+    "Description": "Efsanevi bir kılıç. Berrak pınarların arasına gizlenmiş bir Adeptus tarafından, bir kuyunun içindeki parıldayan ay ışığıyla dövüldüğü söylenir. Gerçek formu ancak alacakaranlık ile şafağın buluştuğu anda ortaya çıkar.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Lang-Gan'ın Mirası",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Savunmayı <color=#99FFFFFF>%20</color> artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar <color=#99FFFFFF>%64</color> artar."
+        },
+        {
+          "Level": 1,
+          "Description": "Savunmayı <color=#99FFFFFF>%25</color> artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar <color=#99FFFFFF>%80</color> artar."
+        },
+        {
+          "Level": 2,
+          "Description": "Savunmayı <color=#99FFFFFF>%30</color> artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar <color=#99FFFFFF>%96</color> artar."
+        },
+        {
+          "Level": 3,
+          "Description": "Savunmayı <color=#99FFFFFF>%35</color> artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar <color=#99FFFFFF>%112</color> artar."
+        },
+        {
+          "Level": 4,
+          "Description": "Savunmayı <color=#99FFFFFF>%40</color> artırır. Kuşanan karakter bir Element Becerisi kullandıktan sonra 5 saniyeliğine Ay Kristalleşmesi tepkimeleri ile verilen Hasar <color=#99FFFFFF>%128</color> artar."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>12</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>60</color> artar. Bu etki 15 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>12</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>60</color> artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
         },
         {
           "Level": 1,
-          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>15</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>75</color> artar. Bu etki 15 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>15</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>75</color> artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
         },
         {
           "Level": 2,
-          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>18</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>90</color> artar. Bu etki 15 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>18</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>90</color> artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
         },
         {
           "Level": 3,
-          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>21</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>105</color> artar. Bu etki 15 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>21</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>105</color> artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
         },
         {
           "Level": 4,
-          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme veya Ay Çiçeklenmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>24</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>120</color> artar. Bu etki 15 saniyede bir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
+          "Description": "Elektrik Yüklü, Ay Yüklü, Çiçeklenme, Ay Çiçeklenmesi, Kristalleşme veya Ay Kristalleşmesi tepkimeleri tetiklendiğinde <color=#99FFFFFF>24</color> Element Enerjisi yenilenir ve 15sn boyunca Element Ustalığı <color=#99FFFFFF>120</color> artar. Bu etki en fazla 15 saniyede bir tetiklenebilir ve kuşanan karakter savaş alanında olmasa da tetiklenebilir."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Saldırıyı <color=#99FFFFFF>%20</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%18</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur."
+          "Description": "Saldırıyı <color=#99FFFFFF>%20</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%18</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 1,
-          "Description": "Saldırıyı <color=#99FFFFFF>%25</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%22,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur."
+          "Description": "Saldırıyı <color=#99FFFFFF>%25</color> artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%22,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 2,
-          "Description": "Saldırıyı <color=#99FFFFFF>%30</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%27</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur."
+          "Description": "Saldırıyı <color=#99FFFFFF>%30</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%27</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 3,
-          "Description": "Saldırıyı <color=#99FFFFFF>%35</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%31,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur."
+          "Description": "Saldırıyı <color=#99FFFFFF>%35</color> artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%31,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 4,
-          "Description": "Saldırıyı <color=#99FFFFFF>%40</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%36</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur."
+          "Description": "Saldırıyı <color=#99FFFFFF>%40</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%36</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Son Perde Noktürnü",
+    "Description": "Ay ışığıyla çevrili yeşim bir inci. En soğuk kış gecesinde bile narin sıcaklığı yankılanan bir şarkı gibi hissedilir.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Kesişen Yolların Şarkısı",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Maks. Can <color=#99FFFFFF>%10</color> artar. Ay Tepkimeleri tetikledikten veya düşmanlara Ay Tepkimesi Hasarı verdikten sonra kuşanan karakter <color=#99FFFFFF>14</color> Enerji yeniler ve 12 saniyeliğine Bereketli Denizin Kutsal Şarabı etkisini kazanır: Maks. Can fazladan <color=#99FFFFFF>%14</color> artar, Ay Tepkimesi Hasarı kaynaklı Kritik Hasar <color=#99FFFFFF>%60</color> artar. Enerji yenileme etkisi en fazla 18 saniyede bir tetiklenebilir ve kuşanan karakter alanda olmasa bile tetiklenebilir."
+        },
+        {
+          "Level": 1,
+          "Description": "Maks. Can <color=#99FFFFFF>%12</color> artar. Ay Tepkimelerini tetikledikten veya düşmanlara Ay Tepkimesi Hasarı verdikten sonra kuşanan karakter <color=#99FFFFFF>15</color> Enerji yeniler ve 12 saniyeliğine Bereketli Denizin Kutsal Şarabı etkisini kazanır: Maks. Can fazladan <color=#99FFFFFF>%16</color> artar, Ay Tepkimesi Hasarı kaynaklı Kritik Hasar <color=#99FFFFFF>%80</color> artar. Enerji yenileme etkisi en fazla 18 saniyede bir tetiklenebilir ve kuşanan karakter alanda olmasa bile tetiklenebilir."
+        },
+        {
+          "Level": 2,
+          "Description": "Maks. Can <color=#99FFFFFF>%14</color> artar. Ay Tepkimelerini tetikledikten veya düşmanlara Ay Tepkimesi Hasarı verdikten sonra kuşanan karakter <color=#99FFFFFF>16</color> Enerji yeniler ve 12 saniyeliğine Bereketli Denizin Kutsal Şarabı etkisini kazanır: Maks. Can fazladan <color=#99FFFFFF>%18</color> artar, Ay Tepkimesi Hasarı kaynaklı Kritik Hasar <color=#99FFFFFF>%100</color> artar. Enerji yenileme etkisi en fazla 18 saniyede bir tetiklenebilir ve kuşanan karakter alanda olmasa bile tetiklenebilir."
+        },
+        {
+          "Level": 3,
+          "Description": "Maks. Can <color=#99FFFFFF>%16</color> artar. Ay Tepkimelerini tetikledikten veya düşmanlara Ay Tepkimesi Hasarı verdikten sonra kuşanan karakter <color=#99FFFFFF>17</color> Enerji yeniler ve 12 saniyeliğine Bereketli Denizin Kutsal Şarabı etkisini kazanır: Maks. Can fazladan <color=#99FFFFFF>%20</color> artar, Ay Tepkimesi Hasarı kaynaklı Kritik Hasar <color=#99FFFFFF>%120</color> artar. Enerji yenileme etkisi en fazla 18 saniyede bir tetiklenebilir ve kuşanan karakter alanda olmasa bile tetiklenebilir."
+        },
+        {
+          "Level": 4,
+          "Description": "Maks. Can <color=#99FFFFFF>%18</color> artar. Ay Tepkimelerini tetikledikten veya düşmanlara Ay Tepkimesi Hasarı verdikten sonra kuşanan karakter <color=#99FFFFFF>18</color> Enerji yeniler ve 12 saniyeliğine Bereketli Denizin Kutsal Şarabı etkisini kazanır: Maks. Can fazladan <color=#99FFFFFF>%22</color> artar, Ay Tepkimesi Hasarı kaynaklı Kritik Hasar <color=#99FFFFFF>%140</color> artar. Enerji yenileme etkisi en fazla 18 saniyede bir tetiklenebilir ve kuşanan karakter alanda olmasa bile tetiklenebilir."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

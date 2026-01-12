@@ -3156,7 +3156,7 @@
     "Id": 210264,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "ヤフォダ・助っ人",
+    "Name": "ヤフォダ・手助け",
     "Description": "名刺の飾り紋。\n「忙しい時は、ヤフォダの手も借りたいくらいだ。」——これは、その手の持ち主が機敏で頼りになることの証。きっとそうだ！",
     "Icon": "UI_NameCardIcon_Jahoda",
     "Pictures": [
@@ -3187,6 +3187,79 @@
     "Pictures": [
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
+    ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "コロンビーナ・幾時",
+    "Description": "名刺の飾り紋。\n清渓の浅瀬で舞い、蒼白き山影で夢に入る。時のさざなみを漂いながら、月霊と戯れてかくれんぼ。\n万物の花園でひと休みし、すべての生き物に歌を口ずさむ。夜も更けぬうちに、彼女はいつかの再会を待ち侘びている。",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "兹白・煙景",
+    "Description": "名刺の飾り紋。\n天地は万物の逆旅にして、光陰は百代の過客なり。",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "イルーガ・闇の夜鳴鶯",
+    "Description": "名刺の飾り紋。\n暗い夜を耐え抜いた夜鳴鶯は、白昼の世界のすべてに情熱で応え、怒りの炎で悪夢を焼き払うだろう。",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "アチーブメント・眺望",
+    "Description": "名刺の飾り紋。\n旅人は街の高台に立ち、遠くを見渡す。目の届く限りの遥かな景色も、いずれは旅の記録に刻まれる通過点となることを確信していた。",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "ナド・クライ・長灯",
+    "Description": "名刺の飾り紋。\n最も暗い夜空にも、必ず明かりは灯る。一夜であれ、千夜であれ、同じように。",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "紀行・天翔",
+    "Description": "名刺の飾り紋。\n明月を祈り、良き朝を祝う。春の衣を纏い、共に大空へと翔けよう。",
+    "SpecialDescription": "「紀行・天翔」名刺の飾り紋",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
     ]
   }
 ]

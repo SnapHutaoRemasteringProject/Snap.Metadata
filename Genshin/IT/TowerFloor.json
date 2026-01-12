@@ -1198,10 +1198,56 @@
     "Background": "UI_TowerPic_5",
     "Descriptions": [],
     "FirstDescriptions": [
-      "I personaggi non attivi ottengono un 75% di bonus DAN da Pyro."
+      "I personaggi inattivi ottengono un 75% di bonus DAN da Pyro."
     ],
     "SecondDescriptions": [
       "I DAN da attacco in picchiata dei personaggi aumentano di un 75%."
+    ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Hydro.",
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Electro."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "I DAN degli attacchi caricati dal personaggio attivo aumentano di 75%."
+    ],
+    "SecondDescriptions": [
+      "I DAN da reazione lunare aumentano di un 75%."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Hydro.",
+      "Tutti i membri del gruppo ricevono un 60% di bonus DAN da Geo."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "I DAN da Carica lunare aumentano di un 75%."
+    ],
+    "SecondDescriptions": [
+      "I DAN da Cristallizzazione lunare aumentano di un 75%."
     ]
   }
 ]

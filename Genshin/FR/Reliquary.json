@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "Délire de la dévote du givre",
     "Description": "Une montre immaculée qui a cessé de tourner depuis longtemps, en même temps que les illusions de son ancien propriétaire.",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libation d'offrande sous la lune",
+    "Description": "Une coupe à vin perdue lors des dernières festivités d'un rite antique, au cours duquel les croyants offraient autrefois des sacrifices aux lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Lumière d'offrande sous la lune",
+    "Description": "Une plume qui, dans les temps anciens, accordait une inspiration sans limites aux prêtres qui rédigeaient des prières aux lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Couronne d'offrande sous la lune",
+    "Description": "Un cercle d'argent, mis de côté à la dernière syllabe d'un hymne, porté par les poètes qui, dans les temps anciens, chantaient les louanges des lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Rêve d'offrande sous la lune",
+    "Description": "Un ornement floral minutieusement sculpté, destiné à mettre en valeur la beauté resplendissante des déesses des lunes célestes, créé dans les temps anciens par des artisans qui sculptaient leurs statues.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Finalité d'offrande sous la lune",
+    "Description": "Un sablier destiné à commémorer la dernière heure, préparé par des sages qui, dans les temps anciens, cherchaient la vérité auprès des lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libation d'offrande sous la lune",
+    "Description": "Une coupe à vin perdue lors des dernières festivités d'un rite antique, au cours duquel les croyants offraient autrefois des sacrifices aux lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Lumière d'offrande sous la lune",
+    "Description": "Une plume qui, dans les temps anciens, accordait une inspiration sans limites aux prêtres qui rédigeaient des prières aux lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Couronne d'offrande sous la lune",
+    "Description": "Un cercle d'argent, mis de côté à la dernière syllabe d'un hymne, porté par les poètes qui, dans les temps anciens, chantaient les louanges des lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Rêve d'offrande sous la lune",
+    "Description": "Un ornement floral minutieusement sculpté, destiné à mettre en valeur la beauté resplendissante des déesses des lunes célestes, créé dans les temps anciens par des artisans qui sculptaient leurs statues.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Finalité d'offrande sous la lune",
+    "Description": "Un sablier destiné à commémorer la dernière heure, préparé par des sages qui, dans les temps anciens, cherchaient la vérité auprès des lunes célestes.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Conte inavoué du banquet",
+    "Description": "Un gobelet ancien, dont la surface azurée est ternie par le temps. La rumeur prétend qu'il aurait jadis appartenu à un barde anonyme.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Serment éclatant de l'aube",
+    "Description": "Un accessoire de plumes de couleur azur, limpide comme l'aurore, qui aurait appartenu jadis à un garde ayant renié son nom.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Ballade d'amour et de lamentations",
+    "Description": "Un accessoire de cheveux luxueux orné de cristaux de jade et d'azur, qui aurait été jadis un gage offert par le seigneur de la tempête à une personne privilégiée.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Inscription de fleur sur le vent",
+    "Description": "Une fleur de cristal azur qui ne se fane jamais, ayant jadis appartenu, dit-on, à une jeune fille errante qui invoquait mille vents et mille fleurs.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Note dans le chant printanier",
+    "Description": "Un sablier rempli de sable azur. Pour des raisons inconnues, peu importe comment on le retourne, les grains de sable restent immobiles.",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Conte inavoué du banquet",
+    "Description": "Un gobelet ancien, dont la surface azurée est ternie par le temps. La rumeur prétend qu'il aurait jadis appartenu à un barde anonyme.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Serment éclatant de l'aube",
+    "Description": "Un accessoire de plumes de couleur azur, limpide comme l'aurore, qui aurait appartenu jadis à un garde ayant renié son nom.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Ballade d'amour et de lamentations",
+    "Description": "Un accessoire de cheveux luxueux orné de cristaux de jade et d'azur, qui aurait été jadis un gage offert par le seigneur de la tempête à une personne privilégiée.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Inscription de fleur sur le vent",
+    "Description": "Une fleur de cristal azur qui ne se fane jamais, ayant jadis appartenu, dit-on, à une jeune fille errante qui invoquait mille vents et mille fleurs.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Note dans le chant printanier",
+    "Description": "Un sablier rempli de sable azur. Pour des raisons inconnues, peu importe comment on le retourne, les grains de sable restent immobiles.",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

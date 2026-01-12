@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Fragmento Lunar da Luz",
+    "Description": "Uma espada lendária. Dizem ter sido forjada do luar reluzente de um poço por um Adeptus escondido entre nascentes. Sua forma verdadeira é revelada somente no encontro do crepúsculo com a alvorada.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Legado do Reino de Jade",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>20%</color>. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>64%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>25%</color>. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>80%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>30%</color>. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>96%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>35%</color>. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>112%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>40%</color>. Nos 5s após o portador lançar a Habilidade Elemental, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>128%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Ao desencadear Eletricamente Carregado, Carga Lunar, Florescimento ou Florescimento Lunar, regenera <color=#99FFFFFF>12</color> de Energia Elemental, e aumenta a Proficiência Elemental em <color=#99FFFFFF>60</color> pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha."
+          "Description": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera <color=#99FFFFFF>12</color> de Energia Elemental e aumenta a Proficiência Elemental em <color=#99FFFFFF>60</color> nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo."
         },
         {
           "Level": 1,
-          "Description": "Ao desencadear Eletricamente Carregado, Carga Lunar, Florescimento ou Florescimento Lunar, regenera <color=#99FFFFFF>15</color> de Energia Elemental, e aumenta a Proficiência Elemental em <color=#99FFFFFF>75</color> pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha."
+          "Description": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera <color=#99FFFFFF>15</color> de Energia Elemental e aumenta a Proficiência Elemental em <color=#99FFFFFF>75</color> nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo."
         },
         {
           "Level": 2,
-          "Description": "Ao desencadear Eletricamente Carregado, Carga Lunar, Florescimento ou Florescimento Lunar, regenera <color=#99FFFFFF>18</color> de Energia Elemental, e aumenta a Proficiência Elemental em <color=#99FFFFFF>90</color> pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha."
+          "Description": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera <color=#99FFFFFF>18</color> de Energia Elemental e aumenta a Proficiência Elemental em <color=#99FFFFFF>90</color> nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo."
         },
         {
           "Level": 3,
-          "Description": "Ao desencadear Eletricamente Carregado, Carga Lunar, Florescimento ou Florescimento Lunar, regenera <color=#99FFFFFF>21</color> de Energia Elemental, e aumenta a Proficiência Elemental em <color=#99FFFFFF>105</color> pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha."
+          "Description": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera <color=#99FFFFFF>21</color> de Energia Elemental e aumenta a Proficiência Elemental em <color=#99FFFFFF>105</color> nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo."
         },
         {
           "Level": 4,
-          "Description": "Ao desencadear Eletricamente Carregado, Carga Lunar, Florescimento ou Florescimento Lunar, regenera <color=#99FFFFFF>24</color> de Energia Elemental, e aumenta a Proficiência Elemental em <color=#99FFFFFF>120</color> pontos por 15s. Esse efeito pode ser desencadeado uma vez a cada 15s, e pode ser desencadeado mesmo que o personagem que esteja com essa arma equipada não esteja ativo no campo de batalha."
+          "Description": "Quando desencadeia uma reação de Eletricamente Carregado, Carga Lunar, Florescimento, Florescimento Lunar, Cristalização ou Cristalização Lunar, regenera <color=#99FFFFFF>24</color> de Energia Elemental e aumenta a Proficiência Elemental em <color=#99FFFFFF>120</color> nos próximos 15s. Esse efeito pode ser desencadeado uma vez a cada 15s. Esse efeito pode ser desencadeado, mesmo que o portador não seja o personagem ativo."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Aumenta o ATQ em <color=#99FFFFFF>20%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>18%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental."
+          "Description": "Aumenta o ATQ em <color=#99FFFFFF>20%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização ou desencadeia uma Reação de Cristalização Lunar, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>18%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental. É possível obter 1 Selo do Juramento por segundo através de Cristalização Lunar."
         },
         {
           "Level": 1,
-          "Description": "Aumenta o ATQ em <color=#99FFFFFF>25%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>22.5%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental."
+          "Description": "Aumenta o ATQ em <color=#99FFFFFF>25%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização ou desencadeia uma Reação de Cristalização Lunar, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>22.5%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental. É possível obter 1 Selo do Juramento por segundo através de Cristalização Lunar."
         },
         {
           "Level": 2,
-          "Description": "Aumenta o ATQ em <color=#99FFFFFF>30%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>27%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental."
+          "Description": "Aumenta o ATQ em <color=#99FFFFFF>30%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização ou desencadeia uma Reação de Cristalização Lunar, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>27%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental. É possível obter 1 Selo do Juramento por segundo através de Cristalização Lunar."
         },
         {
           "Level": 3,
-          "Description": "Aumenta o ATQ em <color=#99FFFFFF>35%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>31.5%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental."
+          "Description": "Aumenta o ATQ em <color=#99FFFFFF>35%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização ou desencadeia uma Reação de Cristalização Lunar, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>31.5%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental. É possível obter 1 Selo do Juramento por segundo através de Cristalização Lunar."
         },
         {
           "Level": 4,
-          "Description": "Aumenta o ATQ em <color=#99FFFFFF>40%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>36%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental."
+          "Description": "Aumenta o ATQ em <color=#99FFFFFF>40%</color>. Quando o personagem da equipe obtém um Fragmento gerado por Cristalização ou desencadeia uma Reação de Cristalização Lunar, concede ao personagem que está com essa arma equipada 1 \"Selo do Juramento\", aumentando o Dano causado por sua Habilidade Elemental em <color=#99FFFFFF>36%</color>. O Selo do Juramento dura 15s e pode ser acumulado até duas vezes. Todos os Selos do Juramento serão removidos 0.2s após o personagem que está com essa arma equipada causar Dano de Habilidade Elemental. É possível obter 1 Selo do Juramento por segundo através de Cristalização Lunar."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Cortinas Noturnas",
+    "Description": "Uma pérola de jade envolvida pela luz do luar. Mesmo nas noites mais frias de inverno, seu calor gentil permanece como uma canção.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Canção das Encruzilhadas",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Aumenta a Vida Máxima em <color=#99FFFFFF>10%</color>. Quando o portador desencadear Reações Lunares ou causar Dano de Reações Lunares contra os inimigos, regenera <color=#99FFFFFF>14</color> de Energia Elemental para o portador, e obtém por 12s o efeito \"Vinho Divino\": aumenta a Vida Máxima em mais <color=#99FFFFFF>14%</color> e aumenta o Dano CRIT das Reações Lunares em mais <color=#99FFFFFF>60%</color>. Esses efeitos de regeneração de Energia Elemental podem ser desencadeados uma vez a cada 18s. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo."
+        },
+        {
+          "Level": 1,
+          "Description": "Aumenta a Vida Máxima em <color=#99FFFFFF>12%</color>. Quando o portador desencadear Reações Lunares ou causar Dano de Reações Lunares contra os inimigos, regenera <color=#99FFFFFF>15</color> de Energia Elemental para o portador, e obtém por 12s o efeito \"Vinho Divino\": aumenta a Vida Máxima em mais <color=#99FFFFFF>16%</color> e aumenta o Dano CRIT das Reações Lunares em mais <color=#99FFFFFF>80%</color>. Esses efeitos de regeneração de Energia Elemental podem ser desencadeados uma vez a cada 18s. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo."
+        },
+        {
+          "Level": 2,
+          "Description": "Aumenta a Vida Máxima em <color=#99FFFFFF>14%</color>. Quando o portador desencadear Reações Lunares ou causar Dano de Reações Lunares contra os inimigos, regenera <color=#99FFFFFF>16</color> de Energia Elemental para o portador, e obtém por 12s o efeito \"Vinho Divino\": aumenta a Vida Máxima em mais <color=#99FFFFFF>18%</color> e aumenta o Dano CRIT das Reações Lunares em mais <color=#99FFFFFF>100%</color>. Esses efeitos de regeneração de Energia Elemental podem ser desencadeados uma vez a cada 18s. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo."
+        },
+        {
+          "Level": 3,
+          "Description": "Aumenta a Vida Máxima em <color=#99FFFFFF>16%</color>. Quando o portador desencadear Reações Lunares ou causar Dano de Reações Lunares contra os inimigos, regenera <color=#99FFFFFF>17</color> de Energia Elemental para o portador, e obtém por 12s o efeito \"Vinho Divino\": aumenta a Vida Máxima em mais <color=#99FFFFFF>20%</color> e aumenta o Dano CRIT das Reações Lunares em mais <color=#99FFFFFF>120%</color>. Esses efeitos de regeneração de Energia Elemental podem ser desencadeados uma vez a cada 18s. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo."
+        },
+        {
+          "Level": 4,
+          "Description": "Aumenta a Vida Máxima em <color=#99FFFFFF>18%</color>. Quando o portador desencadear Reações Lunares ou causar Dano de Reações Lunares contra os inimigos, regenera <color=#99FFFFFF>18</color> de Energia Elemental para o portador, e obtém por 12s o efeito \"Vinho Divino\": aumenta a Vida Máxima em mais <color=#99FFFFFF>22%</color> e aumenta o Dano CRIT das Reações Lunares em mais <color=#99FFFFFF>140%</color>. Esses efeitos de regeneração de Energia Elemental podem ser desencadeados uma vez a cada 18s. Esses efeitos podem ser desencadeados, mesmo quando o portador não é o personagem ativo."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

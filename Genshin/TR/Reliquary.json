@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "Ayaz Müridinin Çılgınlığı",
     "Description": "Önceki sahibinin sanrılarıyla birlikte uzun zaman önce durmuş saf bir saat.",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Sunusu",
+    "Description": "Kadim bir ayinin son ziyafetinde kaybolan bir şarap kadehi. Bir zamanlar inançlılar bu kadehi ay ışığına adaklar sunmak için kullanmıştır.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Veda Işığı",
+    "Description": "Kadim çağlarda semavi aylara dualar yazan rahiplere sonsuz ilham veren bir tüy.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Gümüş Tacı",
+    "Description": "Bir ilahinin son hecesinde bırakılmış gümüş bir taç. Kadim çağlarda semavi aylara methiyeler yazan şairler tarafından takılmıştır.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Görkemli Rüyası",
+    "Description": "Semavi ayların tanrıçalarının ihtişamlı güzelliğini göstermek için özenle oyulmuş bir çiçek süsü. Kadim çağlarda onların heykellerini yapan zanaatkarların elinden çıkmıştır.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Son Saati",
+    "Description": "Son anın anısına hazırlanan bir kum saati. Kadim çağlarda semavi aylardan gerçeği arayan bilgelerin eseridir.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Sunusu",
+    "Description": "Kadim bir ayinin son ziyafetinde kaybolan bir şarap kadehi. Bir zamanlar inançlılar bu kadehi ay ışığına adaklar sunmak için kullanmıştır.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Veda Işığı",
+    "Description": "Kadim çağlarda semavi aylara dualar yazan rahiplere sonsuz ilham veren bir tüy.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Gümüş Tacı",
+    "Description": "Bir ilahinin son hecesinde bırakılmış gümüş bir taç. Kadim çağlarda semavi aylara methiyeler yazan şairler tarafından takılmıştır.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Görkemli Rüyası",
+    "Description": "Semavi ayların tanrıçalarının ihtişamlı güzelliğini göstermek için özenle oyulmuş bir çiçek süsü. Kadim çağlarda onların heykellerini yapan zanaatkarların elinden çıkmıştır.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Mehtap Adağının Son Saati",
+    "Description": "Son anın anısına hazırlanan bir kum saati. Kadim çağlarda semavi aylardan gerçeği arayan bilgelerin eseridir.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Heldenepos'un Anlatılmayan Hikayesi",
+    "Description": "Mavi yüzeyi zamanla eskimiş kadim bir kadeh. Geçmiş çağlarda isimsiz bir ozana ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Şafağın Muhteşem Yemini",
+    "Description": "Şafak kadar berrak, mavi bir tüy aksesuar. Geçmiş çağlarda adını terk etmiş bir muhafıza ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Aşk ve Ağıt Baladı",
+    "Description": "Yeşim ve mavi kristallerle bezeli, gösterişli bir saç aksesuarı. Geçmiş çağlarda Fırtına Efendisi tarafından gözde bir kişiye bahşedilmiş bir nişan olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Rüzgar Çiçeğinin Vecizesi",
+    "Description": "Asla solmayan mavi bir kristal çiçek. Geçmiş çağlarda bin rüzgarı ve sayısız çiçeği uyandıran gezgin bir kıza ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Bahar Şarkısında Bir Nota",
+    "Description": "Mavi kumlarla dolu bir kum saati. Bilinmeyen bir sebepten ötürü her ne kadar çevrilirse çevrilsin içindeki kumlar yerinden oynamaz.",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Heldenepos'un Anlatılmayan Hikayesi",
+    "Description": "Mavi yüzeyi zamanla eskimiş kadim bir kadeh. Geçmiş çağlarda isimsiz bir ozana ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Şafağın Muhteşem Yemini",
+    "Description": "Şafak kadar berrak, mavi bir tüy aksesuar. Geçmiş çağlarda adını terk etmiş bir muhafıza ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Aşk ve Ağıt Baladı",
+    "Description": "Yeşim ve mavi kristallerle bezeli, gösterişli bir saç aksesuarı. Geçmiş çağlarda Fırtına Efendisi tarafından gözde bir kişiye bahşedilmiş bir nişan olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Rüzgar Çiçeğinin Vecizesi",
+    "Description": "Asla solmayan mavi bir kristal çiçek. Geçmiş çağlarda bin rüzgarı ve sayısız çiçeği uyandıran gezgin bir kıza ait olduğu söylenir.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Bahar Şarkısında Bir Nota",
+    "Description": "Mavi kumlarla dolu bir kum saati. Bilinmeyen bir sebepten ötürü her ne kadar çevrilirse çevrilsin içindeki kumlar yerinden oynamaz.",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

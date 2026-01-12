@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina: Algum Dia",
+    "Description": "Estilo de cartão de visita.\nEla dança nas partes rasas de riachos límpidos e correntes. Ela dorme sob as sombras pálidas das montanhas. Ela vagueia pelas ondulações do tempo, brincando de esconde-esconde com os Kuuhenki.\nEla descansa no jardim e murmura para todas as criaturinhas vivas. Nas horas silenciosas antes do amanhecer, ela espera pelo momento em que se encontrarão algum dia.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai: Vista Velada",
+    "Description": "Estilo de cartão de visita.\nO céu e a terra não passam de um abrigo para os viajantes, e o tempo é o andarilho que atravessa pelas eras.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga: Orioles do Pesadelo",
+    "Description": "Estilo de cartão de visita.\nUm pássaro que sobrevive às noites mais escuras retribui ao mundo com sua paixão e queima todos os pesadelos restantes com sua fúria.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Conquista: Visão Além do Alcance",
+    "Description": "#Estilo de cartão de visita.\nCerta vez, {M#o}{F#a} Viajante ficou no ponto mais alto de uma cidade e contemplou sua vastidão, confiante de que as paisagens distantes eventualmente acabariam se tornando marcos em sua jornada.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai: Lâmpada das Noites Longas",
+    "Description": "Estilo de cartão de visita.\nSempre haverá uma lâmpada que brilha quando o céu fica no seu momento mais sombrio. Assim é por uma noite, e assim é por mil noites.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Passe de Batalha: À Luz de Lanternas",
+    "Description": "Estilo de cartão de visita.\nOre por uma lua brilhante para mim, me deseje uma bela manhã. Me deixe vestir minha capa da primavera, aonde o luar está sendo derramado.",
+    "SpecialDescription": "Estilo de cartão de visita \"Passe de Batalha: À Luz de Lanternas\"",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

@@ -750,7 +750,7 @@
       {
         "Id": 1162,
         "Name": "Support Cleaning Module",
-        "Description": "Setelah Elemental Burst <color=#FFD780FF>{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}</color> mengenai musuh, akan memberikan status Punishment Edict pada salah satu musuh yang terkena serangan. Setelah jeda singkat atau saat musuh ini diserang, musuh di sekitarnya akan terkena <color=#FFACFFFF>Electro DMG Area</color> sebesar 300% ATK Ineffa. DMG ini dianggap sebagai DMG Lunar-Charged.\nSelain itu, saat Ineffa melancarkan Elemental Burst <color=#FFD780FF>Supreme Instruction: Cyclonic Exterminator</color>, Karakter aktif di sekitar akan mendapatkan Optical Flow Shield Barrier.",
+        "Description": "Setelah Elemental Burst <color=#FFD780FF>{LINK#S11165}Supreme Instruction: Cyclonic Exterminator{/LINK}</color> mengenai musuh, akan memberikan status Punishment Edict pada salah satu musuh yang terkena serangan. Punishment Edict: Setelah jeda singkat atau saat musuh ini diserang, musuh di sekitarnya akan terkena <color=#FFACFFFF>Electro DMG Area</color> sebesar 300% ATK Ineffa. DMG ini dianggap sebagai DMG Lunar-Charged.\nSelain itu, saat Ineffa melancarkan Elemental Burst <color=#FFD780FF>Supreme Instruction: Cyclonic Exterminator</color>, Karakter aktif di sekitar akan mendapatkan Optical Flow Shield Barrier.",
         "Icon": "UI_Talent_S_Ineffa_02"
       },
       {
@@ -795,9 +795,11 @@
     "BirthMonth": 4,
     "BirthDay": 2,
     "VisionBefore": "Electro",
+    "VisionAfter": "Electro",
     "VisionOverrideLocked": "???",
     "VisionOverrideUnlocked": "Moon Wheel",
     "ConstellationBefore": "Vanilla Planifolia",
+    "ConstellationAfter": "Vanilla Planifolia",
     "CvChinese": "美加",
     "CvJapanese": "中島愛",
     "CvEnglish": "Angelina Danielle Cama",

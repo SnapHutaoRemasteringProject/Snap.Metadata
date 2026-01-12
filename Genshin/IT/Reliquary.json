@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "Delirio della Veneragelo",
     "Description": "Un orologio immacolato arrestatosi tanto tempo fa, insieme alle illusioni della persona a cui apparteneva.",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libagione dell'offerta al chiaro di luna",
+    "Description": "Una coppa di vino andata perduta durante i festeggiamenti finali di un antico rito, nel quale un tempo i credenti offrivano sacrifici alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Luce d'addio dell'offerta al chiaro di luna",
+    "Description": "Una piuma che, in tempi antichi, donava ispirazione infinita ai sacerdoti che scrivevano preghiere alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Corona d'argento dell'offerta al chiaro di luna",
+    "Description": "Una corona d'argento riservata alla sillaba finale di un inno, indossata da poeti che, in tempi antichi, cantavano lodi alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Sogno ornato dell'offerta al chiaro di luna",
+    "Description": "Un ornamento floreale meticolosamente intagliato, atto a enfatizzare la splendida beltà delle divinità delle lune celesti, realizzato in tempi antichi dagli artigiani che ne scolpivano le statue.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Ora finale dell'offerta al chiaro di luna",
+    "Description": "Una clessidra pensata per commemorare l'ultima ora, preparata dai saggi che, in tempi antichi, impetravano la verità dalle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libagione dell'offerta al chiaro di luna",
+    "Description": "Una coppa di vino andata perduta durante i festeggiamenti finali di un antico rito, nel quale un tempo i credenti offrivano sacrifici alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Luce d'addio dell'offerta al chiaro di luna",
+    "Description": "Una piuma che, in tempi antichi, donava ispirazione infinita ai sacerdoti che scrivevano preghiere alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Corona d'argento dell'offerta al chiaro di luna",
+    "Description": "Una corona d'argento riservata alla sillaba finale di un inno, indossata da poeti che, in tempi antichi, cantavano lodi alle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Sogno ornato dell'offerta al chiaro di luna",
+    "Description": "Un ornamento floreale meticolosamente intagliato, atto a enfatizzare la splendida beltà delle divinità delle lune celesti, realizzato in tempi antichi dagli artigiani che ne scolpivano le statue.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Ora finale dell'offerta al chiaro di luna",
+    "Description": "Una clessidra pensata per commemorare l'ultima ora, preparata dai saggi che, in tempi antichi, impetravano la verità dalle lune celesti.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Racconto inespresso dell'heldenepos",
+    "Description": "Un antico calice, la cui superficie azzurra è stata consumata dal tempo. Si narra che sia appartenuto a un bardo senza nome in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Giuramento brillante dell'alba",
+    "Description": "Un accessorio piumato azzurro, chiaro come l'alba. Si narra che sia appartenuto a una guardia che rinunciò al suo nome in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang d'amore e lamento",
+    "Description": "Un lussuoso accessorio per capelli adornato con giada e cristalli azzurri. Si narra che sia stato un pegno conferito dal Signore delle Tempeste a un destinatario prediletto in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Spruchdichtung del fiore nel vento",
+    "Description": "Un fiore di cristallo azzurro che non appassisce mai. Si narra che sia appartenuto a una giovane viandante che invocava mille venti e fiori in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Nota nel leich della primavera",
+    "Description": "Una clessidra piena di sabbia azzurra. Per ragioni ignote, per quanto si provi a muoverla, i granelli al suo interno rimangono inamovibili.",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Racconto inespresso dell'heldenepos",
+    "Description": "Un antico calice, la cui superficie azzurra è stata consumata dal tempo. Si narra che sia appartenuto a un bardo senza nome in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Giuramento brillante dell'alba",
+    "Description": "Un accessorio piumato azzurro, chiaro come l'alba. Si narra che sia appartenuto a una guardia che rinunciò al suo nome in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang d'amore e lamento",
+    "Description": "Un lussuoso accessorio per capelli adornato con giada e cristalli azzurri. Si narra che sia stato un pegno conferito dal Signore delle Tempeste a un destinatario prediletto in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Spruchdichtung del fiore nel vento",
+    "Description": "Un fiore di cristallo azzurro che non appassisce mai. Si narra che sia appartenuto a una giovane viandante che invocava mille venti e fiori in un lontano passato.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Nota nel leich della primavera",
+    "Description": "Una clessidra piena di sabbia azzurra. Per ragioni ignote, per quanto si provi a muoverla, i granelli al suo interno rimangono inamovibili.",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

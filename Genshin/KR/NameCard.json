@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "콜롬비나·기다림",
+    "Description": "명함 스킨.\n맑은 시냇물 여울에서 춤추고, 창백한 산그림자 아래서 꿈을 꾸네. 시간의 물결 속에서 표류하며, 월령과 숨바꼭질을 하네.\n만물의 정원에서 휴식을 취하며, 모든 생명체에게 노래를 불러주네. 새벽이 밝아오기 전의 깊은 밤, 그녀는 언제일지 모르는 만남을 기다리는구나",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "자백·연경",
+    "Description": "명함 스킨.\n무릇 하늘과 땅은 만물이 쉬어가는 객잔이요, 세월은 흘러가는 나그네라네",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "일루가·악몽의 밤꾀꼬리",
+    "Description": "명함 스킨.\n어두운 밤을 견뎌낸 꾀꼬리는 열정으로 밝은 낮의 모든 것에 보답하고, 분노로 악몽을 불태운다",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "업적·조망",
+    "Description": "명함 스킨.\n당신은 마을 높은 곳에 서서 멀리 내다보며, 시야에 들어오는 저 먼 풍경들이 언젠가는 미래의 여정 기록의 일부가 될 것이라 확신했다",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "노드크라이·등대",
+    "Description": "명함 스킨.\n어떤 등불은 하늘이 가장 어두울 때 빛을 내며 수천수백 개의 밤을 밝힌다",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "기행·봄 마차",
+    "Description": "명함 스킨.\n밝은 달과 아름다운 나날을 기원하며, 봄옷을 입고 함께 하늘로 날아오르리라",
+    "SpecialDescription": "「기행·봄 마차」 명함 스킨",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

@@ -7894,7 +7894,7 @@
     "SetId": 15008,
     "EquipType": 3,
     "ItemType": 3,
-    "Name": "騎士が血に染めた時",
+    "Name": "騎士が血に染まりし時",
     "Description": "騎士が使用していた時計。中の液体は完全に固体になり、時計としての機能を失った。",
     "Icon": "UI_RelicIcon_15008_5"
   },
@@ -7977,7 +7977,7 @@
     "SetId": 15008,
     "EquipType": 3,
     "ItemType": 3,
-    "Name": "騎士が血に染めた時",
+    "Name": "騎士が血に染まりし時",
     "Description": "騎士が使用していた時計。中の液体は完全に固体になり、時計としての機能を失った。",
     "Icon": "UI_RelicIcon_15008_5"
   },
@@ -8069,7 +8069,7 @@
     "SetId": 15008,
     "EquipType": 3,
     "ItemType": 3,
-    "Name": "騎士が血に染めた時",
+    "Name": "騎士が血に染まりし時",
     "Description": "騎士が使用していた時計。中の液体は完全に固体になり、時計としての機能を失った。",
     "Icon": "UI_RelicIcon_15008_5"
   },
@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "霜祀者の狂宴",
     "Description": "穢れなき時計。かつての持ち主の執念と共に、今は動きを止めている。",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "月に捧ぐ祭礼",
+    "Description": "空月に祭祀を捧げていた古代の信者が、儀式の最後の宴で失くした酒杯。",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "月に捧ぐ彩光",
+    "Description": "空月のために祈祷文を書いていた古代の司祭が、無数の発想を得ていた羽根ペン。",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "月に捧ぐ銀冠",
+    "Description": "空月に讃美歌を捧げていた古代の詩人が、最後の一音節を詠み終えた時に取り出した銀の冠。",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "月に捧ぐ夢華",
+    "Description": "空月の女神の彫像を作っていた古代の匠が、その美しい姿を表現すべく精巧に彫った花飾り。",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "月に捧ぐ終幕",
+    "Description": "空月に真相を求めた古代の賢者が、終末の時を記録するために用意した砂時計。",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "月に捧ぐ祭礼",
+    "Description": "空月に祭祀を捧げていた古代の信者が、儀式の最後の宴で失くした酒杯。",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "月に捧ぐ彩光",
+    "Description": "空月のために祈祷文を書いていた古代の司祭が、無数の発想を得ていた羽根ペン。",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "月に捧ぐ銀冠",
+    "Description": "空月に讃美歌を捧げていた古代の詩人が、最後の一音節を詠み終えた時に取り出した銀の冠。",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "月に捧ぐ夢華",
+    "Description": "空月の女神の彫像を作っていた古代の匠が、その美しい姿を表現すべく精巧に彫った花飾り。",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "月に捧ぐ終幕",
+    "Description": "空月に真相を求めた古代の賢者が、終末の時を記録するために用意した砂時計。",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "無言の酒宴",
+    "Description": "古の青い酒杯。遥か昔、とある無名の吟遊詩人のものであったと言われている。",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "朝日の誓約",
+    "Description": "夜明けのように純粋な青色をした羽根飾り。遥か昔、名を捨てた侍従のものだったと伝えられる。",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "愛慕の恋歌",
+    "Description": "青玉と青い水晶があしらわれた華麗な髪飾り。遥か昔、烈風の王が寵愛していた者に贈ったのものだと言われている。",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "風花の箴言",
+    "Description": "永遠に散ることのない青い花。遥か昔、千の風と花を呼ぶ流浪の少女のものだったと言われている。",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "春奏の一時",
+    "Description": "青い砂が入った砂時計。しかし、逆さまにしても、中の砂は全く動かない。",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "無言の酒宴",
+    "Description": "古の青い酒杯。遥か昔、とある無名の吟遊詩人のものであったと言われている。",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "朝日の誓約",
+    "Description": "夜明けのように純粋な青色をした羽根飾り。遥か昔、名を捨てた侍従のものだったと伝えられる。",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "愛慕の恋歌",
+    "Description": "青玉と青い水晶があしらわれた華麗な髪飾り。遥か昔、烈風の王が寵愛していた者に贈ったのものだと言われている。",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "風花の箴言",
+    "Description": "永遠に散ることのない青い花。遥か昔、千の風と花を呼ぶ流浪の少女のものだったと言われている。",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "春奏の一時",
+    "Description": "青い砂が入った砂時計。しかし、逆さまにしても、中の砂は全く動かない。",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

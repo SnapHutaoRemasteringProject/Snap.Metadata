@@ -2,14 +2,14 @@
   {
     "Id": 1,
     "Icon": "UI_AvatarIcon_PlayerBoy_Circle",
-    "Name": "Nhà Lữ Hành",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000005
   },
   {
     "Id": 2,
     "Icon": "UI_AvatarIcon_PlayerGirl_Circle",
-    "Name": "Nhà Lữ Hành",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000007
   },
@@ -583,7 +583,7 @@
   {
     "Id": 6000,
     "Icon": "UI_AvatarIcon_Wanderer_Circle",
-    "Name": "Kẻ Lang Thang",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000075
   },
@@ -1097,6 +1097,13 @@
     "Name": "Netochka",
     "UnlockType": 4,
     "UnlockParameter": 76003
+  },
+  {
+    "Id": 100250,
+    "Icon": "UI_AvatarIcon_76101_Circle",
+    "Name": "Mũi Tên Của Terpikeraunas",
+    "UnlockType": 4,
+    "UnlockParameter": 76101
   },
   {
     "Id": 200010,

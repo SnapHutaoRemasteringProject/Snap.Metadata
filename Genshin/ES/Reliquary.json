@@ -12494,7 +12494,7 @@
     "EquipType": 2,
     "ItemType": 3,
     "Name": "Pluma del Ruiseñor",
-    "Description": "Un accesorio para sombrero fabricado cuidadosamente con plumas de ruiseñor. Se dice que su forma fue definida por el primer forjador de lámparas.",
+    "Description": "Un accesorio para sombrero fabricado cuidadosamente con plumas de ruiseñor. Se dice que su forma fue definida por el primer Forjador de Lámparas.",
     "Icon": "UI_RelicIcon_15039_2"
   },
   {
@@ -12563,7 +12563,7 @@
     "EquipType": 2,
     "ItemType": 3,
     "Name": "Pluma del Ruiseñor",
-    "Description": "Un accesorio para sombrero fabricado cuidadosamente con plumas de ruiseñor. Se dice que su forma fue definida por el primer forjador de lámparas.",
+    "Description": "Un accesorio para sombrero fabricado cuidadosamente con plumas de ruiseñor. Se dice que su forma fue definida por el primer Forjador de Lámparas.",
     "Icon": "UI_RelicIcon_15039_2"
   },
   {
@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "Locura Delirante de la Veneraescarcha",
     "Description": "Un reloj puro e impoluto que se detuvo junto a los delirios de su antigua dueña.",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libación para la Luna",
+    "Description": "Una copa de vino que utilizaban los devotos de la antigüedad para realizar ofrendas a las lunas celestiales, y que acabó perdiéndose en el último banquete de celebración de este ritual.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Luz del Adiós para la Luna",
+    "Description": "Una pluma estilográfica que utilizaban los sacerdotes de la antigüedad para escribir letanías a las lunas celestiales, y gracias a la cual obtenían una gran inspiración.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Corona de Plata para la Luna",
+    "Description": "Una corona de plata que utilizaban los poetas de la antigüedad para ofrecer poemas a las lunas celestiales, y que se quitaban al leer la última palabra de sus versos.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Sueño Esplendoroso para la Luna",
+    "Description": "Un ornamento floral tallado con esmero por los artesanos de la antigüedad para las estatuas divinas de las lunas celestiales, con el fin de resaltar la belleza y magnificencia de dichas diosas.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Hora Final para la Luna",
+    "Description": "Un reloj de arena que utilizaban los sabios de la antigüedad para preguntar a las lunas celestiales por la verdad, y con el que grabaron el momento final.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Libación para la Luna",
+    "Description": "Una copa de vino que utilizaban los devotos de la antigüedad para realizar ofrendas a las lunas celestiales, y que acabó perdiéndose en el último banquete de celebración de este ritual.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Luz del Adiós para la Luna",
+    "Description": "Una pluma estilográfica que utilizaban los sacerdotes de la antigüedad para escribir letanías a las lunas celestiales, y gracias a la cual obtenían una gran inspiración.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Corona de Plata para la Luna",
+    "Description": "Una corona de plata que utilizaban los poetas de la antigüedad para ofrecer poemas a las lunas celestiales, y que se quitaban al leer la última palabra de sus versos.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Sueño Esplendoroso para la Luna",
+    "Description": "Un ornamento floral tallado con esmero por los artesanos de la antigüedad para las estatuas divinas de las lunas celestiales, con el fin de resaltar la belleza y magnificencia de dichas diosas.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Hora Final para la Luna",
+    "Description": "Un reloj de arena que utilizaban los sabios de la antigüedad para preguntar a las lunas celestiales por la verdad, y con el que grabaron el momento final.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Historia sin Contar del Heldenepos",
+    "Description": "Una copa de vino de color azulado y estilo antiguo que, según dicen, perteneció a un bardo anónimo de un pasado muy remoto.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Juramento de la Luz del Alba",
+    "Description": "Una pluma de color claro y puro como la luz del alba que, según dicen, perteneció a una guardia real de un pasado muy remoto que renunció a su nombre.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang Melancólico de Amor",
+    "Description": "Un lujoso accesorio de cabeza adornado con jade y cristal que, según dicen, era un amuleto que el Rey de la Tempestad otorgó en un pasado muy remoto a la persona que más le importaba.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Canto de la Flor de Viento",
+    "Description": "Una flor de cristal azulada e inmarcesible que, según dicen, perteneció a una joven exiliada de un pasado muy remoto que rezaba a los mil vientos y a las flores.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Nota de la Melodía Primaveral",
+    "Description": "Un reloj de arena que contiene unos finos granos azulados. Por alguna razón, por más que se voltee, la arena nunca cae.",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Historia sin Contar del Heldenepos",
+    "Description": "Una copa de vino de color azulado y estilo antiguo que, según dicen, perteneció a un bardo anónimo de un pasado muy remoto.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Juramento de la Luz del Alba",
+    "Description": "Una pluma de color claro y puro como la luz del alba que, según dicen, perteneció a una guardia real de un pasado muy remoto que renunció a su nombre.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang Melancólico de Amor",
+    "Description": "Un lujoso accesorio de cabeza adornado con jade y cristal que, según dicen, era un amuleto que el Rey de la Tempestad otorgó en un pasado muy remoto a la persona que más le importaba.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Canto de la Flor de Viento",
+    "Description": "Una flor de cristal azulada e inmarcesible que, según dicen, perteneció a una joven exiliada de un pasado muy remoto que rezaba a los mil vientos y a las flores.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Nota de la Melodía Primaveral",
+    "Description": "Un reloj de arena que contiene unos finos granos azulados. Por alguna razón, por más que se voltee, la arena nunca cae.",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

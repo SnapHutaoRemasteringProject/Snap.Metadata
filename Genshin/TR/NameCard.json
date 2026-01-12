@@ -3157,7 +3157,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Jahoda: Yardım Eli",
-    "Description": "İsim Kartı arka planı.\n\"İşler çok yoğunlaştığında keşke Jahoda'nın ellerini ödünç alabilseydim!\" Bu cümle, \"ödünç verilebilir ellerin\" sahibinin hem çevik hem de güvenilir biri olduğu anlamına geliyordur, değil mi?",
+    "Description": "İsim Kartı arka planı.\n\"İşler çok yoğunlaştığında keşke Jahoda'nın elini ödünç alabilseydim!\" Bu cümle, \"ödünç verilebilir elin\" sahibinin hem çevik hem de güvenilir biri olduğu anlamına geliyordur, değil mi?",
     "Icon": "UI_NameCardIcon_Jahoda",
     "Pictures": [
       "UI_NameCardPic_Jahoda_Alpha",
@@ -3187,6 +3187,79 @@
     "Pictures": [
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
+    ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina: Günün Birinde",
+    "Description": "İsim Kartı arka planı.\nBerrak derelerin sığ sularında dans eder ve akıntıyla sürüklenir, dağların soluk gölgeleri altında uykuya dalar. Zamanın dalgaları arasında dolaşır, Kuuhenkilerle saklambaç oynar.\nHer şeyin bahçesinde dinlenir, her canlıya nazikçe şarkılar mırıldanır. Şafaktan önceki sessiz saatlerde kavuşacakları günü bekler.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai: Sisli Manzara",
+    "Description": "İsim Kartı arka planı.\nGök ve yer yalnızca birer handır, zamansa çağlar boyu akıp giden bir yolcu.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga: Kabus Bülbülü",
+    "Description": "İsim Kartı arka planı.\nGecenin karanlığına meydan okuyan bülbül, içindeki coşkuyu gündüzün aydınlığına döker ve kabusları hiddetli bir öfkeyle yakıp kül eder.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Başarım: İleri Görüşlü",
+    "Description": "İsim Kartı arka planı.\nKasabanın tepesinde duran yolcu ufka doğru bakarken, görüş alanındaki uzak manzaraların ileride bir gün seyahatinin dönüm noktaları olacağından emindi.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai: En Uzun Gecenin Feneri",
+    "Description": "İsim Kartı arka planı.\nGecenin en zifiri karanlığında bir fener yanacak; bu gece başlayıp bin gece boyunca sönmeyecek.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gezi Notları: Fener Işığında Övgüler",
+    "Description": "İsim Kartı arka planı.\nBana parlak bir ay, güzel bir gün dile. Sırtımda bahar pelerinim, ay ışığının dansına kapılmışım.",
+    "SpecialDescription": "\"Gezi Notları: Fener Işığında Övgüler\" isim kartı arka planı.",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
     ]
   }
 ]

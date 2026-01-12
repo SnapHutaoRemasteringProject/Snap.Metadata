@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "Les DGT infligés par les attaques plongeantes des personnages augmentent de 75 %."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Hydro de 60 %.",
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Électro de 60 %."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Les DGT d'attaque chargée du personnage déployé augmentent de 75 %."
+    ],
+    "SecondDescriptions": [
+      "Les DGT de réaction sélène augmentent de 75 %."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Hydro de 60 %.",
+      "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Géo de 60 %."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Les DGT de Sélénocution augmentent de 75 %."
+    ],
+    "SecondDescriptions": [
+      "Les DGT de Sélénocristallisation augmentent de 75 %."
+    ]
   }
 ]

@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina: Someday",
+    "Description": "Style Kartu Nama.\nIa menari di aliran sungai yang dangkal dan jernih, lalu melayang. Ia tertidur di bawah bayangan gunung yang pucat. Ia mengembara melalui riak waktu, bermain petak umpet dengan Kuuhenki.\nIa beristirahat di taman milik semua orang dan bersenandung untuk setiap makhluk hidup. Di keheningan sebelum fajar, ia pun menanti saat mereka akan bertemu kembali suatu hari nanti.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai: Veiled Vista",
+    "Description": "Style Kartu Nama.\nLangit dan bumi hanyalah tempat singgah bagi sang pengembara, dan waktu adalah penjelajah yang melintasi zaman.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga: Nightmare Songbird",
+    "Description": "Style Kartu Nama.\nBurung yang bertahan dari malam tergelap sedang membalas dunia dengan semangatnya dan membakar setiap mimpi buruk yang tersisa dengan amarahnya.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Achievement: Menatap ke Kejauhan",
+    "Description": "Style Kartu Nama.\nSang pengembara pernah berdiri di titik tertinggi sebuah kota dan memandang ke kejauhan. Ia yakin bahwa pemandangan di kejauhan itu akan menjadi tonggak penting dalam perjalanannya.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai: Lentera di Malam Terpanjang",
+    "Description": "Style Kartu Nama.\nAkan selalu ada lampu yang bersinar di saat langit mencapai titik tergelapnya. Baik untuk satu malam, dan ribuan malam berikutnya.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Catatan Perjalanan: Di Bawah Lentera",
+    "Description": "Style Kartu Nama.\nDoakan bagiku bulan yang terang, harapkan aku pagi yang cerah. Biar kukenakan jubah musim semiku, ke tempat sinar rembulan tercurah.",
+    "SpecialDescription": "Style kartu nama \"Catatan Perjalanan: Di Bawah Lentera\"",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

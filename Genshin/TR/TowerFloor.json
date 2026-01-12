@@ -1198,10 +1198,56 @@
     "Background": "UI_TowerPic_5",
     "Descriptions": [],
     "FirstDescriptions": [
-      "Aktif olmayan karakterler %75 Ateş Hasarı Bonusu kazanır."
+      "Alanda olmayan karakterler %75 Ateş Hasarı Bonusu kazanır."
     ],
     "SecondDescriptions": [
       "Karakterlerin Havadan Saldırı Hasarı %75 artar."
+    ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tüm grup üyeleri %60 Su Hasarı Bonusu kazanır.",
+      "Tüm grup üyeleri %60 Elektrik Hasarı Bonusu kazanır."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Aktif karakterin Yüklü Saldırı Hasarı %75 artar."
+    ],
+    "SecondDescriptions": [
+      "Ay Tepkimesi Hasarı %75 artar."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tüm grup üyeleri %60 Su Hasarı Bonusu kazanır.",
+      "Tüm grup üyeleri %60 Toprak Hasarı Bonusu kazanır."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Ay Yüklü Hasarı %75 artar."
+    ],
+    "SecondDescriptions": [
+      "Ay Kristalleşmesi Hasarı %75 artar."
     ]
   }
 ]

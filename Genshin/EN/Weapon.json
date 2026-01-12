@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Lightbearing Moonshard",
+    "Description": "A legendary sword, said to be forged from the glimmering moonlight gathered in a well by an adeptus hidden among clear springs. Its true form is revealed only at the meeting of dusk and dawn.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Legacy of Lang-Gan",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Increases DEF by <color=#99FFFFFF>20%</color>. DMG inflicted by Lunar-Crystallize reactions increases by <color=#99FFFFFF>64%</color> for 5s after the equipping character uses an Elemental Skill."
+        },
+        {
+          "Level": 1,
+          "Description": "Increases DEF by <color=#99FFFFFF>25%</color>. DMG inflicted by Lunar-Crystallize reactions increases by <color=#99FFFFFF>80%</color> for 5s after the equipping character uses an Elemental Skill."
+        },
+        {
+          "Level": 2,
+          "Description": "Increases DEF by <color=#99FFFFFF>30%</color>. DMG inflicted by Lunar-Crystallize reactions increases by <color=#99FFFFFF>96%</color> for 5s after the equipping character uses an Elemental Skill."
+        },
+        {
+          "Level": 3,
+          "Description": "Increases DEF by <color=#99FFFFFF>35%</color>. DMG inflicted by Lunar-Crystallize reactions increases by <color=#99FFFFFF>112%</color> for 5s after the equipping character uses an Elemental Skill."
+        },
+        {
+          "Level": 4,
+          "Description": "Increases DEF by <color=#99FFFFFF>40%</color>. DMG inflicted by Lunar-Crystallize reactions increases by <color=#99FFFFFF>128%</color> for 5s after the equipping character uses an Elemental Skill."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore <color=#99FFFFFF>12</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>60</color> for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+          "Description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore <color=#99FFFFFF>12</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>60</color> for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
         },
         {
           "Level": 1,
-          "Description": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore <color=#99FFFFFF>15</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>75</color> for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+          "Description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore <color=#99FFFFFF>15</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>75</color> for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
         },
         {
           "Level": 2,
-          "Description": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore <color=#99FFFFFF>18</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>90</color> for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+          "Description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore <color=#99FFFFFF>18</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>90</color> for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
         },
         {
           "Level": 3,
-          "Description": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore <color=#99FFFFFF>21</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>105</color> for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+          "Description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore <color=#99FFFFFF>21</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>105</color> for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
         },
         {
           "Level": 4,
-          "Description": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore <color=#99FFFFFF>24</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>120</color> for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+          "Description": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore <color=#99FFFFFF>24</color> Elemental Energy and increase Elemental Mastery by <color=#99FFFFFF>120</color> for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Increases ATK by <color=#99FFFFFF>20%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>18%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+          "Description": "Increases ATK by <color=#99FFFFFF>20%</color>. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>18%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 1,
-          "Description": "Increases ATK by <color=#99FFFFFF>25%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>22.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+          "Description": "Increases ATK by <color=#99FFFFFF>25%</color>. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>22.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 2,
-          "Description": "Increases ATK by <color=#99FFFFFF>30%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>27%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+          "Description": "Increases ATK by <color=#99FFFFFF>30%</color>. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>27%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 3,
-          "Description": "Increases ATK by <color=#99FFFFFF>35%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>31.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+          "Description": "Increases ATK by <color=#99FFFFFF>35%</color>. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>31.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 4,
-          "Description": "Increases ATK by <color=#99FFFFFF>40%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>36%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+          "Description": "Increases ATK by <color=#99FFFFFF>40%</color>. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>36%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Nocturne's Curtain Call",
+    "Description": "A jade pearl shrouded in the light of the moon. Even in the coldest winter night, its gentle warmth lingers like a song.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ballad of the Crossroads",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Max HP increases by <color=#99FFFFFF>10%</color>. When triggering Lunar reactions or inflicting Lunar Reaction DMG on opponents, the equipping character will recover <color=#99FFFFFF>14</color> Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional <color=#99FFFFFF>14%</color>, CRIT DMG from Lunar Reaction DMG increases by <color=#99FFFFFF>60%</color>. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 1,
+          "Description": "Max HP increases by <color=#99FFFFFF>12%</color>. When triggering Lunar reactions or inflicting Lunar Reaction DMG, the equipping character will recover <color=#99FFFFFF>15</color> Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional <color=#99FFFFFF>16%</color>, CRIT DMG from Lunar Reaction DMG increases by <color=#99FFFFFF>80%</color>. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 2,
+          "Description": "Max HP increases by <color=#99FFFFFF>14%</color>. When triggering Lunar reactions or inflicting Lunar Reaction DMG, the equipping character will recover <color=#99FFFFFF>16</color> Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional <color=#99FFFFFF>18%</color>, CRIT DMG from Lunar Reaction DMG increases by <color=#99FFFFFF>100%</color>. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 3,
+          "Description": "Max HP increases by <color=#99FFFFFF>16%</color>. When triggering Lunar reactions or inflicting Lunar Reaction DMG, the equipping character will recover <color=#99FFFFFF>17</color> Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional <color=#99FFFFFF>20%</color>, CRIT DMG from Lunar Reaction DMG increases by <color=#99FFFFFF>120%</color>. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 4,
+          "Description": "Max HP increases by <color=#99FFFFFF>18%</color>. When triggering Lunar reactions or inflicting Lunar Reaction DMG, the equipping character will recover <color=#99FFFFFF>18</color> Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional <color=#99FFFFFF>22%</color>, CRIT DMG from Lunar Reaction DMG increases by <color=#99FFFFFF>140%</color>. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

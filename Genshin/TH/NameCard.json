@@ -546,7 +546,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Liyue - In the Clouds",
-    "Description": "ลายนามบัตร\nดวงจันทร์ส่องแสงไปยังก้อนหินท่ามกลางหมู่เมฆ",
+    "Description": "ลายนามบัตร\nแก้วไพฑูรย์ในศิลา จันทรากลางเมฆา",
     "Icon": "UI_NameCardPic_Ly2",
     "Pictures": [
       "UI_NameCardPic_Ly2_Alpha",
@@ -3187,6 +3187,79 @@
     "Pictures": [
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
+    ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina - สักวันหนึ่ง",
+    "Description": "ลายนามบัตร\nร่ายรำท่ามกลางสายน้ำตื้นในลำธารใส เข้าสู่ห้วงนิทราภายใต้เงาขุนเขาอันซีดขาว ล่องลอยไปตามระลอกคลื่นแห่งกาลเวลา พลางเล่นซ่อนหากับภูตจันทรา\nงีบหลับพักผ่อนในสวนแห่งสรรพสิ่ง ฮัมเพลงกล่อมสิ่งมีชีวิตทั่วไพศาล ในราตรีกาลที่ยังไม่ผันผ่าน เธอยังเฝ้ารอคอยกาล สู่วันวารที่ได้พบเจอกัน",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai - ม่านมายาทัศนา",
+    "Description": "ลายนามบัตร\nผืนฟ้าและปฐพี เปรียบดั่งที่พำนักชั่วคราวของสรรพสิ่ง ส่วนกาลเวลานั้น เปรียบดั่งผู้สัญจรที่ผ่านเลยไปในทุกยุคสมัย",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga - วิหคนิทราทมิฬ",
+    "Description": "ลายนามบัตร\nนกไนติงเกลที่ยืนหยัดผ่านพ้นความมืดมิดของค่ำคืนมาได้ จะตอบแทนโลกยามทิวาด้วยความเร่าร้อน และจะใช้ความเกรี้ยวกราดเผาผลาญฝันร้ายให้มอดไหม้จนสิ้น",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "ความสำเร็จ - มองการณ์ไกล",
+    "Description": "ลายนามบัตร\nนักเดินทางเคยยืนอยู่บนที่สูงของเมืองและทอดสายตามองไปยังแดนไกล ด้วยความเชื่อมั่นว่าทิวทัศน์อันห่างไกลที่มองเห็นอยู่นั้น ท้ายที่สุดแล้วจะกลายเป็นหนึ่งในหมุดหมายของบันทึกการเดินทางในอนาคต",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai - ตะเกียงแห่งค่ำคืนอันยาวนาน",
+    "Description": "ลายนามบัตร\nมักจะมีตะเกียงที่ส่องสว่างขึ้นในยามที่ผืนฟ้ามืดมิดที่สุดเสมอ ไม่ว่าจะในค่ำคืนเดียว หรือในพันร้อยราตรี",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "บันทึก - พราวประทีป",
+    "Description": "ลายนามบัตร\nขอจันทราส่องสกาว ขอรุ่งเช้าปรีดิ์เปรม ห่มคลุมวสันตฤดู มุ่งสู่เส้นทางแสงจันทร์",
+    "SpecialDescription": "ลายนามบัตร \"บันทึก - พราวประทีป\"",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
     ]
   }
 ]

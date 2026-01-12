@@ -1620,6 +1620,42 @@
     "RecipeType": 1
   },
   {
+    "Id": 11081,
+    "Type": 1,
+    "SubType": 140290,
+    "Result": {
+      "Id": 112138,
+      "Count": 1
+    },
+    "Cost": 50,
+    "Materials": [
+      {
+        "Id": 112137,
+        "Count": 3
+      }
+    ],
+    "EffectDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+    "RecipeType": 1
+  },
+  {
+    "Id": 11082,
+    "Type": 1,
+    "SubType": 140290,
+    "Result": {
+      "Id": 112139,
+      "Count": 1
+    },
+    "Cost": 125,
+    "Materials": [
+      {
+        "Id": 112138,
+        "Count": 3
+      }
+    ],
+    "EffectDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí",
+    "RecipeType": 1
+  },
+  {
     "Id": 12001,
     "Type": 2,
     "SubType": 130000,
@@ -10269,6 +10305,138 @@
     "Materials": [
       {
         "Id": 113074,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61201,
+    "Type": 9,
+    "SubType": 131,
+    "Result": {
+      "Id": 113081,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113082,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61202,
+    "Type": 9,
+    "SubType": 132,
+    "Result": {
+      "Id": 113081,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113083,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61203,
+    "Type": 9,
+    "SubType": 133,
+    "Result": {
+      "Id": 113082,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113081,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61204,
+    "Type": 9,
+    "SubType": 134,
+    "Result": {
+      "Id": 113082,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113083,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61205,
+    "Type": 9,
+    "SubType": 135,
+    "Result": {
+      "Id": 113083,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113081,
+        "Count": 1
+      },
+      {
+        "Id": 113021,
+        "Count": 1
+      }
+    ],
+    "EffectDescription": "Chuyển Hóa Dị Mộng",
+    "RecipeType": 2
+  },
+  {
+    "Id": 61206,
+    "Type": 9,
+    "SubType": 136,
+    "Result": {
+      "Id": 113083,
+      "Count": 1
+    },
+    "Cost": 0,
+    "Materials": [
+      {
+        "Id": 113082,
         "Count": 1
       },
       {

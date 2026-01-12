@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "角色的下落攻擊造成傷害提升75%。"
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "隊伍中所有角色獲得60%水元素傷害加成。",
+      "隊伍中所有角色獲得60%雷元素傷害加成。"
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "目前場上角色的重擊傷害提升75%。"
+    ],
+    "SecondDescriptions": [
+      "月曜反應傷害提升75%。"
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "隊伍中所有角色獲得60%水元素傷害加成。",
+      "隊伍中所有角色獲得60%岩元素傷害加成。"
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "月感電傷害提升75%。"
+    ],
+    "SecondDescriptions": [
+      "月結晶傷害提升75%。"
+    ]
   }
 ]
