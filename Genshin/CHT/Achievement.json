@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "月塵的尋寶者·其二",
-    "Description": "在虛海望、逐浪野、煙硌山峰開啟60個寶箱。",
+    "Description": "在虛海望、逐浪野、煙硌山峰開啟45個寶箱。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "月塵的尋寶者·其二",
-    "Description": "在虛海望、逐浪野、煙硌山峰開啟120個寶箱。",
+    "Description": "在虛海望、逐浪野、煙硌山峰開啟90個寶箱。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "月塵的尋寶者·其二",
-    "Description": "在虛海望、逐浪野、煙硌山峰開啟240個寶箱。",
+    "Description": "在虛海望、逐浪野、煙硌山峰開啟180個寶箱。",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "月塵的冒險家·其二",
-    "Description": "在虛海望、逐浪野、煙硌山峰完成7個大世界限時挑戰。",
+    "Description": "在虛海望、逐浪野、煙硌山峰完成5個大世界限時挑戰。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "月的白夜歌",
+    "Description": "完成「伴月紀聞·其三」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

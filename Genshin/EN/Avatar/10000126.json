@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "White Horse's Fleeting Spring",
     "Detail": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Liyue Harbor",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Moon Wheel",
     "VisionOverrideUnlocked": "Moon Wheel",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda: Helping Hand",
-    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hand!\" — Surely that means the owner of said \"lendable hand\" is both agile and reliable, right?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai: Veiled Vista",
+    "Description": "Namecard style.\nHeaven and earth are but a wayfarer's lodge, and time a wanderer passing through the ages.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

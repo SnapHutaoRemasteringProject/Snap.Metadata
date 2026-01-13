@@ -2965,29 +2965,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "Bài Ca Không Nguyệt - Màn 7",
     "Title": "Nếu Một Đêm Đông, Có Vị Lữ Khách",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "Bài Ca Không Nguyệt - Màn 8",
     "Title": "Mặt Trăng Thực Sự",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4139,7 +4139,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "Khúc Ca Dạ Oanh - Chương 1",
@@ -4326,10 +4326,10 @@
     "NeedPlayerLevel": 0,
     "Number": "Bôn Tiêu Tụng Ngọc Luân - Lời Kết",
     "Title": "Chuyến Du Ngoạn Của Ngựa Trắng",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4813,7 +4813,7 @@
     "Title": "Hạ Màn! Đêm Mùa Hè Rực Rỡ!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4926,7 +4926,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Bôn Tiêu Tụng Ngọc Luân - Màn 1",
     "Title": "Giữa Tầng Mây",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4939,7 +4939,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Bôn Tiêu Tụng Ngọc Luân - Màn 2",
     "Title": "Giữa Vách Đá",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4952,7 +4952,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Bôn Tiêu Tụng Ngọc Luân - Màn 3",
     "Title": "Giữa Nhân Gian",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

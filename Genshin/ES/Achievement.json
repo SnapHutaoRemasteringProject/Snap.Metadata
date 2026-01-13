@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Cazatesoros del polvo lunar (II)",
-    "Description": "Abre 60 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "Description": "Abre 45 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Cazatesoros del polvo lunar (II)",
-    "Description": "Abre 120 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "Description": "Abre 90 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Cazatesoros del polvo lunar (II)",
-    "Description": "Abre 240 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "Description": "Abre 180 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "#Aventurer{F#a}{M#o} del polvo lunar (II)",
-    "Description": "Completa 7 pruebas contrarreloj del mundo abierto en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "Description": "Completa 5 pruebas contrarreloj del mundo abierto en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenata lunar de la noche blanca",
+    "Description": "Completa “Anécdotas selénicas (III)”.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

@@ -2965,29 +2965,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "공월의 노래 제7막",
     "Title": "어느 겨울밤, 한 여행자",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "노드크라이",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "공월의 노래 제8막",
     "Title": "진실의 달",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "노드크라이",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4139,7 +4139,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "밤꾀꼬리 노래·제1장",
@@ -4326,10 +4326,10 @@
     "NeedPlayerLevel": 0,
     "Number": "봄을 여는 옥마차·후일담",
     "Title": "백마 여행기",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4813,7 +4813,7 @@
     "Title": "폐막! 여름밤을 찬란하게 물들이자!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4926,7 +4926,7 @@
     "NeedPlayerLevel": 0,
     "Number": "봄을 여는 옥마차 제1막",
     "Title": "구름 사이 달",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4939,7 +4939,7 @@
     "NeedPlayerLevel": 0,
     "Number": "봄을 여는 옥마차 제2막",
     "Title": "바위 속 유리",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4952,7 +4952,7 @@
     "NeedPlayerLevel": 0,
     "Number": "봄을 여는 옥마차 제3막",
     "Title": "아름다운 세상",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

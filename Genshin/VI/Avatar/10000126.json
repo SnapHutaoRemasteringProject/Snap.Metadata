@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "Bạch Mã Tiên Nhân trong truyền thuyết Liyue, tên là Zibai, nhân vật thần bí nhất trong những câu chuyện tiên nhân ở Liyue.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Ngựa Phi Suối Chảy",
     "Detail": "Bạch Mã Tiên Nhân trong truyền thuyết Liyue, tên là Zibai, nhân vật thần bí nhất trong những câu chuyện tiên nhân ở Liyue.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Cảng Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Nham",
     "VisionOverrideLocked": "Vòng Mặt Trăng",
     "VisionOverrideUnlocked": "Vòng Mặt Trăng",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda - Trợ Thủ",
-    "Description": "Hoa văn danh thiếp.\n\"Khi bận rộn quá, chỉ muốn mượn tay của Jahoda thôi.\" - Điều này cho thấy, có lẽ chủ nhân của 'bàn tay cho mượn' vừa nhanh nhẹn lại vừa đáng tin cậy, chắc chắn là vậy rồi!",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai - Cảnh Khói",
+    "Description": "Hoa văn danh thiếp.\nĐất trời là quán trọ của vạn vật, thời gian là lữ khách của hàng trăm thế hệ.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

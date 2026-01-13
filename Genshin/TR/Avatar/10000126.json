@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "Liyue efsanelerinde geçen Beyaz At Adeptus. Zibai adıyla bilinir ve Liyue mitolojisinin en gizemli figürüdür.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Beyaz Atın Gizli Pınarı",
     "Detail": "Liyue efsanelerinde geçen Beyaz At Adeptus. Zibai adıyla bilinir ve Liyue mitolojisinin en gizemli figürüdür.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Liyue Limanı",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Toprak",
     "VisionOverrideLocked": "Ay Çarkı",
     "VisionOverrideUnlocked": "Ay Çarkı",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda: Yardım Eli",
-    "Description": "İsim Kartı arka planı.\n\"İşler çok yoğunlaştığında keşke Jahoda'nın elini ödünç alabilseydim!\" Bu cümle, \"ödünç verilebilir elin\" sahibinin hem çevik hem de güvenilir biri olduğu anlamına geliyordur, değil mi?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai: Sisli Manzara",
+    "Description": "İsim Kartı arka planı.\nGök ve yer yalnızca birer handır, zamansa çağlar boyu akıp giden bir yolcu.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

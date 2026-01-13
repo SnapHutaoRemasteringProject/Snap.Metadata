@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Moondust Treasure Hunter (II)",
-    "Description": "Open 60 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "Description": "Open 45 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Moondust Treasure Hunter (II)",
-    "Description": "Open 120 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "Description": "Open 90 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Moondust Treasure Hunter (II)",
-    "Description": "Open 240 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "Description": "Open 180 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Moondust Adventurer (II)",
-    "Description": "Complete 7 Open World mechanism-activated Time Trial Challenges in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "Description": "Complete 5 Open World mechanism-activated Time Trial Challenges in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Moonlit Whitenight Serenade",
+    "Description": "Complete \"Selenic Chronicles: Part III.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

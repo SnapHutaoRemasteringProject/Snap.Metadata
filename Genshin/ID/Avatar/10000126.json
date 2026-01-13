@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "Adeptus kuda putih dalam legenda Liyue yang dikenal dengan nama Zibai, sosok paling misterius di dalam mitologi Liyue.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "White Horse's Fleeting Spring",
     "Detail": "Adeptus kuda putih dalam legenda Liyue yang dikenal dengan nama Zibai, sosok paling misterius di dalam mitologi Liyue.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Liyue Harbor",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Moon Wheel",
     "VisionOverrideUnlocked": "Moon Wheel",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda: Helping Hand",
-    "Description": "Style Kartu Nama.\n\"Kalau sedang sibuk, rasanya ingin sekali pinjam tangan Jahoda.\" — Artinya pemiliknya \"tangan\" itu lincah dan bisa diandalkan, benar kan?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai: Veiled Vista",
+    "Description": "Style Kartu Nama.\nLangit dan bumi hanyalah tempat singgah bagi sang pengembara, dan waktu adalah penjelajah yang melintasi zaman.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

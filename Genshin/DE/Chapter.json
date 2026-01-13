@@ -2965,29 +2965,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "Lied des leeren Mondes – 7. Akt",
     "Title": "Ein Reisender in einer Winternacht",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "Lied des leeren Mondes – 8. Akt",
     "Title": "Der wahre Mond",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4139,7 +4139,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "Lied der Nachtigall – Kapitel I",
@@ -4326,10 +4326,10 @@
     "NeedPlayerLevel": 0,
     "Number": "Eine erleuchtete Ode an den silbernen Mond – Epilog",
     "Title": "Die gemächliche Reise des weißen Pferdes",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4813,7 +4813,7 @@
     "Title": "Vorhangapplaus für eine bunte Sommernacht",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4926,7 +4926,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Eine erleuchtete Ode an den silbernen Mond – 1. Akt",
     "Title": "Unter Wolken",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4939,7 +4939,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Eine erleuchtete Ode an den silbernen Mond – 2. Akt",
     "Title": "Unter Felsen",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4952,7 +4952,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Eine erleuchtete Ode an den silbernen Mond – 3. Akt",
     "Title": "Unter Menschen",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

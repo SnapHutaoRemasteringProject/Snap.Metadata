@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Caccia al tesoro tra la polvere lunare (II)",
-    "Description": "Apri 60 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "Description": "Apri 45 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Caccia al tesoro tra la polvere lunare (II)",
-    "Description": "Apri 120 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "Description": "Apri 90 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Caccia al tesoro tra la polvere lunare (II)",
-    "Description": "Apri 240 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "Description": "Apri 180 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Avventure tra la polvere lunare (II)",
-    "Description": "Completa 7 sfide a tempo del mondo di gioco attivate da un meccanismo sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo",
+    "Description": "Completa 5 sfide a tempo del mondo di gioco attivate da un meccanismo sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Bianca serenata al chiaro di luna",
+    "Description": "Completa Cronache lunari: Parte III.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

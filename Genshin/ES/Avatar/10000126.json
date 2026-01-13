@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "La Adeptus Yegua Blanca de las leyendas de Liyue, conocida como Zibai. Es la Adeptus más misteriosa de entre todos los mitos de la nación.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "La Yegua del Manantial Escondido",
     "Detail": "La Adeptus Yegua Blanca de las leyendas de Liyue, conocida como Zibai. Es la Adeptus más misteriosa de entre todos los mitos de la nación.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Disco Lunar",
     "VisionOverrideUnlocked": "Disco Lunar",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda - Ayudante",
-    "Description": "Diseño de tarjeta de presentación.\n“Cuando hay mucho trabajo, ¡ojalá pudiera pedir prestadas las manos de Jahoda!”. Sin duda, eso significa que la dueña de esas “manos prestables” es ágil y fiable, ¿verdad?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai - Vista velada",
+    "Description": "Diseño de tarjeta de presentación.\nEl cielo y la tierra no son más que una posada para el viajero, y el tiempo, un vagabundo que atraviesa innumerables generaciones.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

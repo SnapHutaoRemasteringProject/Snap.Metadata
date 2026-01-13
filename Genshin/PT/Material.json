@@ -37404,17 +37404,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Carcaça da Asa Terrível",
-    "Description": "Uma relíquia óssea preta retirada da corrupção remanescente deixada para trás após derrotar o Sussurrador de Pesadelos que invadiu este mundo do além.\nA fera sem forma que voou pelo vazio sem estrelas jamais deveria precisar de órgãos que esse mundo chama de \"asas\". Aqueles anexos grotescos e profanos podem ter surgido para adaptar às leis sob a lua, ou talvez sejam meramente o fragmento distorcido que nossos olhos mortais conseguem perceber de sua forma verdadeira.",
-    "TypeDescription": "Material de Elevação de Personagem",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37444,6 +37433,17 @@
     "Description": "Um frasco recuperado dos campos de testes heréticos após derrotar o Falso Deus da Lua.\nPor séculos, aqueles autoproclamados pesquisadores se arrastaram aos pés de seis pecados capitais, e seus estudos enganosos não eram nada além de argumentos circulares e palavras vazias. A busca da verdade jamais deveria ser restringida. Nesse caso, talvez aqueles marcados como hereges e vilões sejam os únicos buscando conhecimento de verdade.",
     "TypeDescription": "Material de Elevação de Personagem",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Carcaça da Asa Terrível",
+    "Description": "Uma relíquia óssea preta retirada da corrupção remanescente deixada para trás após derrotar o Sussurrador de Pesadelos que invadiu este mundo do além.\nA fera sem forma que voou pelo vazio sem estrelas jamais deveria precisar de órgãos que esse mundo chama de \"asas\". Aqueles anexos grotescos e profanos podem ter surgido para adaptar às leis sob a lua, ou talvez sejam meramente o fragmento distorcido que nossos olhos mortais conseguem perceber de sua forma verdadeira.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45243,7 +45243,7 @@
     "Name": "Flor da Oração Lunar de Columbina",
     "Description": "Uma Flor da Oração Lunar presenteada a você por Columbina, exalando uma fragrância tanto pura quanto etérea, assim como aquelas que você viu no Saguão da Lua Prateada.\nEla agita a memória de uma história há muito contada, e traz a abertura de um novo capítulo. Dessa vez, ela nunca perderá suas cores novamente.",
     "TypeDescription": "Item de Missão",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50486,7 +50486,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"A Adeptus Cavalo Branco Encontra a Adeptus Cavalo Branco, Porto de Liyue\"",
     "Description": "Uma fotografia assinada pela Paimon que congelou o momento de risadas entre os três.",
@@ -50508,12 +50508,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Caderno de Marionette",
     "Description": "Uma relíquia de Sandrone, passada a você pela Serva. Contém muitas anotações relacionadas a Sandrone.\nEmbora sua capa e páginas estejam desgastadas com o tempo, é fácil ver quanto cuidado a dona dedicou a ele.",
     "TypeDescription": "Item de Missão",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50538,7 +50538,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50574,7 +50574,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"A Adeptus Cavalo Branco Encontra a Adeptus Cavalo Branco, Porto de Liyue\"",
     "Description": "Uma fotografia assinada pela Paimon que congelou o momento de risadas entre os três.",
@@ -50668,6 +50668,39 @@
     "Description": "Um cartão de chave criptografada de um terminal no lado oeste de Piramida, de aparência comum.\nEle possui um belo texto de Snezhnaya que foi impresso com nitidez na sua superfície que lê: \"Pesquisadora-Chefe Grazina Miklukho.\"",
     "TypeDescription": "Item de Missão",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Uma Breve História dos Nascidos da Estrela Azul",
+    "Description": "Um livro sobre história feérica. Baseado em certos detalhes nele, a maioria acredita ter sido escrito por anciões feéricos.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sussurros Noturnos da Fronteira Distante: Maneodon",
+    "Description": "Um livro de contos folclóricos em Snezhnaya, dito registrar todos os tipos de contos feéricos menos conhecidos. Esse volume conta a história de um feérico perigoso conhecido como o \"Maneodon\".",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Contos Levados Pelo Vento do Norte",
+    "Description": "Uma coleção de poemas contando os atos de sucessivos Starshynas. A maioria do conteúdo foi perdido em calamidades passadas, e somente uma pequena fração dos fragmentos originais podem ser recuperados agora.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53596,6 +53629,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 169",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 170",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 171",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 172",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 173",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 174",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 175",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cristal Rodopiante Radiante 176",
+    "Description": "Esse cristal maravilhoso contém uma certa melodia, como um tecido belo criado de seda delicada. Esses itens podem ser encontrados por todo o continente ou com comerciantes de mercadorias raras. A melodia deste cristal pode ser revivida em seu Bule de Relachá usando \"Eufonia Infinita: Música no Ar\" ou \"Eufonia Infinita: Sons Rodopiantes\". A melodia contida neste Cristal Rodopiante Radiante é uma misteriosa canção de Nod-Krai.",
+    "TypeDescription": "Item de Aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56247,7 +56368,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71826,7 +71947,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Forjando na Cidade dos Vigilantes\"",
     "Description": "Um diagrama que descreve passo a passo como fabricar \"Forjando na Cidade dos Vigilantes\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",

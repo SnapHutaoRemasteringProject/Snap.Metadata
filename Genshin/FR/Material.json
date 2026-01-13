@@ -37393,17 +37393,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Reste flétri de l'aile du cauchemar",
-    "Description": "Une relique osseuse d'un noir profond, prélevée sur la corruption persistante laissée après la défaite du Seigneur chuchoteur de cauchemars qui avait envahi notre monde depuis l'au-delà.\nCette bête informe qui planait dans le vide sans étoiles n'aurait jamais dû avoir besoin d'organes que ce monde nomme « ailes ». Ces appendices grotesques et profanes sont peut-être apparus pour s'adapter aux lois sous la lune, ou ne sont-ils que le fragment déformé de sa véritable forme que les yeux mortels peuvent percevoir.",
-    "TypeDescription": "Matériau d'amélioration de personnage",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37433,6 +37422,17 @@
     "Description": "Une fiole trouvée sur le site d'expériences hérétiques après avoir vaincu le faux dieu qui avait usurpé la lune.\nPendant des siècles, de prétendus érudits se sont prosternés devant six interdictions cardinales, leurs études n'étant rien de plus qu'un raisonnement circulaire et des paroles creuses. La quête de la vérité ne devrait connaître aucune limite. Par cette mesure, ceux que le monde condamne comme hérétiques sont les plus authentiques chercheurs de savoir.",
     "TypeDescription": "Matériau d'amélioration de personnage",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Reste flétri de l'aile du cauchemar",
+    "Description": "Une relique osseuse d'un noir profond, prélevée sur la corruption persistante laissée après la défaite du Seigneur chuchoteur de cauchemars qui avait envahi notre monde depuis l'au-delà.\nCette bête informe qui planait dans le vide sans étoiles n'aurait jamais dû avoir besoin d'organes que ce monde nomme « ailes ». Ces appendices grotesques et profanes sont peut-être apparus pour s'adapter aux lois sous la lune, ou ne sont-ils que le fragment déformé de sa véritable forme que les yeux mortels peuvent percevoir.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45232,7 +45232,7 @@
     "Name": "Fleur de la prière lunaire de Columbina",
     "Description": "Une fleur de la prière lunaire offerte par Columbina, qui dégage un parfum à la fois pur et éthéré, semblable à celles que vous aviez vues dans le Hall d'argenlune.\nElle ravive le souvenir d'une histoire maintes fois contée et annonce le début d'un nouveau chapitre. Cette fois-ci, elle ne perdra plus jamais ses couleurs.",
     "TypeDescription": "Objet de quête",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50475,7 +50475,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "L'Adepte cheval blanc rencontre l'Adepte cheval blanc au Port de Liyue",
     "Description": "Une photo nommée par Paimon, immortalisant un moment de rire partagé entre trois amis.",
@@ -50497,12 +50497,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Carnet de Sandrone",
     "Description": "Une relique de Sandrone, qui vous a été transmise par Arlecchino. Ses pages contiennent de nombreuses informations sur Sandrone.\nBien que sa couverture et ses pages soient usées par le temps, on peut facilement voir à quel point sa propriétaire y tenait.",
     "TypeDescription": "Objet de quête",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50527,7 +50527,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50563,7 +50563,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "L'Adepte cheval blanc rencontre l'Adepte cheval blanc au Port de Liyue",
     "Description": "Une photo nommée par Paimon, immortalisant un moment de rire partagé entre trois amies.",
@@ -50657,6 +50657,39 @@
     "Description": "#Une carte d'accès obtenue sur un site d'expérimentation. Son apparence n'a rien de spécial.\nDu texte snezhnayien est imprimé à sa surface de manière soignée : «{NON_BREAK_SPACE}Chercheuse en chef Grazina Myklukho ».",
     "TypeDescription": "Objet de quête",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bref historique de ceux nés de l'étoile pâle",
+    "Description": "Un livre sur l'histoire des nivéoles. D'après certains détails qu'il contient, on pense qu'il a été écrit par des anciens du peuple nivéole.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Murmures nocturnes de la frontière lointaine : Varcolac",
+    "Description": "Un recueil de contes populaires circulant à Snezhnaya, censé rassembler toutes sortes d'histoires de créatures nivéoles méconnues. Ce volume raconte l'histoire d'une dangereuse créature nivéole connue sous le nom de varcolac.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Contes portés par le vent du nord",
+    "Description": "Un recueil de poèmes relatant les exploits des différents starshynas. La majeure partie de son contenu a été perdue lors de catastrophes passées et seule une petite fraction des fragments originaux a pu être retrouvée.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53585,6 +53618,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 169",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 170",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 171",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 172",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 173",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 174",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 175",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 176",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56236,7 +56357,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71815,7 +71936,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "« Forge de la cité vigilante »",
     "Description": "Étapes de fabrication de la « Forge de la cité vigilante ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",

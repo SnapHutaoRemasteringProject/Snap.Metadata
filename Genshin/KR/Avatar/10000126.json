@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "자백",
   "Description": "리월의 전설 속 백마 선인, 이름하여 자백. 리월의 선인 중에서도 특히 신비로운 인물이다",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "샘물에 숨은 세월",
     "Detail": "리월의 전설 속 백마 선인, 이름하여 자백. 리월의 선인 중에서도 특히 신비로운 인물이다",
-    "Association": 12,
+    "Association": 13,
     "Native": "리월항",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "바위",
     "VisionOverrideLocked": "달의 륜",
     "VisionOverrideUnlocked": "달의 륜",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "야호다·고양이 손",
-    "Description": "명함 스킨.\n「너무 바쁠 때는 야호다의 손도 빌린다」——이 손의 주인이 민첩하고 믿음직하다는 뜻인 게 분명하다!",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "자백·연경",
+    "Description": "명함 스킨.\n무릇 하늘과 땅은 만물이 쉬어가는 객잔이요, 세월은 흘러가는 나그네라네",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

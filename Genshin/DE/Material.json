@@ -37217,17 +37217,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Überreste der Schreckensflügel",
-    "Description": "Ein tiefschwarzes Knochenrelikt, das aus der verweilenden Verderbnis gewonnen wurde, die nach dem Sieg über den Flüsterer der Albträume zurückblieb, der aus einer anderen Welt eingedrungen war.\nDas formlose Ungeheuer, das durch die sternenlose Leere schwebte, hätte niemals etwas benötigt, die unsereins „Flügel“ nennt. Die grotesken, profanen Anhängsel könnten entstanden sein, um sich an die Gesetze unter dem Mond anzupassen, oder vielleicht sind sie nur ein verzerrtes Fragment seiner wahren Gestalt, das sterbliche Augen wahrnehmen können.",
-    "TypeDescription": "Material zur Verbesserung von Figuren",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37257,6 +37246,17 @@
     "Description": "Ein Band, das nach dem Sieg über die falsche Gottheit, die sich den Mond angemaßt hatte, auf dem Prüfgelände der Ketzer gefunden wurde.\nSeit Jahrhunderten kriechen die selbsternannten Gelehrten unter der Last der sechs Kardinalsverbote dahin, wobei ihre Studien kaum mehr als Zirkelschlüsse und leere Worte sind. Das Streben nach Wahrheit sollte keine Grenzen kennen; gemessen daran sind diejenigen, die von der Welt als Ketzer verurteilt werden, die wahrhaftigsten Wissenssuchenden.",
     "TypeDescription": "Material zur Verbesserung von Figuren",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Überreste der Schreckensflügel",
+    "Description": "Ein tiefschwarzes Knochenrelikt, das aus der verweilenden Verderbnis gewonnen wurde, die nach dem Sieg über den Flüsterer der Albträume zurückblieb, der aus einer anderen Welt eingedrungen war.\nDas formlose Ungeheuer, das durch die sternenlose Leere schwebte, hätte niemals etwas benötigt, die unsereins „Flügel“ nennt. Die grotesken, profanen Anhängsel könnten entstanden sein, um sich an die Gesetze unter dem Mond anzupassen, oder vielleicht sind sie nur ein verzerrtes Fragment seiner wahren Gestalt, das sterbliche Augen wahrnehmen können.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45056,7 +45056,7 @@
     "Name": "Mondgebetsblüte von Columbina",
     "Description": "Eine dir von Columbina gereichte Mondgebetsblüte, die einen reinen und ätherischen Duft verströmt, ähnlich dem, den du einst im Silbermondhof wahrgenommen hast.\nSie weckt Erinnerungen an eine längst erzählte Geschichte und läutet den Beginn eines neuen Kapitels ein. Diese Mal wird sie ihre Farben nie wieder verlieren.",
     "TypeDescription": "Auftragsobjekt",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50332,7 +50332,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "„Die Adeptin des weißen Pferdes trifft die Adeptin des weißen Pferdes in Liyue“",
     "Description": "Ein Foto, das von Paimon betitelt wurde. Es hält den Moment des gemeinsamen Lachens dreier Freunde fest.",
@@ -50354,12 +50354,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "„Marionettes“ Notizbuch",
     "Description": "Eine Hinterlassenschaft von Sandrone, das dir von Arlecchino übergeben wurde. Seine Seiten enthalten zahlreiche Aufzeichnungen über Sandrone.\nObwohl der Einband und die Seiten nicht vom Zahn der Zeit verschont geblieben sind, lässt sich doch unschwer erkennen, wie sehr sein einstiger Besitzer dieses Buch geschätzt hat.",
     "TypeDescription": "Auftragsobjekt",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50384,7 +50384,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50420,7 +50420,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "„Die Adeptin des weißen Pferdes trifft die Adeptin des weißen Pferdes in Liyue“",
     "Description": "Ein Foto, das von Paimon betitelt wurde. Es hält den Moment des gemeinsamen Lachens dreier Freunde fest.",
@@ -50514,6 +50514,39 @@
     "Description": "Eine Schlüsselkarte, die in der Versuchszone gefunden wurde. Sie sieht völlig unauffällig aus.\nAuf ihr steht in ordentlicher snezhnayanischen Schrift: „Forschungsleiterin Grazina Myklukho“.",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Eine kurze Geschichte der blassen Sterngeborenen",
+    "Description": "Ein Buch über die Geschichte der Feen. Aufgrund bestimmter Details darin glauben die meisten, dass es von den Ältesten der Feen geschrieben wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nachtgeflüster von der fernen Grenze – Varcolac",
+    "Description": "Ein Volksmärchenbuch von Snezhnaya, das angeblich alle möglichen weniger bekannten Feengeschichten enthält. Dieser Band erzählt die Geschichte einer gefährlichen Fee namens „Varcolac“.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Geschichten, getragen vom Nordwind",
+    "Description": "Eine Gedichtsammlung, die die Taten der Starshyna über Generationen hinweg festhält. Der größte Teil ihres Inhalts ging bei früheren Katastrophen verloren. Was heute noch übrig ist, ist nur ein kleiner Teil der ursprünglichen Sammlung.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53442,6 +53475,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXIX",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXX",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXI",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXII",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXIII",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXIV",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXV",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXVI",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56093,7 +56214,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71672,7 +71793,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "„Schmieden in der Stadt der Immerwachenden“",
     "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Schmieden in der Stadt der Immerwachenden“.\nNach der Anwendung im Herstellungsmenü zu finden.",

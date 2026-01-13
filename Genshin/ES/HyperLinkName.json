@@ -415,6 +415,11 @@
     "Description": "Un terreno especial creado por Colombina tras usar su Habilidad Definitiva, <color=#FFD780FF>Nostalgia de la luz lunar</color>.\nCuando el personaje en uso se encuentre en el <color=#FFD780FF>dominio lunar</color>, el daño de las Reacciones Lunares de todos los personajes del equipo aumentará."
   },
   {
+    "Id": 11250003,
+    "Name": "Rocío cumbreluna",
+    "Description": "Un tipo de rocío de la espesura especial proporcionado por el talento pasivo de Colombina, <color=#FFD780FF>La ley de la Luna Nueva</color>. El límite y la duración de este tipo de rocío se calculan de forma independiente a los del rocío de la espesura.\nCuando el rocío de la espesura del equipo se agote, en su lugar se consumirá el <color=#FFD780FF>rocío cumbreluna</color>.\nEl límite de <color=#FFD780FF>rocío cumbreluna</color> es de 3 gotas."
+  },
+  {
     "Id": 11270001,
     "Name": "Canto del ruiseñor",
     "Description": "Este efecto, obtenido tras usar la Habilidad Definitiva de Illuga, <color=#FFD780FF>Reflejo sin sombra</color>, puede aumentar el <color=#FFE699FF>Daño Geo</color> que inflige el personaje en uso."

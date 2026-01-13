@@ -1168,6 +1168,14 @@
   },
   "Costumes": [
     {
+      "Id": 208701,
+      "Name": "Geschenk der Melusinen",
+      "Description": "Ein Überraschungsgeschenk für Neuvillette. Die Überraschung war nicht nur das Geschenk selbst, sondern auch die vielen kleinen helfenden Hände, die an seiner Herstellung beteiligt waren. Wie Flüsse ins weite Meer münden, können sich auch Tautropfen zu einem Wunder ansammeln, das in allen sieben Farben schimmert.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
+    {
       "Id": 208700,
       "Name": "Eindeutiges Urteil",
       "Description": "Neuvillettes Kleidung. Das anmutige und elegante Gewand des Obersten Richters. Seine komplexe Gestaltung erschwert dem Träger die freie Bewegung, doch für ihn hingegen ist ein angemessenes Erscheinungsbild nach seinem Status von besonderer Wichtigkeit.",

@@ -37074,17 +37074,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Resti dell'ala corrotta",
-    "Description": "Una reliquia ossea dal colore nero scuro ricavata dai resti della corruzione latente dopo la sconfitta del Sussurratore di incubi, giunto in questo mondo come un invasore.\nLa bestia informe che attraversava il vuoto siderale non avrebbe mai dovuto necessitare di organi che in questo mondo chiamiamo \"ali\". Tali grottesche e profane appendici potrebbero essere sorte per adattarsi alle leggi che regnano ai piedi della luna, o forse sono semplicemente il frammento distorto della sua vera forma, percepita tramite gli occhi dei mortali.",
-    "TypeDescription": "Materiale per aumento livello dei personaggi",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37114,6 +37103,17 @@
     "Description": "Una fiala recuperata dal campo di sperimentazione eretico dopo aver sconfitto il falso dio usurpatore della luna.\nPer molti secoli, i sedicenti ricercatori hanno strisciato ai piedi dei sei divieti capitali, rendendo i loro studi poco più che ragionamenti circolari fatti di parole vuote. La ricerca della verità non dovrebbe mai essere vincolata dalle restrizioni. In questo senso, forse coloro che vengono bollati come eretici e malvagi sono gli autentici cercatori della conoscenza.",
     "TypeDescription": "Materiale per aumento livello dei personaggi",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Resti dell'ala corrotta",
+    "Description": "Una reliquia ossea dal colore nero scuro ricavata dai resti della corruzione latente dopo la sconfitta del Sussurratore di incubi, giunto in questo mondo come un invasore.\nLa bestia informe che attraversava il vuoto siderale non avrebbe mai dovuto necessitare di organi che in questo mondo chiamiamo \"ali\". Tali grottesche e profane appendici potrebbero essere sorte per adattarsi alle leggi che regnano ai piedi della luna, o forse sono semplicemente il frammento distorto della sua vera forma, percepita tramite gli occhi dei mortali.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -44913,7 +44913,7 @@
     "Name": "Fiore della Preghiera lunare di Colombina",
     "Description": "Un Fiore della Preghiera lunare che ti è stato donato da Colombina. Emana un profumo puro ed etereo, proprio come quelli che hai visto in passato alla Sala della Luna d'argento.\nRichiama alla mente una storia e annuncia l'inizio di un nuovo capitolo. Questa volta, non perderà mai più i suoi colori.",
     "TypeDescription": "Oggetto missione",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50156,7 +50156,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "L'Adepta cavallo bianco incontra l'Adepta cavallo bianco al Porto di Liyue",
     "Description": "#Una foto intitolata da Paimon, che cattura un momento di risate condivise tra {F#amiche}{M#amici}.",
@@ -50178,12 +50178,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Taccuino della Marionetta",
     "Description": "Un cimelio di Sandrone ricevuto dalla Fantesca. Le sue pagine contengono molte informazioni su Sandrone.\nSebbene la copertina e le pagine siano usurate, è facile capire con quanta cura la sua proprietaria lo abbia custodito.",
     "TypeDescription": "Oggetto missione",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50208,7 +50208,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50244,7 +50244,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "L'Adepta cavallo bianco incontra l'Adepta cavallo bianco al Porto di Liyue",
     "Description": "#Una foto intitolata da Paimon, che cattura un momento di risate condivise tra {F#amiche}{M#amici}.",
@@ -50338,6 +50338,39 @@
     "Description": "Una tessera d'accesso dall'aspetto ordinario, ottenuta dal sito dell'esperimento.\nSulla sua superficie, è stato stampato un testo di Snezhnaya che recita: \"Ricercatrice capo Grazina Myklukho\".",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Una breve storia della Candida Stella",
+    "Description": "Un libro sulla storia delle Fate. In base ad alcuni dettagli, si ritiene che sia stato scritto dagli anziani delle Fate.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mormorii notturni dal confine lontano: Varcolac",
+    "Description": "Una raccolta di racconti popolari che circola a Snezhnaya, che si dice contenga ogni sorta di racconti meno noti sulle Fate. Questo volume racconta la storia di una pericolosa Fata conosciuta come \"Varcolac\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Storie del Vento del Nord",
+    "Description": "Una raccolta di poesie che racconta le gesta degli Starsina. La maggior parte del suo contenuto è andata perduta in calamità passate. Solo una piccola parte dei frammenti originali sono stati recuperati.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53266,6 +53299,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 169",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 170",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 171",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 172",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 173",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 174",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 175",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 176",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -55917,7 +56038,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71496,7 +71617,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Forgia nella città della vigilanza eterna",
     "Description": "Un progetto con istruzioni passo dopo passo per realizzare Forgia nella città della vigilanza eterna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",

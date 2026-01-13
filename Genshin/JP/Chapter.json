@@ -2965,29 +2965,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "空月の歌 第七幕",
     "Title": "冬の夜、ある旅人が",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "ナド・クライ",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "空月の歌 第八幕",
     "Title": "真実の月",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "ナド・クライ",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4139,7 +4139,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "夜鳴鶯の歌・第一章",
@@ -4326,10 +4326,10 @@
     "NeedPlayerLevel": 0,
     "Number": "天を翔ける玉輪の軌跡・エピローグ",
     "Title": "白馬有閑遊記",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4813,7 +4813,7 @@
     "Title": "カーテンコール！鮮やかな夏の夜！",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4926,7 +4926,7 @@
     "NeedPlayerLevel": 0,
     "Number": "天を翔ける玉輪の軌跡 第一幕",
     "Title": "雲の間で",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4939,7 +4939,7 @@
     "NeedPlayerLevel": 0,
     "Number": "天を翔ける玉輪の軌跡 第二幕",
     "Title": "岩の間で",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4952,7 +4952,7 @@
     "NeedPlayerLevel": 0,
     "Number": "天を翔ける玉輪の軌跡 第三幕",
     "Title": "人の間で",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

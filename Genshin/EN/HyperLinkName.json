@@ -415,6 +415,11 @@
     "Description": "The domain that Columbina summons after unleashing the Elemental Burst <color=#FFD780FF>Moonlit Melancholy</color>.\nWhen current active characters are within the <color=#FFD780FF>Lunar Domain</color>, Lunar Reaction DMG inflicted by all party members will increase."
   },
   {
+    "Id": 11250003,
+    "Name": "Moonridge Dew",
+    "Description": "A special Verdant Dew resource provided by Columbina's Passive Talent, <color=#FFD780FF>Law of the New Moon</color>. Its maximum capacity and duration are calculated separately from Verdant Dew.\nWhen the party's Verdant Dew is expended, <color=#FFD780FF>Moonridge Dew</color> will be consumed instead.\nYour party can have up to 3 <color=#FFD780FF>Moonridge Dew</color>."
+  },
+  {
     "Id": 11270001,
     "Name": "Nightingale's Song",
     "Description": "The effect gained after Illuga unleashes his Elemental Burst <color=#FFD780FF>Shadowless Reflection</color>. It can increase the <color=#FFE699FF>Geo DMG</color> inflicted by current active characters."

@@ -1168,6 +1168,14 @@
   },
   "Costumes": [
     {
+      "Id": 208701,
+      "Name": "Cadeau mélusin",
+      "Description": "Un cadeau surprise pour Neuvillette. Le plaisir ne vient pas seulement du cadeau lui-même, mais de chaque petite main qui a contribué à sa création. Comme les rivières se jettent dans l'immensité de la mer, les gouttes de rosée peuvent s'unir pour créer un miracle scintillant de mille reflets.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
+    {
       "Id": 208700,
       "Name": "Arbitrage sans équivoque",
       "Description": "Tenue de Neuvillette. L'habit solennel et élégant de l'iudex, en raison de la complexité de sa conception, cause, il est vrai, quelques désagréments lors des mouvements. Mais pour son porteur, le fait que ce vêtement corresponde à sa réputation est un point bien plus important.",

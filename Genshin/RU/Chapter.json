@@ -2971,29 +2971,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "Песня полой луны. Глава VII",
     "Title": "Если однажды зимней ночью путешественник",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Нод-Край",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "Песня полой луны. Глава VIII",
     "Title": "Истинная луна",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Нод-Край",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4145,7 +4145,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "Соловьиная трель: Глава 1",
@@ -4332,10 +4332,10 @@
     "NeedPlayerLevel": 0,
     "Number": "Ода серебряной луне, освещённая фонарями. Финал",
     "Title": "Записки о странствиях Белой Лошади",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4819,7 +4819,7 @@
     "Title": "Раскрасим ночь в яркие краски!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4932,7 +4932,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ода серебряной луне, освещённая фонарями. Глава I",
     "Title": "В Заоблачном пределе",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4945,7 +4945,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ода серебряной луне, освещённая фонарями. Глава II",
     "Title": "Среди скал",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4958,7 +4958,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ода серебряной луне, освещённая фонарями. Глава III",
     "Title": "Среди людей",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

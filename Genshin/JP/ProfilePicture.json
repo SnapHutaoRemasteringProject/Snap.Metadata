@@ -7,11 +7,25 @@
     "UnlockParameter": 10000005
   },
   {
+    "Id": 11,
+    "Icon": "UI_AvatarIcon_PlayerBoyCostumeCWXR_Circle",
+    "Name": "{0}・新たなる天地",
+    "UnlockType": 3,
+    "UnlockParameter": 200501
+  },
+  {
     "Id": 2,
     "Icon": "UI_AvatarIcon_PlayerGirl_Circle",
     "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000007
+  },
+  {
+    "Id": 21,
+    "Icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+    "Name": "{0}・新たなる天地",
+    "UnlockType": 3,
+    "UnlockParameter": 200701
   },
   {
     "Id": 100,
@@ -595,6 +609,13 @@
     "UnlockParameter": 10000077
   },
   {
+    "Id": 6101,
+    "Icon": "UI_AvatarIcon_YaoyaoCostumeWinter_Circle",
+    "Name": "ヨォーヨ・竹林に響く雨音",
+    "UnlockType": 3,
+    "UnlockParameter": 207701
+  },
+  {
     "Id": 6200,
     "Icon": "UI_AvatarIcon_Alhatham_Circle",
     "Name": "アルハイゼン",
@@ -670,6 +691,13 @@
     "Name": "ヌヴィレット",
     "UnlockType": 2,
     "UnlockParameter": 10000087
+  },
+  {
+    "Id": 7101,
+    "Icon": "UI_AvatarIcon_NeuvilletteCostumeWinter_Circle",
+    "Name": "ヌヴィレット・メリュジーヌの贈り物",
+    "UnlockType": 3,
+    "UnlockParameter": 208701
   },
   {
     "Id": 7200,
@@ -929,6 +957,27 @@
     "Name": "ヤフォダ",
     "UnlockType": 2,
     "UnlockParameter": 10000124
+  },
+  {
+    "Id": 10800,
+    "Icon": "UI_AvatarIcon_Columbina_Circle",
+    "Name": "コロンビーナ",
+    "UnlockType": 2,
+    "UnlockParameter": 10000125
+  },
+  {
+    "Id": 10900,
+    "Icon": "UI_AvatarIcon_Illuga_Circle",
+    "Name": "イルーガ",
+    "UnlockType": 2,
+    "UnlockParameter": 10000127
+  },
+  {
+    "Id": 11000,
+    "Icon": "UI_AvatarIcon_Zibai_Circle",
+    "Name": "兹白",
+    "UnlockType": 2,
+    "UnlockParameter": 10000126
   },
   {
     "Id": 100010,

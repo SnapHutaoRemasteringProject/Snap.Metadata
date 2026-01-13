@@ -37437,17 +37437,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Vestigio de las alas del terror",
-    "Description": "Una reliquia ósea de color negro intenso obtenida de la corrupción residual que quedó tras derrotar al Susurrador de Pesadillas que invadió este mundo desde más allá.\nLa bestia sin forma que volaba por el vacío sin estrellas nunca debería haber necesitado los órganos que este mundo llama “alas”. Esos apéndices grotescos y profanos pueden haber surgido para adaptarse a las leyes que rigen bajo la luna, o tal vez sean simplemente el fragmento distorsionado que nuestros ojos mortales pueden percibir de su verdadera forma.",
-    "TypeDescription": "Material de mejora de personaje",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37477,6 +37466,17 @@
     "Description": "Un frasco encontrado en el campo de pruebas herético tras derrotar al falso dios que usurpó la luna.\nDurante milenios, los necios que se hacían llamar eruditos se arrastraron bajo los seis pecados capitales. Sus estudios engañosos no eran más que argumentos circulares y palabras vacías. La búsqueda de la verdad no debería tener límites, por lo que aquellos considerados herejes por el mundo son, en realidad, los verdaderos buscadores del conocimiento.",
     "TypeDescription": "Material de mejora de personaje",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Vestigio de las alas del terror",
+    "Description": "Una reliquia ósea de color negro intenso obtenida de la corrupción residual que quedó tras derrotar al Susurrador de Pesadillas que invadió este mundo desde más allá.\nLa bestia sin forma que volaba por el vacío sin estrellas nunca debería haber necesitado los órganos que este mundo llama “alas”. Esos apéndices grotescos y profanos pueden haber surgido para adaptarse a las leyes que rigen bajo la luna, o tal vez sean simplemente el fragmento distorsionado que nuestros ojos mortales pueden percibir de su verdadera forma.",
+    "TypeDescription": "Material de mejora de personaje",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45276,7 +45276,7 @@
     "Name": "Flor rezolunar que te dio Colombina",
     "Description": "Una flor rezolunar que te dio Colombina. Desprende una fragancia de pureza y gracia etérea, muy similar a las que hay en el Vergel Lunargénteo.\nEvoca recuerdos de una historia pasada, al tiempo que anuncia un nuevo comienzo. Nunca volverá a perder su color.",
     "TypeDescription": "Objeto de misión",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50519,7 +50519,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "La Adeptus Yegua Blanca conoce a la Adeptus Yegua Blanca en Liyue",
     "Description": "#Una imagen titulada por Paimon que captura un momento de risas entre l{F#a}{M#o}s tres.",
@@ -50541,12 +50541,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cuaderno de La Títere",
     "Description": "Una reliquia de Sandrone que te ha sido entregada por Arlecchino. Contiene muchas notas relacionadas con Sandrone.\nAunque su cubierta y sus páginas están desgastadas por el paso del tiempo, es fácil ver lo mucho que su propietaria la apreciaba.",
     "TypeDescription": "Objeto de misión",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50571,7 +50571,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50607,7 +50607,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "La Adeptus Yegua Blanca conoce a la Adeptus Yegua Blanca en Liyue",
     "Description": "#Una imagen titulada por Paimon que captura un momento de risas entre l{F#a}{M#o}s tres.",
@@ -50701,6 +50701,39 @@
     "Description": "Una tarjeta de acceso obtenida en el área de experimentación, de apariencia bastante ordinaria.\nTiene impreso en escritura de Snezhnaya con letra pulcra: “Grazina Miklujo, jefa de investigación”.",
     "TypeDescription": "Objeto de misión",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Breve historia de las hadas de la Estrella Albina",
+    "Description": "Un libro sobre la historia de las hadas. A juzgar por ciertos detalles, se cree que fue escrito por los ancianos feéricos.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Relatos nocturnos de la frontera: Vârcolac",
+    "Description": "Un libro de cuentos populares de Snezhnaya que, según se dice, relata toda clase de anécdotas poco conocidas sobre las hadas. Este volumen narra la historia de un tipo de hada muy peligrosa llamada “vârcolac”.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Antología del viento boreal",
+    "Description": "Una colección de poemas que recoge las hazañas de los starshiná de diversas épocas. La mayor parte de su contenido se perdió en las catástrofes del pasado, por lo que los fragmentos que se han logrado reunir solo constituyen una pequeña parte del texto original.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53629,6 +53662,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (169)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (170)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (171)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (172)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (173)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (174)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (175)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Girocristal radiante (176)",
+    "Description": "Un maravilloso cristal que contiene cierta melodía. Es como un hermoso objeto confeccionado con una delicada seda. Estos objetos están distribuidos por todo Teyvat o en manos de comerciantes de rarezas. Puedes restaurar la música que contienen usando las decoraciones “Melodías del mundo: Música en el aire” o “Melodías del mundo: Sonidos entrelazados” de tu Relajatetera. Este Girocristal radiante contiene una misteriosa canción de Nod Krai.",
+    "TypeDescription": "Objeto de aventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56280,7 +56401,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71859,7 +71980,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Forja de la ciudad veladora",
     "Description": "Plano detallado para fabricar “Forja de la ciudad veladora”.\nTras usarlo, entra en el menú de fabricación para verlo.",

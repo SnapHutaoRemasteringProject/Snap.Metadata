@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Thợ Săn Kho Báu Bụi Trăng II",
-    "Description": "Mở 60 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "Description": "Mở 45 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Thợ Săn Kho Báu Bụi Trăng II",
-    "Description": "Mở 120 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "Description": "Mở 90 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Thợ Săn Kho Báu Bụi Trăng II",
-    "Description": "Mở 240 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "Description": "Mở 180 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Nhà Mạo Hiểm Bụi Trăng II",
-    "Description": "Hoàn thành 7 khiêu chiến Đại Thế Giới trong thời gian quy định tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "Description": "Hoàn thành 5 khiêu chiến Đại Thế Giới trong thời gian quy định tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Khúc Đêm Trắng Dưới Trăng",
+    "Description": "Hoàn thành \"Sử Ký Bên Trăng III\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

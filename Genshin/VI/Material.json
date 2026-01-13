@@ -37437,17 +37437,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Xác Cánh Ác Mộng",
-    "Description": "Xương đen thu được từ tàn tích Chúa Tể Ác Mộng U Ám, kẻ xâm lược đến từ thế giới khác.\nLoài thú vô hình bay lượn giữa biển sao đen kịt, lẽ ra không cần đến thứ mà thế giới này gọi là \"cánh\". Đôi cánh quái dị kia có lẽ là để thích nghi với quy luật dưới ánh trăng, hoặc cũng có thể đó chỉ là một góc chân thân méo mó của nó trong mắt người phàm mà thôi.",
-    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37477,6 +37466,17 @@
     "Description": "Lọ thuốc tìm được trong phòng thí nghiệm dị giáo sau khi đánh bại ngụy nguyệt thần.\n\nTrong suốt hàng ngàn năm qua, những kẻ ngu ngốc tự xưng là học giả chỉ biết khom lưng dưới chân Sáu Điều Cấm, những nghiên cứu lừa mình dối người của họ chẳng qua chỉ là trò chơi chữ lý luận vòng vo. Việc theo đuổi chân lý tuyệt đối không nên có bất kỳ giới hạn nào, như vậy thì những kẻ bị người đời coi là dị giáo tà ác mới chính là những người theo đuổi kiến thức thật sự.",
     "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Xác Cánh Ác Mộng",
+    "Description": "Xương đen thu được từ tàn tích Chúa Tể Ác Mộng U Ám, kẻ xâm lược đến từ thế giới khác.\nLoài thú vô hình bay lượn giữa biển sao đen kịt, lẽ ra không cần đến thứ mà thế giới này gọi là \"cánh\". Đôi cánh quái dị kia có lẽ là để thích nghi với quy luật dưới ánh trăng, hoặc cũng có thể đó chỉ là một góc chân thân méo mó của nó trong mắt người phàm mà thôi.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45276,7 +45276,7 @@
     "Name": "Hoa Cầu Nguyệt Columbina Tặng",
     "Description": "Hoa Cầu Nguyệt mà Columbina tặng bạn, tỏa ra hương thơm thuần khiết và kỳ diệu, giống như bạn đã từng thấy tại Sảnh Trăng Bạc.\nNó đánh thức ký ức về một đoạn câu chuyện, cũng dự báo một chương khởi đầu hoàn toàn mới. Và nó cũng sẽ không đánh mất màu sắc của chính mình nữa.",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50519,7 +50519,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Bạch Mã Tiên Nhân Tham Quan Bạch Mã Tiên Nhân Tại Cảng Liyue\"",
     "Description": "Một tấm ảnh được Paimon đặt tên, ngưng đọng khoảnh khắc vui vẻ của cả ba người.",
@@ -50541,12 +50541,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Sổ Tay Của Sandrone",
     "Description": "Di vật của Sandrone được Arlecchino trao cho bạn. Ghi chép lại rất nhiều nội dung liên quan đến Sandrone.\nDù bìa ngoài và những trang sách có vẻ đã cũ, nhưng không khó để nhận ra chủ nhân đã nâng niu cuốn sổ này thế nào.",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50571,7 +50571,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50607,7 +50607,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Bạch Mã Tiên Nhân Tham Quan Bạch Mã Tiên Nhân Tại Cảng Liyue\"",
     "Description": "Một tấm ảnh được Paimon đặt tên, ngưng đọng khoảnh khắc vui vẻ của cả ba người.",
@@ -50701,6 +50701,39 @@
     "Description": "Thẻ khóa lấy được từ khu vực thí nghiệm, hình dáng trông rất bình thường.\nTrên đó có in chữ Snezhnaya ngay ngắn: \"Người nghiên cứu chính: Grazina Myklukho\".",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lược Sử Fae Sao Nhạt",
+    "Description": "Sách về lịch sử fae, dựa trên một số chi tiết trong đó, người đời đều cho rằng tác giả là những fae lớn tuổi.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chuyện Đêm Vùng Biên - Varcolac",
+    "Description": "Truyện dân gian lưu truyền ở Snezhnaya, được cho là kể về các giai thoại fae ít người biết đến. Chương này kể về fae nguy hiểm mang tên \"Varcolac\".",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tuyển Tập Gió Bắc",
+    "Description": "Tập thơ ghi chép giai thoại về các đời Starshyna. Phần lớn nội dung đã thất lạc trong thảm họa trước đây, những chương rời rạc thu thập được hiện nay chỉ chiếm một phần nhỏ trong bản gốc.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53629,6 +53662,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 169",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 170",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 171",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 172",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 173",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 174",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 175",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọc Thạch Âm Vang 176",
+    "Description": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Nod-Krai thần bí.",
+    "TypeDescription": "Đạo Cụ Mạo Hiểm",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56280,7 +56401,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71859,7 +71980,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Tôi Luyện Tại Thành Gác",
     "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tôi Luyện Tại Thành Gác\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",

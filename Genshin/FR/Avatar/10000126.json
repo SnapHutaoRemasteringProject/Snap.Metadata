@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "L'Adepte cheval blanc des légendes de Liyue du nom de Zibai est le personnage le plus mystérieux des mythes locaux.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Cheval blanc de la source éphémère",
     "Detail": "L'Adepte cheval blanc des légendes de Liyue du nom de Zibai est le personnage le plus mystérieux des mythes locaux.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Port de Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Géo",
     "VisionOverrideLocked": "Disque lunaire",
     "VisionOverrideUnlocked": "Disque lunaire",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda - Aide",
-    "Description": "Thème.\n« Quand la situation me dépasse, j'aimerais bien emprunter la main de Jahoda. » Cela signifie sûrement que la propriétaire de cette main « prête à prêter main forte » est à la fois agile et fiable, non ?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai - Vue voilée",
+    "Description": "Thème.\nLe ciel et la terre ne sont qu'une auberge pour le voyageur, et le temps n'est qu'un vagabond traversant les âges.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

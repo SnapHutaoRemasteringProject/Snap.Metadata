@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "Die Adeptin des weißen Pferdes aus den Legenden von Liyue, die den Namen Zibai trägt. Eine der geheimnisvollsten Figuren in den Mythen Liyues.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Weißes Pferd und die reine Quelle",
     "Detail": "Die Adeptin des weißen Pferdes aus den Legenden von Liyue, die den Namen Zibai trägt. Eine der geheimnisvollsten Figuren in den Mythen Liyues.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Mondrad",
     "VisionOverrideUnlocked": "Mondrad",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda – Helferin",
-    "Description": "Ein Motiv für Namenskärtchen.\n„Wenn man mal wieder viel zu beschäftigt ist, wünscht man sich, man könnte Jahodas Hände ausleihen.“ Das zeigt wohl, dass die Besitzerin dieser Hände sowohl flink als auch zuverlässig ist, so muss es einfach sein!",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai – Verhüllter Ausblick",
+    "Description": "Ein Motiv für Namenskärtchen.\nHimmel und Erde sind lediglich eine Herberge für Wanderer, und die Zeit ist ein Wanderer, der durch die Epochen zieht.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

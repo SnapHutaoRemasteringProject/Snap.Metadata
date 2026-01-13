@@ -415,6 +415,11 @@
     "Description": "Après avoir utilisé son déchaînement élémentaire <color=#FFD780FF>Mélancolie sous la lune</color>, Columbina invoque un domaine lunaire.\nLorsque le personnage déployé est dans un <color=#FFD780FF>domaine lunaire</color>, les DGT de réaction sélène infligés par tous les personnages de l'équipe augmentent."
   },
   {
+    "Id": 11250003,
+    "Name": "Rosée de crête lunaire",
+    "Description": "Les rosées de crête lunaire sont des ressources spéciales de type rosée verdoyante accordées par l'aptitude passive <color=#FFD780FF>Loi de la nouvelle lune</color> de Columbina, leur limite et leur durée étant cependant calculées indépendamment de celles des rosées verdoyantes.\nLes <color=#FFD780FF>rosées de crête lunaire</color> sont consommées lorsque l'équipe n'a plus de rosée verdoyante.\nIl est possible de cumuler un maximum de 3 <color=#FFD780FF>rosées de crête lunaire</color>."
+  },
+  {
     "Id": 11270001,
     "Name": "Chant de rossignol",
     "Description": "Illuga bénéfice des effets du chant de rossignol après avoir utilisé son déchaînement élémentaire <color=#FFD780FF>Reflet sans ombre</color>, augmentant ainsi les <color=#FFE699FF>DGT Géo</color> infligés par le personnage déployé."

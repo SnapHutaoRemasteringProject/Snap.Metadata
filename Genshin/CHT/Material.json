@@ -37580,17 +37580,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "魘翼枯骸",
-    "Description": "擊敗自異界侵入此世的魘語之主，從其留下的殘穢中取得的深黯骨骸。\n翱翔於漆黑星海間的無形之獸，本不應需要被這個世界稱作「羽翼」的器官。那怪誕而褻瀆的翅膀，或許是為了適應月下的法則而生；又或許它不過是凡夫眼中所見的，其真身擲下的扭曲一角罷了。",
-    "TypeDescription": "角色培養素材",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37620,6 +37609,17 @@
     "Description": "戰勝僭月的偽神後，自異端的試驗場內拾得的瓶劑。\n千百年來，自稱學者的眾愚匍匐在六宗禁制的腳下，他們自欺欺人的研究不過是循環論證的文字遊戲。對真理的探求絕不應受到任何限制，如此說來被世人視作異端的惡徒，才是真正的求知者。",
     "TypeDescription": "角色培養素材",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "魘翼枯骸",
+    "Description": "擊敗自異界侵入此世的魘語之主，從其留下的殘穢中取得的深黯骨骸。\n翱翔於漆黑星海間的無形之獸，本不應需要被這個世界稱作「羽翼」的器官。那怪誕而褻瀆的翅膀，或許是為了適應月下的法則而生；又或許它不過是凡夫眼中所見的，其真身擲下的扭曲一角罷了。",
+    "TypeDescription": "角色培養素材",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45419,7 +45419,7 @@
     "Name": "哥倫比婭贈予你的祈月之花",
     "Description": "哥倫比婭贈送的祈月之花，散發著純淨與空靈的芬芳，一如你在銀月之庭所見的那些。\n它喚起一段故事的記憶，也預示一個嶄新的開篇。它已不會再失去自己的色彩了。",
     "TypeDescription": "任務道具",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50662,7 +50662,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "「白馬仙人在璃月港參觀白馬仙人」",
     "Description": "一張由派蒙題名的留影，凝固了三人的歡笑瞬間。",
@@ -50684,12 +50684,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "「木偶」的筆記本",
     "Description": "由「僕人」轉交給你的，桑多涅的遺物。記錄了許多有關桑多涅的內容。\n雖然外表和書頁有些陳舊，但不難看出筆記本主人對它的愛惜。",
     "TypeDescription": "任務道具",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50714,7 +50714,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50750,7 +50750,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "「白馬仙人在璃月港參觀白馬仙人」",
     "Description": "一張由派蒙題名的留影，凝固了三人的歡笑瞬間。",
@@ -50844,6 +50844,39 @@
     "Description": "在實驗區域獲得的金鑰卡，形制平平無奇。\n其上印刷著工整的至冬文字：「主研究員格蕾茲娜·米科盧霍」。",
     "TypeDescription": "任務道具",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "蒼星妖靈史略",
+    "Description": "有關妖精歷史的書籍，根據其中的一些細節，世人都認為是妖精中的年長者所作。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "邊鄉夜語·鬣獸",
+    "Description": "流傳於至冬的民間故事書，據稱講述了各類不為人知的妖精逸聞。本篇講述的是名為「鬣獸」的危險妖精。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "朔風集",
+    "Description": "載有歷代執燈長事蹟的詩集。大部分內容都在先前的災厄中佚失，如今能收集的殘篇只有原本的一小部分。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53772,6 +53805,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百六十九",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十一",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十二",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十三",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十四",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十五",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十六",
+    "Description": "蘊含著韻律的奇妙結晶，宛如細膩絲綢編織而成的美玉。零星散布在大陸各地，或是尋覓珍奇的商人手中。透過「塵歌壺」中的「千籟至音·颻揚」或「千籟至音·繆繞」，可以還原記錄在其中的旋律。此「旋曜玉帛」中蘊含著來自挪德卡萊的神秘旋律。",
+    "TypeDescription": "冒險道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56423,7 +56544,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -72002,7 +72123,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "「守望之城的錘鍊」",
     "Description": "步驟詳實的圖紙，記載著「『守望之城的錘鍊』」的製作方法。\n使用後可進入製作介面查看。",

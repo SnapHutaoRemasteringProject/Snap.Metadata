@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "A Adeptus Cavalo Branco das lendas de Liyue, conhecida como Zibai, ela é a figura mais misteriosa da mitologia de Liyue.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Primavera Efêmera do Cavalo Branco",
     "Detail": "A Adeptus Cavalo Branco das lendas de Liyue, conhecida como Zibai, ela é a figura mais misteriosa da mitologia de Liyue.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Porto de Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Disco Lunar",
     "VisionOverrideUnlocked": "Disco Lunar",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda: A Ajudante",
-    "Description": "Estilo de cartão de visita.\n\"Quando as coisas ficam agitadas demais, queria poder pegar emprestado as mãos de Jahoda!\" — Claro, isso deve significar que a dona dessas \"mãos emprestáveis\" é tanto ágil quanto confiável, não é?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai: Vista Velada",
+    "Description": "Estilo de cartão de visita.\nO céu e a terra não passam de um abrigo para os viajantes, e o tempo é o andarilho que atravessa pelas eras.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

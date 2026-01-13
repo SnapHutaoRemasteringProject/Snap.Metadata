@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Caçador de Tesouros da Poeira Lunar - II",
-    "Description": "Abra 60 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "Description": "Abra 45 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Caçador de Tesouros da Poeira Lunar - II",
-    "Description": "Abra 120 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "Description": "Abra 90 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Caçador de Tesouros da Poeira Lunar - II",
-    "Description": "Abra 240 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "Description": "Abra 180 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Aventureiro da Poeira Lunar - II",
-    "Description": "Conclua 7 desafios Contra o Tempo de Mundo Aberto no Panorama do Mar Vazio, Pico do Véu de Cinzas e Pico do Véu de Cinzas.",
+    "Description": "Conclua 5 desafios Contra o Tempo de Mundo Aberto no Panorama do Mar Vazio, Pico do Véu de Cinzas e Pico do Véu de Cinzas.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenata ao Luar na Noite Branca",
+    "Description": "Conclua \"Crônicas Selênicas: Parte III.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

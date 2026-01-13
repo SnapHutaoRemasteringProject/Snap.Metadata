@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "L'Adepta cavallo bianco, conosciuta come Zibai. È la figura più misteriosa tra le leggende di Liyue.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Sorgente fugace del cavallo bianco",
     "Detail": "L'Adepta cavallo bianco, conosciuta come Zibai. È la figura più misteriosa tra le leggende di Liyue.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Porto di Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Geo",
     "VisionOverrideLocked": "Disco lunare",
     "VisionOverrideUnlocked": "Disco lunare",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda: Una mano amica",
-    "Description": "Stile per la carta giocatore.\n\"Quando ho troppe cose da fare, vorrei poter prendere in prestito le mani di Jahoda!\" Questo significa che la persona a cui appartengono queste \"mani prestabili\" è tanto agile quanto affidabile, giusto?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai: Vista velata",
+    "Description": "Stile per la carta giocatore.\nCielo e terra sono una locanda per viandanti, e il tempo un vagabondo che attraversa le epoche.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

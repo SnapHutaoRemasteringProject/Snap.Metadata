@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "茲白",
   "Description": "璃月傳說中的白馬仙人，其名為茲白，璃月仙話中最神秘的一位。",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "駒隙隱泉",
     "Detail": "璃月傳說中的白馬仙人，其名為茲白，璃月仙話中最神秘的一位。",
-    "Association": 12,
+    "Association": 13,
     "Native": "璃月港",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "岩",
     "VisionOverrideLocked": "月之輪",
     "VisionOverrideUnlocked": "月之輪",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "雅珂達·幫手",
-    "Description": "名片紋飾。\n「太忙的時候，都想要借雅珂達的手了。」——這大概是代表出借手的主人既敏捷又可靠，一定是這樣的吧！",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "茲白·煙景",
+    "Description": "名片紋飾。\n夫天地者，萬物之逆旅也；光陰者，百代之過客也。",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

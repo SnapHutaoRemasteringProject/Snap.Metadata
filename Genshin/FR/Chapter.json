@@ -2971,29 +2971,29 @@
   },
   {
     "Id": 1607,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 600312,
     "EndQuestId": 602329,
     "NeedPlayerLevel": 28,
     "Number": "Chant de l'astre de la nuit - Acte 7",
     "Title": "Un voyageur, par une nuit d'hiver",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
     "CityId": 7,
     "QuestType": 0
   },
   {
     "Id": 1608,
-    "GroupId": 0,
+    "GroupId": 1607,
     "BeginQuestId": 601501,
     "EndQuestId": 601710,
     "NeedPlayerLevel": 28,
     "Number": "Chant de l'astre de la nuit - Acte 8",
     "Title": "La lune véritable",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_NodKrai",
     "ImageTitle": "Nod-Krai",
-    "SerialNumberIcon": "",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
     "CityId": 7,
     "QuestType": 0
   },
@@ -4145,7 +4145,7 @@
   {
     "Id": 10177,
     "GroupId": 10177,
-    "BeginQuestId": 0,
+    "BeginQuestId": 7609930,
     "EndQuestId": 0,
     "NeedPlayerLevel": 0,
     "Number": "Chant de rossignol - Chapitre 1",
@@ -4332,10 +4332,10 @@
     "NeedPlayerLevel": 0,
     "Number": "Ode à la lune d'argent sous les lanternes - Épilogue",
     "Title": "Voyage paisible du cheval blanc",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
-    "QuestType": 7
+    "QuestType": 3
   },
   {
     "Id": 10203,
@@ -4819,7 +4819,7 @@
     "Title": "Fin d'une nuit estivale colorée !",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4932,7 +4932,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ode à la lune d'argent sous les lanternes - Acte 1",
     "Title": "Le royaume des nuages",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4945,7 +4945,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ode à la lune d'argent sous les lanternes - Acte 2",
     "Title": "Le royaume des roches",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3
@@ -4958,7 +4958,7 @@
     "NeedPlayerLevel": 0,
     "Number": "Ode à la lune d'argent sous les lanternes - Acte 3",
     "Title": "Le royaume des gens",
-    "Icon": "",
+    "Icon": "UI_ChapterIcon_SeaLamp",
     "SerialNumberIcon": "",
     "CityId": 2,
     "QuestType": 3

@@ -37074,17 +37074,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Kabus Kanadının Kalıntısı",
-    "Description": "Bu dünyanın ötesinden istilaya gelen Kabus Fısıldayanı yendikten sonra geride kalan aşınmadan alınmış, koyu siyah renkli bir kemik kalıntısı.\nYıldızsız boşlukta süzülen şekilsiz canavar, bu dünyanın \"kanat\" dediği organlara hiç ihtiyaç duymamalıydı. Bu garip, kutsala hakaret niteliğindeki uzantılar, ayın altındaki yasalara uyum sağlamak için ortaya çıkmış olabilir ya da belki de ölümlü gözlerin görebildiği gerçek formunun çarpık bir parçasıdır.",
-    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37114,6 +37103,17 @@
     "Description": "Ayı gasp eden sahte tanrıyı yendikten sonra sapkın test alanlarında bulunan bir iksir.\nYüzyıllar boyunca sözde alimler, altı temel yasağın ağırlığı altında ezildiler ve çalışmaları döngüsel bir mantık ile boş sözlerden öteye gidemedi. Hakikat arayışı hiçbir sınır tanımamalıdır. Bu açıdan bakıldığında, bilginin asıl talipleri aslında dünyanın \"sapkın\" ilan ettikleridir.",
     "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kabus Kanadının Kalıntısı",
+    "Description": "Bu dünyanın ötesinden istilaya gelen Kabus Fısıldayanı yendikten sonra geride kalan aşınmadan alınmış, koyu siyah renkli bir kemik kalıntısı.\nYıldızsız boşlukta süzülen şekilsiz canavar, bu dünyanın \"kanat\" dediği organlara hiç ihtiyaç duymamalıydı. Bu garip, kutsala hakaret niteliğindeki uzantılar, ayın altındaki yasalara uyum sağlamak için ortaya çıkmış olabilir ya da belki de ölümlü gözlerin görebildiği gerçek formunun çarpık bir parçasıdır.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -44913,7 +44913,7 @@
     "Name": "Columbina'nın Ay Duası Çiçeği",
     "Description": "Columbina'nın sana hediye ettiği bir Ay Duası Çiçeği. Gümüş Ay Salonu'nda bir zamanlar gördüklerine benzer saf ve uhrevi bir koku yayıyor.\nAnlatılan bir hikayenin anısını canlandırıyor ve yeni bir bölümün açılışını müjdeliyor. Bu sefer bir daha asla renklerini kaybetmeyecek.",
     "TypeDescription": "Görev Eşyası",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50156,7 +50156,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Beyaz At Adeptus, Liyue Limanı'nda Beyaz At Adeptus ile Buluştu",
     "Description": "Adını Paimon'un koyduğu, üç arkadaşın beraber kahkaha attığı bir anın fotoğrafı.",
@@ -50178,12 +50178,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Kukla'nın Not Defteri",
     "Description": "Yaver'in sana verdiği, Sandrone'den bir yadigar. Sayfalarında Sandrone ile ilgili pek çok konu yer alıyor.\nKapağı ve sayfaları eskimiş olsa da sahibinin bir zamanlar ona verdiği değer ortada.",
     "TypeDescription": "Görev Eşyası",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50208,7 +50208,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50244,7 +50244,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Beyaz At Adeptus, Liyue Limanı'nda Beyaz At Adeptus ile Buluştu",
     "Description": "Adını Paimon'un koyduğu, üç arkadaşın beraber kahkaha attığı bir anın fotoğrafı.",
@@ -50338,6 +50338,39 @@
     "Description": "Bir deney alanından elde edilmiş bir anahtar kartı. Görünüşü oldukça sıradan.\nYüzeyine nizami bir biçimde şu Snezhnaya yazısı basılmış: \"Baş Araştırmacı Grazina Myklukho.\"",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Soluk Yıldızdan Doğanların Kısa Tarihi",
+    "Description": "Fey tarihini anlatan bir kitap. İçindeki bazı ayrıntılardan ötürü Fey büyükleri tarafından yazıldığına inanılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Uzak Sınırdan Gece Fısıltıları: Varcolac",
+    "Description": "Snezhnaya'da anlatılan ve pek bilinmeyen Fey masallarını içerdiği söylenen bir halk hikayesi derlemesi. Bu ciltte \"Varcolac\" olarak bilinen tehlikeli bir Feyin hikayesi anlatılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kuzey Rüzgarının Getirdiği Masallar",
+    "Description": "Birbiri ardına gelen Starşinaların kahramanlıklarını anlatan bir şiir koleksiyonu. İçeriğinin çoğu geçmiş felaketlerde kaybolmuş ve orijinal parçaların sadece küçük bir bölümü kurtarılabilmiştir.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53266,6 +53299,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 169",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 170",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 171",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 172",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 173",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 174",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 175",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Parlak Burgu Kristal 176",
+    "Description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde Nod-Krai'dan gelen gizemli bir müzik vardır.",
+    "TypeDescription": "Macera Eşyası",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -55917,7 +56038,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71496,7 +71617,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Gözcüler Şehrinde Demirci Ocağı\"",
     "Description": "\"Gözcüler Şehrinde Demirci Ocağı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",

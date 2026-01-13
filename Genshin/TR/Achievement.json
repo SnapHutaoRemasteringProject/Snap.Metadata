@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Ay Tozu Hazine Avcısı (II)",
-    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 60 sandık aç.",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 45 sandık aç.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Ay Tozu Hazine Avcısı (II)",
-    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 120 sandık aç.",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 90 sandık aç.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Ay Tozu Hazine Avcısı (II)",
-    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 240 sandık aç.",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 180 sandık aç.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Ay Tozu Maceracısı (II)",
-    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde Açık Dünya mekanizmasıyla etkinleştirilen 7 Zamana Karşı Mücadele tamamla.",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde Açık Dünya mekanizmasıyla etkinleştirilen 5 Zamana Karşı Mücadele tamamla.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Mehtaplı Beyaz Gece Serenadı",
+    "Description": "\"Mehtap Günlükleri: Bölüm III\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

@@ -23243,11 +23243,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23262,11 +23262,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 2
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 6
       },
       {
         "Id": 0,
@@ -23281,11 +23281,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23300,11 +23300,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23319,11 +23319,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 6
       },
       {
         "Id": 0,
@@ -23337,8 +23337,8 @@
     "Experience": 60,
     "Materials": [
       {
-        "Id": 101001,
-        "Count": 4
+        "Id": 101401,
+        "Count": 8
       },
       {
         "Id": 0,
@@ -23357,11 +23357,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23376,11 +23376,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23395,11 +23395,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23417,12 +23417,12 @@
         "Count": 4
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101403,
+        "Count": 2
       }
     ]
   },
@@ -23433,11 +23433,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23448,15 +23448,15 @@
   {
     "Id": 1308,
     "ItemId": 371019,
-    "Experience": 60,
+    "Experience": 90,
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 10
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 6
       },
       {
         "Id": 0,
@@ -23467,15 +23467,15 @@
   {
     "Id": 1309,
     "ItemId": 371020,
-    "Experience": 60,
+    "Experience": 90,
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 16
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 8
       },
       {
         "Id": 0,
@@ -23490,11 +23490,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23509,11 +23509,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23528,11 +23528,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23547,30 +23547,11 @@
     "Materials": [
       {
         "Id": 101001,
+        "Count": 8
+      },
+      {
+        "Id": 101002,
         "Count": 4
-      },
-      {
-        "Id": 0,
-        "Count": 0
-      },
-      {
-        "Id": 0,
-        "Count": 0
-      }
-    ]
-  },
-  {
-    "Id": 1314,
-    "ItemId": 374646,
-    "Experience": 60,
-    "Materials": [
-      {
-        "Id": 101001,
-        "Count": 4
-      },
-      {
-        "Id": 0,
-        "Count": 0
       },
       {
         "Id": 0,
@@ -23585,11 +23566,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23604,11 +23585,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 8
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 4
       },
       {
         "Id": 0,
@@ -23623,11 +23604,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23642,11 +23623,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23661,11 +23642,11 @@
     "Materials": [
       {
         "Id": 101001,
-        "Count": 4
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101002,
+        "Count": 2
       },
       {
         "Id": 0,
@@ -23676,15 +23657,15 @@
   {
     "Id": 1320,
     "ItemId": 360471,
-    "Experience": 60,
+    "Experience": 90,
     "Materials": [
       {
-        "Id": 101001,
-        "Count": 4
+        "Id": 101304,
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 6
       },
       {
         "Id": 0,
@@ -23695,15 +23676,15 @@
   {
     "Id": 1321,
     "ItemId": 360472,
-    "Experience": 60,
+    "Experience": 90,
     "Materials": [
       {
-        "Id": 101001,
-        "Count": 4
+        "Id": 101304,
+        "Count": 6
       },
       {
-        "Id": 0,
-        "Count": 0
+        "Id": 101401,
+        "Count": 6
       },
       {
         "Id": 0,

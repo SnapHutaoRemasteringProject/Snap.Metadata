@@ -37591,17 +37591,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Remnant of the Dreadwing",
-    "Description": "A deep-black bone relic taken from the lingering corruption left behind after defeating the Whisperer of Nightmares that came invading from beyond this world.\nThe formless beast that soared through the starless void should never have required organs this world calls \"wings.\" Those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness.",
-    "TypeDescription": "Character Level-Up Material",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37631,6 +37620,17 @@
     "Description": "A vial found in the heretical testing grounds after defeating the false god that usurped the moon.\nFor centuries, self-proclaimed scholars have crawled beneath the weight of the six cardinal prohibitions, their studies little more than circular reasoning and empty words. The pursuit of truth should know no bounds — by this measure, those condemned as heretics by the world are the truest seekers of knowledge.",
     "TypeDescription": "Character Level-Up Material",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Remnant of the Dreadwing",
+    "Description": "A deep-black bone relic taken from the lingering corruption left behind after defeating the Whisperer of Nightmares that came invading from beyond this world.\nThe formless beast that soared through the starless void should never have required organs this world calls \"wings.\" Those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45430,7 +45430,7 @@
     "Name": "Moon-Prayer Blossom From Columbina",
     "Description": "A Moon-Prayer Blossom gifted to you by Columbina, exuding a fragrance both pure and ethereal, much like those you once saw in the Silvermoon Hall.\nIt stirs the memory of a story, and heralds the opening of a new chapter. This time, it will never lose its colors again.",
     "TypeDescription": "Quest Item",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50673,7 +50673,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "The White Horse Adeptus Meets the White Horse Adeptus in Liyue Harbor",
     "Description": "A photo titled by Paimon, capturing a moment of shared laughter among three friends.",
@@ -50695,12 +50695,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Marionette's Notebook",
     "Description": "A relic from Sandrone, passed to you by The Knave. Its pages record many matters related to Sandrone.\nAlthough its cover and pages are worn with age, it is easy to see how much its owner once treasured it.",
     "TypeDescription": "Quest Item",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50725,7 +50725,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50761,7 +50761,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "The White Horse Adeptus Meets the White Horse Adeptus in Liyue Harbor",
     "Description": "A photo titled by Paimon, capturing a moment of shared laughter among three friends.",
@@ -50855,6 +50855,39 @@
     "Description": "A key card obtained from an experiment site. Its appearance is utterly unremarkable.\nNeat Snezhnayan text has been printed onto its surface: \"Chief Researcher Grazina Myklukho.\"",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "A Brief History of the Pale Starborn",
+    "Description": "A book on fae history. Based on certain details within, it's believed to have been written by fae elders.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Night Murmurs From the Far Border: Varcolac",
+    "Description": "A collection of folktales circulated in Snezhnaya, said to record all kinds of lesser-known fae tales. This volume tells the story of a dangerous fae known as the \"Varcolac.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tales Carried by the Northwind",
+    "Description": "A poetry collection chronicling the deeds of successive Starshynas. Most of its contents were lost in past calamities. Only a small fraction of the original fragments have been recovered.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53783,6 +53816,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 169",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 170",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 171",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 172",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 173",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 174",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 175",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 176",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56434,7 +56555,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -72013,7 +72134,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Forge in the City of the Ever-Watchful\"",
     "Description": "A detailed step-by-step blueprint for making \"Forge in the City of the Ever-Watchful.\"\nAfter using this item, you can view it in the Creation Screen.",

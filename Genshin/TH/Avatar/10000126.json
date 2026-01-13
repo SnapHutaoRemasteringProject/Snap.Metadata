@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Zibai",
   "Description": "เซียนม้าขาวในตำนานของ Liyue มีนามว่า Zibai เป็นเซียนที่ลึกลับที่สุด ในเรื่องเล่าเกี่ยวกับเซียนของ Liyue",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "อาชาขาวเร้นธารา",
     "Detail": "เซียนม้าขาวในตำนานของ Liyue มีนามว่า Zibai เป็นเซียนที่ลึกลับที่สุด ในเรื่องเล่าเกี่ยวกับเซียนของ Liyue",
-    "Association": 12,
+    "Association": 13,
     "Native": "ท่าเรือ Liyue",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "หิน",
     "VisionOverrideLocked": "วงล้อจันทรา",
     "VisionOverrideUnlocked": "วงล้อจันทรา",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Jahoda - ผู้ช่วย",
-    "Description": "ลายนามบัตร\n\"ตอนที่ยุ่งมาก ๆ อยากจะขอยืมมือของ Jahoda มาช่วยเลย\" ...นี่คงบ่งบอกว่ามือคู่นั้นเป็นของคนที่ทั้งว่องไวและไว้ใจได้ ต้องเป็นอย่างนั้นแน่นอน!",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Zibai - ม่านมายาทัศนา",
+    "Description": "ลายนามบัตร\nผืนฟ้าและปฐพี เปรียบดั่งที่พำนักชั่วคราวของสรรพสิ่ง ส่วนกาลเวลานั้น เปรียบดั่งผู้สัญจรที่ผ่านเลยไปในทุกยุคสมัย",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

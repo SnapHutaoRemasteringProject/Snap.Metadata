@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "兹白",
   "Description": "璃月の伝説で語られる白馬の仙人——兹白。璃月の仙人に関する物語の中で、最も謎に包まれた存在とされている。",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "隙を過ぐ仙駒、幽隠の泉",
     "Detail": "璃月の伝説で語られる白馬の仙人——兹白。璃月の仙人に関する物語の中で、最も謎に包まれた存在とされている。",
-    "Association": 12,
+    "Association": 13,
     "Native": "璃月港",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "岩",
     "VisionOverrideLocked": "月の輪",
     "VisionOverrideUnlocked": "月の輪",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "ヤフォダ・手助け",
-    "Description": "名刺の飾り紋。\n「忙しい時は、ヤフォダの手も借りたいくらいだ。」——これは、その手の持ち主が機敏で頼りになることの証。きっとそうだ！",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "兹白・煙景",
+    "Description": "名刺の飾り紋。\n天地は万物の逆旅にして、光陰は百代の過客なり。",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

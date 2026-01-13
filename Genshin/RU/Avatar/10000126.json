@@ -1,13 +1,13 @@
 {
   "Id": 10000126,
   "PromoteId": 126,
-  "Sort": 0,
+  "Sort": 112,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Zibai",
   "SideIcon": "UI_AvatarIcon_Side_Zibai",
   "Name": "Цзы Бай",
   "Description": "В легендах Ли Юэ встречаются упоминания о Белой Лошади по имени Цзы Бай - самом загадочном из всех Адептов Ли Юэ.",
-  "BeginTime": "9999-12-31T23:59:59.9999999+00:00",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
   "Quality": 5,
   "Weapon": 1,
   "BaseValue": {
@@ -779,7 +779,7 @@
               "Id": 1262101,
               "Level": 1,
               "Parameters": [
-                0.4,
+                0.6,
                 4
               ]
             }
@@ -902,10 +902,10 @@
   "FetterInfo": {
     "Title": "Быстротечные воды сокрытого ручья",
     "Detail": "В легендах Ли Юэ встречаются упоминания о Белой Лошади по имени Цзы Бай - самом загадочном из всех Адептов Ли Юэ.",
-    "Association": 12,
+    "Association": 13,
     "Native": "Гавань Ли Юэ",
-    "BirthMonth": 1,
-    "BirthDay": 1,
+    "BirthMonth": 5,
+    "BirthDay": 15,
     "VisionBefore": "Гео",
     "VisionOverrideLocked": "Лунное колесо",
     "VisionOverrideUnlocked": "Лунное колесо",
@@ -1262,9 +1262,9 @@
     113075
   ],
   "NameCard": {
-    "Name": "Рука помощи",
-    "Description": "Именная карта.\n«Когда дел становится слишком много, я всегда думаю: вот бы воспользоваться рукой помощи Ягоды». Кажется, обладательница этой «руки» и правда ловкая и надёжная, не так ли?",
-    "Icon": "UI_NameCardIcon_Jahoda",
-    "PicturePrefix": "UI_NameCardPic_Jahoda"
+    "Name": "Дымка",
+    "Description": "Именная карта.\nНебо и земля всего лишь пристанище путника, а время странник, переходящий из эпохи в эпоху.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
   }
 }

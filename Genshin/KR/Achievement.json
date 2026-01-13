@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "달 먼지의 트레저헌터·두 번째",
-    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 60개 열기",
+    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 45개 열기",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "달 먼지의 트레저헌터·두 번째",
-    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 120개 열기",
+    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 90개 열기",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "달 먼지의 트레저헌터·두 번째",
-    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 240개 열기",
+    "Description": "허무 해안, 파도 들판, 안개산에서 보물상자 180개 열기",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "달 먼지의 모험가·두 번째",
-    "Description": "허무 해안, 파도 들판, 안개산에서 월드 타임어택 도전 7개 클리어하기",
+    "Description": "허무 해안, 파도 들판, 안개산에서 월드 타임어택 도전 5개 클리어하기",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "달과 낮의 노래",
+    "Description": "「달맞이 견문·세 번째」 완료하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

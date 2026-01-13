@@ -37217,17 +37217,6 @@
   {
     "Rank": 11101,
     "MaterialType": 14,
-    "Id": 113084,
-    "RankLevel": 4,
-    "ItemType": 2,
-    "Name": "Remnant of the Dreadwing",
-    "Description": "Relik tulang hitam pekat yang diambil dari sisa-sisa kerusakan yang tersisa setelah mengalahkan Whisperer of Nightmares yang menyerbu dunia ini dari alam lain.\nMakhluk tak berwujud yang terbang menembus kehampaan tak berbintang seharusnya tidak membutuhkan organ yang oleh dunia ini dinamakan \"sayap\". Sayap-sayap mengerikan dan nista itu mungkin muncul untuk beradaptasi dengan hukum di bawah bulan, atau mungkin itu hanyalah fragmen terdistorsi yang dapat dilihat oleh mata fana kita dari wujud aslinya.",
-    "TypeDescription": "Material Penguatan Karakter",
-    "Icon": "UI_ItemIcon_113084"
-  },
-  {
-    "Rank": 11101,
-    "MaterialType": 14,
     "Id": 113081,
     "RankLevel": 5,
     "ItemType": 2,
@@ -37257,6 +37246,17 @@
     "Description": "Wadah cairan yang ditemukan di tempat ujian sang penista, seorang dewa palsu yang berusaha merebut kekuatan bulan.\nSelama berabad-abad, banyak sekali orang bodoh yang mengaku cendekiawan telah bersujud di bawah kaki enam dosa besar, penelitian mereka yang menipu diri sendiri tak ubahnya sekadar permainan nalar kata-kata yang bertele-tele. Pencarian akan kebenaran seharusnya tidak pernah dibatasi oleh apa pun; dalam hal ini, mereka yang dianggap sesat oleh dunia justru adalah mereka para pencari ilmu sejati.",
     "TypeDescription": "Material Penguatan Karakter",
     "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Remnant of the Dreadwing",
+    "Description": "Relik tulang hitam pekat yang diambil dari sisa-sisa kerusakan yang tersisa setelah mengalahkan Whisperer of Nightmares yang menyerbu dunia ini dari alam lain.\nMakhluk tak berwujud yang terbang menembus kehampaan tak berbintang seharusnya tidak membutuhkan organ yang oleh dunia ini dinamakan \"sayap\". Sayap-sayap mengerikan dan nista itu mungkin muncul untuk beradaptasi dengan hukum di bawah bulan, atau mungkin itu hanyalah fragmen terdistorsi yang dapat dilihat oleh mata fana kita dari wujud aslinya.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -45056,7 +45056,7 @@
     "Name": "Puspa Doa Rembulan dari Columbina",
     "Description": "Puspa Doa Rembulan yang dihadiahkan kepadamu oleh Columbina, memancarkan aroma yang murni dan halus, seperti yang pernah kamu lihat di Silvermoon Hall.\nIa membangkitkan kenangan akan sebuah kisah yang telah lama diceritakan, dan menandai dimulainya babak baru. Kali ini, warnanya takkan pernah pudar lagi.",
     "TypeDescription": "Item Quest",
-    "Icon": "UI_ItemIcon_120127"
+    "Icon": "UI_ItemIcon_129003"
   },
   {
     "Rank": 10,
@@ -50299,7 +50299,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121454,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Adeptus Kuda Putih Bertemu Adeptus Kuda Putih di Pelabuhan Liyue\"",
     "Description": "Sebuah foto yang diberi judul oleh Paimon, mengabadikan momen tawa bersama di antara tiga sahabat.",
@@ -50321,12 +50321,12 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121456,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Buku Catatan Marionette",
     "Description": "Sebuah peninggalan Sandrone yang diberikan kepadamu oleh The Knave. Di dalamnya terdapat banyak catatan tentang Sandrone.\nMeskipun sampul dan halamannya sudah termakan usia, masih terlihat jelas betapa berharganya buku ini bagi pemiliknya dulu.",
     "TypeDescription": "Item Quest",
-    "Icon": "UI_ItemIcon_100721"
+    "Icon": "UI_ItemIcon_120275"
   },
   {
     "Rank": 430011,
@@ -50351,7 +50351,7 @@
     "Icon": "UI_ItemIcon_100101"
   },
   {
-    "Rank": 260102,
+    "Rank": 25029,
     "MaterialType": 78,
     "Id": 121462,
     "RankLevel": 4,
@@ -50387,7 +50387,7 @@
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121466,
-    "RankLevel": 0,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "\"Adeptus Kuda Putih Bertemu Adeptus Kuda Putih di Pelabuhan Liyue\"",
     "Description": "Sebuah foto yang diberi judul oleh Paimon, mengabadikan momen tawa bersama di antara tiga sahabat.",
@@ -50481,6 +50481,39 @@
     "Description": "Kartu akses yang didapat dari area eksperimen, penampilannya terlihat biasa saja.\nTerdapat tulisan rapi dalam bahasa Snezhnaya: \"Kepala Peneliti Grazina Myklukho.\"",
     "TypeDescription": "Item Quest",
     "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sejarah Singkat Roh Bintang Pucat",
+    "Description": "Sebuah buku tentang sejarah peri. Berdasarkan beberapa detail di dalamnya, buku ini diyakini ditulis oleh para tetua peri.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Desiran Malam dari Perbatasan Jauh: Varcolac",
+    "Description": "Kumpulan cerita rakyat yang beredar di Snezhnaya, konon mencatat berbagai macam kisah peri yang tidak terlalu populer. Jilid ini menceritakan kisah tentang peri berbahaya yang dikenal sebagai \"Varcolac\".",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kisah yang Diembus Angin Utara",
+    "Description": "Kumpulan puisi yang merinci perbuatan para Starshyna sepanjang sejarah. Sebagian besar isinya hilang dalam bencana di masa lalu. Hanya sebagian kecil dari fragmen aslinya yang telah ditemukan kembali.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -53409,6 +53442,94 @@
     "Icon": "UI_ItemIcon_BGM_Common"
   },
   {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 169",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 170",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 171",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 172",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 173",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 174",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 175",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 176",
+    "Description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Nod-Krai.",
+    "TypeDescription": "Item Adventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
     "Rank": 10,
     "MaterialType": 37,
     "Id": 141099,
@@ -56060,7 +56181,7 @@
     "Icon": "UI_ItemIcon_220126"
   },
   {
-    "Rank": 20000,
+    "Rank": 25028,
     "MaterialType": 21,
     "Id": 220127,
     "RankLevel": 4,
@@ -71639,7 +71760,7 @@
     "Rank": 300401,
     "MaterialType": 27,
     "Id": 391019,
-    "RankLevel": 3,
+    "RankLevel": 4,
     "ItemType": 2,
     "Name": "Penempaan di Kota yang Selalu Berwaspada",
     "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Penempaan di Kota yang Selalu Berwaspada\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",

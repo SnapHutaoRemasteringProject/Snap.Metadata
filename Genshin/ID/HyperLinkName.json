@@ -415,6 +415,11 @@
     "Description": "Area yang diciptakan Columbina setelah ia melancarkan Elemental Burst <color=#FFD780FF>Moonlit Melancholy</color>. \nSaat Karakter aktif berada dalam <color=#FFD780FF>Lunar Domain</color>, DMG reaksi Lunar yang diakibatkan seluruh Karakter dalam party akan meningkat."
   },
   {
+    "Id": 11250003,
+    "Name": "Moonridge Dew",
+    "Description": "Verdant Dew khusus yang dihasilkan oleh Talenta Pasif Columbina, <color=#FFD780FF>Law of the New Moon</color>. Durasi dan kapasitas maksimumnya dihitung terpisah dari Verdant Dew.\nSaat Verdant Dew yang dimiliki party habis terpakai, maka <color=#FFD780FF>Moonridge Dew</color> yang akan dikonsumsi.\nBatas maksimum <color=#FFD780FF>Moonridge Dew</color> yang dapat diperoleh adalah 3."
+  },
+  {
     "Id": 11270001,
     "Name": "Nightingale's Song",
     "Description": "Efek yang diperoleh setelah Illuga melancarkan Elemental Burst <color=#FFD780FF>Shadowless Reflection</color>. Efek ini dapat meningkatkan <color=#FFE699FF>Geo DMG</color> yang diakibatkan Karakter aktif."

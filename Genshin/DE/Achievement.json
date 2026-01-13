@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Schatzsucher im Mondstaub II",
-    "Description": "Öffne 60 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "Description": "Öffne 45 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Schatzsucher im Mondstaub II",
-    "Description": "Öffne 120 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "Description": "Öffne 90 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Schatzsucher im Mondstaub II",
-    "Description": "Öffne 240 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "Description": "Öffne 180 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Abenteurer im Mondstaub II",
-    "Description": "Schließ 7 Zeitherausforderungen in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels ab.",
+    "Description": "Schließ 5 Zeitherausforderungen in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels ab.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenade der Weißmondnacht",
+    "Description": "Schließ „Mondchroniken III“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

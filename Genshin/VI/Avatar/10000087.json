@@ -1168,6 +1168,14 @@
   },
   "Costumes": [
     {
+      "Id": 208701,
+      "Name": "Quà Tặng Của Melusine",
+      "Description": "Món quà bất ngờ mà Neuvillette nhận được. Bất ngờ không chỉ đến từ bản thân món quà, mà còn đến từ mỗi một đôi tay nhỏ giúp đỡ khi tham gia tạo ra. Giống như dòng sông hòa vào biển lớn, sương mai cũng ngưng tụ thành phép màu lấp lánh ánh sáng óng ánh.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
+    {
       "Id": 208700,
       "Name": "Phán Quyết Trong Sạch",
       "Description": "Phong cách của Neuvillette. Trang phục của thẩm phán tối cao với tạo hình trang trọng thanh lịch. Thiết kế quá phức tạp có gây ra một số bất tiện khi hoạt động, nhưng đối với chủ nhân của nó mà nói, tương xứng với thân phận mới là thứ cần được ưu tiên hơn.",

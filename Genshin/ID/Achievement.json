@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "Pemburu Harta Debu Bulan (II)",
-    "Description": "Buka 60 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "Description": "Buka 45 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "Pemburu Harta Debu Bulan (II)",
-    "Description": "Buka 120 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "Description": "Buka 90 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "Pemburu Harta Debu Bulan (II)",
-    "Description": "Buka 240 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "Description": "Buka 180 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "Petualang Debu Bulan (II)",
-    "Description": "Selesaikan 7 Tantangan Dunia Terbuka dengan batas waktu di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "Description": "Selesaikan 5 Tantangan Dunia Terbuka dengan batas waktu di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenada Malam Putih Bercahaya Bulan",
+    "Description": "Selesaikan \"Kronik Bulan: Bag III\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,

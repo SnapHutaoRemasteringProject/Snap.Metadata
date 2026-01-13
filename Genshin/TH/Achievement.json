@@ -5684,38 +5684,40 @@
     "Goal": 66,
     "Order": 423,
     "Title": "นักล่าสมบัติธุลีจันทร์ II",
-    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 60 หีบ",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 45 หีบ",
     "FinishReward": {
       "Id": 201,
       "Count": 5
     },
-    "Progress": 60,
+    "Progress": 45,
     "Version": "6.3"
   },
   {
     "Id": 80463,
     "Goal": 66,
     "Order": 424,
+    "PreviousId": 80462,
     "Title": "นักล่าสมบัติธุลีจันทร์ II",
-    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 120 หีบ",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 90 หีบ",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 120,
+    "Progress": 90,
     "Version": "6.3"
   },
   {
     "Id": 80464,
     "Goal": 66,
     "Order": 425,
+    "PreviousId": 80463,
     "Title": "นักล่าสมบัติธุลีจันทร์ II",
-    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 240 หีบ",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 180 หีบ",
     "FinishReward": {
       "Id": 201,
       "Count": 20
     },
-    "Progress": 240,
+    "Progress": 180,
     "Version": "6.3"
   },
   {
@@ -5723,12 +5725,12 @@
     "Goal": 66,
     "Order": 426,
     "Title": "นักผจญภัยธุลีจันทร์ II",
-    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 7 ครั้ง",
+    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 5 ครั้ง",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
-    "Progress": 7,
+    "Progress": 5,
     "Version": "6.3"
   },
   {
@@ -5754,7 +5756,7 @@
       "Id": 201,
       "Count": 5
     },
-    "Progress": 32,
+    "Progress": 29,
     "Version": "6.3"
   },
   {
@@ -13716,6 +13718,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.1"
+  },
+  {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "บทเพลงราตรีสีขาวแห่งจันทรา",
+    "Description": "สำเร็จ \"บันทึกเคียงจันทร์ III\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81626,
