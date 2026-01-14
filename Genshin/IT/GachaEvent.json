@@ -3902,63 +3902,6 @@
     ]
   },
   {
-    "Name": "Somnias a Luna",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/0bb4c58f2591035cb5192f3449c9f3af_2302206969318728742_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/0bb4c58f2591035cb5192f3449c9f3af_2302206969318728742_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 301,
-    "UpOrangeList": [
-      10000125
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Attivazione astrale",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/677365a2af095a39f6925436bfd2af38_2120308102061864848_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/677365a2af095a39f6925436bfd2af38_2120308102061864848_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 400,
-    "UpOrangeList": [
-      10000116
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Incarnazione divina",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/fb90c8baa298c061c59f3defd8b3310b_7295902435713589994_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/fb90c8baa298c061c59f3defd8b3310b_7295902435713589994_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 302,
-    "UpOrangeList": [
-      14522,
-      13515
-    ],
-    "UpPurpleList": [
-      13430,
-      14430,
-      15412,
-      11402,
-      12403
-    ]
-  },
-  {
     "Name": "Ombra cinerea del Focolare",
     "Version": "5.3",
     "Order": 2,
@@ -5097,6 +5040,63 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Somnias a Luna",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/0bb4c58f2591035cb5192f3449c9f3af_2302206969318728742_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/0bb4c58f2591035cb5192f3449c9f3af_2302206969318728742_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Attivazione astrale",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/677365a2af095a39f6925436bfd2af38_2120308102061864848_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/677365a2af095a39f6925436bfd2af38_2120308102061864848_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Incarnazione divina",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/fb90c8baa298c061c59f3defd8b3310b_7295902435713589994_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/fb90c8baa298c061c59f3defd8b3310b_7295902435713589994_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
     ]
   },
   {

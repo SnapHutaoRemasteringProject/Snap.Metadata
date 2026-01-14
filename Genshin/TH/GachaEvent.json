@@ -3902,63 +3902,6 @@
     ]
   },
   {
-    "Name": "นิทราเคียงจันทร์",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/4c3fcbc82b6420d89f1f20d02e878630_434014225463394524_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/4c3fcbc82b6420d89f1f20d02e878630_434014225463394524_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 301,
-    "UpOrangeList": [
-      10000125
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "พลวัตเคลื่อนดารา",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/c22ab46335e203ff3af5e1224cf5728b_2773642443716853539_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/c22ab46335e203ff3af5e1224cf5728b_2773642443716853539_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 400,
-    "UpOrangeList": [
-      10000116
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "สรรค์สร้างเซียน",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/31a621ff0f417150497492cd40bac7ec_3258383691157752068_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/31a621ff0f417150497492cd40bac7ec_3258383691157752068_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 302,
-    "UpOrangeList": [
-      14522,
-      13515
-    ],
-    "UpPurpleList": [
-      13430,
-      14430,
-      15412,
-      11402,
-      12403
-    ]
-  },
-  {
     "Name": "เงามายาเถ้าธุลี",
     "Version": "5.3",
     "Order": 2,
@@ -5097,6 +5040,63 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "นิทราเคียงจันทร์",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/4c3fcbc82b6420d89f1f20d02e878630_434014225463394524_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/4c3fcbc82b6420d89f1f20d02e878630_434014225463394524_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "พลวัตเคลื่อนดารา",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/c22ab46335e203ff3af5e1224cf5728b_2773642443716853539_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/c22ab46335e203ff3af5e1224cf5728b_2773642443716853539_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "สรรค์สร้างเซียน",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/31a621ff0f417150497492cd40bac7ec_3258383691157752068_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/31a621ff0f417150497492cd40bac7ec_3258383691157752068_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
     ]
   },
   {

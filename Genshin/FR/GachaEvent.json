@@ -3902,63 +3902,6 @@
     ]
   },
   {
-    "Name": "Rêve sous l'ombre lunaire",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/5d35fd91aefeaffeef341c6ae610147a_2652449210870403917_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/5d35fd91aefeaffeef341c6ae610147a_2652449210870403917_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 301,
-    "UpOrangeList": [
-      10000125
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Exaltation astrale",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/9a909c9d3cf775ebb143e81564a5330d_9005177531751841752_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/9a909c9d3cf775ebb143e81564a5330d_9005177531751841752_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 400,
-    "UpOrangeList": [
-      10000116
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Incarnation divine",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/d910bf94b20ab0fe14ede1135a661811_5715833498966602678_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/d910bf94b20ab0fe14ede1135a661811_5715833498966602678_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 302,
-    "UpOrangeList": [
-      14522,
-      13515
-    ],
-    "UpPurpleList": [
-      13430,
-      14430,
-      15412,
-      11402,
-      12403
-    ]
-  },
-  {
     "Name": "L'ombre cendrée de l'âtre",
     "Version": "5.3",
     "Order": 2,
@@ -5097,6 +5040,63 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Rêve sous l'ombre lunaire",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/5d35fd91aefeaffeef341c6ae610147a_2652449210870403917_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/5d35fd91aefeaffeef341c6ae610147a_2652449210870403917_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Exaltation astrale",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/9a909c9d3cf775ebb143e81564a5330d_9005177531751841752_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/9a909c9d3cf775ebb143e81564a5330d_9005177531751841752_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Incarnation divine",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/d910bf94b20ab0fe14ede1135a661811_5715833498966602678_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/d910bf94b20ab0fe14ede1135a661811_5715833498966602678_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
     ]
   },
   {

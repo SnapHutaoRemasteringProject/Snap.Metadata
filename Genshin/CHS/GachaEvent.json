@@ -3902,63 +3902,6 @@
     ]
   },
   {
-    "Name": "伴月同眠",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f8d20dd5053613895b29579b7d177a2b_2259975683841769504_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f8d20dd5053613895b29579b7d177a2b_2259975683841769504_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 301,
-    "UpOrangeList": [
-      10000125
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "聚星源动",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/00521a1d20471b8f36df4e2c244820f0_971147450552748948_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/00521a1d20471b8f36df4e2c244820f0_971147450552748948_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 400,
-    "UpOrangeList": [
-      10000116
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "神铸赋形",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f919688294d05af0ab64ec40d017c02c_2450262039538928453_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f919688294d05af0ab64ec40d017c02c_2450262039538928453_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 302,
-    "UpOrangeList": [
-      14522,
-      13515
-    ],
-    "UpPurpleList": [
-      13430,
-      14430,
-      15412,
-      11402,
-      12403
-    ]
-  },
-  {
     "Name": "炉边烬影",
     "Version": "5.3",
     "Order": 2,
@@ -5097,6 +5040,63 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "伴月同眠",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f8d20dd5053613895b29579b7d177a2b_2259975683841769504_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f8d20dd5053613895b29579b7d177a2b_2259975683841769504_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "聚星源动",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/00521a1d20471b8f36df4e2c244820f0_971147450552748948_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/00521a1d20471b8f36df4e2c244820f0_971147450552748948_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "神铸赋形",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f919688294d05af0ab64ec40d017c02c_2450262039538928453_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f919688294d05af0ab64ec40d017c02c_2450262039538928453_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
     ]
   },
   {

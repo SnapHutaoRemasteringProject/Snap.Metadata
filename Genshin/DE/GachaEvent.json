@@ -3902,63 +3902,6 @@
     ]
   },
   {
-    "Name": "Somnias a Luna",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/cbf4db9c459b8dcf744f718865ca09dc_2518587105646860215_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/cbf4db9c459b8dcf744f718865ca09dc_2518587105646860215_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 301,
-    "UpOrangeList": [
-      10000125
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Astrale Aktivierung",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/8c36ea418328772ec6b0ec9e3510e645_5578348925954291849_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/8c36ea418328772ec6b0ec9e3510e645_5578348925954291849_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 400,
-    "UpOrangeList": [
-      10000116
-    ],
-    "UpPurpleList": [
-      10000097,
-      10000031,
-      10000113
-    ]
-  },
-  {
-    "Name": "Göttliches Werk",
-    "Version": "6.3",
-    "Order": 1,
-    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f383409f9840a223d1a9c4734330a45a_1851357981328926167_transformed.jpg",
-    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f383409f9840a223d1a9c4734330a45a_1851357981328926167_transformed.jpg",
-    "From": "2025-01-14T06:00:00+08:00",
-    "To": "2026-02-03T17:59:00+08:00",
-    "Type": 302,
-    "UpOrangeList": [
-      14522,
-      13515
-    ],
-    "UpPurpleList": [
-      13430,
-      14430,
-      15412,
-      11402,
-      12403
-    ]
-  },
-  {
     "Name": "Schattenasche am Kamin",
     "Version": "5.3",
     "Order": 2,
@@ -5097,6 +5040,63 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Somnias a Luna",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/cbf4db9c459b8dcf744f718865ca09dc_2518587105646860215_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/cbf4db9c459b8dcf744f718865ca09dc_2518587105646860215_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Astrale Aktivierung",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/8c36ea418328772ec6b0ec9e3510e645_5578348925954291849_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/8c36ea418328772ec6b0ec9e3510e645_5578348925954291849_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Göttliches Werk",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/f383409f9840a223d1a9c4734330a45a_1851357981328926167_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/f383409f9840a223d1a9c4734330a45a_1851357981328926167_transformed.jpg",
+    "From": "2026-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
     ]
   },
   {
