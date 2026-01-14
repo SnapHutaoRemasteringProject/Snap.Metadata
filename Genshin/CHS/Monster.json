@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "涌流·霜夜灵嗣",
+    "Title": "霜夜灵嗣",
+    "Description": "体态瑰美优雅的元素生命，具备极强的元素亲和力。在漫长的岁月中沐染着高浓度的水元素，最终演化成了如今的形貌。\n澄莹的身躯几乎是由至纯的水露构成。与其他同族相比，性情稍稍温顺一些，但在被激怒时，亦会瞬间凝结出锋利的水刃，刺穿来犯者的防御。\n在终北遗存的祷歌中，它们是受霜月祝福而诞生的生命，象征着纯然的源质与肇始的辉光。或许正是因为如此，它们才会因无法忍受自身的纯白被染上天光的七色，而开始拒斥一切过于接近它们的生灵吧。",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "驰岚·霜夜灵嗣",
+    "Title": "霜夜灵嗣",
+    "Description": "体态瑰美优雅的元素生命，具备极强的元素亲和力。在漫长的岁月中沐染着高浓度的风元素，最终演化成了如今的形貌。\n流风为它们纺成了额外的羽翼。由于几乎不会在地面上留下足迹，有时也会被称作踏风而过者。\n在终北遗存的祷歌中，它们是受霜月祝福而诞生的生命，象征着纯然的源质与肇始的辉光。或许正是因为如此，它们才会因无法忍受自身的纯白被染上天光的七色，而开始拒斥一切过于接近它们的生灵吧。",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "金礞·霜夜灵嗣",
+    "Title": "霜夜灵嗣",
+    "Description": "体态瑰美优雅的元素生命，具备极强的元素亲和力。在漫长的岁月中沐染着高浓度的岩元素，最终演化成了如今的形貌。\n积聚的岩元素几乎将身躯完全覆盖，坚固的角冠也闪耀着如同金珀般的光芒。\n在终北遗存的祷歌中，它们是受霜月祝福而诞生的生命，象征着纯然的源质与肇始的辉光。或许正是因为如此，它们才会因无法忍受自身的纯白被染上天光的七色，而开始拒斥一切过于接近它们的生灵吧。",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "霜夜巡天灵主",
     "Title": "圣辉的庇卫",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "历经百战的十六倍曼陀草",
+    "Title": "历经百战的十六倍曼陀草",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "历经百战的十六倍曼陀草",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "神神秘秘大大丘丘",
     "Title": "误入秘境迷糊悟道的萨满？",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "深黯钓客",
+    "Title": "异界栖兽",
+    "Description": "穿过深黯的裂隙，自异界侵入此世的深渊魔物。\n曾有古代的贤哲将人类定义为无羽毛的二足走兽，意图以此区分人与无智性的野兽，进而证明灵长的优越性。从某种意义上来说，这些逡巡于寂灭的星海间、身披鳞片而非羽毛的不灭之物，这些如垂钓者般投下钩喙、攫噬各个世界生物质的无名钓客，或许同样符合这般粗浅的「人」的定义。",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "深黯魇语之主",
+    "Title": "无面无域的支配者",
+    "Description": "伏行于深黯的裂隙，窥伺此世的深渊魔物。据说那怪异、亵渎的无面形貌不过是投射于世界上的影像，其真实姿态乃是以纯粹深渊能量形式存在的无形之物。\n即便是妄图支配这个世界的入侵者，也不得不在一定程度上遵从世界原本的法则。直至高天的面纱破碎、地骨的护堤崩毁，来自群星的失乡者都只能像这般匿避于世界的边缘，以疯狂与谵妄的低语，徒劳无功地渗入此世吧…但世界安稳的秩序，又会持续到何时呢？",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9098,7 +9339,7 @@
     "DescribeId": 50108,
     "Name": "利亚姆",
     "Title": "盗宝团·火之药剂师",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12008,6 +12249,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "历经百战的盗宝团精锐",
+    "Title": "历经百战的盗宝团精锐",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15841,7 +16091,10 @@
     "Title": "溯流·大灵显化身",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15850,7 +16103,10 @@
     "Title": "窟岩·大灵显化身",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15859,7 +16115,10 @@
     "Title": "疾叶·大灵显化身",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16386,6 +16645,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "蕴光凛狼",
+    "Title": "蕴光异兽",
+    "Description": "长久浸浴古老月之力而演化出独特生态的魔兽。\n传说在漆黑的灾祸抹去诸多生灵之际，边地的森林寂然无声。彼时，划破死寂的是向月而嗥的凛狼。群狼悲歌般的低吼挟着清冷的月光，在无数个夜里回荡于荒野之上。",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "历经百战的蕴光凛狼",
+    "Title": "蕴光异兽",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16445,6 +16751,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "影狼丸",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17087,6 +17402,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "「博士」",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "「博士」",
+    "Title": "「赝月的异端者」",
+    "Description": "以「异端」的恶名昭著于世，愚人众执行官第二席的「博士」，在攫取了三月的权柄后，如今已踏上通往「新世界」神座的阶梯。\n我们本应拥有一切。\n理，放逐了所有不可思之物，使世人再也无法抵达本性；\n生与死，制造了肉体凡胎的牢笼，禁锢一切灵魂的野心；\n时与空，限制了人类思想的边界，使人们变得短视顺从。\n从此，虚伪的神明统治了世界，每一个都以真理之名宣称自己唯一正确，却没有一个配得上这般名头。\n生命的流变并不具有秩序的结构，唯有抹除施加在这个世界上的层层枷锁，才能窥见一切事物的本质。\n那便是新世界的光芒。\n「你们难道愿意忍受这个迂腐陈旧的世界吗？」",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "？？？",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "？？？",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

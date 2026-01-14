@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "서리 사제의 광기",
     "Description": "순결한 시계. 옛 주인의 망상과 함께 오래전에 멈췄다",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "달에 바치는 술",
+    "Description": "먼 옛날 공월에 제사를 올리던 신도들이 의식의 마지막 연회에서 잃어버린 술잔",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "달에 바치는 일광",
+    "Description": "먼 옛날 공월을 위한 기도문을 쓰던 사제가 영감을 얻었던 깃펜",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "달에 바치는 은관",
+    "Description": "먼 옛날 공월을 찬송하는 시를 바치던 시인이 마지막 음절을 읊조리며 벗어 놓은 은관",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "달에 바치는 꿈",
+    "Description": "먼 옛날 공월 여신상을 만들던 장인이 신의 아름다운 자태를 드러내기 위해 정성스럽게 조각한 꽃 장식",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "달에 바치는 최후",
+    "Description": "먼 옛날 공월에 진실을 구하던 현자가, 종말의 순간을 기록하기 위해 준비한 모래시계",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "달에 바치는 술",
+    "Description": "먼 옛날 공월에 제사를 올리던 신도들이 의식의 마지막 연회에서 잃어버린 술잔",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "달에 바치는 일광",
+    "Description": "먼 옛날 공월을 위한 기도문을 쓰던 사제가 영감을 얻었던 깃펜",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "달에 바치는 은관",
+    "Description": "먼 옛날 공월을 찬송하는 시를 바치던 시인이 마지막 음절을 읊조리며 벗어 놓은 은관",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "달에 바치는 꿈",
+    "Description": "먼 옛날 공월 여신상을 만들던 장인이 신의 아름다운 자태를 드러내기 위해 정성스럽게 조각한 꽃 장식",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "달에 바치는 최후",
+    "Description": "먼 옛날 공월에 진실을 구하던 현자가, 종말의 순간을 기록하기 위해 준비한 모래시계",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "연회의 비밀",
+    "Description": "오래된 형태를 간직한 푸른빛 술잔. 먼 옛날, 어느 이름 없는 음유시인의 것이었다",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "서광의 서약",
+    "Description": "새벽빛처럼 맑고 깨끗한 푸른 깃털 장식. 먼 옛날 자신의 이름을 버린 어느 호위병의 것이었다",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "애도의 연가",
+    "Description": "청옥과 푸른 수정으로 장식된 화려한 머리 장식. 먼 옛날 열풍의 왕이 총애하는 자에게 하사한 증표다",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "바람꽃의 기록",
+    "Description": "시들지 않는 푸른빛의 결정꽃. 먼 옛날 바람과 꽃을 불러들이던 어느 떠돌이 소녀의 것이었다",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "봄의 순간",
+    "Description": "푸른빛의 고운 모래가 담긴 모래시계. 이유를 알 수 없지만, 어떤 방식으로 뒤집어도 그 안의 모래가 전혀 흐르지 않는다",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "연회의 비밀",
+    "Description": "오래된 형태를 간직한 푸른빛 술잔. 먼 옛날, 어느 이름 없는 음유시인의 것이었다",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "서광의 서약",
+    "Description": "새벽빛처럼 맑고 깨끗한 푸른 깃털 장식. 먼 옛날 자신의 이름을 버린 어느 호위병의 것이었다",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "애도의 연가",
+    "Description": "청옥과 푸른 수정으로 장식된 화려한 머리 장식. 먼 옛날 열풍의 왕이 총애하는 자에게 하사한 증표다",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "바람꽃의 기록",
+    "Description": "시들지 않는 푸른빛의 결정꽃. 먼 옛날 바람과 꽃을 불러들이던 어느 떠돌이 소녀의 것이었다",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "봄의 순간",
+    "Description": "푸른빛의 고운 모래가 담긴 모래시계. 이유를 알 수 없지만, 어떤 방식으로 뒤집어도 그 안의 모래가 전혀 흐르지 않는다",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

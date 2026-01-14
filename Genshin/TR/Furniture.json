@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Columbina",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "\"Değer Yolu: Yeşim Tarlası\"",
-    "Description": "Yüksek düzeyde Alt Uzay Yaratma enerjisine sahip düzenli bir tarla. Verimli toprakta besin maddeleri neredeyse sınırsızdır, bu nedenle buraya ekilen tohumlar yoğun bakım gerektirmeden mükemmel ekinlere dönüşür. Bununla birlikte buraya ekilen ekinler uzun kök salma eğilimindedir, dolayısıyla tohumların uygun şekilde kök salıp büyümesi için fazla ekim yapılmaması gerekir.\nTohum Kutusundan alınabilecek şu tohumlar, sporlar ve numuneler buraya ekilebilir: Valyemiş, Tatlı Çiçek, Küçük Lamba Otu, Jueyun Biberi, Havuç, Turp, Nane, Mantar, Harra Meyvesi, Zaytun Şeftalisi, Marcotte, Tahıl Meyvesi, Cacahuatl, Sürüngen Pençesi Kaktüsü, Quenepa Böğürtleni, Parlak Boynuz Mantarı, Lakka Böğürtleni, Yazdönümü Böğürtleni.",
+    "Description": "Yüksek düzeyde Alt Uzay Yaratma enerjisine sahip düzenli bir tarla. Verimli toprakta besin maddeleri neredeyse sınırsızdır, bu nedenle buraya ekilen tohumlar yoğun bakım gerektirmeden mükemmel ekinlere dönüşür. Bununla birlikte buraya ekilen ekinler uzun kök salma eğilimindedir, dolayısıyla tohumların uygun şekilde kök salıp büyümesi için fazla ekim yapılmaması gerekir.\nTohum Kutusundan alınabilecek şu tohumlar, sporlar ve numuneler buraya ekilebilir: Valyemiş, Tatlı Çiçek, Küçük Lamba Otu, Jueyun Biberi, Havuç, Turp, Nane, Mantar, Harra Meyvesi, Zaytun Şeftalisi, Marcotte, Tahıl Meyvesi, Cacahuatl, Sürüngen Pençesi Kaktüsü, Quenepa Böğürtleni, Parlak Boynuz Mantarı, Lakka Böğürtleni, Yazdönümü Böğürtleni, Çam Reçinesi.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "\"Değer Yolu: Bereketli Toprak\"",
-    "Description": "Yüksek düzeyde Alt Uzay Yaratma enerjisine sahip düzenli bir tarla. Verimli toprakta besin maddeleri neredeyse sınırsızdır, bu nedenle buraya ekilen tohumlar yoğun bakım gerektirmeden mükemmel çiçeklere dönüşür. Bununla birlikte buraya ekilen çiçekler uzun kök salma eğilimindedir, dolayısıyla tohumların uygun şekilde kök salıp büyümesi için fazla ekim yapılmaması gerekir.\nTohum Kutusundan alınabilecek şu tohumlar, sporlar ve numuneler buraya ekilebilir: İpek Çiçeği, Sesilya, Parlak Zambak, Rüzgargülü Çiçeği, Qingxin, Mor Ot, Gözyaşı Otu, Sumeru Gülü, Lumidouce Çanı, Gökkuşağı Gülü, Parlak Kasımpatı, Taşyaran Kristal Çiçeği, Donuk Lamba Çiçeği.",
+    "Description": "Yüksek düzeyde Alt Uzay Yaratma enerjisine sahip düzenli bir tarla. Verimli toprakta besin maddeleri neredeyse sınırsızdır, bu nedenle buraya ekilen tohumlar yoğun bakım gerektirmeden mükemmel çiçeklere dönüşür. Bununla birlikte buraya ekilen çiçekler uzun kök salma eğilimindedir, dolayısıyla tohumların uygun şekilde kök salıp büyümesi için fazla ekim yapılmaması gerekir.\nTohum Kutusundan alınabilecek şu tohumlar, sporlar ve numuneler buraya ekilebilir: İpek Çiçeği, Sesilya, Parlak Zambak, Rüzgargülü Çiçeği, Qingxin, Mor Ot, Gözyaşı Otu, Sumeru Gülü, Lumidouce Çanı, Gökkuşağı Gülü, Parlak Kasımpatı, Taşyaran Kristal Çiçeği, Donuk Lamba Çiçeği, Kış Buzotu.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Kestane Keçisi: Serin Nane",
     "Description": "Nod-Krai'a özgü bir keçi türü. Boynuzları ve işaretlerine bol kepçe nane suyu sürülmüş gibi duruyor.\nDinginçay Çaydanlığına geldikten sonra kürkü daha da pofuduk oldu. Kürk dökme sezonu geldiğinde etrafına hafif bir \"pofuduk yağmuru\" yağar...\nBilinmeyen nedenlerden ötürü Çaydanlığa giren bazı hayvanlar Kuuvahki gücünün şekillendirdiği özel görünümlerini koruyabilmişler. Tombili'nin onları daha iyi tanıyabilmesi için Paimon, görünüşlerine bakından onlara yeni isimler vermiş...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Yakalanarak elde edilir."
+    ],
+    "Id": 369222,
+    "Name": "Diken Sırtlı Geko",
+    "Description": "Oldukça çevik ve esnek bir geko. Ayak tabanları, duvarlara tırmanmasına yetecek kadar vakum gücü sağlar.\nBu yaratık Çaydanlığa geldikten sonra kaya yarıklarında yaşamaya devam etse de doğal yırtıcıların onlar için oluşturduğu tehdit büyük ölçüde azalmıştır. Bu sayede artık dışarıda daha uzun süre vakit geçirebiliyorlar.\nBilinmeyen bir nedenden ötürü bazı yaratıklar Çaydanlığa geldikten sonra bile Kuuvahki etkisi sayesinde oluşan o eşsiz görünümlerini muhafaza etmişlerdir...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Yakalanarak elde edilir."
+    ],
+    "Id": 369223,
+    "Name": "Kül Boyunlu Leylek",
+    "Description": "Dikkat çekici derecede zarif bir görüntüsü olan bir kuş. Altın sarısına çalan gri tüyleri zarif ve ince silüetini ortaya çıkarır.\nO kadar zariftir ki bazı yaratıklar sırf dansa benzer savunma tepkilerini izlemek için onu kasten kışkırtır. Doğal olarak bu davranış Tombili tarafından kesinlikle yasaklanmıştır.\nBilinmeyen bir nedenden ötürü bazı yaratıklar Çaydanlığa geldikten sonra bile Kuuvahki etkisi sayesinde oluşan o eşsiz görünümlerini muhafaza etmişlerdir...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Yakalanarak elde edilir."
+    ],
+    "Id": 369224,
+    "Name": "Tepeli Kartal",
+    "Description": "Asil tepesi, krallara yaraşır duruşunu daha da pekiştiren keskin gözlü bir kartal.\nTepeli Kartal, avının üzerinde yükseklerde daireler çizmekte ustadır. Kuvvetli yapısı ve geniş kanat açıklığı sayesinde dalış saldırıları özellikle ölümcüldür. Yiyeceğin bol olduğu Çaydanlıkta nadiren avlanır ancak yine de güzel tepesini göstermek için sık sık yükseklerde daireler çizer...\nBilinmeyen bir nedenden ötürü bazı yaratıklar Çaydanlığa geldikten sonra bile Kuuvahki etkisi sayesinde oluşan o eşsiz görünümlerini muhafaza etmişlerdir...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -53981,7 +54119,7 @@
     ],
     "Id": 374641,
     "Name": "Dikey Çift Kutuplu Üç Ayaklı Kule",
-    "Description": "Çın Çın Krumkake Atölyesinde bulunan tuhaf üç ayaklı kule.\nAltın çağdan kalma bir eser olduğuna inanılan bu yapının asıl işlevi zamanla unutulmuş. Şimdi ise sadece dekoratif bir amaç taşıyor.",
+    "Description": "Çın Çın Krumkake Atölyesinde bulunan tuhaf üç ayaklı kule.\nAltın Çağdan kalma, sonradan değiştirilmiş bir makina olduğuna inanılan bu yadigarın asıl işlevi zamanla unutulmuş. Şimdiyse sadece dekoratif bir amaç taşıyor.",
     "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
     "Rank": 90100
   },
@@ -54334,6 +54472,931 @@
     "Description": "Varesa model alınarak yapılmış, onun kendine has kahraman maskesinden takan bir kardan adam. Varesa'nın en belirgin özelliği olan tutkusundan ödün vermeden onun sıcak ve cana yakın ruhunu aslına sadık şekilde yansıtır.\nYeşim Fırlatmanın üreticisi, Teyvat'ın dört bir yanından gelen misafirlerin rahatlamasına ve eğlenmesine yardımcı olmak için bu sevimli küçük yoldaşı tasarladı. Ejdersırtı'nın karları haşin olsa da bu yoldaşın varlığı bir süreliğine insanın içini ısıtır.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 361344,
+    "Name": "\"Ay Işığında Fısıltılar\"",
+    "Description": "Piramida'da sık görülen bir masa. Bu basit kare masa tamamen metal levhadan yapılmıştır.\nSessiz akşamlarda Ratnikler bunun gibi bir masanın etrafına oturup fısıldayarak kendi aralarında konuşurlar. Belki de etraftaki avare ruhları rahatsız etmemek için ses çıkarmıyorlardır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 362277,
+    "Name": "Basit Sedye: \"Güvenli Tahliye\"",
+    "Description": "Basit ama son derece işlevsel bir tasarıma sahip sedye. Işık Muhafızları tarafından tıbbi nakil amacıyla yaygın olarak kullanılan bu alet, kumaşla birbirine bağlanan iki taşıma direğinden oluşur.\nBu sedyeler, Işık Muhafızlarının yanı sıra Piramida'daki siviller tarafından da kendi başlarına hareket edemeyenlere yardım etmek için kullanılır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 362278,
+    "Name": "\"Şerefe!\"",
+    "Description": "Işık Muhafızları tarafından sıkça kullanılan, yüksek kapasiteli ve kullanımı kolay metal bir içecek sebili.\nBu sebiller kalabalık buluşmalarda epey yaygındır, herkesin dilediği kadar içebilmesini sağlar.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 362133,
+    "Name": "\"Bir Arkadaşa\"",
+    "Description": "Işık Muhafızları arasında yaygın olarak kullanılan metal bir bank. Rahat bir sırtlığı olmasa da en azından oturma yerinde bir minder bulunuyor.\nCümbüşün gürültülü hengamesinin ortasında bile, insan yoldaşlarıyla bu banka oturduğunda aniden bir hüzne kapılabiliyor.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 361412,
+    "Name": "Basit Hasta Yatağı",
+    "Description": "Işık Muhafızları tarafından yaygın olarak kullanılan basit bir hasta yatağı. Genellikle yaralıların ve yatalakların günlük yaşam alışkanlıklarına ve tedavi ihtiyaçlarına uygundur.\nBu basit yatakta aslında sırtlığın açısını ayarlamak için bir kol bulunuyordu. Ancak yatakta yatanlar sık sık alışkanlıktan ve bilinçsizce kolu çevirip gıcırtı sesleri çıkarıyorlardı. Kol kısa süre sonra çıkarıldı.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 364226,
+    "Name": "Piramida Bayrağı",
+    "Description": "Piramida çevresinde sıkça görülen, üzerinde Işık Muhafızlarının deniz feneri sembolünü taşıyan bir bayrak. Deniz feneri, Işık Muhafızlarının karanlık geceye daima ışık tutma ve geleceği gözetme konusundaki kararlılıklarını temsil eder.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 371014,
+    "Name": "Ayarlanabilir Metal Bariyer",
+    "Description": "Piramida çevresinde sıkça görülen ve genellikle savunma önlemi olarak kullanılan ayarlanabilir bir metal bariyer.\nBu savunma aparatı genellikle hatırı sayılır miktarda saldırıya dayanabilse de epey belirgin bir dezavantajı vardır: Başka bir yere taşınması ciddi çaba gerektirir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 371015,
+    "Name": "\"Gözcüler Şehrinde Yalnızlık\"",
+    "Description": "Piramida çevresinde sıkça görülen ve çoğunlukla metal levhalardan inşa edilen bir yapı. İç mekan alanı açısından pek bir şey sunmasa da inşa etmesi nispeten ucuzdur.\n\"Bir düzine başka insanla devasa bir eve tıkışmaktansa böyle bir evde tek başıma olmayı tercih ederim!\" dedi zamanında böyle bir binada yaşamış olan bir beyefendi.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 371016,
+    "Name": "\"Gözcüler Şehrinde Sığınak\"",
+    "Description": "Piramida çevresinde sıklıkla görülen ve çoğunlukla metal levhalardan inşa edilen bir yapı. Kavisli çatısı, ona kendine özgü bir görünüm kazandırır.\nBu evler geniş iç alanlara veya sofistike dış tasarımlara sahip olmasalar da sağlam yapıları sayesinde birçok kişiye barınak sağlayabilirler.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371017,
+    "Name": "\"Kendine Ait Bir Köşe\"",
+    "Description": "Sarı kumaş gölgeliğe sahip, sıradan görünümlü derme çatma bir yapı.\nMalzemeleri basittir ve kurulumu kolaydır. Ne zaman kısa sürede bir dış mekan etkinliği düzenlenmesi gerekse, bu tür yapılar kullanılarak hızlı ve etkili bir şekilde kişiye özel küçük bir köşe ayarlanabilir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 371018,
+    "Name": "\"Gözcüler Şehrinde Bakım\"",
+    "Description": "Piramida'da yaygın olarak bulunan ve genellikle tıbbi tedavi tesislerine ev sahipliği yapan, nispeten yüksek bir bina.\nPiramida'nın yerleşik nüfusu genel olarak sağlıklı olduğundan kliniklerin önün genelde boş olur. Ancak mevsim geçişlerinde faaliyetlerinde kısa süreli bir artış görülür.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 371019,
+    "Name": "\"Gözcüler Şehrinde Demirci Ocağı\"",
+    "Description": "Piramida'da yaygın olarak bulunan ve kulelere benzeyen son derece yüksek bir yapı. Piramida'da genellikle demircilik hizmetlerinin sağlandığı yerdir.\nPiramida'da sıcaklıkların en düşük olduğu zamanlarda bile bu nokta hoş bir sıcaklık kaynağı sunar; her çekiç darbesiyle kıvılcımlar uçuşur, gürleyen kazanlardan buharlar yükselir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Savaş Bileti: Aydınlanma Korosu satın alındığında elde edilir."
+    ],
+    "Id": 371020,
+    "Name": "\"Starşinanın Yürüyüşü\"",
+    "Description": "Tarihteki ünlü bir şahsiyetin suretinde yapılmış büyük bir heykel. Figür kararlı bir duruş sergiliyor, kılıcını çekmiş bir halde ileriye doğru atılıyor. Durup onu seyredenler bile yaydığı kararlılığı ve gücü hissedebiliyor.\nRivayete göre Işık Muhafızlarının ilk Starşinası olarak, bir zamanlar sırf halkı gözetmek ve herkese bir umut olacak şafağın ilk parıltısını aramak için sonsuz gece boyunca yürümüştür.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 371021,
+    "Name": "Deniz Feneri: \"Bulutlardan Sızan Gün Işığı\"",
+    "Description": "Işık Muhafızlarının görkemli deniz fenerinin suretinde yapılmış bir maket. Sessiz ama vakur, sağlam ve daima güvenilirdir.\nKomutan Illuga, \"Şüphesiz kara bulutlar dağıldığında ve güneş ışığı bulutların arasından süzüldüğünde, gecenin karanlığında ortaya çıkan canavarlardan iz kalmayacak.\" demişti. Belki de ancak o gün geldiğinde tüm Ratnikler nihayet silahlarını bırakıp deniz fenerinden dışarı çıkabilecek ve sıcak güneşin altında bir tatilin tadını çıkarabileceklerdir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 374332,
+    "Name": "\"Sıcak ve Rahat\"",
+    "Description": "Geniş yüzeyli bir yemek masası. Ana gövdesi çoğunlukla metalden yapılmıştır ve masa tablasının altında küçük bir ocak için alan yaratan oyuk bir tasarıma sahiptir. Bu şekilde masadaki yiyecekler daima sıcak kalacaktır.\nGörkemli bir ziyafetin tadını çıkarmak ve doyasıya içmek, şüphesiz bu masaya oturan herkesin ortak arzusudur.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 374333,
+    "Name": "Strateji Masası: \"Ön Gösterim\"",
+    "Description": "Büyük Kumandan Varka'nın kendi strateji masasına göre modellenmiş basit ve pratik bir strateji masası.\n\"Biz tereddüt ederken Hiçlik sayısız can alıyor. Ne kadar erken harekete geçersek, onların kaderini o kadar çabuk değiştirebiliriz.\" İstihbarat, her türlü operasyonun ve keşif gezisinin temel taşıdır. Olası senaryoları önceden strateji masası üzerinde canlandırarak, yolculuk veya savaş sırasında oluşacak kayıplar büyük ölçüde azaltılabilir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 374642,
+    "Name": "\"Emin Verilen Emir\"",
+    "Description": "Piramida'da sık görülen bir taktik panosu. Tartışmalar sırasında kolayca görülebilmesi için üzerine sık sık çeşitli bölgelerin haritaları yapıştırılır.\nSon derece basit bir araç olmasına rağmen, düşünceleri netleştirmeye veya büyük resmi görmeye ihtiyaç duyulduğunda önemli bir rol oynar.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 374643,
+    "Name": "Basit Silah Rafı: \"Kolay Erişim\"",
+    "Description": "Nispeten basit bir tasarıma sahip, hem silahları hem de kalkanları yerleştirmek için özel alanları bulunan bir silah rafı.\nÇeşitli silahları kategorilerine göre depolamak, aniden harekete geçme çağrısı yapıldığında silahların hızla alınabilmesini sağlar.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 374644,
+    "Name": "\"Işık Muhafızlarının Taşınabilir Deniz Feneri\"",
+    "Description": "Kuuvahki ile çalışan, oldukça eşsiz bir görünüme sahip, son derece hareketli bir Ay Arabası. Işık Muhafızlarının Snezhnaya'ya ait mekanik araçları modifiye ederek oluşturduğu, gücünü Kuuvahkiden alan bir ulaşım aracıdır.\nGece çöktüğünde Ratnikler parlak aydınlatması sayesinde onu sık sık seyyar bir deniz feneri olarak kullanır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ortak Buluşma Noktası İnşaatı: Buluşma Noktası Seviye Ödülü"
+    ],
+    "Id": 374645,
+    "Name": "Cadı Heykeli: \"Büyülü Bir An\"",
+    "Description": "Bir melek suretinde yaratılmış bu heykel, meleğin büyülü bir anda sahip olduğu yoğun yaşam enerjisini yakalamış.\n\"Kadere hiçbir zaman akıl sır ermez ama... Yine de tanıştığım kişileri hikayelerinin mutlu sonuna yönlendirebilmeyi umuyorum.\" Gelecekteki her an belirsiz olduğundan, şimdiki anı yakalamak belki de çoğu kişi için hayati bir \"ödev\"dir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374819,
+    "Name": "Uğurlu Hazine Ağacı",
+    "Description": "Çok sayıda altın sarısı Talih Parası ile süslenmiş bu ışıl ışıl süs bitkisi, \"zenginlik ve refah getirmesi, evi altın ve yeşimle doldurması\" şeklindeki sembolik anlamları nedeniyle Liyue halkı arasında popülerdir.\n\"Aslında avluyu bu Uğurlu Hazine Ağaçlarıyla doldurursak, önümüzdeki yıl...\" cümlesi, bu ağaçları sergilemeye meraklı olanlardan sıkça duyulur.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374820,
+    "Name": "Büyük Zhanzhu Feneri: \"Yolkesen\"",
+    "Description": "Birçok çocuğun seve seve nefret ettiği bir hikaye karakteri olan Ay Yutan Zhanzhunun suretinde üretilmiş, koyu renkli zarif bir fener.\nBu \"Yolkesen\" yoluna çıktığında etrafından dolansan iyi olur.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 374821,
+    "Name": "Büyük Zhanzhu Feneri: \"Üstün Yolkesen\"",
+    "Description": "Pek çok çocuğun \"Ay Yutan Zhanzhu\" hikayesini dinledikten sonra nefret ettiği o karakterden, yani kızıl Yeşim Kucaklayan Zhanzhudan esinlenerek yapılmış, büyük ve enfes bir fener.\nÜstün Yolkesen yoluna çıktığında geri adım atma, zira o yaklaşan herkesin içindeki korkuyu hissedebilir.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 374647,
+    "Name": "\"Yaşamın Parıltısı\"",
+    "Description": "Amacı bilinmeyen, borularla üç şeffaf kaba bağlanmış bir kültür kabı.\nEn büyük kapta tıpkı yaşamın kendisi gibi hafif ve güzel, göz alıcı bir parıltı süzülüyor.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 373223,
+    "Name": "Canlı Yeşillik",
+    "Description": "Terk edilmiş Araştırma Enstitüsü civarında sıkça bulunan büyük bir bonsai bitkisi. O kadar canlı, yeşil ve gür ki sadece görmek bile insanın moralini anında düzeltir.\nNedense bitki daima hayat dolu görünüyor, hatta bilmeyen biri özel bir iksirle sulandığından şüphelenebilir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 373224,
+    "Name": "Parlak Yeşillik",
+    "Description": "Terk edilmiş Araştırma Enstitüsü civarında sıkça bulunan küçük bir bonsai bitkisi. O kadar canlı, yeşil ve gür ki sadece görmek bile insanın moralini anında düzeltir.\nNedense bitki daima hayat dolu görünüyor, hatta bilmeyen biri özel bir iksirle sulandığından şüphelenebilir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360469,
+    "Name": "Hafif Metal Lamba",
+    "Description": "Piramida sakinlerinin sıkça kullandığı hafif bir lamba. Çok parlak olmasa da hafifliği sayesinde kolayca taşınabilir.\nGökyüzü karardığında çocuklar oyunlarını bırakır, lambalarını alıp birlikte eve yürürler. Uzaktan bakıldığında, çocukların parlak ve neşeli kalabalığı yerde hareket eden yıldızlar gibi görünür.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Göz Alıcı Sandık Ödülü"
+    ],
+    "Id": 360470,
+    "Name": "Sokak Lambası: \"Maksimum Verimlilik\"",
+    "Description": "Piramida civarında sıkça görülen bir sokak lambası. Sade bir görünüme sahiptir ve iyi aydınlatma sağlar.\nPiramida'ya özgü işlemlerle dövülmüş malzemelerden üretilmiştir. Bu malzemeler, yağmurun neden olduğu aşınma ve pasa karşı üstün bir direnç sağlar. \"Sağlam mal masraf çıkarmaz\" ilkesine olan bu bağlılık, şehir sakinlerinin çoğunun paylaştığı pratik yaşam tarzıyla mükemmel bir uyum içindedir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360471,
+    "Name": "Renkli Xiao Feneri: \"Dileğim Uçsun Uzaklara\"",
+    "Description": "Işığıyla insanın içini ısıtan, renkli bir Xiao Feneri. Oldukça kolay bir yöntem kullanılarak basit malzemelerden yapılmıştır.\nBir sürü değerli dileği ve anıyı gecenin derinliklerine taşır.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360472,
+    "Name": "Renkli Xiao Feneri: \"Arkadaşlarla Buluşma\"",
+    "Description": "Işığıyla insanın içini ısıtan, renkli bir Xiao Feneri. Zekice tasarımı sayesinde havada daha uzun süre kalabilir.\nSöylenene göre Xiao Fenerlerine emanet edilen dilekler veya düşünceler, alıcısı binlerce kilometre uzakta olsa bile her zaman ulaşması gereken kişiye ulaşır.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360473,
+    "Name": "Renkli Xiao Feneri: \"Uğurlu Melodi\"",
+    "Description": "Xinyan'ın yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Rock zamanı millet!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360474,
+    "Name": "Renkli Xiao Feneri: \"Talih ve Müjdeler\"",
+    "Description": "Gaming'in yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Herkese hayatta başarılar ve sağlık dolu günler dilerim!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360475,
+    "Name": "Renkli Xiao Feneri: \"Bahara Güzel Bir Başlangıç\"",
+    "Description": "Lan Yan'ın yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Hepinize huzur ve mutluluk diliyorum!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360476,
+    "Name": "Renkli Xiao Feneri: \"Rüzgardaki Tatlı Kokular\"",
+    "Description": "Emilie'nin yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Umarım hepimiz hayatı ağırdan alıp en güzel anların tadını çıkarma fırsatını bulabiliriz.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360477,
+    "Name": "Renkli Xiao Feneri: \"Tükenmeyen Şans\"",
+    "Description": "Layla'nın yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Umarım Akademideki herkes tezini başarıyla tamamlayabilir.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360478,
+    "Name": "Renkli Xiao Feneri: \"Tüm Dileklerin Gerçek Olsun\"",
+    "Description": "Xiao'nun yaptığı zarif bir Xiao Feneri. Bakan herkesin içi sıcacık olur, huzurla ve mutlulukla dolar.\n\"Umarım her şey iyi olur.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 360479,
+    "Name": "Dörtnala Beyaz At",
+    "Description": "Ayı gözeten Adeptusun suretinde yapılmış devasa bir Xiao Feneri. Fener, parlak gün batımı renklerinden oluşan bir arka planın önünde, bulut kümelerinin arasındaki bir uçurumdan atlayan soluk beyaz bir atı tasvir eder. Günümüzde insanlar, Beyaz At Adeptusun dileklerini yerine getirmek için Aydan yeşim bir at arabasıyla ineceğini umarak dileklerini bu fenere yazarlar.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

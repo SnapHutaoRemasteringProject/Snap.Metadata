@@ -3902,6 +3902,63 @@
     ]
   },
   {
+    "Name": "Somnias a Luna",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/ad7ccf8f67d0f0a523a9f39eff4fb790_7340954355035399017_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/ad7ccf8f67d0f0a523a9f39eff4fb790_7340954355035399017_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Activación astral",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/959cdee2c7b4d1f9ecdf1c37af460391_4584105652933617203_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/959cdee2c7b4d1f9ecdf1c37af460391_4584105652933617203_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Encarnación divina",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/dfccb4af90d677c902c8edc6bff57c9a_7053919263200446872_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/dfccb4af90d677c902c8edc6bff57c9a_7053919263200446872_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
+    ]
+  },
+  {
     "Name": "Cenizas de la hoguera",
     "Version": "5.3",
     "Order": 2,
@@ -5040,6 +5097,42 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Abundancia armoniosa",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/73e90350b0ef9fe3b529abd5690678f0_1076852769750308221_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/73e90350b0ef9fe3b529abd5690678f0_1076852769750308221_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000126
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
+    ]
+  },
+  {
+    "Name": "Edicto abisal",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/ae0825137c2345cc93d24ed57914934e_1519910405120873615_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/ae0825137c2345cc93d24ed57914934e_1519910405120873615_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000087
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
     ]
   }
 ]

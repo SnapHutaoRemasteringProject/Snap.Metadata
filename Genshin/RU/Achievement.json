@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Дешёвые бульварные романы",
+    "Description": "Соберите полную коллекцию «Легенда о Риде Миллере».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Молитвы, канувшие в тишину",
+    "Description": "Соберите полную коллекцию «Гимны крайнего севера».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "«...подобно тому, как пчела производит мёд...»",
+    "Description": "Соберите полную коллекцию «Эхо морской раковины».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Откинув снежный полог",
+    "Description": "Соберите полную коллекцию «Сказания северного ветра».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "История одного города",
+    "Description": "Соберите полную коллекцию «Краткая история Рождённых Бледной звездой».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Заколдованное место под луной",
+    "Description": "Соберите полную коллекцию «Ночной шёпот издалека».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Охотник за сокровищами лунной пыли II",
+    "Description": "Откройте сундуки (45) в море Пустоты, на равнине Волногона и на Пепельной скале.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Охотник за сокровищами лунной пыли II",
+    "Description": "Откройте сундуки (90) в море Пустоты, на равнине Волногона и на Пепельной скале.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Охотник за сокровищами лунной пыли II",
+    "Description": "Откройте сундуки (180) в море Пустоты, на равнине Волногона и на Пепельной скале.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Искатель приключений лунной пыли II",
+    "Description": "Завершите ограниченные по времени испытания открытого мира (5) в море Пустоты, на равнине Волногона и на Пепельной скале.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Континентальный исследователь: Острова лунного света II",
+    "Description": "Откройте полностью карты моря Пустоты, равнины Волногона и Пепельной скалы в Нод-Крае.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Морозные рощи за пределами тьмы II",
+    "Description": "Активируйте все точки телепортации моря Пустоты, равнины Волногона и Пепельной скалы в Нод-Крае.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Паломник Святилища: Острова лунного света II",
+    "Description": "Откройте все Усыпальницы глубин моря Пустоты, равнины Волногона и Пепельной скалы в Нод-Крае.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Подношения Ночи: Острова лунного света II",
+    "Description": "Откройте все скрытые сокровища куухенки моря Пустоты, равнины Волногона и Пепельной скалы в Нод-Крае.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Пробуждаются ветры, кружатся листья",
+    "Description": "Соловьи с горящими угольками в клювах летают только в ночи.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Если зерно не умрёт",
+    "Description": "Даже когда цветок увядает, листья всё равно держат своё обещание.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Совместная постройка места встречи: Лагерь у скалы",
+    "Description": "Улучшите Лагерь у скалы до макс. уровня строительства.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Совместная постройка места встречи: Ведьмин сад",
+    "Description": "Улучшите Ведьмин сад до макс. уровня строительства.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Совместная постройка места встречи: Штаб Ордо Фавониус",
+    "Description": "Улучшите Штаб Ордо Фавониус до макс. уровня строительства.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Лунная серенада белой ночи",
+    "Description": "Завершите «Лунные хроники III».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Грех обернётся против грешника",
+    "Description": "Помогите Янушу разобраться с монстрами в Мрачных болотах.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Рука мертвеца",
+    "Description": "Конец света ещё не настал.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Прощай надежда, и с надеждой - прощай страх",
+    "Description": "Станьте свидетелем того, как восстаёт из глубин древний дворец.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "«К востоку от луны, на запад от солнца»",
+    "Description": "Завершите «К востоку от луны, на запад от солнца».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Сторожей-то кто стережёт?",
+    "Description": "Раскройте план Гражины.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Воспоминания одинокого волка",
+    "Description": "И с тех пор Рыцарь крови покинул мир людей...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Где покоится герой",
+    "Description": "Станьте свидетелем завершения истории «Рысаков вихря».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Долгая дорога домой",
+    "Description": "Помогите Кузьмичу вернуться домой.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Будет и хлеб",
+    "Description": "Используйте печь, чтобы приготовить «Грибной фантазм».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Холм в лунном свете",
+    "Description": "Снимите печать с временной капсулы, оставленной неизвестным гиперборейцем.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Путь славы и честей ко гробу нас ведёт",
+    "Description": "Уничтожьте всех приспешников «профессора» Ротванга.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Дело всегда в сроках",
+    "Description": "Уловите тот самый миг, чтобы переломить ситуацию.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Главное - не уронить",
+    "Description": "Поглотите мандрагору и метните её с помощью куувяки.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Тонкая чёрная линия",
+    "Description": "Очистите текущие всплески силы Бездны.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Над долинами и холмами",
+    "Description": "Почувствуйте мягкое прикосновение хлопчатника.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Пастух",
+    "Description": "Бродите с ленивой овечкой.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "И хладная земля чернелась",
+    "Description": "Падите без сознания из-за энергии разложения Бездны.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Как и должно быть",
+    "Description": "Станьте свидетелем возвращения Кошмарной луны.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Не стоит испытывать бога",
+    "Description": "Нарушьте правило, установленное Дотторе.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "Мы называем это «эффективностью».",
+    "Description": "Разрушьте щит, не побеждая ни одного из Рыболовов скрытых глубин, призванных Повелителем скрытых глубин: Шёпот кошмаров.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Если однажды зимней ночью путешественник",
+    "Description": "Куда ведёт её путь?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Странник и его тень",
+    "Description": "Возможно, это сила, изначально предназначенная тебе.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Еретический «идеальный мир»",
+    "Description": "Исследуйте энергетическое поле, созданное Доктором.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Лунный свет далёкого прошлого",
+    "Description": "Встретьтесь с Богинями Трёх Лун прошлого в темнице, где когда-то они были заточены.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Возвращение Новой Луны",
+    "Description": "Из пепла взойдёт Новая Луна и вновь раскрутит колесо судьбы.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Путешествие в будущее",
+    "Description": "Станьте свидетелем союза, заключённого между многочисленными фракциями Нод-Края.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "На луну",
+    "Description": "Достигните поверхности луны.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Истинная луна",
+    "Description": "Завершите «Истинную луну».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

@@ -3902,6 +3902,63 @@
     ]
   },
   {
+    "Name": "月と共に眠る",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/bbea3f35ed6b82a426402475c717428a_7043486492356563889_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/bbea3f35ed6b82a426402475c717428a_7043486492356563889_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "イベント祈願<br/>新星の駆動",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/aa17e76c2c6bf62b0104a76ecfb8a41b_38626014835799555_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/aa17e76c2c6bf62b0104a76ecfb8a41b_38626014835799555_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "神鋳賦形",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/b257c7ec3e1012ae9e06c8f23634cf08_1991841637251209927_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/b257c7ec3e1012ae9e06c8f23634cf08_1991841637251209927_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
+    ]
+  },
+  {
     "Name": "炉傍の残影",
     "Version": "5.3",
     "Order": 2,
@@ -5040,6 +5097,42 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "豊穣の要",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/6c7d0e01e85240ac8a2c174c589e2614_3156494348970149397_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/6c7d0e01e85240ac8a2c174c589e2614_3156494348970149397_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000126
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
+    ]
+  },
+  {
+    "Name": "淵海に令する者",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/b8ddf96f43170dd963ee0c70afab4252_905737266366017540_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/b8ddf96f43170dd963ee0c70afab4252_905737266366017540_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000087
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
     ]
   }
 ]

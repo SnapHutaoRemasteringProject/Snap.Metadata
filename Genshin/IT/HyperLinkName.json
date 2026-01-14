@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Dono del Cristallo di Pyro</color>",
-    "Description": "#Tutti i membri del gruppo ricevono un <color=#f39001>50%</color> di bonus DAN da Pyro e Geo, e si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+    "Description": "#Tutti i membri del gruppo ricevono un <color=#f39001>70%</color> di bonus DAN da Pyro e Geo, e si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Colpo di Litoschegge</color>",
-    "Description": "#Si sprigiona nella posizione del personaggio ogni <color=#f39001>{0}</color>{NON_BREAK_SPACE}s mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
+    "Description": "Si scatena a intervalli regolari nella posizione del personaggio mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Dono del Cristallo di Hydro</color>",
-    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>50%</color> di bonus DAN da Hydro e Geo. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>70%</color> di bonus DAN da Hydro e Geo. I DAN da Cristallizzazione lunare aumentano di un <color=#f39001>75%</color>. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Robot di assistenza coordinata purrsonali",
     "Description": "Dei piccoli congegni che Jahoda, ex cacciatrice di tesori, porta con sé. Vengono schierati quando usa il suo Tripudio elementale, <color=#FFD780FF>Assi segreti: Sette strumenti della cacciatrice</color>.\nI Robot di assistenza coordinata purrsonali ripristinano costantemente i PS del tuo personaggio attivo. Se i PS del personaggio curato sono superiori a un 70%, ripristinano anche i PS del membro del gruppo vicino con i PS più bassi.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando i nemici vicini sono affetti da <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, i Robot di assistenza coordinata purrsonali subiscono una conversione nell'elemento corrispondente, seguendo il seguente ordine di priorità: <color=#FF9999FF>Pyro</color> > <color=#80C0FFFF>Hydro</color> > <color=#FFACFFFF>Electro</color> > <color=#99FFFFFF>Cryo</color>. Ogni volta che viene schierato, un Robot di assistenza coordinata purrsonale può subire una sola conversione elementale. Dopo la conversione, attacca periodicamente fino a 3 avversari vicini, infliggendo DAN dell'elemento corrispondente."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Effetti positivi aggiuntivi",
+    "Description": "#{F#La viaggiatrice}{M#Il viaggiatore} ottiene un bonus alle statistiche per ogni elemento con cui ha risuonato.\n<color=#80FFD7FF>Anemo</color>: il tasso di CRIT aumenta di un 10%.\n<color=#FFE699FF>Geo</color>: la DIF aumenta di un 20%.\n<color=#FFACFFFF>Electro</color>: la ricarica d'energia aumenta di un 20%.\n<color=#99FF88FF>Dendro</color>: la maestria elementale aumenta di 60.\n<color=#80C0FFFF>Hydro</color>: i PS aumentano di un 20%.\n<color=#FF9999FF>Pyro</color>: l'ATT aumenta di un 20%.\n<color=#99FFFFFF>Cryo</color>: i DAN da CRIT aumentano di un 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Marea gravitazionale",
+    "Description": "#Dopo aver sprigionato l'abilità elementale <color=#FFD780FF>Maree eterne</color>, Colombina evoca una <color=#FFD780FF>Marea gravitazionale</color>.\nLa Marea gravitazionale segue il personaggio attivo in campo e infligge costantemente <color=#80C0FFFF>DAN da Hydro ad area</color> agli avversari circostanti.\n\nInoltre, quando la Marea gravitazionale è in campo e i membri vicini del gruppo innescano reazioni lunari o infliggono DAN da reazione lunare, Colombina ottiene l'effetto Presagio della Luna nuova per 2{NON_BREAK_SPACE}s, accumulando continuamente <color=#FFD780FF>Gravità</color>. Ogni 2{NON_BREAK_SPACE}s è possibile ottenere fino a 20 accumuli di Gravità.\nIl limite massimo di Gravità è 60, e una volta terminata la durata della Marea gravitazionale, tutta la Gravità accumulata viene rimossa.\nUna volta raggiunto il limite di Gravità, si attiva una speciale <color=#FFD780FF>Interferenza gravitazionale</color> che, in base al tipo di reazione lunare che ha fornito la maggiore quantità di Gravità a Colombina, innesca effetti diversi.\n· <color=#FFD780FF>Carica lunare</color>: l'Interferenza gravitazionale infligge una singola iterazione di <color=#FFACFFFF>DAN da Electro ad area</color> considerati come DAN da Carica lunare.\n· <color=#FFD780FF>Fioritura lunare</color>: l'Interferenza gravitazionale scaglia 5 Sigilli di rugiada lunare agli avversari circostanti, infliggendo <color=#99FF88FF>DAN da Dendro</color> considerati come DAN da Fioritura lunare.\n· <color=#FFD780FF>Cristallizzazione lunare</color>: l'Interferenza gravitazionale infligge una singola iterazione di <color=#FFE699FF>DAN da Geo ad area</color> considerati come DAN da Cristallizzazione lunare."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Dominio lunare",
+    "Description": "Il dominio che Colombina evoca dopo aver sprigionato il Tripudio elementale <color=#FFD780FF>Malinconia lunare</color>.\nQuando i personaggi attivi attuali sono all'interno del <color=#FFD780FF>Dominio lunare</color>, i DAN da reazione lunare inflitti da tutti i membri del gruppo aumentano."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Rugiada selenica",
+    "Description": "Un tipo speciale di Rugiada verdeggiante fornito dal talento passivo di Colombina, <color=#FFD780FF>Legge della Luna nuova</color>. La sua capacità e la sua durata massime sono calcolate indipendentemente dalla Rugiada verdeggiante.\nQuando la Rugiada verdeggiante del gruppo si esaurisce, al suo posto viene consumata la <color=#FFD780FF>Rugiada selenica</color>.\nIl tuo gruppo può avere fino a 3 unità di <color=#FFD780FF>Rugiada selenica</color>."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Canzone dell'usignolo",
+    "Description": "L'effetto derivante dall'attivazione del Tripudio elementale di Illuga <color=#FFD780FF>Riflesso senz'ombra</color>. Può aumentare i <color=#FFE699FF>DAN da Geo</color> inflitti dal personaggio attivo attuale."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Cambio delle fasi lunari",
+    "Description": "#Dopo aver usato la sua abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color>, Zibai entra in questa modalità, che dura al massimo {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s e ha le seguenti proprietà:\n· i DAN degli attacchi normali e caricati vengono convertiti in <color=#FFE699FF>DAN da Geo</color> non influenzabili da altre infusioni elementali;\n· l'abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color> viene convertita nell'abilità elementale <color=#FFD780FF>Passo del destriero spirituale</color>. Quando Zibai ha almeno 70 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, può consumarli per scatenare Passo del destriero spirituale e infliggere due iterazioni di <color=#FFE699FF>DAN da Geo</color>. I DAN della seconda iterazione vengono considerati DAN da Cristallizzazione lunare.\n\nÈ possibile avere un massimo di 100 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, che Zibai può ottenere nei seguenti modi:\n· 10 per ogni secondo in cui si trova nello stato di <color=#FFD780FF>Cambio delle fasi lunari</color>;\n· 5 quando colpisce un avversario con i suoi attacchi normali, una volta ogni 0,5{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando i membri del gruppo vicini innescano Cristallizzazione lunare, forniscono a Zibai 35 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>. È possibile ottenere accumuli in questo modo una volta ogni 4{NON_BREAK_SPACE}s. Scatenare l'abilità elementale speciale <color=#FFD780FF>Passo del destriero spirituale</color> annulla il suddetto tempo di attesa, permettendo di accumulare immediatamente altro <color=#FFD780FF>Cambio di fase splendente</color> in questo modo.\n\nZibai esce da questa modalità dopo aver scatenato <color=#FFD780FF>Passo del destriero spirituale</color> 4 volte o quando la durata dell'abilità termina."
   }
 ]

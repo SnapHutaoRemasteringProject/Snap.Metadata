@@ -1,0 +1,1241 @@
+{
+  "Id": 10000125,
+  "PromoteId": 125,
+  "Sort": 110,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Columbina",
+  "SideIcon": "UI_AvatarIcon_Side_Columbina",
+  "Name": "Columbina",
+  "Description": "Nod-Krai'da doğan Ay Hanımı ve evine geri dönen yeni ay.",
+  "BeginTime": "2026-01-13T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 10,
+  "BaseValue": {
+    "HpBase": 1143.984,
+    "AttackBase": 7.448,
+    "DefenseBase": 40.0861
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12531,
+        "Proud": {
+          "Descriptions": [
+            "1 Vuruş Hasarı|{param1:F1P}",
+            "2 Vuruş Hasarı|{param2:F1P}",
+            "3 Vuruş Hasarı|{param3:F1P}",
+            "Yüklü Saldırı Hasarı|{param4:F1P}",
+            "Yüklü Saldırı Dayanıklılık Maliyeti|{param5:F1}",
+            "Ay Çiyi Arınması Hasarı|{param6:F2P} Maks. Can x3",
+            "Havadan Saldırı Hasarı|{param7:F1P}",
+            "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param8:P}/{param9:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253101,
+              "Level": 1,
+              "Parameters": [
+                0.46792,
+                0.366256,
+                0.58484,
+                1.1608,
+                50,
+                0.015112,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1253102,
+              "Level": 2,
+              "Parameters": [
+                0.503014,
+                0.393725,
+                0.628703,
+                1.24786,
+                50,
+                0.016245,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1253103,
+              "Level": 3,
+              "Parameters": [
+                0.538108,
+                0.421194,
+                0.672566,
+                1.33492,
+                50,
+                0.017379,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1253104,
+              "Level": 4,
+              "Parameters": [
+                0.5849,
+                0.45782,
+                0.73105,
+                1.451,
+                50,
+                0.01889,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1253105,
+              "Level": 5,
+              "Parameters": [
+                0.619994,
+                0.485289,
+                0.774913,
+                1.53806,
+                50,
+                0.020023,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1253106,
+              "Level": 6,
+              "Parameters": [
+                0.655088,
+                0.512758,
+                0.818776,
+                1.62512,
+                50,
+                0.021157,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1253107,
+              "Level": 7,
+              "Parameters": [
+                0.70188,
+                0.549384,
+                0.87726,
+                1.7412,
+                50,
+                0.022668,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1253108,
+              "Level": 8,
+              "Parameters": [
+                0.748672,
+                0.58601,
+                0.935744,
+                1.85728,
+                50,
+                0.024179,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1253109,
+              "Level": 9,
+              "Parameters": [
+                0.795464,
+                0.622635,
+                0.994228,
+                1.97336,
+                50,
+                0.02569,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1253110,
+              "Level": 10,
+              "Parameters": [
+                0.842256,
+                0.659261,
+                1.052712,
+                2.08944,
+                50,
+                0.027202,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1253111,
+              "Level": 11,
+              "Parameters": [
+                0.889048,
+                0.695886,
+                1.111196,
+                2.20552,
+                50,
+                0.028713,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1253112,
+              "Level": 12,
+              "Parameters": [
+                0.93584,
+                0.732512,
+                1.16968,
+                2.3216,
+                50,
+                0.030224,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1253113,
+              "Level": 13,
+              "Parameters": [
+                0.99433,
+                0.778294,
+                1.242785,
+                2.4667,
+                50,
+                0.032113,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1253114,
+              "Level": 14,
+              "Parameters": [
+                1.05282,
+                0.824076,
+                1.31589,
+                2.6118,
+                50,
+                0.034002,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1253115,
+              "Level": 15,
+              "Parameters": [
+                1.11131,
+                0.869858,
+                1.388995,
+                2.7569,
+                50,
+                0.035891,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11251,
+        "Name": "Ay Çiyi Çağlayanı",
+        "Description": "<color=#FFD780FF>Normal Saldırı</color>\nMehtap Gelgitleri çağırarak <color=#80C0FFFF>Su Hasarı</color> veren en fazla 3 saldırı yapar.\n\n<color=#FFD780FF>Yüklü Saldırı</color>\nKısa bir süre kullanıldıktan sonra belirli miktarda Dayanıklılık harcayarak <color=#80C0FFFF>Su Alan Hasarı</color> verir.\nEğer en az 1 {LINK#N11190008}<color=#FFD780FF>Taze Çiye</color>{/LINK} sahipsen Columbina'nın Yüklü Saldırısı değişerek özel Yüklü Saldırı <color=#FFD780FF>Ay Çiyi Arınması</color> olur. Bu özel Yüklü Saldırı Dayanıklılık harcamaz, 1 Taze Çiy tüketerek önündeki düşmanlara 3 defa <color=#99FF88FF>Doğa Alan Hasarı</color> verir. Bu Hasar Ay Çiçeklenmesi Hasarı sayılır.\n\n<color=#FFD780FF>Havadan Saldırı</color>\nYere doğru atılır ve yoluna çıkan tüm düşmanlara hasar verir. Yere vurduğunda <color=#80C0FFFF>Su Alan Hasarı</color> verir.",
+        "Icon": "Skill_A_Catalyst_MD"
+      },
+      {
+        "GroupId": 12532,
+        "Proud": {
+          "Descriptions": [
+            "Beceri Hasarı|{param1:F1P} Maks. Can",
+            "Yer Çekimi Dalgası: Sürekli Hasar|{param2:F1P} Maks. Can",
+            "Yer Çekimi Müdahalesi: Ay Yüklü Hasarı|{param3:F2P} Maks. Can",
+            "Yer Çekimi Müdahalesi: Ay Çiçeklenmesi Hasarı|{param4:F2P} Maks. Can x5",
+            "Yer Çekimi Müdahalesi: Ay Kristalleşmesi Hasarı|{param5:F2P} Maks. Can",
+            "Yer Çekimi Sınırı|{param8:I}",
+            "Yer Çekimi Dalgası Süresi|{param9:F1}sn",
+            "BS|{param10:F1}sn"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253201,
+              "Level": 1,
+              "Parameters": [
+                0.1672,
+                0.0936,
+                0.04704,
+                0.01408,
+                0.08824,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253202,
+              "Level": 2,
+              "Parameters": [
+                0.17974,
+                0.10062,
+                0.050568,
+                0.015136,
+                0.094858,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253203,
+              "Level": 3,
+              "Parameters": [
+                0.19228,
+                0.10764,
+                0.054096,
+                0.016192,
+                0.101476,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253204,
+              "Level": 4,
+              "Parameters": [
+                0.209,
+                0.117,
+                0.0588,
+                0.0176,
+                0.1103,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253205,
+              "Level": 5,
+              "Parameters": [
+                0.22154,
+                0.12402,
+                0.062328,
+                0.018656,
+                0.116918,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253206,
+              "Level": 6,
+              "Parameters": [
+                0.23408,
+                0.13104,
+                0.065856,
+                0.019712,
+                0.123536,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253207,
+              "Level": 7,
+              "Parameters": [
+                0.2508,
+                0.1404,
+                0.07056,
+                0.02112,
+                0.13236,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253208,
+              "Level": 8,
+              "Parameters": [
+                0.26752,
+                0.14976,
+                0.075264,
+                0.022528,
+                0.141184,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253209,
+              "Level": 9,
+              "Parameters": [
+                0.28424,
+                0.15912,
+                0.079968,
+                0.023936,
+                0.150008,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253210,
+              "Level": 10,
+              "Parameters": [
+                0.30096,
+                0.16848,
+                0.084672,
+                0.025344,
+                0.158832,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253211,
+              "Level": 11,
+              "Parameters": [
+                0.31768,
+                0.17784,
+                0.089376,
+                0.026752,
+                0.167656,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253212,
+              "Level": 12,
+              "Parameters": [
+                0.3344,
+                0.1872,
+                0.09408,
+                0.02816,
+                0.17648,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253213,
+              "Level": 13,
+              "Parameters": [
+                0.3553,
+                0.1989,
+                0.09996,
+                0.02992,
+                0.18751,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253214,
+              "Level": 14,
+              "Parameters": [
+                0.3762,
+                0.2106,
+                0.10584,
+                0.03168,
+                0.19854,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253215,
+              "Level": 15,
+              "Parameters": [
+                0.3971,
+                0.2223,
+                0.11172,
+                0.03344,
+                0.20957,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            }
+          ]
+        },
+        "Id": 11252,
+        "Name": "Ebedi Metcezir",
+        "Description": "Aya Bağlı Metcezirleri uyandırarak <color=#80C0FFFF>Su Alan Hasarı</color> verir ve bir {LINK#N11250001}<color=#FFD780FF>Yer Çekimi Dalgası</color>{/LINK} çağırır.\n<color=#FFD780FF>Yer Çekimi Dalgası</color>, alandaki aktif karakteri takip eder ve etrafındaki düşmanlara sürekli <color=#80C0FFFF>Su Alan Hasarı</color> verir. <color=#FFD780FF>Yer Çekimi Dalgası</color> alandayken yakındaki grup üyeleri Ay Tepkimelerini tetiklerse veya Ay Tepkimesi Hasarı verirse Columbina özel bir <color=#FFD780FF>Yer Çekimi</color> biriktirir. Yer Çekimi sınıra ulaştığında Columbina için en çok <color=#FFD780FF>Yer Çekimi</color> biriktiren Ay Tepkimesi türüne göre düşmanlara farklı türde hasarlar verilir.\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: <color=#FFD780FF>Yer Çekimi Dalgası</color> daha geniş bir alanda <color=#80C0FFFF>Su Alan Hasarı</color> verir.",
+        "Icon": "Skill_S_Columbina_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12539,
+      "Proud": {
+        "Descriptions": [
+          "Beceri Hasarı|{param1:F1P} Maks. Can",
+          "Ay Tepkimesi Hasar Bonusu|{param2:F1P}",
+          "Ay Alanı Süresi|{param3:F1}sn",
+          "BS|{param4:F1}sn",
+          "Enerji Maliyeti|{param5:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1253901,
+            "Level": 1,
+            "Parameters": [
+              0.3224,
+              0.13,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253902,
+            "Level": 2,
+            "Parameters": [
+              0.34658,
+              0.16,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253903,
+            "Level": 3,
+            "Parameters": [
+              0.37076,
+              0.19,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253904,
+            "Level": 4,
+            "Parameters": [
+              0.403,
+              0.22,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253905,
+            "Level": 5,
+            "Parameters": [
+              0.42718,
+              0.25,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253906,
+            "Level": 6,
+            "Parameters": [
+              0.45136,
+              0.28,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253907,
+            "Level": 7,
+            "Parameters": [
+              0.4836,
+              0.31,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253908,
+            "Level": 8,
+            "Parameters": [
+              0.51584,
+              0.34,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253909,
+            "Level": 9,
+            "Parameters": [
+              0.54808,
+              0.37,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253910,
+            "Level": 10,
+            "Parameters": [
+              0.58032,
+              0.4,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253911,
+            "Level": 11,
+            "Parameters": [
+              0.61256,
+              0.43,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253912,
+            "Level": 12,
+            "Parameters": [
+              0.6448,
+              0.46,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253913,
+            "Level": 13,
+            "Parameters": [
+              0.6851,
+              0.49,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253914,
+            "Level": 14,
+            "Parameters": [
+              0.7254,
+              0.52,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253915,
+            "Level": 15,
+            "Parameters": [
+              0.7657,
+              0.55,
+              20,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11255,
+      "Name": "Mehtap Melankolisi",
+      "Description": "Tepeler ve dalgalar, yeni ayın gümüş ışığı altında birleşir. Çevredeki araziyi geçici olarak {LINK#N11250002}<color=#FFD780FF>Ay Alanına</color>{/LINK} dönüştürür ve <color=#80C0FFFF>Su Alan Hasarı</color> verir.",
+      "Icon": "Skill_E_Columbina_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12521,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252101,
+              "Level": 1,
+              "Parameters": [
+                0.05,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252101,
+        "Name": "Ayın Delirten Çağrısı",
+        "Description": "{LINK#N11250001}<color=#FFD780FF>Yer Çekimi Müdahalesi</color>{/LINK} tetiklendiğinde Columbina, Delilik etkisi kazanır ve 10 saniyeliğine Kritik Oranını %5 artırır. Bu etki 3 kademeye kadar birikebilir.",
+        "Icon": "UI_Talent_S_Columbina_05"
+      },
+      {
+        "GroupId": 12522,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252201,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252201,
+        "Name": "Yeni Ayın Kanunu",
+        "Description": "{LINK#N11250002}<color=#FFD780FF>Ay Alanı</color>{/LINK} içindeki karakterler Ay Tepkimeleri tetiklediğinde sırasıyla şu etkileri kazanırlar:\n·<color=#FFD780FF>Ay Yüklü</color>: Şimşek Bulutu geçerli bir hedefe yıldırım darbeleri gönderdiğinde %33 ihtimalle ilave bir yıldırım darbesi daha gönderir.\n·<color=#FFD780FF>Ay Çiçeklenmesi</color>: Ay Çiçeklenmesi tepkimeleri tetiklendiğinde grup, özel bir <color=#FFD780FF>{LINK#N11250003}Ay Sırtı Çiyi{/LINK}</color> kazanır. Her 18 saniyede bir en fazla 3 Ay Sırtı Çiyi kazanılabilir.\n·<color=#FFD780FF>Ay Kristalleşmesi</color>: Ay Akıntısı Ahengi tetiklendiğinde her Ay Akıntısı %33 ihtimalle fazladan bir saldırı daha yapar.",
+        "Icon": "UI_Talent_S_Columbina_06"
+      },
+      {
+        "GroupId": 12523,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252301,
+              "Level": 1,
+              "Parameters": [
+                0.002,
+                0.07
+              ]
+            }
+          ]
+        },
+        "Id": 1252301,
+        "Name": "Ay Sembolü Kutsaması: Ödünç Verilen Ay Işığı",
+        "Description": "Bir grup üyesi Elektrik Yüklü, Çiçeklenme veya Su Kristalleşmesi tepkimesi tetiklediğinde bu tepkime sırasıyla Ay Yüklü, Ay Çiçeklenmesi veya Ay Kristalleşmesi tepkimesine dönüşür. Grup üyeleri tarafından verilen Ay Tepkimesi Hasarı, Columbina'nın Maks. Can değerine göre bir Temel Hasar artışı kazanır. Her 1.000 Maks. Can başına Ay Tepkimelerinin Temel Hasarı %0,2 artar. Bu artış en fazla %7 olabilir.\n\nAyrıca Columbina gruptayken grubun <color=#FFD780FF>Ay Sembolü</color> 1 seviye artar.",
+        "Icon": "UI_Talent_S_Columbina_07"
+      },
+      {
+        "GroupId": 12525,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1252501,
+        "Name": "Ay Nöbeti",
+        "Description": "Nod-Krai bölgesindeyken bir grup üyesi saf dışı kaldığında Columbina o karakteri diriltir. Karakterin dirildiğinde sahip olacağı Can miktarı, Columbina'nın Arkadaşlık Seviyesine bağlıdır. Bu etki her 100 saniyede bir gerçekleşebilir. Bu etki Zindanlarda, Ezici Zindanlarda veya Hiçlik Sarmalında tetiklenemez.\nAyrıca Columbina'nın Kuuvahkiden etkilenen hayvanlara karşı özel bir yakınlığı vardır...",
+        "Icon": "UI_Talent_S_Columbina_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1251,
+        "Name": "Çiçeklerin ve Tepelerin Parıltısı",
+        "Description": "Savaştayken <color=#FFD780FF>Ebedi Metcezir</color> Element Becerisi kullanıldığında derhal {LINK#N11250001}<color=#FFD780FF>Yer Çekimi Müdahalesi</color>{/LINK} etkisine eşdeğer bir etki tetiklenir. Bu etki 15 saniyede bir tetiklenebilir.\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>\nYer Çekimi Müdahalesi tetiklendiğinde Columbina için en çok Yer Çekimi biriktiren Ay Tepkimesi türüne bağlı olarak farklı etkiler tetiklenir:\n·<color=#FFD780FF>Ay Yüklü</color>: Mevcut aktif karakterin 6 Enerji yeniler.\n·<color=#FFD780FF>Ay Çiçeklenmesi</color>: Aktif karakterinin müdahaleye karşı direnci 8 saniyeliğine artar.\n·<color=#FFD780FF>Ay Kristalleşmesi</color>: Bir <color=#FFD780FF>Yağmur Denizi Kalkanı</color> çağırır. Yağmur Denizi Kalkanının Hasar Emilimi, Columbina'nın Maks. Canının %12'sine eşittir ve 8 saniyeliğine <color=#80C0FFFF>Su Hasarını</color> %250 verimlilikle emer.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %1,5 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Columbina_01"
+      },
+      {
+        "Id": 1252,
+        "Name": "Yalnızlığın İhtişamı",
+        "Description": "{LINK#N11250001}<color=#FFD780FF>Yer Çekimi</color>{/LINK} biriktirme oranı %34 artar.\n<color=#FFD780FF>Yer Çekimi Müdahalesi</color> tetiklendiğinde Columbina, 8 saniyeliğine Maks. Canını %40 artıran <color=#FFD780FF>Ay Parlaklığı</color> etkisini kazanır.\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>:\n<color=#FFD780FF>Ay Parlaklığı</color> etkinken mevcut <color=#FFD780FF>Yer Çekimi Müdahalesi</color> tetiklenmesi sırasında Columbina için en çok Yer Çekimi biriktiren Ay Tepkimesi türüne bağlı olarak farklı etkiler tetiklenir:\n·<color=#FFD780FF>Ay Yüklü</color>: Mevcut aktif karakterinin Saldırısı, Columbina'nın Maks. Canının %1'i kadar artar.\n·<color=#FFD780FF>Ay Çiçeklenmesi</color>: Mevcut aktif karakterinin Element Ustalığı, Columbina'nın Maks. Canının %0,35'i kadar artar.\n·<color=#FFD780FF>Ay Kristalleşmesi</color>: Mevcut aktif karakterinin Savunması, Columbina'nın Maks. Canının %1'i kadar artar.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %7 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Columbina_02"
+      },
+      {
+        "Id": 1253,
+        "Name": "Sakin Sularda Rüya Gibi Bir Parıltı",
+        "Description": "<color=#FFD780FF>{LINK#S11252}Ebedi Metcezir{/LINK}</color> Element Becerisi Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15'tir.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %1,5 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_U_Columbina_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1254,
+        "Name": "Çiçek Kokulu Sisler, Bulut Kaplı Tepeler",
+        "Description": "{LINK#N11250001}<color=#FFD780FF>Yer Çekimi Müdahalesi</color>{/LINK} tetiklendiğinde Columbina'ya 4 Element Enerjisi yenilenir.\nAyrıca Columbina için en fazla <color=#FFD780FF>Yer Çekimi</color> biriktiren Ay Tepkimesi türü eğer Ay Yüklü, Ay Çiçeklenmesi veya Ay Kristalleşmesi ise Yer Çekimi Müdahalesinin bu sefer verdiği Ay Tepkimesi Hasarı, sırayla Columbina'nın Maks. Canının %12,5/%2,5/%12,5'i kadar artar. Bu etki her 15 saniyede en fazla bir defa tetiklenebilir.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %1,5 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Columbina_03"
+      },
+      {
+        "Id": 1255,
+        "Name": "Sessizliğin Yalnız Şarkısı",
+        "Description": "<color=#FFD780FF>{LINK#S11255}Mehtap Melankolisi{/LINK}</color> Element Patlaması Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15'tir.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %1,5 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_U_Columbina_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1256,
+        "Name": "Ay Işığında Karanlığın İçinden",
+        "Description": "{LINK#N11250002}<color=#FFD780FF>Ay Alanı</color>{/LINK} içindeki karakterler bir Ay Tepkimesi tetikledikten sonra 8 saniye boyunca, tepkimedeki elementlerde tüm grup üyeleri tarafından verilen ilgili Element Hasarının Kritik Hasarı %80 artar. Aynı Element Türü için Kritik Hasar artışı etkileri birikmez.\n\nYakındaki tüm grup üyelerinin Ay Tepkimesi Hasarı %7 {LINK#N11190007}<color=#FFD780FF>yükselir</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Columbina_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Yeni Ayın Eve Dönüşü",
+    "Detail": "Nod-Krai'da doğan Ay Hanımı ve evine geri dönen yeni ay.",
+    "Association": 12,
+    "Native": "Gümüş Ay Salonu",
+    "BirthMonth": 1,
+    "BirthDay": 14,
+    "VisionBefore": "Su",
+    "VisionAfter": "Su",
+    "VisionOverrideLocked": "???",
+    "VisionOverrideUnlocked": "Üç Ayın Birleşimi",
+    "ConstellationBefore": "???",
+    "ConstellationAfter": "Columbina Hyposelenia",
+    "CvChinese": "杨梦露",
+    "CvJapanese": "Lynn",
+    "CvEnglish": "Emi Lo",
+    "CvKorean": "Yu Yeong",
+    "CookBonus": {
+      "OriginItemId": 108938,
+      "ItemId": 108950,
+      "InputList": [
+        101262,
+        101268,
+        101265,
+        101264
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Sohbet: Şarkı Söylemek",
+        "Context": "Birileri dinlesin diye şarkı söylemiyorum. Yine de durup dinleyen olursa onlara biraz olsun huzur vermeyi dilerim."
+      },
+      {
+        "Title": "Sohbet: Ayı Seyretmek",
+        "Context": "Ayı seyretmeye ne dersin? Sallanan sandalyeme oturup manzaranın tadını çıkarabilirsin. Ya da aya gidip Teyvat'a yukarıdan bakabiliriz. Sen nasıl istersen."
+      },
+      {
+        "Title": "Sohbet: Uzun Yürüyüşler",
+        "Context": "Eskiden her gün Gümüş Ay Salonu'nda uzun yürüyüşler yapardım, bu yüzden beni merak etme. Ayak uydurabilirim."
+      },
+      {
+        "Title": "Merhaba",
+        "Context": "Bana Columbina, Kuutar veya Ay Tanrıçası diyebilirsin... Nasıl istersen. Birçok ismim olmasına alışkınım. Ne zaman ihtiyacın olursa ayın lütfunu bahşedebilirim sana."
+      },
+      {
+        "Title": "Yağmur Yağdığında",
+        "Context": "Bir yere sığınıp yağmurun dünyayı temizlemesini dinlemek tıpkı \"evimdeymişim\" gibi güvende hissetmemi sağlıyor."
+      },
+      {
+        "Title": "Yağmurdan Sonra",
+        "Context": "Hava yine açtı. Bu gece ayı görebiliriz."
+      },
+      {
+        "Title": "Yıldırım Düştüğünde",
+        "Context": "Ah! Şimşeğin çaktığını göremeyince... Gök gürültüsünü duymak epey ürkütücü oluyor..."
+      },
+      {
+        "Title": "Kar Yağdığında",
+        "Context": "Karı seviyorum. Çok güzel ve huzurlu, ayrıca Kuuhenkilerle kar topu oynayabiliyorum. Sen de oynamak ister misin?"
+      },
+      {
+        "Title": "Rüzgar Şiddetlendiğinde",
+        "Context": "Rüzgar gözlerini açamayacağın kadar kuvvetliyse bana elini ver. Sana rehberlik ederim."
+      },
+      {
+        "Title": "Çölde",
+        "Context": "Kum geceleri serin olur ve üzerinde rahatça yürünebilir, fakat gündüzleri çok sıcaktır..."
+      },
+      {
+        "Title": "Günaydın",
+        "Context": "Günaydın... Saç tokamı gördün mü? Hımm? Saçım dağınık mı görünüyor? Neresi? Benim için tarar mısın?"
+      },
+      {
+        "Title": "İyi Günler",
+        "Context": "Hımm... Ay henüz doğmadı. Sanırım Kuuhenkilerle biraz uyuyacağım."
+      },
+      {
+        "Title": "İyi Akşamlar",
+        "Context": "\"Gece çöküyor\"... Oldukça ilginç bir ifade, değil mi? Sanki gece her akşam aya takılıp yere düşüyormuş gibi."
+      },
+      {
+        "Title": "İyi Geceler",
+        "Context": "Uyuyamıyor musun? Hımm... Kuuhenkilere de oluyor bazen. Öyle anlarda genelde onlara şarkı söylüyorum ya da hikaye anlatıyorum. Senin için de aynısını yapmamı ister misin?"
+      },
+      {
+        "Title": "Columbina Hakkında: Göz Bandı",
+        "Context": "Kuuvahki ile bir şeyleri \"hissetmeye\" alışığım. Nesnelere dair gerçekleri, onları \"görmeye\" kıyasla daha iyi ortaya çıkarıyor. Yine de bazen merakıma yenik düşüp çaktırmadan gözlerimi açıyorum. Delikli bir göz bandına sahip olmanın güzel yanı da bu."
+      },
+      {
+        "Title": "Columbina Hakkında: Ev",
+        "Context": "Bu topraklara sonsuza dek yabancı kalacağımı, gerçek \"evim\"in ay olduğunu düşünürdüm. Şimdiyse evim diyebileceğim bir yer daha var, üstelik artık iki evim de bana daha yakın."
+      },
+      {
+        "Title": "Hakkımızda: Büyük Başarılarımız",
+        "Context": "Seninle tanışmadan çok önce adını duymuştum. Fatui'deyken diğer Habercilerin senin başarılarından bahsettiklerini hatırlıyorum. Ama o kadar çok unvanın var ki onlar daha senin adına gelemeden uyuyakalırdım."
+      },
+      {
+        "Title": "Hakkımızda: Seyahat",
+        "Context": "Bana birkaç seyahat tüyosu verebilir misin? Mesela... Başka milletlerden insanlarla nasıl konuşulur gibi. Hımm? Ateş yakma becerilerine, avlanma tekniklerine ve... Ulaşıma daha mı çok odaklanmalıyım? Hım. Hepsi için Kuuvahki kullansam olmaz mı?"
+      },
+      {
+        "Title": "\"Üç Ayın Birleşimi\" Hakkında",
+        "Context": "Üç tanrıça güçlerini bana bahşetti ve bu güçler hem göz kamaştırıcı hem de nazik bir kuvvette birleşti. Bu sayede onların bu yere olan bağlılıklarını ve son anlarında bu dünyaya sundukları umutları ve dilekleri hissedebiliyorum. Onların ay ışığını miras alacak ve onu ayın altındaki, hepimizin \"ev\" dediği dünyayı aydınlatmak için kullanacağım."
+      },
+      {
+        "Title": "Paylaşılacak Bir Bilgi",
+        "Context": "Snezhnaya'da Fatui Habercilerinin Üçüncüsü olmak pek çok avantaj sağlıyordu. Tren bileti almak ya da Korolevskiy Topluluğu için sırada beklemek zorunda kalmazdım... Ha, bir restoranda yemek yediğimdeyse... \"Masraf iade edilirdi\"... Bunlar bana fazla karmaşık geldiğinden genelde Sandrone veya Arlecchino'nun peşine takılırdım."
+      },
+      {
+        "Title": "İlginç Şeyler",
+        "Context": "Ay hayal edebileceğimden çok daha güzel. Sonsuz bir okyanus gibi akan mavi Kuuvahki, denizde süzülen muhteşem denizanaları, bilinmeyen yerlerden gelen pembe buz yüzgeçli balinalar, devasa Kuuhenkiler... Hepsi muhteşem. Evimi biraz daha düzene soktuğumda arkadaşlarımı ziyarete davet edeceğim."
+      },
+      {
+        "Title": "Lauma Hakkında",
+        "Context": "Lauma'nın kafasına bir ay ışığı demeti doğrultmak, boynuzlarının daha da uzamasını sağlar ve açıyı doğru ayarlarsan onlarla ulaşamayacağın yükseklikteki bir meyveyi bile alabilirsin... Hımm? Sonra ne mi olur? Ha, şey... Fırçayı yersin."
+      },
+      {
+        "Title": "Nicole Hakkında",
+        "Context": "Kısa bir süre öncesine kadar iletişimimiz vardı. Ondan Kuuhenkilere okumam için birkaç kitap önermesini istemiştim, o da bir sürü göndermiş sağ olsun. Hatta her birinin ilham kaynağı ve geçtiği yer hakkında detaylı açıklamalar da eklemiş. Ona kendi yazdığı bir kitabı ne zaman okuyabileceğimi sordum ama sonra aniden ondan haber alamamaya başladım. Belki de... Kitap yazmaya başlamıştır."
+      },
+      {
+        "Title": "Neuvillette Hakkında",
+        "Context": "Fontaine'in Iudex'i olan Su Ejderhası mı? Hımm... İnsanları hapse atan başka bir Ejderha... Onunla tanışmak isteyeceğimden emin değilim."
+      },
+      {
+        "Title": "Yediler Hakkında",
+        "Context": "Yolculuğum sırasında yollarımız kesişirse mutlaka selam veririm."
+      },
+      {
+        "Title": "Çariçe Hakkında",
+        "Context": "Zapolyarny Sarayı'nın bahçelerinde ilk şarkı söylediğimde Çariçe de tesadüfen oradan geçiyordu. Orada yüzüne hiçbir ifade oyulmamış bir heykel gibi sessiz ve hareketsiz durdu. Bir anlığına bana bir şey söylemek istediğini hissettim ama hiçbir şey söylemedi.\nDuygularını kalın buz tabakalarının altına mühürler. Dış dünya onun yalnızca tek bir yüzünü görür... Yani Çariçe olan yüzünü. Eğer benim aradığım cevaplar ayda gizliyse belki onunkiler de karın ve buzun içinde gömülüdür."
+      },
+      {
+        "Title": "Soytarı Hakkında",
+        "Context": "Kod adıyla tamamen zıt ve bu bilinçli yapılmış gibi duruyor. \"Soytarı\" olarak bilinmesine rağmen ses tonu sert ve ciddi, ayrıca kafa karıştıran bilmecelerle konuşuyor. Taktığı maske dünyayla alay eden bir sırıtışı betimlese de kendisi asla gülmez."
+      },
+      {
+        "Title": "Yüzbaşı Hakkında",
+        "Context": "Çoğu kişi ona saygı duyar, bir o kadarı da ondan korkar. Hımm? Bu çok mu kafa karıştırıcı? Şöyle ki karanlıkta yaşamaya alışmış yaratıklar asla ışığa yaklaşmayı tercih etmezler. Işık onlar için tehlikelidir çünkü sadece gölgelerini uzatır."
+      },
+      {
+        "Title": "Doktor Hakkında",
+        "Context": "Bir zamanlar \"Doktor\" benimle çok güzel ilgilenirdi, hatta beni kız kardeşi gibi gördüğünü söylemişti.\nAncak sonradan anladım ki ona ne kadar yakın olursan seni o kadar rahat kullanıyor. \"Aile arasında rahatsızlığın lafı mı olurmuş? Birbirimiz için katlanırız.\" Olaylara böyle bakıyordu ve bu konuda samimi olduğunu anlayabiliyordum ama ben bir şeylere \"katlanmak\" zorunda kalmak istemiyordum. Bu tür beklentiler... Beni ilk evime, sunağın altından bana bakan doyumsuz gözlere geri götürüyordu."
+      },
+      {
+        "Title": "Arlecchino Hakkında",
+        "Context": "Taş Yuva birçok çocuğa ev sahipliği yapıyor ve epey gürültülü olabiliyor. Onların Arlecchino'ya \"Baba\" diye seslendiğini ilk duyduğumda bunun orada uyulması gereken bir kural olduğunu sanmıştım. Bu yüzden bir dahaki sefer yanımdan geçerken ben de öyle seslendim. İşte o zaman Taş Yuva'nın ne kadar sessiz olabileceğini öğrendim."
+      },
+      {
+        "Title": "Horoz Hakkında",
+        "Context": "Sana tıpkı onun gibi konuşmayı öğretebilirim. Tek yapman gereken \"para\", \"o lanet Pantalone\" ve \"şuraya yazıyorum\" kelimelerini bir araya getirmek. Hemen göstereyim. \"Para nerede? Şuraya yazıyorum, o lanet Pantalone'yi öldüreceğim.\" Ya da, \"O lanet Pantalone parayı er ya da geç verecek, şuraya yazıyorum.\" Nasıl ama? Büyüleyici, değil mi?"
+      },
+      {
+        "Title": "Sandrone Hakkında: Kurmalı Olmak",
+        "Context": "Sırtındaki kurma kolu hiç duruyor mu diye merak ediyorum. Yön değiştiriyor mu? Uyurken onu çıkarıyor mu? Yatarken nasıl dönüyor? Onu ilk gördüğümden beri kurma kolu hep ilgimi çekmiştir. Ama o zamanlar yakın olmadığımız için gidip dokunmam doğru olmazdı. Bu yüzden fırsat buldukça arkasından yürür ve kurma kolunun hareketindeki düzeni anlamaya çalışırdım. Ancak bir gün aniden arkasına döndü ve neden onu sürekli takip ettiğimi sordu. Ona nedenini söylediğimde \"Madem bu kadar meraklısın, senin sırtına da bir tane takayım da kendin gör.\" dedi. Böylece birkaç gün sırtımda bir kurma koluyla yaşadım ve oldukça zordu. Sandrone'nin işi hiç kolay değil, o günden sonra onu daha bir gözetmeye başladım."
+      },
+      {
+        "Title": "Sandrone Hakkında: Kurmalı Olmak II",
+        "Context": "Bir kukla için \"ölüm\"ün ne anlama geldiğinden emin değilim... Tek bildiğim, Sandrone hareket etmiyor ve onun \"çalıştığını\" hissedemiyorum. Kurma kolu... Durdu. Ve tüm bunlar beni geri getirmek için kullandığı o \"teknik\" yüzünden oldu. Bir keresinde benden intikam alacağını söylemişti. Keşke bütün bunlar sadece beni korkutmaya yönelik bir girişim olsaydı..."
+      },
+      {
+        "Title": "Madrabaz Hakkında",
+        "Context": "Onun gözünde her şeyin ve herkesin bir fiyat etiketi vardır ve hepsinin değerine o karar verir. Bizler onun sürekli büyüyen servet imparatorluğunu genişletmek için kullanabileceği birer pazarlık kozuyuz. Ama kim böyle sıkıcı bir imparatorluğu ziyaret etmek ister ki? Ben istemem, orası kesin.\nHımm... Beni şimdi görseydi gülümsemesi eskisinden bile daha fazla küçümseme barındırırdı kesin. Sesi kulaklarımda yankılanıyor adeta: \"Tebrikler Bayan Columbina. Değeriniz arttı.\""
+      },
+      {
+        "Title": "Rosalyne Hakkında",
+        "Context": "Eğer dönüşüm, kanatların alevler içinde kalmasıyla bitecekse belki de hayatta kalmanın yolu kozadan çıkmamaktır. Ama Rosalyne'in böyle bir seçim yapmayı aklından bile geçirdiğini sanmıyorum, hatta belki de en başında kendi sonunu kendisi belirlemiştir. Gerek sevgi gerek nefret gerekse basit bir dans olsun, tüm meşgalelerine dört elle sarılırdı... Onun ardından ağıt yakma işi de başkalarına kalmış oldu."
+      },
+      {
+        "Title": "Asilzade Hakkında",
+        "Context": "Ailesiyle iyi ilişkileri olduğunu duydum. Birlikte kampa gidiyor ve göl kenarında barbekü yapıyorlarmış. Sandrone, onun Haberciler arasında en sıradan hayatı yaşayan kişi olduğunu söylüyor. Sıradan insanları pek anlamasam da bu tür bir yaşam kulağa hoş geliyor."
+      },
+      {
+        "Title": "Columbina Hakkında Daha Fazlası: I",
+        "Context": "Ha? Benim hikayem mi? Şey... Bunu anlatmak biraz uzun sürebilir. Aa, çay ve atıştırmalık mı getirdin? Peki o zaman, biraz daha anlatabilirim sanırım."
+      },
+      {
+        "Title": "Columbina Hakkında Daha Fazlası: II",
+        "Context": "İnsanlarla nasıl iletişim kuracağımı ve bu dünyada hayatımı nasıl sürdüreceğimi öğrenmek için çok zaman harcadım. Ama şimdi geriye dönüp baktığımda Donuk Ayın Çocukları ve Fatui ile yaşadığım deneyimlerin pek de öğretici olmadığını görüyorum. Uzun bir süre boyunca ilişkilerin çıkar üzerine kurulu olduğunu, tek amacın ne elde edeceğini ve bunun bedelinin ne olacağını anlamak olduğunu düşündüm."
+      },
+      {
+        "Title": "Columbina Hakkında Daha Fazlası: III",
+        "Context": "Kuuhenkilere hikayeler anlatmayı ve şarkı söylemeyi seviyorum. Ben doğmadan önce de hayatımda olan ve o zamandan beri yakamdan düşmeyen bir boşluk var. Hikayem en başından beri eksikti, bu yüzden boşlukları doldurmak için başka hikayeleri kullanmayı öğrendim. Bu tıpkı... Resim çizmeye benziyor. Taslağı sözcüklerle çizip şarkıyla renklendiriyorum."
+      },
+      {
+        "Title": "Columbina Hakkında Daha Fazlası: IV",
+        "Context": "Ay Duası Gecesinde kendi ismimi aldım: Columbina Hyposelenia. Eskiden isimlerin sadece bir takma ad görevi gördüğünü, yani kişinin kendinden ayrı bir şey olduğunu düşünürdüm. Ama o geceden sonra fark ettim ki ismim beni bu dünyaya ve içindeki insanlara bağlayan şey... Elle tutulmaz olan her şeyi temsil ediyor: Onların dostluğu, sevgisi ve desteğinin vücut bulmuş hali. Onu sonsuza dek yaşatacağım."
+      },
+      {
+        "Title": "Columbina Hakkında Daha Fazlası: V",
+        "Context": "Hikayem tersten oynatılan bir operayı andırıyor. Sonu önce geldi ve ben nedenlerini, niçinlerini aramakla yetindim. Ama geri dönüp her şeyi baştan yapma şansım olsa hiçbir şeyi değiştirmezdim. Şimdiki halimden memnunum. Bu yolculuk olmasaydı Nod-Krai'da doğmanın kendi seçimim olduğunu asla bilemezdim, arkadaşlarım gerçek \"ailemle\" bağ kurmama asla yardım edemezdi ve sen de o gece Luonnotarı Gümüş Ay Salonu'na kadar takip etmezdin. Hikayem bambaşka bir şekilde eksik kalırdı. O versiyonu hiç sevmiyorum."
+      },
+      {
+        "Title": "Columbina'nın Hobileri",
+        "Context": "Aya çıkıp Teyvat'ın sessizce dönmesini izlemeyi severim. Bu bana huzur veriyor."
+      },
+      {
+        "Title": "Columbina'nın Sorunları",
+        "Context": "Keşke Nasha Kasabası'nda normal bir insan gibi dolaşabilseydim... Ama beni herkes tanıyor. Acaba kıyafetimden dolayı mı? Yoksa kasabadaki Kuuhenkilerle konuştuğum için mi? Normal insanlar bunu yapmıyor mu?"
+      },
+      {
+        "Title": "En Sevdiği Yemek",
+        "Context": "Taze meyve ve sebzeler, yanında mis kokulu bir ekmek... Hımm? Şey, biraz basit kaçıyor ama ben buna alışkınım. Nod-Krai'da doğduğumda Donuk Ayın Çocukları bana bunları veriyordu. Küçük hayvanlar da topladıkları böğürtlenleri sık sık benimle paylaşırdı. Yiyecekleri en doğal halleriyle seviyorum. Bu, dünyayı olduğu gibi görmemizi sağlıyor."
+      },
+      {
+        "Title": "En Sevmediği Yemek",
+        "Context": "\"Ateş Suyu\" ve diğer sert içkiler. Snezhnaya'da böyle çok içki var. Orada uzun süre kaldım ama onlara asla alışamadım. Dünya dönmeye başlıyor ve sanki için yanıyormuş gibi hissediyorsun. İnsanların bu histen neden keyif aldığını anlamıyorum. Acaba... Onlar da mı aya doğru süzülmek istiyorlar?"
+      },
+      {
+        "Title": "Hediye Alma: I",
+        "Context": "Daha çok lütfen. Hımm? Ha, bu kadar mıydı? Bir dahaki sefere birazını kenara ayırayım bari."
+      },
+      {
+        "Title": "Hediye Alma: II",
+        "Context": "Çok hoş. Ay ışığı altında tadını çıkaracağım."
+      },
+      {
+        "Title": "Hediye Alma: III",
+        "Context": "Ah... Sandrone de bana her kızdığında böyle şeyler verirdi..."
+      },
+      {
+        "Title": "Doğum Günü",
+        "Context": "Doğum günün her yıl aynı günde mi? Vay canına, hatırlaması ne kadar kolay. Ay Duası Gecesi her yıl farklı zamanlarda düzenleniyor, bu yüzden doğum günümü sadece ayı hissederek tahmin edebiliyorum. Doğum günü ne kadar da neşeli bir olay, değil mi? Herkes dans etmek için toplanıyor ve insanlar sana lezzetli adaklar sunuyor. Hı? Sıradan insanların doğum günleri böyle değil mi? Hediye, pasta ve arkadaşlar mı oluyor? Ha, o da olur. Arkadaşlarını kutlamaya davet edelim. Sana şarkı söylerim, hatta Maalaus'tan senin için bir resim yapmasını isteyebiliriz."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Giriş",
+        "Context": "Ebedi Ay yükseltir dalgaları."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Gelişme",
+        "Context": "Donuk Ay aydınlatır geceyi."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Zirve",
+        "Context": "Hareli Ay derinleştirir karanlığı."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Sonuç",
+        "Context": "Artık kaderin iplerini ellerimde tutuyorum. Bundan böyle yeni ay aşağıdaki dünyayı gözetip aydınlatacak."
+      },
+      {
+        "Title": "Element Becerisi: I",
+        "Context": "Akıp git."
+      },
+      {
+        "Title": "Element Becerisi: II",
+        "Context": "Dalgalan."
+      },
+      {
+        "Title": "Element Becerisi: III",
+        "Context": "Küçül."
+      },
+      {
+        "Title": "Element Patlaması: I",
+        "Context": "Yeni bir ay doğuyor."
+      },
+      {
+        "Title": "Element Patlaması: II",
+        "Context": "Üç ay birleşiyor."
+      },
+      {
+        "Title": "Element Patlaması: III",
+        "Context": "Herkes için mehtaplı bir gece."
+      },
+      {
+        "Title": "Hazine Sandığı Açma: I",
+        "Context": "Buna \"hoş bir sürpriz\" diyorlar, değil mi?"
+      },
+      {
+        "Title": "Hazine Sandığı Açma: II",
+        "Context": "Hımm, onlar da mı evden kaçmış?"
+      },
+      {
+        "Title": "Hazine Sandığı Açma: III",
+        "Context": "Sende kalsın. Artık adaklara ihtiyacım yok."
+      },
+      {
+        "Title": "Düşük Can: I",
+        "Context": "Başım dönüyor..."
+      },
+      {
+        "Title": "Düşük Can: II",
+        "Context": "Her şey kararıyor..."
+      },
+      {
+        "Title": "Düşük Can: III",
+        "Context": "Pek iyi değilim..."
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: I",
+        "Context": "Başın mı dönüyor? İzin ver ben halledeyim."
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: II",
+        "Context": "Biraz dinlenmeye ne dersin?"
+      },
+      {
+        "Title": "Yere Serilme: I",
+        "Context": "Gece göğü... Bir kez daha... Kararıyor..."
+      },
+      {
+        "Title": "Yere Serilme: II",
+        "Context": "Ay... Küçüldü..."
+      },
+      {
+        "Title": "Yere Serilme: III",
+        "Context": "Evden ayrılmanın... Bedeli..."
+      },
+      {
+        "Title": "Hafif Darbe Alma: I",
+        "Context": "İyiyim..."
+      },
+      {
+        "Title": "Ağır Darbe Alma: I",
+        "Context": "Ah!"
+      },
+      {
+        "Title": "Ağır Darbe Alma: II",
+        "Context": "... Neden?"
+      },
+      {
+        "Title": "Gruba Katılma: I",
+        "Context": "Sana biraz ay ışığı ödünç vereyim."
+      },
+      {
+        "Title": "Gruba Katılma: II",
+        "Context": "Uzun süreliğine mi gidiyoruz?"
+      },
+      {
+        "Title": "Gruba Katılma: III",
+        "Context": "Peşinden geleceğim."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Karakter Ayrıntıları",
+        "Context": "Gündüz mü, gece mi?\nGece tabii ki. Gündüz dünyası, onun anlayamadığı bir sürü kelimeyle doluydu. \"Kuutar\", \"Küçük Hanım\", \"Tanrıça\"... Bu kelimelerin ayna gibi olduğunu bilirdi ve her biri onun bu yabancı dünyadaki bir versiyonunu yansıtırdı. Ama bunlar başkalarının görmek istediği versiyonlardı. Kendini o yansımalarda tanımıyordu, tıpkı gökyüzünde asılı duran ayı tanımadığı gibi. En azından geceleri, göklerin ötesinden gelen çekimi net bir şekilde hissedebiliyordu. Bu çekimin sesi yoktu ama o her şeyi anlamıştı. Donuk Ay onu evine çağırıyordu.\n...\nBahar mı, yaz mı, güz mü, kış mı?\nKesinlikle kış. Baharın telaşı, yazın gürültüsü ve güzün bolluğu geçip gidince kışın beyaz örtüsü dünyanın dudaklarına sessizce bir sus işareti yapardı. \"Şşş, onca koşuşturmadan sonra sence de sessizlik zamanı gelmedi mi?\" diye soruyordu adeta.\nVe böylece dünya usulca sessizliğe gömülürdü. Küçük hayvanlar da evlerine çekilirdi. Ancak kış geldiğinde anlardı insanoğlu sıcak bir \"evin\" önemini.\nColumbina'ya gelirsek... O, kalın ve yumuşak bir kar yığını bulup nefesini tutarak kendini dosdoğru içine atmaya bayılırdı. Soğuktan pek etkilenmeyen bir tanrıça olduğu için o narin beyaz karın tüm bedenini sarması ona tek kelimeyle muhteşem hissettirirdi. Meslektaşlarının bu halini anlayıp anlamaması ise... Açıkçası hiç umurunda değildi.\n...\nGüneşli mi? Yağmurlu mu? Yoksa bulutlu mu?\nYağmurlu bir sabah. Columbina, Gümüş Ay Salonu'nun ötesinden gelen hafif yağmurun sesine uyandığında içine derin bir huzur dolardı. Bir kubbenin altına sığınmış olmanın getirdiği histi bu.\n\"Sığınak.\" Yağmurun ritmiyle birlikte bu kelime, yenilenmiş bir güçle yankılanıp \"ev\" kavramının en temel anlamını çağrıştırıyordu. Sırf bu anlamın bir uzantısı olarak var olmak bile Columbina'nın içini sıcacık yapmaya yetiyordu.\nYine de... Gökyüzü açıkken akşamlar daha güzeldi.\n...\nBu sorulara verdiği cevaplar gerçekten doğru muydu? Bir gün değişebilirler miydi? Columbina bu düşünceleri zihninde evirip çevirdi.\nMuhtemelen hayır. Ama öyle olsaydı bile bu cevaplar şu an için onun en sahici halini yansıtıyordu; bu geceki en sahici halini.\nOrmanlar, göller ve açık denizler... En çok hangisini seviyordu?\nTabii ki hepsini."
+      },
+      {
+        "Title": "Karakter Hikayesi 1",
+        "Context": "Duyduğu ilk şey bir şarkıydı.\n♪ Uyusun da büyüsün küçük güvercinim ♪...\n♪ Açsın camında çiçekler ve tatlı düşler ♪...\n...\nKimin sesiydi bu? Uzaktan belli belirsiz geliyor, ninni gibi. Tıpkı bir hikayenin başlangıcı ve aynı zamanda sonu gibi...\nArdından ayaklarının altındaki toprağın hissi geldi.\nİnce taneli, sıcak ve nazik. Tanıdık bir gücü taşıyor. Kendi vücudunun bir parçası ya da doğmadan önce onu sarmalayan yaşam suyu gibi...\nVe böylece gözlerini açtı.\nAy ışığı havada süzülürken birkaç küçük dostu onun belli belirsiz ipliklerini yakalayıp ona giysiler ördü.\nÇok, çok uzakta bir şey onu çağırıyordu. Bir çekim, bir bağ. Tıpkı bir bebekle annesi arasındaki henüz kopmamış göbek bağı gibi.\nGözlerini açtı fakat gökyüzü bomboştu. Sadece bir perdeden, bir yalandan ibaretti. Yıldızlarla kaplı o göğü ilk gördüğü an nasıl olduysa sahte olduğunu hemen anladı. Ve onu ötesindeki şeye bağlayan her neyse, bu yalan perdesi tarafından koparılıp atılmıştı.\nNeden burada doğmuştu? Ya da daha doğrusu, neden doğmuştu ki? O kimdi? Ve o şarkı söyleyen ses kime aitti?\nZihninin derinliklerinden birbiri ardına sorular yükseldi. Ama dünya, yanıt olarak bir yankı bile göndermedi. Bazen duymamak, görmemekten daha korkutucuydu.\nBu soruların sonsuza dek peşini bırakmayacağını hissetti.\nGözlerini kapattı. Hakikat, yalan perdesinin altında bulunamazdı."
+      },
+      {
+        "Title": "Karakter Hikayesi 2",
+        "Context": "Columbina, Fatui'ye ilk katıldığında buranın Donuk Ayın Çocuklarından çok farklı olduğunu hemen fark etti.\nKimse ondan mantıksız taleplerde bulunmuyor gibiydi. Kimse ondan bir şey arzulamıyor ya da ona tapmıyor gibiydi, en azından görünürde öyleydi.\n\"Meslektaş\" kavramı da ona yeniydi. Bunun içinde hem yabancı hem de son derece çekici bir şey seziyordu. Zaman zaman tanıdık bir \"takas\" mantığıyla harmanlanmış bir eşitlik duygusuydu bu. Bu yaşam tarzına hâlâ ayak uydurmaya çalışıyordu.\nOna ilk yaklaşan Doktor oldu. Columbina, bu meslektaşının sözlerinde bir hayranlık sezdi. Bu, tapınma gibi değildi, en azından eşitlik temeline dayanıyordu.\n\"Sakıncası yoksa küçük bir işte bana yardım edebilir misin?\" diye kibarca sordu meslektaşı.\nYardım mı? Bunun karşılığında bir şey vermek zorunda olduğunu düşünmüştü ama aslında bir seçeneği vardı. Ya da belki de ona bu seçeneği sunan, bu meslektaşının ta kendisiydi.\nDoktor'un sözleri, uzaktaki bir fırtınanın belli belirsiz yankısı gibi hafif ve tekinsiz bir tını taşısa da bir seçeneğe sahip olma hissi inkar edilemez derecede tatmin ediciydi.\nBaşta her şey yolunda gitti. Doktor'un laboratuvarı her türlü tuhaf cihazla doluydu ve Columbina'nın yapması gereken tek şey hafifçe gücünü uygulamak ve bir şeyleri manipüle etmekti, böylece her şey yoluna girecekti.\n\"Fena değil. Gayet iyi iş çıkardın.\"\nColumbina övülmekten hoşlanıyordu. Bu onun için yeni, alışılmadık bir deneyimdi.\nAncak çok geçmeden, iltifatlar yerini \"Yeterince iyi değil.\" \"Daha iyisini yapabilirsin.\" ya da \"Bundan fazlasına muktedirsin...\" gibi sözlere bıraktı.\nBir anda Columbina, Doktor'un gördüğü şeyin kendisi değil, olması gereken bir versiyonu ya da güçlerinin ulaşması gereken seviye olduğunu fark etti. Bu ona Fatui'ye katılmadan önceki günleri hatırlattı...\nKalbine bir üzüntü saplandı. Acaba başka biri de sadece kendisi olduğu için üzgün hissetmiş miydi? Başkalarının böyle hissedip hissetmediğini bilmiyordu ama o hissediyordu.\nBaşkalarının beklentilerine uyup uymaması değildi mesele, fakat onların gördüğü kişi o değildi. Gerçek Columbina, bir partinin istenmeyen çocuğu gibi kenarda yalnız bırakılmıştı..."
+      },
+      {
+        "Title": "Karakter Hikayesi 3",
+        "Context": "... Gidip bir şeyler yiyeyim bari.\nMutlu hissetmediği zamanlarda Columbina hep yapmaktan hoşlandığı şeylere yönelirdi. Karnını doyurmak bunlardan sadece biriydi ve tatmin edilmesi en kolay olanıydı.\n\"B-Ben gerçekten çok özür dilerim Haberci Leydimiz...\" Restorandan ayrılırken biri ona seslendi ve titreyerek bir kağıt parçası uzattı. Columbina görememişti ama bir şekilde hatırladı. Bu, yemek yedikten sonra gerçekleşmesi gereken bir işlemin parçasıydı. Donuk Ayın Çocuklarındaki prosedürlerden farklıydı.\nSorun şuydu ki hâlâ buna alışamamıştı. Bunun bir tür \"takas\" ayini içerdiğini biliyordu ama bunu yaptığı birkaç seferde de hep yeni tanıştığı iki meslektaşı Arlecchino ve Sandrone ile birlikteydi. Daha doğrusu onlar bunu Columbina'nın yerine yapmışlardı.\nColumbina ne yapacağını bilmiyordu. O an karşısındaki kişiden yayılan bir korku ve suçluluk hissetti. Öyle elle tutulur bir duyguydu ki gözleri kapalıyken bile algılayabiliyordu. Bu onun hatasıydı ve kendini hem üzgün hem de çaresiz hissediyordu.\n\"Ben...\" diyerek bilmediği kelimeleri aramaya başladı Columbina.\n\"Tamam, ben hallederim. Sen karışma.\" Yanında tanıdık bir ses belirdi. Sandrone'ydi bu.\n\"Hıh. Masrafı iade etmeyi bile bilmiyorsun, bir de tek başına yemek yemeye mi kalkıyorsun? Tanrım... Bahse girerim ödeme yapmayı da bilmiyorsundur.\" Sesi sabırsızdı ama bir şekilde güven vericiydi.\n\"Fatui'nin mali kuralları çok katı... Ve karmaşık.\" diye mırıldandı ve hızla fişi doldurup titreyen çalışana uzattı.\n\"Bundan sonra onun faturasını benim hesabıma yazın. Nasılsa geri ödemeye gelince hepsi aynı kapıya çıkıyor.\" dedi Sandrone çalışana sinirli bir şekilde.\n\"Kusura bakma...\" diye mırıldandı Columbina yeni tanıştığı meslektaşına. Kendisine yardım edildiğini biliyordu.\n\"Ha? Bunu sadece senin özrünü dinlemek için yapmadım ki.\" Nedense karşısındaki kişinin sesi daha da kızgın geliyordu. İyi ama neden?\n\"Hımm? Beni suçlamıyor musun?\" diye sordu Columbina.\n\"Ha? Niye suçlayayım ki? Sen zaten böyle biri değil misin?\" diye bıkkın bir cevap geldi. \"Ama cidden, senin gibi birinin bu dünyada nasıl hayatta kaldığını anlamıyorum...\"\n\"Böyle olmalısın.\", \"Daha iyisini yapabilirsin.\" gibi sözler yoktu... Sadece \"Sen zaten böyle birisin.\" demişti.\nSandrone'nin ses tonu her zaman sabırsız olsa da içinde bir kabulleniş vardı, \"onu olduğu gibi benimseyen\" sessiz bir kabullenişti bu. Columbina bu şekilde görülmenin verdiği sevinci hissetti.\n\"... Ne sırıtıyorsun?\" diye sordu Sandrone.\nColumbina başını salladı.\n\"Hiç. Bir dahaki sefere yemeğe birlikte gidelim Sandrone.\" dedi. \"'İadeleri' benim yerime halletmeni izlemek hoşuma gidiyor.\"\n\"... Ne?\" Görünüşe göre sevgili meslektaşının, onun gerçekte nasıl biri olduğuna alışması yine de biraz zaman alacaktı."
+      },
+      {
+        "Title": "Karakter Hikayesi 4",
+        "Context": "Dolunay gecelerinde Columbina, Gümüş Ay Salonu'ndan sessizce ayrılıp küçük hayvanların evlerinin yakınında dolaşmayı severdi. Bazen bir ağaç kovuğu, bazense bir kuş yuvası olurdu bu. Yakınlarında durup nefeslerinin düzenli ritmini dinlerken gözlerini yukarıdaki aya kaldırırdı. Sanki bunu yaparken ayda gecenin nasıl olduğunu hayal edebiliyormuş gibi hissederdi; sessiz ve dingin... Öyle olduğunu umut ediyordu.\nBöyle gecelerde bir \"ev\"in nasıl olabileceğine dair hayaller kurardı.\nHiisi Adası'na tekrar döndüğünde günümüz Ay İlahicilerinden biriyle karşılaştı. Columbina, Donuk Ayın Çocukları ile çok zaman geçirmişti ama daha önce hiç bu kadar güzel ve devasa boynuzlar görmemişti.\n\"... Sözünüzü kestiğim için bağışlayın.\" diye araya girdi Donuk Ayın tanrıçası Canon. \"Donuk Ayın Çocukları arasında boynuzlu insan sayısının epey fazla olduğunu düşünmüştüm.\"\nColumbina, tarihte yaygın olmasına rağmen günümüzde boynuzlu doğanların az olduğunu ve hiçbirinin o Ay İlahicisi'ninki kadar görkemli boynuzlara sahip olmadığını anlattı.\n\"Soyun kaçınılmaz olarak saflığını yitirdi...\" Donuk Ayın tanrıçası iç geçirdi. \"Özür dilerim... Lütfen devam et Columbina Hyposelenia.\"\nO Ay İlahicisi'yle tanıştıktan sonra Columbina da zaman zaman onun evine gizli ziyaretlerde bulundu. Ancak ayın gelgitlerinin Ay İlahicisi'ne huzursuzluk ve acı getirdiğini fark etti. Öyle anlarda Columbina, Ay İlahicisi'ni çevreleyen gelgitleri yatıştırmak için kendi gücünü kullanmaya çalışırdı. Bazen kendini tanıdık melodiler mırıldanırken bulurdu. İçgüdüsel olarak doğumundan önce kendisini teselli eden ninniyi söylerdi.\n\"Doğumundan önceki ninni mi?\" Bu kez konuşan, Ebedi Ayın tanrıçası Aria'ydı.\nColumbina, doğmadan önce duyduğu melodileri anlattı.\nÜç tanrıça başlarını salladı. Bu şarkı hakkında hiçbir bilgileri yoktu.\nColumbina onlara gelecek dünyadan hikayeler anlatmaya devam etti. O dünyadaki sunuların lezzetinden, opera salonlarındaki müziğe... Sırtında kurmalı bir mekanizması olan bir arkadaştan, arkadaşı olan eski bir meleğe kadar...\nSon olarak Ay Duası Gecesinden bahsetti.\nÜç ay tanrıçası o gecenin güzelliğinden derinden etkilendi. Kim bilir, belki de Columbina bunları anlatırken kendini gülümsemekten alıkoyamadığı içindi.\n\"Bizim zamanımızda göklerin tanrıları aşağıdaki dünyayla nadiren bu kadar derin bağlar kurardı.\" dedi Donuk Ayın tanrıçası.\n\"Evet. Herkes bana iyi davrandı. Hatta birlikte su topu bile oynadık.\"\n\"İnanılır gibi değil. Anlaşılan bizim dönemimiz fazla muhafazakarmış.\" dedi Ebedi Ayın tanrıçası şaşkınlığını gizlemeden.\n\"Hatta birbirimizin yüzüne küçük çıkartmalar bile yapıştırdık.\"\nÜç tanrıça şaşkın bir şekilde hafifçe iç çektiler.\n\"Ayrıca yemeğimizi de paylaştık, birbirimizin elindeki şekerlemeleri tattık.\"\nTanrıçalar sessizliğe büründü. Columbina, aralarında kıskançlık yüklü bakışların gidip geldiğini hissetti.\nAradan uzun bir süre geçti. Sonra da Hareli Ayın tanrıçası Sonnet şaşkınlıkla bir iç çekti.\n\"Vay be...\""
+      },
+      {
+        "Title": "Karakter Hikayesi 5",
+        "Context": "Ev kabullenmektir.\nDonuk Ay sahte gökyüzünden geçti ve Teyvat'ta kaldı. Columbina Hyposelenia da bu dünya tarafından kabul edildi. Şimdi ise Columbina'nın karşılık olarak bu dünyayı kabul etmeyi denemesinin sırası gelmişti.\nYaptığı ilk şey, Gümüş Ay Salonu'nun girişini tıkayan devasa kayayı bir kenara itmek oldu. Bu kaya bir zamanlar Donuk Ayın Çocukları ve Fatui'nin onu bulmasını engellemek için oraya yerleştirilmişti. Artık bu gerekli görünmüyordu.\nNod-Krai'daki arkadaşları sık sık onu evlerine davet eder, kapılarının her zaman açık olduğunu söylerlerdi. Haliyle onun da arkadaşlarına ve o \"ailesine\" aynı şekilde karşılık vermesi gerekirdi.\nEv özgürlüktür.\nArtık onun varlığını reddeden kurallar yoktu. Gitmesinin yasak olduğu yerler yoktu. Onu ele geçirmeye gelen kimse yoktu...\nİstediği her yere gidebilir, istediği her şeyi yapabilirdi.\nTabii ki başkalarıyla nasıl başa çıkacağını öğrenmek, birtakım zorlukları da beraberinde getirdi. Bir keresinde Nasha Kasabası'nda dolaşırken neredeyse kötü niyetli birileri tarafından dolandırılacaktı ve onu kurtarmak zorunda kalan Nefer tarafından sert bir şekilde azarlandı. Bir başka sefer de Nod-Krai'da özgürce dolaşırken yanlışlıkla Piramida'nın yasak bir bölgesine girmiş ve Illuga tarafından kibarca dışarı çıkarılmıştı...\nAzarlanmak da aile hayatının bir parçasıydı. Columbina artık bunu anlıyordu.\nVe tabii ki hatalarını düzeltmeyi öğrenmek de öyleydi.\nEv...\nHehe, ev pek çok şey olabilir diye düşündü Columbina.\nGündelik hayatın o ince detaylarında; keşfetmeye ve hissetmeye henüz başladığı tüm o yeni, o yabancı şeylerde evden bir iz vardır.\nVe bu, bu dünyadaki yolculuğu süresince hep onunla kalacak bir şey."
+      },
+      {
+        "Title": "Ay Işığından Dokunmuş Göz Bandı",
+        "Context": "Columbina'ya göre, dünyanın \"hakikati\" çoğu zaman ancak gözlerini kapattığında ortaya çıkar.\nGök kubbenin koca bir yalandan başka bir şey olmadığını anlayınca gözlerini ay ışığından örülmüş bir tülle perdeledi. Bu durum ona rahatsızlık vermiyordu; hatta Kuuvahki ile hissedilen dünya, çıplak gözün gördüğünden daha duru ve anlaşılırdı. Eğer merakı ağır basarsa da her an gizlice bir bakış atabilirdi. Sonuçta göz bandında aralıklar bulunuyordu.\nYıldızlar yanıltabilir ama yer çekiminin gelgitleri asla. İnsanlar yüz ifadelerini saklayabilir belki, fakat kalplerinin derinliklerinden taşan o duygu dalgalarını gizleyemezler.\nColumbina, yalanlara geçit vermeyen bu göz bandını gerçek \"evine\" döndükten sonra çıkarma niyetiyle bekledi.\nAncak Üç Ay Tanrıçası olup Teyvat'a döndükten sonra Donuk Ayın tanrıçası Canon'un bir zamanlar ona söylediği sözleri hatırladı. Tereddüt ederek de olsa günlük hayatta gözlerini açmaya ve dünyayı yeniden keşfetmeye başladı.\nİlkbahar ormanlarının bu denli renkli, kış karının ise böylesine saf ve ışıltılı olabileceğini o zaman fark etti.\nKıyıya vuran dalgalardan saçılan su damlalarının asla birbirinin aynısı olmadığını, şehrin gece ışıklarının ise tıpkı yıldızlarla dolu bir gökyüzü gibi ışıldadığını fark etti...\nKendini şanslı hissetti.\nBelki de gözlerini daha önce açmalıydı diye düşünürdü bazen.\nAma düşününce... Belki de o ana kadarki tecrübeleri, dünyanın güzelliklerini hakkıyla görmesini sağlayan asıl şeydi. Eğer gözlerini daha önce açmış olsaydı acaba göreceği tek şey dünyanın sakladığı yalanlar mı olurdu?\nColumbina emin değildi. Bu tür içe dönük soruları yanıtlamak için zamana ihtiyaç duyuyordu.\nBu sırada, zaman zaman gözlerini açıp bu \"evin\" güzelliğinin tadını çıkarmaya karar verdi.\nO halde neden gözlerini her zaman açık tutmuyor?\n\"Hımm... Sanırım alıştım buna. Ayrıca...\" Columbina gözlerini ovaladı, \"Gözlerimi sürekli açık tutmak yorucu. Buna... 'Göz yorgunluğu' mu deniyordu?\""
+      },
+      {
+        "Title": "Üç Ayın Birleşimi",
+        "Context": "Üç ayın iktidarını ele geçirdikten sonra Columbina'nın doğal olarak bazı soruları vardı:\nBu güç gerçekten her şeye muktedir mi? Onu ne için kullanmalı?\nYapmak istediği hemen her şeyin, o üç ayın gücünün sınırları dahilinde olduğunu hissetti: Ay ile Teyvat arasında dilediğince gidip gelebilir, kendisini ve diğer nesneleri zahmetsizce taşıyabilir, çiçeklerin daha canlı açmasını ve meyvelerin daha dolgun yetişmesini sağlayabilirdi...\nSandrone'yi uyandırmayı bile denedi. Ama bu, üç ayın gücünün bile onun adına başaramadığı nadir şeylerden biriydi.\nGeriye kalan şeyleri ise ya yapmak istemiyordu ya da yapmaması gerektiğini hissediyordu.\nOnun asıl sevdiği, bu dünyanın ve evinin şu anki haliydi. Sırf orayı dilediği gibi değiştirme, görünümünü ve kurallarını kendi keyfine göre şekillendirme gücüne sahip olduğu için bunu yapması... Ona yanlış geliyordu. Niyeti ne kadar iyi olursa olsun böyle davranmak kendisini Doktor'dan farksız hissettirecekti.\nBu dünyayı \"evi\" olarak görüyordu, sahip olduğu bir şey olarak değil. Ve bu ikisi arasında dağlar kadar fark vardı.\nİşte bu yüzden gücünün bir parçasını, o güzel evini her zamanki gibi korumaya devam etmeye adadı. Elinde tuttuğu miktar, sadece dostlarıyla önceden olduğu gibi keyifle yaşamasına ve gerektiğinde kıymet verdiklerini savunmasına yetecek kadardı.\nO anda Columbina, üç ablasının yaptığı seçimleri kavradı birden. Onların asıl istediği \"hükmetmek\" değil, sadece ayın altındaki bu dünyayı \"korumaktı\".\nNe de olsa onların küçük kız kardeşi olduğunu söyleyebilir miydi? Bu düşünce, tatlı bir ahenk hissi uyandırdı.\nBu, neredeyse kalıtsal bir özellik ya da belki de ay tanrıçalarının sahip olduğu \"ailevi bir eğilim\" gibiydi.\nBu düşünceyle Columbina'nın kalbini sıcak bir his kapladı. Özlemini çektiği bir şeyi yeniden keşfetmiş gibiydi:\nAile bağları ve miras."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212500,
+      "Name": "Ay Dokuması Tül",
+      "Description": "Columbina'nın giysisi. Donuk Ayın Çocukları kumaşlarının Kuuhenkiler tarafından işlenmesiyle oluşturulmuş, narin ay ışığı iplikleriyle dokunmuş hafif ve zarif bir giysidir. Gördüklerini tam olarak kavrayamayan Donuk Ayın Çocukları, doğal olarak bu yeni giysiyi Kuutar'ın bir başka mucizesi sandılar. O zamandan beri Columbina'nın zaman zaman \"Leydi Kuutar, yalvarırım bana da sizinki gibi hünerli eller bahşedin.\" gibi dilekleri işitmesi hiç de şaşırtıcı değil.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104124,
+    113079,
+    101268,
+    112004,
+    104358,
+    113081
+  ],
+  "NameCard": {
+    "Name": "Columbina: Günün Birinde",
+    "Description": "İsim Kartı arka planı.\nBerrak derelerin sığ sularında dans eder ve akıntıyla sürüklenir, dağların soluk gölgeleri altında uykuya dalar. Zamanın dalgaları arasında dolaşır, Kuuhenkilerle saklambaç oynar.\nHer şeyin bahçesinde dinlenir, her canlıya nazikçe şarkılar mırıldanır. Şafaktan önceki sessiz saatlerde kavuşacakları günü bekler.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "PicturePrefix": "UI_NameCardPic_Columbina"
+  }
+}

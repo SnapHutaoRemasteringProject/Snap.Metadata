@@ -94,7 +94,7 @@
     "Icon": "UI_ChapterIcon_Traveler",
     "ImageTitle": "Близнецы",
     "SerialNumberIcon": "UI_QuestType_Chapter_4",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 0
   },
   {
@@ -108,7 +108,7 @@
     "Icon": "UI_ChapterIcon_Traveler",
     "ImageTitle": "Близнецы",
     "SerialNumberIcon": "UI_QuestType_Chapter_4",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 7
   },
   {
@@ -192,7 +192,7 @@
     "Icon": "UI_ChapterIcon_Traveler",
     "ImageTitle": "#{M#Путешественник}{F#Путешественница}",
     "SerialNumberIcon": "UI_QuestType_Chapter_5",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 0
   },
   {
@@ -304,7 +304,7 @@
     "Icon": "UI_ChapterIcon_Kaeya",
     "ImageTitle": "Кэйа",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -318,7 +318,7 @@
     "Icon": "UI_ChapterIcon_Diluc",
     "ImageTitle": "Дилюк",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -332,7 +332,7 @@
     "Icon": "UI_ChapterIcon_Ambor",
     "ImageTitle": "Эмбер",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -346,7 +346,7 @@
     "Icon": "UI_ChapterIcon_Lisa",
     "ImageTitle": "Лиза",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -360,7 +360,7 @@
     "Icon": "UI_ChapterIcon_Razor",
     "ImageTitle": "Рэйзор",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -374,7 +374,7 @@
     "Icon": "UI_ChapterIcon_QIN",
     "ImageTitle": "Джинн",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -388,7 +388,7 @@
     "Icon": "UI_ChapterIcon_Xiangling",
     "ImageTitle": "Сян Лин",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -402,7 +402,7 @@
     "Icon": "UI_ChapterIcon_Xingqiu",
     "ImageTitle": "Син Цю",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -416,7 +416,7 @@
     "Icon": "UI_ChapterIcon_Klee",
     "ImageTitle": "Кли",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -430,7 +430,7 @@
     "Icon": "UI_ChapterIcon_Mona",
     "ImageTitle": "Мона",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -444,7 +444,7 @@
     "Icon": "UI_ChapterIcon_Xiao",
     "ImageTitle": "Сяо",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -458,7 +458,7 @@
     "Icon": "UI_ChapterIcon_Tartaglia",
     "ImageTitle": "Тарталья",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -472,7 +472,7 @@
     "Icon": "UI_ChapterIcon_Venti",
     "ImageTitle": "Венти",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -486,7 +486,7 @@
     "Icon": "UI_ChapterIcon_Zhongli",
     "ImageTitle": "Чжун Ли",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -511,7 +511,7 @@
     "Icon": "UI_ChapterIcon_Ganyu",
     "ImageTitle": "Гань Юй",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -525,7 +525,7 @@
     "Icon": "UI_ChapterIcon_Albedo",
     "ImageTitle": "Альбедо",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -539,7 +539,7 @@
     "Icon": "UI_ChapterIcon_Hutao",
     "ImageTitle": "Ху Тао",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -553,7 +553,7 @@
     "Icon": "UI_ChapterIcon_Eula",
     "ImageTitle": "Эола",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -567,7 +567,7 @@
     "Icon": "UI_ChapterIcon_Zhongli",
     "ImageTitle": "Чжун Ли",
     "SerialNumberIcon": "UI_QuestType_Chapter_2",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -581,7 +581,7 @@
     "Icon": "UI_ChapterIcon_Yoimiya",
     "ImageTitle": "Ёимия",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -595,7 +595,7 @@
     "Icon": "UI_ChapterIcon_Ayaka",
     "ImageTitle": "Камисато Аяка",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -609,7 +609,7 @@
     "Icon": "UI_ChapterIcon_Shougun",
     "ImageTitle": "Сёгун Райдэн",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -623,7 +623,7 @@
     "Icon": "UI_ChapterIcon_Kokomi",
     "ImageTitle": "Сангономия Кокоми",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -637,7 +637,7 @@
     "Icon": "UI_ChapterIcon_Yae",
     "ImageTitle": "Яэ Мико",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -651,7 +651,7 @@
     "Icon": "UI_ChapterIcon_Itto",
     "ImageTitle": "Аратаки Итто",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -665,7 +665,7 @@
     "Icon": "UI_ChapterIcon_Shougun",
     "ImageTitle": "Сёгун Райдэн",
     "SerialNumberIcon": "UI_QuestType_Chapter_2",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -679,7 +679,7 @@
     "Icon": "UI_ChapterIcon_Ayato",
     "ImageTitle": "Камисато Аято",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -693,7 +693,7 @@
     "Icon": "UI_ChapterIcon_Yelan",
     "ImageTitle": "Е Лань",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -707,7 +707,7 @@
     "Icon": "UI_ChapterIcon_Tighnari",
     "ImageTitle": "Тигнари",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -721,7 +721,7 @@
     "Icon": "UI_ChapterIcon_Kazuha",
     "ImageTitle": "Каэдэхара Кадзуха",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -735,7 +735,7 @@
     "Icon": "UI_ChapterIcon_Cyno",
     "ImageTitle": "Сайно",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -749,7 +749,7 @@
     "Icon": "UI_ChapterIcon_Nilou",
     "ImageTitle": "Нилу",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -763,7 +763,7 @@
     "Icon": "UI_ChapterIcon_Nahida",
     "ImageTitle": "Нахида",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -2970,6 +2970,34 @@
     "QuestType": 0
   },
   {
+    "Id": 1607,
+    "GroupId": 1607,
+    "BeginQuestId": 600312,
+    "EndQuestId": 602329,
+    "NeedPlayerLevel": 28,
+    "Number": "Песня полой луны. Глава VII",
+    "Title": "Если однажды зимней ночью путешественник",
+    "Icon": "UI_ChapterIcon_NodKrai",
+    "ImageTitle": "Нод-Край",
+    "SerialNumberIcon": "UI_QuestType_Chapter_8",
+    "CityId": 7,
+    "QuestType": 0
+  },
+  {
+    "Id": 1608,
+    "GroupId": 1607,
+    "BeginQuestId": 601501,
+    "EndQuestId": 601710,
+    "NeedPlayerLevel": 28,
+    "Number": "Песня полой луны. Глава VIII",
+    "Title": "Истинная луна",
+    "Icon": "UI_ChapterIcon_NodKrai",
+    "ImageTitle": "Нод-Край",
+    "SerialNumberIcon": "UI_QuestType_Chapter_9",
+    "CityId": 7,
+    "QuestType": 0
+  },
+  {
     "Id": 2035,
     "GroupId": 0,
     "BeginQuestId": 1302002,
@@ -2980,7 +3008,7 @@
     "Icon": "UI_ChapterIcon_Alhatham",
     "ImageTitle": "Аль-Хайтам",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -2994,7 +3022,7 @@
     "Icon": "UI_ChapterIcon_Dehya",
     "ImageTitle": "Дэхья",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -3008,7 +3036,7 @@
     "Icon": "UI_ChapterIcon_Baizhuer",
     "ImageTitle": "Бай Чжу",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -3022,7 +3050,7 @@
     "Icon": "UI_ChapterIcon_Yoimiya",
     "ImageTitle": "Ёимия",
     "SerialNumberIcon": "UI_QuestType_Chapter_2",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -3036,7 +3064,7 @@
     "Icon": "UI_ChapterIcon_Nahida",
     "ImageTitle": "Нахида",
     "SerialNumberIcon": "UI_QuestType_Chapter_2",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -3050,7 +3078,7 @@
     "Icon": "UI_ChapterIcon_Liney",
     "ImageTitle": "Лини",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3064,7 +3092,7 @@
     "Icon": "UI_ChapterIcon_Neuvillette",
     "ImageTitle": "Нёвиллет",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3078,7 +3106,7 @@
     "Icon": "UI_ChapterIcon_Wriothesley",
     "ImageTitle": "Ризли",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3092,7 +3120,7 @@
     "Icon": "UI_ChapterIcon_Furina",
     "ImageTitle": "Фурина",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3106,7 +3134,7 @@
     "Icon": "UI_ChapterIcon_Navia",
     "ImageTitle": "Навия",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3120,7 +3148,7 @@
     "Icon": "UI_ChapterIcon_Liuyun",
     "ImageTitle": "Сянь Юнь",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -3134,7 +3162,7 @@
     "Icon": "UI_ChapterIcon_Chiori",
     "ImageTitle": "Тиори",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3148,7 +3176,7 @@
     "Icon": "UI_ChapterIcon_Arlecchino",
     "ImageTitle": "Арлекино",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3162,7 +3190,7 @@
     "Icon": "UI_ChapterIcon_Sigewinne",
     "ImageTitle": "Сиджвин",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3176,7 +3204,7 @@
     "Icon": "UI_ChapterIcon_Cyno",
     "ImageTitle": "Сайно",
     "SerialNumberIcon": "UI_QuestType_Chapter_2",
-    "CityId": 0,
+    "CityId": 4,
     "QuestType": 2
   },
   {
@@ -3190,7 +3218,7 @@
     "Icon": "UI_ChapterIcon_Clorinde",
     "ImageTitle": "Клоринда",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3204,7 +3232,7 @@
     "Icon": "UI_ChapterIcon_Emilie",
     "ImageTitle": "Эмилия",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3428,7 +3456,7 @@
     "Icon": "UI_ChapterIcon_Mavuika",
     "ImageTitle": "Мавуика",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -3442,7 +3470,7 @@
     "Icon": "UI_ChapterIcon_Durin",
     "ImageTitle": "Дурин",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 1,
     "QuestType": 2
   },
   {
@@ -3456,7 +3484,7 @@
     "Icon": "UI_ChapterIcon_Mizuki",
     "ImageTitle": "Мидзуки",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 3,
     "QuestType": 2
   },
   {
@@ -3512,7 +3540,7 @@
     "Icon": "UI_ChapterIcon_Escoffier",
     "ImageTitle": "Эскофье",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 5,
     "QuestType": 2
   },
   {
@@ -3526,7 +3554,7 @@
     "Icon": "UI_ChapterIcon_SkirkNew",
     "ImageTitle": "Скирк",
     "SerialNumberIcon": "UI_QuestType_Chapter_1",
-    "CityId": 0,
+    "CityId": 2,
     "QuestType": 2
   },
   {
@@ -4115,6 +4143,45 @@
     "QuestType": 3
   },
   {
+    "Id": 10177,
+    "GroupId": 10177,
+    "BeginQuestId": 7609930,
+    "EndQuestId": 0,
+    "NeedPlayerLevel": 0,
+    "Number": "Соловьиная трель: Глава 1",
+    "Title": "Предзнаменование Ночного дозора",
+    "Icon": "UI_ChapterIcon_NodKrai",
+    "SerialNumberIcon": "",
+    "CityId": 7,
+    "QuestType": 7
+  },
+  {
+    "Id": 10178,
+    "GroupId": 10177,
+    "BeginQuestId": 0,
+    "EndQuestId": 0,
+    "NeedPlayerLevel": 0,
+    "Number": "Соловьиная трель: Глава 2",
+    "Title": "Поэма Доруда",
+    "Icon": "UI_ChapterIcon_NodKrai",
+    "SerialNumberIcon": "",
+    "CityId": 7,
+    "QuestType": 7
+  },
+  {
+    "Id": 10179,
+    "GroupId": 10177,
+    "BeginQuestId": 0,
+    "EndQuestId": 7610121,
+    "NeedPlayerLevel": 0,
+    "Number": "Соловьиная трель: Последняя глава",
+    "Title": "Звезда иного времени",
+    "Icon": "UI_ChapterIcon_NodKrai",
+    "SerialNumberIcon": "",
+    "CityId": 7,
+    "QuestType": 7
+  },
+  {
     "Id": 10181,
     "GroupId": 10181,
     "BeginQuestId": 7419403,
@@ -4255,6 +4322,19 @@
     "Icon": "UI_ChapterIcon_FairyTales",
     "SerialNumberIcon": "",
     "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10196,
+    "GroupId": 10268,
+    "BeginQuestId": 7116208,
+    "EndQuestId": 7116216,
+    "NeedPlayerLevel": 0,
+    "Number": "Ода серебряной луне, освещённая фонарями. Финал",
+    "Title": "Записки о странствиях Белой Лошади",
+    "Icon": "UI_ChapterIcon_SeaLamp",
+    "SerialNumberIcon": "",
+    "CityId": 2,
     "QuestType": 3
   },
   {
@@ -4700,7 +4780,7 @@
     "Title": "В путь! Беззаботные каникулы?",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4713,7 +4793,7 @@
     "Title": "Мир - холст!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4726,7 +4806,7 @@
     "Title": "Сюрприз для всех!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4739,7 +4819,7 @@
     "Title": "Раскрасим ночь в яркие краски!",
     "Icon": "UI_ChapterIcon_EasybreezeHolidayResort",
     "SerialNumberIcon": "",
-    "CityId": 0,
+    "CityId": 6,
     "QuestType": 2
   },
   {
@@ -4842,6 +4922,45 @@
     "Icon": "UI_ChapterIcon_SumeruAdventureTraining",
     "SerialNumberIcon": "",
     "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10268,
+    "GroupId": 10268,
+    "BeginQuestId": 4022201,
+    "EndQuestId": 4022213,
+    "NeedPlayerLevel": 0,
+    "Number": "Ода серебряной луне, освещённая фонарями. Глава I",
+    "Title": "В Заоблачном пределе",
+    "Icon": "UI_ChapterIcon_SeaLamp",
+    "SerialNumberIcon": "",
+    "CityId": 2,
+    "QuestType": 3
+  },
+  {
+    "Id": 10269,
+    "GroupId": 10268,
+    "BeginQuestId": 4022301,
+    "EndQuestId": 4022315,
+    "NeedPlayerLevel": 0,
+    "Number": "Ода серебряной луне, освещённая фонарями. Глава II",
+    "Title": "Среди скал",
+    "Icon": "UI_ChapterIcon_SeaLamp",
+    "SerialNumberIcon": "",
+    "CityId": 2,
+    "QuestType": 3
+  },
+  {
+    "Id": 10270,
+    "GroupId": 10268,
+    "BeginQuestId": 4022401,
+    "EndQuestId": 4022408,
+    "NeedPlayerLevel": 0,
+    "Number": "Ода серебряной луне, освещённая фонарями. Глава III",
+    "Title": "Среди людей",
+    "Icon": "UI_ChapterIcon_SeaLamp",
+    "SerialNumberIcon": "",
+    "CityId": 2,
     "QuestType": 3
   },
   {

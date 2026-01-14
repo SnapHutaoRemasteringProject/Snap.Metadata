@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Ateş Kristalinin Kutsaması</color>",
-    "Description": "Tüm grup üyeleri <color=#f39001>%50</color> Ateş ve Toprak Hasarı Bonusu kazanır. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
+    "Description": "Tüm grup üyeleri <color=#f39001>%70</color> Ateş ve Toprak Hasarı Bonusu kazanır. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Taş Parçası Darbesi</color>",
-    "Description": "<color=#f39001>Ateş Kristalinin Kutsaması</color> etkinken her <color=#f39001>{0}</color> saniyede bir karakterin bulunduğu yerde çıkar ve <color=#e09800>Toprak Alan Hasarı</color> verir."
+    "Description": "<color=#f39001>Ateş Kristalinin Kutsaması</color> etkinken belirli aralıklarla karakterin bulunduğu yerde çıkar ve <color=#e09800>Toprak Alan Hasarı</color> verir."
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Su Kristalinin Kutsaması</color>",
-    "Description": "Tüm grup üyeleri <color=#f39001>%50</color> Su ve Toprak Hasarı Bonusu kazanır. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
+    "Description": "Tüm grup üyeleri <color=#f39001>%70</color> Su ve Toprak Hasarı Bonusu kazanır ve Ay Kristalleşmesi Hasarı <color=#f39001>%75</color> artar. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Kedisel Koordineli Destek Robotları",
     "Description": "Eski bir hazine avcısı olan Jahoda'nın yanında taşıdığı aygıtlardan biri. <color=#FFD780FF>Gizli Yetenekler: Avcının Yedi Aleti</color> Element Patlamasını kullandığında ortaya çıkar.\nKedisel Koordineli Destek Robotları sürekli olarak aktif karakterinin Canını yeniler. İyileştirilen karakterin Canı %70'in üzerindeyse yakındaki en düşük Cana sahip grup üyesinin de Canını yeniler.\n\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>: Yakındaki düşmanlar <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> etkisindeyse Kedisel Koordineli Destek Robotları ilgili elemente dönüşür. Dönüşeceği elementin öncelik sırası şöyledir: <color=#FF9999FF>Ateş</color> > <color=#80C0FFFF>Su</color> > <color=#FFACFFFF>Elektrik</color> > <color=#99FFFFFF>Buz</color>. Her konuşlandırmadan sonra Kedisel Koordineli Destek Robotu bu şekilde bir dönüşüm geçirebilir. Dönüşümden sonra Kedisel Koordineli Destek Robotu, yakındaki en fazla 3 düşmana belirli aralıklarla saldırarak ilgili element türünde Hasar verir."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Ek Güçlendirme Etkileri",
+    "Description": "Gezgin, etkileşime girdiği her element için bir özellik bonusu kazanır:\n<color=#80FFD7FF>Rüzgar</color>: Kritik Oranı %10 artar.\n<color=#FFE699FF>Toprak</color>: Savunma %20 artar.\n<color=#FFACFFFF>Elektrik</color>: Enerji Yüklemesi %20 artar.\n<color=#99FF88FF>Doğa</color>: Element Ustalığı 60 artar.\n<color=#80C0FFFF>Su</color>: Can %20 artar.\n<color=#FF9999FF>Ateş</color>: Saldırı %20 artar.\n<color=#99FFFFFF>Buz</color>: Kritik Hasar %20 artar."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Yer Çekimi Dalgası",
+    "Description": "<color=#FFD780FF>Ebedi Metcezir</color> Element Becerisi kullanıldıktan sonra Columbina bir <color=#FFD780FF>Yer Çekimi Dalgası</color> çağırır.\nYer Çekimi Dalgası, alandaki mevcut aktif karakteri takip eder ve yakındaki düşmanlara sürekli olarak <color=#80C0FFFF>Su Alan Hasarı</color> verir.\n\nAyrıca Yer Çekimi Dalgası alandayken yakındaki grup üyeleri Ay Tepkimeleri tetiklerse veya Ay Tepkimesi Hasarı verirse Columbina 2 saniyeliğine Yeni Ayın Alameti etkisini kazanır ve sürekli olarak <color=#FFD780FF>Yer Çekimi</color> biriktirir. Her 2 saniyede 20 Yer Çekimi biriktirilebilir.\nColumbina en fazla 60 Yer Çekimi biriktirebilir ve Yer Çekimi Dalgasının süresi sona erdiğinde bu birikim kaybolur.\nYer Çekimi birikimi sınıra ulaştığında özel bir <color=#FFD780FF>Yer Çekimi Müdahalesi</color> tetiklenir. Columbina için en çok Yer Çekimi biriktiren Ay Tepkimesi türüne bağlı olarak farklı etkiler tetiklenir:\n·<color=#FFD780FF>Ay Yüklü</color>: Yer Çekimi Müdahalesi tek seferlik <color=#FFACFFFF>Elektrik Alan Hasarı</color> verir. Bu Hasar, Ay Yüklü Hasarı olarak kabul edilir. \n·<color=#FFD780FF>Ay Çiçeklenmesi</color>: Yer Çekimi Müdahalesi yakındaki düşmanlara 5 Ay Çiyi Mührü fırlatarak <color=#99FF88FF>Doğa Hasarı</color> verir. Bu Hasar, Ay Çiçeklenmesi Hasarı olarak kabul edilir.\n·<color=#FFD780FF>Ay Kristalleşmesi</color>: Yer Çekimi Müdahalesi tek seferlik <color=#FFE699FF>Toprak Alan Hasarı</color> verir. Bu Hasar, Ay Kristalleşmesi Hasarı olarak kabul edilir."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Ay Alanı",
+    "Description": "Columbina'nın <color=#FFD780FF>Mehtap Melankolisi</color> Element Patlamasını kullandıktan sonra çağırdığı alan.\nMevcut aktif karakterler <color=#FFD780FF>Ay Alanı</color> içindeyken tüm grup üyelerinin verdiği Ay Tepkimesi Hasarı artar."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Ay Sırtı Çiyi",
+    "Description": "Columbina'nın Pasif Yeteneği <color=#FFD780FF>Yeni Ayın Kanunu</color> tarafından sağlanan özel bir Taze Çiy kaynağı. Maksimum kapasitesi ve süresi Taze Çiyden ayrı olarak hesaplanır.\nGrubun Taze Çiyi harcandığında onun yerine <color=#FFD780FF>Ay Sırtı Çiyi</color> tüketilir.\nGrubunda en fazla 3 adet <color=#FFD780FF>Ay Sırtı Çiyi</color> bulunabilir."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Bülbülün Şarkısı",
+    "Description": "Illuga <color=#FFD780FF>Gölgesiz Yansıma</color> Element Patlamasını kullandıktan sonra kazanılan etki. Mevcut aktif karakterlerin verdiği <color=#FFE699FF>Toprak Hasarını</color> artırabilir."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Ay Döngüsü Değişimi",
+    "Description": "Zibai, <color=#FFD780FF>Yerin ve Göğün Tezahürü</color> Element Becerisini kullandıktan sonra bu moda geçer. Bu mod en fazla {PARAM#P1263201|4S1}sn sürer ve şu özelliklere sahiptir:\n·Normal ve Yüklü Saldırılar, başka tesirlerle değiştirilemez şekilde <color=#FFE699FF>Toprak Hasarına</color> dönüşür.\n·<color=#FFD780FF>Yerin ve Göğün Tezahürü</color> Element Becerisi de <color=#FFD780FF>Ruh Atının Koşusu</color> Element Becerisine dönüşür: Zibai en az 70 Döngü Değişimi Işıltısına sahip olduğunda 70 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> harcayıp Ruh Atının Koşusu becerisini kullanarak iki defa <color=#FFE699FF>Toprak Hasarı</color> verebilir. İkinci hasar, Ay Kristalleşmesi Tepkimesi Hasarı olarak kabul edilir.\n\nEn fazla 100 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> puanı biriktirilebilir. Zibai bunları şu yollarla elde edebilir:\n·<color=#FFD780FF>Ay Döngüsü Değişimi</color> modundayken her saniye 10 puan kazanır.\n·Normal Saldırılarıyla bir düşmana vurduğunda 5 puan kazanır. Bu şekilde her 0,5 saniyede bir Döngü Değişimi Işıltısı puanı kazanılabilir.\n\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>\nYakındaki grup üyeleri Ay Kristalleşmesi tepkimesi tetiklediğinde Zibai için 35 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> puanı biriktirirler. Bu şekilde her 4 saniyede bir puan kazanılabilir. <color=#FFD780FF>Ruh Atının Koşusu</color> özel Element Becerisini kullanmak, bu şekilde elde edilen <color=#FFD780FF>Döngü Değişimi Işıltısı</color> bekleme süresini sıfırlar.\n\nZibai, <color=#FFD780FF>Ruh Atının Koşusu</color> becerisini 4 defa kullandıktan sonra veya becerinin süresi dolduğunda bu moddan çıkar."
   }
 ]

@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Frammento lunare portaluce",
+    "Description": "Una spada leggendaria che si dice sia stata forgiata col baluginio del chiaro di luna, raccolto in fondo a un pozzo da un'Adepta nascosta tra le limpide sorgenti. La sua vera forma si rivela solo quando il crepuscolo incontra l'alba.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Eredità di Lang-Gan",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Aumenta la DIF di un <color=#99FFFFFF>20%</color>. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un <color=#99FFFFFF>64%</color> per 5{NON_BREAK_SPACE}s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale."
+        },
+        {
+          "Level": 1,
+          "Description": "#Aumenta la DIF di un <color=#99FFFFFF>25%</color>. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un <color=#99FFFFFF>80%</color> per 5{NON_BREAK_SPACE}s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale."
+        },
+        {
+          "Level": 2,
+          "Description": "#Aumenta la DIF di un <color=#99FFFFFF>30%</color>. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un <color=#99FFFFFF>96%</color> per 5{NON_BREAK_SPACE}s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale."
+        },
+        {
+          "Level": 3,
+          "Description": "#Aumenta la DIF di un <color=#99FFFFFF>35%</color>. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un <color=#99FFFFFF>112%</color> per 5{NON_BREAK_SPACE}s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale."
+        },
+        {
+          "Level": 4,
+          "Description": "#Aumenta la DIF di un <color=#99FFFFFF>40%</color>. I DAN inflitti dalle reazioni di Cristallizzazione lunare aumentano di un <color=#99FFFFFF>128%</color> per 5{NON_BREAK_SPACE}s dopo che il personaggio che equipaggia l'arma ha usato un'abilità elementale."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura o Fioritura lunare, l'energia elementale si ripristina di <color=#99FFFFFF>12</color> e la maestria elementale aumenta di <color=#99FFFFFF>60</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di <color=#99FFFFFF>12</color> e la maestria elementale aumenta di <color=#99FFFFFF>60</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi al massimo una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
         },
         {
           "Level": 1,
-          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura o Fioritura lunare, l'energia elementale si ripristina di <color=#99FFFFFF>15</color> e la maestria elementale aumenta di <color=#99FFFFFF>75</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di <color=#99FFFFFF>15</color> e la maestria elementale aumenta di <color=#99FFFFFF>75</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi al massimo una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
         },
         {
           "Level": 2,
-          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura o Fioritura lunare, l'energia elementale si ripristina di <color=#99FFFFFF>18</color> e la maestria elementale aumenta di <color=#99FFFFFF>90</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di <color=#99FFFFFF>18</color> e la maestria elementale aumenta di <color=#99FFFFFF>90</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi al massimo una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
         },
         {
           "Level": 3,
-          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura o Fioritura lunare, l'energia elementale si ripristina di <color=#99FFFFFF>21</color> e la maestria elementale aumenta di <color=#99FFFFFF>105</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di <color=#99FFFFFF>21</color> e la maestria elementale aumenta di <color=#99FFFFFF>105</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi al massimo una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
         },
         {
           "Level": 4,
-          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura o Fioritura lunare, l'energia elementale si ripristina di <color=#99FFFFFF>24</color> e la maestria elementale aumenta di <color=#99FFFFFF>120</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+          "Description": "#Quando si innesca una reazione di Electrocarica, Carica lunare, Fioritura, Fioritura lunare, Cristallizzazione o Cristallizzazione lunare, l'energia elementale si ripristina di <color=#99FFFFFF>24</color> e la maestria elementale aumenta di <color=#99FFFFFF>120</color> per 15{NON_BREAK_SPACE}s. Quest'effetto può attivarsi al massimo una volta ogni 15{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>20%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione, il personaggio che equipaggia quest'arma riceve 1 Sigillo. Ogni Sigillo aumenta i DAN da abilità elementale di un <color=#99FFFFFF>18%</color> e ha una durata di 15{NON_BREAK_SPACE}s. È possibile avere fino a un massimo di 2 Sigilli contemporaneamente, che svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale."
+          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>20%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione o quando innescano reazioni di Cristallizzazione lunare, il personaggio che equipaggia l'arma riceve 1 Sigillo. È possibile avere fino a 2 Sigilli contemporaneamente, ciascuno dei quali aumenta i DAN da abilità elementale di un <color=#99FFFFFF>18%</color> e ha una durata di 15{NON_BREAK_SPACE}s. I Sigilli svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale. È possibile ottenere fino a 1 Sigillo ogni secondo tramite le reazioni di Cristallizzazione lunare."
         },
         {
           "Level": 1,
-          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>25%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione, il personaggio che equipaggia quest'arma riceve 1 Sigillo. Ogni Sigillo aumenta i DAN da abilità elementale di un <color=#99FFFFFF>22,5%</color> e ha una durata di 15{NON_BREAK_SPACE}s. È possibile avere fino a un massimo di 2 Sigilli contemporaneamente, che svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale."
+          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>25%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione o quando innescano reazioni di Cristallizzazione lunare, il personaggio che equipaggia l'arma riceve 1 Sigillo. È possibile avere fino a 2 Sigilli contemporaneamente, ciascuno dei quali aumenta i DAN da abilità elementale di un <color=#99FFFFFF>22,5%</color> e ha una durata di 15{NON_BREAK_SPACE}s. I Sigilli svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale. È possibile ottenere fino a 1 Sigillo ogni secondo tramite le reazioni di Cristallizzazione lunare."
         },
         {
           "Level": 2,
-          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>30%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione, il personaggio che equipaggia quest'arma riceve 1 Sigillo. Ogni Sigillo aumenta i DAN da abilità elementale di un <color=#99FFFFFF>27%</color> e ha una durata di 15{NON_BREAK_SPACE}s. È possibile avere fino a un massimo di 2 Sigilli contemporaneamente, che svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale."
+          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>30%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione o quando innescano reazioni di Cristallizzazione lunare, il personaggio che equipaggia l'arma riceve 1 Sigillo. È possibile avere fino a 2 Sigilli contemporaneamente, ciascuno dei quali aumenta i DAN da abilità elementale di un <color=#99FFFFFF>27%</color> e ha una durata di 15{NON_BREAK_SPACE}s. I Sigilli svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale. È possibile ottenere fino a 1 Sigillo ogni secondo tramite le reazioni di Cristallizzazione lunare."
         },
         {
           "Level": 3,
-          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>35%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione, il personaggio che equipaggia quest'arma riceve 1 Sigillo. Ogni Sigillo aumenta i DAN da abilità elementale di un <color=#99FFFFFF>31,5%</color> e ha una durata di 15{NON_BREAK_SPACE}s. È possibile avere fino a un massimo di 2 Sigilli contemporaneamente, che svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale."
+          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>35%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione o quando innescano reazioni di Cristallizzazione lunare, il personaggio che equipaggia l'arma riceve 1 Sigillo. È possibile avere fino a 2 Sigilli contemporaneamente, ciascuno dei quali aumenta i DAN da abilità elementale di un <color=#99FFFFFF>31,5%</color> e ha una durata di 15{NON_BREAK_SPACE}s. I Sigilli svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale. È possibile ottenere fino a 1 Sigillo ogni secondo tramite le reazioni di Cristallizzazione lunare."
         },
         {
           "Level": 4,
-          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>40%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione, il personaggio che equipaggia quest'arma riceve 1 Sigillo. Ogni Sigillo aumenta i DAN da abilità elementale di un <color=#99FFFFFF>36%</color> e ha una durata di 15{NON_BREAK_SPACE}s. È possibile avere fino a un massimo di 2 Sigilli contemporaneamente, che svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale."
+          "Description": "#L'ATT aumenta di un <color=#99FFFFFF>40%</color>. Quando i personaggi del gruppo ottengono frammenti elementali derivanti da reazioni di Cristallizzazione o quando innescano reazioni di Cristallizzazione lunare, il personaggio che equipaggia l'arma riceve 1 Sigillo. È possibile avere fino a 2 Sigilli contemporaneamente, ciascuno dei quali aumenta i DAN da abilità elementale di un <color=#99FFFFFF>36%</color> e ha una durata di 15{NON_BREAK_SPACE}s. I Sigilli svaniscono 0,2{NON_BREAK_SPACE}s dopo aver inflitto DAN con l'abilità elementale. È possibile ottenere fino a 1 Sigillo ogni secondo tramite le reazioni di Cristallizzazione lunare."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Sipario del notturno",
+    "Description": "Una perla di giada avvolta nella luce della luna. Anche nelle più fredde notti d'inverno, il suo calore gentile permane come una canzone.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ballata dei crocevia",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#I PS max aumentano di un <color=#99FFFFFF>10%</color>. Quando s'innescano reazioni lunari o si infliggono DAN da reazione lunare agli avversari, il personaggio che equipaggia l'arma recupera <color=#99FFFFFF>14</color> di energia e riceve l'effetto Vino sacro del Mare della fecondità per 12{NON_BREAK_SPACE}s, che aumenta i PS max di un ulteriore <color=#99FFFFFF>14%</color> e i DAN da CRIT dei DAN da reazione lunare di un <color=#99FFFFFF>60%</color>. L'effetto di ripristino dell'energia può attivarsi non più di una volta ogni 18{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 1,
+          "Description": "#I PS max aumentano di un <color=#99FFFFFF>12%</color>. Quando s'innescano reazioni lunari o si infliggono DAN da reazione lunare agli avversari, il personaggio che equipaggia l'arma recupera <color=#99FFFFFF>15</color> di energia e riceve l'effetto Vino sacro del Mare della fecondità per 12{NON_BREAK_SPACE}s, che aumenta i PS max di un ulteriore <color=#99FFFFFF>16%</color> e i DAN da CRIT dei DAN da reazione lunare di un <color=#99FFFFFF>80%</color>. L'effetto di ripristino dell'energia può attivarsi non più di una volta ogni 18{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 2,
+          "Description": "#I PS max aumentano di un <color=#99FFFFFF>14%</color>. Quando s'innescano reazioni lunari o si infliggono DAN da reazione lunare agli avversari, il personaggio che equipaggia l'arma recupera <color=#99FFFFFF>16</color> di energia e riceve l'effetto Vino sacro del Mare della fecondità per 12{NON_BREAK_SPACE}s, che aumenta i PS max di un ulteriore <color=#99FFFFFF>18%</color> e i DAN da CRIT dei DAN da reazione lunare di un <color=#99FFFFFF>100%</color>. L'effetto di ripristino dell'energia può attivarsi non più di una volta ogni 18{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 3,
+          "Description": "#I PS max aumentano di un <color=#99FFFFFF>16%</color>. Quando s'innescano reazioni lunari o si infliggono DAN da reazione lunare agli avversari, il personaggio che equipaggia l'arma recupera <color=#99FFFFFF>17</color> di energia e riceve l'effetto Vino sacro del Mare della fecondità per 12{NON_BREAK_SPACE}s, che aumenta i PS max di un ulteriore <color=#99FFFFFF>20%</color> e i DAN da CRIT dei DAN da reazione lunare di un <color=#99FFFFFF>120%</color>. L'effetto di ripristino dell'energia può attivarsi non più di una volta ogni 18{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+        },
+        {
+          "Level": 4,
+          "Description": "#I PS max aumentano di un <color=#99FFFFFF>18%</color>. Quando s'innescano reazioni lunari o si infliggono DAN da reazione lunare agli avversari, il personaggio che equipaggia l'arma recupera <color=#99FFFFFF>18</color> di energia e riceve l'effetto Vino sacro del Mare della fecondità per 12{NON_BREAK_SPACE}s, che aumenta i PS max di un ulteriore <color=#99FFFFFF>22%</color> e i DAN da CRIT dei DAN da reazione lunare di un <color=#99FFFFFF>140%</color>. L'effetto di ripristino dell'energia può attivarsi non più di una volta ogni 18{NON_BREAK_SPACE}s, anche quando il personaggio che equipaggia l'arma non è in campo."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

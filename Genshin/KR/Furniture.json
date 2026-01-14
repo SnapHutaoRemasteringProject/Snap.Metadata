@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "콜롬비나",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "자백",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "일루가",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "농업의 길-「검붉은 옥전(玉田)」",
-    "Description": "외경의 능력이 응집되어 있는 정돈된 논밭. 비옥한 토양에는 무한에 가까운 양분이 함유되어 있다. 씨앗만 심어주면, 정성스럽게 가꾸지 않아도 일정한 시간만 지나면 품질 좋은 작물을 수확할 수 있다. 하지만 이곳에 재배한 작물들은 종종 방대한 뿌리를 보유한 경우가 많으므로 충족한 성장 공간을 위해 한 논밭당 너무 많은 작물을 심지 않는 것이 적합하다.\n「씨앗 함」을 사용해 채집한 씨앗, 포자나 샘플을 사용해 이러한 논밭에 다음과 같은 작물을 심을 수 있다: 낙락베리, 달콤달콤꽃, 등불꽃, 절운고추, 당근, 흰 무, 민트, 버섯, 향신과, 뚠뚠 복숭아, 마코트 풀, 알갱이 열매, 카카오, 뚱룡장, 마몬치요, 형광 뿔버섯, 백령과, 여름빛 참나무 열매",
+    "Description": "외경의 능력이 응집되어 있는 정돈된 논밭. 비옥한 토양에는 무한에 가까운 양분이 함유되어 있다. 씨앗만 심어주면, 정성스럽게 가꾸지 않아도 일정한 시간만 지나면 품질 좋은 작물을 수확할 수 있다. 하지만 이곳에 재배한 작물들은 종종 방대한 뿌리를 보유한 경우가 많으므로 충족한 성장 공간을 위해 한 논밭당 너무 많은 작물을 심지 않는 것이 적합하다.\n「씨앗 함」을 사용해 채집한 씨앗, 포자나 샘플을 사용해 이러한 논밭에 다음과 같은 작물을 심을 수 있다: 낙락베리, 달콤달콤꽃, 등불꽃, 절운고추, 당근, 흰 무, 민트, 버섯, 향신과, 뚠뚠 복숭아, 마코트 풀, 알갱이 열매, 카카오, 뚱룡장, 마몬치요, 형광 뿔버섯, 백령과, 여름빛 참나무 열매, 송백향",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "농업의 길-「우거진 지전(芝田)」",
-    "Description": "외경의 능력이 응집되어 있는 정돈된 논밭. 비옥한 토양에는 무한에 가까운 양분이 함유되어 있다. 씨앗만 심어주면, 정성스럽게 가꾸지 않아도 일정한 시간만 지나면 품질 좋은 화초를 수확할 수 있다. 하지만 이곳에 재배한 작물들은 종종 방대한 뿌리를 보유한 경우가 많으므로 충족한 성장 공간을 위해 한 논밭당 너무 많은 화초를 심지 않는 것이 적합하다.\n「씨앗 함」을 사용해 채집한 씨앗, 포자나 샘플을 사용해 이러한 논밭에 다음과 같은 작물을 심을 수 있다: 예상꽃, 세실리아꽃, 유리백합, 풍차 국화, 청심, 유리주머니, 울림풀, 수메르 장미, 등방울꽃, 무지개 장미, 이글이글 국화, 구름바위 꽃, 서리촛대꽃",
+    "Description": "외경의 능력이 응집되어 있는 정돈된 논밭. 비옥한 토양에는 무한에 가까운 양분이 함유되어 있다. 씨앗만 심어주면, 정성스럽게 가꾸지 않아도 일정한 시간만 지나면 품질 좋은 화초를 수확할 수 있다. 하지만 이곳에 재배한 작물들은 종종 방대한 뿌리를 보유한 경우가 많으므로 충족한 성장 공간을 위해 한 논밭당 너무 많은 화초를 심지 않는 것이 적합하다.\n「씨앗 함」을 사용해 채집한 씨앗, 포자나 샘플을 사용해 이러한 논밭에 다음과 같은 작물을 심을 수 있다: 예상꽃, 세실리아꽃, 유리백합, 풍차 국화, 청심, 유리주머니, 울림풀, 수메르 장미, 등방울꽃, 무지개 장미, 이글이글 국화, 구름바위 꽃, 서리촛대꽃, 호랑가시나무풀",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "밤톨 산양·아이스 민트",
     "Description": "노드크라이에 사는 양들은 마치 민트 추출물을 바른 듯한 뿔과 무늬를 지니고 있다.\n「속세의 주전자」에 들어와 살게 된 뒤, 밤톨 산양의 털은 더욱 복슬복슬해져, 털갈이 철이 되면 그 주변에 부드러운 「털 비」가 내린다…\n정확한 원인을 알 수 없지만, 동물 중 일부는 주전자 속 선계에 들어온 뒤에도 여전히 달의 힘의 영향을 받아 형성된 독특한 외형을 유지한다. 포롱이가 구분하기 쉽도록, 페이몬이 그들의 외형에 맞는 새로운 이름을 지어줬다…",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "포획 획득"
+    ],
+    "Id": 369222,
+    "Name": "가시등 도마뱀붙이",
+    "Description": "몸놀림이 민첩한 도마뱀붙이. 발바닥에 흡착력이 있어 벽을 탈 수 있다.\n주전자 속 선계에 들어온 뒤에도 벽의 틈새에서 생활하지만, 천적의 위협이 크게 줄어들면서 활동 시간이 이전보다 길어졌다.\n정확한 원인을 알 수 없지만, 동물 중 일부는 주전자 속 선계에 들어온 뒤에도 여전히 달의 힘의 영향을 받아 형성된 독특한 외형을 유지한다…",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "포획 획득"
+    ],
+    "Id": 369223,
+    "Name": "회색목 황새",
+    "Description": "우아한 걸음걸이의 새. 회금빛 깃털이 가느다란 자태를 드러낸다.\n우아한 자태 때문에 일부 동물들은 마치 춤을 추는 것처럼 보이는 위협 동작을 보기 위해 일부러 이 새를 자극하기도 했지만, 현재는 포롱이가 이를 금지하고 있다.\n정확한 원인을 알 수 없지만, 동물 중 일부는 주전자 속 선계에 들어온 뒤에도 여전히 달의 힘의 영향을 받아 형성된 독특한 외형을 유지한다…",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "포획 획득"
+    ],
+    "Id": 369224,
+    "Name": "왕관 수리",
+    "Description": "눈빛이 예리한 수리. 왕관 모양의 머리깃이 왕다운 기품을 더해 준다.\n체격과 날개가 큰 왕관 수리는 고공 선회와 급강하 공격에 능해, 사냥감을 거의 놓치지 않는다. 주전자 속 선계에서 생활하게 된 뒤로는 먹이가 풍부해 사냥에 나서는 일이 드물어졌지만, 아름다운 왕관 모양의 머리깃을 뽐내기 위해 지금도 자주 하늘 높이 원을 그리며 날고는 한다…\n정확한 원인을 알 수 없지만, 동물 중 일부는 주전자 속 선계에 들어온 뒤에도 여전히 달의 힘의 영향을 받아 형성된 독특한 외형을 유지한다…",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "바레사를 모델로 제작한 눈사람 모형. 그녀를 상징하는 히어로 마스크가 장착되어 있어, 친근하면서도 열정적인 바레사의 모습을 정확하게 재현한다.\n각국 손님들이 편히 즐길 수 있도록, 「눈싸움 놀이」 디자이너가 특별히 이 귀여운 동료를 만들었다고 한다. 이 친구와 함께라면 뼈를 에는 듯한 드래곤 스파인의 추위 속에서도 따스함을 느낄 수 있을 것이다",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 361344,
+    "Name": "「고요한 밤의 밀담」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 테이블. 단정하고 간결한 형태에 전체가 철판으로 제작됐다.\n고요한 밤이 찾아오면 등지기들은 이 탁자에 모여 낮은 목소리로 이야기를 나누곤 한다. 큰 소리를 내지 않는 이유는, 어쩌면 주변을 떠도는 유령들을 자극하지 않기 위해서일지도 모른다…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 362277,
+    "Name": "간이 들것-「안전 이송」",
+    "Description": "디자인은 단순하지만 기능성은 뛰어난 들것으로, 두 개의 막대기를 들고 그 사이를 튼튼한 천으로 연결한 구조다. 등지기들이 자주 사용하는 의료 운반 도구다.\n일상생활에서는 등지기뿐 아니라 피라미다성의 일부 주민들도 거동이 불편한 이들을 돕기 위해 이런 형태의 들것을 사용한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 362278,
+    "Name": "「마음껏 마셔」",
+    "Description": "등지기들이 자주 사용하는 금속 음료 통으로, 용량이 커서 술을 덜어 마시기 편하다.\n모임이 열리는 자리에는 이런 음료 통이 여러 개 놓여 있어, 누구나 마음껏 마실 수 있다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 362133,
+    "Name": "「벗에게」",
+    "Description": "등지기들이 자주 사용하는 금속 벤치. 편안한 등받이는 없지만 좌석에는 쿠션이 깔려 있다.\n전우와 함께 이 의자에 나란히 앉아 거칠게 술잔을 기울이며 떠드는 소리 속에서도, 마음속 근심이 문득 고개를 들곤 한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 361412,
+    "Name": "의료용 간이 간호 침대",
+    "Description": "등지기들 사이에서 자주 사용되는 의료용 간이 간호 침대. 부상자의 누워 지내는 습관과 치료 목적에 맞춰 제작됐다.\n원래는 등받이의 곡률을 조절할 수 있는 손잡이가 달려 있었지만, 침대에 누운 사람들이 무의식중에 손잡이를 흔들어 「끼익끼익」 소음을 내는 바람에, 그 손잡이는 얼마 지나지 않아 제거됐다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 364226,
+    "Name": "「피라미다의 깃발」",
+    "Description": "피라미다성 안에서 흔히 볼 수 있는 깃발. 등지기의 등대 표식이 그려져 있다. 어둠 속에서도 늘 등불을 높이 들고 미래를 지켜보려는 등지기들의 의지를 상징한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 371014,
+    "Name": "조절식 철제 방벽",
+    "Description": "피라미다성에서 흔히 볼 수 있는 조절식 철제 방벽. 주로 방어 시설로 사용된다.\n상당한 공격을 견뎌낼 수 있지만, 다른 곳으로 옮기려면 꽤 많은 수고가 필요하다는 단점도 매우 명확하다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 371015,
+    "Name": "「고독한 파수의 성」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 건축물. 주재료는 철판이며 내부 공간은 좁지만 건설 비용이 비교적 낮다는 장점이 있다.\n이 집에 거주했던 한 남성은 「차라리 이런 집에서 혼자 지내는 게 낫지, 그렇게 많은 사람과 큰 집에 함께 사는 건 싫어!」라고 말했다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 371016,
+    "Name": "「안전한 파수의 성」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 건축물. 주재료는 철판이며 곡선 형태의 지붕을 갖춘 독특한 외관이 특징이다.\n내부 공간이 넓지 않고 외형 또한 화려하지 않지만, 구조가 견고해 많은 이들에게 안전한 거처가 되어 준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371017,
+    "Name": "「한 칸 공간」",
+    "Description": "평범한 천막. 지붕은 노란색 천으로 제작됐다.\n사용된 재료가 단순하고 조립과 해체가 쉬워, 야외 행사 진행에 사용하면 빠르고 간편하게 공간을 구분할 수 있다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 371018,
+    "Name": "「다정한 파수의 성」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 건축물. 층고가 높아 피라미다성 안에서 주로 의료와 간호를 제공하는 장소로 쓰인다.\n피라미다성의 주민들은 대체로 건강한 편이라 의무실 앞은 대부분 한산하지만, 계절이 바뀔 때면 잠깐이지만 북적이기도 한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 371019,
+    "Name": "「강인한 파수의 성」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 건축물. 층고가 매우 높아 마치 탑처럼 보이며 피라미다성 안에서는 주로 단조 작업 공간으로 사용된다.\n피라미다성의 날씨가 가장 추울 때도 이 건물 주변은 늘 따뜻하다. 망치 아래에서 불꽃이 튀고, 보일러에서는 뜨거운 김이 피어오르기 때문이다…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기행·진주의 노래 구매 획득"
+    ],
+    "Id": 371020,
+    "Name": "「긴 밤의 여정」",
+    "Description": "역사 속 유명 인물을 본떠 제작된 대형 조각상. 검을 쥐고 앞으로 나아가는 굳건한 자세를 하고 있다. 이 조각상 앞에 잠시 발걸음을 멈춘 이들조차, 그 안에 담긴 결의와 힘을 고스란히 느낄 수 있다.\n그는 「등지기」 군단의 초대 등지기장이었으며, 끝없이 긴 밤을 홀로 걸어가며 오직 모두를 위한 한 줄기 희망의 새벽빛을 지켜내려 했다고 전해진다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 371021,
+    "Name": "등대-「쏟아지는 햇빛」",
+    "Description": "「등지기」의 거대한 등대를 본떠 제작한 모형. 조용히 자리를 지키는 모습이 묵직하고 믿음직한 인상을 준다.\n「먹구름이 걷히고 햇빛이 쏟아지면, 더는 마물들이 어둠을 틈타 튀어나오지 않겠죠」 일루가 대장은 이렇게 말했다. 어쩌면 그날이 와야만 모든 등지기들이 손에 쥔 무기를 내려놓고 등대에서 걸어 나와, 따뜻한 햇살이 가득한 휴일을 누릴 수 있을지도 모른다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 374332,
+    "Name": "「따스한 정취」",
+    "Description": "상판이 넓은 식탁. 본체는 금속으로 제작되었으며 내부를 비워 둔 구조를 택했다. 덕분에 상판 아래에는 작은 화로를 놓을 공간까지 마련되어 있어, 식탁 위에 올린 음식의 온기를 유지할 수 있다.\n푸짐한 음식을 즐기고 마음껏 잔을 기울이는 것, 아마 이 식탁 앞에 앉는 사람이라면 누구나 같은 생각을 품게 될 것이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 374333,
+    "Name": "작전 모형판-「사전 모의」",
+    "Description": "대단장 바르카 소유의 모형판을 모델로 제작한 모형. 간결하지만 실용성을 중시했다.\n「우리가 망설이는 사이에, 심연은 수많은 사람의 목숨을 빼앗는다. 한시라도 빨리 출발해야 그들의 운명을 바꿀 수 있어」 정보는 행군의 토대가 된다. 모형판 위에서 앞으로 벌어질 수 있는 상황을 미리 그려볼 수 있다면, 이동이나 전투로 인한 피해도 크게 줄어들지 않을까…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 374642,
+    "Name": "「단호한 지휘」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 작전판. 여러 지역의 지도가 붙어 있어 모두가 함께 논의할 때 한눈에 살펴볼 수 있다.\n매우 소박한 도구지만, 생각을 정리하고 전체 상황을 조망해야 할 때는 종종 중요한 역할을 해낸다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 374643,
+    "Name": "간이 무기 거치대-「긴급 출동」",
+    "Description": "비교적 단순한 구조의 무기 거치대. 무기와 방패를 올려둘 수 있는 공간이 마련되어 있다.\n보관할 때부터 무기 종류를 나눠 정리해 두면, 급히 출전해야 하는 이들도 훨씬 수월하게 꺼내 쓸 수 있다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 374644,
+    "Name": "「빛나는 이동식 오두막」",
+    "Description": "독특한 외형에 이동이 편리한 달빛 객차. 달의 힘을 원료로 삼아 움직인다. 등지기들이 스네즈나야의 기관차를 개조해서 만든 운송 수단이다.\n밤이 되면 등지기들은 이를 이동식 등대처럼 활용하곤 한다. 편하고, 무엇보다 충분히 밝기 때문이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「거점 건설」 거점 레벨 보상"
+    ],
+    "Id": 374645,
+    "Name": "마녀 조각상-「담긴 순간」",
+    "Description": "천사를 본떠 제작한 모형. 어떤 순간에 드러난 천사의 왕성한 생명력을 그대로 담아낸 듯한 모습이다.\n「운명은 예측할 수 없지만… 난 내가 본 사람들이 아름다운 결말로 향할 수 있게 인도하고 싶어」 미래의 매 순간은 결코 정해진 것이 아니기에, 지금 이 순간을 담아내는 일은 많은 이들에게 아주 중요한 배움이 되기도 한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374819,
+    "Name": "「황금 나무」",
+    "Description": "금빛으로 반짝이는 덕담 엽전이 잔뜩 걸린 관상 분재. 「재물이 들어오고, 부귀가 가득하다」는 의미 덕분에 리월 사람들에게 큰 사랑을 받고 있다.\n「오! 정원을 황금 나무로 가득 채워 두면, 내년에는 혹시…」 「황금 나무」를 장식하는 데 열중하는 일부 애호가들은 이렇게 말하곤 한다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374820,
+    "Name": "두꺼비등-「길 막는 부하」",
+    "Description": "어두운 색의 두꺼비를 본떠 만든 두꺼비등. 독특한 외형 덕분에 「달 삼키는 두꺼비」 이야기를 들은 아이들이 무척 얄밉게 여기곤 하는 존재다.\n이 등이 길을 가로막고 있을 때는 피해 가는 편이 좋다. 「길 막는 부하」는 생각보다 꽤 성가신 상대니까…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 374821,
+    "Name": "두꺼비등-「길 막는 대장」",
+    "Description": "붉은색 옥을 품은 두꺼비를 본떠 만든 두꺼비등. 독특한 외형 덕분에 「달 삼키는 두꺼비」 이야기를 들은 아이들이 무척 얄밉게 여기곤 하는 존재다.\n이 등이 길을 막아서더라도 물러서지 마라. 「길 막는 대장」은 겁먹은 사람을 단번에 알아본다…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 374647,
+    "Name": "「일렁이는 생기」",
+    "Description": "정확한 용도를 알 수 없는 배양 용기. 관을 통해 세 개의 투명한 용기가 서로 연결되어 있다.\n가장 큰 용기 안에는 형광빛이 반짝이며 떠다니는데, 마치 생명처럼 가볍고도 아름답게 흔들린다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 373223,
+    "Name": "「무성한 흐름」",
+    "Description": "폐기된 연구소에서 흔히 볼 수 있는 대형 분재. 그 안에서 자라는 식물들은 생기가 넘쳐 보기만 해도 절로 기분이 좋아진다.\n왜인지 언제 보아도 늘 푸르름이 가득한 모습이다. 처음 보는 사람들 사이에서는 특별한 약물을 사용해 물을 주는 것이 아니냐는 추측도 나온다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 373224,
+    "Name": "「싱그러운 흐름」",
+    "Description": "폐기된 연구소에서 흔히 볼 수 있는 소형 분재. 그 안에서 자라는 식물들은 생기가 넘쳐 보기만 해도 절로 기분이 좋아진다.\n왜인지 언제 보아도 늘 푸르름이 가득한 모습이다. 처음 보는 사람들 사이에서는 특별한 약물을 사용해 물을 주는 것이 아니냐는 추측도 나온다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360469,
+    "Name": "경량 금속 등불",
+    "Description": "피라미다성 주민들이 흔히 사용하는 경량 금속 등불. 밝기는 그리 강하지 않지만 휴대하기에 편하다.\n아이들이 놀다 하늘의 막이 완전히 어두워질 즈음이 되면, 이 등불을 하나씩 들고 무리를 지어 집으로 돌아간다. 그 모습은 마치 땅 위에 흩어진 별들처럼 떠들썩하고 반짝인다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "노드크라이 신묘한 보물상자 보상"
+    ],
+    "Id": 360470,
+    "Name": "입식 가로등-「저손실 저소모」",
+    "Description": "피라미다성에서 흔히 볼 수 있는 입식 가로등. 단정한 형태에 밝게 빛난다.\n피라미다성의 특수 단조 공법으로 제작한 소재를 사용해 비바람에도 쉽게 녹슬지 않는다——「적은 손실, 적은 투입」이라는 이 가로등의 특징은, 성 주민들 다수가 추구하는 생활 철학과도 잘 맞아떨어진다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360471,
+    "Name": "빛나는 소등-「소원을 담아」",
+    "Description": "색감이 화사하고 빛이 따뜻한 소등. 재료가 간단해 제작도 비교적 수월하다.\n이 소등은 소중한 소원과 그리움을 가득 품은 채, 밤하늘을 따라 멀리 떠다닌다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360472,
+    "Name": "빛나는 소등-「친구와의 약속」",
+    "Description": "색감이 화사하고 빛이 따뜻한 소등. 더 먼 거리를 날 수 있도록 한층 정교하게 설계됐다.\n천 리 밖에 떨어져 있더라도, 이 소등에 담긴 마음만은 상대에게 전해진다고 한다",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360473,
+    "Name": "빛나는 소등-「행운의 선율」",
+    "Description": "신염이 직접 제작한 독특한 형태의 소등. 보기만 해도 따뜻함과 평온함, 그리고 행복한 기분이 전해진다.\n「엄청난 공연을 열어볼까!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360474,
+    "Name": "빛나는 소등-「새해의 길운」",
+    "Description": "가명이 직접 제작한 독특한 형태의 소등. 보기만 해도 따뜻함과 평온함, 그리고 행복한 기분이 전해진다.\n「만사형통하고, 늘 건강하길」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360475,
+    "Name": "빛나는 소등-「봄을 알리는 제비」",
+    "Description": "남연이 직접 제작한 독특한 형태의 소등. 보기만 해도 따듯함과 평온함, 그리고 행복한 기분이 전해진다.\n「무탈하고 평안하게, 늘 즐겁게!」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360476,
+    "Name": "빛나는 소등-「향기로운 바람」",
+    "Description": "에밀리가 직접 제작한 독특한 형태의 소등. 보기만 해도 따뜻함과 평온함, 그리고 행복한 기분이 전해진다.\n「모두가 향기를 즐길 수 있는 여유로운 시간을 누리길」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360477,
+    "Name": "빛나는 소등-「합격 기원」",
+    "Description": "레일라가 직접 제작한 독특한 형태의 소등. 보기만 해도 따뜻함과 평온함, 그리고 행복이 전해진다.\n「아카데미아에 있는 모든 학생들의 논문이 무사히 합격되길…」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360478,
+    "Name": "빛나는 소등-「소원성취」",
+    "Description": "독특한 형태에 소가 직접 제작한 소등. 보기만 해도 따듯함과 평온함, 그리고 행복한 기분이 전해진다.\n「만사 평안」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 360479,
+    "Name": "「시간의 틈을 달리는 백마」",
+    "Description": "달을 수호하는 한 선인을 본떠 제작한 거대한 소등. 절벽의 틈 사이를 뛰어넘는 눈부신 백마의 모습을 하고 있다. 뭉게구름이 감싸안고, 고운 노을이 길게 드리워진다. 지금은 많은 이들이 백마 선인이 달에서 옥으로 만든 마차를 타고 내려와 자신의 소원에 응해 주지 않을까 하는 기대를 품고 소등에 소원을 적어 단다",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

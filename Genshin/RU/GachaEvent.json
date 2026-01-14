@@ -3902,6 +3902,63 @@
     ]
   },
   {
+    "Name": "Лунные сны",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/2205fb0e2df4f1892497d8e84e1e15cc_5239333878655416061_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/2205fb0e2df4f1892497d8e84e1e15cc_5239333878655416061_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Звёздное пробуждение",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/45ca0708c09ce20601e068ee334f7010_3317090909501451217_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/45ca0708c09ce20601e068ee334f7010_3317090909501451217_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/931e107c1bed62aaf19b4f041a5f27e5_1076527462091111328_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/931e107c1bed62aaf19b4f041a5f27e5_1076527462091111328_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
+    ]
+  },
+  {
     "Name": "Пепельная тень очага",
     "Version": "5.3",
     "Order": 2,
@@ -5040,6 +5097,42 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Гармония изобилия",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/23e29bb56551fda22a18667c1d358b33_7959093440984713344_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/23e29bb56551fda22a18667c1d358b33_7959093440984713344_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000126
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
+    ]
+  },
+  {
+    "Name": "Завет глубин",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/da1f060dea61d71802403a5d551addce_9056764712818458692_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/da1f060dea61d71802403a5d551addce_9056764712818458692_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000087
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
     ]
   }
 ]

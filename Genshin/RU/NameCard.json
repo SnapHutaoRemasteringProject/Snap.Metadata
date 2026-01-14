@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Когда-нибудь",
+    "Description": "Именная карта.\nОна танцует в прозрачной воде мелких ручьёв и перекатов. Она спит под бледной тенью гор. Она странствует сквозь рябь времени, играя в прятки с куухенки.\nОна отдыхает в саду всего сущего и напевает каждому живому существу. В тихие часы перед рассветом она ждёт момента, когда их встреча наконец свершится.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Дымка",
+    "Description": "Именная карта.\nНебо и земля всего лишь пристанище путника, а время странник, переходящий из эпохи в эпоху.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Соловей кошмара",
+    "Description": "Именная карта.\nПтица, пережившая самый тёмный час ночи, отвечает миру своей страстью и сжигает каждый оставшийся кошмар собственной яростью.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Взгляд вдаль",
+    "Description": "Именная карта.\nПутешественник однажды поднялся на самую высокую точку города и всмотрелся в даль, будучи уверенным, что те далёкие виды со временем станут вехами его странствия.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ночной фонарь",
+    "Description": "Именная карта.\nВсегда найдётся лампа, что загорается в самый тёмный час небес. Так бывает одну ночь, и так бывает тысячу ночей.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Сияние фонарей",
+    "Description": "Именная карта.\nПопроси за меня светлую луну, пожелай мне ясного утра. Пусть я надену свой весенний плащ и пойду туда, где льётся лунный свет.",
+    "SpecialDescription": "Именная карта «Сияние фонарей»",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "จินตนาการกระดาษสิบ Mora",
+    "Description": "รวบรวม \"ตำนานจอมโจรผู้ยิ่งใหญ่ Reed Miller\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "ศรัทธาที่มอบให้แด่ความว่างเปล่า",
+    "Description": "รวบรวม \"เพลงสวดแห่งสุดเขตแดนเหนือ\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "...ดั่งน้ำผึ้งจากผึ้ง",
+    "Description": "รวบรวม \"เสียงสะท้อนจากหอยสังข์\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "ทะลวงม่านหิมะแห่งฟากฟ้า",
+    "Description": "รวบรวม \"บทแห่งสายลมเหนือ\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "ประวัติศาสตร์ของเมือง",
+    "Description": "รวบรวม \"ประวัติศาสตร์ภูตดาราสีจาง\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "ดินแดนแห่งภูตใต้แสงจันทร์",
+    "Description": "รวบรวม \"เรื่องเล่ายามราตรีจากชายแดน\" ให้ครบเซ็ต",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "นักล่าสมบัติธุลีจันทร์ II",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 45 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "นักล่าสมบัติธุลีจันทร์ II",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 90 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "นักล่าสมบัติธุลีจันทร์ II",
+    "Description": "เปิดหีบสมบัติในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 180 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "นักผจญภัยธุลีจันทร์ II",
+    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil 5 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "สำรวจโลกกว้าง - เกาะแสงจันทร์ II",
+    "Description": "เปิดแผนที่เนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil ในพื้นที่ Nod-Krai",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "ป่าเหมันต์เหนือราตรีอันมืดมิด II",
+    "Description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดของเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil ในพื้นที่ Nod-Krai",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "เส้นทางอันศักดิ์สิทธิ์ - เกาะแสงจันทร์ II",
+    "Description": "ปลดผนึกวิหารแห่งห้วงลึกทั้งหมดในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil ในพื้นที่ Nod-Krai",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "สำรวจรอยราตรี - เกาะแสงจันทร์ II",
+    "Description": "ปลดผนึกสถานที่ซ่อนสมบัติของภูตจันทราทั้งหมดในเนินชมทะเลเวิ้งว้าง, ที่ราบกระแสคลื่น และยอดเขา Ashveil ในพื้นที่ Nod-Krai",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "เมื่อสายลมเริ่มพัดพา ใบไม้ก็ปลิดปลิว",
+    "Description": "นกไนติงเกลที่คาบไส้ตะเกียงที่กำลังลุกไหม้ในปาก จะโผบินขึ้นฟ้าในคืนเดือนมืดเท่านั้น",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "หากเมล็ดพันธุ์ไม่ตาย",
+    "Description": "แม้ดอกจะร่วงโรยไป แต่ใบจะยังคงรักษาสัญญา",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "ก่อสร้างจุดรวมพล - ค่ายริมผา",
+    "Description": "ก่อสร้าง \"ค่ายริมผา\" ถึงเลเวลสูงสุด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "ก่อสร้างจุดรวมพล - สวนของแม่มด",
+    "Description": "ก่อสร้าง \"สวนของแม่มด\" ถึงเลเวลสูงสุด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "ก่อสร้างจุดรวมพล - ป้อมปราการ Favonius",
+    "Description": "ก่อสร้าง \"ป้อมปราการ Favonius\" ถึงเลเวลสูงสุด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "บทเพลงราตรีสีขาวแห่งจันทรา",
+    "Description": "สำเร็จ \"บันทึกเคียงจันทร์ III\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "ลงทัณฑ์คนบาปด้วยความผิด",
+    "Description": "ช่วย Janusz กำจัดมอนสเตอร์ในหนองน้ำเงามรณา",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "ไพ่แห่งความตาย",
+    "Description": "วันสิ้นโลกยังมาไม่ถึง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "บอกลาความหวัง บอกลาความหวาดกลัว",
+    "Description": "เป็นสักขีพยานการผุดขึ้นของวังโบราณจากใต้พื้นพิภพ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"จันทราบูรพา สุริยันประจิม\"",
+    "Description": "สำเร็จ \"จันทราบูรพา สุริยันประจิม\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "ใครกันคือผู้คอยสอดส่องผู้สอดส่อง",
+    "Description": "ได้รู้ถึงแผนการของ Grazina",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "ความทรงจำของหมาป่าผู้โดดเดี่ยว",
+    "Description": "และนับจากนั้น อัศวินผู้เปรอะเปื้อนด้วยเลือดก็ตัดขาดจากโลก...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "ที่พักพิงของวิญญาณวีรชน",
+    "Description": "เป็นพยานในเรื่องราวสุดท้ายของ \"อาชาแห่งสายลมหนาว\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "เส้นทางแห่งการกลับบ้าน",
+    "Description": "ช่วยเหลือ Kuzmich ในการเดินทางกลับบ้านเกิด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "ต้องมีขนมปังแน่นอน",
+    "Description": "ใช้เตาย่างเพื่อย่าง \"Mushroom Phantasm\" ที่ร้อนระอุ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "เนินเขาใต้แสงจันทร์",
+    "Description": "ไขความลับแคปซูลเวลาที่ชาว Hyperborea นิรนามทิ้งไว้",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "เส้นทางแห่งเกียรติยศนำไปสู่สุสาน",
+    "Description": "กำจัดพรรคพวกของ \"ศาสตราจารย์\" Rotwang จนหมดสิ้น",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "ทุกอย่างขึ้นอยู่กับเวลา",
+    "Description": "จับจังหวะโต้กลับได้อย่างแม่นยำ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "อย่าทำตกพื้น",
+    "Description": "ใช้แรงจันทราผันดูดและขว้างแมนดราโกรา",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "เส้นสีดำบาง ๆ",
+    "Description": "ชำระล้างพลังของ Abyss ที่เอ่อล้นออกมา",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "กระโดดพลิ้วลอยล่อง",
+    "Description": "สัมผัสได้ถึงความนุ่มนวล และความยืดหยุ่นของดอกฝ้าย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "คนเลี้ยงแพะ",
+    "Description": "เดินเล่นอย่างสบาย ๆ กับแพะจอมขี้เกียจ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "จมดิ่งสู่ความมืดมิด",
+    "Description": "หมดสติเนื่องจากถูก \"พลัง Abyss กัดกร่อน\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "เรื่องราวควรจะดำเนินไปเช่นนี้",
+    "Description": "ร่วมเป็นสักขีพยานในการกลับมาของดวงจันทร์แห่งฝันร้าย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "อย่าริอ่านหยั่งเชิงเทพเจ้า",
+    "Description": "ฝ่าฝืนกฎที่ Il Dottore ตั้งไว้",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"เราเรียกมันว่าประสิทธิภาพ\"",
+    "Description": "ทำลายโล่ของมัน โดยไม่ต้องกำจัด Fisher of Hidden Depths ที่ถูกเรียกโดย Lord of the Hidden Depths: Whisperer of Nightmares แม้แต่ตัวเดียว",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "นักเดินทางคนหนึ่ง ในคืนฤดูหนาว",
+    "Description": "เส้นทางของเธอจะนำพาไปสู่ที่ใด?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "ผู้เดินทางและเงาของเขา",
+    "Description": "บางทีนี่อาจเป็นพลังที่ควรจะมีมาตั้งแต่แรก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "\"บ้านในอุดมคติ\" ของผู้นอกรีต",
+    "Description": "สำรวจเขตแดนพลังงานที่ The Doctor สร้างขึ้น",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "เงยมองแสงจันทร์ในอดีตกาล",
+    "Description": "ได้พบกับ \"เทพจันทรา\" ในคุกที่กักขัง เทพธิดาจันทราทั้งสาม \"ในอดีต\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "จันทราใหม่หวนคืน",
+    "Description": "ในเวลานี้ \"จันทราใหม่\" ลอยขึ้นเป็นครั้งแรก เพื่อขับเคลื่อนกงล้อแห่งโชคชะตา...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "ออกเดินทางสู่อนาคต",
+    "Description": "เป็นสักขีพยานในการรวมตัวกันของกองกำลังต่าง ๆ แห่ง Nod-Krai",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "To the Moon",
+    "Description": "ไปยังพื้นผิวดวงจันทร์",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "ดวงจันทร์ที่แท้จริง",
+    "Description": "สำเร็จ \"ดวงจันทร์ที่แท้จริง\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

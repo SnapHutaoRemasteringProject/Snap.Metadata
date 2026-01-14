@@ -711,7 +711,7 @@
       {
         "Id": 1001,
         "Name": "Shards Are Gems Too",
-        "Description": "When Kachina mounts or dismounts <color=#FFD780FF>Turbo Twirly</color>, she will absorb nearby Elemental Shards created by Crystallize.\nAdditionally, when a party member picks up such a Shard, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
+        "Description": "When Kachina mounts or dismounts <color=#FFD780FF>Turbo Twirly</color>, she will absorb nearby Elemental Shards created by Crystallize.\nAdditionally, when a party member picks up such a Shard, or triggers Lunar-Crystallize reactions, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
         "Icon": "UI_Talent_S_Kachina_01"
       },
       {

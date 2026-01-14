@@ -1078,7 +1078,7 @@
       },
       {
         "Title": "Jahoda's Hobbies",
-        "Context": "Sometimes, I sew rag dolls when I've got some downtime. I've had formal lessons from a teacher or anything, but my old... acquaintances all said I was pretty good. I'll make you one next time."
+        "Context": "Sometimes, I sew rag dolls when I've got some downtime. It's not like I had formal lessons from a teacher or anything, but my old... acquaintances all said I was pretty good. I'll make you one next time."
       },
       {
         "Title": "Jahoda's Troubles",
@@ -1244,7 +1244,7 @@
     {
       "Id": 212400,
       "Name": "Nova's Whisper",
-      "Description": "Jahoda's outfit. Adopting a new look is the first step toward bidding farewell to the past. The clothes from this ensemble were custom-made at the behest of Jahoda's dearest, most brilliant, wisest, and all-knowingest boss, Nefer, while the goggles were a gift from Aino, and the hood was hand-made by Ineffa.",
+      "Description": "Jahoda's outfit. Adopting a new look is the first step toward bidding farewell to the past. The clothes from this ensemble were custom-made at the behest of Jahoda's dearest, most brilliant, wisest, and all-knowingest boss, Nefer, while the goggles were a gift from Aino, and the beanie was hand-made by Ineffa.",
       "IsDefault": true
     }
   ],
@@ -1258,7 +1258,7 @@
   ],
   "NameCard": {
     "Name": "Jahoda: Helping Hand",
-    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hands!\" — Surely that means the owner of these \"lendable hands\" is both agile and reliable, right?",
+    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hand!\" — Surely that means the owner of said \"lendable hand\" is both agile and reliable, right?",
     "Icon": "UI_NameCardIcon_Jahoda",
     "PicturePrefix": "UI_NameCardPic_Jahoda"
   }

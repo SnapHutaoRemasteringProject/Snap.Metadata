@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Pyro-Kristall-Schutz</color>",
-    "Description": "#Erhöht den Pyro- sowie Geo-Schaden aller Truppenmitglieder um <color=#f39001>50{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s durch Kristallisation entstehende Splitter aus der Nähe."
+    "Description": "#Erhöht den Pyro- sowie Geo-Schaden aller Truppenmitglieder um <color=#f39001>70{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s durch Kristallisation entstehende Splitter aus der Nähe."
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Geo-Kristall-Schlag</color>",
-    "Description": "#Wird während der Wirkungsdauer des <color=#f39001>Pyro-Kristall-Schutzes</color> alle <color=#f39001>{0}</color>{NON_BREAK_SPACE}s an der Position der Figur ausgelöst. Verursacht <color=#e09800>Geo-Flächenschaden</color>."
+    "Description": "Wird während der Wirkungsdauer des <color=#f39001>Pyro-Kristall-Schutzes</color> in gewissen Zeitabständen an der Position der Figur ausgelöst und verursacht <color=#e09800>Geo-Flächenschaden</color>."
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Hydro-Kristall-Schutz</color>",
-    "Description": "#Erhöht den Hydro- und Geo-Schaden aller Truppenmitglieder um <color=#f39001>50{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s durch Kristallisation entstehende Splitter aus der Nähe."
+    "Description": "#Erhöht den Hydro- und Geo-Schaden aller Truppenmitglieder um <color=#f39001>70{NON_BREAK_SPACE}%</color> und den mit der Reaktion Mond-Kristallisation verursachten Schaden um <color=#f39001>75{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s die durch Kristallisation entstehende Splitter aus der Nähe."
   },
   {
     "Id": 211802,
@@ -397,6 +397,36 @@
   {
     "Id": 11240002,
     "Name": "Katzenförmige Geräte für Hilfe und Koordination im Haushalt",
-    "Description": "#Eines der kleinen Hilfsmittel, die die frühere Schatzjägerin Jahoda bei sich trug. Es wird hervorgenommen, nachdem sie ihre Spezialfähigkeit <color=#FFD780FF>Geheimgeräte – Die sieben Objekte des Jägers</color> angewendet hat.\nKatzenförmige Geräte für Hilfe und Koordination im Haushalt stellen dem aktuellen Truppenmitglied auf dem Feld fortlaufend LP wieder her und stellen zudem dem Truppenmitglied mit den wenigsten LP in der Nähe LP wieder her, wenn die LP der geheilten Figur über 70{NON_BREAK_SPACE}% liegen.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Wandelt, wenn Gegner in der Nähe vom <color=#FF9999FF>Pyro</color>-, <color=#80C0FFFF>Hydro</color>-, <color=#FFACFFFF>Elektro</color>- oder <color=#99FFFFFF>Kryo</color>-Element betroffen sind, die katzenförmigen Geräte für Hilfe und Koordination im Haushalt in der Reihenfolge <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Elektro</color> und <color=#99FFFFFF>Kryo</color> in den entsprechenden Elementartyp um. Bei jedem Hervorholen kann der Elementartyp der katzenförmigen Geräte für Hilfe und Koordination im Haushalt nur einmal umgewandelt werden. Nach der Umwandlung dessen Elementartyps greifen sie in gewissen zeitlichen Abständen bis zu 3 Gegner in der Nähe an und verursachen den entsprechenden Elementar-Schaden."
+    "Description": "#Eines der kleinen Hilfsmittel, die die frühere Schatzjägerin Jahoda bei sich trug. Es wird hervorgenommen, nachdem sie ihre Spezialfähigkeit <color=#FFD780FF>Geheimgeräte – Die sieben Objekte des Jägers</color> angewendet hat.\nKatzenförmige Geräte für Hilfe und Koordination im Haushalt stellen dem aktuellen Truppenmitglied auf dem Feld fortlaufend LP wieder her und stellen zudem dem Truppenmitglied mit den wenigsten LP in der Nähe LP wieder her, wenn die LP der geheilten Figur über 70{NON_BREAK_SPACE}% liegen.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Wandelt, wenn Gegner in der Nähe vom <color=#FF9999FF>Pyro</color>-, <color=#80C0FFFF>Hydro</color>-, <color=#FFACFFFF>Elektro</color>- oder <color=#99FFFFFF>Kryo</color>-Element betroffen sind, die katzenförmigen Geräte für Hilfe und Koordination im Haushalt in der Reihenfolge <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Elektro</color> und <color=#99FFFFFF>Kryo</color> in den entsprechenden Elementartyp um. Bei jedem Hervorholen kann der Elementartyp der katzenförmigen Geräte für Hilfe und Koordination im Haushalt nur einmal umgewandelt werden. Nach der Umwandlung deren Elementartyps greifen sie in gewissen zeitlichen Abständen bis zu 3 Gegner in der Nähe an und verursachen den entsprechenden Elementar-Schaden."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Zusätzliche Verstärkungseffekte",
+    "Description": "#Verleiht {F#der}{M#dem} Reisenden für jedes Element, mit dem {F#sie}{M#er} im Einklang gestanden hat, einen Bonus für das entsprechende Attribut:\n<color=#80FFD7FF>Anemo</color>: Erhöht die KT um 10{NON_BREAK_SPACE}%.\n<color=#FFE699FF>Geo</color>: Erhöht die VTD um 20{NON_BREAK_SPACE}%.\n<color=#FFACFFFF>Elektro</color>: Erhöht die Aufladerate um 20{NON_BREAK_SPACE}%.\n<color=#99FF88FF>Dendro</color>: Erhöht die Elementarkunde um 60 Punkte.\n<color=#80C0FFFF>Hydro</color>: Erhöht die LP um 20{NON_BREAK_SPACE}%.\n<color=#FF9999FF>Pyro</color>: Erhöht den ANG um 20{NON_BREAK_SPACE}%.\n<color=#99FFFFFF>Kryo</color>: Erhöht den kritischen Schaden um 20{NON_BREAK_SPACE}%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Gravitationswelle",
+    "Description": "#Nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>Ewige Gezeiten</color> beschwört Columbina die <color=#FFD780FF>Gravitationswelle</color> herauf.\nDie Gravitationswelle folgt der aktuellen Figur und fügt den Gegnern in der Umgebung fortlaufend <color=#80C0FFFF>Hydro-Flächenschaden</color> zu.\n\nVerleiht Columbina zudem 2{NON_BREAK_SPACE}s lang den Effekt „Offenbarung des Neumonds“, wenn Truppenmitglieder in der Nähe während der Wirkungsdauer der Gravitationswelle eine Mondleuchten-Reaktion auslösen oder Schaden durch eine Mondleuchten-Reaktion verursachen. Dabei kann fortlaufend <color=#FFD780FF>Gravitation</color> angesammelt werden, alle 2{NON_BREAK_SPACE}s 20 Punkte.\nDer Höchstwert der Gravitation liegt bei 60 Punkten. Diese werden nach dem Ende der Wirkungsdauer der Gravitationswelle entfernt.\nWenn der Gravitations-Höchstwert erreicht wurde, wird eine spezielle <color=#FFD780FF>Gravitations-Interferenz</color> ausgelöst, die unterschiedliche Effekte hervorruft, abhängig davon, durch welche Art von Mondleuchten-Reaktion Columbina am meisten Gravitation angesammelt hat. Wenn die Art Mondleuchten-Reaktion, die am meisten Gravitation für Columbina gesammelt hat, folgende ist:\n· <color=#FFD780FF>Mond unter Strom</color>: Die Gravitations-Interferenz verursacht einmal <color=#FFACFFFF>Elektro-Flächenschaden</color>. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond unter Strom“.\n· <color=#FFD780FF>Mondspross</color>: Die Gravitations-Interferenz schießt 5 Mondtau-Siegel auf Gegner in der Umgebung ab, die <color=#99FF88FF>Dendro-Schaden</color> verursachen. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mondspross“.\n· <color=#FFD780FF>Mond-Kristallisation</color>: Die Gravitations-Interferenz verursacht einmal <color=#FFE699FF>Geo-Flächenschaden</color>. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion „Mond-Kristallisation“."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Mondgebiet",
+    "Description": "Ein Gebiet, das Columbina nach dem Anwenden der Spezialfähigkeit <color=#FFD780FF>Melancholie unterm Mond</color> erschafft.\nErhöht den von allen Truppenmitgliedern verursachten Schaden der Mondleuchten-Reaktionen, wenn sich die aktuelle Figur auf dem <color=#FFD780FF>Mondgebiet</color> befindet."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Grünender Mondtau",
+    "Description": "Eine spezielle Form des Grünenden Taus, die durch Columbinas passives Talent <color=#FFD780FF>Gesetz des Neumonds</color> bereitgestellt wird. Die Obergrenze und Dauer werden separat vom Grünenden Tau berechnet.\nWenn der Grünende Tau der Truppe aufgebraucht ist, wird stattdessen <color=#FFD780FF>Grünender Mondtau</color> verbraucht.\nDie Obergrenze des <color=#FFD780FF>Grünenden Mondtaus</color> beträgt drei Stapelungen."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Lied der Nachtigall",
+    "Description": "Der Effekt, den Illuga nach dem Anwenden der Spezialfähigkeit <color=#FFD780FF>Schattenlose Reflektion</color> erhält. Kann den durch die aktuelle Figur verursachten <color=#FFE699FF>Geo-SCH</color> erhöhen."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Wechsel des Mondabschnitts",
+    "Description": "#Versetzt Zibai nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>Himmel und Erde in Gestalt</color> in diesen Modus. Dieser Modus dauert bis zu {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s und verfügt über folgende Eigenschaften:\n· Wandelt Schaden von Standardangriffen und heftigen Schlägen in <color=#FFE699FF>Geo-SCH</color> um, der nicht von anderen Elementen überdeckt werden kann.\n· Ersetzt die Elementarfähigkeit <color=#FFD780FF>Himmel und Erde in Gestalt</color> durch die besondere Elementarfähigkeit <color=#FFD780FF>Galopp des Geisterrosses</color>: Wenn Zibai über mindestens 70 Punkte <color=#FFD780FF>Abschnittswechsel-Glanz</color> verfügt, kann sie 70 Punkte Abschnittswechsel-Glanz verbrauchen, um Galopp des Geisterrosses anzuwenden und zweimal <color=#FFE699FF>Geo-SCH</color> zu verursachen, wobei der Schaden der zweiten Phase als Schaden durch die Reaktion Mond-Kristallisation gewertet wird.\n\nDie Obergrenze von <color=#FFD780FF>Abschnittswechsel-Glanz</color> beträgt 100 Punkte. Zibai kann auf folgende Art und Weise Abschnittswechsel-Glanz sammeln:\n· Sammelt im Modus <color=#FFD780FF>Wechsel des Mondabschnitts</color> jede Sekunde 10 Punkte Abschnittswechsel-Glanz.\n· Sammelt beim Treffen von Gegnern mit Standardangriffen 5 Punkte Abschnittswechsel-Glanz. Auf diese Art und Weise kann alle 0,5{NON_BREAK_SPACE}s einmal Abschnittswechsel-Glanz für Zibai gesammelt werden.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color> \nSammelt, wenn ein Truppenmitglied in der Nähe die Reaktion Mond-Kristallisation auslöst, 35 Punkte <color=#FFD780FF>Abschnittswechsel-Glanz</color> für Zibai. Auf diese Art und Weise kann alle 4{NON_BREAK_SPACE}s einmal Abschnittswechsel-Glanz für Zibai gesammelt werden. Wenn die besondere Elementarfähigkeit <color=#FFD780FF>Galopp des Geisterrosses</color> ausgelöst wird, wird die Abklingzeit fürs Ansammeln des <color=#FFD780FF>Abschnittswechsel-Glanzes</color> auf diese Weise zurückgesetzt.\n\nNach viermaligem Anwenden von <color=#FFD780FF>Galopp des Geisterrosses</color> oder nach dem Ende der Wirkungsdauer verlässt Zibai diesen Modus."
   }
 ]

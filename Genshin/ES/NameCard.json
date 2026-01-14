@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Colombina - Algún día",
+    "Description": "Diseño de tarjeta de presentación.\nBaila en las aguas poco profundas de arroyos cristalinos y se deja llevar por la corriente. Duerme bajo las pálidas sombras de las montañas y vaga por las ondulaciones del tiempo, jugando al escondite con las kuuhenki.\nDescansa en el jardín de todas las criaturas y canta para todos los seres vivos. En las horas silenciosas de la noche, espera el momento en que algún día se encuentren.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai - Vista velada",
+    "Description": "Diseño de tarjeta de presentación.\nEl cielo y la tierra no son más que una posada para el viajero, y el tiempo, un vagabundo que atraviesa innumerables generaciones.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga - Orioles de la Pesadilla",
+    "Description": "Diseño de tarjeta de presentación.\nUn pájaro que sobrevive a la noche más oscura recompensa al mundo con su pasión y quema todas las pesadillas persistentes con su furia.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Logro - Visión lejana",
+    "Description": "Diseño de tarjeta de presentación.\nEl viajero se paró una vez en el punto más alto de una ciudad y contempló la lejanía, seguro de que los paisajes distantes se convertirían con el tiempo en hitos de su viaje.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod Krai - Faro de largas noches",
+    "Description": "Diseño de tarjeta de presentación.\nSiempre habrá una luz que brille cuando el cielo alcance su hora más oscura. Así es por una noche, y así es por mil noches.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "PB - Oda de las linternas",
+    "Description": "Diseño de tarjeta de presentación.\nReza por mí, luna brillante, deséame un espléndido amanecer. Envuélveme en el manto primaveral y volemos juntos bajo la luz de las linternas.",
+    "SpecialDescription": "#Diseño de tarjeta de presentación: PB{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Oda de las linternas",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

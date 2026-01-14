@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Columbina",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "Thửa Ruộng Phỉ Thúy",
-    "Description": "Mảnh ruộng đều tăm tắp màu mỡ hấp thụ nguồn dinh dưỡng bất tận, gieo hạt không cần chăm sóc cầu kỳ vẫn có thể nhanh chóng thu hoạch nông phẩm bậc nhất. Tuy nhiên, thực vật ở đây thường có bộ rễ rất lớn, để đảm bảo không gian sinh trưởng, không nên trồng quá nhiều trên một mẫu đất.\nSử dụng hạt giống, mẫu bào tử hoặc mẫu chiết đựng trong \"Hộp Hạt Giống\" là có thể trồng: Quả Dâu Đỏ, Hoa Ngọt, Tiểu Đăng Thảo, Ớt Tuyệt Vân, Cà Rốt, Củ Cải Trắng, Bạc Hà, Nấm Rơm, Quả Harra, Đào Zaytun, Marcotte, Hạt Ngũ Cốc, Cacahuatl, Sen Đá Saurian, Quả Quenepa, Nấm Sừng Phát Sáng, Quả Lakka, Quả Sồi Hè.",
+    "Description": "Mảnh ruộng đều tăm tắp màu mỡ hấp thụ nguồn dinh dưỡng bất tận, gieo hạt không cần chăm sóc cầu kỳ vẫn có thể nhanh chóng thu hoạch nông phẩm bậc nhất. Tuy nhiên, thực vật ở đây thường có bộ rễ rất lớn, để đảm bảo không gian sinh trưởng, không nên trồng quá nhiều trên một mẫu đất.\nSử dụng hạt giống, mẫu bào tử hoặc mẫu chiết đựng trong \"Hộp Hạt Giống\" là có thể trồng: Quả Dâu Đỏ, Hoa Ngọt, Tiểu Đăng Thảo, Ớt Tuyệt Vân, Cà Rốt, Củ Cải Trắng, Bạc Hà, Nấm Rơm, Quả Harra, Đào Zaytun, Marcotte, Hạt Ngũ Cốc, Cacahuatl, Sen Đá Saurian, Quả Quenepa, Nấm Sừng Phát Sáng, Quả Lakka, Quả Sồi Hè, Thông Hổ Phách.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "Thửa Ruộng Phì Nhiêu",
-    "Description": "Mảnh ruộng đều tăm tắp màu mỡ hấp thụ nguồn dinh dưỡng bất tận, gieo hạt không cần chăm sóc cầu kỳ vẫn có thể nhanh chóng thu được loại hoa bậc nhất. Tuy nhiên, cây trồng ở đây thường có bộ rễ rất lớn, để đảm bảo không gian sinh trưởng, không nên trồng quá nhiều hoa trên một mẫu đất.\nSử dụng hạt giống, mẫu bào tử hoặc mẫu chiết đựng trong \"Hộp Hạt Giống\" là có thể trồng: Hoa Nghê Thường, Hoa Cecilia, Bách Hợp Lưu Ly, Cúc Cánh Quạt, Thanh Tâm, Túi Lưu Ly, Cỏ Naku, Tường Vi Sumeru, Hoa Lumidouce, Tường Vi Cầu Vồng, Cúc Rực Rỡ, Lá Rạn Vân Đá, Hoa Đèn Lạnh.",
+    "Description": "Mảnh ruộng đều tăm tắp màu mỡ hấp thụ nguồn dinh dưỡng bất tận, gieo hạt không cần chăm sóc cầu kỳ vẫn có thể nhanh chóng thu được loại hoa bậc nhất. Tuy nhiên, cây trồng ở đây thường có bộ rễ rất lớn, để đảm bảo không gian sinh trưởng, không nên trồng quá nhiều hoa trên một mẫu đất.\nSử dụng hạt giống, mẫu bào tử hoặc mẫu chiết đựng trong \"Hộp Hạt Giống\" là có thể trồng: Hoa Nghê Thường, Hoa Cecilia, Bách Hợp Lưu Ly, Cúc Cánh Quạt, Thanh Tâm, Túi Lưu Ly, Cỏ Naku, Tường Vi Sumeru, Hoa Lumidouce, Tường Vi Cầu Vồng, Cúc Rực Rỡ, Lá Rạn Vân Đá, Hoa Đèn Lạnh, Cỏ Đông Lăng.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Dê Hạt Dẻ - Bạc Hà Đá",
     "Description": "Loài dê sinh sống ở Nod-Krai, sở hữu cặp sừng và những đường vân như được phủ nước bạc hà.\nSau khi vào Ấm Trần Ca sinh sống, bộ lông của Dê Hạt Dẻ càng trở nên bông xù, đến mùa thay lông thì xung quanh chúng như rơi một trận \"mưa lông\"...\nVì một số nguyên nhân chưa rõ, một số động vật khi đến Thế Giới Trong Ấm vẫn giữ được diện mạo độc đáo do chịu ảnh hưởng từ sức mạnh Kuuvahki. Để Tubby dễ dàng phân biệt, Paimon đã chu đáo đặt cho chúng những cái tên mới dựa trên ngoại hình...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ săn bắt"
+    ],
+    "Id": 369222,
+    "Name": "Thằn Lằn Gai",
+    "Description": "Thằn lằn có thân hình linh hoạt, chân có khả năng bám dính, có thể leo trèo trên tường.\nSau khi đến Thế Giới Trong Ấm, chúng vẫn sống trong các khe nứt của vách đá, nhưng mối đe dọa từ thiên địch đã giảm đi rất nhiều, vì thế, thời gian hoạt động của chúng cũng kéo dài hơn.\nVì một số lý do không rõ, một số động vật sau khi đến Thế Giới Trong Ấm vẫn giữ được vẻ ngoài độc đáo do ảnh hưởng của Kuuvahki...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ săn bắt"
+    ],
+    "Id": 369223,
+    "Name": "Cò Cổ Xám",
+    "Description": "Loài chim với dáng đi uyển chuyển, bộ lông xám ánh vàng tô điểm lên vóc dáng thon thả của chúng.\nVì có dáng vẻ duyên dáng, một số động vật thậm chí còn cố tình chọc giận chúng chỉ để được ngắm nhìn những động tác đe dọa như điệu múa. Tất nhiên, giờ đây hành vi này đã bị Tubby nghiêm cấm.\nVì một số lý do không rõ, một số động vật sau khi đến Thế Giới Trong Ấm vẫn giữ được vẻ ngoài độc đáo do ảnh hưởng của Kuuvahki...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ săn bắt"
+    ],
+    "Id": 369224,
+    "Name": "Đại Bàng Vương Miện",
+    "Description": "Đại bàng với ánh mắt sắc bén, chiếc mào cao quý càng điểm thêm khí chất uy nghiêm.\nĐại Bàng Vương Miện giỏi bay lượn trên trời cao, thân hình cường tráng cùng đôi cánh dang rộng khiến cho đòn tấn công lao xuống của chúng trở thành một đòn vô cùng chí mạng, hiếm có con mồi nào thoát được. Sau khi đến Thế Giới Trong Ấm, với nguồn thức ăn dồi dào, chúng hiếm khi phải săn mồi, nhưng để khoe chiếc mào tuyệt đẹp của mình, chúng vẫn thường xuyên bay lượn trên cao...\nVì một số lý do không rõ, một số động vật sau khi đến Thế Giới Trong Ấm vẫn giữ được vẻ ngoài độc đáo do ảnh hưởng của Kuuvahki...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "Mô hình người tuyết được tạo ra dựa trên nguyên mẫu Varesa, đeo mặt nạ mang tính biểu tượng, tái hiện một cách chính xác hình tượng thân thiện và nhiệt tình của cô ấy.\nNhằm giúp khách từ các quốc gia có được tâm trạng thoải mái, nhà thiết kế của Ngọc Bay Thú Vị đã cố tình tạo ra người bạn đồng hành đáng yêu này. Có nó ở bên, thì dù phải đối diện với Long Tích Tuyết Sơn lạnh thấu xương, cũng sẽ cảm thấy sự ấm áp vô cùng đặc biệt.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 361344,
+    "Name": "Trò Chuyện Đêm Yên Tĩnh",
+    "Description": "Chiếc bàn thường thấy ở thành Piramida, thiết kế vuông vắn đơn giản, được làm hoàn toàn từ kim loại.\nMỗi đêm tĩnh lặng, các Ratnik thường quây quần bên bàn và khẽ khàng trò chuyện. Có lẽ họ không dám nói to vì sợ làm phiền đến những linh hồn đang lang thang xung quanh...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 362277,
+    "Name": "Cáng Đơn Giản - Hộ Tống Vững Chắc",
+    "Description": "Chiếc cáng có thiết kế đơn giản nhưng tính năng vượt trội, sử dụng hai thanh nâng nối với nhau bằng một tấm vải chắc chắn, là công cụ vận chuyển y tế thường được Người Giữ Đèn sử dụng.\nTrong cuộc sống hàng ngày, không chỉ Người Giữ Đèn, mà một số người dân Thành Piramida cũng dùng loại cáng này để hỗ trợ những người gặp khó khăn trong việc di chuyển.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 362278,
+    "Name": "Uống Hết Mình",
+    "Description": "Người Giữ Đèn thường dùng thùng đựng đồ uống bằng kim loại với dung tích lớn để tiện lấy rượu.\nTrong các buổi tiệc, thường đặt nhiều thùng đồ uống như thế này, để mọi người có thể uống thoải mái.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 362133,
+    "Name": "Anh Em Tốt",
+    "Description": "Ghế dài bằng kim loại mà Người Giữ Đèn thường dùng, tuy không có tựa lưng thoải mái nhưng trên ghế có lót đệm mềm.\nKhi cùng đồng đội ngồi trên ghế, giữa những tiếng ồn ào của cuộc nhậu say sưa, đôi khi nỗi lo âu vẫn đè nặng lên tâm trí.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 361412,
+    "Name": "Giường Bệnh Đơn Giản",
+    "Description": "Giường bệnh đơn giản mà Người Giữ Đèn thường dùng, được thiết kế phù hợp với thói quen và nhu cầu điều trị của người bị thương.\nBan đầu, nó có một tay quay để điều chỉnh độ nghiêng của tựa lưng, nhưng do những người nằm trên giường thường vô thức xoay khiến tay quay phát ra tiếng \"kẽo kẹt\" khó chịu, nên tay quay này đã nhanh chóng bị tháo bỏ.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 364226,
+    "Name": "Cờ Piramida",
+    "Description": "Lá cờ thường thấy trong Thành Piramida, bên trên vẽ biểu tượng ngọn hải đăng của Người Giữ Đèn, thể hiện ý chí kiên định của họ trong việc giữ ngọn đèn sáng mãi trong đêm tối, canh giữ tương lai.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 371014,
+    "Name": "Rào Chắn Sắt Thuận Tiện",
+    "Description": "Rào chắn sắt thuận tiện, thường thấy ở Thành Piramida, được sử dụng như một công trình phòng thủ.\nThiết bị phòng thủ này có thể chịu được nhiều đòn tấn công, nhưng nhược điểm cũng khá rõ ràng: việc di dời cũng rất tốn công sức.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 371015,
+    "Name": "Cô Độc Tại Thành Gác",
+    "Description": "Thường thấy ở Thành Piramida, công trình chủ yếu được làm bằng sắt, không gian bên trong khá nhỏ, nhưng ưu điểm là chi phí xây dựng thấp.\nMột vị khách từng sống ở đây đã nói: \"Thà tôi sống một mình trong căn nhà như thế này còn hơn phải chen chúc với nhiều người trong một căn nhà lớn!\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 371016,
+    "Name": "An Toàn Tại Thành Gác",
+    "Description": "Thường thấy ở Thành Piramida, công trình chủ yếu được làm bằng sắt, thiết kế bên ngoài đặc biệt với mái hình vòm cung.\nMặc dù bên trong loại công trình này không có nhiều không gian, thiết kế bên ngoài cũng không quá tinh xảo, nhưng ưu điểm là kết cấu vững chắc, có thể che chở cho nhiều người.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371017,
+    "Name": "Một Góc Nhỏ",
+    "Description": "Chiếc lều có thiết kế đơn giản với mái vải màu vàng.\nĐược làm từ những vật liệu đơn giản, dễ tháo lắp, do đó khi cần tổ chức các hoạt động ngoài trời, loại lều này có thể nhanh chóng tạo ra không gian riêng biệt một cách hiệu quả.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 371018,
+    "Name": "Chăm Sóc Tại Thành Gác",
+    "Description": "Thường thấy ở Thành Piramida, có tầng cao, thường được sử dụng làm cơ sở y tế.\nCư dân Thành Piramida đa phần đều rất khỏe mạnh, nên trạm y tế thường khá vắng vẻ. Nhưng cứ đến lúc giao mùa, nơi đây lại trở nên nhộn nhịp trong một thời gian ngắn.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 371019,
+    "Name": "Tôi Luyện Tại Thành Gác",
+    "Description": "Thường thấy ở Thành Piramida, cao như một tháp canh, thường được dùng làm nơi cung cấp dịch vụ rèn đúc trong thành.\nNgay cả vào những ngày lạnh giá nhất ở Thành Piramida, khu vực xung quanh vẫn luôn ấm áp với những tia lửa bắn ra dưới nhịp búa, lò rèn rền vang phả ra hơi nóng...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhật Ký Hành Trình - Bài Ca Trân Châu"
+    ],
+    "Id": 371020,
+    "Name": "Giữ Kiếm Hành Quân",
+    "Description": "Bức tượng điêu khắc lớn lấy nguyên mẫu là một nhân vật nổi tiếng trong lịch sử, với tư thế kiên định cầm kiếm tiến bước, khiến cho bất cứ ai dừng chân chiêm ngưỡng đều có thể cảm nhận được quyết tâm và sức mạnh toát ra từ bức tượng.\nNghe nói, với tư cách là Starshyna đời đầu tiên của quân đoàn Người Giữ Đèn, ông đã từng bước đi trong đêm dài vô tận, chỉ mong canh giữ cho mọi người một tia ánh sáng hy vọng.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 371021,
+    "Name": "Tháp Chiếu Sáng - Xua Mây Nhìn Trời",
+    "Description": "Mô hình được chế tác dựa theo ngọn hải đăng cao lớn của Người Giữ Đèn, đứng sừng sững trầm mặc, vững chãi và đáng tin cậy.\n\"Chờ mây đen tan đi, ánh nắng xuyên qua tầng mây chiếu xuống, chắc sẽ không còn ma vật nào nhân lúc trời tối chạy ra nữa đâu.\" Đội trưởng Illuga đã nói như vậy. Có lẽ chỉ khi ngày ấy đến, tất cả các Ratnik mới có thể buông vũ khí, bước ra khỏi ngọn hải đăng và tận hưởng kỳ nghỉ tràn ngập ánh nắng ấm áp.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 374332,
+    "Name": "Ấm Áp Gần Gũi",
+    "Description": "Chiếc bàn ăn có mặt bàn rộng, phần thân chính được làm từ kim loại với thiết kế rỗng bên trong, nhờ đó phía dưới mặt bàn thậm chí còn có không gian để đặt một bếp lò nhỏ, giúp duy trì nhiệt độ của các món ăn trên bàn.\nThưởng thức bữa tiệc thịnh soạn, uống rượu thỏa thích, chắc hẳn bất kỳ ai khi ngồi vào chiếc bàn này đều sẽ nghĩ như vậy.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 374333,
+    "Name": "Bàn Tác Chiến - Phô Diễn Trước",
+    "Description": "Mô hình được chế tạo dựa trên sa bàn của Đại Đội Trưởng Varka, đơn giản nhưng thiết thực.\n\"Trong khi chúng tôi còn đang do dự, Vực Sâu vẫn đang làm hại vô số sinh mạng. Càng sớm khởi hành sẽ càng sớm thay đổi vận mệnh của họ.\" Tình báo là nền tảng của hành quân, nếu có thể phô diễn trước những tình huống có thể xảy ra trên sa bàn, thì những tổn thất do hành quân hay chiến đấu gây ra chắc hẳn sẽ giảm đi rất nhiều...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 374642,
+    "Name": "Vất Vả Chỉ Huy",
+    "Description": "Bảng chiến thuật thường thấy ở Thành Piramida, trên đó thường dán các bản đồ từ nhiều vùng khác nhau để mọi người tiện theo dõi khi thảo luận.\nMặc dù là công cụ vô cùng đơn giản, nhưng chúng thường phát huy vai trò quan trọng khi cần làm rõ suy nghĩ và nhìn nhận toàn diện.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 374643,
+    "Name": "Kệ Vũ Khí Đơn Giản - Dễ Dùng",
+    "Description": "Kệ vũ khí với thiết kế đơn giản, có chỗ đặt vũ khí và khiên.\nNếu chú ý phân loại vũ khí ngay từ lúc cất giữ, những người cần gấp rút ra trận sẽ có thể lấy chúng rất thuận tiện.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 374644,
+    "Name": "Nhà Di Động Sáng Sủa",
+    "Description": "Xe Mặt Trăng với thiết kế độc đáo và khả năng di chuyển linh hoạt, sử dụng Kuuvahki làm nhiên liệu vận hành, là phương tiện vận chuyển được Người Giữ Đèn cải tạo từ xe cơ giới của Snezhnaya.\nKhi màn đêm buông xuống, những Ratnik thường dùng nó như một ngọn hải đăng di động - vừa tiện lợi, lại vừa đủ sáng sủa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Cấp \"Xây Nơi Tụ Họp\""
+    ],
+    "Id": 374645,
+    "Name": "Tượng Ma Nữ - Dừng Lại Một Khắc",
+    "Description": "Mô hình được chế tác dựa theo hình mẫu thiên sứ, dường như nắm bắt được sức sống mãnh liệt mà thiên sứ thể hiện trong một khoảnh khắc nào đó.\n\"Khó mà nói trước được số phận sẽ ra sao, nhưng... tôi vẫn muốn dẫn dắt những người mình gặp đến với một kết thúc tốt đẹp.\" Mỗi khoảnh khắc trong tương lai đều không thể xác định chắc chắn, cho nên, việc nắm bắt khoảnh khắc cũng là một bài học vô cùng quan trọng với nhiều người.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374819,
+    "Name": "Cây Cát Tường",
+    "Description": "Chậu cây cảnh treo đầy Tiền May Mắn vàng lấp lánh, với ý nghĩa \"chiêu tài lộc, kim ngọc mãn đường\", được người dân Liyue vô cùng yêu thích.\nNhững người đam mê trang trí Cây Cát Tường thường nói: \"Ôi! Nếu đặt Cây Cát Tường khắp vườn nhà thì chắc sang năm sẽ...\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374820,
+    "Name": "Đèn Cóc Lớn - Binh Tốt Xin Đểu",
+    "Description": "Đèn Cóc Lớn được thiết kế dựa trên nguyên mẫu Chiêm Chư Sẫm Màu, thiết kế độc đáo, là nhân vật khiến nhiều trẻ em nghe xong câu chuyện \"Cóc Nuốt Trăng\" phải tức đến nghiến răng.\nKhi bị nó chặn đường, hãy tránh đi nhé, tên \"Binh Tốt Xin Đểu\" này rất khó đối phó đấy...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 374821,
+    "Name": "Đèn Cóc Lớn - Đại Tướng Chặn Đường",
+    "Description": "Đèn Cóc Lớn được thiết kế dựa trên nguyên mẫu Chiêm Chư Đỏ ôm ngọc, thiết kế độc đáo, là nhân vật khiến nhiều trẻ em nghe xong câu chuyện \"Cóc Nuốt Trăng\" phải tức đến nghiến răng.\nKhi bị nó chặn đường, đừng lùi bước, \"Đại Tướng Chặn Đường\" sẽ nhìn thấu từng kẻ nhát gan...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 374647,
+    "Name": "Lấp Lánh Như Sự Sống",
+    "Description": "Bình nuôi cấy chưa rõ công dụng, được kết nối với ba bình đựng trong suốt thông qua các ống dẫn.\nTrong chiếc bình lớn nhất có ánh sáng huỳnh quang lấp lánh, chuyển động, nhẹ nhàng và đẹp đẽ, như thể đó là sự sống vậy.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 373223,
+    "Name": "Dòng Chảy Xanh Ngát",
+    "Description": "Chậu cây lớn thường thấy trong các viện nghiên cứu bỏ hoang, cây cối bên trong sinh trưởng đầy sức sống, khiến người ta nhìn vào là thấy tâm trạng tốt hơn.\nKỳ lạ thay, bất kể khi nào nhìn thấy chậu cây này, nó luôn xanh tốt um tùm. Một số người không biết chuyện đã đưa ra phỏng đoán rằng, liệu có phải nó được tưới bằng loại dung dịch đặc biệt nào đó không?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 373224,
+    "Name": "Dòng Chảy Xanh Biếc",
+    "Description": "Chậu cây nhỏ thường thấy trong các viện nghiên cứu bỏ hoang, cây cối bên trong sinh trưởng đầy sức sống, khiến người ta nhìn vào là thấy tâm trạng tốt hơn.\nKỳ lạ thay, bất kể khi nào nhìn thấy chậu cây này, nó luôn xanh tốt um tùm. Một số người không biết chuyện đã đưa ra phỏng đoán rằng, liệu có phải nó được tưới bằng loại dung dịch đặc biệt nào đó không?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360469,
+    "Name": "Đèn Cầm Tay Kim Loại Nhẹ",
+    "Description": "Đèn cầm tay kim loại nhẹ thường được cư dân Thành Piramida sử dụng, tuy ánh sáng có hạn nhưng lại rất tiện khi mang theo.\nBọn trẻ chơi đến khi trời tối đen như mực, chúng sẽ xách đèn rồi cùng nhau về nhà, náo nhiệt vui vẻ, trông như những vì sao lấp lánh trên mặt đất.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Thưởng Rương Kỳ Dị Khu Vực Nod-Krai"
+    ],
+    "Id": 360470,
+    "Name": "Đèn Đường Đứng - Vừa Rẻ Vừa Khó Hỏng",
+    "Description": "Đèn đường đứng thường thấy ở Thành Piramida, kiểu dáng chỉn chu và ánh sáng rực rỡ.\nĐược chế tạo từ vật liệu được rèn theo kỹ thuật độc đáo của Thành Piramida, ít bị rỉ sét khi tiếp xúc với nước mưa - \"hao mòn thấp, đầu tư ít\", điều này cũng phù hợp với triết lý sống của đa số cư dân trong thành.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360471,
+    "Name": "Đèn Tiêu Rực Rỡ - Nguyện Vọng Bay Cao",
+    "Description": "Đèn tiêu với màu sắc rực rỡ, ánh sáng ấm áp, nguyên liệu đơn giản và dễ dàng chế tạo.\nMang theo những ước nguyện và nỗi nhớ quý giá, phiêu du trong màn đêm.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360472,
+    "Name": "Đèn Tiêu Rực Rỡ - Bằng Hữu Hội Ngộ",
+    "Description": "Đèn tiêu với màu sắc rực rỡ, ánh sáng ấm áp được thiết kế tinh xảo để có thể bay xa hơn.\nNgười ta nói rằng, dù cách xa nghìn dặm, những tâm tình gửi gắm trên đèn tiêu vẫn sẽ chạm đến trái tim người nhận.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360473,
+    "Name": "Đèn Tiêu Rực Rỡ - Thanh Âm May Mắn",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Xinyan chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Hãy mở một buổi diễn đỉnh cao nào!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360474,
+    "Name": "Đèn Tiêu Rực Rỡ - Tháng Năm Cát Tường",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Gaming chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Vạn sự hanh thông, sức khỏe dồi dào.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360475,
+    "Name": "Đèn Tiêu Rực Rỡ - Cánh Én Đón Xuân",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Lan Yan chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Bình an vui vẻ, hạnh phúc an khang!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360476,
+    "Name": "Đèn Tiêu Rực Rỡ - Hương Gió Hòa Hợp",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Emilie chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Mong rằng mọi người đều có được những giây phút thảnh thơi để thưởng thức hương thơm.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360477,
+    "Name": "Đèn Tiêu Rực Rỡ - Vận May Kéo Dài",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Layla chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Mong rằng tất cả học sinh trong Giáo Viện đều có thể hoàn thành luận văn suôn sẻ...\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360478,
+    "Name": "Đèn Tiêu Rực Rỡ - Cầu Được Ước Thấy",
+    "Description": "Đèn tiêu với thiết kế độc đáo do Xiao chế tạo, khiến người ta cảm thấy ấm áp, bình yên và hạnh phúc ngay từ cái nhìn đầu tiên.\n\"Mọi sự bình an.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 360479,
+    "Name": "Ngựa Qua Khe Núi",
+    "Description": "Đèn tiêu khổng lồ lấy nguyên mẫu là một vị tiên nhân canh giữ mặt trăng, với hình dáng ngựa trắng tung mình vượt qua khe núi, mây trắng bồng bềnh quấn quanh, ráng chiều trải dài. Ngày nay, mọi người đều muốn viết điều ước lên đèn tiêu, biết đâu nhờ vậy, Bạch Mã Tiên Nhân sẽ nguyện cưỡi cỗ xe ngọc từ cung trăng xuống trần gian, đáp lại những điều ước của con người?",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

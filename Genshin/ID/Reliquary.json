@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "Frost Devotee's Delirium",
     "Description": "Penunjuk waktu yang murni tanpa noda. Kini telah berhenti berdetak bersama dengan ilusi pemilik sebelumnya.",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Libation",
+    "Description": "Cawan anggur yang hilang dalam perayaan terakhir dalam sebuah ritual kuno, para penganut kepercayaan terdahulu mempersembahkan kurban kepada Bulan Hampa.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Parting Light",
+    "Description": "Pena bulu yang digunakan oleh para imam untuk menulis doa bagi Bulan Hampa di zaman kuno, sudah banyak inspirasi yang diperoleh darinya.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Silver Crown",
+    "Description": "Mahkota perak yang biasa dilepas oleh para penyair zaman dahulu saat melafalkan suku kata terakhir dalam puisi pujaan Bulan Hampa.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Opulent Dream",
+    "Description": "Dekorasi bunga yang dibuat dengan teliti oleh para pengrajin yang memahat patung Dewi Bulan Hampa di zaman kuno, untuk menonjolkan keanggunan sang dewi.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Final Hour",
+    "Description": "Jam pasir yang disiapkan oleh para bijak zaman dahulu yang mencari kebenaran Bulan Hampa untuk memperingati akhir zaman.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Libation",
+    "Description": "Cawan anggur yang hilang dalam perayaan terakhir dalam sebuah ritual kuno, para penganut kepercayaan terdahulu mempersembahkan kurban kepada Bulan Hampa.",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Parting Light",
+    "Description": "Pena bulu yang digunakan oleh para imam untuk menulis doa bagi Bulan Hampa di zaman kuno, sudah banyak inspirasi yang diperoleh darinya.",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Silver Crown",
+    "Description": "Mahkota perak yang biasa dilepas oleh para penyair zaman dahulu saat melafalkan suku kata terakhir dalam puisi pujaan Bulan Hampa.",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Opulent Dream",
+    "Description": "Dekorasi bunga yang dibuat dengan teliti oleh para pengrajin yang memahat patung Dewi Bulan Hampa di zaman kuno, untuk menonjolkan keanggunan sang dewi.",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "Moonlit Offering's Final Hour",
+    "Description": "Jam pasir yang disiapkan oleh para bijak zaman dahulu yang mencari kebenaran Bulan Hampa untuk memperingati akhir zaman.",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Heldenepos's Unspoken Tale",
+    "Description": "Cawan anggur berwarna pucat tua. Konon katanya, pada zaman yang dulu sekali, cangkir ini pernah menjadi milik seorang penyair tanpa nama.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Dawn's Brilliant Oath",
+    "Description": "Aksesoris bulu berwarna pucat seperti sebening matahari pagi. Konon katanya, pada zaman yang dulu sekali, aksesoris ini pernah menjadi milik seorang penjaga yang meninggalkan namanya.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang of Love and Lament",
+    "Description": "Aksesoris rambut mewah, dihiasi dengan batu giok dan kristal biru, konon katanya merupakan tanda yang diberikan oleh Lord of Storm kepada orang yang dicintainya di masa lampau.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Windborne Flower's Spruchdichtung",
+    "Description": "Bunga kristal berwarna pucat yang tak pernah gugur. Konon katanya, pada zaman yang dulu sekali, bunga ini pernah menjadi milik seorang gadis pengembara yang bisa memanggil ribuan angin dan bunga bermekaran.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "A Note in Spring's Leich",
+    "Description": "Jam pasir yang berisi pasir halus berwarna pucat. Entah kenapa, pasir di dalamnya tidak mengalir sama sekali bagaimana pun kamu memutarnya.",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "Heldenepos's Unspoken Tale",
+    "Description": "Cawan anggur berwarna pucat tua. Konon katanya, pada zaman yang dulu sekali, cangkir ini pernah menjadi milik seorang penyair tanpa nama.",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "Dawn's Brilliant Oath",
+    "Description": "Aksesoris bulu berwarna pucat seperti sebening matahari pagi. Konon katanya, pada zaman yang dulu sekali, aksesoris ini pernah menjadi milik seorang penjaga yang meninggalkan namanya.",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "Minnesang of Love and Lament",
+    "Description": "Aksesoris rambut mewah, dihiasi dengan batu giok dan kristal biru, konon katanya merupakan tanda yang diberikan oleh Lord of Storm kepada orang yang dicintainya di masa lampau.",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "Windborne Flower's Spruchdichtung",
+    "Description": "Bunga kristal berwarna pucat yang tak pernah gugur. Konon katanya, pada zaman yang dulu sekali, bunga ini pernah menjadi milik seorang gadis pengembara yang bisa memanggil ribuan angin dan bunga bermekaran.",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "A Note in Spring's Leich",
+    "Description": "Jam pasir yang berisi pasir halus berwarna pucat. Entah kenapa, pasir di dalamnya tidak mengalir sama sekali bagaimana pun kamu memutarnya.",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

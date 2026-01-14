@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Phù Hộ Hỏa Tinh</color>",
-    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Hỏa và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>70%</color> buff Sát Thương Nguyên Tố Hỏa và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Nham Tinh Đột Phá</color>",
-    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, mỗi <color=#f39001>{0}</color>s sẽ giải phóng tại vị trí nhân vật, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
+    "Description": "Trong thời gian duy trì hiệu quả <color=#f39001>Phù Hộ Hỏa Tinh</color>, sẽ giải phóng tại vị trí nhân vật theo chu kỳ, gây <color=#e09800>Sát Thương Phạm Vi Nguyên Tố Nham</color>"
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Phù Hộ Thủy Tinh</color>",
-    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Thủy và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>70%</color> buff Sát Thương Nguyên Tố Thủy và Nham, sát thương gây ra bởi phản ứng Nguyệt-Kết Tinh tăng <color=#f39001>75%</color>. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Thiết Bị Điều Phối Giúp Việc Dạng Mèo",
     "Description": "Một trong những đạo cụ nhỏ mà Jahoda - cựu thợ săn kho báu luôn mang theo bên mình, được lấy ra sau khi thi triển Kỹ Năng Nộ <color=#FFD780FF>Bí Khí - Bảy Đạo Cụ Thợ Săn</color>.\nThiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ liên tục hồi phục HP cho nhân vật ra trận hiện tại trong đội bản thân. Nếu HP của nhân vật nhận trị liệu trên 70%, sẽ đồng thời hồi phục HP cho nhân vật có HP thấp nhất trong đội ở gần.\n\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>: Nếu kẻ địch ở gần đang bị gán ấn Nguyên Tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color> hoặc <color=#99FFFFFF>Băng</color>, Thiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ chuyển hóa thành loại nguyên tố tương ứng, và sẽ chuyển hóa dựa trên mức độ ưu tiên <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color>, <color=#99FFFFFF>Băng</color>. Sau mỗi lần lấy ra Thiết Bị Điều Phối Giúp Việc Dạng Mèo, tối đa được chuyển hóa nguyên tố một lần theo cách này. Sau khi kích hoạt chuyển hóa nguyên tố, Thiết Bị Điều Phối Giúp Việc Dạng Mèo sẽ tấn công tối đa 3 kẻ địch ở gần theo chu kỳ, gây Sát Thương Nguyên Tố tương ứng."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Hiệu Quả Cường Hóa Thêm",
+    "Description": "Khi cộng hưởng với mỗi loại nguyên tố, Nhà Lữ Hành sẽ nhận tăng cường thuộc tính tương ứng:\n<color=#80FFD7FF>Nguyên Tố Phong</color>: Tỷ Lệ Bạo Kích tăng 10%.\n<color=#FFE699FF>Nguyên Tố Nham</color>: Phòng Ngự tăng 20%.\n<color=#FFACFFFF>Nguyên Tố Lôi</color>: Hiệu Quả Nạp Nguyên Tố tăng 20%.\n<color=#99FF88FF>Nguyên Tố Thảo</color>: Tinh Thông Nguyên Tố tăng 60 điểm.\n<color=#80C0FFFF>Nguyên Tố Thủy</color>: HP tăng 20%.\n<color=#FF9999FF>Nguyên Tố Hỏa</color>: Tấn Công tăng 20%.\n<color=#99FFFFFF>Nguyên Tố Băng</color>: Sát Thương Bạo Kích tăng 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Gợn Sóng Hấp Dẫn",
+    "Description": "Sau khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Thủy Triều Vĩnh Cửu</color>, Columbina sẽ triệu hồi <color=#FFD780FF>Gợn Sóng Hấp Dẫn</color>.\nGợn Sóng Hấp Dẫn sẽ đi theo nhân vật trong trận hiện tại, liên tục gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> lên kẻ địch xung quanh.\n\nNgoài ra, trong thời gian tồn tại Gợn Sóng Hấp Dẫn, khi nhân vật trong đội ở gần kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt, Columbina sẽ nhận hiệu quả Chỉ Thị Tân Nguyệt trong vòng 2s tiếp theo, liên tục tích lũy <color=#FFD780FF>Lực Hấp Dẫn</color>. Mỗi 2s có thể tích lũy 20 điểm Lực Hấp Dẫn.\nGiới hạn Lực Hấp Dẫn là 60 điểm, sẽ xóa khi kết thúc thời gian duy trì Gợn Sóng Hấp Dẫn.\nKhi Lực Hấp Dẫn tích lũy đến tối đa, sẽ kích hoạt \"Giao Thoa Trọng Lực\" đặc biệt, căn cứ vào loại phản ứng Nguyệt mà Columbina tích lũy Lực Hấp Dẫn nhiều nhất để lần lượt sản sinh hiệu quả khác nhau. Nếu phản ứng Nguyệt mà Columbina tích lũy Lực Hấp Dẫn nhiều nhất là:\n·<color=#FFD780FF>Nguyệt-Điện Cảm</color>: Giao Thoa Trọng Lực sẽ gây một lần <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>. Sát thương này được xem là sát thương phản ứng Nguyệt-Điện Cảm.\n·<color=#FFD780FF>Nguyệt-Sum Suê</color>: Giao Thoa Trọng Lực sẽ phóng 5 Ấn Sương Trăng lên kẻ địch xung quanh, gây <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color>. Sát thương này được xem là sát thương phản ứng Nguyệt-Sum Suê.\n·<color=#FFD780FF>Nguyệt-Kết Tinh</color>: Giao Thoa Trọng Lực sẽ gây một lần <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>. Sát thương này được xem là sát thương phản ứng Nguyệt-Kết Tinh."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Vùng Ánh Trăng",
+    "Description": "Sau khi thi triển Kỹ Năng Nộ <color=#FFD780FF>Nỗi Nhớ Quê Nhà</color>, Columbina sẽ triệu hồi khu vực này.\nKhi nhân vật trong trận hiện tại ở trong phạm vi <color=#FFD780FF>Vùng Ánh Trăng</color>, tất cả nhân vật trong đội sẽ tăng sát thương phản ứng Nguyệt gây ra."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Sương Xanh Trăng Núi",
+    "Description": "Tài nguyên Sương Xanh đặc biệt, cung cấp bởi thiên phú <color=#FFD780FF>Quy Tắc Của Tân Nguyệt</color> từ Columbina, có giới hạn và thời gian duy trì riêng so với Sương Xanh.\nKhi đội ngũ tiêu hao hết Sương Xanh, sẽ chuyển sang tiêu hao <color=#FFD780FF>Sương Xanh Trăng Núi</color>.\n<color=#FFD780FF>Sương Xanh Trăng Núi</color> có giới hạn là 3."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Khúc Ca Dạ Oanh",
+    "Description": "Hiệu quả nhận được sau khi Illuga thi triển Kỹ Năng Nộ <color=#FFD780FF>Phản Chiếu Vô Hình</color>, giúp nhân vật trong trận hiện tại tăng <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color> gây ra."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Thời Khắc Nguyệt Chuyển",
+    "Description": "Sau khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Thiên Địa Hốt Nhiên Thân</color>, Zibai sẽ chuyển sang chế độ này. Chế độ này tối đa duy trì {PARAM#P1263201|4S1}s và mang đặc tính sau:\n·Khi thực hiện Tấn Công Thường và Trọng Kích, sẽ chuyển sang gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color> không thể bị thay thế.\n·Kỹ Năng Nguyên Tố <color=#FFD780FF>Thiên Địa Hốt Nhiên Thân</color> sẽ được thay thế bằng Kỹ Năng Nguyên Tố đặc biệt <color=#FFD780FF>Linh Câu Phi Đạp</color>: Khi Zibai có ít nhất 70 điểm <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color>, Zibai có thể tiêu hao 70 điểm Ánh Sáng Lưu Chuyển, thi triển Linh Câu Phi Đạp để gây hai lần <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>, trong đó sát thương đòn thứ hai được xem là sát thương phản ứng Nguyệt-Kết Tinh.\n\nGiới hạn <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> là 100 điểm, Zibai có thể thông qua những cách thức sau để tích lũy Ánh Sáng Lưu Chuyển:\n·Khi trong chế độ <color=#FFD780FF>Thời Khắc Nguyệt Chuyển</color>, mỗi giây sẽ tích lũy 10 điểm Ánh Sáng Lưu Chuyển.\n·Khi Tấn Công Thường trúng kẻ địch, sẽ tích lũy 5 điểm Ánh Sáng Lưu Chuyển, Zibai mỗi 0.5s tối đa tích lũy một lần Ánh Sáng Lưu Chuyển theo cách này.\n\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>\nKhi nhân vật trong đội ở gần kích hoạt phản ứng Nguyệt-Kết Tinh, sẽ tích lũy 35 điểm <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> cho Zibai, mỗi 4s tối đa tích lũy một lần Ánh Sáng Lưu Chuyển theo cách này. Thi triển Kỹ Năng Nguyên Tố đặc biệt <color=#FFD780FF>Linh Câu Phi Đạp</color>, sẽ đặt lại CD tích lũy <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> theo cách này.\n\nSau khi thi triển 4 lần <color=#FFD780FF>Linh Câu Phi Đạp</color> hoặc kết thúc thời gian duy trì, Zibai sẽ thoát chế độ này."
   }
 ]

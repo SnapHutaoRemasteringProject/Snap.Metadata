@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Dime Pulp Fiction",
+    "Description": "Collect the entire \"The Legends of Reed Miller, Thief Extraordinaire\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Faith Was for the Transience",
+    "Description": "Collect the entire \"Hymns of the Far North\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "...As a Bee Produces Honey",
+    "Description": "Collect the entire \"Conch Echoes\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Part the Snow-Curtain of the Sky",
+    "Description": "Collect the entire \"Tales Carried by the Northwind\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "The History of One City",
+    "Description": "Collect the entire \"A Brief History of the Pale Starborn\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "A Bewitched Place Beneath the Moon",
+    "Description": "Collect the entire \"Night Murmurs From the Far Border\" series.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Moondust Treasure Hunter (II)",
+    "Description": "Open 45 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Moondust Treasure Hunter (II)",
+    "Description": "Open 90 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Moondust Treasure Hunter (II)",
+    "Description": "Open 180 chests in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Moondust Adventurer (II)",
+    "Description": "Complete 5 Open World mechanism-activated Time Trial Challenges in Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Continental Explorer: Moonlit Isles (II)",
+    "Description": "Light up the maps of the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Frosty Groves Beyond the Darkness (II)",
+    "Description": "Unlock all Teleport Waypoints in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Sanctuary Pilgrim: Moonlit Isles (II)",
+    "Description": "Unlock all the Shrines of Depths in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Offerings to the Night: Moonlit Isles (II)",
+    "Description": "Unlock all the seals on the Kuuhenki's Hidden Troves in the following areas in Nod-Krai: Voidsea Outlook, Wavechaser Plain, and Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "The Winds Awaken, the Leaves Whirl Round",
+    "Description": "A nightingale, bearing an ember in its beak, flew only after dusk.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Si le grain ne meurt",
+    "Description": "Even when the flower withers, the leaves still keep their promise.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Joint Meeting Point Construction: Cliffwatch Camp",
+    "Description": "Reach maximum Construction Level at the Cliffwatch Camp.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Joint Meeting Point Construction: The Witch's Garden",
+    "Description": "Reach maximum Construction Level at the Witch's Garden.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Joint Meeting Point Construction: Favonius Keep",
+    "Description": "Reach maximum Construction Level at the Favonius Keep.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Moonlit Whitenight Serenade",
+    "Description": "Complete \"Selenic Chronicles: Part III.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "To Turn Each Sin Against the Sinner",
+    "Description": "Help Janusz deal with the monsters in Dreadshade Mire.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Dead Man's Hand",
+    "Description": "The end is yet to come.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Farewell Hope, With Hope Farewell Fear",
+    "Description": "Witness the ancient palace rise from the depths.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"East of the Moon, West of the Sun\"",
+    "Description": "Complete \"East of the Moon, West of the Sun.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Quis Custodiet Ipsos Custodes",
+    "Description": "Uncover Grazina's plan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "The Lone Wolf's Memory",
+    "Description": "Henceforth, the Bloodstained Knight walked away from the world of men...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Where Heroes Rest",
+    "Description": "Witness the end of the Frostgale Steeds' tale.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Parting Ways on the Journey Home",
+    "Description": "Assist Kuzmich on his journey home.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "There Will Be Bread",
+    "Description": "Make hot, freshly-baked Mushroom Phantasm on the grill.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "The Mound in the Moonlight",
+    "Description": "Unseal a time capsule left behind by an unknown Hyperborean.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "The Paths of Glory Lead but to the Grave",
+    "Description": "Eliminate all of \"Professor\" Rotwang's followers.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "It's Always About Timing",
+    "Description": "Seize the exact instant to turn the tide.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Don't Drop It",
+    "Description": "Absorb and throw a Mandragora with kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "The Thin Black Line",
+    "Description": "Purify the flowing emanations of Abyssal power.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Wandered Lonely as a Cloud",
+    "Description": "Feel the Cottonspring Flowers' soft, springy touch.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "The Shepherd",
+    "Description": "Take a peaceful stroll alongside Slothsheep.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "In Darkness Perish'd",
+    "Description": "Collapse under the corruption of Abyssal Decay.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "As It Should Have Been",
+    "Description": "Witness the return of the Nightmare Moon.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Do Not Put a God to the Test",
+    "Description": "Break the rule set by Il Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"We Call This Efficiency\"",
+    "Description": "Break its shield without defeating any Fishers of Hidden Depths summoned by the Lord of the Hidden Depths: Whisperer of Nightmares.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "A Traveler on a Winter's Night",
+    "Description": "To what end will her journey carry her?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "The Wanderer and His Shadow",
+    "Description": "Perhaps this is the power destined to be yours.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "The Heretic's Utopia",
+    "Description": "Investigate the energy field created by The Doctor.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Moonlight From Ages Long Past",
+    "Description": "Meet the Three Moon Sisters of the past in the prison once used to confine the moon goddesses.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "When the New Moon Returns",
+    "Description": "From the ashes, the \"New Moon\" rises, its ascent spinning the wheel of fate anew...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Sailing Toward Tomorrow",
+    "Description": "Witness the alliance forged between Nod-Krai's factions.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "To the Moon",
+    "Description": "Reach the moon's surface.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "True Moon",
+    "Description": "Complete \"True Moon.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

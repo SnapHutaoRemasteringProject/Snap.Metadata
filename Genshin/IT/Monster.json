@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Correnti impetuose: Erede della Notte gelata",
+    "Title": "Erede della Notte gelata",
+    "Description": "Un'elegante forma di vita elementale che possiede una grande affinità con gli elementi. Ha assunto la sua forma attuale dopo essere rimasta esposta a elevate concentrazioni di Hydro per lunghi periodi di tempo.\nIl suo corpo cristallino come vetro è composto quasi interamente delle gocce d'acqua più pure. Sebbene sia più gentile del resto dei suoi simili, una volta provocato, può trasformare all'istante l'acqua circostante in lame affilate come rasoi, capaci di perforare le difese di qualsiasi intruso ignaro.\nNelle preghiere dell'Estremo Nord ancora esistenti, si dice sia nata dalle benedizioni della Luna gelata, a simboleggiare l'origine pura e la luce primordiale. Questo spiegherebbe perché trova insopportabile essere macchiata con la pallida purezza dei sette colori del cielo, al punto da respingere ogni forma di vita che si avvicini a essa.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Cercanuvole velato: Erede della Notte gelata",
+    "Title": "Erede della Notte gelata",
+    "Description": "Un'elegante forma di vita elementale che possiede una grande affinità con gli elementi. Ha assunto la sua forma attuale dopo essere rimasta esposta a elevate concentrazioni di Anemo per lunghi periodi di tempo.\nIl vento impetuoso gli ha creato un paio di ali in più. Poiché non lascia quasi mai impronte sul terreno, è anche noto come \"colui che cammina con il vento\".\nNelle preghiere dell'Estremo Nord ancora esistenti, si dice sia nata dalle benedizioni della Luna gelata, a simboleggiare l'origine pura e la luce primordiale. Questo spiegherebbe perché trova insopportabile essere macchiata con la pallida purezza dei sette colori del cielo, al punto da respingere ogni forma di vita che si avvicini a essa.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Scheggia solare dorata: Erede della Notte gelata",
+    "Title": "Erede della Notte gelata",
+    "Description": "Un'elegante forma di vita elementale che possiede una grande affinità con gli elementi. Ha assunto la sua forma attuale dopo essere rimasta esposta a elevate concentrazioni di Geo per lunghi periodi di tempo.\nQuasi tutto il suo corpo è ricoperto da strati di Geo solidificato, mentre le sue robuste corna brillano con la stessa lucentezza dell'ambra lucidata.\nNelle preghiere dell'Estremo Nord ancora esistenti, si dice sia nata dalle benedizioni della Luna gelata, a simboleggiare l'origine pura e la luce primordiale. Questo spiegherebbe perché trova insopportabile essere macchiata con la pallida purezza dei sette colori del cielo, al punto da respingere ogni forma di vita che si avvicini a essa.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Herra della Notte gelata",
     "Title": "Guardiano della luce sacra",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Mandragora esadecatonica agguerrita",
+    "Title": "Mandragora esadecatonica agguerrita",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Mandragora esadecatonica agguerrita",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Megachurl arcano",
     "Title": "Sciamano che ha accidentalmente raggiunto la Dominilluminazione",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Pescatore delle profondità nascoste",
+    "Title": "Bestia del nido altromondana",
+    "Description": "Una creatura abissale che si insinua attraverso le faglie nelle profondità nascoste, proveniente da oltre questo mondo.\nMolto tempo fa, un antico filosofo descrisse gli umani come \"bipedi implumi\", usando quella semplice frase per distinguere l'umanità dagli animali e affermare la superiorità umana. In un certo senso, questi girovaghi immortali del silenzioso vuoto cosmico, squamosi anziché piumati e che usano i loro becchi adunchi per assorbire biomassa da un mondo all'altro, potrebbero anche corrispondere a quella stessa semplicistica definizione di \"umano\".",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Signore delle profondità nascoste: Sussurratore di incubi",
+    "Title": "Sovrano senza volto e senza confini",
+    "Description": "Una creatura abissale che si insinua attraverso le faglie nelle profondità nascoste, osservando silenziosamente questo mondo. Si dice che la sua forma sinistra e senza volto non sia altro che una proiezione, e che il suo vero corpo esista solo come una massa informe di pura energia abissale.\nAnche gli invasori che vogliono rivendicare questo mondo devono, in una certa misura, obbedirne alle regole. A meno che i cieli non si spacchino e le difese della terra non crollino, questi estranei nati dalle stelle non possono fare altro che indugiare ai margini del mondo, sussurrando la loro follia in questo regno, mentre i loro tentativi di infiltrarsi si rivelano vani... Ma quanto a lungo potranno durare davvero questa stabilità e questo ordine?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Cacciatore di tesori pozionista di Pyro",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Cacciatore di tesori d'élite agguerrito",
+    "Title": "Cacciatore di tesori d'élite agguerrito",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Manifestazione effluente della Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Manifestazione cavernosa della Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Manifestazione fogliare della Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Lupo glaciale splendente",
+    "Title": "Bestia radiosa",
+    "Description": "Una bestia che ha subito un'evoluzione unica grazie a una prolungata immersione nel potere della Luna antica.\nSi narra che quando un'oscura calamità spazzò via innumerevoli vite, le foreste di frontiera caddero in un silenzio completo. In quella quiete, l'unico suono a rompere il silenzio tombale fu l'ululato dei Lupi glaciali che invocavano la luna. Notte dopo notte, i loro lamenti lugubri echeggiavano nella desolata natura selvaggia, alla fredda luce della luna.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Lupo glaciale splendente agguerrito",
+    "Title": "Bestia radiosa",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "Il Luminare",
+    "Title": "Il Luminare",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "Il Luminare",
+    "Title": "Eretico della Luna falsa",
+    "Description": "Vituperato ovunque come un eretico, il Luminare, il secondo degli Undici Messaggeri dei Fatui, ha ottenuto l'autorità delle tre lune e ora ascende i lunghi gradini verso il trono divino del \"nuovo mondo\".\nTutto avrebbe dovuto appartenerci.\nMa la ragione ha scartato tutto ciò che superava i suoi limiti, lasciando l'umanità cieca alla sua vera natura.\nVita e morte ci hanno poi legati in involucri mortali, incatenando ogni scintilla di aspirazione.\nIl tempo e lo spazio si sono chiusi per ultimi, recintando la mente in una docile obbedienza, così che nessuno osasse immaginare di liberarsi.\nDa quel momento in poi, falsi dèi hanno governato il mondo, ognuno proclamando la propria verità come l'unica verità, sebbene nessuno meritasse il manto che così rumorosamente rivendicavano.\nNon esiste una struttura naturale al flusso della vita. L'ordine è stato semplicemente imposto su di esso. Spogliatevi di ogni catena posta su questo mondo, e l'essenza di tutte le cose verrà finalmente alla luce.\nE quella rivelazione... è la prima luce del nuovo mondo.\n\"Per quanto tempo ancora continuerete a soffrire in questo mondo stagnante e obsoleto?\"",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "Il Luminare",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "Il Luminare",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

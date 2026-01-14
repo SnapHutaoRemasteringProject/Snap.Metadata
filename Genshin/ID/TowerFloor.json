@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "DMG Plunging Attack Karakter +75%."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Seluruh anggota party mendapatkan 60% Hydro DMG Bonus.",
+      "Seluruh anggota party mendapatkan 60% Electro DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Charged Attack DMG Karakter aktif +75%."
+    ],
+    "SecondDescriptions": [
+      "DMG Reaksi Lunar +75%."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Seluruh anggota party mendapatkan 60% Hydro DMG Bonus.",
+      "Seluruh anggota party mendapatkan 60% Geo DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "DMG Lunar-Charged +75%."
+    ],
+    "SecondDescriptions": [
+      "DMG Lunar-Crystallize +75%."
+    ]
   }
 ]

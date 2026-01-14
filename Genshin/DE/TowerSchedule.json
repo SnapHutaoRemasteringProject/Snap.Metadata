@@ -1,21 +1,5 @@
 [
   {
-    "Id": 113,
-    "FloorIds": [
-      1110,
-      1111,
-      1116,
-      1117
-    ],
-    "Open": "2025-11-16T04:00:00+08:00",
-    "Close": "2025-12-16T03:59:59+08:00",
-    "BuffName": "Eidgebundener Mond",
-    "Descriptions": [
-      "Löst, wenn sich der Wert von „Eid des Lebens“ der aktuellen Figur erhöht oder verringert, <color=#F39000>eine Druckwelle</color> aus, die Gegnern in der Umgebung tatsächlichen Schaden zufügt."
-    ],
-    "Icon": "UI_TowerBlessing_99"
-  },
-  {
     "Id": 114,
     "FloorIds": [
       1110,
@@ -30,6 +14,38 @@
       "#Löst beim Auslösen von Verwirbelung beim Gegner durch die aktuelle Figur eine <color=#F39000>Druckwelle</color> an der Position des Gegners aus, die tatsächlichen Schaden verursacht. 2{NON_BREAK_SPACE}s Abklingzeit."
     ],
     "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Wellenschlagender Mond",
+    "Descriptions": [
+      "#Löst beim Auslösen von Mondleuchten-Reaktionen (Mondspross / Mond unter Strom / Mond-Kristallisation) bei Gegnern an deren Position eine <color=#F39000>Druckwelle</color> aus, die tatsächlichen Schaden verursacht. 3{NON_BREAK_SPACE}s Abklingzeit."
+    ],
+    "Icon": "UI_TowerBlessing_101"
+  },
+  {
+    "Id": 116,
+    "FloorIds": [
+      1110,
+      1111,
+      1122,
+      1123
+    ],
+    "Open": "2026-02-16T04:00:00+08:00",
+    "Close": "2026-03-16T03:59:59+08:00",
+    "BuffName": "Felsenfester Mond",
+    "Descriptions": [
+      "#Löst beim Verursachen von Schaden an Gegnern durch Mond-Kristallisation an deren Position eine <color=#F39000>Druckwelle</color> aus, die tatsächlichen Schaden verursacht. 3{NON_BREAK_SPACE}s Abklingzeit."
+    ],
+    "Icon": "UI_TowerBlessing_102"
   },
   {
     "Id": 1,
@@ -1833,5 +1849,21 @@
       "#Löst beim Auslösen von Dendro-Reaktionen eine <color=#F39000>Druckwelle</color> an der Position des Gegners aus, die tatsächlichen Schaden verursacht. 3{NON_BREAK_SPACE}s Abklingzeit."
     ],
     "Icon": "UI_TowerBlessing_98"
+  },
+  {
+    "Id": 113,
+    "FloorIds": [
+      1110,
+      1111,
+      1116,
+      1117
+    ],
+    "Open": "2025-11-16T04:00:00+08:00",
+    "Close": "2025-12-16T03:59:59+08:00",
+    "BuffName": "Eidgebundener Mond",
+    "Descriptions": [
+      "Löst, wenn sich der Wert von „Eid des Lebens“ der aktuellen Figur erhöht oder verringert, <color=#F39000>eine Druckwelle</color> aus, die Gegnern in der Umgebung tatsächlichen Schaden zufügt."
+    ],
+    "Icon": "UI_TowerBlessing_99"
   }
 ]

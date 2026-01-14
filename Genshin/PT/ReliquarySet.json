@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Obtém 15% de Bônus de Dano Geo.",
-      "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de Dano para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
+      "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização ou ao desencadear uma Reação de Cristalização Lunar, todos os personagens na equipe ganham 35% de Bônus de Dano para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "ATQ +18%",
-      "Nos 10s depois de usar uma Habilidade Elemental, aumenta o Bônus de Dano Geo em 20%. Se estiver protegido por um escudo gerado pela Reação de Cristalização, o efeito acima será aumentado em 150%, e esse aumento adicional desaparece 1s após perder esse escudo."
+      "Nos 10s depois de usar uma Habilidade Elemental, aumenta o Bônus de Dano Geo em 20%. Se estiver protegido por um escudo gerado pela Reação de Cristalização, ou se houver uma Jaula Lunar próxima gerada por Cristalização Lunar por perto, o efeito acima será aumentado em 150%. Quando essas circunstâncias não forem satisfeitas, esse aumento adicional de Dano desaparece após 1s."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Recarga de Energia +20%",
       "Ao causar Dano Elemental, obtém por 8s o efeito Resplandecer Lunar: Missiva Sublime: quando o Presságio Lunar da equipe estiver no Reluzir Inicial/Cheio, aumenta a Proficiência Elemental de todos os personagens em 60/120. Esse efeito pode ser desencadeado, mesmo se o personagem que está com esse conjunto equipado não estiver ativo. Quando um personagem possuir efeitos de Resplandecer Lunar diferentes, aumenta o Dano causado pelas Reações Lunares em 10% para todos os personagens. O efeito gerado por Resplandecer Lunar não é acumulável."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Serenata das Estrelas e da Lua",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Aumenta a Proficiência Elemental em 80.",
+      "Quando o portador não é o personagem ativo, aumenta o Dano causado por Reações Lunares em 20%. Quando o nível de Presságio Lunar da equipe for pelo menos Reluzir Cheio, aumenta o Dano causado por Reações Lunares em mais 40%. Esses efeitos serão removidos 3s após o portador entrar em campo."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ascensão Zéfira",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "ATQ +18%",
+      "Quando o Ataque Normal, Carregado, Habilidade Elemental ou Supremo atingem o inimigo, obtém o efeito Piedade do Vento e Pastoreio por 6s: aumenta o ATQ em 25%. Se o portador já tiver concluído a Tarefa da Bruxa, Piedade do Vento e Pastoreio será elevado para Determinação do Vento e Pastoreio, aumentando a Taxa CRIT do portador que passou pelo teste em 20%. Esse efeito pode ser desencadeado mesmo quando o portador não é o personagem ativo."
     ]
   }
 ]

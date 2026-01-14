@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Nhận 15% buff sát thương nguyên tố Nham.",
-      "Khi nhận được mảnh kết tinh do phản ứng Kết Tinh hình thành, tất cả thành viên đội sẽ được tăng 35% sát thương nguyên tố tương ứng, duy trì 10 giây. Chỉ được nhận một loại tăng sát thương nguyên tố cùng lúc."
+      "Khi nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, tất cả nhân vật trong đội nhận 35% buff sát thương nguyên tố tương ứng, duy trì 10s. Chỉ được nhận một loại buff sát thương nguyên tố cùng lúc."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "Tấn công tăng 18%",
-      "Trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, Sát Thương Nguyên Tố Nham tăng 20%; Nếu được khiên sản sinh từ phản ứng Kết Tinh bảo vệ, hiệu quả trên sẽ gia tăng 150%. Hiệu quả tăng thêm này sẽ mất sau 1s khi mất đi tấm khiên kết tinh bảo hộ."
+      "Trong 10s sau khi thi triển Kỹ Năng Nguyên Tố, nhận 20% buff Sát Thương Nguyên Tố Nham. Nếu được khiên sinh ra từ phản ứng Kết Tinh bảo vệ, hoặc xung quanh có Trăng Trôi sinh ra từ phản ứng Nguyệt-Kết Tinh, hiệu quả trên sẽ gia tăng 150%. Hiệu quả tăng thêm này sẽ xóa sau 1s khi không thỏa mãn điều kiện nêu trên."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Hiệu Quả Nạp Nguyên Tố tăng 20%.",
       "Khi gây sát thương nguyên tố, sẽ nhận hiệu quả \"Trăng Sáng - Tín Ngưỡng\" trong 8s: Khi Nguyệt Triệu của đội là Hé Sáng/Rực Sáng, tất cả nhân vật trong đội sẽ tăng 60/120 điểm Tinh Thông Nguyên Tố. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên. Với mỗi hiệu quả \"Trăng Sáng\" khác nhau mà nhân vật trong đội sở hữu, tất cả nhân vật trong đội sẽ tăng 10% sát thương phản ứng Nguyệt. Hiệu quả sản sinh từ \"Trăng Sáng\" sẽ không thể cộng dồn."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Khúc Ca Của Trăng Và Sao Mai",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Tăng 80 điểm Tinh Thông Nguyên Tố.",
+      "Khi người trang bị đang dự bị, sát thương phản ứng Nguyệt gây ra tăng 20%. Khi Nguyệt Triệu của đội tối thiểu là Rực Sáng, sát thương phản ứng Nguyệt tăng thêm 40%. Hiệu quả trên sẽ bị xóa sau 3s từ khi người trang bị ra trận."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Ngày Nổi Gió",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "Tấn công tăng 18%.",
+      "Sau khi Tấn Công Thường, Trọng Kích, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng kẻ địch, sẽ nhận hiệu quả \"Thương Mến Của Gió Và Bài Ca Chăn Cừu\" trong 6s: Tấn Công tăng 25%. Nếu người trang bị đã hoàn thành Bài Tập Của Ma Nữ, \"Thương Mến Của Gió Và Bài Ca Chăn Cừu\" sẽ được nâng cấp thành \"Quyết Tâm Của Gió Và Bài Ca Chăn Cừu\", tăng thêm 20% Tỷ Lệ Bạo Kích cho người trang bị vượt qua thử thách. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
     ]
   }
 ]

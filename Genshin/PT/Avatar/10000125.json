@@ -1,0 +1,1241 @@
+{
+  "Id": 10000125,
+  "PromoteId": 125,
+  "Sort": 110,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Columbina",
+  "SideIcon": "UI_AvatarIcon_Side_Columbina",
+  "Name": "Columbina",
+  "Description": "A Dama da Lua nascida em Nod-Krai, além de ser a lua nova retornando para casa.",
+  "BeginTime": "2026-01-13T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 10,
+  "BaseValue": {
+    "HpBase": 1143.984,
+    "AttackBase": 7.448,
+    "DefenseBase": 40.0861
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12531,
+        "Proud": {
+          "Descriptions": [
+            "Dano do 1° Golpe|{param1:F1P}",
+            "Dano do 2° Golpe|{param2:F1P}",
+            "Dano do 3° Golpe|{param3:F1P}",
+            "Dano de Ataque Carregado|{param4:F1P}",
+            "Consumo de Stamina de Ataque Carregado|{param5:F1}",
+            "Dano de Lavagem do Orvalho Lunar|{param6:F2P} da Vida Máxima x3",
+            "Dano Durante a Queda|{param7:F1P}",
+            "Dano de Queda de Baixa/Alta Altitude|{param8:P}/{param9:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253101,
+              "Level": 1,
+              "Parameters": [
+                0.46792,
+                0.366256,
+                0.58484,
+                1.1608,
+                50,
+                0.015112,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1253102,
+              "Level": 2,
+              "Parameters": [
+                0.503014,
+                0.393725,
+                0.628703,
+                1.24786,
+                50,
+                0.016245,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1253103,
+              "Level": 3,
+              "Parameters": [
+                0.538108,
+                0.421194,
+                0.672566,
+                1.33492,
+                50,
+                0.017379,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1253104,
+              "Level": 4,
+              "Parameters": [
+                0.5849,
+                0.45782,
+                0.73105,
+                1.451,
+                50,
+                0.01889,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1253105,
+              "Level": 5,
+              "Parameters": [
+                0.619994,
+                0.485289,
+                0.774913,
+                1.53806,
+                50,
+                0.020023,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1253106,
+              "Level": 6,
+              "Parameters": [
+                0.655088,
+                0.512758,
+                0.818776,
+                1.62512,
+                50,
+                0.021157,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1253107,
+              "Level": 7,
+              "Parameters": [
+                0.70188,
+                0.549384,
+                0.87726,
+                1.7412,
+                50,
+                0.022668,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1253108,
+              "Level": 8,
+              "Parameters": [
+                0.748672,
+                0.58601,
+                0.935744,
+                1.85728,
+                50,
+                0.024179,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1253109,
+              "Level": 9,
+              "Parameters": [
+                0.795464,
+                0.622635,
+                0.994228,
+                1.97336,
+                50,
+                0.02569,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1253110,
+              "Level": 10,
+              "Parameters": [
+                0.842256,
+                0.659261,
+                1.052712,
+                2.08944,
+                50,
+                0.027202,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1253111,
+              "Level": 11,
+              "Parameters": [
+                0.889048,
+                0.695886,
+                1.111196,
+                2.20552,
+                50,
+                0.028713,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1253112,
+              "Level": 12,
+              "Parameters": [
+                0.93584,
+                0.732512,
+                1.16968,
+                2.3216,
+                50,
+                0.030224,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1253113,
+              "Level": 13,
+              "Parameters": [
+                0.99433,
+                0.778294,
+                1.242785,
+                2.4667,
+                50,
+                0.032113,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1253114,
+              "Level": 14,
+              "Parameters": [
+                1.05282,
+                0.824076,
+                1.31589,
+                2.6118,
+                50,
+                0.034002,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1253115,
+              "Level": 15,
+              "Parameters": [
+                1.11131,
+                0.869858,
+                1.388995,
+                2.7569,
+                50,
+                0.035891,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11251,
+        "Name": "Cascata do Orvalho do Luar",
+        "Description": "<color=#FFD780FF>Ataque Normal</color>\nInvoca uma maré do luar, realizando até 3 golpes consecutivos e causando <color=#80C0FFFF>Dano Hydro</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina e, após uma canalização, causa <color=#80C0FFFF>Dano Hydro em AdE</color>.\nSe possuir pelo menos 1 {LINK#N11190008}<color=#FFD780FF>Orvalho Verdejante</color>{/LINK}, o Ataque Carregado de Columbina será substituído pelo Ataque Carregado especial <color=#FFD780FF>Lavagem do Orvalho Lunar</color> que não consome Stamina: consome 1 Orvalho Verdejante para causar <color=#99FF88FF>Dano Dendro em AdE</color> 3 vezes contra os inimigos em frente. Esse Dano é considerado Dano de Florescimento Lunar.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão.",
+        "Icon": "Skill_A_Catalyst_MD"
+      },
+      {
+        "GroupId": 12532,
+        "Proud": {
+          "Descriptions": [
+            "Dano de Habilidade|{param1:F1P} da Vida Máxima",
+            "Dano Contínuo de Onda Gravitacional|{param2:F1P} da Vida Máxima",
+            "Dano de Carga Lunar de Interferência Kuuvahki|{param3:F2P} da Vida Máxima",
+            "Dano de Florescimento Lunar da Interferência Kuuvahki|{param4:F2P} da Vida Máxima x5",
+            "Dano de Cristalização Lunar da Interferência Kuuvahki|{param5:F2P} da Vida Máxima",
+            "Gravitação Máxima|{param8:I}",
+            "Duração de Onda Gravitacional|{param9:F1}s",
+            "Recarga|{param10:F1}s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253201,
+              "Level": 1,
+              "Parameters": [
+                0.1672,
+                0.0936,
+                0.04704,
+                0.01408,
+                0.08824,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253202,
+              "Level": 2,
+              "Parameters": [
+                0.17974,
+                0.10062,
+                0.050568,
+                0.015136,
+                0.094858,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253203,
+              "Level": 3,
+              "Parameters": [
+                0.19228,
+                0.10764,
+                0.054096,
+                0.016192,
+                0.101476,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253204,
+              "Level": 4,
+              "Parameters": [
+                0.209,
+                0.117,
+                0.0588,
+                0.0176,
+                0.1103,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253205,
+              "Level": 5,
+              "Parameters": [
+                0.22154,
+                0.12402,
+                0.062328,
+                0.018656,
+                0.116918,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253206,
+              "Level": 6,
+              "Parameters": [
+                0.23408,
+                0.13104,
+                0.065856,
+                0.019712,
+                0.123536,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253207,
+              "Level": 7,
+              "Parameters": [
+                0.2508,
+                0.1404,
+                0.07056,
+                0.02112,
+                0.13236,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253208,
+              "Level": 8,
+              "Parameters": [
+                0.26752,
+                0.14976,
+                0.075264,
+                0.022528,
+                0.141184,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253209,
+              "Level": 9,
+              "Parameters": [
+                0.28424,
+                0.15912,
+                0.079968,
+                0.023936,
+                0.150008,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253210,
+              "Level": 10,
+              "Parameters": [
+                0.30096,
+                0.16848,
+                0.084672,
+                0.025344,
+                0.158832,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253211,
+              "Level": 11,
+              "Parameters": [
+                0.31768,
+                0.17784,
+                0.089376,
+                0.026752,
+                0.167656,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253212,
+              "Level": 12,
+              "Parameters": [
+                0.3344,
+                0.1872,
+                0.09408,
+                0.02816,
+                0.17648,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253213,
+              "Level": 13,
+              "Parameters": [
+                0.3553,
+                0.1989,
+                0.09996,
+                0.02992,
+                0.18751,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253214,
+              "Level": 14,
+              "Parameters": [
+                0.3762,
+                0.2106,
+                0.10584,
+                0.03168,
+                0.19854,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253215,
+              "Level": 15,
+              "Parameters": [
+                0.3971,
+                0.2223,
+                0.11172,
+                0.03344,
+                0.20957,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            }
+          ]
+        },
+        "Id": 11252,
+        "Name": "Maré Eterna",
+        "Description": "Invoca as marés da Lua, causando <color=#80C0FFFF>Dano Hydro em AdE</color> e invocando a {LINK#N11250001}<color=#FFD780FF>Onda Gravitacional</color>{/LINK}.\n<color=#FFD780FF>Onda Gravitacional</color> segue o personagem ativo e causa <color=#80C0FFFF>Dano Hydro em AdE</color> continuamente contra os inimigos próximos. Enquanto <color=#FFD780FF>Onda Gravitacional</color> existir, quando um personagem próximo desencadear Reações Lunares ou causar Dano de Reações Lunares, Columbina acumulará <color=#FFD780FF>Gravitação</color> especial. Ao acumular até o valor máximo, causará tipos de Danos diferentes contra os inimigos de acordo com o valor máximo de <color=#FFD780FF>Gravitação</color> acumulado do tipo de Reação Lunar.\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: <color=#FFD780FF>Onda Gravitacional</color> causa <color=#80C0FFFF>Dano Hydro em AdE</color> de maior alcance.",
+        "Icon": "Skill_S_Columbina_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12539,
+      "Proud": {
+        "Descriptions": [
+          "Dano de Habilidade|{param1:F1P} da Vida Máxima",
+          "Aumento de Dano das Reações Lunares|{param2:F1P}",
+          "Duração de Domínio Lunar|{param3:F1}s",
+          "Tempo de Recarga|{param4:F1}s",
+          "Energia Elemental|{param5:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1253901,
+            "Level": 1,
+            "Parameters": [
+              0.3224,
+              0.13,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253902,
+            "Level": 2,
+            "Parameters": [
+              0.34658,
+              0.16,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253903,
+            "Level": 3,
+            "Parameters": [
+              0.37076,
+              0.19,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253904,
+            "Level": 4,
+            "Parameters": [
+              0.403,
+              0.22,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253905,
+            "Level": 5,
+            "Parameters": [
+              0.42718,
+              0.25,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253906,
+            "Level": 6,
+            "Parameters": [
+              0.45136,
+              0.28,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253907,
+            "Level": 7,
+            "Parameters": [
+              0.4836,
+              0.31,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253908,
+            "Level": 8,
+            "Parameters": [
+              0.51584,
+              0.34,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253909,
+            "Level": 9,
+            "Parameters": [
+              0.54808,
+              0.37,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253910,
+            "Level": 10,
+            "Parameters": [
+              0.58032,
+              0.4,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253911,
+            "Level": 11,
+            "Parameters": [
+              0.61256,
+              0.43,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253912,
+            "Level": 12,
+            "Parameters": [
+              0.6448,
+              0.46,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253913,
+            "Level": 13,
+            "Parameters": [
+              0.6851,
+              0.49,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253914,
+            "Level": 14,
+            "Parameters": [
+              0.7254,
+              0.52,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253915,
+            "Level": 15,
+            "Parameters": [
+              0.7657,
+              0.55,
+              20,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11255,
+      "Name": "Melancolia Sob o Luar",
+      "Description": "Colinas e marés se unem sob o luar prateado de uma lua nova. Temporariamente transforma o terreno próximo em {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK} e causa <color=#80C0FFFF>Dano Hydro em AdE</color>.",
+      "Icon": "Skill_E_Columbina_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12521,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252101,
+              "Level": 1,
+              "Parameters": [
+                0.05,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252101,
+        "Name": "Mania Lunar",
+        "Description": "Ao desencadear{LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}, Columbina obtém o efeito Indução Lunar, aumentando sua Taxa CRIT em 5% por 10s. Esse efeito pode acumular até 3 vezes.",
+        "Icon": "UI_Talent_S_Columbina_05"
+      },
+      {
+        "GroupId": 12522,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252201,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252201,
+        "Name": "Regras Próprias da Lua Nova",
+        "Description": "Quando personagens dentro do {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK} desencadeiam reações Lunares, eles ganham os seguintes efeitos, respectivamente: \n· <color=#FFD780FF>Carga Lunar</color>: Quando as Nuvens Trovejantes realizam golpe(s) de relâmpago contra um alvo válido, há 33% de chance de realizar um golpe de relâmpago adicional. \n· <color=#FFD780FF>Florescimento Lunar</color>: Ao desencadear reações de Florescimento Lunar, o grupo ganha um {LINK#N11250003}<color=#FFD780FF>Orvalho Verdejante da Montanha Lunar</color>{/LINK} especial. Até 3 Orvalhos Verdejantes da Montanha Lunar podem ser obtidos a cada 18s. \n· <color=#FFD780FF>Cristalização Lunar</color>: Quando a Sonata da Jaula Lunar é desencadeada, cada Jaula Lunar tem 33% de chance de aplicar um ataque extra.",
+        "Icon": "UI_Talent_S_Columbina_06"
+      },
+      {
+        "GroupId": 12523,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252301,
+              "Level": 1,
+              "Parameters": [
+                0.002,
+                0.07
+              ]
+            }
+          ]
+        },
+        "Id": 1252301,
+        "Name": "Bênção do Presságio Lunar: Serenata sob o Luar",
+        "Description": "Quando o personagem desencadeia uma reação de Eletricamente Carregado/Florescimento/Cristalização Hydro, será convertido para Carga Lunar/Florescimento Lunar/Cristalização Lunar respectivamente, e aumenta o Dano Básico de Reações Lunares causado pelos personagens com base na Vida Máxima de Columbina: cada 1000 de Vida Máxima aumenta o Dano Básico em 0.2%. É possível aumentar o Dano até 7% dessa forma.\n\nAlém disso, quando Columbina está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> em 1.",
+        "Icon": "UI_Talent_S_Columbina_07"
+      },
+      {
+        "GroupId": 12525,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1252501,
+        "Name": "Vigília Lunar",
+        "Description": "Quando está em Nod-Krai e um personagem da equipe é derrotado, Columbina revive esse personagem e regenera a Vida desse personagem com base no nível de Amizade de Columbina. Esse efeito pode ser desencadeado uma vez a cada 100s. Esse efeito não funciona em domínios, domínios dizimados e no Abismo do Espiral.\nAlém disso, Columbina parece possuir afinidade especial com certos animais influenciados por Kuuvahki...",
+        "Icon": "UI_Talent_S_Columbina_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1251,
+        "Name": "Resplendor Sobre Flores e Picos",
+        "Description": "Ao lançar a Habilidade Elemental <color=#FFD780FF>Maré Eterna</color>, desencadeia imediatamente um efeito equivalente a {LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}. Esse efeito pode ser desencadeado uma vez a cada 15s.\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nAo desencadear Interferência Kuuvahki, se o tipo de Reação Lunar que Columbina possui mais Gravitação for:\n· <color=#FFD780FF>Carga Lunar</color>: regenera 6 de Energia Elemental para o personagem ativo.\n· <color=#FFD780FF>Florescimento Lunar</color>: aumenta a RES contra Interrupção do personagem ativo por 8s.\n· <color=#FFD780FF>Cristalização Lunar</color>: invoca <color=#FFD780FF>Escudo da Chuva do Mar</color>, com absorção de Dano de 12% da Vida Máxima de Columbina e com 250% de eficácia contra <color=#80C0FFFF>Hydro</color> por 8s.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+        "Icon": "UI_Talent_S_Columbina_01"
+      },
+      {
+        "Id": 1252,
+        "Name": "Esplendor Acompanhado",
+        "Description": "Aumenta a velocidade de acumulação de {LINK#N11250001}<color=#FFD780FF>Gravitação</color>{/LINK} em 34%.\nAo desencadear <color=#FFD780FF>Interferência Kuuvahki</color>, Columbina obtém o efeito <color=#FFD780FF>Brilho Branco</color> que aumenta sua Vida Máxima em 40% por 8s.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>:\nNa duração do efeito <color=#FFD780FF>Brilho Branco</color>, se desencadear<color=#FFD780FF>Interferência Kuuvahki</color>, e se o Tipo de Reação Lunar que acumulou Gravitação para Columbina for:\n· <color=#FFD780FF>Carga Lunar</color>: aumenta o ATQ do personagem ativo. O aumento é equivalente a 1% da Vida Máxima de Columbina.\n· <color=#FFD780FF>Florescimento Lunar</color>: aumenta a Proficiência Elemental do personagem ativo. O aumento é equivalente a 0.35% da Vida Máxima de Columbina.\n· <color=#FFD780FF>Cristalização Lunar</color>: aumenta a DEF do personagem ativo. O aumento é equivalente a 1% da Vida Máxima de Columbina.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
+        "Icon": "UI_Talent_S_Columbina_02"
+      },
+      {
+        "Id": 1253,
+        "Name": "Brilho Onírico Sobre Águas Tranquilas",
+        "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11252}Maré Eterna{/LINK}</color> em 3.\nNível máximo de elvação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+        "Icon": "UI_Talent_U_Columbina_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1254,
+        "Name": "Picos Entre Névoas Florais",
+        "Description": "Ao desencadear {LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}, regenera 4 de Energia Elemental para Columbina.\nAlém disso, de acordo com o tipo de Reação Lunar que acumulou mais <color=#FFD780FF>Gravitação</color>, se for Carga Lunar/Florescimento Lunar/Cristalização Lunar, aumenta o Dano da Reação Lunar causado por essa Interferência Kuuvahki. O valor de aumento é baseado em 12.5%/2.5%/12.5% da Vida Máxima de Columbina. Esse efeito pode ser desencadeado uma vez a cada 15s.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+        "Icon": "UI_Talent_S_Columbina_03"
+      },
+      {
+        "Id": 1255,
+        "Name": "Silêncio de uma Canção Solitária",
+        "Description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11255}Melancolia Sob o Luar{/LINK}</color> em 3.\nNível máximo é 15.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+        "Icon": "UI_Talent_U_Columbina_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1256,
+        "Name": "Atravessando a Escuridão com o Luar",
+        "Description": "Nos 8s após todos os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
+        "Icon": "UI_Talent_S_Columbina_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Retorno da Lua Nova",
+    "Detail": "A Dama da Lua nascida em Nod-Krai, além de ser a lua nova retornando para casa.",
+    "Association": 12,
+    "Native": "Saguão da Lua Prateada",
+    "BirthMonth": 1,
+    "BirthDay": 14,
+    "VisionBefore": "Hydro",
+    "VisionAfter": "Hydro",
+    "VisionOverrideLocked": "???",
+    "VisionOverrideUnlocked": "Convergência Tri-lunar",
+    "ConstellationBefore": "???",
+    "ConstellationAfter": "Columbina Hyposelenia",
+    "CvChinese": "杨梦露",
+    "CvJapanese": "Lynn",
+    "CvEnglish": "Emi Lo",
+    "CvKorean": "Yu Yeong",
+    "CookBonus": {
+      "OriginItemId": 108938,
+      "ItemId": 108950,
+      "InputList": [
+        101262,
+        101268,
+        101265,
+        101264
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Bate-papo - Cantar",
+        "Context": "Minhas canções não são para ninguém. Mas se alguém parar para escutar, espero que encontre nelas um instante de paz."
+      },
+      {
+        "Title": "Bate-papo - Luar",
+        "Context": "Gostaria de admirar a lua comigo? Você pode se sentar na minha cadeira de balanço e apreciar a vista. Ou podemos ir até a lua e observar Teyvat lá de cima. O que preferir."
+      },
+      {
+        "Title": "Bate-papo - Longas Caminhadas",
+        "Context": "Eu costumava passear pelo Saguão da Lua Prateada todos os dias, então não se preocupe comigo. Posso acompanhar o ritmo."
+      },
+      {
+        "Title": "Olá...",
+        "Context": "Pode me chamar de Columbina, ou Kuutar, ou Deusa da Lua... O que preferir. Já estou acostumada a ter muitos nomes. A bênção da lua é sua, sempre que precisar dela."
+      },
+      {
+        "Title": "Quando Está Chovendo...",
+        "Context": "Abrigar-me e ouvir a chuva purificando a terra me faz sentir segura, como se estivesse \"em casa\"."
+      },
+      {
+        "Title": "Depois da Chuva...",
+        "Context": "O céu voltou a ficar limpo. Devemos conseguir ver a lua esta noite."
+      },
+      {
+        "Title": "Quando Está Trovejando...",
+        "Context": "Ah...! Sem o relâmpago para avisar... o som do trovão é bem assustador..."
+      },
+      {
+        "Title": "Quando Está Nevando...",
+        "Context": "Eu adoro a neve. É tão bonita e tranquila, e posso brincar de guerra de bolas de neve com os kuuhenki. Quer participar agora?"
+      },
+      {
+        "Title": "A Ventania Está Chegando...",
+        "Context": "#Se o vento estiver forte demais para manter os olhos abertos, me dê a sua mão. Eu {M#o}{F#a} guiarei."
+      },
+      {
+        "Title": "No Deserto...",
+        "Context": "A areia é fresca e agradável para caminhar à noite, mas fica tão quente durante o dia..."
+      },
+      {
+        "Title": "Bom dia...",
+        "Context": "Bom dia... Você viu meu laço de cabelo? Hmm? Meu cabelo está bagunçado...? Qual parte? Poderia escová-lo para mim?"
+      },
+      {
+        "Title": "Boa Tarde...",
+        "Context": "Hmm... A lua ainda não nasceu. Acho que vou tirar um cochilo com os kuuhenki."
+      },
+      {
+        "Title": "Boa noite...",
+        "Context": "\"Anoitecer\"... Uma expressão bem interessante, não acha? É como se a noite caísse a cada entardecer, tropeçando na lua."
+      },
+      {
+        "Title": "Boa noite...",
+        "Context": "Não consegue dormir? Hmm... Os kuuhenki também têm esse problema às vezes. Quando isso acontece, eu geralmente canto para eles ou conto histórias. Quer que eu faça isso para você?"
+      },
+      {
+        "Title": "Sobre Columbina: Máscara para os Olhos",
+        "Context": "Estou acostumada a \"sentir\" as coisas com kuuvahki, isso revela a verdade das coisas melhor do que \"ver\". Ainda assim, às vezes a curiosidade fala mais alto e eu abro os olhos para dar uma espiada. Essa é a vantagem de ter uma máscara para os olhos com furinhos."
+      },
+      {
+        "Title": "Sobre Columbina: Casa",
+        "Context": "Eu costumava achar que seria para sempre uma estranha nesta terra, que a lua era o meu verdadeiro \"lar\". Agora, eu tenho mais um lugar para chamar de lar, e ambos os meus lares estão mais próximos."
+      },
+      {
+        "Title": "Sobre Nós - Conquistas",
+        "Context": "Ouvi falar de você muito antes de nos conhecermos. Quando eu estava com os Fatui, lembro dos outros Mensageiros comentando sobre os seus feitos. Mas você tem tantos títulos que eu... adormeci antes mesmo de chegarem ao seu nome."
+      },
+      {
+        "Title": "Sobre Nós - Jornada",
+        "Context": "Você poderia me dar algumas dicas para viajar? Tipo... como falar com pessoas de outras nações. Hmm? Eu deveria focar mais em habilidades de acender fogueira, técnicas de caça e... transporte? Hã. Eu não poderia simplesmente usar kuuvahki para tudo isso?"
+      },
+      {
+        "Title": "Sobre a Convergência Tri-lunar",
+        "Context": "As três deusas me concederam seus poderes, que convergiram em uma força ao mesmo tempo, deslumbrante e suave. Por meio dela, consigo sentir o apego delas a este lugar e perceber as esperanças e desejos que ofereceram a este mundo em seus últimos momentos. Vou herdar o luar delas e usá-lo para iluminar o mundo sob a lua, o lugar que todos chamamos de \"lar\"."
+      },
+      {
+        "Title": "Algo para Compartilhar...",
+        "Context": "Em Snezhnaya, ser a Terceira entre os Mensageiros Fatui vinha com muitas vantagens. Eu não precisava comprar passagem de trem nem ficar na fila para a Companhia Korolevskiy. Ah, e quando eu jantava em um restaurante, eu podia conseguir... \"reembolso\"? Isso era um pouco complicado demais para eu entender, então eu simplesmente acompanhava a Sandrone ou a Arlecchino."
+      },
+      {
+        "Title": "Coisas Interessantes...",
+        "Context": "A lua é ainda mais bonita do que eu imaginava. Kuuvahki azuis fluindo como um oceano sem fim, magníficas águas-vivas flutuando pelo mar, Baleias de Barbatana Congelada vindas de lugares desconhecidos, kuuhenki enormes... É magnífico. Assim que eu deixar minha casa um pouco mais apresentável, vou convidar meus amigos para virem me visitar."
+      },
+      {
+        "Title": "Sobre Lauma...",
+        "Context": "Mirar um feixe de luar na cabeça da Lauma faz os chifres dela crescerem, e se você acertar o ângulo certo, dá até para espetar uma fruta que esteja alta demais para alcançar... Hmm? E depois? Ah, é... Você leva uma bronca."
+      },
+      {
+        "Title": "Sobre Nicole...",
+        "Context": "Ah, nós mantivemos contato até pouco tempo atrás. Pedi que ela me recomendasse alguns livros para ler para os kuuhenki. Ela enviou um monte e ainda deu explicações detalhadas sobre a inspiração e o cenário de cada um. Perguntei quando eu poderia ler um livro escrito por ela mesma, mas então, de repente, parei de ter notícias. Talvez... ela tenha se afastado para escrever um."
+      },
+      {
+        "Title": "Sobre Neuvillette...",
+        "Context": "O Dragão Hydro que serve como Iudex de Fontaine? Hmm... Outro Dragão que coloca pessoas na prisão. Não tenho certeza se eu gostaria de conhecê-lo."
+      },
+      {
+        "Title": "Sobre os Sete Arcontes...",
+        "Context": "Se nos cruzarmos durante minha jornada, farei questão de cumprimentá-los."
+      },
+      {
+        "Title": "Sobre a Tsaritsa...",
+        "Context": "Na primeira vez que cantei nos jardins do Palácio Zapolyarny, a Tsaritsa passou por lá. Ela ficou parada, em silêncio e imóvel, como uma estátua sem expressão esculpida no rosto. Por um momento, tive a impressão de que queria me dizer algo, mas ela nunca disse.\nEla sela suas emoções sob espessas camadas de gelo. O mundo exterior vê apenas um lado de quem ela é... o da Tsaritsa. Se as respostas que busco repousam na lua, talvez as dela estejam enterradas na neve e no gelo."
+      },
+      {
+        "Title": "Sobre Pierro...",
+        "Context": "Ele é o completo oposto de seu codinome, e isso parece ser intencional. Embora seja conhecido como \"Bobo da Corte\", seu tom é severo e sério, e ele fala em enigmas confusos. A máscara que usa exibe um sorriso que zomba do mundo, mas ele mesmo nunca sorri."
+      },
+      {
+        "Title": "Sobre Capitano...",
+        "Context": "Muitos o respeitam, mas tantos outros o temem. Hmm? Está confuso demais? Bem, veja, criaturas acostumadas a viver na escuridão jamais escolheriam se aproximar da luz. É perigoso demais, pois a luz apenas alongaria a própria sombra delas."
+      },
+      {
+        "Title": "Sobre Dottore...",
+        "Context": "Houve um tempo em que \"Dottore\" cuidou de mim, chegando a afirmar que me via como uma Irmãzinha.\nSó mais tarde descobri que, quanto mais próximo você está dele, mais livremente ele o usa. \"O que é um pequeno desconforto entre familiares? Nós suportamos uns aos outros, não é mesmo?\" Era assim que ele via as coisas, e dava para perceber que falava sério. Mas eu não queria ter que \"suportar\". Expectativas assim... me faziam lembrar da minha primeira casa, e dos olhos que me encaravam debaixo do altar, tão cheios de ganância."
+      },
+      {
+        "Title": "Sobre Arlecchino...",
+        "Context": "A Casa da Lareira abriga muitas crianças, e pode ser bem barulhenta. Da primeira vez que as ouvi chamarem Arlecchino de \"Pai\", achei que fosse uma regra que todos deviam seguir lá. Então, na próxima vez que ela passou por mim, usei esse mesmo título. Foi aí que descobri o quão silenciosa a Casa da Lareira podia ficar."
+      },
+      {
+        "Title": "Sobre Pulcinella...",
+        "Context": "Posso te ensinar a falar exatamente como ele — tudo que precisa fazer é combinar as palavras \"dinheiro\", \"aquele maldito Pantalone\" e \"pode anotar o que eu digo\". Veja só. \"Onde está o dinheiro? Pode anotar o que eu digo, vou matar aquele maldito Pantalone.\" Ou, \"Aquele maldito Pantalone vai me pagar, pode anotar o que eu digo.\" Viu só? Fascinante, não é?"
+      },
+      {
+        "Title": "Sobre Sandrone: Máquinas",
+        "Context": "Fico me perguntando... será que a chave nas costas dela algum dia para de girar? Ela muda de direção? Ela a remove quando dorme? Como é que ela se vira na cama? Sempre fiquei curiosa sobre essa chave desde a primeira vez que a conheci. Mas como não éramos próximas naquela época, não parecia certo simplesmente me aproximar e tocá-la. Então, sempre que tinha oportunidade, eu a seguia discretamente, tentando entender o padrão do movimento. Mas um dia, ela se virou de repente e exigiu saber por que eu a estava seguindo. Depois que expliquei o motivo, ela disse: \"Se está tão curiosa, por que não coloco uma nas suas costas, assim você pode descobrir por si mesma, né?\" E assim vivi com uma chave nas costas por alguns dias, e foi bem desafiador. Sandrone não tem uma vida fácil, então passei a cuidar ainda mais dela desde então."
+      },
+      {
+        "Title": "Sobre Sandrone: Máquinas II",
+        "Context": "Não sei exatamente o que conta como \"morte\" para uma marionete... Só sei que Sandrone não está se movendo, e não consigo sentir seu \"funcionamento\". A chave dela simplesmente... parou. E tudo por causa da \"técnica\" que ela usou para me trazer de volta. Ela disse que ia se vingar de mim daquela vez. Como eu queria que fosse só isso... apenas uma tentativa de me assustar..."
+      },
+      {
+        "Title": "Sobre o Magnata...",
+        "Context": "Aos olhos dele, tudo e todos têm uma etiqueta de preço, e é ele quem decide o valor. Somos todos apenas moedas de troca que ele pode usar para expandir seu império de riqueza cada vez maior. Mas quem iria querer visitar um império entediante desses? Eu, com certeza, não.\nHmm... Se ele me visse agora, tenho certeza de que o sorriso dele esconderia ainda mais desprezo do que antes. Já posso até ouvir... \"Parabéns, Srta. Columbina. O seu valor aumentou.\""
+      },
+      {
+        "Title": "Sobre Rosalyne...",
+        "Context": "Se a metamorfose termina com as asas consumidas pelo fogo, talvez permanecer no casulo seja a única forma de sobreviver. Mas duvido que Rosalyne tenha sequer considerado essa escolha, ou talvez ela já tivesse decidido seu próprio fim desde o começo. Seja por amor, ódio ou uma simples dança, ela se entregou por completo ao que acreditava... e deixou para os outros o papel de cantar o seu réquiem após sua partida."
+      },
+      {
+        "Title": "Sobre Childe...",
+        "Context": "Ouvi dizer que ele se dá bem com a família. Eles acampam juntos e fazem churrascos à beira do lago. Sandrone diz que ele é o Mensageiro que mais leva uma vida comum. Eu não entendo muito bem as pessoas comuns, mas esse tipo de vida me parece agradável."
+      },
+      {
+        "Title": "Mais sobre Columbina - I",
+        "Context": "Hã...? A minha história? Hm... talvez leve um bom tempo para contar. Ah, você trouxe chá e petiscos? Bem, nesse caso, acho que posso compartilhar um pouco mais em troca."
+      },
+      {
+        "Title": "Mais sobre Columbina - II",
+        "Context": "Passei muito tempo aprendendo a me relacionar com as pessoas e a viver neste mundo. Mas olhando agora, talvez minhas experiências com os Filhos da Lua Gelada e os Fatui não tenham sido os melhores exemplos. Por muito tempo, achei que os relacionamentos fossem transações — servindo apenas para descobrir o que se pode obter e qual seria o preço disso em troca."
+      },
+      {
+        "Title": "Mais sobre Columbina - II",
+        "Context": "Eu adoro contar histórias para os kuuhenki, e adoro cantar. Existe um vazio na minha vida que está lá desde antes de eu nascer e que me acompanha desde então. Minha história já começou incompleta, por isso aprendi a usar outras histórias para preencher as lacunas. É como... pintar um quadro — traço o contorno com palavras e o preencho com canções."
+      },
+      {
+        "Title": "Mais sobre Columbina - IV",
+        "Context": "Na Noite da Oração Lunar, recebi um nome que é verdadeiramente meu — Columbina Hyposelenia. Antes, eu achava que um nome era apenas um disfarce, algo separado de quem se é. Mas depois daquela noite, percebi que o meu nome é o que me liga a este mundo e às pessoas que vivem nele... Ele é tudo o que não se pode tocar — amizade, amor e apoio — transformado em algo visível para o mundo. Vou valorizá-lo para sempre."
+      },
+      {
+        "Title": "Mais sobre Columbina - V",
+        "Context": "A minha história é como uma ópera contada ao contrário. O final veio primeiro, e eu fiquei procurando os porquês. Mas, se eu pudesse voltar e viver tudo de novo, não mudaria nada. Gosto muito do que ela se tornou. Sem essa jornada, eu nunca teria descoberto que nascer em Nod-Krai foi uma escolha minha, meus amigos não teriam me ajudado a encontrar minha verdadeira \"família\", e você nunca teria seguido Luonnotar até o Saguão da Lua Prateada naquela noite. Minha história teria ficado vazia de uma forma bem diferente. E eu definitivamente não gosto dessa versão."
+      },
+      {
+        "Title": "Passatempos de Columbina...",
+        "Context": "Gosto de subir até a lua e observar Teyvat girar em silêncio. Isso me traz paz."
+      },
+      {
+        "Title": "Preocupações de Columbina...",
+        "Context": "Eu queria poder passear pela Cidade de Nasha como uma pessoa comum... Mas sempre me reconhecem. Será por causa da minha roupa? Ou porque falo com os kuuhenki na cidade? As pessoas comuns não fazem isso?"
+      },
+      {
+        "Title": "Comida Favorita...",
+        "Context": "Frutas e vegetais frescos acompanhados de um pão perfumado... Hmm? Ah, bem, suponho que seja um pouco simples, mas já estou acostumada. Foi o que os Filhos da Lua Gelada me deram quando nasci em Nod-Krai. Os pequenos animais também costumavam dividir as frutas silvestres que encontravam comigo. Prefiro os alimentos em seu estado mais natural — assim podemos ter um vislumbre do mundo como ele deve ser."
+      },
+      {
+        "Title": "Comida que Odeia...",
+        "Context": "\"Água de Fogo\" e outras bebidas fortes. Snezhnaya tem muitas desse tipo. Passei muito tempo lá, mas nunca me acostumei com elas. O mundo começa a girar e parece que o fogo consome por dentro. Eu realmente não entendo por que as pessoas gostam dessa sensação, a menos que... queiram flutuar até a lua também?"
+      },
+      {
+        "Title": "Recebendo Presentes — I",
+        "Context": "Mais, por favor. Hmm? Ah, já acabou? Vou ter que me lembrar de guardar um pouco na próxima vez."
+      },
+      {
+        "Title": "Recebendo Presentes — II",
+        "Context": "É bem agradável. Vou saborear sob o luar."
+      },
+      {
+        "Title": "Recebendo Presentes — III",
+        "Context": "Ah... Sempre que Sandrone ficava brava comigo, ela também me dava coisas assim..."
+      },
+      {
+        "Title": "Aniversário...",
+        "Context": "Seu aniversário é no mesmo dia todos os anos? Uau, isso é fácil de lembrar. A Noite da Oração Lunar acontece em datas diferentes a cada ano, então só posso estimar meu aniversário sentindo a lua. Um aniversário é uma ocasião tão alegre, não é? Todos se reúnem para dançar enquanto as pessoas preparam oferendas deliciosas para lhe dar. Hã...? Os aniversários das pessoas comuns não são assim? Presentes, bolo e amigos...? Ah, isso também serve. Vamos convidar seus amigos para comemorar. Posso cantar uma canção para você, e podemos até pedir para Maalaus pintar um retrato seu."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Introdução",
+        "Context": "Pela Lua Eterna, as marés se erguerão."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Desenvolvimento",
+        "Context": "Pela Lua Gelada, a noite será iluminada."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Auge",
+        "Context": "Pela Lua Iridescente, a escuridão será lançada de volta às sombras."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Conclusão",
+        "Context": "Agora seguro os fios do destino em minhas mãos. A partir de agora, a lua nova vigiará e iluminará o mundo abaixo."
+      },
+      {
+        "Title": "Habilidade Elemental - I",
+        "Context": "Flua."
+      },
+      {
+        "Title": "Habilidade Elemental - II",
+        "Context": "Erga."
+      },
+      {
+        "Title": "Habilidade Elemental - III",
+        "Context": "Minguar."
+      },
+      {
+        "Title": "Supremo - I",
+        "Context": "Uma nova lua se ergue."
+      },
+      {
+        "Title": "Supremo - II",
+        "Context": "Três luas convergem."
+      },
+      {
+        "Title": "Supremo - III",
+        "Context": "Uma noite iluminada pela lua para todos."
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - I",
+        "Context": "Chamam isso de \"surpresa agradável\"... certo?"
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - II",
+        "Context": "Hmm, será que eles também fugiram de casa?"
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - III",
+        "Context": "Fique com eles. Não preciso mais de oferendas."
+      },
+      {
+        "Title": "Vida Baixa - I",
+        "Context": "Ficando tonta..."
+      },
+      {
+        "Title": "Vida Baixa - II",
+        "Context": "Está ficando escuro..."
+      },
+      {
+        "Title": "Vida Baixa - III",
+        "Context": "Não estou me sentindo muito bem..."
+      },
+      {
+        "Title": "Aliado com Vida Baixa - I",
+        "Context": "Sentindo náusea? Permita-me ajudar."
+      },
+      {
+        "Title": "Aliado com Vida Baixa - II",
+        "Context": "Que tal descansar um pouco?"
+      },
+      {
+        "Title": "Derrotado - I",
+        "Context": "O céu noturno... escurece... mais uma vez..."
+      },
+      {
+        "Title": "Derrotado - II",
+        "Context": "A lua... minguou..."
+      },
+      {
+        "Title": "Derrotado - III",
+        "Context": "O preço... de deixar o lar..."
+      },
+      {
+        "Title": "Ataque Leve Sofrido - I",
+        "Context": "Estou bem..."
+      },
+      {
+        "Title": "Ataque Pesado Sofrido - I",
+        "Context": "Ai...!"
+      },
+      {
+        "Title": "Ataque Pesado Sofrido - II",
+        "Context": "... Por quê?"
+      },
+      {
+        "Title": "Entrando na Equipe - I",
+        "Context": "Permita-me emprestar-lhe um pouco do luar."
+      },
+      {
+        "Title": "Entrando na Equipe - II",
+        "Context": "Ficaremos longe por muito tempo?"
+      },
+      {
+        "Title": "Entrando na Equipe - III",
+        "Context": "Eu seguirei por onde você me guiar."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Informações do Personagem",
+        "Context": "Dia ou noite?\nNoite, claro. O mundo do dia é cheio de muitas palavras que ela não consegue entender. \"Kuutar\", \"Damselette\" ou \"Deusa\"... Ela sabe que essas palavras são como espelhos, cada uma refletindo uma versão dela neste mundo desconhecido. Mas aquelas são as versões que os outros desejam ver. Ela não se reconhece nesses reflexos, assim como ela não reconhece a lua no céu. Pelo menos à noite, ela consegue sentir claramente o chamado vindo de além dos céus. Ele não emite som, mas ela entende mesmo assim: a Lua Gelada está a chamando para casa.\n...\nPrimavera, verão, outono ou inverno?\nInverno, sem dúvidas. Após a inquietude da primavera, o clamor do verão e a abundância do outono, a neve do inverno repousa um dedo silenciosamente sobre os lábios do mundo. Como se dissesse, \"Shh. Depois de toda aquela agitação, não deveríamos nos acalmar?\"\nEntão o mundo, obedientemente, fica silencioso. Animais pequenos também se retiram para suas casas. Somente no inverno as pessoas percebem realmente como um \"lar\" quente é importante.\nQuanto a Columbina? Ela gosta de encontrar uma pilha espessa e macia de neve, segurar o fôlego e mergulhar de cabeça. Para uma deusa que não é particularmente sensível ao frio, ser envolvida dos pés à cabeça pela neve branca gentil é simplesmente maravilhoso. Quanto a se seus colegas conseguem entender esse comportamento... bem, isso não é algo que ela se preocupa.\n...\nEnsolarado? Chuvoso? Ou talvez, nublado?\nUma manhã chuvosa. Quando Columbina acorda ao som suave da chuva fora do Saguão da Lua Prateada, uma sensação de calma recai sobre ela, a sensação de estar abrigada sob o teto.\n\"Abrigo\". No ritmo da chuva, a palavra ressoa com força renovada, ecoando o significado mais essencial de \"lar\". Simplesmente existindo junto à extensão desse significado é suficiente para encher Columbina de calor.\nMesmo assim... o anoitecer é melhor quando os céus estão limpos.\n...\nAs respostas dela a essas perguntas são realmente certas? Elas mudarão algum dia? Columbina reflete sobre isso.\nProvavelmente não. Mas mesmo que mudem, essas respostas são as versões mais verdadeiras dela neste momento, a versão mais verdadeira dela nesta noite.\nFlorestas, lagos e mares abertos... qual ela ama mais?\nClaro, ela adora todos."
+      },
+      {
+        "Title": "História 1",
+        "Context": "A primeira coisa que ela ouve é uma canção.\n♪ Durma, durma agora, minha querida pombinha ♪...\n♪ Que flores e belos sonhos floresçam à sua janela ♪...\n...\nDe quem é essa voz? Parece tão distante e indistinta, como uma canção de ninar, exatamente como o começo de uma história, e tanto quanto seu final...\nEntão vem a sensação da terra sob ela.\nGrãos finos, quente e gentil, carregando uma força familiar, como uma parte do próprio corpo dela, ou as águas amnióticas que a envolveram antes dela nascer...\nEntão, ela abre os olhos.\nLuar flutua pelo ar, e os amigos dela capturam seus fios à deriva, tecendo-os em roupas para ela.\nAlgo muito, muito distante está chamando-a, uma atração, uma conexão, como um cordão umbilical não rompido entre um bebê e sua mãe.\nEla levanta os olhos, mas não há nada no céu, somente um véu, uma mentira. Por algum motivo, a primeira vez que ela viu um céu cheio de estrelas, ela sabia que era falso. E seja lá o que a conectasse a algo além foi removido por esse véu de mentiras.\nPor que ela nasceu aqui? Ou melhor, por que ela sequer nasceu? Quem é ela? E de quem é a voz cantando?\nPerguntas surgem, uma após a outra, das profundezas da mente dela. Mas o mundo não oferece nem mesmo um eco como resposta. Às vezes, não ouvir é mais assustador do que não ver.\nEla sente que essas perguntas podem seguí-la para sempre.\nEla fecha os olhos. Afinal, a verdade não pode ser encontrada sob um véu de mentiras."
+      },
+      {
+        "Title": "História 2",
+        "Context": "Quando Columbina chegou pela primeira vez nos Fatui, ela sentiu que era muito diferente dos Filhos da Lua Gelada.\nNinguém parecia fazer demandas insensatas para ela. Ninguém aparecia para desejar ou reverenciar nada dela, pelo menos, não à primeira vista.\nO conceito de \"colegas\" era novo para ela também. Nele, ela sentia algo tanto desconhecido quanto profundamente atraente: uma sensação de igualdade, ocasionalmente misturada a uma noção familiar de troca. Ela ainda estava aprendendo como navegar esse modo de viver.\nO primeiro a se aproximar dela foi Dottore. Das palavras desse colega, Columbina conseguia ouvir um tom de admiração, não o mesmo que adoração; pelo menos, era baseado na premissa de igualdade.\n\"Se não se importar, poderia me ajudar com uma pequena tarefa?\" O colega perguntou educadamente.\nAjudar? Ela esperara que isso seria algo que ela fosse ser obrigada a fazer, mas aqui, ela tinha uma escolha realmente. Ou talvez foi esse colega que estivesse oferecendo a ela a escolha.\nEmbora as palavras de Dottore carregassem um leve eco de algo ominoso, como um trovão distante numa tempestade ao longe, a sensação de ter uma escolha era inegavelmente satisfatória.\nInicialmente, tudo correu bem. O laboratório de Dottore era cheio de todo tipo de dispositivos estranhos, e Columbina só precisava aplicar levemente o poder dela aqui, manipular aquilo, e tudo corria bem.\n\"Nada mau. Você se saiu muito bem.\"\nColumbina gostava dos elogios. Eram novos para ela, uma experiência inédita.\nMas não demorou para os elogios mudarem para \"não foi suficiente\", \"você pode fazer melhor\", ou \"você é capaz de mais...\"\nDe repente, Columbina percebeu que o que Dottore via não era ela, mas alguma versão do que ela deveria ser, ou o nível que os poderes dela deveriam alcançar. Lembrava a ela dos dias antes de se juntar aos Fatui...\nEla sentiu um toque de tristeza. Mais alguém um dia se sentiu triste apenas por ser quem é? Ela não sabia se outros sentiam o mesmo, mas ela realmente sentia isso.\nNão era que ela queria se tornar o que os outros esperavam, mas o que eles viam não era ela. Quem ela realmente era, como uma criança que não é bem-vinda numa festa, era deixada de lado..."
+      },
+      {
+        "Title": "História 3",
+        "Context": "...Vamos comer alguma coisa.\nQuando ela não estava se sentindo feliz, Columbina sempre se virava para coisas que ela gostava de fazer. Encher a barriga era somente uma delas, e a mais fácil de satisfazer.\n\"S-Sinto muito, Mestre Mensageira...\" Conforme ela saía do restaurante, alguém a chamou, tremendo, e entregou a ela um pedaço de papel. Columbina não conseguia ver, mas de alguma forma lembrava, isso era parte de um processo que tinha que acontecer após a refeição. Diferente dos procedimentos nos Filhos da Lua Gelada.\nO problema é que ela ainda não estava acostumada com isso. Ela sabia que envolvia algum tipo de ritual de \"troca\", mas as poucas vezes que ela o realizara, sempre era acompanhada de suas duas recém-conhecidas colegas, Arlecchino e Sandrone. Ou, na verdade, elas faziam por ela.\nColumbina não sabia o que fazer. Durante aquele momento, ela sentia um tipo de medo e culpa radiando da pessoa, tão palpável que ela conseguia sentir mesmo com os olhos fechados. Era culpa dela, e ela se sentia tanto arrependida quanto impotente.\n\"Eu...\" Columbina procurou por palavras desconhecidas.\n\"Tudo bem, deixe comigo. Pode ficar fora disso.\" Uma voz familiar apareceu ao lado dela. Era Sandrone.\n\"Hunf. Você nem sabe como reembolsar e ousa comer sozinha? Espera... eu aposto que você sabe como pagar.\" O tom era impaciente, mas, de alguma maneira, reconfortante.\n\"As regras financeiras dos Fatui são tão rígidas... rígidas e complicadas.\" Ela resmungou, preenchendo rapidamente o papel e entregando ao funcionário trêmulo.\n\"A partir de agora, coloque o consumo dela na minha conta. É a mesma para reembolso mesmo.\" Sandrone disse impacientemente ao funcionário.\n\"Desculpe...\" Columbina murmurou para a nova colega dela. Ela sabia que estava sendo ajudada.\n\"Hã? Não estou fazendo isso por suas desculpas.\" De alguma maneira, ela parecia ainda mais irritada. Por quê?\n\"Hã? Você não me culpa?\" Columbina perguntou.\n\"Hã? Por quê? Você só é do jeito que é.\" Ela deu uma resposta exasperada. \"Honestamente, eu não entendo como alguém como você sequer sobrevive nesse mundo...\"\nNada de \"Você deveria ser assim,\" nem \"Você pode fazer melhor\"... somente \"Você é quem você é.\"\nEmbora o tom de Sandrone sempre fosse impaciente, havia reconhecimento nele, uma aceitação silenciosa do fato de que essa era quem ela realmente era. Columbina sentia alegria ao ser vista por quem realmente era.\n\"...Do que você tá rindo?\" Sandrone perguntou.\nColumbina balançou a cabeça.\n\"Nada. Vamos comer juntas na próxima vez, Sandrone.\" Ela disse. \"Eu gosto de ver você lidando com os 'reembolsos' por mim.\"\n\"...Como é?\" Parecia que a querida colega dela precisava de um pouco de tempo para se acostumar com a forma que ela se expressava, do jeito que ela era."
+      },
+      {
+        "Title": "História 4",
+        "Context": "Em noites de lua cheia, Columbina gostava de deixar o Saguão da Lua Prateada silenciosamente e caminhar perto das casas dos animais. Talvez foi a parte oca de uma árvore, talvez o ninho de um pássaro. Ela ficava perto, ouvindo o ritmo constante de suas respirações enquanto levantava os olhos para a lua no céu. Era como se, ao fazer isso, ela pudesse imaginar como a noite seria na lua, calma e tranquila. Ela esperava que fosse.\nEm noites assim, ela reunia fragmentos de sonhos do que um \"lar\" poderia ser.\nQuando ela retornou à Ilha Hiisi, ela conheceu uma das atuais Emissárias da Canção Lunar. Columbina passara tanto tempo com os Filhos da Lua Gelada, mas ela nunca vira uma galhada tão enorme e bela.\n\"...Perdoe minha interrupção.\" A Deusa da Lua Gelada interrompeu. \"Eu achava que havia muitos com galhadas nos Filhos da Lua Gelada.\"\nColumbina explicou que enquanto fora comum na história, hoje, poucos nasciam com galhadas, e nenhum tinha uma galhada tão esplêndida quanto a da Emissária da Canção Lunar.\n\"A linhagem dessa família se torna inevitavelmente diluída...\" A Deusa da Lua Gelada suspirou. \"Desculpe... por favor, continue, Columbina Hyposelenia.\"\nApós conhecer a Emissária da Canção Lunar, Columbina ocasionalmente se esgueirava perto da casa dela também. Ela descobriu, contudo, que as marés da lua pareciam trazer uma dor inquietante para a Emissária da Canção Lunar. Naqueles momentos, Columbina tentava usar o próprio poder para acalmar as marés ao redor da Emissária da Canção Lunar. Às vezes, ela se encontrava cantarolando melodias familiares, instintivamente, a canção de ninar que já a confortara antes do seu nascimento.\n\"A canção de ninar de antes de seu nascimento?\" Dessa vez era Aria, a Deusa da Lua Eterna.\nColumbina explicou as melodias que ela ouvira antes de nascer.\nAs três deusas balançaram as cabeças. Elas não tinham conhecimento da canção.\nColumbina continuou a contar a elas histórias do mundo futuro: dos sabores das oferendas naquele mundo, à música em suas casa de ópera... de uma amiga com mecanismos nas costas, a um anjo que se tornou companheira dela...\nFinalmente, ela falou da Noite da Oração Lunar.\nAs três deusas da lua ficaram profundamente emocionadas pela beleza daquela noite. Talvez também porque a própria Columbina não conseguia deixar de sorrir enquanto contava a história.\n\"Em nossa época, os deuses dos céus raramente tinham conexões tão profundas com o mundo abaixo.\" A Deusa da Lua Gelada disse.\n\"Hmm, todos me tratam bem. Nós até brincamos com bolas de água juntos.\"\n\"Inimaginável. Parece que nossa era foi conservadora demais.\" A Deusa da Lua Eterna disse, claramente surpresa.\n\"Nós até colocamos adesivos nos rostos uns dos outros.\"\nAlguns suspiros de surpresa saíram das três deusas.\n\"Também trocamos comida, provando os doces nas mãos uns dos outros.\"\nAs deusas ficaram em silêncio. Columbina sentia os olhares sendo trocados, com um leve toque de inveja.\nMuito tempo depois, Sonnet, a deusa da Lua Iridescente finalmente soltou um suspiro suave e maravilhado:\n\"Uau...\""
+      },
+      {
+        "Title": "História 5",
+        "Context": "Lar é aceitação.\nA Lua Gelada passou pelo céu falso e permaneceu em Teyvat. Columbina Hyposelenia também foi aceita neste mundo. Agora, era a vez de Columbina de tentar a aceitar o mundo em troca.\nA primeira coisa que ela fez foi mover o enorme pedregulho bloqueando os portões do Saguão da Lua Prateada. No passado, ele foi colocado lá para impedir os Filhos da Lua Gelada e os Fatui de a encontrarem. Agora, não parecia mais necessário.\nOs amigos dela em Nod-Krai sempre diziam que ela era bem-vinda para visitar suas casa. Era apenas o certo que ela fizesse o mesmo para os amigos dela, e para a \"família\" dela.\nLar é liberdade.\nNão havia mais regras que rejeitavam a existência dela. Nem lugares que ela era proibida de ir. Ninguém mais para vir capturá-la...\nEla podia ir aonde desejasse, fazer o que quisesse.\nClaro, aprender a lidar com os outros veio com a própria parcela de dificuldades. Uma vez, enquanto passeava pela Cidade de Nasha, ela quase caiu num esquema malicioso, sendo repreendida severamente por Nefer, que correu para salvá-la. Outra vez, enquanto caminhava livremente por Nod-Krai, ela acidentalmente entrou numa área restrita de Piramida e foi educadamente escoltada para fora por Illuga...\nBem, ser repreendida também era parte da vida em família. Columbina entendia isso agora.\nE, claro, aprender a corrigir os próprios erros também era.\nLar é...\nHehe, um lar pode ser muitas coisas. Columbina pensou.\nEle é encontrado nos mínimos detalhes do cotidiano, em todas as coisas novas e desconhecidas que ela só agora começara a perceber e experienciar.\nE é algo que permanecerá com ela, sempre, por toda a jornada dela neste mundo."
+      },
+      {
+        "Title": "Um Tapa-Olho Tecido de Luar",
+        "Context": "Para Columbina, a \"verdade\" do mundo é frequentemente revelada somente quando ela fecha os olhos.\nApós sentir que a grande redoma do céu era nada além de uma mentira fabricada, ela velou a própria visão com um tecido feito de luar. Não era uma inconveniência para ela, na verdade, o mundo percebido pelo Kuuvahki parecia mais nítido, mais lúcido do que os olhos podiam ver. E caso a curiosidade levasse a melhor contra ela, ela sempre podia dar uma olhada. Afinal, o tapa-olho dela era delicadamente vazado.\nAs estrelas podem mentir, mas as marés da gravidade não. As pessoas podem esconder suas expressões, mas as correntes emocionais surgindo de seus corações não podem ser escondidas.\nColumbina esperou, pretendendo remover esse tapa-olho que bloqueava falsidade somente após retornar para seu \"lar\" de verdade.\nMas após ascender como uma das Três Irmãs da Lua e retornar a Teyvat, ela lembrou das palavras que Canon, Deusa da Lua Gelada, disse a ela. Aos poucos, ela começou a abrir os olhos para a vida cotidiana, descobrindo o mundo de uma maneira nova.\nEla descobriu que florestas na primavera tinham muitas cores, e que a neve do inverno podia ser tão pura e luminosa.\nQue a espuma deixada por ondas na costa nunca eram iguais, e que as luzes de uma cidade à noite brilhavam como um céu cheio de estrelas radiantes...\nEla se sentia sortuda.\nTalvez ela devesse ter aberto os olhos mais cedo, às vezes ela pensava.\nMas aí... talvez foram as experiências dela até agora que a ensinaram a ver realmente a beleza do mundo. Se ela tivesse aberto os olhos mais cedo, ela teria visto somente as mentiras que o mundo esconde?\nColumbina não tinha certeza. Perguntas tão introspectivas precisam de tempo para serem respondidas.\nPor ora, ela decidiu abrir os olhos ocasionalmente e absorver a beleza desse \"lar\".\nPor que não manter os olhos abertos o tempo todo?\n\"Hmm... Acho que só me acostumei com isso. E também,\" Columbina esfregou os olhos, \"mantê-los abertos o tempo todo é cansativo. Eu acho... que chamam isso de 'olhos cansados'?\""
+      },
+      {
+        "Title": "Convergência Tri-lunar",
+        "Context": "Após adquirir a autoridade trilunar, Columbina tinha algumas perguntas, naturalmente:\nSerá que esse poder podia mesmo fazer tudo? Para que ela deveria usá-lo?\nEla sentia que as coisas que ela queria fazer estavam quase ao alcance do poder das três luas: se mover livremente entre a lua e Teyvat, transportar a si e outros objetos sem esforço, fazer flores desabrocharem mais brilhantemente e deixar as frutas mais suculentas...\nEla até tentou acordar Sandrone. Mas essa foi uma das poucas coisas que o poder das três luas não pôde realizar para ela.\nQuanto ao resto, ou ela não queria fazer, ou sentia que não devia.\nO que ela amava era esse mundo e o jeito que seu lar era agora. Simplesmente porque ela podia mudá-lo à vontade, moldando sua aparência e regras para se adequar aos caprichos dela, ela sentia que isso seria errado. Não importa quão boas fossem as intenções dela, fazer isso não a faria se sentir diferente de Dottore.\nEla considerava esse mundo como o \"lar\" dela, não como uma posse. E não havia diferença maior entre os dois.\nEntão ela ofereceu uma porção do poder dela, permitindo que ele continuasse a proteger esse belo lar como sempre o fez. A parte que ela manteve para si só precisava permitir que ela vivesse com felicidade na companhia de seus amigos, como antes, e proteger o que ela considerava querido quando fosse necessário.\nNaquele momento, Columbina entendeu de repente as escolhas que suas três irmãs mais velhas fizeram. Ao invés de buscar \"dominar\", o que elas queriam era simplesmente \"proteger\" esse mundo sob a lua.\nEla poderia dizer que realmente merecia ser irmã mais nova delas? O pensamento trazia uma sensação doce de harmonia.\nParecia quase como uma característica herdada, ou talvez os próprios \"ensinamentos de família\" da Deusa da Lua.\nPensando nisso, uma sensação calorosa surgiu no coração de Columbina. Ela parecia ter redescoberto algo que há muito desejava:\nOs laços e legado compartilhados com a família."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212500,
+      "Name": "Traje do Luar",
+      "Description": "Vestuário de Columbina. Os kuuhenki criaram essa vestimenta leve e graciosa para Columbina. Feito com tecidos oferecidos pelos Filhos da Lua Gelada e costurado com alguns fios do luar gentil. Os Filhos da Lua Gelada chocados, sem conseguir entender nada, naturalmente assumiram que a nova vestimenta era mais um milagre da Kuutar. Não é à toa que, desde então, Columbina ocasionalmente ouve desejos como, \"Senhorita Kuutar, por favor, me conceda a mesma agilidade habilidosa que você possui.\"",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104124,
+    113079,
+    101268,
+    112004,
+    104358,
+    113081
+  ],
+  "NameCard": {
+    "Name": "Columbina: Algum Dia",
+    "Description": "Estilo de cartão de visita.\nEla dança nas partes rasas de riachos límpidos e correntes. Ela dorme sob as sombras pálidas das montanhas. Ela vagueia pelas ondulações do tempo, brincando de esconde-esconde com os Kuuhenki.\nEla descansa no jardim e murmura para todas as criaturinhas vivas. Nas horas silenciosas antes do amanhecer, ela espera pelo momento em que se encontrarão algum dia.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "PicturePrefix": "UI_NameCardPic_Columbina"
+  }
+}

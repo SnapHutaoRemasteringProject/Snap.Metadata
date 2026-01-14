@@ -1,0 +1,1226 @@
+{
+  "Id": 10000127,
+  "PromoteId": 127,
+  "Sort": 111,
+  "Body": 1,
+  "Icon": "UI_AvatarIcon_Illuga",
+  "SideIcon": "UI_AvatarIcon_Side_Illuga",
+  "Name": "Illuga",
+  "Description": "Membro da Divisão de Investigação \"Pássaro da Noite Assombrada\". É o mais jovem capitão dos Portadores da Lâmpada.",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
+  "Quality": 4,
+  "Weapon": 13,
+  "BaseValue": {
+    "HpBase": 1002.9701,
+    "AttackBase": 16.0272,
+    "DefenseBase": 68.2122
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 22
+    },
+    {
+      "Type": 4,
+      "Value": 32
+    },
+    {
+      "Type": 7,
+      "Value": 22
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12731,
+        "Proud": {
+          "Descriptions": [
+            "Dano do 1° Golpe|{param1:F1P}",
+            "Dano do 2° Golpe|{param2:F1P}",
+            "Dano do 3° Golpe|{param3:F1P}+{param4:F1P}",
+            "Dano do 4° Golpe|{param5:F1P}",
+            "Dano de Ataque Carregado|{param6:F1P}",
+            "Consumo de Stamina de Ataque Carregado|{param7:F1}",
+            "Dano Durante a Queda|{param8:F1P}",
+            "Dano de Queda de Baixa/Alta Altitude|{param9:P}/{param10:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1273101,
+              "Level": 1,
+              "Parameters": [
+                0.473662,
+                0.485255,
+                0.31433,
+                0.31433,
+                0.762786,
+                1.11026,
+                25,
+                0.639324,
+                1.278377,
+                1.596762
+              ]
+            },
+            {
+              "Id": 1273102,
+              "Level": 2,
+              "Parameters": [
+                0.512216,
+                0.524753,
+                0.339915,
+                0.339915,
+                0.824873,
+                1.20063,
+                25,
+                0.691362,
+                1.382431,
+                1.726731
+              ]
+            },
+            {
+              "Id": 1273103,
+              "Level": 3,
+              "Parameters": [
+                0.55077,
+                0.56425,
+                0.3655,
+                0.3655,
+                0.88696,
+                1.291,
+                25,
+                0.7434,
+                1.486485,
+                1.8567
+              ]
+            },
+            {
+              "Id": 1273104,
+              "Level": 4,
+              "Parameters": [
+                0.605847,
+                0.620675,
+                0.40205,
+                0.40205,
+                0.975656,
+                1.4201,
+                25,
+                0.81774,
+                1.635134,
+                2.04237
+              ]
+            },
+            {
+              "Id": 1273105,
+              "Level": 5,
+              "Parameters": [
+                0.644401,
+                0.660172,
+                0.427635,
+                0.427635,
+                1.037743,
+                1.51047,
+                25,
+                0.869778,
+                1.739187,
+                2.172339
+              ]
+            },
+            {
+              "Id": 1273106,
+              "Level": 6,
+              "Parameters": [
+                0.688462,
+                0.705313,
+                0.456875,
+                0.456875,
+                1.1087,
+                1.61375,
+                25,
+                0.92925,
+                1.858106,
+                2.320875
+              ]
+            },
+            {
+              "Id": 1273107,
+              "Level": 7,
+              "Parameters": [
+                0.749047,
+                0.76738,
+                0.49708,
+                0.49708,
+                1.206266,
+                1.75576,
+                25,
+                1.011024,
+                2.02162,
+                2.525112
+              ]
+            },
+            {
+              "Id": 1273108,
+              "Level": 8,
+              "Parameters": [
+                0.809632,
+                0.829448,
+                0.537285,
+                0.537285,
+                1.303831,
+                1.89777,
+                25,
+                1.092798,
+                2.185133,
+                2.729349
+              ]
+            },
+            {
+              "Id": 1273109,
+              "Level": 9,
+              "Parameters": [
+                0.870217,
+                0.891515,
+                0.57749,
+                0.57749,
+                1.401397,
+                2.03978,
+                25,
+                1.174572,
+                2.348646,
+                2.933586
+              ]
+            },
+            {
+              "Id": 1273110,
+              "Level": 10,
+              "Parameters": [
+                0.936309,
+                0.959225,
+                0.62135,
+                0.62135,
+                1.507832,
+                2.1947,
+                25,
+                1.26378,
+                2.527025,
+                3.15639
+              ]
+            },
+            {
+              "Id": 1273111,
+              "Level": 11,
+              "Parameters": [
+                1.002401,
+                1.026935,
+                0.66521,
+                0.66521,
+                1.614267,
+                2.34962,
+                25,
+                1.352988,
+                2.705403,
+                3.379194
+              ]
+            },
+            {
+              "Id": 1273112,
+              "Level": 12,
+              "Parameters": [
+                1.068494,
+                1.094645,
+                0.70907,
+                0.70907,
+                1.720702,
+                2.50454,
+                25,
+                1.442196,
+                2.883781,
+                3.601998
+              ]
+            },
+            {
+              "Id": 1273113,
+              "Level": 13,
+              "Parameters": [
+                1.134586,
+                1.162355,
+                0.75293,
+                0.75293,
+                1.827138,
+                2.65946,
+                25,
+                1.531404,
+                3.062159,
+                3.824802
+              ]
+            },
+            {
+              "Id": 1273114,
+              "Level": 14,
+              "Parameters": [
+                1.200679,
+                1.230065,
+                0.79679,
+                0.79679,
+                1.933573,
+                2.81438,
+                25,
+                1.620612,
+                3.240537,
+                4.047606
+              ]
+            },
+            {
+              "Id": 1273115,
+              "Level": 15,
+              "Parameters": [
+                1.266771,
+                1.297775,
+                0.84065,
+                0.84065,
+                2.040008,
+                2.9693,
+                25,
+                1.70982,
+                3.418915,
+                4.27041
+              ]
+            }
+          ]
+        },
+        "Id": 11271,
+        "Name": "Lança do Juramento Protetor",
+        "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para a frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+        "Icon": "Skill_A_03"
+      },
+      {
+        "GroupId": 12732,
+        "Proud": {
+          "Descriptions": [
+            "Dano de Pressionar|{param1:P} da Proficiência Elemental + {param2:P} da DEF",
+            "Manter pressionado|{param3:P} da Proficiência Elemental + {param4:P} da DEF",
+            "Tempo de Recarga|{param5:F1}s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1273201,
+              "Level": 1,
+              "Parameters": [
+                4.8256,
+                2.4128,
+                6.032,
+                3.016,
+                15
+              ]
+            },
+            {
+              "Id": 1273202,
+              "Level": 2,
+              "Parameters": [
+                5.18752,
+                2.59376,
+                6.4844,
+                3.2422,
+                15
+              ]
+            },
+            {
+              "Id": 1273203,
+              "Level": 3,
+              "Parameters": [
+                5.54944,
+                2.77472,
+                6.9368,
+                3.4684,
+                15
+              ]
+            },
+            {
+              "Id": 1273204,
+              "Level": 4,
+              "Parameters": [
+                6.032,
+                3.016,
+                7.54,
+                3.77,
+                15
+              ]
+            },
+            {
+              "Id": 1273205,
+              "Level": 5,
+              "Parameters": [
+                6.39392,
+                3.19696,
+                7.9924,
+                3.9962,
+                15
+              ]
+            },
+            {
+              "Id": 1273206,
+              "Level": 6,
+              "Parameters": [
+                6.75584,
+                3.37792,
+                8.4448,
+                4.2224,
+                15
+              ]
+            },
+            {
+              "Id": 1273207,
+              "Level": 7,
+              "Parameters": [
+                7.2384,
+                3.6192,
+                9.048,
+                4.524,
+                15
+              ]
+            },
+            {
+              "Id": 1273208,
+              "Level": 8,
+              "Parameters": [
+                7.72096,
+                3.86048,
+                9.6512,
+                4.8256,
+                15
+              ]
+            },
+            {
+              "Id": 1273209,
+              "Level": 9,
+              "Parameters": [
+                8.20352,
+                4.10176,
+                10.2544,
+                5.1272,
+                15
+              ]
+            },
+            {
+              "Id": 1273210,
+              "Level": 10,
+              "Parameters": [
+                8.68608,
+                4.34304,
+                10.8576,
+                5.4288,
+                15
+              ]
+            },
+            {
+              "Id": 1273211,
+              "Level": 11,
+              "Parameters": [
+                9.16864,
+                4.58432,
+                11.4608,
+                5.7304,
+                15
+              ]
+            },
+            {
+              "Id": 1273212,
+              "Level": 12,
+              "Parameters": [
+                9.6512,
+                4.8256,
+                12.064,
+                6.032,
+                15
+              ]
+            },
+            {
+              "Id": 1273213,
+              "Level": 13,
+              "Parameters": [
+                10.2544,
+                5.1272,
+                12.818,
+                6.409,
+                15
+              ]
+            },
+            {
+              "Id": 1273214,
+              "Level": 14,
+              "Parameters": [
+                10.8576,
+                5.4288,
+                13.572,
+                6.786,
+                15
+              ]
+            },
+            {
+              "Id": 1273215,
+              "Level": 15,
+              "Parameters": [
+                11.4608,
+                5.7304,
+                14.326,
+                7.163,
+                15
+              ]
+            }
+          ]
+        },
+        "Id": 11272,
+        "Name": "Pássaro da Canção Matinal",
+        "Description": "Invoca um pássaro chamado Aedon para ajudar em combate. Gera efeitos diferentes se pressionar ou manter pressionado.\n\n<color=#FFD780FF>Pressionar</color>\nAedon avança contra os inimigos em frente, causando <color=#FFE699FF>Dano Geo</color> contra os inimigos que tocar.\n\n<color=#FFD780FF>Manter pressionado</color>\nMira e lança Aedon na direção do inimigo mirado, causando <color=#FFE699FF>Dano Geo</color> contra os inimigos que tocar.",
+        "Icon": "Skill_S_Illuga_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12739,
+      "Proud": {
+        "Descriptions": [
+          "Dano de Habilidade|{param1:P} da Proficiência Elemental + {param2:P} da DEF",
+          "Bônus de Dano Geo|{param3:F1P} da Proficiência Elemental",
+          "Bônus de Dano da Cristalização Lunar|{param4:F1P} da Proficiência Elemental",
+          "Canção de Luscinia obtida ao lançar Supremo|{param5:I} acúmulo(s)",
+          "Canção de Luscinia obtida por criação de Construção Geo|{param6:I} acúmulo(s) por Construção Geo",
+          "Duração|{param7:F1}s",
+          "Tempo de Recarga|{param8:F1}s",
+          "Energia Elemental|{param9:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1273901,
+            "Level": 1,
+            "Parameters": [
+              8.272,
+              4.136,
+              0.336,
+              2.2592,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273902,
+            "Level": 2,
+            "Parameters": [
+              8.8924,
+              4.4462,
+              0.3612,
+              2.42864,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273903,
+            "Level": 3,
+            "Parameters": [
+              9.5128,
+              4.7564,
+              0.3864,
+              2.59808,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273904,
+            "Level": 4,
+            "Parameters": [
+              10.34,
+              5.17,
+              0.42,
+              2.824,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273905,
+            "Level": 5,
+            "Parameters": [
+              10.9604,
+              5.4802,
+              0.4452,
+              2.99344,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273906,
+            "Level": 6,
+            "Parameters": [
+              11.5808,
+              5.7904,
+              0.4704,
+              3.16288,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273907,
+            "Level": 7,
+            "Parameters": [
+              12.408,
+              6.204,
+              0.504,
+              3.3888,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273908,
+            "Level": 8,
+            "Parameters": [
+              13.2352,
+              6.6176,
+              0.5376,
+              3.61472,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273909,
+            "Level": 9,
+            "Parameters": [
+              14.0624,
+              7.0312,
+              0.5712,
+              3.84064,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273910,
+            "Level": 10,
+            "Parameters": [
+              14.8896,
+              7.4448,
+              0.6048,
+              4.06656,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273911,
+            "Level": 11,
+            "Parameters": [
+              15.7168,
+              7.8584,
+              0.6384,
+              4.29248,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273912,
+            "Level": 12,
+            "Parameters": [
+              16.544,
+              8.272,
+              0.672,
+              4.5184,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273913,
+            "Level": 13,
+            "Parameters": [
+              17.578,
+              8.789,
+              0.714,
+              4.8008,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273914,
+            "Level": 14,
+            "Parameters": [
+              18.612,
+              9.306,
+              0.756,
+              5.0832,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1273915,
+            "Level": 15,
+            "Parameters": [
+              19.646,
+              9.823,
+              0.798,
+              5.3656,
+              21,
+              5,
+              20,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11275,
+      "Name": "Reflexo Vazio",
+      "Description": "Acende uma lâmpada, causando <color=#FFE699FF>Dano Geo em AdE</color> e obtendo o efeito Pesadelo de Luscinia por 20s. Nessa duração, Illuga obtém 21 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}. Quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental ou o Supremo do personagem ativo próximo causar <color=#FFE699FF>Dano Geo</color> contra o inimigo, consome 1 acúmulo de Canção de Luscinia, aumentando o Dano causado. O valor do aumento é baseado na Proficiência Elemental de Illuga. Se esse Dano for Dano de Cristalização Lunar, aumenta ainda mais o Dano causado.\nQuando o <color=#FFE699FF>Dano Geo</color> acima atingir mais de um inimigo simultaneamente, consumirá acúmulos de Canção de Luscinia correspondentes a quantidade de inimigos atingidos.\n\nAlém disso, quando Illuga é o personagem ativo e há uma <color=#FFE699FF>Construção Geo</color> criada por um personagem próximo e lançar seu Supremo, ou na duração do Pesadelo de Luscinia, e quando o personagem próximo criar uma <color=#FFE699FF>Construção Geo</color>, cada <color=#FFE699FF>Construção Geo</color> ativa farão Illuga obter 5 acúmulos adicionais de Canção de Luscinia. Illuga pode obter até 15 acúmulos adicionais de Canção de Luscinia nos 20s após lançar um Supremo dessa forma.\n\nQuando os acúmulos de Canção de Luscinia acabarem, ou quando a duração acabar, o efeito Pesadelo de Luscinia será removido.",
+      "Icon": "Skill_E_Illuga_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12721,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1272101,
+              "Level": 1,
+              "Parameters": [
+                0.05,
+                0.1,
+                0.05,
+                0.1,
+                50,
+                20
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1272101,
+        "Name": "Juramento do Iluminador",
+        "Description": "Depois que lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11272}Pássaro da Canção Matinal{/LINK}</color> ou o Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, todos os outros personagens da equipe obtém o efeito Juramento da Lâmpada por 20s: aumenta a Taxa CRIT em 5% o Dano CRIT em 10% contra os inimigos que sofrerem <color=#FFE699FF>Dano Geo</color>.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nPersonagens afetados por Juramento da Lâmpada obtêm 50 de Proficiência Elemental.",
+        "Icon": "UI_Talent_S_Illuga_05"
+      },
+      {
+        "GroupId": 12722,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1272201,
+              "Level": 1,
+              "Parameters": [
+                0.07,
+                0.14,
+                0.24,
+                0.48,
+                0.96,
+                1.6
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1272201,
+        "Name": "Crepúsculo do Caçador de Demônios",
+        "Description": "Fortalece o efeito de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}: quando a equipe possuir 1/2/3 personagens <color=#80C0FFFF>Hydro</color> ou <color=#FFE699FF>Geo</color>, Canção de Luscinia aumenta ainda mais o Dano. A quantidade aumentada é baseada em 7%/14%/24% da Proficiência Elemental de Illuga. Se o Dano causado for Dano de Cristalização Lunar, esse aumento será de 48%/96%/160% da Proficiência Elemental de Illuga.",
+        "Icon": "UI_Talent_S_Illuga_06"
+      },
+      {
+        "GroupId": 12723,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1272301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1272301,
+        "Name": "Bênção do Presságio Lunar: Gelo Inderretível",
+        "Description": "Quando Illuga está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> da equipe em 1 nível.",
+        "Icon": "UI_Talent_S_Illuga_07"
+      },
+      {
+        "GroupId": 12725,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1272501,
+              "Level": 1,
+              "Parameters": [
+                0.1
+              ]
+            }
+          ]
+        },
+        "Id": 1272501,
+        "Name": "Caminhada do Vigilante Noturno",
+        "Description": "Durante a noite (18:00 - 06:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.\nNão tem efeito em Domínios, Domínios Dizimados ou Abismo Espiral. O efeito Passos Ágeis não se acumula.\nAlém disso, Illuga parece entender os sussurros da Caçada Feroz...",
+        "Icon": "UI_Talent_S_Illuga_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1271,
+        "Name": "Sentinela Vigilante",
+        "Description": "Quando Illuga é o personagem ativo, regenera 12 de Energia Elemental ao ativar uma <color=#FFE699FF>reação relacionada ao Geo</color>. Esse efeito pode ser ativado uma vez a cada 15s.",
+        "Icon": "UI_Talent_S_Illuga_01"
+      },
+      {
+        "Id": 1272,
+        "Name": "Alce com Chifres Pontudos",
+        "Description": "Na duração do efeito Pesadelo de Luscinia do Supremo {LINK#S11275}<color=#FFD780FF>Reflexo Vazio</color>{/LINK}, cada 7 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK} consumidos farão Illuga invocar Aedon para causar uma instância de <color=#FFE699FF>Dano Geo</color> contra um inimigo próximo. Esse Dano é equivalente a 400% da Proficiência Elemental e 200% da DEF de Illuga. Esse Dano é considerado Dano de Supremo.",
+        "Icon": "UI_Talent_S_Illuga_02"
+      },
+      {
+        "Id": 1273,
+        "Name": "Mordida Estremecedora",
+        "Description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color> em 3.\nO nível máximo de elevação é 15.",
+        "Icon": "UI_Talent_U_Illuga_01",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1274,
+        "Name": "Lobo Caçador do Sol",
+        "Description": "Na duração do efeito Pesadelo de Luscinia do Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, aumenta a DEF do personagem próximo ativo da equipe em 200.",
+        "Icon": "UI_Talent_S_Illuga_03"
+      },
+      {
+        "Id": 1275,
+        "Name": "Alazão do Vento",
+        "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11272}Pássaro da Canção Matinal{/LINK}</color> em 3.\nO nível máximo de elevação é 15.",
+        "Icon": "UI_Talent_U_Illuga_02",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1276,
+        "Name": "Pássaro da Noite Assombrada",
+        "Description": "Fortalece o efeito Juramento da Lâmpada do Talento de Ascensão <color=#FFD780FF>{LINK#P1272101}Juramento do Iluminador{/LINK}</color>: aumenta a Taxa CRIT em 10% e o Dano CRIT em 30% de <color=#FFE699FF>Dano Geo</color> causado contra inimigos.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nQuando o personagem está afetado por Juramento da Lâmpada, aumenta sua Proficiência Elemental em 80.\nÉ necessário ter desbloqueado o Talento de Ascensão <color=#FFD780FF>Juramento do Iluminador</color>.",
+        "Icon": "UI_Talent_S_Illuga_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Coração em Chamas do Pesadelo",
+    "Detail": "Membro da Divisão de Investigação \"Pássaro da Noite Assombrada\". É o mais jovem capitão dos Portadores da Lâmpada.",
+    "Association": 12,
+    "Native": "Portadores da Lâmpada",
+    "BirthMonth": 12,
+    "BirthDay": 23,
+    "VisionBefore": "Geo",
+    "VisionOverrideUnlocked": "Visão",
+    "ConstellationBefore": "Oriolus",
+    "CvChinese": "Mace",
+    "CvJapanese": "梅田修一朗",
+    "CvEnglish": "Jonathon Ha",
+    "CvKorean": "Hwang Dong-hyun",
+    "CookBonus": {
+      "OriginItemId": 108941,
+      "ItemId": 108951,
+      "InputList": [
+        100018,
+        100013,
+        100080,
+        110015
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Bate-papo - De Guarda",
+        "Context": "Dizem que quanto mais as coisas aparentam estar calmas, mais provável que o perigo esteja à espreita pelas sombras... Não sei se isso é sempre verdade, mas nunca é má ideia ficar alerta."
+      },
+      {
+        "Title": "Bate-papo - Patrulha Noturna",
+        "Context": "Você está com frio? Precisa ter cuidado para não pegar um resfriado. Venha, te farei uma tigela de sopa quente."
+      },
+      {
+        "Title": "Bate-papo - Adversidade",
+        "Context": "Somente fazer o que você é bom não é suficiente, sabe. Às vezes, a única forma de ficar mais forte é sair de sua zona de conforto."
+      },
+      {
+        "Title": "Olá...",
+        "Context": "Olá! Me chamo Illuga, líder do Esquadrão de Investigação dos Portadores da Lâmpada. Se perdeu, não é? Heh, não se preocupe... isso acontece direto. Esses caminhos não são exatamente \"adequado para viajantes\", mesmo nos melhores dias. Apenas me siga — iluminarei o caminho a frente."
+      },
+      {
+        "Title": "Depois da Chuva...",
+        "Context": "O sol voltou! Parece que a luz ganhou novamente."
+      },
+      {
+        "Title": "Quando Está Trovejando...",
+        "Context": "Como meu paizinho costuma dizer, \"lá vão os deuses de novo...\" Espero apenas que eles não nos arraste para o meio disso..."
+      },
+      {
+        "Title": "Quando Faz Sol...",
+        "Context": "Finalmente um clima bom. Se pelo menos fosse assim mais vezes, nós, Portadores da Lâmpada, não teríamos nem metade das preocupações que temos."
+      },
+      {
+        "Title": "A Ventania Está Chegando...",
+        "Context": "O vento está começando a ficar mais forte... Isso nunca é um bom sinal. É melhor acamparmos antes que fique feio."
+      },
+      {
+        "Title": "Bom dia...",
+        "Context": "Mais um amanhecer... Mais uma noite tranquila que ficou para trás."
+      },
+      {
+        "Title": "Boa Tarde...",
+        "Context": "Agora que o sol nasceu, eu provavelmente deveria aproveitar essa oportunidade para vistoriar os arredores. O problema é que... eu adoraria uma soneca."
+      },
+      {
+        "Title": "Boa noite...",
+        "Context": "Nunca se sabe o que pode estar se escondendo nas sombras da noite. Se você realmente precisar viajar, garanta de ficar vigilante."
+      },
+      {
+        "Title": "Boa noite...",
+        "Context": "Está ficando tarde. Vá em frente e descanse — ficarei de guarda esta noite."
+      },
+      {
+        "Title": "Sobre Illuga: Portadores da Lâmpada",
+        "Context": "Hehe, precisei incomodar bastante antes do meu velhote permitir finalmente de me juntar aos Portadores da Lâmpada. Eu só não conseguia suportar a ideia de ficar em Piramida são e salvo enquanto os outros estavam arriscando suas vidas. Assim como disse a ele, eu prefiro estar na linha de frente ajudando a derrotar a Caçada Feroz."
+      },
+      {
+        "Title": "Sobre Illuga - Líder do Esquadrão",
+        "Context": "Ser líder do esquadrão basicamente significa que sou responsável por manter meus companheiros vivos. Alguns dias ainda me pergunto se realmente sou qualificado para isso... mas, já que colocaram sua confiança em mim, não os desapontarei."
+      },
+      {
+        "Title": "Sobre Nós - Dever",
+        "Context": "É o dever de um Portador da Lâmpada de proteger os comerciantes e viajantes que passam por nossas terras. Se isso inclui aventureiros? Bem... tecnicamente, não faz parte do trabalho, mas posso te garantir uma coisa — ninguém vai se ferir enquanto eu estiver de guarda."
+      },
+      {
+        "Title": "Sobre Nós - Membros do Esquadrão",
+        "Context": "Agora que você faz parte do esquadrão de investigação, sou responsável pela sua segurança, e um esquadrão inteiro de \"passarinhos\" me disseram que você andou por aí se aventurando em lugares perigosos de novo. Te ver em segurança me deixa aliviado, mas, eu me sentiria ainda melhor se você me deixasse ir com você!"
+      },
+      {
+        "Title": "Sobre a Visão...",
+        "Context": "Certa vez me disseram que não passavam de joias bonitas. Só quando finalmente segurei uma que compreendi o que realmente significava. Não acho que o destino me deu por acidente, mas, mesmo assim... é minha responsabilidade provar que sou realmente digno."
+      },
+      {
+        "Title": "Algo para Compartilhar...",
+        "Context": "Se você olhar para o norte do ponto mais alto de Piramida, você quase que consegue notar a pontinha da tundra de Snezhnaya. Dizem que era a terra natal de nosso primeiro Starshyna, Torchforger Solovei. Ele acabou perdendo tudo, até sua casa... No entanto, aqui, ele encontrou um local ao qual pertencer. Talvez seja por isso que essa fortaleza exista — como um refúgio para pessoas como nós, um lugar onde encontrar conforto uns nos outros."
+      },
+      {
+        "Title": "Coisas Interessantes...",
+        "Context": "#Por Piramida, você se depara com todos os tipos de criaturas estranhas repletas de Kuuvahki... Mandrágoras, Ovelha-Preguiça, de tudo um pouco. Podem se parecer com animais, mas, na verdade, são plantas — então não seja enganad{M#o}{F#a} pela sua camuflagem. Mesmo assim, são muito gostosas! Eu posso fazer algo para você experimentar se quiser... Como sei o gosto...? Uuh, digamos que... quando você está no meio do nada durante uma patrulha noturna, um pouco de improviso não mata ninguém. Digo..."
+      },
+      {
+        "Title": "Sobre Flins - Visitas",
+        "Context": "Quando conheci o Sr. Flins, achei que o motivo dele viver sozinho era por não gostar de estar perto de pessoas, ou ele ser meio... excêntrico. Acontece que é o total oposto — bem, pelo menos em termos de seu apetite social. A questão é que, todas às vezes que conversamos, ele sempre parece terminar suas histórias com um suspense... Às vezes, me pergunto se essa é a forma dele de garantir que voltarei para ouvir o resto."
+      },
+      {
+        "Title": "Sobre Flins: Segredos",
+        "Context": "Você está dizendo que o Sr. Flins é muito mais do que aparenta? Hah... Bem, isso não é exatamente incomum para um Ratniki. Somos de todos os tipos diferentes de rumos na vida, então, quem não tem algumas coisas que prefere guardar para si? Até meu velhote raramente fala sobre seu passado. Quanto ao Sr. Flins... bem, certamente pude conhecer ele bem mais, e depois de tudo que aconteceu recentemente, tenho uma vaga ideia do que ele possa estar escondendo. Na verdade, cheguei a perguntar a ele uma vez, mas ele não confirmou nem negou minhas suspeitas. De certa forma, acho que isso também é uma resposta."
+      },
+      {
+        "Title": "Sobre Lauma...",
+        "Context": "Nossa amizade com os Filhos da Lua Gelada é datada desde os dias do próprio Forjador de Lâmpadas. Mas, a verdade é que, mesmo que não fosse o caso, eu ainda não teria nada além de admiração pela atual Emissária da Canção Lunar. Ela é amigável, gentil, e acabo aprendendo algo novo sempre que visito. Em momentos como esses, seu trabalho não deve ser nem um pouco mais fácil que o nosso — e ainda assim, de alguma forma, ela sempre consegue se manter serena. Aposto que ela vem carregando muito mais do que deixa transparecer."
+      },
+      {
+        "Title": "Sobre Varka...",
+        "Context": "Já lutei ao lado do Sr. Varka contra a Caçada Feroz, e posso te dizer isso — suas habilidades de batalha está bem lá em cima entre os melhores. Ouvi dizer que os Cavaleiros de Favonius foram fundados para defender sua terra natal, assim como nós, Portadores da Lâmpada. Espero que algum dia, quando tivermos finalmente afugentado a Caçada Feroz de Nod-Krai, possamos viajar para além dessas terras e lutar por aqueles vivendo em dificuldades em outros lugares."
+      },
+      {
+        "Title": "Sobre Nefer...",
+        "Context": "Nossas operações na Cidade de Nasha se tornaram bem tranquilas recentemente, e tudo graças à Curadoria dos Segredos. Certamente não era assim antes. Antes da Srta. Nefer chegar, era mais como estivéssemos presos em uma batalha constante com as gangues da cidade, e isso costumava preocupar meu velhote. Desde então, as coisas melhoraram imensamente. Dito isso, a Srta. Nefer parece adorar me provocar tanto quanto o Sr. Flins... e tenho que admitir, às vezes isso pode ser uma dor de cabeça."
+      },
+      {
+        "Title": "Sobre Aino...",
+        "Context": "Sempre que os Portadores da Lâmpada precisam de ajuda para consertar um maquinário complexo, costumamos pedir ajuda pra a Srta. Aino. Mas, ela realmente parece bem determinada a nos ensinar como fazer isso por conta própria. Desde que ela me viu tentando reparar algo por conta própria, ela constantemente insiste que eu vá a uma de suas aulas... Você quer saber como exatamente eu estava tentando consertar? Hah, bem, se você quer mesmo saber, foi um truque que aprendi do meu velhote. Como ele costuma dizer, \"se algo não estiver funcionando, só dar umas pancadinhas!\" Para minha surpresa, isso deixou ela extremamente desesperada..."
+      },
+      {
+        "Title": "Sobre Linnea...",
+        "Context": "Mesmo em um lugar tão diverso quanto Nod-Krai, feéricos como a Srta. Linnea são bem raros. Originalmente achei que ela seria do tipo silenciosa e graciosa, mas, pelo visto eu me enganei bem feio. Por exemplo, a primeira vez que ela viu o Aedon, ela ficou tão animada que praticamente se jogou nele. Assustou ele de um jeito que, agora, sempre que ele ouve a voz dela, vem correndo para minha lâmpada. E lembre-se, estamos falando do Aedon — um pássaro mensageiro que normalmente é tão \"estoico\" que não se assusta com nada, nem mesmo a Caçada Feroz..."
+      },
+      {
+        "Title": "Sobre a Deusa da Lua...",
+        "Context": "Nod-Krai é um \"Elísio\" construído pelas mãos humanas, um sonho mantido vivo ao longo dos séculos pelo sangue e sacrifício de inúmeras gerações de Portadores da Lâmpada. Pode até existir uma nova divindade na cidade, mas eu não acho que nossa forma de viver vai mudar de repente devido a isso. Não é que eu duvide da Deusa da Lua — longe disso. Apenas acredito que... ao invés de esperar alguém nos salvar, nos sairíamos melhor confiando em nossa própria força."
+      },
+      {
+        "Title": "Mais Sobre Illuga - I",
+        "Context": "Você quer saber sobre meu passado? Hmm, deixe-me pensar... Não, eu não acho que haja nada lá que colocaria um sorriso em seu rosto. Você... tem certeza que quer ouvir?"
+      },
+      {
+        "Title": "Mais Sobre Illuga - II",
+        "Context": "Esse é Aedon, meu pássaro mensageiro — o carinha confiável que vem comigo sempre que saio para patrulhar. Honestamente, não poderia pedir por um companheiro melhor. Ele não apenas me alerta sobre perigo, ele até mesmo ilumina o caminho adiante... Hã? Você quer dizer que, apesar de todas suas viagens, você nunca viu um passarinho que brilha assim antes? Espera aí... Será que... ele realmente é mais do que apenas um pássaro mensageiro normal?"
+      },
+      {
+        "Title": "Mais Sobre Illuga - III",
+        "Context": "Você provavelmente notou que minha Lanterna do Juramento é meio diferente daquelas padronizadas que todos os outros carregam consigo. Não é por ser um líder de esquadrão nem nada do tipo — é apenas a lanterna sinalizadora que eu usava quando servia no esquadrão de logística. Mais tarde, quando nosso equipamento foi aprimorado, esta se tornou o último modelo. Acho que você poderia dizer que fiquei meio apegado a ela. A ideia de trocá-la... não parece certo."
+      },
+      {
+        "Title": "Mais Sobre Illuga - IV",
+        "Context": "Sabe a forma que chamo Nikita de \"meu velhote\"? Bem, você provavelmente não se surpreenderia de saber que todos os outros também chamam ele de \"velhinho\". Mas, apesar disso, eu não realmente acho que ele envelheceu tanto assim. Ele ainda se lembra da localização de todos os faróis e de quem está estacionado lá, melhor do que eu, e por mais que eu tente, nunca consigo esconder nada dele. Mas é exatamente por isso que não consigo deixar de me perguntar — o que será que vai acontecer quando a idade finalmente o alcançar?"
+      },
+      {
+        "Title": "Mais Sobre Illuga - V",
+        "Context": "Sempre que a Caçada Feroz aparece, os prantos dos mortos seguem... e sempre que escuto esses lamentos, sinto como se estivesse de volta ao campo de batalha, revivendo o dia que meu velhote me acolheu. Talvez, enquanto a Caçada Feroz ainda vagar por essa terra, os pesadelos que me assombram nunca realmente desaparecerão."
+      },
+      {
+        "Title": "Passatempos de Illuga...",
+        "Context": "Agora que você falou, acho que passo maior parte do meu tempo livre com meus colegas de equipe também. Ultimamente, estamos todos vidrados nesse novo jogo chamado \"Trupe de Mesa\". Mas ainda estamos precisando de mais alguns jogadores... Então, o que você acha? Quer se juntar?"
+      },
+      {
+        "Title": "Preocupações de Illuga...",
+        "Context": "A ideia de pessoas inocentes morrerem em calamidades repentinas e sem sentido é algo que eu nunca vou aceitar. Eu só quero que mais ninguém tenha que passar por algo assim novamente... É para isso que sempre trabalhei."
+      },
+      {
+        "Title": "Comida Favorita...",
+        "Context": "Para ser sincero, não tenho nenhuma preferência especial quando se trata de comida. Na minha opinião, desde que a gente possa se reunir em volta da fogueira e compartilhar uma refeição quente, qualquer coisa que estiver na mesa vai ter o sabor da melhor culinária que existe."
+      },
+      {
+        "Title": "Comida que Odeia...",
+        "Context": "Desde que esteja quente, aceito praticamente qualquer coisa. Comida fria, porém... É, não tanto. Imagina — você está fazendo guarda noturna no auge do inverno e te entregam uma tigela de mingau gelado. Só de pensar nisso, fico com vontade de dizer algo que eu realmente não deveria..."
+      },
+      {
+        "Title": "Recebendo Presentes — I",
+        "Context": "Uau, isso que é sabor... Sério, qual é o ingrediente secreto? Quero aprender a fazer isso!"
+      },
+      {
+        "Title": "Recebendo Presentes — II",
+        "Context": "Nada mal! Heh, espere até meus companheiros provarem isso!"
+      },
+      {
+        "Title": "Recebendo Presentes — III",
+        "Context": "Cof... Ei, eu posso te ensinar alguns outros pratos, se você quiser!"
+      },
+      {
+        "Title": "Aniversário...",
+        "Context": "Feliz aniversário, colega! Esqueça as missões e as aventuras — dias como esses são dedicados para amigos queridos, barrigas cheias e dormir até tarde! Eu vou ficar de vigia, então concentre-se em relaxar. E, na pequena chance de termos intrusos, eu vou assustar eles com minha fiel lanterna."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Introdução",
+        "Context": "Hã, se pelo menos eu soubesse disso antes. Isso é o que eu chamo de uma grande mudança."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Desenvolvimento",
+        "Context": "Estou definitivamente me sentindo mais forte... mas consigo ver que ainda tenho um longo caminho pela frente."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Auge",
+        "Context": "Não consigo acreditar no quanto aprendi, e tudo graças a você. Heh, talvez eu finalmente esteja começando a acreditar em mim mesmo..."
+      },
+      {
+        "Title": "Sentimentos sobre a Ascensão - Conclusão",
+        "Context": "Contei muito com você até agora e agradeço muito sua ajuda. Agora que estou me sentindo melhor, espero que você deixe retribuir o favor... de vez em quando, pelo menos."
+      },
+      {
+        "Title": "Habilidade Elemental - I",
+        "Context": "Pega eles, Aedon!"
+      },
+      {
+        "Title": "Habilidade Elemental - II",
+        "Context": "Enquanto a luz brilha forte!"
+      },
+      {
+        "Title": "Habilidade Elemental - III",
+        "Context": "Deixo contigo!"
+      },
+      {
+        "Title": "Habilidade Elemental - IV",
+        "Context": "Alvo encontrado."
+      },
+      {
+        "Title": "Habilidade Elemental - V",
+        "Context": "Você está na minha mira."
+      },
+      {
+        "Title": "Habilidade Elemental - VI",
+        "Context": "Aproveite a vantagem!"
+      },
+      {
+        "Title": "Supremo - I",
+        "Context": "Vá embora, sombra das trevas!"
+      },
+      {
+        "Title": "Supremo - II",
+        "Context": "O poder da luz te compele!"
+      },
+      {
+        "Title": "Supremo - III",
+        "Context": "Testemunhe o amanhecer!"
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - I",
+        "Context": "Isso deveria ir para aqueles que precisam."
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - II",
+        "Context": "Ah, então não era uma armadilha..."
+      },
+      {
+        "Title": "Abrir Baú do Tesouro - III",
+        "Context": "Uh, como isso escapou pela rede..."
+      },
+      {
+        "Title": "Vida Baixa - I",
+        "Context": "Isso parece péssimo..."
+      },
+      {
+        "Title": "Vida Baixa - II",
+        "Context": "Acho que fui meio convencido..."
+      },
+      {
+        "Title": "Vida Baixa - III",
+        "Context": "É... tarde demais para pedir por reforços?"
+      },
+      {
+        "Title": "Aliado com Vida Baixa - I",
+        "Context": "Fique atrás de mim!"
+      },
+      {
+        "Title": "Aliado com Vida Baixa - II",
+        "Context": "Minha vez!"
+      },
+      {
+        "Title": "Derrotado - I",
+        "Context": "Eu poderia... ter feito mais..."
+      },
+      {
+        "Title": "Derrotado - II",
+        "Context": "Só... garanta que a informação seja retornada."
+      },
+      {
+        "Title": "Derrotado - III",
+        "Context": "Não pude... manter vocês seguros..."
+      },
+      {
+        "Title": "Ataque Leve Sofrido - I",
+        "Context": "Arg..."
+      },
+      {
+        "Title": "Ataque Leve Sofrido - II",
+        "Context": "Fui descuidado..."
+      },
+      {
+        "Title": "Ataque Pesado Sofrido - I",
+        "Context": "Não enquanto eu estiver de olho..."
+      },
+      {
+        "Title": "Ataque Pesado Sofrido - II",
+        "Context": "Temos que continuar assim!"
+      },
+      {
+        "Title": "Entrando na Equipe - I",
+        "Context": "Ratniki apresentando-se ao serviço!"
+      },
+      {
+        "Title": "Entrando na Equipe - II",
+        "Context": "Iluminarei o caminho a frente."
+      },
+      {
+        "Title": "Entrando na Equipe - III",
+        "Context": "Não te decepcionarei."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Informações do Personagem",
+        "Context": "A primavera em Nod-Krai é impiedosa.\nDiferente do norte, onde a neve cobre a terra durante a maior parte do ano e nunca dá qualquer ilusão de vida ao que está enterrado no solo, a primavera em Nod-Krai é cruel, provocando com falsas promessas de esperança.\nConforme o inverno amargo afrouxa seu aperto, a geada se derrete na terra sedenta, e as sementes enterradas bem fundo desde o ano passado voltam a beber a terra úmida e doce. Elas sentem o calor e se agitam, imaginando que o inimigo que despedaçou seus caules e folhas finalmente desapareceu com a passagem do tempo. Guiados por essa promessa fugaz, cada brotinho frágil se esforça desesperadamente, atravessando a terra rachada e teimosa para provar o há muito esquecido sopro de ar fresco.\nMas é mentira, uma armadilha tecida para os desavisados. Numa única noite de geada do início da primavera, tudo é varrido, obliterando seus esforços e deixando para trás apenas uma paisagem de vazio, desolada, quebrada e estéril.\nA primavera em Nod-Krai é astuta.\nMas, se uma planta consegue sobreviver ao vento e à geada implacáveis, à aspereza que até a própria terra parece cansada de suportar, então até o mais humilde Capim de Gelo Invernal pode encontrar sua própria luz do sol em um mundo renascido. É uma recompensa pela resiliência, ou talvez pela coragem, embora as duas muitas vezes sejam a mesma coisa.\nTalvez por esse motivo, os Portadores da Lâmpada de Nod-Krai muitas vezes se comparem ao Capim de Gelo Invernal. Porém, são poucos os que aguentam o frio intenso e sobrevivem ao início da primavera. E, diferente da grama, Illuga, que cresceu sob o farol, sempre sonhou em se tornar a própria luz do sol.\nEm outro conto, sussurrado entre os Portadores da Lâmpada e pouco conhecido além deles, um Luscinia carregando uma brasa no bico alça voo à noite, riscando o céu como uma estrela cadente, e sua palha em brasa trazendo luz ao dia.\nIlluga nunca contou a Nikita que preferia essa história."
+      },
+      {
+        "Title": "História 1",
+        "Context": "Acompanhado pelo alegre toque da corneta do navio, o navio de passageiros entrou lentamente no novo porto da Cidade de Nasha. Antes mesmo que os oficiais do porto pudessem começar a conferir o registro de entrada, os passageiros já estavam desembarcando em um fluxo constante.\nClaro, os trâmites de entrada eram pouco mais do que uma formalidade. Nod-Krai era um paraíso para andarilhos, seus portões estavam sempre abertos para quem quisesse bater, independentemente de riqueza ou status. Mas, desta vez, algo era diferente. Quando o supervisor do porto, normalmente tão distraído, chegou, apenas um casal ainda permanecia a bordo do navio.\n\"Vocês estão esperando alguém?\"\nO supervisor do porto deu um passo à frente, pensando que o casal talvez tivesse se metido em algum tipo de problema.\n\"Ah, não, de jeito nenhum. Só achamos que alguém precisaria inspecionar nossos documentos de entrada. Minha esposa ficou preocupada que sair por conta própria pudesse atrapalhar o trabalho do porto. Mas agora, parece que finalmente esperamos tempo suficiente para você chegar.\"\nO marido falou enquanto a esposa permanecia atrás dele, como se ainda não tivesse se acostumado a uma vida vivida a céu aberto.\nTalvez fossem um jovem casal lutando para sobreviver, enganados pelas fanfarronadas sem limite de marinheiros viajados e decididos a deixar a terra natal para trás em busca de uma nova vida. Ou talvez fossem um jovem sem dinheiro e uma jovem recatada que tinham fugido juntos, embarcando no navio de passageiros sob o manto da noite para desafiar as amarras da sociedade.\nSeja qual fosse a verdade, pouco importava. Em Nod-Krai, ninguém pergunta sobre seu passado.\nDepois que o registro foi concluído, o supervisor do porto observou as figuras se afastarem ao longe, enquanto uma sensação tênue e indescritível se agitava em seu peito.\nPara gente comum, encontrar um meio de vida estável em Nod-Krai já tinha sido um luxo fora de alcance. Mas, felizmente, eram tempos raros e melhores. A Caçada Feroz que por tanto tempo assombrou a região não lançava um ataque em grande escala havia décadas. O terror que ela inspirava outrora permanecia apenas como lembranças fragmentadas, diluídas pelo tempo e pelo desaparecimento daqueles que o tinham presenciado de perto, até virar pouco mais do que folclore sensacionalista sussurrado em tavernas do interior. Eles se estabeleceriam aqui, talvez construíssem um lar, talvez até tivessem um filho. Sem arriscar a própria vida, ainda poderiam desfrutar de uma existência bucólica, quase idílica.\nMas será que dias assim realmente durariam?\n...\nA catástrofe sempre chega sem aviso. Quando Illuga acordou, tudo o que o recebeu foi um mar de chamas.\nSe fosse fogo, deveria ser vermelho. No entanto, o que o cercava eram paredes de cortinas negro-piche, saltando e se contorcendo como chamas. Ele se lembrava de ter ouvido falar de um fogo negro assim em contos antigos, histórias contadas ao som de lobos uivando além das janelas à noite, histórias que moldaram seus primeiros pesadelos.\nTalvez não fossem pesadelos, afinal. Ou talvez pesadelos sejam apenas as verdades que a realidade se recusa a dizer em voz alta, reveladas sem disfarce.\nSe fosse uma criança comum, ele provavelmente já teria desabado em lágrimas incontroláveis. Mas Illuga se lembrava do que sua mãe havia dito depois de contar a história do fogo negro. Ele não podia chorar. Se chorasse, os monstros que tiravam vidas o encontrariam. E, com certeza, o choro e os gritos ao redor dele logo se calaram. Ele achou que isso devia significar que todos tinham sido levados pelos monstros.\nQuanto tempo durou aquele silêncio mortal, ele não sabia dizer. Aos poucos, Illuga começou a ouvir sons fracos e fragmentados se agitando na escuridão, como sussurros que subissem do próprio inferno. Mas esses sons logo se apagaram também. No lugar deles veio o ritmo pesado de passos apressados e, com eles, a luz se derramando junto com o barulho.\n\"Coitadinho, tremendo tanto... Este não é lugar para alguém tão jovem, nada vivo, só a Caçada Feroz.\"\n\"Ela realmente era uma mãe incrível. Sacrificar a própria vida pelo filho... Uma criança que consegue sobreviver a tudo isso com certeza vai crescer forte.\"\nPara Illuga, perder os pais, junto com tudo o que possuía, exceto o próprio corpo, pareceu menos uma tragédia e mais como acordar de um sonho que pertencia a outra vida. Ele realmente tinha sobrevivido àquela calamidade? Na verdade, ele já nem conseguia se lembrar do nome dos próprios pais. Talvez a Caçada Feroz tenha apagado mais do que o lugar que ele antes chamava de lar. Talvez, de passagem, ela também tenha apagado sua vida anterior, deixando para trás apenas um vazio que nunca poderia ser preenchido.\nE, ainda assim, com tempo suficiente, até as feridas mais profundas criam casca. Felizmente, esta era Nod-Krai, uma terra onde ninguém pergunta sobre o seu passado."
+      },
+      {
+        "Title": "História 2",
+        "Context": "Em comparação com o burburinho da Cidade de Nasha, Piramida, no alto das colinas, parecia mais uma fortaleza militar. Construída em torno de uma torre colossal, a cidade se erguia como um guerreiro solitário na planície aberta, vigiando sozinho sob o céu azul límpido.\nAlém do mercador ocasional que chegava trazendo suprimentos tão necessários, a maioria dos moradores da cidade eram Portadores da Lâmpada. Foi aqui que Illuga passou um período de rara tranquilidade.\nO Portador da Lâmpada que o carregou para fora das cinzas do grande incêndio se chamava Nikita. Ele só tinha assumido recentemente o cargo de Starshyna, embora \"assumir\" talvez seja exagero, já que a tarefa à sua frente não era muito diferente de reconstruir a força do zero. Afinal, só um punhado de Portadores da Lâmpada havia sobrevivido à última grande batalha.\nMas, depois de suportar uma catástrofe assim, o povo das Ilhas Lempo enfim percebeu que as histórias assustadoras transmitidas por seus ancestrais não eram mitos sem fundamento. Muitos jovens, homens e mulheres determinados, se apresentaram e se juntaram às fileiras daqueles que mantinham vigília durante a longa noite.\nOs Portadores da Lâmpada recém-recrutados chamavam Nikita de \"Velho\", com carinho, apesar de ele estar longe de ser velho, no máximo um homem de meia-idade marcado por muitos anos de dificuldade. Atencioso e perspicaz, ele sempre parecia colocar cada pessoa no lugar certo, dando a todos um senso de propósito que os fazia querer permanecer entre os Portadores da Lâmpada.\nPara uma organização que exigia que seus membros abandonassem uma vida confortável e vivessem constantemente expostos ao perigo, oferecendo pouco em troca além de honra, isso não era nada menos que um milagre.\nPor enquanto, no entanto, nada disso tinha muito a ver com o jovem Illuga.\nDurante o primeiro ano ou dois, foi o próprio Nikita quem cuidou de Illuga. Ele não era muito bom em ensinar os detalhes mais sutis do dia a dia, em grande parte porque nem ele mesmo sabia muitos, mas ensinou Illuga muita coisa sobre combate: como rastrear os movimentos de bestas selvagens e como pegá-las desprevenidas e desferir um golpe fatal. Illuga aprendeu rápido. Quando ele se concentrava na luta à sua frente, os pesadelos pareciam não conseguir mais alcançá-lo.\nMas, não muito depois, talvez sentindo que estava fazendo um desserviço às crianças e com as obrigações militares ficando cada vez mais exigentes conforme as fileiras cresciam, Nikita decidiu abrigar os órfãos de guerra que haviam buscado refúgio em Piramida em uma residência separada e designar cuidadores dedicados para tomar conta deles.\nEntre as crianças, Illuga era o mais velho, então podia circular livremente pela cidade sem supervisão de adultos. Os Portadores da Lâmpada eram como uma grande família, e havia muitos tios e tias entre eles que cuidavam dele como se fosse seu. Ainda assim, Illuga mantinha uma distância cautelosa dessa bondade. Além de ajudar a cuidar das crianças menores, ele passava a maior parte do tempo restante sozinho na sala de arquivos dos Portadores da Lâmpada, mergulhado nas pilhas monótonas de documentos.\nAqueles registros estavam cheios de histórias de heróis, mas nenhuma delas terminava em triunfo. No fim de cada relato, sempre aparecia a mesma frase mecânica: \"Este grande Portador da Lâmpada deu a vida para proteger o lar.\"\n\"Lar?\" Illuga se esquivava instintivamente da própria ideia. Na verdade, ele já via este lugar como o seu lar havia muito tempo, mas nunca dizia essa palavra em voz alta, como se, ao se recusar a tocá-la, pudesse de alguma forma enganar o mundo."
+      },
+      {
+        "Title": "História 3",
+        "Context": "Durante a maior parte do ano, a vida na cidade de Piramida era um exercício de austeridade, especialmente para as crianças, para quem havia pouca novidade ou encanto. Só quando um banquete era realizado no salão de bebidas, bem no topo da fortaleza, os Portadores da Lâmpada estacionados fora voltavam para o castelo, trazendo um pouco de vivacidade para aquele reduto, que de outro modo era tão sombrio.\nNessas ocasiões, as crianças mais velhas ajudavam nas cozinhas dos fundos. Para elas, a maior importância de um banquete estava na chance de provar iguarias raramente vistas no dia a dia, e Illuga não era exceção. Os Portadores da Lâmpada que retornavam traziam ingredientes de terras distantes e, sob a orientação das tias da cozinha, ele acabou aprendendo várias habilidades culinárias por conta própria.\nPelas regras estabelecidas pelo Starshyna, as crianças só podiam se sentar à mesa depois que o banquete dos adultos terminasse. A explicação de Nikita era simples: \"Crianças não podem beber.\" Um motivo que só enganaria crianças, pensou Illuga. Afinal, ele dificilmente podia ser considerado uma.\nCerta vez, aproveitando um momento em que os adultos não estavam prestando atenção, ele se esgueirou para dentro do salão, curioso para ver quais iguarias estavam escondendo deles. Mas o que encontrou foram adultos chorando sobre seus copos, tão afundados em uma tristeza embriagada que nenhum deles notou sua presença.\nBanquetes não deveriam ser ocasiões de alegria? Por que todo mundo parecia tão triste? Illuga manteve essas perguntas enterradas no fundo do coração.\nO tempo passou, dia após dia. Por motivos que ele não sabia explicar, os banquetes começaram a ser realizados com cada vez mais frequência. Mas os adultos não demonstravam sinal de alegria, se é que algo, o abatimento deles ficava cada vez mais difícil de esconder.\nAté Illuga começou a sentir que algo estava errado. O tio do arquivo que sempre lhe entregava uma fatia de Torta de Lakkabagas nunca mais apareceu depois que o inverno acabou. A tia que lhe ensinava a assar pão ao lado do forno foi, um dia, de repente substituída por um jovem desconhecido. Ele perguntou aos adultos uma ou duas vezes sobre isso, mas as respostas que recebia eram sempre vagas, escorregando antes de tomar forma.\nNo quarto banquete daquele ano, a falta de mãos na cozinha tinha ficado tão grave que Illuga foi encarregado de liderar as crianças no preparo dos aperitivos. Dessa vez, ele finalmente conseguiu entrar no salão assim que o banquete começou.\nTudo estava em silêncio. Carregando uma bandeja, Illuga viu os Portadores da Lâmpada em fileiras solenes, erguendo as taças em direção ao céu, em uma oferenda silenciosa. O estalo agudo de porcelana se despedaçando no chão rompeu a quietude. Naquele instante, tudo ficou claro para ele, e as lágrimas transbordaram antes que pudesse contê-las.\nO grande Salão de Hidromel no nível mais alto de Piramida era um lugar onde banquetes eram realizados após vitórias marcadas pela amargura. Os adultos haviam construído com cuidado uma casca frágil de papel e cola, na esperança de proteger as crianças de uma realidade cruel. Ainda assim, as manchas de sangue dessa realidade acabaram atravessando tudo, sem serem notadas, encharcando do outro lado.\nTalvez Illuga tivesse entendido isso há muito tempo. Ele havia testemunhado cenas muito mais cruéis, revividas em cada pesadelo inesperado. Achou que, ao se esconder na escuridão, como fizera antes, conseguiria manter os monstros afastados, até perceber que a areia que ele segurava com tanta força nunca havia parado de escorrer por entre seus dedos.\nUm dia, a areia acabaria por completo, assim como os pesadelos acabariam alcançando ele. Antes que esse dia chegasse, ele precisava fazer alguma coisa, qualquer coisa, para desacelerar essa perda, nem que fosse só um pouco.\nE então ele finalmente se decidiu, uma estranha sensação de alívio o inundando enquanto seguia para o posto de comando de Nikita."
+      },
+      {
+        "Title": "História 4",
+        "Context": "Já era tarde da noite, e o posto de comando do Starshyna Nikita ainda estava intensamente iluminado.\nHavia uma impressão comum de que os Portadores da Lâmpada só apareciam depois de escurecer, como se não tivessem necessidade alguma de dormir.\nÉ claro que isso era um mal-entendido. Na verdade, como Starshyna, Nikita havia elaborado uma escala de patrulha noturna meticulosamente equilibrada para sua ordem, fazendo de tudo para garantir que todos tivessem descanso suficiente e permanecessem aptos para o serviço.\nO próprio Nikita não era exceção. Ele não era um homem conhecido por se exaurir de tanto trabalhar, o que tornava aquela cena ainda mais incomum.\nNa mesa dentro do posto de comando, relatórios processados com esmero estavam empilhados de lado. Diante de Nikita, havia apenas um fino maço de cartas. O homem de ombros largos, de meia-idade, apoiou as mãos no tampo da mesa, e sua postura revelava um desconforto considerável.\nNesse instante, um lampejo de chama azul fantasmagórica deslizou para além da parede.\nNikita dificilmente poderia deixar de notá-la, mas parecia estar acostumado havia muito tempo a ocorrências assim.\n\"Bom ver você, Flins. Da próxima vez, tente usar a porta da frente.\"\n\"Eu estava em patrulha\", respondeu a chama fantasmagórica ao assumir uma forma humana. Ele ignorou o comentário e, em vez disso, puxou uma cadeira para o lado da mesa e se sentou. \"As luzes aqui ainda estavam acesas, então achei que valia a pena passar.\"\n\"Falando em patrulhas... receio que você vai ter que carregar mais desse peso ultimamente\", disse Nikita. \"Tivemos perdas pesadas nas batalhas deste ano. Estamos com o efetivo no limite.\"\n\"Se está faltando gente, então é justo que eu faça a minha parte\", respondeu Flins solenemente, apesar de nunca ter olhado uma única vez para a escala de patrulha. \"E o recrutamento também foi mal?\"\n\"Depois de uma luta tão brutal, muita gente se assustou e desistiu\", disse Nikita com um sorriso amargo. \"Eram todos jovens, com futuros promissores pela frente. Ainda assim, eu não tive escolha a não ser enviá-los para o campo de batalha.\"\n\"Talvez esse seja o fardo que um Starshyna precisa carregar\", disse Flins. Não ficou claro se ele queria consolar ou apenas constatar um fato. Seu olhar deslizou até as cartas sobre a mesa. \"Esses são os candidatos?\"\n\"Dê uma olhada. Você conhece este aqui\", disse Nikita, entregando-lhe o bilhete.\n\"Illuga...\", murmurou Flins. \"Agora eu me lembro. A criança que você resgatou naquela época.\"\n\"Eu não os trouxe de volta apenas para criar mais alguns jovens soldados\", disse Nikita. \"Ele merece um futuro melhor, não morrer no campo de batalha.\"\n\"Mas você precisa da ajuda dele, não é?\", rebateu Flins. \"Como está a habilidade dele?\"\n\"As habilidades de combate dele são quase impecáveis. Quando enfrenta monstros, ele mal parece uma criança.\"\n\"Você ensinou ele?\"\nNikita ficou em silêncio.\nDepois de uma longa pausa, ele deu um suspiro profundo. \"Ah... Eu deveria ter encontrado um bom lar para ele, deixado ele começar uma nova vida, em vez de mantê-lo aqui neste castelo, seguindo o mesmo caminho que eu segui. Mas você conhece aquelas pessoas da Cidade de Nasha... é quase impossível saber como elas realmente são. Quem garante que um cidadão aparentemente inofensivo não seja, em segredo, um enganador astuto?\"\n\"O amanhecer se aproxima. Vou me retirar\", disse Flins, vendo que a resposta que Nikita buscava já estava no próprio coração dele. Levantando-se, ele devolveu as cartas para a mesa e saiu do posto de comando.\nE desta vez, ele saiu pela porta da frente.\nVendo alguém saindo, Illuga, que estava esperando do lado de fora do posto de comando, sentiu uma pontada de confusão. Quando aquela pessoa tinha entrado? Será que eu cochilei no portão e não vi ele passar?\nAntes que Illuga pudesse falar, o Portador da Lâmpada que se aproximava falou primeiro.\n\"Pode entrar. O velho está esperando por você\", disse ele, e então desapareceu na noite.\nNo céu oriental, a estrela da manhã já havia surgido. Pela terra envolta em escuridão, a primeira luz do amanhecer estava prestes a despontar."
+      },
+      {
+        "Title": "História 5",
+        "Context": "Illuga finalmente realizou seu desejo: ele havia se juntado aos Portadores da Lâmpada.\nTalvez porque Nikita ainda não tivesse chegado ao ponto de jogar crianças direto no campo de batalha, ele foi designado para o esquadrão de logística. Não demorou muito para Illuga perceber que o trabalho que ele fazia agora não era muito diferente do que fazia antes de se juntar aos Portadores da Lâmpada.\nEle chegou a pensar em protestar, pedir para ser designado para os postos mais perigosos, só ali suas habilidades seriam realmente testadas. Mas, no fim, ele ficou no esquadrão de logística, confiando que o velho tinha seus motivos.\nPelo menos havia uma coisa diferente agora: ele finalmente podia abrir o coração para todos. Talvez por querer se apegar um pouco mais, quase todo mundo em Piramida sentia o calor da boa vontade dele. Afinal, agora que ele era um dos Portadores da Lâmpada, não era natural tratar seus colegas como família?\nO trabalho de logística envolvia muitas tarefas, preparar suprimentos, organizar relatórios, entregar mensagens. Não demorou para ele ter visitado todos os postos avançados dos Portadores da Lâmpada, grandes e pequenos. Não havia nenhum Portador da Lâmpada em Nod-Krai que não conhecesse esse jovem entusiasmado.\nEle também fazia questão de se lembrar de cada pessoa: o rígido Sargento-Mor Marushkin, o calmo e comedido Olav, o sempre alegre Ivar, os irmãos Rollon... até mesmo aqueles que ele tinha encontrado apenas uma vez eram tratados como família.\nEm sua atenção aos detalhes, ele talvez tivesse herdado algo de Nikita. Em missões, ele chegava a preparar o prato favorito de cada pessoa. Sempre que alguém, meio em brincadeira, dizia que estava com vontade de comer algum doce, encontrava uma pequena surpresa deixada por Illuga.\nMuitos que se juntaram aos Portadores da Lâmpada carregavam passados amargos e, de certa forma, ele passou a preencher as lacunas no coração de seus colegas. Talvez o vazio dentro de si também estivesse começando a se aliviar, lentamente preenchido pela presença de uma \"família\".\nAs pessoas de quem ele cuidava frequentemente perguntavam quais eram seus pratos favoritos. Talvez ele não quisesse que os outros se sentissem obrigados a retribuir, ou talvez simplesmente não soubesse responder. De qualquer forma, ele sempre desconversava com naturalidade, levando a conversa para outro assunto.\nAinda assim, no primeiro aniversário desde que se juntou aos Portadores da Lâmpada, todos lhe fizeram uma surpresa. Cada pessoa trouxe ingredientes escolhidos a dedo, e tudo foi jogado junto em um único caldeirão. Reunidos ao redor do fogo, passaram uma noite animada e feliz.\nNo dia seguinte, Illuga recebeu sua designação para o esquadrão de investigação. Parecia quase natural, seus companheiros confiavam que esse jovem os guiaria rumo a um futuro brilhante, assim como Illuga confiava neles em retorno.\nTalvez essa também tivesse sido a intenção do velho desde o início."
+      },
+      {
+        "Title": "Aedon...",
+        "Context": "Em Nod-Krai, muitas criaturas seguiram um caminho único de evolução sob a influência de kuuvahki, deixando até os viajantes mais experientes boquiabertos.\nBestas que pisam em trovões estalantes com chifres flutuantes, frutos brotando das raízes de plantas que correm e se escondem e até insetos colossais que só existiam nos tempos antigos.\nComparada a elas, uma Luscinia que cintilava com luz dourada o tempo todo mal parecia tão impressionante, não é?\nIlluga encontrou Aedon pela primeira vez durante uma missão perigosa. Ele havia se separado de toda a sua equipe e se perdido na vastidão interminável da floresta escura, embora, em retrospecto, provavelmente fossem as ilusões e as brumas da Caçada Feroz, pois Nod-Krai não tinha nenhuma floresta tão densa.\nCorrendo pela escuridão, ele perseguiu um leve brilho, e ele o guiou para fora da mata. Só quando o luar atravessou a névoa ele viu a origem: um pássaro límpido como cristal, radiante e puro.\nA partir de então, a luscinia passou a segui-lo com frequência, ajudando-o a resolver inúmeros problemas. Onde quer que estivesse destacado, Illuga sempre deixava um lugar para ela junto à porta.\nPara Illuga, Aedon era um companheiro confiável. Mesmo quando mais tarde soube por Alia que ele já pertencera ao Iluminador Solovei, ele quase não achou estranho.\nAs criaturas sob a lua guardam esta terra; sua existência antecede até mesmo os Portadores da Lâmpada. Muito antes de os humanos pisarem aqui, elas já travavam uma luta interminável contra a escuridão eterna.\nNaquela história da luscinia que carregava um galhinho, o sol que ilumina o mundo mortal é, na verdade, formado por inúmeros pássaros carregando pavios ardentes no bico.\nIlluga sentia que Aedon era aquela luscinia da história. E, um dia, ele também se tornaria como ela, apenas um entre muitos."
+      },
+      {
+        "Title": "Visão",
+        "Context": "Illuga ficou diante da lápide, demorando ali por um bom tempo.\nApenas no mês passado, eles tinham enfrentado uma batalha brutal. O que deveria ser uma investigação de rotina se transformou em desastre quando uma anomalia em uma ruína antiga desencadeou uma debandada da Caçada Feroz, que varreu as regiões setentrionais de Nod-Krai.\nSó depois de enviar vários esquadrões e pagar um preço terrível foi que os Portadores da Lâmpada finalmente expurgaram os monstros. Muitos civis inocentes também perderam a vida no caos.\nO esquadrão de Illuga tinha sido o primeiro a descobrir a anomalia e, por isso, sofreu as maiores perdas. O capitão deles, Olsson, morreu heroicamente ao cobrir a retirada. De toda a unidade, apenas Illuga e Ivar sobreviveram, este último arrastado de volta do campo de batalha por Olsson ao custo de tudo o que ele tinha.\nMais uma vez, Illuga sobreviveu a uma catástrofe que deixou sem vida todos a sua volta.\nÉ claro que ele não tinha fugido por covardia. Ele tinha ido buscar reforços, ir salvar os feridos, deixando seus companheiros para trás justamente por esse motivo.\nMas será que isso não era mais do que uma mentira que ele contava para si mesmo? Naquela noite, ele ouviu vozes familiares e partidas sussurrando da escuridão, como se zombassem de seu medo. Se ele tivesse sido o que ficou para trás, talvez mais pessoas tivessem sobrevivido. No mínimo, Olsson não teria...\nDepois da batalha, porém, a Starshyna Nikita isolou o Penhasco Kipumaki, a origem da Caçada Feroz, proibindo que qualquer pessoa se aproximasse dele. Sem ter onde repousar suas dúvidas, Illuga só pôde vagar entre as sepulturas de seus companheiros caídos, em busca de respostas que não existiam.\nMas, naquele dia, ele não estava sozinho.\n\"Sr. Flins? O senhor veio visitar seus companheiros também?\"\nO Ratnik estacionado em uma ilha solitária agora não fazia parte de nenhum esquadrão ativo. Sua antiguidade entre os Portadores da Lâmpada parecia tão antiga quanto a de Nikita, e Illuga suspeitava que ele também carregava uma história de luto não dita, envolta no mesmo mistério do próprio homem.\n\"Eles descansam em outro lugar\", respondeu Flins. \"Este cemitério foi construído para abrigar os que caíram nos últimos dez anos. O velho me pediu para ver se alguma coisa aqui precisava de reparos. Eu passo bastante tempo entre túmulos, sou meio que um especialista.\"\nNikita também tinha pedido que ele ficasse de olho no jovem melancólico, mas Flins deixou isso sem dizer.\nIlluga pensou que talvez devesse compartilhar suas aflições com esse Portador da Lâmpada veterano. Alguém que tinha sobrevivido a tantas batalhas brutais talvez fosse capaz de responder às suas dúvidas. Mas nem mesmo Illuga conseguia dar um nome ao que o atormentava. Talvez só precisasse de um momento, de algo que confirmasse a resposta que ele já carregava no coração.\n\"Sr. Flins\", perguntou ele, \"como Portador da Lâmpada... o que é mais imperdoável: imprudência ou covardia?\"\n\"Receio que a questão de que você fala não exista de verdade, jovem\", disse Flins com suavidade. \"Ingressar nos Portadores da Lâmpada já é, por si só, prova de coragem. E um Portador da Lâmpada firme e íntegro, por que motivo duvidaria de que suas escolhas foram feitas em nome da justiça?\"\nDepois de voltar do cemitério, Illuga entregou seu pedido para assumir o comando do esquadrão de investigação. Ivar tinha ficado incapacitado por seus ferimentos e já não podia mais lutar. Na prática, o esquadrão agora se resumia ao próprio Illuga.\nDiferente de sua inscrição para entrar nos Portadores da Lâmpada, essa recebeu uma resposta rápida. Era mais pesada do que ele esperava. Quando ele abriu a carta de nomeação, uma gema reluzente escorregou para fora. Ele já tinha visto pedras como aquela com Flins antes, e só então começou a acreditar naquela história que antes parecia tão inverossímil.\nEra, de fato, um presente do mundo. A gema pesava em sua palma, assim como a responsabilidade que ele estava prestes a carregar."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212700,
+      "Name": "Determinação Inabalável",
+      "Description": "Vestuário de Illuga. Desenvolvido com suas funções em mente, este uniforme foi feito sob medida para ele. Embora seja tecnicamente destinado ao trabalho, Illuga tem tantas responsabilidades que raramente tem a oportunidade de trocar de roupa. Na prática, este uniforme pode muito bem ser considerado sua roupa do dia a dia.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104174,
+    113080,
+    101269,
+    112124,
+    104361,
+    113068
+  ],
+  "NameCard": {
+    "Name": "Illuga: Orioles do Pesadelo",
+    "Description": "Estilo de cartão de visita.\nUm pássaro que sobrevive às noites mais escuras retribui ao mundo com sua paixão e queima todos os pesadelos restantes com sua fúria.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "PicturePrefix": "UI_NameCardPic_Illuga"
+  }
+}

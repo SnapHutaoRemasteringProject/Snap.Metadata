@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "격류·서리밤 후예",
+    "Title": "서리밤 후예",
+    "Description": "강력한 원소 친화력을 지닌 우아하고 아름다운 원소 생명체. 긴 세월 동안 고농도 물 원소에 노출되어 오늘날의 모습을 갖추게 됐다.\n가장 순수한 물이슬로 구성되어 있으며, 다른 동족에 비해 온순하다. 하지만 격노하면 순식간에 물로 이루어진 칼날을 만들어, 침입자를 꿰뚫어버린다.\n극북에 남겨진 찬송가 속에서 그들은 서리달의 축복을 받아 탄생한 생명체로 순수한 근원이자 최초의 빛을 상징한다. 이 때문인지 그들은 자신의 순백한 빛이 하늘의 일곱 빛깔에 물드는 것을 견디지 못하고, 가까이 다가오는 모든 생명을 거부한다",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "질풍·서리밤 후예",
+    "Title": "서리밤 후예",
+    "Description": "강력한 원소 친화력을 지닌 우아하고 아름다운 원소 생명체. 긴 세월 동안 고농도 바람 원소에 노출되어 오늘날의 모습을 갖추게 됐다.\n흐르는 바람의 날개를 추가로 얻어 땅 위에 발자국을 거의 남기지 않기 때문에, 바람을 밟는 자라고도 불린다.\n극북에 남겨진 찬송가 속에서 그들은 서리달의 축복을 받아 탄생한 생명체로 순수한 근원이자 최초의 빛을 상징한다. 이 때문인지 그들은 자신의 순백한 빛이 하늘의 일곱 빛깔에 물드는 것을 견디지 못하고, 가까이 다가오는 모든 생명을 거부한다",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "황금·서리밤 후예",
+    "Title": "서리밤 후예",
+    "Description": "강력한 원소 친화력을 지닌 우아하고 아름다운 원소 생명체. 긴 세월 동안 고농도 바위 원소에 노출되어 오늘날의 모습을 갖추게 됐다.\n바위 원소가 온몸을 거의 다 감싸고 있으며, 단단한 뿔에서는 호박처럼 황금빛 광채가 뿜어져 나오고 있다.\n극북에 남겨진 찬송가 속에서 그들은 서리달의 축복을 받아 탄생한 생명체로 순수한 근원이자 최초의 빛을 상징한다. 이 때문인지 그들은 자신의 순백한 빛이 하늘의 일곱 빛깔에 물드는 것을 견디지 못하고, 가까이 다가오는 모든 생명을 거부한다",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "서리밤 하늘 영주",
     "Title": "신성한 빛의 가호",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "노련한 16배 큰 만드라고라",
+    "Title": "노련한 16배 큰 만드라고라",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "노련한 16배 큰 만드라고라",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "신비한 대츄츄",
     "Title": "실수로 비경에 들어와 득도한 샤먼?",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "어둠의 낚시꾼",
+    "Title": "이세계 야수",
+    "Description": "어두운 균열을 뚫고 이 세계로 침입한 심연 마물.\n고대 현자는 인간을 깃털 없는 두 발 달린 짐승이라고 규정했는데, 이는 인간과 지성 없는 야수를 구분하고 영장류의 우월성을 증명하기 위함이었다. 어떤 의미에서 보자면, 적막한 별바다를 떠돌며 갈고리 부리를 드리워 각 세계의 생물을 포식하는, 깃털 대신 비늘을 두른 이름 없는 불멸의 낚시꾼들 또한 이러한 피상적인 「인간」의 정의에 부합한다고 볼 수도 있다",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "어둠의 악몽 영주",
+    "Title": "얼굴과 영지가 없는 지배자",
+    "Description": "어두운 균열 속을 기어다니며 이 세상을 몰래 엿보는 심연 마물. 그 기괴하고 모독적인 얼굴 없는 형상은 이 세계에 비친 그림자에 불과하며, 진정한 실체는 순수한 심연 에너지로 이루어진 무형의 존재다.\n이 세상을 지배하려는 침입자라 할지라도 결국 이 세계의 근본적인 법칙을 어느 정도는 따를 수밖에 없다. 하늘의 장막이 찢어지고 대지의 뼈가 무너질 그날이 오기 전까지, 뭇별에서 온 이 실향민들은 세계의 경계에 숨어 광기 어린 헛소리를 중얼거리며 이 세상에 헛되이 스며들 뿐이다… 이 세상의 평온한 질서는 과연 언제까지 계속될 수 있을까?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "리암",
     "Title": "보물 사냥단·불의 약제사",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "노련한 보물 사냥단 정예",
+    "Title": "노련한 보물 사냥단 정예",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "역류·대영혼의 화신",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "암굴·대영혼의 화신",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "숲잎·대영혼의 화신",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "달빛 서리 늑대",
+    "Title": "달빛 짐승",
+    "Description": "긴 세월 동안 고대 달의 힘에 물들어 독특하게 진화한 마수.\n전설에 따르면, 칠흑의 재앙이 수많은 생명을 앗아갈 때, 변방의 숲은 침묵을 지켰다. 그 정적을 깬 것은 달을 향해 우는 서리 늑대였다. 늑대 무리의 슬픈 울음은 차가운 달빛과 함께 밤마다 황야에 울려 퍼졌다",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "노련한 달빛 서리 늑대",
+    "Title": "달빛 짐승",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "카게로마루",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "「도토레」",
+    "Title": "「도토레」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "「도토레」",
+    "Title": "「거짓된 달의 이단아」",
+    "Description": "「이단」이라는 악명으로 세상에 알려진 우인단 집행관 서열 2위 「도토레」. 그는 세 달의 권능을 탈취한 후, 「신세계」의 신좌로 향하는 계단을 밟으려 한다.\n우리는 본래 모든 것을 가져야 했다.\n이치는 모든 불가사의한 것들을 추방하여, 인간들이 더 이상 본성에 다다를 수 없게 만들었다.\n삶과 죽음은 육신이라는 감옥을 만들어 모든 영혼의 야망을 속박했다.\n시간과 공간은 인류 사고의 한계를 제한하여, 근시안적이고 순종적인 인간으로 만들었다.\n그때부터 거짓된 신들이 세상을 지배했고, 모두가 진리의 이름으로 자신만이 옳다고 주장했지만, 그 누구도 진리의 이름에 어울리지 않았다.\n생명의 변화에는 질서라는 구조가 존재하지 않는다. 오직 이 세상에 겹겹이 씌워진 족쇄를 끊어낼 때, 모든 것의 본질을 엿볼 수 있다.\n그것이 바로 신세계의 빛이다.\n「너희는 정말 이 고리타분한 세상에 만족하는 거냐?」",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "「도토레」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "「도토레」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

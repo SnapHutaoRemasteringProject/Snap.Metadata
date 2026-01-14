@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Columbina",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "วิถีแห่งการทรงคุณค่า - \"ทุ่งดอกไม้บานสะพรั่ง\"",
-    "Description": "ทุ่งกว้างทั่วไปซึ่งเป็นแหล่งรวมพลังเนรมิต ในพื้นดินที่อุดมสมบูรณ์นั้นมีสารอาหารมากมายไร้ขีดจำกัด โดยหลังจากฝังเมล็ดแล้ว จะสามารถเก็บเกี่ยวดอกไม้คุณภาพดีได้ เมื่อเวลาผ่านไปชั่วระยะหนึ่ง โดยที่ไม่ต้องดูแลอย่างเอาใจใส่มากนัก อย่างไรก็ตาม พืชที่ปลูกที่นี่มักจะมีระบบรากที่กว้างขวาง จึงไม่แนะนำให้ปลูกดอกไม้ต่อไร่เยอะเกินไป เพื่อให้แน่ใจว่ามีพื้นที่ในการเจริญเติบโตที่มากเพียงพอ\nเมื่อใช้เมล็ด, สปอร์ หรือตัวอย่างที่เก็บรวบรวมไว้ใน \"Seed Dispensary\" สามารถปลูกดอกไม้ต่อไปนี้ในทุ่งกว้างนี้ได้: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom และ Frostlamp Flower",
+    "Description": "ทุ่งกว้างทั่วไปซึ่งเป็นแหล่งรวมพลังเนรมิต ในพื้นดินที่อุดมสมบูรณ์นั้นมีสารอาหารมากมายไร้ขีดจำกัด โดยหลังจากฝังเมล็ดแล้ว จะสามารถเก็บเกี่ยวดอกไม้คุณภาพดีได้ เมื่อเวลาผ่านไปชั่วระยะหนึ่ง โดยที่ไม่ต้องดูแลอย่างเอาใจใส่มากนัก อย่างไรก็ตาม พืชที่ปลูกที่นี่มักจะมีระบบรากที่กว้างขวาง จึงไม่แนะนำให้ปลูกดอกไม้ต่อไร่เยอะเกินไป เพื่อให้แน่ใจว่ามีพื้นที่ในการเจริญเติบโตที่มากเพียงพอ\nเมื่อใช้เมล็ด, สปอร์ หรือตัวอย่างที่เก็บรวบรวมไว้ใน \"Seed Dispensary\" สามารถปลูกดอกไม้ต่อไปนี้ในทุ่งกว้างนี้ได้: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom, Frostlamp Flower และ Winter Icelea",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "แกะเกาลัด - มินต์น้ำแข็ง",
     "Description": "แกะที่อาศัยอยู่ใน Nod-Krai มีเขาแกะและลวดลายที่เหมือนทาด้วยน้ำมินต์\nหลังจากเข้ามาอาศัยอยู่ใน \"Serenitea Pot\" ขนของแกะเกาลัดก็ยิ่งฟูฟ่องมากขึ้น พอถึงช่วงฤดูผลัดขน รอบ ๆ พวกมันจะมี \"ฝนขนปุกปุย\" ตกโปรยปรายเต็มไปหมด...\nด้วยเหตุผลบางอย่างที่ไม่ทราบแน่ชัด หลังจากเข้ามาในอาณาจักรในกาน้ำชาแล้ว สัตว์บางส่วนก็ยังคงรูปลักษณ์อันเป็นเอกลักษณ์ ที่เกิดจากการได้รับผลกระทบจากแรงจันทราผันไว้ ดังนั้นเพื่อให้ Tubby แยกแยะได้ง่าย Paimon จึงตั้งใจตั้งชื่อใหม่ให้มันทุกตัว ตามรูปลักษณ์ของพวกมัน...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการจับ"
+    ],
+    "Id": 369222,
+    "Name": "ตุ๊กแกหลังหนาม",
+    "Description": "จิ้งจกที่มีความคล่องแคล่วว่องไว และฝ่าเท้าที่ยึดเกาะได้ดี จึงสามารถไต่ผนังได้\nหลังจากมาถึงอาณาจักรในกาน้ำชา พวกมันยังคงอาศัยอยู่ในรอยแยกของผนังหิน แต่ภัยคุกคามจากศัตรูตามธรรมชาติลดลงไปมาก ดังนั้นพวกมันจึงออกมาทำกิจกรรมได้นานขึ้น\nด้วยเหตุผลบางอย่างที่ไม่ทราบแน่ชัด หลังจากเข้ามาในอาณาจักรในกาน้ำชาแล้ว สัตว์บางส่วนก็ยังคงรูปลักษณ์อันเป็นเอกลักษณ์ ที่เกิดจากการได้รับผลกระทบจากแรงจันทราผันไว้...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการจับ"
+    ],
+    "Id": 369223,
+    "Name": "นกกระสาคอเทา",
+    "Description": "นกที่มีท่วงท่างดงาม ขนสีเทาทองวาดเส้นสายร่างอันบอบบางของมัน\nด้วยความงดงามของท่วงท่า สัตว์บางชนิดจึงจงใจยั่วโมโหมัน เพื่อจะได้ชื่นชมท่าทางข่มขู่ที่ดูราวกับการเต้นรำของมัน แน่นอนว่าพฤติกรรมเช่นนี้ถูก Tubby สั่งห้ามไปแล้ว\nด้วยเหตุผลบางอย่างที่ไม่ทราบแน่ชัด หลังจากเข้ามาในอาณาจักรในกาน้ำชาแล้ว สัตว์บางส่วนก็ยังคงรูปลักษณ์อันเป็นเอกลักษณ์ ที่เกิดจากการได้รับผลกระทบจากแรงจันทราผันไว้...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการจับ"
+    ],
+    "Id": 369224,
+    "Name": "อินทรีมงกุฎ",
+    "Description": "อินทรีที่มีสายตาคมกริบ ขนหงอนอันสง่างามช่วยเสริมราศีแห่งราชา\nอินทรีมงกุฎเชี่ยวชาญการบินบนท้องฟ้าสูง ลำตัวที่แข็งแกร่งและปีกที่กว้างใหญ่ทำให้การโจมตีด้วยการดิ่งพสุธาของพวกมันอันตรายอย่างยิ่ง แทบไม่มีเหยื่อรายใดรอดพ้นไปได้ หลังจากที่ย้ายเข้ามาอยู่ในอาณาจักรในกาน้ำชา พวกมันมีอาหารอุดมสมบูรณ์จึงแทบไม่ออกล่าเหยื่อ แต่เพื่อโชว์ขนหงอนที่สวยงามบนหัว พวกมันก็ยังคงบินวนเวียนอยู่บนท้องฟ้าอยู่เสมอ...\nด้วยเหตุผลบางอย่างที่ไม่ทราบแน่ชัด หลังจากเข้ามาในอาณาจักรในกาน้ำชาแล้ว สัตว์บางส่วนก็ยังคงรูปลักษณ์อันเป็นเอกลักษณ์ ที่เกิดจากการได้รับผลกระทบจากแรงจันทราผันไว้...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "โมเดลตุ๊กตาหิมะที่สร้างขึ้นตามต้นแบบของ Varesa มาพร้อมหน้ากากผู้กล้าอันเป็นเอกลักษณ์ ถ่ายทอดภาพลักษณ์อันอบอุ่นแต่เปี่ยมด้วยความมุ่งมั่นได้อย่างแม่นยำ\nเพื่อช่วยให้แขกจากทั่วทุกมุมโลกรู้สึกผ่อนคลาย นักออกแบบของ \"ปาหยกหรรษา\" ได้ตั้งใจสร้างเพื่อนตัวน้อยที่น่ารักนี้ขึ้นมา แม้จะต้องเผชิญกับความหนาวเหน็บที่ขั้วกระดูกของ Dragonspine ก็ยังสามารถสัมผัสถึงความอบอุ่นพิเศษที่มันมอบให้ได้เสมอ...",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 361344,
+    "Name": "\"สนทนาลับในราตรีสงัด\"",
+    "Description": "โต๊ะที่พบได้ทั่วไปในเมือง Piramida มีรูปทรงเรียบง่ายและเหลี่ยมตรง ทำจากแผ่นเหล็กทั้งหมด\nในทุกค่ำคืนที่เงียบสงบ เหล่าทหารประภาคารจะนั่งล้อมวงรอบโต๊ะตัวนี้และพูดคุยกันเสียงเบา ส่วนเหตุผลที่พวกเขาไม่ส่งเสียงดังนั้น อาจเป็นเพราะกลัวรบกวนวิญญาณที่เดินเตร็ดเตร่อยู่รอบ ๆ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 362277,
+    "Name": "เปลหามแบบง่าย - \"เคลื่อนย้ายอย่างมั่นคง\"",
+    "Description": "เปลหามผู้ป่วยนี้มีดีไซน์เรียบง่ายแต่ใช้งานได้ดีเยี่ยม โดยใช้เสาไม้สองต้นเชื่อมต่อกันด้วยผ้าที่แข็งแรงเป็นคานยก เป็นเครื่องมือเคลื่อนย้ายผู้ป่วยทางการแพทย์ที่ใช้กันทั่วไปในหมู่ผู้เฝ้าประภาคาร\nในชีวิตประจำวัน นอกจากผู้เฝ้าประภาคารแล้ว ชาวบ้านบางส่วนในเมือง Piramida ก็ใช้เปลหามประเภทนี้ เพื่อช่วยเหลือผู้ที่มีปัญหาในการเคลื่อนไหวด้วย",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 362278,
+    "Name": "\"ดื่มให้สุดเหวี่ยง\"",
+    "Description": "ผู้เฝ้าประภาคารนิยมใช้ถังเครื่องดื่มที่ทำจากโลหะ ซึ่งมีความจุมาก และสะดวกในการรินเครื่องดื่ม\nในสถานที่จัดงานเลี้ยงมักจะมีการวางถังเครื่องดื่มแบบนี้ไว้หลายใบ เพื่อให้ทุกคนสามารถดื่มได้อย่างเต็มที่และเป็นอิสระ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 362133,
+    "Name": "\"ถึงเพื่อน\"",
+    "Description": "ม้านั่งยาวที่ทำจากโลหะที่ผู้เฝ้าประภาคารนิยมใช้กัน แม้จะไม่มีพนักพิงที่สบาย แต่ก็ยังดีที่มีเบาะนั่งนุ่ม ๆ\nเมื่อได้นั่งบนเก้าอี้ตัวเดียวกันกับเพื่อนร่วมรบ ท่ามกลางเสียงอึกทึกของการดื่มกินอย่างสนุกสนาน บางครั้งความกังวลก็แอบแทรกซึมเข้ามาในใจ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 361412,
+    "Name": "เตียงปฐมพยาบาลอย่างง่าย",
+    "Description": "เตียงปฐมพยาบาลอย่างง่ายที่ผู้เฝ้าประภาคารใช้กันทั่วไป มักถูกดัดแปลงให้เหมาะสมกับวิถีชีวิต และการรักษาของผู้บาดเจ็บที่ต้องนอนอยู่บนเตียง\nเดิมทีเตียงปฐมพยาบาลอย่างง่ายนี้ มีตัวหมุนที่สามารถปรับส่วนโค้งของพนักพิงได้ แต่เนื่องจากคนที่นอนบนเตียงนี้มักจะเขย่าด้ามจับและส่งเสียงดัง \"เอี๊ยดอ๊าด\" โดยไม่รู้ตัวตัวหมุนนี้จึงถูกถอดออกอย่างรวดเร็ว",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 364226,
+    "Name": "\"ธงแห่ง Piramida\"",
+    "Description": "ธงที่พบได้ทั่วไปในเมือง Piramida บนธงปักสัญลักษณ์ประภาคารของผู้เฝ้าประภาคารไว้ แสดงถึงเจตจำนงของผู้เฝ้าประภาคารที่จะถือตะเกียงส่องสว่างในความมืด และเฝ้าดูแลอนาคตตลอดไป",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 371014,
+    "Name": "แนวกั้นเหล็กปรับได้",
+    "Description": "แนวกั้นเหล็กที่สามารถปรับได้ มักพบได้ทั่วไปในเมือง Piramida และมักใช้เป็นโครงสร้างป้องกัน\nอุปกรณ์ป้องกันนี้สามารถต้านทานการโจมตีได้เป็นจำนวนมาก แต่ก็มีข้อเสียที่ชัดเจน... หากต้องการเคลื่อนย้ายไปที่อื่น จะต้องใช้ความพยายามอย่างมากทีเดียว",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 371015,
+    "Name": "\"สถานที่โดดเดี่ยวแห่งนครเฝ้าระวัง\"",
+    "Description": "สิ่งก่อสร้างที่พบได้ทั่วไปในเมือง Piramida สร้างขึ้นจากแผ่นเหล็กเป็นหลัก พื้นที่ภายในค่อนข้างจำกัด แต่มีข้อดีคือต้นทุนการก่อสร้างต่ำ\n\"ฉันยอมอยู่คนเดียวในบ้านแบบนี้ ดีกว่าต้องไปเบียดเสียดกับคนมากมายในบ้านหลังใหญ่!\" คำกล่าวจากชายคนหนึ่งที่เคยพักอาศัยในบ้านหลังนี้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 371016,
+    "Name": "\"ที่พักพิงแห่งนครเฝ้าระวัง\"",
+    "Description": "สิ่งก่อสร้างที่พบได้ทั่วไปในเมือง Piramida สร้างขึ้นจากแผ่นเหล็กเป็นหลัก มีเอกลักษณ์โดดเด่นด้วยหลังคาทรงโค้ง\nแม้ว่าบ้านประเภทนี้จะมีพื้นที่ภายในไม่มากนัก และการออกแบบภายนอกก็ไม่ได้ประณีตซับซ้อน แต่โครงสร้างที่แข็งแรงทนทานก็ช่วยให้ที่พักพิงแก่ผู้คนมากมายได้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371017,
+    "Name": "\"มุมเล็ก ๆ\"",
+    "Description": "เต็นท์ธรรมดาที่มีหลังคาผ้าสีเหลือง\nวัสดุที่ใช้เรียบง่าย ถอดประกอบได้สะดวก เมื่อต้องจัดกิจกรรมกลางแจ้งแบบชั่วคราว เต็นท์แบบนี้จึงสามารถกำหนดพื้นที่ได้อย่างรวดเร็วและมีประสิทธิภาพ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 371018,
+    "Name": "\"การดูแลแห่งนครเฝ้าระวัง\"",
+    "Description": "สิ่งปลูกสร้างที่พบได้ทั่วไปในเมือง Piramida มีความสูงหลายชั้น ใช้เป็นสถานที่ให้บริการด้านการรักษาพยาบาลในเมือง Piramida\nชาวเมือง Piramida ส่วนใหญ่มีสุขภาพแข็งแรง ทำให้หน้าสถานพยาบาลมักจะเงียบเหงา แต่เมื่อถึงช่วงเปลี่ยนฤดูกาล ที่นี่จะคึกคักขึ้นมาชั่วคราว",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 371019,
+    "Name": "\"ขัดเกลาแห่งนครเฝ้าระวัง\"",
+    "Description": "สิ่งปลูกสร้างที่พบได้ทั่วไปในเมือง Piramida มีความสูงหลายชั้น ดูคล้ายหอคอย มักใช้เป็นสถานที่ให้บริการหลอมในเมือง Piramida\nแม้ในช่วงที่อากาศหนาวที่สุดของเมือง Piramida บริเวณรอบ ๆ สิ่งปลูกสร้างแห่งนี้ก็ยังอบอุ่นอยู่เสมอ... มีประกายไฟปะทุออกมาจากใต้ค้อน เตาหลอมส่งเสียงครืนคราง พ่นไอร้อนออกมา...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อ BP เทพเจ้า"
+    ],
+    "Id": 371020,
+    "Name": "\"ถือดาบเดินทางไกล\"",
+    "Description": "รูปปั้นขนาดใหญ่ที่สร้างขึ้นโดยมีบุคคลสำคัญในประวัติศาสตร์เป็นต้นแบบ มีท่าทางมุ่งมั่นและถือดาบก้าวเดินไปข้างหน้า แม้แต่ผู้ที่หยุดยืนชมรูปปั้นนี้ก็ยังรู้สึกได้ถึงความตั้งใจและพลังที่ถ่ายทอดออกมา\nเล่ากันว่า ในฐานะหัวหน้าประภาคารรุ่นแรกของกองทัพ \"ผู้เฝ้าประภาคาร\" เขาเคยเดินท่องไปในราตรีอันยาวนาน เพียงเพื่อปกป้องแสงรุ่งอรุณแห่งความหวังให้แก่ผู้คนทั้งหลาย",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 371021,
+    "Name": "ประภาคารส่องแสง - \"แสงตะวันแหวกเมฆา\"",
+    "Description": "โมเดลที่สร้างขึ้นตามต้นแบบประภาคารสูงใหญ่ของ \"ผู้เฝ้าประภาคาร\" ตั้งตระหง่านอย่างมั่นคงและน่าเชื่อถือ\n\"เมื่อเมฆดำสลายไป และแสงตะวันส่องทะลุผ่านเมฆลงมา มอนสเตอร์คงไม่กล้าออกมาในยามค่ำคืนอีกต่อไป\" หัวหน้า Illuga กล่าวไว้เช่นนั้น บางทีเมื่อถึงวันนั้น ทหารประภาคารทั้งหมดอาจจะได้วางอาวุธในมือลง ก้าวออกมาจากประภาคาร และพักผ่อนท่ามกลางแสงอาทิตย์อันอบอุ่นก็เป็นได้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 374332,
+    "Name": "\"อบอุ่นเป็นกันเอง\"",
+    "Description": "โต๊ะอาหารขนาดใหญ่ ตัวโต๊ะทำจากโลหะ ออกแบบให้มีช่องว่างตรงกลาง ทำให้มีพื้นที่ใต้โต๊ะสำหรับวางเตาขนาดเล็ก เพื่อรักษาอุณหภูมิของอาหารบนโต๊ะ\nการได้ลิ้มรสอาหารเลิศรสและดื่มด่ำอย่างเต็มที่ คงเป็นความคิดร่วมกันของทุกคนที่ได้นั่งรับประทานอาหารบนโต๊ะตัวนี้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 374333,
+    "Name": "โต๊ะทรายต่อสู้ - \"สาธิตล่วงหน้า\"",
+    "Description": "โมเดลที่สร้างขึ้นโดยใช้โต๊ะทรายของแกรนด์มาสเตอร์ Varka เป็นต้นแบบ เรียบง่ายแต่ใช้งานได้จริง\n\"ในขณะที่เรายังมัวลังเล Abyss ก็กำลังคร่าชีวิตผู้คนมากมาย ยิ่งเราออกเดินทางเร็วเท่าไหร่ เราก็จะยิ่งเปลี่ยนแปลงชะตากรรมของพวกเขาได้เร็วขึ้นเท่านั้น\" ข่าวกรองเป็นพื้นฐานของการเดินทัพ หากเราสามารถจำลองฉากที่อาจเกิดขึ้นในอนาคตบนโต๊ะทรายได้ ความเสียหายจากการเดินทัพ หรือการต่อสู้ก็น่าจะลดลงได้มาก...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 374642,
+    "Name": "\"คำสั่งที่แน่วแน่\"",
+    "Description": "แผ่นกระดานวางแผนที่พบได้ทั่วไปในเมือง Piramida มักจะมีแผนที่จากภูมิภาคต่าง ๆ วางอยู่บนนั้น เพื่อให้ทุกคนสามารถดูได้ขณะปรึกษาหารือกัน\nแม้จะเป็นเครื่องมือที่เรียบง่าย แต่มักจะมีบทบาทสำคัญในยามที่ต้องจัดระเบียบความคิด และมองภาพรวมทั้งหมด",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 374643,
+    "Name": "ชั้นวางอาวุธอย่างง่าย - \"หยิบใช้ได้สะดวก\"",
+    "Description": "ชั้นวางอาวุธที่ออกแบบมาอย่างเรียบง่าย มีตำแหน่งสำหรับวางอาวุธและโล่\nหากจัดแบ่งอาวุธเป็นหมวดหมู่ตั้งแต่ตอนจัดเก็บ ผู้ที่ต้องรีบออกรบก็จะสามารถหยิบใช้ได้อย่างสะดวก",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 374644,
+    "Name": "\"บ้านเคลื่อนที่สว่างไสว\"",
+    "Description": "รถเกวียนจันทราที่มีรูปทรงแปลกตาและเคลื่อนย้ายได้สะดวก ขับเคลื่อนด้วยแรงจันทราผันเป็นเชื้อเพลิง เป็นยานพาหนะที่ดัดแปลงมาจากรถกลไกของ Snezhnaya ที่ผู้เฝ้าประภาคารใช้\nเมื่อราตรีมาเยือน ผู้เฝ้าประภาคารมักจะใช้มันเป็นประภาคารเคลื่อนที่... สะดวกสบายและให้แสงสว่างเจิดจ้า",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลเลเวลจุดรวมพล \"ก่อสร้างจุดรวมพล\""
+    ],
+    "Id": 374645,
+    "Name": "รูปปั้นแม่มด - \"หยุดชั่วขณะนี้\"",
+    "Description": "โมเดลที่สร้างขึ้นโดยใช้ทูตสวรรค์เป็นต้นแบบ ดูเหมือนจะเก็บภาพขณะที่ทูตสวรรค์ แสดงพลังชีวิตอันเปี่ยมล้นในช่วงเวลาหนึ่ง\n\"โชคชะตาเป็นสิ่งที่ไม่อาจอธิบายได้ แต่... ฉันก็ยังหวังที่จะนำพาผู้คนที่ฉันพบเจอไปสู่ตอนจบที่งดงาม \" ทุกครั้งที่มีตอนจบที่สวยงาม และทุกช่วงขณะในอนาคตนั้นไม่มีทางคาดเดาได้ ดังนั้น การเก็บภาพช่วงเวลานี้ไว้ จึงถือเป็นบทเรียนที่สำคัญอย่างยิ่งสำหรับใครหลาย ๆ คน",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374819,
+    "Name": "\"ต้นไม้มหามงคล\"",
+    "Description": "ต้นไม้ประดับที่ถูกแขวนด้วยเหรียญมงคลสีทองอร่าม เป็นที่ชื่นชอบของผู้คนใน Liyue อย่างมาก เพราะมีความหมายที่ดีงามในเรื่องของ \"การเรียกทรัพย์และความมั่งคั่ง และความเจริญรุ่งเรือง\"\n\"อา! ถ้าเอาต้นไม้มหามงคลมาวางเต็มลานบ้าน ปีหน้าคงจะ...\" ผู้ชื่นชอบการวางต้นไม้มหามงคลบางคนกล่าวไว้เช่นนั้น",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374820,
+    "Name": "โคม Zhanzhu ยักษ์ - \"ทหารขวางทาง\"",
+    "Description": "โคม Zhanzhu ยักษ์ที่สร้างขึ้นตามต้นแบบของ Zhanzhu สีเข้ม มีรูปทรงที่โดดเด่นเป็นเอกลักษณ์ เป็นตัวละครที่ทำให้เด็ก ๆ หลายคนรู้สึกไม่ชอบใจหลังจากได้ฟังเรื่อง \"Zhanzhu กลืนจันทร์\"\nเมื่อมันขวางทางคุณ กรุณาเดินอ้อมมันไปนะ เพราะ \"ทหารขวางทาง\" นี่ยากจะจัดการเอาเรื่องเหมือนกัน...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 374821,
+    "Name": "โคม Zhanzhu ยักษ์ - \"แม่ทัพขวางทาง\"",
+    "Description": "โคม Zhanzhu ยักษ์ที่สร้างขึ้นตามต้นแบบของ Zhanzhu ยักษ์ที่อุ้มหยกสีแดง มีรูปทรงที่โดดเด่นเป็นเอกลักษณ์ เป็นตัวละครที่ทำให้เด็ก ๆ หลายคนรู้สึกไม่ชอบใจหลังจากได้ฟังเรื่อง \"Zhanzhu กลืนจันทร์\"\nเมื่อมันขวางทางคุณ อย่าได้ถอยหนี เพราะ \"แม่ทัพขวางทาง\" สามารถมองเห็นความหวาดกลัวของทุกคน...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 374647,
+    "Name": "\"ดั่งประกายแห่งชีวิต\"",
+    "Description": "ภาชนะเพาะเลี้ยงที่ไม่ทราบการใช้งานที่แน่ชัด เชื่อมต่อกับภาชนะโปร่งใสสามอันผ่านท่อ\nในภาชนะใบที่ใหญ่ที่สุด มีแสงเรืองแสงกำลังกะพริบและล่องลอย ราวกับมีชีวิต เบาบางและงดงาม",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 373223,
+    "Name": "\"พฤกษาขจีพลิ้วไหว\"",
+    "Description": "ต้นไม้ในกระถางขนาดใหญ่ที่พบได้ทั่วไปในสถาบันวิจัยร้าง พืชที่เติบโตในนั้นเต็มไปด้วยพลังชีวิต เพียงแค่มองเห็นก็ทำให้จิตใจสดชื่นขึ้นมาโดยไม่รู้ตัว\nไม่รู้ทำไม แต่ไม่ว่าจะเจอกระถางต้นไม้นี้เมื่อไหร่ ก็ยังคงเขียวชอุ่มอยู่เสมอ บางคนที่ไม่รู้เรื่องราวได้ตั้งข้อสงสัยว่า อาจมีการใช้โพชั่นพิเศษบางอย่างรดน้ำมันรึเปล่า?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 373224,
+    "Name": "\"พืชพรรณขจีพลิ้วไหว\"",
+    "Description": "ต้นไม้ในกระถางขนาดเล็กที่พบได้ทั่วไปในสถาบันวิจัยร้าง พืชที่เติบโตในนั้นเต็มไปด้วยพลังชีวิต เพียงแค่มองเห็นก็ทำให้จิตใจสดชื่นขึ้นมาโดยไม่รู้ตัว\nไม่รู้ทำไม แต่ไม่ว่าจะเจอกระถางต้นไม้นี้เมื่อไหร่ ก็ยังคงเขียวชอุ่มอยู่เสมอ บางคนที่ไม่รู้เรื่องราวได้ตั้งข้อสงสัยว่า อาจมีการใช้โพชั่นพิเศษบางอย่างรดน้ำมันรึเปล่า?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360469,
+    "Name": "ตะเกียงโลหะเบา",
+    "Description": "ตะเกียงโลหะเบาที่ชาวเมือง Piramida นิยมใช้กัน แม้จะให้แสงสว่างได้ไม่มากนัก แต่ก็พกพาได้สะดวก\nเมื่อเด็ก ๆ เล่นจนท้องฟ้ามืดสนิท พวกเขาก็จะถือโคมไฟเดินกลับบ้านด้วยกันอย่างครึกครื้น ดูราวกับดวงดาวที่ส่องแสงระยิบระยับอยู่บนพื้นดิน",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "รางวัลหีบสมบัติประหลาดในพื้นที่ Nod-Krai"
+    ],
+    "Id": 360470,
+    "Name": "โคมไฟตั้งถนน - \"ประหยัดและทนทาน\"",
+    "Description": "โคมไฟตั้งพื้นที่พบได้ทั่วไปในเมือง Piramida มีรูปทรงเป็นระเบียบและให้แสงสว่างที่สดใส\nผลิตขึ้นจากวัสดุที่ผ่านการหลอมด้วยเทคนิคพิเศษของเมือง Piramida ทำให้ไม่เป็นสนิมง่าย เมื่อถูกน้ำฝนชะล้าง \"ต้นทุนต่ำ ความเสียหายน้อย\" ซึ่งสอดคล้องกับปรัชญาการใช้ชีวิต ของผู้อยู่อาศัยส่วนใหญ่ในเมือง",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360471,
+    "Name": "โคม Xiao หลากสี - \"ความปรารถนาดีเดินทางไกล\"",
+    "Description": "โคม Xiao ที่มีสีสันสดใส และแสงไฟอบอุ่น ใช้วัสดุที่หาได้ง่าย ทำได้สะดวกรวดเร็ว\nมันแบกรับความปรารถนาและความคิดถึงอันล้ำค่ามากมาย ล่องลอยไปในท้องฟ้ายามราตรี",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360472,
+    "Name": "โคม Xiao หลากสี - \"นัดพบปะเพื่อน\"",
+    "Description": "โคม Xiao ที่มีสีสันสดใส และแสงไฟอบอุ่น ได้รับการออกแบบอย่างพิถีพิถันเพื่อให้ลอยได้ในระยะทางที่ไกลขึ้น\nมีตำนานเล่าว่า แม้จะอยู่ห่างไกลกันเพียงใด ความรู้สึกที่ฝากไว้กับโคม Xiao ก็จะส่งถึงอีกฝ่ายเสมอ",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360473,
+    "Name": "โคม Xiao หลากสี - \"ทำนองมงคล\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Xinyan เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"มาจัดการแสดงที่เจ๋งที่สุดกันเถอะ!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360474,
+    "Name": "โคม Xiao หลากสี - \"มงคลปีใหม่\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Gaming เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"ขอให้ทุกสิ่งราบรื่น สุขภาพแข็งแรงและสมบูรณ์\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360475,
+    "Name": "โคม Xiao หลากสี - \"นกนำโชครับใบไม้ผลิ\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Lan Yan เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"ขอให้ปลอดภัย และมีความสุขตลอดไป!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360476,
+    "Name": "โคม Xiao หลากสี - \"กลิ่นหอมอวลสายลม\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Emilie เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"ขอให้ทุกคนมีเวลาว่างได้ลิ้มรสความหอมกรุ่น\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360477,
+    "Name": "โคม Xiao หลากสี - \"โชคดีไม่ขาดสาย\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Layla เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"ขอให้วิทยานิพนธ์ของนักเรียนทุกคนในสถาบันผ่านไปได้ด้วยดี...\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360478,
+    "Name": "โคม Xiao หลากสี - \"สมหวังทุกประการ\"",
+    "Description": "โคม Xiao ดีไซน์สุดพิเศษที่ Xiao เป็นคนสร้างสรรค์ ทำให้ผู้คนรู้สึกอบอุ่น สงบ และมีความสุขเมื่อได้เห็น\n\"ขอให้ทุกสิ่งราบรื่น\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 360479,
+    "Name": "\"ม้าขาวเหินข้ามช่องเขา\"",
+    "Description": "โคม Xiao ขนาดใหญ่ที่สร้างขึ้นตามต้นแบบของเซียนผู้พิทักษ์ดวงจันทร์ มีรูปทรงเป็นม้าขาวบริสุทธิ์กำลังกระโดดข้ามช่องเขา ท่ามกลางเมฆหมอกที่โอบล้อมและแสงอรุณสีสันสวยงามที่ทอดยาว ปัจจุบัน ผู้คนต่างนิยมเขียนคำอธิษฐานลงบนโคม Xiao บางทีด้วยวิธีนี้ เซียนม้าขาวอาจจะยอมขับรถม้าหยกจากดวงจันทร์ ลงมาตอบรับคำอธิษฐานของผู้คนก็เป็นได้?",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

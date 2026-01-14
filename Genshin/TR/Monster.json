@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Coşkun Akıntılar: Donuk Gecenin Varisi",
+    "Title": "Donuk Gecenin Varisi",
+    "Description": "Yüksek element yatkınlığına sahip zarif bir element yaşam formu. Uzun yıllar boyunca yoğun Su elementine maruz kalması, şu anki görünümünü almasına neden olmuş.\nCamı andıran şeffaf bedeni neredeyse tamamen su damlacıklarından oluşuyor. Türdeşlerine kıyasla uysal olmasına rağmen kışkırtıldığında çevresindeki suları anında jilet keskinliğinde bıçaklara dönüştürür ve bu bıçaklar davetsiz misafirlerin savunmalarını delip geçebilir.\nUzak kuzeyde hâlâ yankılanan dualarda, Donuk Ayın lütfuyla doğduğu ve saf kaynak ile ilk parıltıyı sembolize ettiği anlatılır. Belki de bu yüzden soluk saflığının, semavi ışığın yedi rengiyle kirlenmesine tahammül edemiyor ve kendisine yaklaşan her canlıyı reddediyordur.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Saklı Bulut Kovalayan: Donuk Gecenin Varisi",
+    "Title": "Donuk Gecenin Varisi",
+    "Description": "Yüksek element yatkınlığına sahip zarif bir element yaşam formu. Uzun yıllar boyunca yoğun Rüzgar elementine maruz kalması, şu anki görünümünü almasına neden olmuş.\nÇevresinde esen rüzgar ona fazladan bir çift kanat sağlar. Neredeyse hiçbir zaman yerde ayak izi bırakmadığından rüzgarda yürüyen olarak da bilinir.\nUzak kuzeyde hâlâ yankılanan dualarda, Donuk Ayın lütfuyla doğduğu ve saf kaynak ile ilk parıltıyı sembolize ettiği anlatılır. Belki de bu yüzden soluk saflığının, semavi ışığın yedi rengiyle kirlenmesine tahammül edemiyor ve kendisine yaklaşan her canlıyı reddediyordur.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Yaldızlı Güneş Parçası: Donuk Gecenin Varisi",
+    "Title": "Donuk Gecenin Varisi",
+    "Description": "Yüksek element yatkınlığına sahip zarif bir element yaşam formu. Uzun yıllar boyunca yoğun Toprak elementine maruz kalması, şu anki görünümünü almasına neden olmuş.\nVücudunun neredeyse tamamı birikmiş Toprak elementi katmanlarıyla sarılıdır ve boynuzları cilalanmış kehribar gibi parlar.\nUzak kuzeyde hâlâ yankılanan dualarda, Donuk Ayın lütfuyla doğduğu ve saf kaynak ile ilk parıltıyı sembolize ettiği anlatılır. Belki de bu yüzden soluk saflığının, semavi ışığın yedi rengiyle kirlenmesine tahammül edemiyor ve kendisine yaklaşan her canlıyı reddediyordur.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Donuk Gecenin Efendisi",
     "Title": "Kutsal Işığın Muhafızı",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Heksadekatonik Savaş Uzmanı Mandragora",
+    "Title": "Heksadekatonik Savaş Uzmanı Mandragora",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Heksadekatonik Savaş Uzmanı Mandragora",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Esrarengiz Dağ Devi",
     "Title": "Kazara Zindanda Aydınlığı Bulan Bir Şaman",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Gizli Derinliklerin Balıkçısı",
+    "Title": "Başka Bir Dünyanın Yırtıcı Canavarı",
+    "Description": "Gizli derinliklerdeki yarıklardan sızarak bu dünyanın ötesinden gelen bir Hiçlik yaratığı.\nUzun zaman önce kadim bir düşünür, insanları \"tüysüz iki ayaklılar\" olarak tanımlamış ve bu basit ifadeyle insanoğlunu hayvanlardan ayırt edip onların üstünlüğünü vurgulamıştı. Sessiz kozmik boşluğun tüy yerine pullarla kaplı ve kanca gibi gagalarıyla gezegenlerden biyokütle çeken bu ölümsüz avareleri, bir açıdan bu basit \"insan\" tanımına uyuyor aslında.",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Gizli Derinliklerin Lordu: Kabus Fısıldayan",
+    "Title": "Çehresiz ve Hudutsuz Lord",
+    "Description": "Gizli derinliklerdeki yarıklarda sürünen, sessizce bu dünyayı izleyen bir Hiçlik yaratığı. Onun tekinsiz, yüzsüz formunun sadece bir yansıma olduğu, gerçek bedeninin ise saf Hiçlik enerjisinden oluşan şekilsiz bir kütle olarak var olduğu söylenir.\nBu dünyayı ele geçirmeye çalışan istilacılar dahi bir dereceye kadar onun kurallarına uymak zorundadır. Gökler yarılıp yeryüzünün tüm savunması çökmedikçe yıldızlardan gelen bu yabancılar dünyanın kıyısında dolanıp çılgınlıklarını bu aleme fısıldamaktan öteye geçemezler ve tüm içeri sızma girişimleri boşa çıkar... Peki ama bu istikrar ve düzen daha ne kadar sürebilir?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Hazine Avcıları: Ateş İksircisi",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Savaş Uzmanı Seçkin Hazine Avcısı",
+    "Title": "Savaş Uzmanı Seçkin Hazine Avcısı",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Ters Akıntı Wayob Tezahürü",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Kaya Mağarası Wayob Tezahürü",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Yaprak Yarışı Wayob Tezahürü",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Parlak Buzul Kurdu",
+    "Title": "Parıltılı Yaratık",
+    "Description": "Kadim ayın gücüne uzun süre maruz kalarak benzersiz bir evrim geçirmiş bir canavar.\nEfsaneye göre karanlık bir felaket sayısız canı yok ettiğinde sınır ormanları tamamen sessizliğe gömüldü. O ölüm sessizliğini bozan tek ses ise aya doğru uluyan Buzul Kurtlarının çığlıklarıydı. Hüzünlü çığlıkları, soğuk ay ışığıyla aydınlanan ıssız yabanda geceler boyu yankılandı.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Savaş Uzmanı Parlak Buzul Kurdu",
+    "Title": "Parıltılı Yaratık",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "Doktor",
+    "Title": "Doktor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "Doktor",
+    "Title": "Sahte Ayın Sapkını",
+    "Description": "Tüm diyarda sapkın olarak hor görülen, Fatui'nin On Bir Habercisinden İkincisi Doktor, üç ayın iktidarını ele geçirmeyi başardı ve şimdi \"yeni dünyanın\" kutsal tahtına çıkan uzun merdivenleri tırmanıyor.\nHer şey bize ait olmalıydı.\nFakat mantık, kendi sınırlarını aşan her şeyi yok saydı ve insanlığı gerçek doğasına karşı kör bıraktı.\nYaşam ve ölüm, bizi fani kabuklar içinde hapis bıraktı ve tüm arzulara pranga vurdu.\nSon olarak, zaman ve uzay kapanıp zihni itaatkar bir uysallığa mahkum etti ve hiç kimse özgür kalmayı hayal edemez oldu.\nO andan itibaren dünyayı sahte tanrılar yönetti. Her biri kendi hakikatini mutlak ve eleştirilemez bir hakikat olarak haykırdı, oysa hiçbiri bu kadar yüksek sesle iddia ettiği makama layık değildi.\nYaşamın akışında doğal bir yapı yoktur, düzen ona yalnızca dayatılmıştır. Bu dünyaya vurulan tüm zincirler kalktığında her şeyin özü nihayet görünür hale gelecektir.\nVe işte bu vahiy... Yeni dünyanın ilk ışığıdır.\n\"Bu çürüyen, köhne dünyaya daha ne kadar katlanacaksınız?\"",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "Doktor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "Doktor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

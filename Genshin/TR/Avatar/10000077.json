@@ -1173,6 +1173,14 @@
   },
   "Costumes": [
     {
+      "Id": 207701,
+      "Name": "Yağmurlu Bambu Rüyası",
+      "Description": "Yaoyao'nun giysisi. Dağınık masaya sıralı gölgesi vurur taze filizlerin; sanma ki rüzgardır her gelen misafirin.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
+    },
+    {
       "Id": 207700,
       "Name": "Saf Osmantus",
       "Description": "Yaoyao'nun giysisi. Ailesinin Yaoyao için özel olarak diktiği sevimli ve kısa bir ceket. Küçük kız, Qingce Köyü ile Liyue Limanı arasında seyahat ederken, efendisinin ona verdiği Adeptus zilleriyle birlikte bu ceket hep onun üzerindeydi.",

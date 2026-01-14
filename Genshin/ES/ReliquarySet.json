@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Bono de Daño Geo +15%.",
-      "Al obtener un cristal creado a través de la reacción de Cristalización, todos los miembros del equipo obtienen durante 10 s un 35% de Bono de Daño Elemental del elemento que causó dicha reacción. Solo se puede obtener un tipo de Bono de Daño Elemental a la vez."
+      "#Al obtener un fragmento creado a través de la reacción de Cristalización o al causar una reacción de Cristalización Lunar, todos los miembros del equipo obtienen durante 10{NON_BREAK_SPACE}s un 35% de bono de daño del elemento correspondiente. Solo se puede obtener un tipo de Bono de Daño Elemental a la vez mediante este efecto."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "ATQ +18%.",
-      "#Tras usar la Habilidad Elemental, el personaje obtiene un 20% de Bono de Daño Geo durante 10{NON_BREAK_SPACE}s. Si está protegido por un escudo creado mediante la reacción de Cristalización, el anterior efecto aumenta en un 150%. Este aumento adicional se eliminará 1{NON_BREAK_SPACE}s después de perder el escudo creado mediante Cristalización."
+      "#Tras usar la Habilidad Elemental, el personaje obtiene un 20% de Bono de Daño Geo durante 10{NON_BREAK_SPACE}s. Si está protegido por un escudo creado mediante la reacción de Cristalización o si en las cercanías hay algún pilar lunar creado con la reacción de Cristalización Lunar, el anterior efecto aumenta en un 150%. Este aumento adicional se eliminará en 1{NON_BREAK_SPACE}s si no se han cumplido los anteriores requisitos."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Recarga de Energía +20%.",
       "#Infligir Daño Elemental otorga durante 8{NON_BREAK_SPACE}s el efecto de “luna refulgente: veneración”, de manera que, cuando el presagio lunar del equipo es resplandor naciente/resplandor ascendente, la Maestría Elemental de todos los personajes del equipo aumenta en 60/120{NON_BREAK_SPACE}pts. respectivamente. Este efecto se puede activar incluso cuando el portador de este conjunto está en tu equipo pero no en uso. Por cada efecto de luna refulgente diferente que tengan los personajes, el daño de las Reacciones Lunares de todos los miembros del equipo aumentará en un 10%. Los efectos producidos por luna refulgente no se pueden acumular."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Alborada de la Estrella del Alba y la Luna",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Maestría Elemental +80 pts.",
+      "#Cuando el portador de este conjunto está en tu equipo pero no en uso, el daño de Reacción Lunar que inflige aumenta en un 20%. Cuando el nivel de presagio lunar del equipo es de, al menos, resplandor ascendente, el daño de Reacción Lunar aumenta en un 40% adicional. Estos efectos se anularán después de que el portador de este conjunto permanezca en el campo de batalla durante 3{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Día de los Vientos Alzantes",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "ATQ +18%.",
+      "#Tras golpear a un enemigo con un Ataque Normal o Cargado o con la Habilidad Elemental o Definitiva, se obtiene el efecto de “bendición del viento y la poesía” durante 6{NON_BREAK_SPACE}s, el cual aumenta el ATQ en un 25%. Si el portador de este conjunto ya ha completado la misión de «Lecciones del Aquelarre», dicho efecto mejorará y se convertirá en “determinación del viento y la poesía”, el cual aumenta adicionalmente en un 20% la Prob. CRIT del portador que haya superado dicha prueba. Este efecto se puede activar incluso cuando el portador está en tu equipo pero no en uso."
     ]
   }
 ]

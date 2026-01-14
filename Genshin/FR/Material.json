@@ -1761,6 +1761,39 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Columbina",
+    "Description": "Matériau d'activation de la constellation de Columbina.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Zibai",
+    "Description": "Matériau d'activation de la constellation de Zibai.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna d'Illuga",
+    "Description": "Matériau d'activation de la constellation d'Illuga.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2955,6 +2988,39 @@
     "ItemType": 2,
     "Name": "Stella Fortuna de Jahoda",
     "Description": "Matériau d'activation de la constellation de Jahoda.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Columbina",
+    "Description": "Matériau d'activation de la constellation de Columbina.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Zibai",
+    "Description": "Matériau d'activation de la constellation de Zibai.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna d'Illuga",
+    "Description": "Matériau d'activation de la constellation d'Illuga.",
     "TypeDescription": "Matériau d'activation de constellation",
     "Icon": "UI_ItemIcon_1103"
   },
@@ -4668,7 +4734,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Galet gelé",
-    "Description": "Un galet que l'on trouve couramment sur les côtes nod-kraïennes, caractérisé par un creux naturel. Le toucher procure un léger frisson.\nSelon une ancienne légende, le creux de ce galet était autrefois un abri où la givrelune guidait les nivéoles, ainsi que la porte vers le monde infernal. Dans une autre histoire populaire au Village de Nasha, lorsque le légendaire voleur Reed Miller fut encerclé, ce galet, offert par une demoiselle de givrelune en gage d'amour, lui permit de dissimuler sa forme et d'échapper à ses poursuivants. Les Descendants de givrelune rejetèrent catégoriquement cette affirmation, la jugeant absurde, car ces galets ne possédaient aucune propriété magique.",
+    "Description": "Un galet que l'on trouve couramment sur les côtes nod-kraïennes, caractérisé par un creux naturel. Le toucher procure un léger frisson.\nSelon une ancienne légende, le creux de ce galet était autrefois un abri où la givrelune guidait les nivéoles, ainsi que la porte vers le monde infernal. Dans une autre histoire populaire au Village de Nasha, lorsque le maître voleur Reed Miller fut encerclé, ce galet, offert par une demoiselle de givrelune en gage d'amour, lui permit de dissimuler sa forme et d'échapper à ses poursuivants. Les Descendants de givrelune rejetèrent catégoriquement cette affirmation, la jugeant absurde, car ces galets ne possédaient aucune propriété magique.",
     "TypeDescription": "Matériau",
     "Icon": "UI_ItemIcon_101259"
   },
@@ -4726,6 +4792,28 @@
     "Description": "Un fruit qui pousse dans les régions chaudes de Nod-Krai, apprécié des animaux en hiver et des enfants affamés.\nDans les traditions des Descendants de givrelune, les baies du solstice sont considérées comme un symbole de vie et d'abondance, car elles ne fleurissent que pendant la chaleur du printemps et de l'été.\nIl existe également une légende qui raconte l'interminable lutte de pouvoir entre le roi du houx d'hiver et le roi du chêne d'été, des monarques jumeaux qui s'entretuent à tour de rôle au fil des saisons, revenant des enfers pour régner sur leur saison encore et encore jusqu'à la fin des temps. La plupart des chercheurs snezhnayiens rejettent cette idée, la considérant comme une métaphore de l'alternance des saisons dans une religion primitive, ou du moins c'est ce dont ils se sont convaincus.",
     "TypeDescription": "Ingrédient",
     "Icon": "UI_ItemIcon_101265"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101268,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Glacelée d'hiver",
+    "Description": "Plante rustique réputée pour résister aux vents violents et au gel. Elle survit même aux plus froids des hivers.",
+    "TypeDescription": "Produit de Nod-Krai",
+    "Icon": "UI_ItemIcon_101266"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101269,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Ambre de pin",
+    "Description": "Une gemme formée à partir de la résine d'imposants arbres anciens qui recouvraient Nod-Krai autrefois. Au fil des siècles, la résine s'est durcie pour former de l'ambre cristallin, qui brille aujourd'hui de couleurs vives et éclatantes.",
+    "TypeDescription": "Produit de Nod-Krai",
+    "Icon": "UI_ItemIcon_101269"
   },
   {
     "Rank": 330,
@@ -19894,6 +19982,39 @@
     "Icon": "UI_ItemIcon_121285"
   },
   {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121450,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sceau de Lune irisée",
+    "Description": "Récupérez les trois sceaux pour débloquer le trésor du Surplomb de videmer.\nVous avez trouvé cette pierre ronde par hasard lors d'une exploration. Si vous en récupérez trois portant les mêmes marques, vous pourrez peut-être reconstituer une ombre de la lune brillante qui illuminait autrefois le monde.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_121450"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121451,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sceau de Lune irisée",
+    "Description": "Récupérez les trois sceaux pour débloquer le trésor de la Plaine Chassevague.\nVous avez trouvé cette pierre ronde par hasard lors d'une exploration. Si vous en récupérez trois portant les mêmes marques, vous pourrez peut-être reconstituer une ombre de la lune brillante qui illuminait autrefois le monde.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_121451"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121452,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sceau de Lune irisée",
+    "Description": "Récupérez les trois sceaux pour débloquer le trésor du Pic cendrévoile.\nVous avez trouvé cette pierre ronde par hasard lors d'une exploration. Si vous en récupérez trois portant les mêmes marques, vous pourrez peut-être reconstituer une ombre de la lune brillante qui illuminait autrefois le monde.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_121452"
+  },
+  {
     "Rank": 420001,
     "MaterialType": 10,
     "Id": 107001,
@@ -31169,6 +31290,294 @@
     "Icon": "UI_ItemIcon_108856"
   },
   {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 30 % des PV max, puis 510 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108931,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Délice dans la neige (suspect)",
+    "Description": "Un dessert liyuéen à base de riz. Son goût est léger et ordinaire, si peu mémorable qu'il s'efface de votre esprit presque immédiatement après la dernière bouchée.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 32 % des PV max, puis 730 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108932,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Délice dans la neige",
+    "Description": "Un dessert liyuéen à base de riz. Les grains sont moulus en farine, mélangés à du sucre et de l'eau, pressés dans des moules, puis cuits à la vapeur pour obtenir un gâteau d'un blanc immaculé qui évoque la promesse d'une récolte riche et abondante.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 35 % des PV max, puis 930 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108933,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Délice dans la neige (délicieux)",
+    "Description": "Un dessert liyuéen à base de riz. Pur et blanc comme la neige fraîche, il fond dès qu'il touche la langue, pour laisser place à une douceur délicate et raffinée qui persiste comme un doux écho.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente la DÉF de tous les personnages de l'équipe de 165 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108934,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rouleaux de printemps croustillants (suspects)",
+    "Description": "Une spécialité frite de Liyue. La croûte était censée être croustillante, mais elle s'est retrouvée molle et trempée, comme c'est étrange... Attendez, est-ce à cause du papier absorbant utilisé pour l'emballage...",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Augmente la DÉF de tous les personnages de l'équipe de 200{NON_BREAK_SPACE}pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108935,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rouleaux de printemps croustillants",
+    "Description": "Une spécialité frite de Liyue. De la viande et des légumes effilochés sont enroulés dans une fine crêpe, cette dernière étant ensuite roulée en forme de tube, puis frite jusqu'à obtenir une belle couleur dorée. Croustillante à l'extérieur et généreusement garnie, elle est appréciée de tous, petits et grands.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente la DÉF de tous les personnages de l'équipe de 235 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108936,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rouleaux de printemps croustillants (délicieux)",
+    "Description": "Une spécialité frite de Liyue. À la première bouchée, la croûte croustillante craque pour libérer un délicieux jus. Sous cette enveloppe dorée et feuilletée se cachent non seulement des saveurs superposées, mais aussi l'esprit vibrant et animé de Liyue.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente les PV max de tous les personnages de l'équipe de 20 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108937,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bonbons aux herbes et aux baies (suspects)",
+    "Description": "Des confiseries de Nod-Krai. Salé et acide d'une manière inattendue pour une confiserie, son goût est si intense que quiconque s'attendant à quelque chose de sucré hurlerait de surprise et de désarroi.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente les PV max de tous les personnages de l'équipe de 22 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108938,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bonbons aux herbes et aux baies",
+    "Description": "Des confiseries de Nod-Krai confectionnées à partir de fleurs, d'herbes et de baies locales. Leurs couleurs vives apportent une petite mais bienvenue touche de douceur dans les vastes plaines gelées.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente les PV max de tous les personnages de l'équipe de 25 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bonbons aux herbes et aux baies (délicieux)",
+    "Description": "Des confiseries de Nod-Krai. Dès que ces friandises translucides touchent votre langue, des vagues de saveurs florales et de baies aigres-douces envahissent vos sens. C'est frais et délicieusement sucré.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 30 % des PV max du personnage sélectionné et 600 PV supplémentaires.",
+    "Id": 108940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Marmite aux légumes (suspecte)",
+    "Description": "Une soupe de légumes. Préparée en faisant mijoter divers légumes râpés avec un assaisonnement léger, la longue cuisson a rendu les légumes mous et flasques, avec une texture un peu pâteuse. Ce n'est pas très appétissant, mais ça vous remplira l'estomac.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 32 % des PV max du personnage sélectionné et 1 250 PV supplémentaires.",
+    "Id": 108941,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Marmite aux légumes",
+    "Description": "Une soupe de légumes. Préparée en faisant mijoter divers légumes râpés avec un assaisonnement léger, elle est douce, savoureuse et excellente pour la santé.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 34 % des PV max du personnage sélectionné et 1 900 PV supplémentaires.",
+    "Id": 108942,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Marmite aux légumes (délicieuse)",
+    "Description": "Une soupe de légumes. Préparée en faisant mijoter divers légumes râpés avec un assaisonnement et réalisée grâce à des techniques simples, elle révèle l'essence la plus pure des légumes. Dès la première gorgée, une chaleur réconfortante se répand de votre estomac à travers tout votre corps.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Augmente le taux CRIT de tous les personnages de l'équipe de 10{NON_BREAK_SPACE}% pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108943,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Joie au coin du feu (suspecte)",
+    "Description": "Un généreux assortiment de charcuteries savoureuses. La graisse dense, amère et salée, frappe le palais comme un carrosse en fuite, laissant une traînée huileuse persistante dans la gorge... Une attaque gustative intense que peu peuvent endurer.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Augmente le taux CRIT de tous les personnages de l'équipe de 15{NON_BREAK_SPACE}% pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108944,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Joie au coin du feu",
+    "Description": "Un généreux assortiment de charcuteries savoureuses. Mêlant charcuterie snezhnayienne et jambon et saucisses de Nod-Krai, il ravit surtout les habitants les plus âgés de Nod-Krai qui aiment déguster ce plat au coin du feu, un verre à la main.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Augmente le taux CRIT de tous les personnages de l'équipe de 20{NON_BREAK_SPACE}% pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108945,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Joie au coin du feu (délicieuse)",
+    "Description": "Un généreux assortiment de charcuteries savoureuses. Les épaisses pièces de viande crue ont des notes de pin et de sel, les saucisses dégagent un profond arôme fumé, et les tranches de jambon apportent une touche riche et savoureuse. Copieux et roboratif, c'est un festin qui ravirait n'importe quel habitant de Nod-Krai.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Réanime un personnage et restaure 900 PV.",
+    "Id": 108946,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fantôme de champignon (suspect)",
+    "Description": "Un pain fourré de légumes sautés. Après avoir peiné à mordre à travers la croûte carbonisée, vous parvenez enfin à avoir une bouchée, mais une saveur terreuse et boueuse assaille aussitôt votre palais. Après quelques bouchées, votre tête commence à tourner... Serait-ce une nouvelle variété de champignon vénéneux ?",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Réanime un personnage et restaure 1 200 PV.",
+    "Id": 108947,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fantôme de champignon",
+    "Description": "#Un pain fourré de légumes sautés. La préparation cuite est enveloppée dans une pâte de seigle, laissée à lever, puis cuite au four. Cela ressemble tellement à un champignon que, sans les incisions superficielles sur son «{NON_BREAK_SPACE}chapeau{NON_BREAK_SPACE}», on pourrait presque le confondre avec un véritable champignon.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Réanime un personnage et restaure 1 500 PV.",
+    "Id": 108948,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fantôme de champignon (délicieux)",
+    "Description": "Un pain fourré de légumes sautés. Sa croûte épaisse et robuste fait office de rempart qui renferme les sucs parfumés de sa garniture aux champignons tendres, donnant lieu à une saveur rustique mais satisfaisante qui se déploie en bouche.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente la DÉF de tous les personnages de l'équipe de 282 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108949,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Saveur printanière",
+    "Description": "Spécialité culinaire de Zibai. Sa couleur brille comme de l'ambre doré, rappelant ses yeux. Son arôme est aussi familier qu'un simple rouleau de printemps, mais chaque bouchée croustillante révèle une résistance inattendue... Serait-ce une recette secrète de l'ancien royaume de Lang-Gan ?",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108862"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Augmente les PV max de tous les personnages de l'équipe de 30 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+    "Id": 108950,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mirage sous la lune",
+    "Description": "Spécialité culinaire de Columbina. Ce bonbon translucide ressemble à une gouttelette de rosée recueillie au clair de lune. Sa délicate douceur apparaît et disparaît, comme pour vous attirer dans un beau rêve éphémère. On ne peut s'empêcher d'admirer l'habileté et le soin apportés à sa confection...",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108863"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure 40 % des PV max du personnage sélectionné et 2 350 PV supplémentaires.",
+    "Id": 108951,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Soupe de veillée",
+    "Description": "Spécialité culinaire d'Illuga. Un bol fumant de soupe chaude dont une seule gorgée suffit à dissiper la fatigue et apaiser les nerfs tendus au retour de la patrouille nocturne. Un tel effet est sans doute le fruit des années d'expérience du jeune chef d'escouade, qu'il a concentré en une recette qui lui est propre.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108864"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "C'est joli et ça a bon goût, mais ça n'a pas vraiment d'effet.",
+    "Id": 108952,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sculpture en sucre : Columbina",
+    "Description": "Une sculpture en sucre conçue pour capturer l'essence d'une personne. Ses ornements capillaires légers et flottants évoquent Columbina, la Dame de la lune, dont la présence même est aussi aérienne qu'un doux chant.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108865"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "C'est joli et ça a bon goût, mais ça n'a pas vraiment d'effet.",
+    "Id": 108953,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sculpture en sucre : Illuga",
+    "Description": "Une sculpture en sucre conçue pour capturer l'essence d'une personne. Cet oiseau messager fidèle rappelle Illuga, le jeune chef des Orioles des nuits terrifiantes.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108866"
+  },
+  {
+    "Rank": 120199,
+    "MaterialType": 1,
+    "EffectDescription": "Mieux vaut ne pas en manger !",
+    "Id": 108954,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fantôme de champignon (brûlé)",
+    "Description": "Un pain fourré de légumes sautés. Cuit de manière hasardeuse sur un feu à peine maîtrisé, il ressemble à un champignon noir comme du charbon. Son apparence seule suffit à intimider, et y goûter pourrait s'avérer risqué...",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108867"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33996,6 +34405,72 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109642,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Recette : Délice dans la neige",
+    "Description": "Étapes de préparation du délice dans la neige.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recette : Rouleaux de printemps croustillants",
+    "Description": "Étapes de préparation des rouleaux de printemps croustillants.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recette : Bonbons aux herbes et aux baies",
+    "Description": "Étapes de préparation des bonbons aux herbes et aux baies.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109645,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recette : Marmite aux légumes",
+    "Description": "Étapes de préparation de la marmite aux légumes.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109646,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recette : Joie au coin du feu",
+    "Description": "Étapes de préparation de la joie au coin du feu.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recette : Fantôme de champignon",
+    "Description": "Étapes de préparation du fantôme de champignon.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -36003,6 +36478,39 @@
     "Icon": "UI_ItemIcon_112136"
   },
   {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112137,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Œil fracturé des fonds",
+    "Description": "Les restes d'un pêcheur venu d'un autre monde, laissés après la dissolution de son corps.\nUne fois sa carapace fissurée, la malveillance qu'elle renfermait s'est également dissipée.",
+    "TypeDescription": "Matériau d'amélioration de personnage et d'arme",
+    "Icon": "UI_ItemIcon_112137"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112138,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Noyau aberrant des fonds",
+    "Description": "Les restes d'un pêcheur venu d'un autre monde, abandonnés après la dissolution de son corps.\nUn noyau dont les fonctions se sont totalement arrêtées, et dont la structure ne ressemble à aucun organe d'aucune créature connue sur cette terre.",
+    "TypeDescription": "Matériau d'amélioration de personnage et d'arme",
+    "Icon": "UI_ItemIcon_112138"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112139,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bec crochu des fonds",
+    "Description": "Les restes d'un pêcheur venu d'un autre monde, laissés après la dissolution de son corps.\nUn bec crochu semblable à celui d'un oiseau, utilisé par les prédateurs d'un autre monde pour stocker la biomasse qu'ils capturent.",
+    "TypeDescription": "Matériau d'amélioration de personnage et d'arme",
+    "Icon": "UI_ItemIcon_112139"
+  },
+  {
     "Rank": 11101,
     "MaterialType": 14,
     "Id": 113001,
@@ -36883,6 +37391,50 @@
     "Icon": "UI_ItemIcon_113080"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113081,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Masque du médecin vertueux",
+    "Description": "Un masque trouvé sur le site d'expériences hérétiques après avoir vaincu le faux dieu qui avait usurpé la lune.\nLa médecine est censée guérir les maux de la chair, pourtant les médecins mortels ferment les yeux sur les véritables causes de la mort. Entre les mains d'un sage guérisseur, le fragile corps humain échappe aux limites de la naissance, du vieillissement, de la maladie et de la mort, révélant une force qui défie le bon sens.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113081"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113082,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Contrainte du fou",
+    "Description": "Un bandeau trouvé sur le site d'expériences hérétiques après avoir vaincu le faux dieu qui avait usurpé la lune.\nL'humanité définit la civilisation en chassant la folie. Pourtant, croire que toute chose, qu'elle existe ou non, peut être contenue dans les limites de la raison est peut-être en soi une autre forme de démence. Le fou voit à travers les ruses de la raison, et dans son monde, tout est permis.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113082"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113083,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Élixir de l'hérétique",
+    "Description": "Une fiole trouvée sur le site d'expériences hérétiques après avoir vaincu le faux dieu qui avait usurpé la lune.\nPendant des siècles, de prétendus érudits se sont prosternés devant six interdictions cardinales, leurs études n'étant rien de plus qu'un raisonnement circulaire et des paroles creuses. La quête de la vérité ne devrait connaître aucune limite. Par cette mesure, ceux que le monde condamne comme hérétiques sont les plus authentiques chercheurs de savoir.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Reste flétri de l'aile du cauchemar",
+    "Description": "Une relique osseuse d'un noir profond, prélevée sur la corruption persistante laissée après la défaite du Seigneur chuchoteur de cauchemars qui avait envahi notre monde depuis l'au-delà.\nCette bête informe qui planait dans le vide sans étoiles n'aurait jamais dû avoir besoin d'organes que ce monde nomme « ailes ». Ces appendices grotesques et profanes sont peut-être apparus pour s'adapter aux lois sous la lune, ou ne sont-ils que le fragment déformé de sa véritable forme que les yeux mortels peuvent percevoir.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113084"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -37681,7 +38233,7 @@
     "RankLevel": 2,
     "ItemType": 2,
     "Name": "Fragment d'appareil artistique",
-    "Description": "Matériau d'élévation d'arme.\nUn dispositif sophistiqué autrefois appelé « Sept outils du grand voleur ». Les rumeurs disent qu'il a été fabriqué par le voleur légendaire, Reed Miller.\nTout comme les premiers Pilleurs de trésors venaient de tous horizons, cette combinaison d'outils a été conçue pour briser des limites artificielles, chaînes ou frontières.\nIl convient d'observer que ce dispositif contient plus de sept outils, mais que les gens ont l'habitude d'utiliser le chiffre sept pour dire qu'il y en a beaucoup. Peut-être est-ce pour la même raison qu'on croit qu'il n'existe que sept formes d'ordre dans le monde ?",
+    "Description": "Matériau d'élévation d'arme.\nUn dispositif sophistiqué autrefois appelé « Sept outils du grand voleur ». Les rumeurs disent qu'il a été fabriqué par le maître voleur, Reed Miller.\nTout comme les premiers Pilleurs de trésors venaient de tous horizons, cette combinaison d'outils a été conçue pour briser des limites artificielles, chaînes ou frontières.\nIl convient d'observer que ce dispositif contient plus de sept outils, mais que les gens ont l'habitude d'utiliser le chiffre sept pour dire qu'il y en a beaucoup. Peut-être est-ce pour la même raison qu'on croit qu'il n'existe que sept formes d'ordre dans le monde ?",
     "TypeDescription": "Matériau d'élévation d'arme",
     "Icon": "UI_ItemIcon_114073"
   },
@@ -37692,7 +38244,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Réplique d'appareil artistique",
-    "Description": "Matériau d'élévation d'arme.\nLes outils du grand bandit ont été copiés par de nombreuses personnes, et son nom n'a pas été épargné non plus.\nDans un sens, ce ne sont pas les personnes souhaitant quelque chose qui ont volé le nom de Reed Miller, mais plutôt Reed Miller qui a volé l'identité qui était la leur à l'origine. Il n'y a pas de différente entre ces deux points de vue.",
+    "Description": "Matériau d'élévation d'arme.\nLes outils du maître voleur ont été copiés par de nombreuses personnes, et son nom n'a pas été épargné non plus.\nDans un sens, ce ne sont pas les personnes souhaitant quelque chose qui ont volé le nom de Reed Miller, mais plutôt Reed Miller qui a volé l'identité qui était la leur à l'origine. Il n'y a pas de différente entre ces deux points de vue.",
     "TypeDescription": "Matériau d'élévation d'arme",
     "Icon": "UI_ItemIcon_114074"
   },
@@ -37703,7 +38255,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Succession d'appareil artistique",
-    "Description": "Matériau d'élévation d'arme.\nOn raconte que Reed Miller le voleur légendaire a été condamné à mort plusieurs fois, mais qu'il a toujours réussi à s'échapper à la dernière minute grâce à ses amis et à ses outils.\nDans certaines versions de ces récits, plusieurs de ses disciples mourraient volontairement à la place de leur vénéré Monarque de l'Élysium. Évidemment, elles ne pouvaient pas rivaliser les histoires romanesques et satisfaisantes après avoir bu quelques verres d'alcool. Puisqu'il n'y a jamais eu d'entraves capables d'emprisonner le voleur légendaire, il est naturel de supposer qu'aucune fin ne peut en faire autant.",
+    "Description": "Matériau d'élévation d'arme.\nOn raconte que Reed Miller le maître voleur a été condamné à mort plusieurs fois, mais qu'il a toujours réussi à s'échapper à la dernière minute grâce à ses amis et à ses outils.\nDans certaines versions de ces récits, plusieurs de ses disciples mourraient volontairement à la place de leur vénéré Monarque de l'Élysium. Évidemment, elles ne pouvaient pas rivaliser les histoires romanesques et satisfaisantes après avoir bu quelques verres d'alcool. Puisqu'il n'y a jamais eu d'entraves capables d'emprisonner le voleur légendaire, il est naturel de supposer qu'aucune fin ne peut en faire autant.",
     "TypeDescription": "Matériau d'élévation d'arme",
     "Icon": "UI_ItemIcon_114075"
   },
@@ -37747,7 +38299,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Flamme de silex de longue nuit",
-    "Description": "Matériau d'élévation d'arme.\nLe symbole des Gardiens de lumière est un rossignol tenant une mèche de bougie en feu dans son bec.\nOn raconte que ce symbole appartenait autrefois à une célèbre maison d'aristocrates du royaume du nord. Dans l'ombre, un garçon, qui deviendra un voleur légendaire, sculpta avec son ami son premier insigne de corbeau en s'inspirant du rossignol.\nMais cela remonte à longtemps. Aujourd'hui, le symbole du corbeau peut être vu partout, mais le rossignol que le corbeau regardait jadis demeure dans sa tour, chantant tout bas la lamentation de la ville de l'hiver à la lumière.",
+    "Description": "Matériau d'élévation d'arme.\nLe symbole des Gardiens de lumière est un rossignol tenant une mèche de bougie en feu dans son bec.\nOn raconte que ce symbole appartenait autrefois à une célèbre maison d'aristocrates du royaume du nord. Dans l'ombre, un garçon, qui deviendra un maître voleur, sculpta avec son ami son premier insigne de corbeau en s'inspirant du rossignol.\nMais cela remonte à longtemps. Aujourd'hui, le symbole du corbeau peut être vu partout, mais le rossignol que le corbeau regardait jadis demeure dans sa tour, chantant tout bas la lamentation de la ville de l'hiver à la lumière.",
     "TypeDescription": "Matériau d'élévation d'arme",
     "Icon": "UI_ItemIcon_114079"
   },
@@ -38243,6 +38795,28 @@
     "ItemType": 2,
     "Name": "Reliquaire des profondeurs - Catégorie I",
     "Description": "Un reliquaire utilisé pour ranger des artéfacts. Que celui qui le voit soit miraculé.\n\nChaque reliquaire vous accordera un artéfact des sets suivants :\n· Nuit de la révélation céleste\n· Sérénade de la lune soyeuse",
+    "TypeDescription": "Reliquaire",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117026,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Reliquaire des profondeurs - Catégorie II",
+    "Description": "Un reliquaire utilisé pour ranger des artéfacts. Que celui qui le voit soit béni.\n\nChaque reliquaire vous accordera un artéfact des sets suivants :\n· Aubade d'astre et de lune\n· Journée sculptée par les vents ascendants\n· Berserker\n· Instructeur\n· Exilé",
+    "TypeDescription": "Reliquaire",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117027,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Reliquaire des profondeurs - Catégorie I",
+    "Description": "Un reliquaire utilisé pour ranger des artéfacts. Que celui qui le voit soit miraculé.\n\nChaque reliquaire vous accordera un artéfact des sets suivants :\n· Aubade d'astre et de lune\n· Journée sculptée par les vents ascendants",
     "TypeDescription": "Reliquaire",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -44650,6 +45224,17 @@
     "Icon": "UI_ItemIcon_129002"
   },
   {
+    "Rank": 0,
+    "MaterialType": 2,
+    "Id": 129003,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Fleur de la prière lunaire de Columbina",
+    "Description": "Une fleur de la prière lunaire offerte par Columbina, qui dégage un parfum à la fois pur et éthéré, semblable à celles que vous aviez vues dans le Hall d'argenlune.\nElle ravive le souvenir d'une histoire maintes fois contée et annonce le début d'un nouveau chapitre. Cette fois-ci, elle ne perdra plus jamais ses couleurs.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_129003"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 120753,
@@ -48876,6 +49461,17 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121316,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Plaisanterie du mémorialiste",
+    "Description": "Une fleur artificielle tachée de rouille. On raconte qu'il s'agit d'un souvenir de Reed Miller, le fondateur des Pilleurs de trésors.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121319"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121317,
     "RankLevel": 0,
     "ItemType": 2,
@@ -48883,6 +49479,17 @@
     "Description": "Une plume aussi sombre que la nuit. On dit qu'il s'agit d'un souvenir de Reed Miller, le fondateur des Pilleurs de trésors.",
     "TypeDescription": "Objet de quête",
     "Icon": "UI_ItemIcon_121317"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121318,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Lamentation du dévot",
+    "Description": "Une montre arrêtée depuis longtemps. On raconte qu'il s'agit d'un souvenir de Reed Miller, le fondateur des Pilleurs de trésors.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121320"
   },
   {
     "Rank": 10,
@@ -48949,6 +49556,17 @@
     "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121326,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Volant de rechange d'abri",
+    "Description": "Un volant de secours utilisé pour l'entretien du système de purification de l'apocalypse. Il ne présente aucun signe de rouille, mais pour une raison inexpliquée, il dégage encore une légère odeur persistante de fer.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121326"
   },
   {
     "Rank": 10,
@@ -49405,6 +50023,61 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121378,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Clé en or",
+    "Description": "Une clé en or étincelante. La clé elle-même vaut une fortune.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121378"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121379,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Clé en argent",
+    "Description": "Une clé en argent étincelante. Moins précieuse que celle en or, mais elle est loin d'être ordinaire.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121379"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121380,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Clé en fer",
+    "Description": "Une simple clé en fer, l'une des clés les plus ordinaires et faciles à trouver qui soient.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121380"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121381,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Clé en fer",
+    "Description": "Une simple clé en fer, l'une des clés les plus ordinaires et faciles à trouver qui soient.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121381"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121382,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Sapèque étrange",
+    "Description": "Une pièce qui ressemble à une sapèque ordinaire, bien qu'il puisse s'agir d'une variante différente.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121382"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121383,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49568,6 +50241,39 @@
     "Icon": "UI_ItemIcon_71700047"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121403,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Pomme de pin vieillie",
+    "Description": "Une vieille graine qui n'est plus fraîche depuis longtemps. Même en temps de disette, ce n'est probablement pas une bonne idée de la manger.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100020"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121404,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Seigle vieilli",
+    "Description": "Des grains brun-gris dégageant une légère odeur de moisissure...",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121405,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Viande mystérieuse",
+    "Description": "Un morceau de viande fraîche qui émet une odeur mystérieuse. Quel goût peut-il bien avoir ?",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100061"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121406,
@@ -49599,6 +50305,28 @@
     "Description": "Une somme d'argent prise du coffre contenant les fonds du Curatorium des secrets. L'argent ne tombe pas du ciel, alors dépensez-le sagement...",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121409,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "#Daguerréotype « Flash instantané{NON_BREAK_SPACE}»",
+    "Description": "Un Daguérreotype personnalisé équipé du dernier objectif « flash instantané » de Lépine-Pauline.\nSes mécanismes internes complexes peuvent figer en un instant le battement des ailes d'un oiseau ou l'éclair d'un coup d'épée. Il capture les mouvements les plus rapides et reconstitue les scènes les plus précieuses, y compris tous les moments qui méritent d'être remémorés lors des retrouvailles entre amis.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_220094"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121410,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Conque de béryl la plus brillante",
+    "Description": "Vous avez promis à Puca que vous sélectionneriez et rassembleriez soigneusement les conques de béryl les plus brillantes et les plus éclatantes pour elle.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_101232"
   },
   {
     "Rank": 10,
@@ -49711,6 +50439,28 @@
     "Icon": "UI_ItemIcon_121426"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121439,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Aspiration",
+    "Description": "Dans les histoires des conteurs, les gens confiaient leurs vœux aux lanternes célestes avant de les laisser s'envoler dans le ciel. Mais il fut un temps où les démons cherchaient à dévorer ces souhaits. Grâce à l'intervention d'une Adepte, leur ascension fut assurée...",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121439"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121440,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lumière lunaire",
+    "Description": "Dans les histoires des conteurs, il existait autrefois de puissants démons capables de dévorer le clair de lune. Pour récupérer l'éclat qu'ils avaient englouti, cette Adepte s'est battue maintes fois...",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121440"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121441,
@@ -49720,6 +50470,226 @@
     "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121454,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "L'Adepte cheval blanc rencontre l'Adepte cheval blanc au Port de Liyue",
+    "Description": "Une photo nommée par Paimon, immortalisant un moment de rire partagé entre trois amis.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121454"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121455,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Poème ancien",
+    "Description": "Poème ancien",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100214"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121456,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Carnet de Sandrone",
+    "Description": "Une relique de Sandrone, qui vous a été transmise par Arlecchino. Ses pages contiennent de nombreuses informations sur Sandrone.\nBien que sa couverture et ses pages soient usées par le temps, on peut facilement voir à quel point sa propriétaire y tenait.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_120275"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121458,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Boîte spéciale de sculpture en sucre",
+    "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121459,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Boîte spéciale de sculpture en sucre",
+    "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 25029,
+    "MaterialType": 78,
+    "Id": 121462,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Objet ayant perdu son pouvoir",
+    "Description": "Un objet curieux dont le pouvoir s'est évanoui. Façonné à partir de jade fin et de bronze, il attend désormais paisiblement le moment où il pourra briller à nouveau.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_121462"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121463,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Seigle frais",
+    "Description": "Du seigle fraîchement récolté qui dégage un parfum chaud et réconfortant. Sa richesse ne peut être révélée que par la mouture et la torréfaction.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121465,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "« La première sapèque »",
+    "Description": "Une vieille sapèque sur laquelle est gravé un emblème stylisé de corbeau. La légende raconte qu'elle fut forgée par Reed Miller, fondateur des Pilleurs de trésors, et qu'elle fut la toute première véritable sapèque.\nDans un monde sans frontières, dans un Élysium où personne n'aurait faim ni froid, l'or accordé et gouverné par Deus Auri n'avait jamais été destiné à servir de fondement à la coopération humaine.\nLes humains devraient être les maîtres de l'argent, et non ses esclaves. Même s'il n'était pas possible de devenir le maître du cœur d'or, chacun devrait avoir le droit de disposer de la richesse qui, à l'origine, appartenait à tous.\n\nHélas, c'était une histoire d'une époque bien plus tardive. Qu'il s'agisse de la première pièce de fer ou des idéaux chantés, interprétés et déformés au fil des siècles suivants,\ntout a commencé par une nuit d'hiver, hors de portée de la lumière des lampes, lorsque deux enfants se sont faufilés hors de l'académie, se cachant du regard des adultes, pour graver un jeton destiné à jouer au grand bandit.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121438"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121466,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "L'Adepte cheval blanc rencontre l'Adepte cheval blanc au Port de Liyue",
+    "Description": "Une photo nommée par Paimon, immortalisant un moment de rire partagé entre trois amies.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121466"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121467,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mèche d'argent",
+    "Description": "Une lampe sacrée capable de former une barrière protectrice, désormais éteinte après avoir épuisé son énergie.\nAutrefois, il s'agissait d'un vase rituel des Descendants de givrelune, qui apportait rêves et chants aux âmes perdues errant sur les terres désolées. Si cette lampe a survécu jusqu'à nos jours, c'est uniquement parce qu'elle a été abandonnée dans la tour figée par le temps.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121467"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121468,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mèche d'argent",
+    "Description": "Une lampe sacrée capable de former une barrière protectrice, dont la faible lueur perce à peine l'obscurité.\nAutrefois, il s'agissait d'un vase rituel des Descendants de givrelune, qui apportait rêves et chants aux âmes perdues errant sur les terres désolées. Si cette lampe a survécu jusqu'à nos jours, c'est uniquement parce qu'elle a été abandonnée dans la tour figée par le temps.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121468"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121469,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mèche d'argent",
+    "Description": "Une lampe sacrée capable de former une barrière protectrice, sa faible lueur scintillant paisiblement.\nAutrefois, il s'agissait d'un vase rituel des Descendants de givrelune, qui apportait rêves et chants aux âmes perdues errant sur les terres désolées. Si cette lampe a survécu jusqu'à nos jours, c'est uniquement parce qu'elle a été abandonnée dans la tour figée par le temps.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121469"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121470,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mèche d'argent",
+    "Description": "Une lampe sacrée capable de former une barrière protectrice, débordante d'énergie et brillant d'un vif éclat.\nAutrefois, il s'agissait d'un vase rituel des Descendants de givrelune, qui apportait rêves et chants aux âmes perdues errant sur les terres désolées. Si cette lampe a survécu jusqu'à nos jours, c'est uniquement parce qu'elle a été abandonnée dans la tour figée par le temps.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121470"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121475,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Clé perdue",
+    "Description": "Cette clé pourrait ouvrir une porte quelque part.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100302"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121476,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Carte d'accès de l'abri (basique)",
+    "Description": "Une carte d'accès obtenue d'un terminal particulier situé à l'ouest de Piramida. Son apparence n'a rien de spécial.\nD'après ce qu'on vous a dit, elle devrait permettre d'accéder à l'abri sous le terminal.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121477,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Carte d'accès de l'abri (intermédiaire)",
+    "Description": "#Une carte d'accès obtenue sur un site d'expérimentation. Son apparence n'a rien de spécial.\nDu texte snezhnayien est imprimé à sa surface de manière soignée{NON_BREAK_SPACE}: «{NON_BREAK_SPACE}Technicien de maintenance aîné Aleksey Zakharevich Kotelnikov{NON_BREAK_SPACE}».",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121478,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Carte d'accès de l'abri (avancée)",
+    "Description": "#Une carte d'accès obtenue sur un site d'expérimentation. Son apparence n'a rien de spécial.\nDu texte snezhnayien est imprimé à sa surface de manière soignée : «{NON_BREAK_SPACE}Chercheuse en chef Grazina Myklukho ».",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bref historique de ceux nés de l'étoile pâle",
+    "Description": "Un livre sur l'histoire des nivéoles. D'après certains détails qu'il contient, on pense qu'il a été écrit par des anciens du peuple nivéole.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Murmures nocturnes de la frontière lointaine : Varcolac",
+    "Description": "Un recueil de contes populaires circulant à Snezhnaya, censé rassembler toutes sortes d'histoires de créatures nivéoles méconnues. Ce volume raconte l'histoire d'une dangereuse créature nivéole connue sous le nom de varcolac.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Contes portés par le vent du nord",
+    "Description": "Un recueil de poèmes relatant les exploits des différents starshynas. La majeure partie de son contenu a été perdue lors de catastrophes passées et seule une petite fraction des fragments originaux a pu être retrouvée.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -50182,6 +51152,28 @@
     "Description": "Une graine obtenue dans la boîte à graines. Une graine de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra une lakkabaie.",
     "TypeDescription": "Matériau",
     "Icon": "UI_ItemIcon_130042"
+  },
+  {
+    "Rank": 248,
+    "MaterialType": 31,
+    "Id": 130043,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Graine de glacelée d'hiver",
+    "Description": "Une graine obtenue dans la boîte à graines. Une graine de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra une glacelée d'hiver.",
+    "TypeDescription": "Matériau",
+    "Icon": "UI_ItemIcon_130043"
+  },
+  {
+    "Rank": 247,
+    "MaterialType": 31,
+    "Id": 130044,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Graine d'ambre de pin",
+    "Description": "Une graine obtenue dans la boîte à graines. Une graine de qualité, pleine de vie, qui n'attend qu'à être plantée dans les champs de votre royaume intérieur. Après un certain temps, elle deviendra un ambre de pin.",
+    "TypeDescription": "Matériau",
+    "Icon": "UI_ItemIcon_130044"
   },
   {
     "Rank": 341,
@@ -52500,7 +53492,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 157",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Bustling Port Market ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52511,7 +53503,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 158",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Unfurling Night ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52522,7 +53514,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 159",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Sails Set With Eagerness ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52533,7 +53525,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 160",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Mayskaya Noch' ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52544,7 +53536,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 161",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Fields After Dusk ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52555,7 +53547,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 162",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Kathisma Chrysopoleo ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52566,7 +53558,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 163",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Hymn to the Moon ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52577,7 +53569,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 164",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « From Beyond ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52588,7 +53580,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 165",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Solitary Silhouette ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52599,7 +53591,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 166",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Rosy Marshland ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52610,7 +53602,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 167",
-    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Forbidding Ground ».",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52621,6 +53613,94 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gyrocristal radiant 168",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Raised on Fallen Meteorites ».",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 169",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 170",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 171",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 172",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 173",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 174",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 175",
+    "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
+    "TypeDescription": "Objet d'aventure",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gyrocristal radiant 176",
     "Description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Nod-Krai.",
     "TypeDescription": "Objet d'aventure",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -52855,6 +53935,39 @@
     "Description": "Elle s'envole emportant vos souhaits au loin.",
     "TypeDescription": "Matériau du Festival des lanternes",
     "Icon": "UI_ItemIcon_200004"
+  },
+  {
+    "Rank": 15135,
+    "MaterialType": 21,
+    "Id": 200005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterne céleste célébratoire",
+    "Description": "Une lanterne céleste spéciale, fabriquée par le Bureau des affaires civiles. Elle peut être équipée dans un emplacement d'objet et utilisée au Port de Liyue pour lâcher la lanterne céleste correspondante.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200005"
+  },
+  {
+    "Rank": 15136,
+    "MaterialType": 21,
+    "Id": 200006,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterne céleste festive",
+    "Description": "Une lanterne céleste spéciale, fabriquée par le Bureau des affaires civiles. Grâce à ce genre de lanternes célestes, vous pouvez envoyer divers cadeaux à vos compagnons. Elle peut être équipée dans un emplacement d'objet et utilisée au Port de Liyue pour lâcher la lanterne céleste correspondante.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200006"
+  },
+  {
+    "Rank": 15137,
+    "MaterialType": 21,
+    "Id": 200007,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Manuel d'envol des lanternes célestes",
+    "Description": "Un manuel publié par le Bureau des affaires civiles, détaillant des techniques spéciales pour le lâcher de lanternes célestes. En suivant ses instructions, vous pourrez peut-être lâcher des lanternes dans une formation unique.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200007"
   },
   {
     "Rank": 430061,
@@ -54271,7 +55384,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Boîte à graines",
-    "Description": "Une boîte magique obtenue auprès de Madame Ping. Selon elle, cette boîte a le pouvoir de « générer des graines »... C'est-à-dire qu'elle peut créer des graines de diverses plantes selon leurs caractéristiques particulières, qui peuvent ensuite être plantées dans les champs appropriés de votre Sérénithéière.\nLes plantes qui peuvent être semées sont les suivantes : fleur de soie, fleur sucrante, cécilia, lys vernis, chrysanthème à aubes, fleur de Qingxin, muguet bleu, tombaie, herbe à lampe, piment de Jueyun, carotte, radis, menthe, champignon, herbe à sanglots, queue de cheval, gueule-de-loup, fruit du lotus, lys calla, herbe marine, ganoderma marin, fruit harra, pêche zaytun, rose sumérienne, lotus pluvieux, marcotte, clochette de Lumidouce, rose arc-en-ciel, granifruit, cacahuatl, patte saurienne, baie de quenettier, chrysanthème brillant, branchie mousseplume, champicorne brillant, floraigemme brise-ciel, fleur lampe-de-givre, baie du solstice et lakkabaie.",
+    "Description": "Une boîte magique obtenue auprès de Madame Ping. Selon elle, cette boîte a le pouvoir de « générer des graines »... C'est-à-dire qu'elle peut créer des graines de diverses plantes selon leurs caractéristiques particulières, qui peuvent ensuite être plantées dans les champs appropriés de votre Sérénithéière.\nLes plantes qui peuvent être semées sont les suivantes : fleur de soie, fleur sucrante, cécilia, lys vernis, chrysanthème à aubes, fleur de Qingxin, muguet bleu, tombaie, herbe à lampe, piment de Jueyun, carotte, radis, menthe, champignon, herbe à sanglots, queue de cheval, gueule-de-loup, fruit du lotus, lys calla, herbe marine, ganoderma marin, fruit harra, pêche zaytun, rose sumérienne, lotus pluvieux, marcotte, clochette de Lumidouce, rose arc-en-ciel, granifruit, cacahuatl, patte saurienne, baie de quenettier, chrysanthème brillant, branchie mousseplume, champicorne brillant, floraigemme brise-ciel, fleur lampe-de-givre, baie du solstice, lakkabaie, ambre de pin et glacelée d'hiver.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220033"
   },
@@ -55242,6 +56355,17 @@
     "Description": "Un dictionnaire que vous avez obtenu auprès d'Alice. Il a été écrit collectivement par les sorcières. Bien qu'il soit officiellement présenté comme une série d'annotations au conte « La petite sorcière et le feu inextinguible », il s'agit en réalité d'une série de questions conçues par l'Hexenzirkel pour chaque lecteur.\nOn dit qu'« aller à contre-courant constitue l'essence même de l'apprentissage. ». Embarquez pour votre voyage avec vos compagnons et partez à la recherche de la couronne de l'élévation !",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220126"
+  },
+  {
+    "Rank": 25028,
+    "MaterialType": 21,
+    "Id": 220127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Canopée de jade",
+    "Description": "Imprégnée de l'énergie des lignes énergétiques, la canopée de jade a été infusée de puissance spirituelle. Elle peut invoquer un chariot de jade qui permet de voyager rapidement vers des lieux éloignés.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220127"
   },
   {
     "Rank": 300201,
@@ -56526,7 +57650,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Salle d'étude de Feiyun",
-    "Description": "Étapes de mise en place de la salle d'étude de Feiyun.\nIl existe de nombreuses façons de concevoir une étude à Liyue, mais le luxe est facultatif, car les érudits préfèrent l'« esprit » et l'« élégance ». Une plante en pot régule l'humidité de la pièce. La table et les étagères dégagent un léger parfum boisé qui se combine avec l'agencement simple et la lueur tamisée des lampes pour inspirer le génie et élever l'écriture.\nOn raconte qu'il y a de nombreuses années, un certain invité de la Pente Feiyun a présenté une telle étude, et que cette conception a ensuite été reprise par l'ancien patron de la Librairie Wanwen. Ainsi, le nom de salle d'étude de Feiyun lui a été attribué et elle est devenue reconnue dans tout Liyue.\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\nCompagnons préférant ce set : Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan.",
+    "Description": "Étapes de mise en place de la salle d'étude de Feiyun.\nIl existe de nombreuses façons de concevoir une étude à Liyue, mais le luxe est facultatif, car les érudits préfèrent l'« esprit » et l'« élégance ». Une plante en pot régule l'humidité de la pièce. La table et les étagères dégagent un léger parfum boisé qui se combine avec l'agencement simple et la lueur tamisée des lampes pour inspirer le génie et élever l'écriture.\nOn raconte qu'il y a de nombreuses années, un certain invité de la Pente Feiyun a présenté une telle étude, et que cette conception a ensuite été reprise par l'ancien patron de la Librairie Wanwen. Ainsi, le nom de salle d'étude de Feiyun lui a été attribué et elle est devenue reconnue dans tout Liyue.\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\nCompagnons préférant ce set : Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan, Zibai.",
     "TypeDescription": "Plan de set de décorations",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -56625,7 +57749,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Résidence des nuages de Qingce",
-    "Description": "Étapes de mise en place de la résidence des nuages de Qingce.\nUn hameau de montagne inspiré du Village de Qingce. On dit que l'atmosphère amicale y est contagieuse et que les visiteurs qui y pénètrent se trouveront plus calmes et plus attentifs aux joies simples qu'ils ont peut-être autrefois oubliées.\nPartir à la poursuite de ses idéaux et passer ses années à chasser une carrière est certainement louable. Mais après avoir passé beaucoup de temps à faire de telles choses, on peut éventuellement se sentir fatigué, et une fois que cela se produit, une vie calme et paisible à la campagne peut rester un bon choix. Le Village de Qingce a toujours maintenu son acceptation de ces jeunes gens qui partent chercher fortune et est prêt à les accueillir de nouveau à bras ouverts à tout moment.\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\nCompagnons préférant ce set : Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun.",
+    "Description": "Étapes de mise en place de la résidence des nuages de Qingce.\nUn hameau de montagne inspiré du Village de Qingce. On dit que l'atmosphère amicale y est contagieuse et que les visiteurs qui y pénètrent se trouveront plus calmes et plus attentifs aux joies simples qu'ils ont peut-être autrefois oubliées.\nPartir à la poursuite de ses idéaux et passer ses années à chasser une carrière est certainement louable. Mais après avoir passé beaucoup de temps à faire de telles choses, on peut éventuellement se sentir fatigué, et une fois que cela se produit, une vie calme et paisible à la campagne peut rester un bon choix. Le Village de Qingce a toujours maintenu son acceptation de ces jeunes gens qui partent chercher fortune et est prêt à les accueillir de nouveau à bras ouverts à tout moment.\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\nCompagnons préférant ce set : Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun, Zibai.",
     "TypeDescription": "Plan de set de décorations",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70684,6 +71808,270 @@
     "ItemType": 2,
     "Name": "Maître-belette",
     "Description": "Étapes de fabrication du maître-belette.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381344,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Murmures au clair de lune »",
+    "Description": "#Étapes de fabrication des «{NON_BREAK_SPACE}Murmures au clair de lune{NON_BREAK_SPACE}».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382277,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Brancard simple « Transport en douceur »",
+    "Description": "Étapes de fabrication du brancard simple « Transport en douceur ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382278,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Boisson à volonté",
+    "Description": "Étapes de fabrication de la boisson à volonté.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382133,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« À mes compagnons »",
+    "Description": "Étapes de fabrication de « À mes compagnons ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lit de convalescence simple",
+    "Description": "Étapes de fabrication du lit de convalescence simple.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384226,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bannière de Piramida",
+    "Description": "Étapes de fabrication de la bannière de Piramida.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391014,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Barrière métallique réglable",
+    "Description": "Étapes de fabrication de la barrière métallique réglable.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391015,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Solitude de la cité vigilante »",
+    "Description": "#Étapes de fabrication de la «{NON_BREAK_SPACE}Solitude de la cité vigilante{NON_BREAK_SPACE}».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391016,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Refuge de la cité vigilante »",
+    "Description": "Étapes de fabrication du « Refuge de la cité vigilante ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391017,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Coin à soi",
+    "Description": "Étapes de fabrication du coin à soi.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391018,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Soin de la cité vigilante »",
+    "Description": "Étapes de fabrication du « Soin de la cité vigilante ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391019,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "« Forge de la cité vigilante »",
+    "Description": "Étapes de fabrication de la « Forge de la cité vigilante ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391020,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "« Starshyna en marche »",
+    "Description": "#Étapes de fabrication du «{NON_BREAK_SPACE}Starshyna en marche{NON_BREAK_SPACE}».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394332,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chaleur accueillante",
+    "Description": "Étapes de fabrication de la chaleur accueillante.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394642,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Commandement déterminé",
+    "Description": "Étapes de fabrication du commandement déterminé.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Râtelier d'armes simple « Utilisation pratique »",
+    "Description": "Étapes de fabrication du râtelier d'armes simple « Utilisation pratique ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cabane mobile lumineuse",
+    "Description": "Étapes de fabrication de la cabane mobile lumineuse.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Scintillement de vie",
+    "Description": "Étapes de fabrication du scintillement de vie.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393223,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Luxuriance florissante",
+    "Description": "Étapes de fabrication de la luxuriance florissante.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393224,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Verdure florissante",
+    "Description": "Étapes de fabrication de la verdure florissante.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380469,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampe légère en métal",
+    "Description": "Étapes de fabrication de la lampe légère en métal.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380470,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "#Lampadaire debout « Efficience max{NON_BREAK_SPACE}»",
+    "Description": "Étapes de fabrication du lampadaire debout « Efficience max ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380471,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterne céleste éclatante « Que mon vœu aille loin »",
+    "Description": "Étapes de fabrication de la lanterne céleste éclatante « Que mon vœu aille loin ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380472,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterne céleste éclatante « À la prochaine, mes amis »",
+    "Description": "Étapes de fabrication de la lanterne céleste éclatante « À la prochaine, mes amis ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
     "TypeDescription": "Plan de décoration",
     "Icon": "UI_ItemIcon_Home_Common"
   }

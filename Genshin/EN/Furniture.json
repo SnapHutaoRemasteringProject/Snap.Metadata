@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Columbina",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "A Path of Value: Jade Field",
-    "Description": "An orderly field that is saturated with Sub-Space Creation energy. The fertile soil has almost unlimited nutrition, and thus seeds planted here will grow into excellent crops in time without much need for intensive care. However, crops placed here will tend to put long roots down, so you cannot put too many crops in here if you wish to give them all sufficient room to grow.\nThe following seeds, spores, and samples obtained from the Seed Dispensary may be planted here: Valberry, Sweet Flower, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Harra Fruit, Zaytun Peach, Marcotte, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Glowing Hornshroom, Lakkaberry, Midsommar Berry.",
+    "Description": "An orderly field that is saturated with Sub-Space Creation energy. The fertile soil has almost unlimited nutrition, and thus seeds planted here will grow into excellent crops in time without much need for intensive care. However, crops placed here will tend to put long roots down, so you cannot put too many crops in here if you wish to give them all sufficient room to grow.\nThe following seeds, spores, and samples obtained from the Seed Dispensary may be planted here: Valberry, Sweet Flower, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Harra Fruit, Zaytun Peach, Marcotte, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Glowing Hornshroom, Lakkaberry, Midsommar Berry, Pine Amber.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "A Path of Value: Luxuriant Glebe",
-    "Description": "An orderly field saturated with Sub-Space Creation energy. The fertile soil boasts almost unlimited nutrition, and thus seeds planted here will grow into excellent flowers in time without much need for intensive care. However, flowers planted here tend to put down long roots, so you cannot place too many of them in here if you wish to give them all sufficient room to grow.\nThe following seeds, spores, and samples obtained from the Seed Dispensary may be planted here: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom, Frostlamp Flower.",
+    "Description": "An orderly field saturated with Sub-Space Creation energy. The fertile soil boasts almost unlimited nutrition, and thus seeds planted here will grow into excellent flowers in time without much need for intensive care. However, flowers planted here tend to put down long roots, so you cannot place too many of them in here if you wish to give them all sufficient room to grow.\nThe following seeds, spores, and samples obtained from the Seed Dispensary may be planted here: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom, Frostlamp Flower, Winter Icelea.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Chestnut Goat: Cool Mint",
     "Description": "A breed of goat native to Nod-Krai. Its horns and markings look like they've been applied with a generous spread of mint juice.\nAfter moving into the Serenitea Pot, their fleece has grown ever fluffier. Come shedding season, a gentle \"fluff drizzle\" falls all around them...\nFor reasons unknown, some animals that enter the Realm Within retain their peculiar appearance shaped by the force of kuuvahki. To help Tubby identify them, Paimon has thoughtfully given them new names based on said appearance...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained through capture"
+    ],
+    "Id": 369222,
+    "Name": "Thornback Gecko",
+    "Description": "A rather agile and flexible gecko. Its toe pads provide enough suction to help it climb up walls.\nThough this creature has continued to live inside rock crevices after arriving at The Realm Within, the threat posed by its natural predators has been greatly reduced. As a result, it is now also able to stay active outside for longer periods of time.\nFor some unknown reason, even after coming to The Realm Within, certain creatures have retained the unique appearances that were previously formed under the influence of kuuvahki...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained through capture"
+    ],
+    "Id": 369223,
+    "Name": "Cinderneck Stork",
+    "Description": "A bird with an elegant gait. Its golden-gray feathers accentuate its slender, graceful silhouette.\nDue to its elegant bearing, some creatures would deliberately provoke it just to watch its defensive warning display, which resembles a dance. Naturally, this behavior is now strictly prohibited by Tubby.\nFor some unknown reason, even after coming to The Realm Within, certain creatures have retained the unique appearances that were previously formed under the influence of kuuvahki...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained through capture"
+    ],
+    "Id": 369224,
+    "Name": "Crowned Eagle",
+    "Description": "A sharp-eyed eagle whose noble crown further enhances its regal bearing.\nThe crowned eagle excels at circling high above its prey. Due to its strong build and wide wingspan, its dive attacks are particularly lethal. In The Realm Within, where food is plentiful, it rarely hunts. However, it still frequently circles high in the skies to show off its beautiful crest...\nFor some unknown reason, even after coming to The Realm Within, certain creatures have retained the unique appearances that were previously formed under the influence of kuuvahki...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -53981,7 +54119,7 @@
     ],
     "Id": 374641,
     "Name": "Vertical Bipolar Tri-Leg Tower",
-    "Description": "A quirky tri-leg tower found at the Clink-Clank Krumkake Craftshop.\nBelieved to be a repurposed relic from the golden age, its original function has long been lost to time. Now, it stands purely as a decorative structure.",
+    "Description": "A quirky three-legged tower found at the Clink-Clank Krumkake Craftshop.\nBelieved to be a repurposed machine from the Golden Era, its original function is now unknown. Now, it stands purely as a decorative structure.",
     "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
     "Rank": 90100
   },
@@ -54334,6 +54472,931 @@
     "Description": "A snowman modeled after Varesa, complete with her signature hero's mask. It faithfully captures her warmth and approachable spirit, without losing the passion that defines her.\nTo help guests from all across Teyvat relax and have fun, the creator of Jade Pitching designed this charming little companion. Though the snows of Dragonspine may be harsh, its presence brings a subtle warmth that lingers.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 361344,
+    "Name": "\"Whispers in the Moonlight\"",
+    "Description": "A table commonly found in Piramida. This simple square table is crafted entirely from sheet metal.\nEvery quiet evening, the Ratniki sit around a table like this, speaking in hushed tones. As for why they don't make too much noise, perhaps it's to avoid disturbing any roaming spirits that may be about?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 362277,
+    "Name": "Simple Stretcher: \"Steady Evacuation\"",
+    "Description": "A stretcher with a simple but highly functional design. A tool commonly used for medical transport by the Lightkeepers, it is constructed with two poles serving as carrying bars, connected by sturdy fabric between them.\nApart from the Lightkeepers, these stretchers are also utilized by civilians in Piramida to help those who have difficulty moving about on their own.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 362278,
+    "Name": "\"Bottoms Up\"",
+    "Description": "A large-capacity, easy-to-use metal beverage dispenser often utilized by the Lightkeepers.\nThese dispensers are common at gatherings, where they help ensure that every attendee can drink as much as they wish.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 362133,
+    "Name": "\"To a Friend\"",
+    "Description": "A metal bench commonly used among the Lightkeepers. Although it lacks a comfortable backrest, at least there is a cushion on the seat.\nEven amidst the boisterous clamor of revelry, a sudden melancholy can overcome one as they sit upon the bench with their comrades.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 361412,
+    "Name": "Simple Care Bed",
+    "Description": "A simple care bed commonly used by the Lightkeepers. It often conforms to the daily living habits and treatment needs of the wounded and bedridden.\nThis simple bed originally came with a crank to adjust the angle of the backrest. However, the people lying on the bed would often habitually and unconsciously turn the crank and make squeaking noises. The crank was removed quickly afterwards.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 364226,
+    "Name": "Flag of Piramida",
+    "Description": "A flag commonly seen around Piramida that bears the Lightkeepers' lighthouse symbol. The lighthouse represents the Lightkeepers' resolve to always hold up a beacon in the dark night and watch over the future.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 371014,
+    "Name": "Adjustable Metal Barrier",
+    "Description": "An adjustable metal barrier frequently seen around Piramida, commonly employed as a defensive measure.\nThis defensive apparatus can usually withstand a substantial number of attacks, but its drawback is equally evident: transporting it elsewhere demands considerable effort.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 371015,
+    "Name": "\"Solitude in the City of the Ever-Watchful\"",
+    "Description": "A structure frequently seen around Piramida, mostly built from sheet metal. While it does not offer much in terms of interior floor space, it is relatively cheap to construct.\n\"I'd rather be alone in a house like this than be crammed into a huge house with a dozen other people!\" said a gentleman who once lived in a building like this.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 371016,
+    "Name": "\"Shelter in the City of the Ever-Watchful\"",
+    "Description": "A structure frequently seen around Piramida, primarily constructed from sheet metal. Its curved roof gives it its distinctive appearance.\nAlthough these houses lack significant interior space or sophisticated exterior designs, they have sturdy structures that can serve as a shelter for many.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371017,
+    "Name": "\"A Corner of One's Own\"",
+    "Description": "An ordinary-looking makeshift structure featuring a yellow cloth canopy.\nThe materials are simple, and assembly is convenient. Every time an outdoor event has to be held on short notice, this type of structure can be used to quickly and effectively demarcate a little corner of one's own.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 371018,
+    "Name": "\"Care in the City of the Ever-Watchful\"",
+    "Description": "A relatively tall building commonly found in Piramida that often houses medical treatment facilities.\nAs the resident population of Piramida is by and large a healthy one, the area in front of the clinics is quiet and deserted most of the time. However, whenever the seasons change, there's always a brief surge in activity.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 371019,
+    "Name": "\"Forge in the City of the Ever-Watchful\"",
+    "Description": "An extremely tall structure commonly found in Piramida that bears a resemblance to towers. In Piramida, it is often where forging services are provided.\nEven when temperatures in Piramida reach their lowest, this spot offers a welcome source of warmth — sparks flying with every strike of the hammer, steam billowing from roaring boilers...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained with purchase of Battle Pass: Gnostic Chorus"
+    ],
+    "Id": 371020,
+    "Name": "\"Starshyna Walking\"",
+    "Description": "A large statue created in the likeness of a certain famous historical figure. The figure stands resolute, advancing with his sword drawn. Even those who pause to gaze upon it can perceive the determination and strength it conveys.\nIt is said that, as the Lightkeepers' very first Starshyna, he once walked through the endless night for the sole purpose of keeping watch over the people, seeking only the first glimmer of dawn — a sign of hope for all.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 371021,
+    "Name": "Lighthouse: \"Sunlight Through the Clouds\"",
+    "Description": "A model created in the likeness of the Lightkeepers' towering lighthouse. It stands, quiet but dignified, steady and reliable.\n\"Surely, once the dark clouds disperse, sunlight will break through the clouds, and we will no longer see monsters emerge under the cover of night,\" said Captain Illuga. Perhaps only when that day truly comes can all the Ratniki finally lay down their arms, step outside the lighthouse, and enjoy a holiday bathed in warm sunlight.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 374332,
+    "Name": "\"Warm and Cozy\"",
+    "Description": "A dining table with a wide tabletop. Its main body is primarily made of metal and features a hollow design, creating space for a small stove beneath the tabletop. This way, the food on the table will always be warm.\nTo enjoy a lavish feast and drink to their heart's content — surely this is the shared desire of everyone who sits at this table.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 374333,
+    "Name": "Sand Table: \"Advance Demo\"",
+    "Description": "A simple and practical sand table modeled after Grand Master Varka's.\n\"While we hesitate, the Abyss is already claiming countless lives. The earlier we march, the sooner we can change their fates.\" Intelligence is the cornerstone of any operation or expedition. By simulating possible scenarios on the sand table in advance, the casualties caused by marches or battles should be greatly reduced...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 374642,
+    "Name": "\"Command With Confidence\"",
+    "Description": "A tactical board commonly found in Piramida. Maps of various regions are often pasted on it for easy viewing during discussions.\nAlthough it is an extremely simple tool, it often plays an important role whenever clarity of thought or a view of the big picture is needed.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 374643,
+    "Name": "Simple Weapon Rack: \"Easy Access\"",
+    "Description": "A weapon rack with a relatively simple design, featuring designated spaces for placing both weapons and shields. \nMaking an effort to store various weapons by category ensures swift retrieval when one is called to move out at a moment's notice.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 374644,
+    "Name": "\"Lightkeepers' Moving Lighthouse\"",
+    "Description": "A highly mobile Moonwagon that has a rather unique appearance. Powered by kuuvahki, it is a mode of transport that the Lightkeepers created by modifying Snezhnayan mechanized vehicles.\nWhen night descends, the Ratniki often use it as a mobile lighthouse — a practice made convenient by its brilliant illumination.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Joint Meeting Point Construction: Meeting Point Level Reward"
+    ],
+    "Id": 374645,
+    "Name": "Witch Statue: \"A Magic Moment\"",
+    "Description": "This statue, created in the likeness of an angel, appears to have captured the intense vitality the angel possessed in one magic moment.\n\"Fate is always ineffable, and yet... I still hope I can guide those I meet towards a beautiful ending.\" Since every future moment is uncertain, capturing the present moment is perhaps a vital piece of \"homework\" for many.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374819,
+    "Name": "Auspicious Treasure Tree",
+    "Description": "This glittering ornamental plant, adorned with a multitude of golden Fortune Coins, is popular among the people of Liyue for its symbolic meaning of \"ushering in wealth and prosperity, filling the home with gold and jade.\"\n\"Say, if we fill the courtyard with these Auspicious Treasure Trees, wouldn't the next year be...\" is a line frequently heard among enthusiasts who are passionate about displaying them.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374820,
+    "Name": "Great Zhanzhu Lantern: \"Pathblocker\"",
+    "Description": "A big, exquisite lantern modeled after the dark-colored Zhanzhu, a character many children absolutely detest after hearing the story of \"Zhanzhu the Moon-Devourer.\"\nWhen this \"Pathblocker\" is standing in your way, do go around it. It can be quite a handful...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 374821,
+    "Name": "Great Zhanzhu Lantern: \"Pathblocker Maximus\"",
+    "Description": "A big, exquisite lantern modeled after the red Jade-Cradling Zhanzhu, a character many children absolutely detest after hearing the story of \"Zhanzhu the Moon-Devourer.\"\nShrink not when the Pathblocker Maximus stands in your way, for it can sense the fear in every person who approaches...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 374647,
+    "Name": "\"Shimmer of Life\"",
+    "Description": "A culture vessel of unknown purpose, connected by pipes to three transparent containers.\nIn the largest container, a fluorescent glow shimmers and floats, light and beautiful, just like life itself.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 373223,
+    "Name": "Lush Verdure",
+    "Description": "A large bonsai plant commonly found around the abandoned research institute. It is full of vitality — so green and lush that merely seeing it immediately lifts one's spirits.\nFor some reason, the plant seems perpetually brimming with life, so much so that one who doesn't know any better might ask if it's being watered with some special potion...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 373224,
+    "Name": "Bright Verdure",
+    "Description": "A small bonsai plant commonly found around the abandoned research institute. It is full of vitality — so green and lush that merely seeing it immediately lifts one's spirits.\nFor some reason, the plant seems perpetually brimming with life, so much so that one who doesn't know any better might ask if it's being watered with some special potion...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360469,
+    "Name": "Lightweight Metal Lamp",
+    "Description": "A lightweight lamp often used by the residents of Piramida. While it's not very bright, its light weight makes it easy to carry around.\nAs the sky grows dark, the children cease their play, grabbing their lamps to walk home together. From a distance, the bright, cheerful children look like stars moving across the ground.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nod-Krai Remarkable Chest Reward"
+    ],
+    "Id": 360470,
+    "Name": "Standing Street Lamp: \"Efficiency Maxed\"",
+    "Description": "A street lamp often seen around Piramida. It has a neat appearance and offers a good deal of illumination.\nIt is crafted from materials forged using processes unique to Piramida, which provide superior resistance to corrosion and rust caused by rain. This dedication to the principle of \"low maintenance, low investment\" is perfectly in line with the practical approach to life shared by most of the city's residents.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360471,
+    "Name": "Vibrant Xiao Lantern: \"May My Wish Travel Far\"",
+    "Description": "A colorful Xiao Lantern with a light that warms the heart. It is constructed from simple materials using a fairly straightforward method.\nIt carries many precious wishes and memories far into the night sky.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360472,
+    "Name": "Vibrant Xiao Lantern: \"A Meeting With Friends\"",
+    "Description": "A colorful Xiao Lantern with a light that warms the heart. Its clever design allows it to stay in the air for a longer period of time.\nIt is said that whatever wishes or thoughts that are entrusted to the Xiao Lantern will always reach their intended recipient, even if they're a thousand miles away.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360473,
+    "Name": "Vibrant Xiao Lantern: \"Riff of Fortune\"",
+    "Description": "An exquisite Xiao Lantern crafted by Xinyan. All who gaze upon it feel a warm, peaceful bliss.\n\"Everyone, it's time for us to rock!!!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360474,
+    "Name": "Vibrant Xiao Lantern: \"Fortune and Good Tidings\"",
+    "Description": "An exquisite Xiao Lantern crafted by Gaming. All who gaze upon it feel a warm, peaceful bliss.\n\"Wishing everyone success in your endeavors, and may you enjoy good health!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360475,
+    "Name": "Vibrant Xiao Lantern: \"A Beautiful Start to Spring\"",
+    "Description": "An exquisite Xiao Lantern crafted by Lan Yan. All who gaze upon it feel a warm, peaceful bliss.\n\"Wishing you all the peace and happiness!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360476,
+    "Name": "Vibrant Xiao Lantern: \"Sweet Scents in the Wind\"",
+    "Description": "An exquisite Xiao Lantern crafted by Emilie. All who gaze upon it feel a warm, peaceful bliss.\n\"May we all have time to slow down and savor life's sweetest moments.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360477,
+    "Name": "Vibrant Xiao Lantern: \"Good Luck All the Way\"",
+    "Description": "An exquisite Xiao Lantern crafted by Layla. All who gaze upon it feel a warm, peaceful bliss.\n\"May everyone at the Akademiya successfully complete their theses...\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360478,
+    "Name": "Vibrant Xiao Lantern: \"May All Your Wishes Come True\"",
+    "Description": "An exquisite Xiao Lantern crafted by Xiao. All who gaze upon it feel a warm, peaceful bliss.\n\"May all be well.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 360479,
+    "Name": "White Horse Galloping",
+    "Description": "A giant Xiao Lantern created in the likeness of a certain Adeptus who watches over the moon. It depicts a pale white horse leaping from a cliff face through wisps of clouds, against a background of brilliant sunset hues. Today, people inscribe their wishes on the lantern, perhaps in the hope that the White Horse Adeptus will descend from the moon on a jade chariot to grant their wishes.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

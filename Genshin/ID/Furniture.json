@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Columbina",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "Jalan Berharga: Ladang Giok",
-    "Description": "Bidang teratur yang dipenuhi oleh kemampuan Penciptaan Sub-Ruang. Tanah yang subur memiliki nutrisi yang hampir tidak terbatas, dan karena itu benih yang ditanam di sini akan tumbuh menjadi tanaman yang sangat baik pada waktunya tanpa membutuhkan banyak perawatan yang intensif. Namun, tanaman yang ditempatkan di sini akan cenderung memiliki akar yang panjang, jadi kamu tidak bisa menempatkan terlalu banyak tanaman di sini kalau kamu ingin memberikan mereka semua ruang yang cukup untuk tumbuh.\nBenih, spora, dan setek yang diperoleh dari Seed Dispensary berikut yang mungkin dapat ditanam di sini: Valberry, Sweet Flower, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Harra Fruit, Zaytun Peach, Marcotte, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Glowing Hornshroom, Lakkaberry, dan Midsommar Berry.",
+    "Description": "Bidang teratur yang dipenuhi oleh kemampuan Penciptaan Sub-Ruang. Tanah yang subur memiliki nutrisi yang hampir tidak terbatas, dan karena itu benih yang ditanam di sini akan tumbuh menjadi tanaman yang sangat baik pada waktunya tanpa membutuhkan banyak perawatan yang intensif. Namun, tanaman yang ditempatkan di sini akan cenderung memiliki akar yang panjang, jadi kamu tidak bisa menempatkan terlalu banyak tanaman di sini kalau kamu ingin memberikan mereka semua ruang yang cukup untuk tumbuh.\nBenih, spora, dan setek yang diperoleh dari Seed Dispensary berikut yang mungkin dapat ditanam di sini: Valberry, Sweet Flower, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Harra Fruit, Zaytun Peach, Marcotte, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Glowing Hornshroom, Lakkaberry, Midsommar Berry, dan Pine Amber.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "Jalan Berharga: Lahan Subur",
-    "Description": "Bidang teratur yang dipenuhi oleh energi Penciptaan Sub-Ruang. Tanah yang subur memiliki nutrisi yang hampir tidak terbatas, dan karena itu benih yang ditanam di sini akan tumbuh menjadi bunga yang sangat baik pada waktunya tanpa membutuhkan banyak perawatan yang intensif. Namun, bunga yang ditempatkan di sini akan cenderung memiliki akar yang panjang, jadi kamu tidak bisa menempatkan terlalu banyak bunga di sini kalau kamu ingin memberikan mereka semua ruang yang cukup untuk tumbuh.\nBenih, spora, dan setek yang diperoleh dari Seed Dispensary berikut yang mungkin dapat ditanam di sini: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom, dan Frostlamp Flower.",
+    "Description": "Bidang teratur yang dipenuhi oleh energi Penciptaan Sub-Ruang. Tanah yang subur memiliki nutrisi yang hampir tidak terbatas, dan karena itu benih yang ditanam di sini akan tumbuh menjadi bunga yang sangat baik pada waktunya tanpa membutuhkan banyak perawatan yang intensif. Namun, bunga yang ditempatkan di sini akan cenderung memiliki akar yang panjang, jadi kamu tidak bisa menempatkan terlalu banyak bunga di sini kalau kamu ingin memberikan mereka semua ruang yang cukup untuk tumbuh.\nBenih, spora, dan setek yang diperoleh dari Seed Dispensary berikut yang mungkin dapat ditanam di sini: Silk Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Naku Weed, Sumeru Rose, Lumidouce Bell, Rainbow Rose, Brilliant Chrysanthemum, Skysplit Gembloom, Frostlamp Flower, dan Winter Icelea.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Chestnut Goat: Cool Mint",
     "Description": "Domba yang hidup di Nod-Krai, memiliki tanduk dan corak yang tampak seperti diolesi Mint Juice.\nSetelah memasuki kehidupan \"Serenitea Pot\", bulu Chestnut Goat menjadi semakin lembut. Saat musim rontok tiba, \"gerimis bulu\" yang lembut akan jatuh di sekeliling mereka ....\nKarena beberapa alasan yang tidak diketahui, beberapa hewan masih mempertahankan tampilan unik yang terbentuk karena pengaruh kuuvahki setelah tiba di Alam Poci. Untuk mempermudah Tubby mengenal mereka, Paimon dengan penuh perhatian menamai mereka berdasarkan penampilan luarnya ....",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ditangkap menggunakan Trap"
+    ],
+    "Id": 369222,
+    "Name": "Thornback Gecko",
+    "Description": "Tokek yang lincah ini memiliki bantalan kaki dengan kemampuan menempel di permukaan, sehingga ia dapat memanjat dinding.\nSetelah tiba di Alam Poci, meskipun mereka masih hidup di celah-celah dinding batu, tetapi ancaman dari predator sudah berkurang banyak. Karena itu, waktu yang mereka habiskan untuk beraktivitas di luar juga bertambah.\nKarena beberapa alasan yang tidak diketahui, beberapa hewan masih mempertahankan tampilan unik yang terbentuk karena pengaruh kuuvahki setelah tiba di Alam Poci ....",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ditangkap menggunakan Trap"
+    ],
+    "Id": 369223,
+    "Name": "Cinderneck Stork",
+    "Description": "Burung dengan postur anggun, bulu abu-abu keemasannya menggambarkan sosoknya yang elegan.\nKarena keanggunannya, beberapa hewan bahkan sengaja memprovokasinya hanya untuk menyaksikan gerakan mengancamnya yang seperti tarian. Tentu saja, perilaku ini sekarang sudah dilarang oleh Tubby.\nKarena beberapa alasan yang tidak diketahui, beberapa hewan masih mempertahankan tampilan unik yang terbentuk karena pengaruh kuuvahki setelah tiba di Alam Poci ....",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ditangkap menggunakan Trap"
+    ],
+    "Id": 369224,
+    "Name": "Crowned Eagle",
+    "Description": "Elang dengan tatapan tajam, mahkotanya yang anggun memberikan aura seperti bangsawan.\nCrowned Eagle sangat mahir terbang tinggi di udara, tubuhnya yang kuat dan rentang sayap yang lebar membuat serangan menukiknya sangat mematikan. Maka dari itu, jarang ada mangsa yang bisa lolos. Setelah tinggal di Alam Poci, mereka jarang berburu karena memiliki makanan yang berlimpah, tetapi mereka masih terbang tinggi di langit untuk memamerkan mahkota yang indah ....\nKarena beberapa alasan yang tidak diketahui, beberapa hewan masih mempertahankan tampilan unik yang terbentuk karena pengaruh kuuvahki setelah tiba di Alam Poci ....",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -53981,7 +54119,7 @@
     ],
     "Id": 374641,
     "Name": "Menara Bipolar Berkaki Tiga",
-    "Description": "Menara tiga kaki unik yang bisa ditemukan di \"Clink-Clank Krumkake Craftshop\".\nKonon, menara tiga kaki ini diubah dari mesin misterius yang tersisa dari zaman keemasan. Fitur aslinya tidak diketahui dan sekarang hanya berfungsi sebagai hiasan.",
+    "Description": "Menara tiga kaki unik yang bisa ditemukan di \"Clink-Clank Krumkake Craftshop\".\nKonon, menara tiga kaki ini diubah dari mesin misterius yang tersisa dari zaman keemasan. Fitur aslinya tidak diketahui dan sekarang hanya berfungsi sebagai dekorasi.",
     "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
     "Rank": 90100
   },
@@ -54334,6 +54472,931 @@
     "Description": "Model boneka salju yang dibuat berdasarkan Varesa ini dilengkapi dengan topeng pahlawan khasnya, menggambarkan sosoknya yang ramah dan penuh semangat dengan sangat akurat.\n\nPara desainer \"Melempar Salju\" sengaja membuat teman yang lucu ini untuk membantu para tamu dari berbagai negara bersantai. Dengan kehadirannya, bahkan saat menghadapi dinginnya Dragonspine yang menusuk tulang, kamu akan merasakan kehangatan yang istimewa.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 361344,
+    "Name": "Bisikan di Malam Sunyi",
+    "Description": "Meja yang sering ditemukan di Kota Piramida ini memiliki desain yang sederhana dan berbentuk persegi, terbuat dari lempengan besi.\nSetiap malam yang sunyi, para Ratnik akan duduk mengelilingi meja ini sambil berbicara dengan suara pelan. Alasan mereka tidak berbicara dengan suara keras, mungkin karena takut mengganggu arwah-arwah yang berkeliaran di sekitar sini ....",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint Perabotan"
+    ],
+    "Id": 362277,
+    "Name": "Tandu Sederhana: Pengangkutan yang Stabil",
+    "Description": "Tandu sederhana namun memiliki desain fungsional ini menggunakan dua Rod sebagai tiang pengangkat yang dihubungkan dengan kain yang kuat, berfungsi sebagai alat medis yang sering digunakan oleh para Lightkeeper.\n\nDalam kehidupan sehari-hari, beberapa penduduk Kota Piramida selain Lightkeeper juga menggunakan tandu ini untuk membantu orang-orang yang kesulitan bergerak.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 362278,
+    "Name": "Bersulang",
+    "Description": "Dispenser minuman yang sering digunakan oleh para Lightkeeper, terbuat dari logam dengan kapasitas besar dan mudah digunakan.\nDispenser ini biasa digunakan saat acara perkumpulan agar semua orang bisa ambil minuman sepuasnya.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 362133,
+    "Name": "Untuk Temanku",
+    "Description": "Meskipun bangku logam yang sering digunakan oleh para Lightkeeper ini tidak memiliki sandaran yang nyaman, setidaknya masih dilengkapi dengan bantalan yang empuk.\nDi tengah kemeriahan pesta minum-minum, kadang-kadang perasaan sedih pun menyelimuti hati saat duduk bersama rekan seperjuangan di bangku ini.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 361412,
+    "Name": "Ranjang Perawatan Medis Sederhana",
+    "Description": "Ranjang perawatan medis sederhana yang biasa digunakan oleh para Lightkeeper, yang disesuaikan dengan kebiasaan istirahat dan kebutuhan pemulihan pasien.\nAwalnya, ranjang perawatan ini memiliki tuas yang bisa mengatur sudut sandaran, tapi karena orang yang berbaring di ranjang ini sering memutar tuasnya secara tidak sadar dan menimbulkan suara \"krit krit\" yang berisik, tuas tersebut akhirnya dilepas.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 364226,
+    "Name": "Bendera Piramida",
+    "Description": "Bendera yang sering terlihat di dalam Kota Piramida dengan lambang mercusuar Lightkeeper, menggambarkan tekad Lightkeeper yang selalu memegang lentera dalam kegelapan untuk menjaga masa depan.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 371014,
+    "Name": "Penghalang Logam yang Dapat Diatur",
+    "Description": "Penghalang logam yang bisa disesuaikan ini sering ditemukan di Kota Piramida dan biasanya berfungsi sebagai fasilitas pertahanan.\nFasilitas pertahanan ini mampu menahan banyak serangan, tapi kelemahannya cukup jelas, yaitu butuh banyak tenaga untuk dipindahkan ke tempat lain.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 371015,
+    "Name": "Kesunyian di Kota yang Selalu Berwaspada",
+    "Description": "Bangunan yang sering ditemukan di Kota Piramida ini dibuat dengan bahan utama lembaran besi. Meskipun ruang dalamnya cukup kecil, tapi biaya pembangunannya lebih murah.\n\"Aku lebih memilih tinggal sendirian di rumah seperti ini daripada berdesak-desakan dengan banyak orang di rumah yang besar!\", kata seorang pria yang pernah tinggal di rumah seperti ini.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 371016,
+    "Name": "Perlindungan di Kota yang Selalu Berwaspada",
+    "Description": "Bangunan yang sering ditemukan di Kota Piramida ini dibuat dengan bahan utama lembaran besi dan memiliki ciri khas berupa atap melengkung.\nMeskipun ruang dalamnya tidak luas dan tidak memiliki desain yang indah, strukturnya yang kokoh mampu memberikan tempat berlindung bagi banyak orang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint Perabotan"
+    ],
+    "Id": 371017,
+    "Name": "Sudut Milik Sendiri",
+    "Description": "Tenda dengan desain normal yang memiliki atap berupa kain kuning.\nKarena dibuat dari material sederhana dan mudah dibongkar pasang, tenda seperti ini bisa digunakan untuk membatasi area dengan cepat dan efektif jika ada keperluan acara luar ruangan yang mendadak.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 371018,
+    "Name": "Kepedulian di Kota yang Selalu Berwaspada",
+    "Description": "Bangunan yang sering ditemukan di Kota Piramida ini memiliki langit-langit yang tinggi dan biasanya digunakan sebagai tempat perawatan medis.\nKebanyakan penduduk Kota Piramida memiliki kesehatan yang baik, sehingga stasiun medis ini sering terlihat sepi. Namun, setiap pergantian musim, tempat ini akan ramai untuk sementara waktu.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 371019,
+    "Name": "Penempaan di Kota yang Selalu Berwaspada",
+    "Description": "Bangunan yang sering ditemukan di Kota Piramida ini memiliki langit-langit yang sangat tinggi seperti menara, dan sering digunakan sebagai tempat penyediaan layanan penempaan.\nBahkan saat cuaca di Kota Piramida sedang dingin, area di sekitar bangunan ini selalu terasa hangat karena adanya percikan api beterbangan dari bawah palu, dan ketel uap menderu-deru mengeluarkan uap panas ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari membeli Gnostic Chorus Battle Pass"
+    ],
+    "Id": 371020,
+    "Name": "Starshyna Berjalan",
+    "Description": "Sebuah patung besar yang terinspirasi oleh tokoh terkenal dalam sejarah, menampilkan sosok yang berdiri tegap dengan pedang di tangan, bahkan orang-orang yang berhenti untuk mengamatinya dapat merasakan tekad dan kekuatan yang terpancar darinya.\nKonon, sebagai Starshyna pertama dari pasukan Lightkeeper, dia pernah berjalan di malam yang panjang demi menjaga secercah cahaya harapan bagi semua orang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 371021,
+    "Name": "Mercusuar: Langit yang Cerah",
+    "Description": "Model yang dibuat berdasarkan mercusuar megah milik Lightkeeper berdiri dengan tenang, kokoh, dan dapat diandalkan.\n\"Ketika awan gelap pergi, matahari akan bersinar menembus awan, dan monster-monster tidak akan bisa lagi menyelinap keluar dari kegelapan,\" kata Kapten Illuga. Mungkin hanya ketika hari itu tiba, para Ratnik akhirnya bisa meletakkan senjata mereka, keluar dari mercusuar, dan menikmati liburan yang dipenuhi kehangatan sinar matahari.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 374332,
+    "Name": "Hangat dan Nyaman",
+    "Description": "Meja makan yang memiliki permukaan luas ini terbuat dari logam dengan desain berongga, sehingga di bawah meja ada ruang untuk menempatkan tungku kecil yang berfungsi menjaga suhu makanan di atas meja tetap hangat.\nMenikmati hidangan lezat dan minum sepuasnya, pasti ini yang diinginkan semua orang yang duduk di meja ini.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 374333,
+    "Name": "Papan Pasir Strategi: Demo Awal",
+    "Description": "Model yang dibuat berdasarkan papan strategi milik Grand Master Varka ini sederhana namun praktis.\n\"Setiap jam yang kami sia-siakan, Abyss terus menelan nyawa-nyawa yang lain. Semakin cepat kami mulai, semakin tinggi peluang untuk mengubah takdir mereka.\" Intel adalah fondasi dari setiap operasi, jika kita bisa mensimulasikan kemungkinan-kemungkinan yang akan terjadi di papan strategi ini, maka kerugian yang timbul dari pergerakan atau pertempuran seharusnya bisa berkurang dengan signifikan ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 374642,
+    "Name": "Perintah dengan Kepercayaan Diri",
+    "Description": "Papan strategi yang sering ditemukan di Kota Piramida. Peta dari berbagai wilayah biasanya ditempel di papan agar mudah dilihat saat berdiskusi bersama.\nMeskipun sangat sederhana, tapi papan ini sangat berguna untuk memperjelas pemikiran dan melihat situasi secara menyeluruh.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 374643,
+    "Name": "Rak Senjata Sederhana: Cepat dan Mudah",
+    "Description": "Rak senjata dengan desain sederhana berfungsi untuk meletakkan senjata dan perisai.\nJika kamu menyusun dan menyimpan senjata sesuai kategorinya, maka akan mempermudah mereka yang perlu bergegas untuk mengambil senjata.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 374644,
+    "Name": "Pondok Bergerak Bersinar",
+    "Description": "Moonwagon yang unik dan mudah digerakkan ini adalah alat transportasi yang dimodifikasi dari kereta mesin Snezhnaya milik Lightkeeper, dan ditenagai oleh kuuvahki.\nPada malam hari, para Ratnik sering menggunakannya sebagai mercusuar bergerak yang praktis dan cukup terang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hadiah Level Pembangunan Titik Pengumpulan"
+    ],
+    "Id": 374645,
+    "Name": "Patung Penyihir: \"Mengabadikan Momen Ini\"",
+    "Description": "Sebuah patung yang terinspirasi oleh malaikat ini tampaknya berhasil menangkap kekuatan hidup yang terpancar dari sang malaikat pada satu momen tertentu.\n\"Takdir selalu sulit dipahami, tapi ... aku masih berharap bisa membantu orang-orang yang kutemui untuk dapat akhir cerita yang bahagia.\" Karena setiap momen di masa depan penuh ketidakpastian, mengabadikan momen ini menjadi pelajaran yang sangat berharga bagi banyak orang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374819,
+    "Name": "Pohon Pusaka Keberuntungan",
+    "Description": "Pohon Bonsai yang dihiasi dengan banyak Fortune Coin emas ini sangat disukai oleh penduduk Liyue karena melambangkan kemakmuran dan kekayaan yang berlimpah.\n\"Ohh! Kalau terasmu dipenuhi dengan Pohon Pusaka Keberuntungan, maka tahun depan ....\" begitulah kata pencinta Pohon Pusaka Keberuntungan.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374820,
+    "Name": "Lentera Zhanzhu Besar: Si Penghalang Jalan",
+    "Description": "Lentera Zhanzhu Besar berwarna gelap ini terinspirasi oleh \"Zhanzhu si Pelahap Bulan\" dan memiliki desain yang unik, merupakan karakter yang membuat banyak anak-anak geram setelah mendengar ceritanya.\nSaat dia menghalangi jalanmu, sebaiknya kamu menghindarinya saja, karena sangat merepotkan ....",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 374821,
+    "Name": "Lentera Zhanzhu Besar: Si Penghalang Maximus",
+    "Description": "Lentera Zhanzhu Besar berwarna merah ini terinspirasi oleh \"Zhanzhu si Pelahap Bulan\" dan memiliki desain yang unik, merupakan karakter yang membuat banyak anak-anak geram setelah mendengar ceritanya.\nJangan pernah mundur kalau dia menghalangi jalanmu, karena dia akan tahu siapa yang penakut ....",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 374647,
+    "Name": "Kilauan Kehidupan",
+    "Description": "Wadah kultivasi yang tidak diketahui fungsinya, terdiri dari tiga wadah transparan yang dihubungkan oleh pipa.\nDi dalam wadah terbesar, cahaya berpendar berkilau dan melayang, indah dan ringan bagaikan kehidupan.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 373223,
+    "Name": "Mekar Subur",
+    "Description": "Pohon Bonsai besar yang sering ditemukan di fasilitas penelitian yang terbengkalai ini tumbuh dengan sangat subur, bahkan hanya dengan melihatnya saja sudah membuat hati menjadi senang.\nEntah mengapa, tanaman ini selalu terlihat begitu rimbun dan segar setiap kali melihatnya. Orang-orang yang kurang paham pun mulai curiga, apakah tanaman ini disiram dengan cairan khusus tertentu?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 373224,
+    "Name": "Hijau Mekar",
+    "Description": "Pohon Bonsai kecil yang sering ditemukan di fasilitas penelitian yang terbengkalai ini tumbuh dengan sangat subur, bahkan hanya dengan melihatnya saja sudah membuat hati menjadi senang.\nEntah mengapa, tanaman ini selalu terlihat begitu rimbun dan segar setiap kali melihatnya. Orang-orang yang kurang paham pun mulai curiga, apakah tanaman ini disiram dengan cairan khusus tertentu?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint Perabotan"
+    ],
+    "Id": 360469,
+    "Name": "Lampu Logam Ringan",
+    "Description": "Lentera logam ringan yang biasa digunakan oleh penduduk Kota Piramida. Cahayanya tidak terlalu terang, tapi cukup mudah dibawa.\nKetika anak-anak bermain hingga langit benar-benar gelap, mereka akan membawa lentera dan pulang bersama-sama dengan riang, seperti bintang-bintang yang bersinar di permukaan tanah.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Remarkable Chest di Nod-Krai"
+    ],
+    "Id": 360470,
+    "Name": "Lampu Jalan Berdiri: Efisiensi Maksimal",
+    "Description": "Lampu jalan tegak yang sering ditemukan di Kota Piramida, dengan desain yang rapi dan cahaya yang terang.\nDibuat dengan material yang ditempa menggunakan teknik penempaan khusus dari Kota Piramida, tidak mudah berkarat karena terpaan air hujan. Dengan prinsip \"biaya perawatan rendah dan investasi rendah\", ini sesuai dengan prinsip hidup sebagian besar penduduk kota.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360471,
+    "Name": "Lentera Xiao Cerah: Semoga Dunia Dapat Kukelilingi",
+    "Description": "Lentera Xiao yang berwarna cerah dan cahayanya yang menghangatkan ini terbuat dari material sederhana dan mudah dibuat.\nLentera ini membawa banyak harapan dan kenangan berharga jauh ke langit malam.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360472,
+    "Name": "Lentera Xiao Cerah: Sampai Jumpa Kawanku",
+    "Description": "Lentera Xiao yang berwarna cerah dan cahayanya yang menghangatkan ini memiliki desain yang memungkinkan lentera untuk terbang lebih jauh.\nKonon, perasaan dan harapan yang dititipkan pada Lentera Xiao akan selalu sampai kepada orang yang dituju meski terpisah jauh.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360473,
+    "Name": "Lentera Xiao Cerah: Melodi Keberuntungan",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Xinyan, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Waktunya Rock 'n' Roll!!!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360474,
+    "Name": "Lentera Xiao Cerah: Berkah dan Berkat",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Gaming, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Semoga semuanya lancar dan sehat selalu!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360475,
+    "Name": "Lentera Xiao Cerah: Awal Musim Semi yang Indah",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Lan Yan, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Semoga sehat dan bahagia selalu!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360476,
+    "Name": "Lentera Xiao Cerah: Aroma Angin yang Manis",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Emilie, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Semoga kita semua punya waktu untuk menikmati keharuman aroma hidup.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360477,
+    "Name": "Lentera Xiao Cerah: Keberuntungan Berlimpah",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Layla, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Semoga semua mahasiswa Akademiya bisa menyelesaikan tesis dengan lancar ....\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360478,
+    "Name": "Lentera Xiao: Semua Harapan Terwujud",
+    "Description": "Lentera Xiao dengan desain unik yang dibuat oleh Xiao, membuat siapa pun yang melihatnya merasakan kehangatan, ketenangan, dan kebahagiaan.\n\"Semoga semuanya baik-baik saja.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 360479,
+    "Name": "Kuda Putih Berlari Kencang",
+    "Description": "Sebuah Lentera Xiao raksasa yang terinspirasi oleh sosok Adeptus penjaga Rembulan, menggambarkan seekor kuda putih yang melompat melewati celah tebing dengan anggun, dikelilingi awan-awan lembut dan langit senja yang indah. Kini, semua orang suka menulis harapan mereka di Lentera Xiao. Mungkin dengan begitu, sang Adeptus Kuda Putih akan turun dari Rembulan dengan kereta gioknya untuk mengabulkan harapan semua orang.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

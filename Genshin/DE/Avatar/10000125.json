@@ -1,0 +1,1241 @@
+{
+  "Id": 10000125,
+  "PromoteId": 125,
+  "Sort": 110,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Columbina",
+  "SideIcon": "UI_AvatarIcon_Side_Columbina",
+  "Name": "Columbina",
+  "Description": "Das in Nod-Krai geborene „Mondmädchen“ und der leere Mond, der nach Hause zurückkehrt.",
+  "BeginTime": "2026-01-13T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 10,
+  "BaseValue": {
+    "HpBase": 1143.984,
+    "AttackBase": 7.448,
+    "DefenseBase": 40.0861
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12531,
+        "Proud": {
+          "Descriptions": [
+            "SCH Phase 1|{param1:F1P}",
+            "SCH Phase 2|{param2:F1P}",
+            "SCH Phase 3|{param3:F1P}",
+            "SCH heftiger Schläge|{param4:F1P}",
+            "Ausdauerverbrauch heftiger Schläge|{param5:F1} Punkte",
+            "SCH durch „Mondtau-Reinigung“|{param6:F2P} der max. LP ×3",
+            "SCH beim Fallen|{param7:F1P}",
+            "SCH beim Fallen aus niedriger/großer Höhe|{param8:P}/{param9:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253101,
+              "Level": 1,
+              "Parameters": [
+                0.46792,
+                0.366256,
+                0.58484,
+                1.1608,
+                50,
+                0.015112,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1253102,
+              "Level": 2,
+              "Parameters": [
+                0.503014,
+                0.393725,
+                0.628703,
+                1.24786,
+                50,
+                0.016245,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1253103,
+              "Level": 3,
+              "Parameters": [
+                0.538108,
+                0.421194,
+                0.672566,
+                1.33492,
+                50,
+                0.017379,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1253104,
+              "Level": 4,
+              "Parameters": [
+                0.5849,
+                0.45782,
+                0.73105,
+                1.451,
+                50,
+                0.01889,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1253105,
+              "Level": 5,
+              "Parameters": [
+                0.619994,
+                0.485289,
+                0.774913,
+                1.53806,
+                50,
+                0.020023,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1253106,
+              "Level": 6,
+              "Parameters": [
+                0.655088,
+                0.512758,
+                0.818776,
+                1.62512,
+                50,
+                0.021157,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1253107,
+              "Level": 7,
+              "Parameters": [
+                0.70188,
+                0.549384,
+                0.87726,
+                1.7412,
+                50,
+                0.022668,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1253108,
+              "Level": 8,
+              "Parameters": [
+                0.748672,
+                0.58601,
+                0.935744,
+                1.85728,
+                50,
+                0.024179,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1253109,
+              "Level": 9,
+              "Parameters": [
+                0.795464,
+                0.622635,
+                0.994228,
+                1.97336,
+                50,
+                0.02569,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1253110,
+              "Level": 10,
+              "Parameters": [
+                0.842256,
+                0.659261,
+                1.052712,
+                2.08944,
+                50,
+                0.027202,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1253111,
+              "Level": 11,
+              "Parameters": [
+                0.889048,
+                0.695886,
+                1.111196,
+                2.20552,
+                50,
+                0.028713,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1253112,
+              "Level": 12,
+              "Parameters": [
+                0.93584,
+                0.732512,
+                1.16968,
+                2.3216,
+                50,
+                0.030224,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1253113,
+              "Level": 13,
+              "Parameters": [
+                0.99433,
+                0.778294,
+                1.242785,
+                2.4667,
+                50,
+                0.032113,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1253114,
+              "Level": 14,
+              "Parameters": [
+                1.05282,
+                0.824076,
+                1.31589,
+                2.6118,
+                50,
+                0.034002,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1253115,
+              "Level": 15,
+              "Parameters": [
+                1.11131,
+                0.869858,
+                1.388995,
+                2.7569,
+                50,
+                0.035891,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11251,
+        "Name": "Mondtau-Kaskade",
+        "Description": "<color=#FFD780FF>Standardangriff</color>\nRuft Gezeiten des Mondlichts herbei, führt bis zu 3 Angriffe aus und verursacht <color=#80C0FFFF>Hydro-SCH</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <color=#80C0FFFF>Hydro-Flächenschaden</color>.\nErsetzt, wenn du über mindestens 1 Stapelung {LINK#N11190008}<color=#FFD780FF>Grünender Tau</color>{/LINK} verfügst, den von Columbina angewendeten heftigen Schlag durch den besonderen heftigen Schlag <color=#FFD780FF>Mondtau-Reinigung</color>, der keine Ausdauer verbraucht: Verbraucht 1 Stapelung Grünender Tau und fügt den Gegnern vor sich 3-mal <color=#99FF88FF>Dendro-Flächenschaden</color> zu. Hierdurch verursachter Schaden gilt als Schaden durch die Reaktion Mondspross.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#80C0FFFF>Hydro-Flächenschaden</color>.",
+        "Icon": "Skill_A_Catalyst_MD"
+      },
+      {
+        "GroupId": 12532,
+        "Proud": {
+          "Descriptions": [
+            "Fähigkeits-SCH|{param1:F1P} der max. LP",
+            "Gravitationswelle – Fortlaufender SCH|{param2:F1P} der max. LP",
+            "Gravitations-Interferenz – SCH durch „Mond unter Strom“|{param3:F2P} der max. LP",
+            "Gravitations-Interferenz – SCH durch „Mondspross“|{param4:F2P} der max. LP ×5",
+            "Gravitations-Interferenz – SCH durch „Mond-Kristallisation“|{param5:F2P} der max. LP",
+            "Gravitations-Obergrenze|{param8:I}",
+            "#Gravitationswellen-Dauer|{param9:F1}{NON_BREAK_SPACE}s",
+            "#Abklingzeit|{param10:F1}{NON_BREAK_SPACE}s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253201,
+              "Level": 1,
+              "Parameters": [
+                0.1672,
+                0.0936,
+                0.04704,
+                0.01408,
+                0.08824,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253202,
+              "Level": 2,
+              "Parameters": [
+                0.17974,
+                0.10062,
+                0.050568,
+                0.015136,
+                0.094858,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253203,
+              "Level": 3,
+              "Parameters": [
+                0.19228,
+                0.10764,
+                0.054096,
+                0.016192,
+                0.101476,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253204,
+              "Level": 4,
+              "Parameters": [
+                0.209,
+                0.117,
+                0.0588,
+                0.0176,
+                0.1103,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253205,
+              "Level": 5,
+              "Parameters": [
+                0.22154,
+                0.12402,
+                0.062328,
+                0.018656,
+                0.116918,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253206,
+              "Level": 6,
+              "Parameters": [
+                0.23408,
+                0.13104,
+                0.065856,
+                0.019712,
+                0.123536,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253207,
+              "Level": 7,
+              "Parameters": [
+                0.2508,
+                0.1404,
+                0.07056,
+                0.02112,
+                0.13236,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253208,
+              "Level": 8,
+              "Parameters": [
+                0.26752,
+                0.14976,
+                0.075264,
+                0.022528,
+                0.141184,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253209,
+              "Level": 9,
+              "Parameters": [
+                0.28424,
+                0.15912,
+                0.079968,
+                0.023936,
+                0.150008,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253210,
+              "Level": 10,
+              "Parameters": [
+                0.30096,
+                0.16848,
+                0.084672,
+                0.025344,
+                0.158832,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253211,
+              "Level": 11,
+              "Parameters": [
+                0.31768,
+                0.17784,
+                0.089376,
+                0.026752,
+                0.167656,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253212,
+              "Level": 12,
+              "Parameters": [
+                0.3344,
+                0.1872,
+                0.09408,
+                0.02816,
+                0.17648,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253213,
+              "Level": 13,
+              "Parameters": [
+                0.3553,
+                0.1989,
+                0.09996,
+                0.02992,
+                0.18751,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253214,
+              "Level": 14,
+              "Parameters": [
+                0.3762,
+                0.2106,
+                0.10584,
+                0.03168,
+                0.19854,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253215,
+              "Level": 15,
+              "Parameters": [
+                0.3971,
+                0.2223,
+                0.11172,
+                0.03344,
+                0.20957,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            }
+          ]
+        },
+        "Id": 11252,
+        "Name": "Ewige Gezeiten",
+        "Description": "Ruft Gezeiten des Mondmeeres herbei, verursacht <color=#80C0FFFF>Hydro-Flächenschaden</color> und erschafft eine {LINK#N11250001}<color=#FFD780FF>Gravitationswelle</color>{/LINK}.\nDie <color=#FFD780FF>Gravitationswelle</color> folgt der aktuellen Figur und fügt Gegnern in der Umgebung fortlaufend <color=#80C0FFFF>Hydro-Flächenschaden</color> zu. Während die <color=#FFD780FF>Gravitationswelle</color> existiert und Truppenmitglieder in der Nähe eine Mondleuchten-Reaktion auslösen oder Schaden durch eine Mondleuchten-Reaktion verursachen, wird eine besondere <color=#FFD780FF>Gravitation</color> für Columbina angesammelt. Fügt, wenn deren Maximalwert erreicht ist, Gegnern Schaden der Art der Mondleuchten-Reaktion zu, durch die Columbina am meisten <color=#FFD780FF>Gravitation</color> gesammelt hat.\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Die <color=#FFD780FF>Gravitationswelle</color> verursacht <color=#80C0FFFF>Hydro-Flächenschaden</color> mit größerer Reichweite.",
+        "Icon": "Skill_S_Columbina_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12539,
+      "Proud": {
+        "Descriptions": [
+          "Fähigkeits-SCH|{param1:F1P} der max. LP",
+          "SCH-Bonus für Mondleuchten-Reaktion|{param2:F1P}",
+          "#Mondgebiets-Dauer|{param3:F1}{NON_BREAK_SPACE}s",
+          "#Abklingzeit|{param4:F1}{NON_BREAK_SPACE}s",
+          "Elementarenergie|{param5:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1253901,
+            "Level": 1,
+            "Parameters": [
+              0.3224,
+              0.13,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253902,
+            "Level": 2,
+            "Parameters": [
+              0.34658,
+              0.16,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253903,
+            "Level": 3,
+            "Parameters": [
+              0.37076,
+              0.19,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253904,
+            "Level": 4,
+            "Parameters": [
+              0.403,
+              0.22,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253905,
+            "Level": 5,
+            "Parameters": [
+              0.42718,
+              0.25,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253906,
+            "Level": 6,
+            "Parameters": [
+              0.45136,
+              0.28,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253907,
+            "Level": 7,
+            "Parameters": [
+              0.4836,
+              0.31,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253908,
+            "Level": 8,
+            "Parameters": [
+              0.51584,
+              0.34,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253909,
+            "Level": 9,
+            "Parameters": [
+              0.54808,
+              0.37,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253910,
+            "Level": 10,
+            "Parameters": [
+              0.58032,
+              0.4,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253911,
+            "Level": 11,
+            "Parameters": [
+              0.61256,
+              0.43,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253912,
+            "Level": 12,
+            "Parameters": [
+              0.6448,
+              0.46,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253913,
+            "Level": 13,
+            "Parameters": [
+              0.6851,
+              0.49,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253914,
+            "Level": 14,
+            "Parameters": [
+              0.7254,
+              0.52,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253915,
+            "Level": 15,
+            "Parameters": [
+              0.7657,
+              0.55,
+              20,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11255,
+      "Name": "Melancholie unterm Mond",
+      "Description": "Berge und Meer verbinden sich unter dem Namen des makellosen neuen Mondes. Verwandelt das Gelände um sich herum kurzzeitig in ein {LINK#N11250002}<color=#FFD780FF>Mondgebiet</color>{/LINK} und verursacht <color=#80C0FFFF>Hydro-Flächenschaden</color>.",
+      "Icon": "Skill_E_Columbina_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12521,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252101,
+              "Level": 1,
+              "Parameters": [
+                0.05,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252101,
+        "Name": "Mondbedingter Wahnsinn",
+        "Description": "#Verleiht Columbina beim Auslösen der {LINK#N11250001}<color=#FFD780FF>Gravitations-Interferenz</color>{/LINK} den Effekt „Mond-Wahnsinn“, der die eigenen KT 10{NON_BREAK_SPACE}s lang um 5{NON_BREAK_SPACE}% erhöht, max. 3-fach stapelbar.",
+        "Icon": "UI_Talent_S_Columbina_05"
+      },
+      {
+        "GroupId": 12522,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252201,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252201,
+        "Name": "Gesetz des Neumonds",
+        "Description": "#Verleiht Figuren, die sich im {LINK#N11250002}<color=#FFD780FF>Mondgebiet</color>{/LINK} befinden und eine Mondleuchten-Reaktion auslösen, jeweils den folgenden Effekt:\n· <color=#FFD780FF>Mond unter Strom</color>: Wenn Ziele, die bestimmte Bedingungen erfüllen, mit Blitzen der Gewitterwolken betroffen sind, besteht eine Wahrscheinlichkeit von 33{NON_BREAK_SPACE}%, dass die Gewitterwolken zusätzlich einmal auf die Ziele mit Blitzen einschlagen.\n· <color=#FFD780FF>Mondspross</color>: Verleiht der Truppe beim Auslösen der Reaktion „Mondspross“ 1 Stapelung besonderen {LINK#N11250003}<color=#FFD780FF>Grünenden Mondtau</color>{/LINK}. Auf diese Weise können alle 18{NON_BREAK_SPACE}s bis zu 3 Stapelungen „Grünender Mondtau“ für die Truppe generiert werden.\n· <color=#FFD780FF>Mond-Kristallisation</color>: Gibt beim Auslösen von „Harmonie der Mondkäfige“ jedem Mondkäfig eine Möglichkeit von 33{NON_BREAK_SPACE}%, zusätzlich einen Angriff auszuführen.",
+        "Icon": "UI_Talent_S_Columbina_06"
+      },
+      {
+        "GroupId": 12523,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252301,
+              "Level": 1,
+              "Parameters": [
+                0.002,
+                0.07
+              ]
+            }
+          ]
+        },
+        "Id": 1252301,
+        "Name": "Mondomen-Segen – Geliehenes Mondlicht",
+        "Description": "#Wandelt, wenn eine Figur in der Truppe die Reaktion Unter Strom / Sprießen / Hydro-Kristallisation auslöst, diese in die Reaktion Mond unter Strom / Mondspross / Mond-Kristallisation um, wobei der Basis-SCH der Mondleuchten-Reaktion, die durch Truppenmitglieder ausgelöst wird, auf der Grundlage von Columbinas max. LP erhöht wird: Erhöht pro 1.000 Punkte der max. LP den Basis-SCH der Mondleuchten-Reaktion um 0,2{NON_BREAK_SPACE}%. Auf diese Weise kann der Schaden um bis zu 7{NON_BREAK_SPACE}% erhöht werden.\n\nErhöht zudem die Stufe vom <color=#FFD780FF>Mondomen</color> der Truppe um 1, wenn sich Columbina in der Truppe befindet.",
+        "Icon": "UI_Talent_S_Columbina_07"
+      },
+      {
+        "GroupId": 12525,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1252501,
+        "Name": "Mondwache",
+        "Description": "#Wenn in Nod-Krai ein Truppenmitglied ohnmächtig wird, belebt Columbina diese Figur wieder und stellt ihre LP wieder her; der Wiederherstellungswert ist abhängig von Columbinas Freundschaftsstufe; 100{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt gilt nicht in Sphären, Gebietssäuberungen und im Gewundenen Abgrund.\nAußerdem scheint Columbina eine besondere Verbindung zu einigen kleinen Tieren zu haben, die von Kuuvahki beeinflusst sind ...",
+        "Icon": "UI_Talent_S_Columbina_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1251,
+        "Name": "Strahlkraft über Blüten und Gipfeln",
+        "Description": "#Löst, wenn die Elementarfähigkeit <color=#FFD780FF>Ewige Gezeiten</color> angewendet wird, sofort einmal einen der {LINK#N11250001}<color=#FFD780FF>Gravitations-Interferenz</color>{/LINK} entsprechenden Effekt aus. 15{NON_BREAK_SPACE}s Abklingzeit.\n<color=#FFD780FF>Mondomen – Reifer Glanz</color> \nWenn beim Auslösen der Gravitations-Interferenz die Art von Mondleuchten-Reaktion, die am meisten Gravitation für Columbina angesammelt hat, folgende ist:\n· <color=#FFD780FF>Mond unter Strom</color>: Stellt dem eigenen aktuellen Truppenmitglied 6{NON_BREAK_SPACE}Punkte Elementarenergie wieder her.\n· <color=#FFD780FF>Mondspross</color>: Erhöht den Unterbrechungs-WDS des eigenen aktuellen Truppenmitglieds 8{NON_BREAK_SPACE}s lang.\n· <color=#FFD780FF>Mond-Kristallisation</color>: Beschwört einen <color=#FFD780FF>Regensee-Schild</color> herauf. Die Schildstärke basiert auf 12{NON_BREAK_SPACE}% der max. LP von Columbina und hält bei <color=#80C0FFFF>Hydro-SCH</color> 250{NON_BREAK_SPACE}% Schaden ab, hält 8{NON_BREAK_SPACE}s lang.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 1,5{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Columbina_01"
+      },
+      {
+        "Id": 1252,
+        "Name": "Nicht in einsamer Pracht",
+        "Description": "#Erhöht die Ansammlungsgeschwindigkeit der {LINK#N11250001}<color=#FFD780FF>Gravitation</color>{/LINK} um 34{NON_BREAK_SPACE}%.\nVerleiht Columbina, wenn die <color=#FFD780FF>Gravitations-Interferenz</color> ausgelöst wird, den Effekt <color=#FFD780FF>Mondstrahlung</color>, der ihre max. LP 8{NON_BREAK_SPACE}s lang um 40{NON_BREAK_SPACE}% erhöht.\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>:\nWenn während der Wirkungsdauer von <color=#FFD780FF>Mondstrahlung</color> beim Auslösen dieser <color=#FFD780FF>Gravitations-Interferenz</color> die Art von Mondleuchten-Reaktion, die am meisten Gravitation für Columbina angesammelt hat, folgende ist:\n· <color=#FFD780FF>Mond unter Strom</color>: Erhöht den ANG des eigenen aktuellen Truppenmitglieds um 1{NON_BREAK_SPACE}% von Columbinas max. LP.\n· <color=#FFD780FF>Mondspross</color>: Erhöht die Elementarkunde des eigenen aktuellen Truppenmitglieds um 0,35{NON_BREAK_SPACE}% von Columbinas max. LP.\n· <color=#FFD780FF>Mond-Kristallisation</color>: Erhöht die VTD des eigenen aktuellen Truppenmitglieds um 1{NON_BREAK_SPACE}% von Columbinas max. LP.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 7{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Columbina_02"
+      },
+      {
+        "Id": 1253,
+        "Name": "Traumhafter Schein über ruhigen Gewässern",
+        "Description": "#Erhöht die Stufe der Elementarfähigkeit <color=#FFD780FF>{LINK#S11252}Ewige Gezeiten{/LINK}</color> um 3.\nHöchststufe 15.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 1,5{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_U_Columbina_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1254,
+        "Name": "Wolkige Berge in blumigem Nebel",
+        "Description": "#Stellt Columbina, wenn die {LINK#N11250001}<color=#FFD780FF>Gravitations-Interferenz</color>{/LINK} ausgelöst wird, 4{NON_BREAK_SPACE}Punkte Elementarenergie wieder her.\nErhöht zudem, wenn die Art Mondleuchten-Reaktion, die am meisten <color=#FFD780FF>Gravitation</color> für Columbina angesammelt hat, Mond unter Strom / Mondspross / Mond-Kristallisation ist, den durch diese Gravitations-Interferenz verursachten Schaden der Mondleuchten-Reaktion jeweils um 12,5{NON_BREAK_SPACE}% / 2,5{NON_BREAK_SPACE}% / 12,5{NON_BREAK_SPACE}% von Columbinas max. LP. 15{NON_BREAK_SPACE}s Abklingzeit.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 1,5{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Columbina_03"
+      },
+      {
+        "Id": 1255,
+        "Name": "Einsames Lied der Stille",
+        "Description": "#Erhöht die Stufe der Spezialfähigkeit <color=#FFD780FF>{LINK#S11255}Melancholie unterm Mond{/LINK}</color> um 3.\nHöchststufe 15.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 1,5{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_U_Columbina_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1256,
+        "Name": "Durch die Dunkelheit, geführt vom Mondlicht",
+        "Description": "#Erhöht 8{NON_BREAK_SPACE}s, nachdem eine beliebige Figur im {LINK#N11250002}<color=#FFD780FF>Mondgebiet</color>{/LINK} eine Mondleuchten-Reaktion ausgelöst hat, basierend auf dem Elementartyp der Reaktion, den verursachten kritischen Schaden des entsprechenden Elements aller Truppenmitglieder um 80{NON_BREAK_SPACE}%. Der Verstärkungseffekt für kritischen Schaden desselben Elementartyps ist nicht stapelbar.\n\n{LINK#N11190007}<color=#FFD780FF>Steigert</color>{/LINK} den von allen Truppenmitgliedern in der Nähe verursachten Schaden durch Mondleuchten-Reaktionen um 7{NON_BREAK_SPACE}%.",
+        "Icon": "UI_Talent_S_Columbina_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Heimkehr des leeren Mondes",
+    "Detail": "Das in Nod-Krai geborene „Mondmädchen“ und der leere Mond, der nach Hause zurückkehrt.",
+    "Association": 12,
+    "Native": "Silbermondhof",
+    "BirthMonth": 1,
+    "BirthDay": 14,
+    "VisionBefore": "Hydro",
+    "VisionAfter": "Hydro",
+    "VisionOverrideLocked": "???",
+    "VisionOverrideUnlocked": "Dreifache Lunarkonvergenz",
+    "ConstellationBefore": "???",
+    "ConstellationAfter": "Columbina Hyposelenia",
+    "CvChinese": "杨梦露",
+    "CvJapanese": "Lynn",
+    "CvEnglish": "Emi Lo",
+    "CvKorean": "Yu Yeong",
+    "CookBonus": {
+      "OriginItemId": 108938,
+      "ItemId": 108950,
+      "InputList": [
+        101262,
+        101268,
+        101265,
+        101264
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Gespräch – Singen",
+        "Context": "Ich singe nicht für jemand Bestimmten. Aber wenn jemand innehält und zuhört, hoffe ich, dass er dadurch einen Moment des Friedens findet."
+      },
+      {
+        "Title": "Gespräch – Den Mond betrachten",
+        "Context": "Möchtest du mit mir den Mond betrachten? Du kannst in meinem Schaukelstuhl sitzen und die Aussicht genießen. Oder wir könnten auch zum Mond fliegen und von dort auf Teyvat hinabschauen. Ganz wie du möchtest."
+      },
+      {
+        "Title": "Gespräch – Lange Spaziergänge",
+        "Context": "Ich bin früher jeden Tag lange durch den Silbermondhof spaziert, also mach dir keine Sorgen um mich. Ich kann schon mithalten."
+      },
+      {
+        "Title": "Schön, dich kennenzulernen.",
+        "Context": "Du kannst mich Columbina nennen, oder Kuutar, oder Mondgöttin ... Ganz wie du möchtest. Ich bin es gewohnt, so viele Namen zu haben. Der Segen des Mondes sei mit dir, wann immer du ihn brauchst."
+      },
+      {
+        "Title": "Wenn es regnet ...",
+        "Context": "Wenn ich Schutz suche und dem Regen zuhöre, wie er die Erde reinigt, fühle ich mich so sicher, als wäre ich „zu Hause“."
+      },
+      {
+        "Title": "Es hat aufgehört zu regnen ...",
+        "Context": "Der Himmel ist wieder klar. Heute Nacht können wir wahrscheinlich den Mond sehen."
+      },
+      {
+        "Title": "Wenn es blitzt ...",
+        "Context": "Ah ...! Ohne Blitz als Vorwarnung ... erschreckt der Donner einen schon ziemlich leicht ..."
+      },
+      {
+        "Title": "Wenn es schneit ...",
+        "Context": "Ich liebe den Schnee. Er ist so wunderschön und friedlich, und ich kann mit den Kuuhenki Schneeballschlachten machen. Wollen wir jetzt gleich eine machen?"
+      },
+      {
+        "Title": "Ein Sturm zieht auf.",
+        "Context": "Wenn der Wind zu stark ist, um die Augen offenzuhalten, gib mir deine Hand. Ich führe dich."
+      },
+      {
+        "Title": "In der Wüste ...",
+        "Context": "Nachts ist der Sand kühl und es ist angenehm, darauf zu laufen, aber tagsüber wird er so heiß ..."
+      },
+      {
+        "Title": "Guten Morgen.",
+        "Context": "Guten Morgen ... Hast du mein Haargummi gesehen? Hmm? Meine Haare sehen unordentlich aus ...? Wo genau? Könntest du sie mir bürsten?"
+      },
+      {
+        "Title": "Guten Tag.",
+        "Context": "Hmm ... Der Mond ist noch nicht aufgegangen. Ich denke, ich werde mit dem Kuuhenki ein Nickerchen machen."
+      },
+      {
+        "Title": "Guten Abend.",
+        "Context": "„Nachteinbruch“ ... Ein ziemlich interessanter Ausdruck, findest du nicht? Als ob die Nacht jeden Abend zur Tür hereinbricht und dabei über den Mond stolpert."
+      },
+      {
+        "Title": "Gute Nacht.",
+        "Context": "Kannst du nicht schlafen? Hmm ... Die Kuuhenki haben manchmal auch dieses Problem. Wenn das passiert, singe ich ihnen normalerweise etwas vor oder erzähle ihnen Geschichten. Möchtest du, dass ich das auch für dich tue?"
+      },
+      {
+        "Title": "Über Columbina – Augenmaske",
+        "Context": "Ich bin es gewohnt, Dinge mit Kuuvahki zu „spüren“ — es enthüllt die Wahrheit der Dinge besser als das „Sehen“. Trotzdem überwiegt manchmal meine Neugier, und ich öffne die Augen, um einen Blick zu erhaschen. Das ist das Schöne an einer Augenmaske mit Löchern."
+      },
+      {
+        "Title": "Über Columbina – Zuhause",
+        "Context": "Ich dachte früher, dass ich in diesem Land für immer eine Fremde bleiben würde, dass der Mond mein wahres „Zuhause“ sei. Jetzt habe ich einen weiteren Ort, den ich Zuhause nennen kann, und diese beiden Zuhause sind mir nun näher."
+      },
+      {
+        "Title": "Über uns – Große Taten",
+        "Context": "Ich habe schon von dir gehört, lange bevor wir uns begegnet sind. Als ich noch bei den Fatui war, erinnere ich mich, wie die anderen von den Elf von deinen Taten sprachen. Aber du hast so viele Titel, ich ... war eingeschlafen, bevor sie überhaupt zu deinem richtigen Namen kamen."
+      },
+      {
+        "Title": "Über uns – Reise",
+        "Context": "Kannst du mir ein paar Reisetipps geben? Also zum Beispiel ... wie man mit Menschen aus anderen Ländern spricht? Hmm? Ich sollte mich mehr aufs Feuermachen, Jagdtechniken und ... darauf konzentrieren, wie man von A nach B kommt? Hm. Könnte ich für all das nicht einfach Kuuvahki benutzen?"
+      },
+      {
+        "Title": "Über die „Dreifache Lunarkonvergenz“",
+        "Context": "Die drei Göttinnen übertrugen mir ihre Kräfte, die sich zu einer gleichermaßen strahlenden wie sanften Macht vereinten. Durch sie spüre ich ihre Verbundenheit zu diesem Ort und kann die Hoffnungen und Wünsche wahrnehmen, die sie in ihren letzten Momenten dieser Welt darbrachten. Ich werde ihr Mondlicht in mir aufnehmen und damit die Welt unter dem Mond erhellen – den Ort, den wir alle „Zuhause“ nennen."
+      },
+      {
+        "Title": "Willst du mir etwas mitteilen?",
+        "Context": "In Snezhnaya genoss ich als Dritte der Elf der Fatui viele Privilegien. Ich brauchte keine Fahrkarte für den Zug und musste nicht für die Korolevskiy-Theaterkompanie Schlange stehen ... Ach, und wenn ich in einem Restaurant aß, konnte ich die Kosten ... „erstatten“ lassen? Das zu verstehen war mir allerdings etwas zu kompliziert, deshalb bin ich einfach immer mit Sandrone oder Arlecchino mitgegangen."
+      },
+      {
+        "Title": "Interessante Vorkommnisse ...",
+        "Context": "Der Mond ist schöner, als ich es mir je hätte vorstellen können. Blaues Kuuvahki fließt wie ein endloser Ozean, prächtige Quallen treiben über das Meer, rosa Frostflossenwale kommen von unbekannten Orten, riesige Kuuhenki ... Es ist einfach großartig. Sobald mein Zuhause etwas vorzeigbarer ist, werde ich meine Freunde einladen, mich hier zu besuchen."
+      },
+      {
+        "Title": "Über Lauma ...",
+        "Context": "Wenn man einen Strahl aus Mondlicht auf Laumas Kopf richtet, wächst ihr Geweih noch höher, und wenn man den richtigen Winkel erwischt, kann man damit sogar Früchte aufspießen, die zu hoch hängen ... Hmm? Was dann passiert? Oh, ähm ... Man wird ausgeschimpft."
+      },
+      {
+        "Title": "Über Nicole ...",
+        "Context": "Oh, wir standen bis vor Kurzem noch in Kontakt. Ich bat sie, mir Bücher zu empfehlen, die ich den Kuuhenki vorlesen könnte. Sie schickte mir eine ganze Menge und gab mir sogar detaillierte Erklärungen zur Inspiration und zum Hintergrund jedes einzelnen Buches. Ich fragte sie, wann ich wohl ein Buch lesen könnte, das sie selbst geschrieben hat, aber dann hörte ich plötzlich nichts mehr von ihr. Vielleicht ... ist sie losgegangen, um eines zu schreiben."
+      },
+      {
+        "Title": "Über Neuvillette ...",
+        "Context": "Der Wasserdrache, der als Oberster Richter von Fontaine dient? Hmm ... Noch ein Drache, der Menschen ins Gefängnis steckt. Ich bin mir nicht sicher, ob ich ihm begegnen möchte."
+      },
+      {
+        "Title": "Über die sieben Archonten ...",
+        "Context": "Sollten sich unsere Wege während meiner Reise kreuzen, werde ich sie bestimmt grüßen."
+      },
+      {
+        "Title": "Über die Zarin des Eises ...",
+        "Context": "Als ich zum ersten Mal in den Gärten des Zapolyarny-Palasts sang, kam zufällig die Zarin vorbei. Sie stand einfach dort, still und regungslos, wie eine Statue ohne jeglichen Ausdruck im Gesicht. Für einen Moment hatte ich das Gefühl, als wollte sie mir etwas sagen, aber sie tat es nie.\nSie verbirgt ihre Gefühle unter einer dicken Eisschicht. Die Außenwelt sieht nur eine Seite von ihr ... die der Zarin. Wenn die Antworten, die ich suche, auf dem Mond ruhen, liegen ihre vielleicht im Schnee und Eis begraben."
+      },
+      {
+        "Title": "Über „Pierro“ ...",
+        "Context": "Er ist das genaue Gegenteil seines Codenamens, und das scheint beabsichtigt zu sein. Obwohl er als „Pierro“ oder „der Narr“ bekannt ist, spricht er in einem strengen, ernsten Ton und in verwirrenden Rätseln. Die Maske, die er trägt, zeigt ein Grinsen, als wolle sie die Welt verspotten – aber er selbst lächelt nie."
+      },
+      {
+        "Title": "Über „Capitano“ ...",
+        "Context": "Viele respektieren ihn, aber genauso viele fürchten ihn. Hmm? Das ist zu verwirrend? Nun, weißt du, Kreaturen, die es gewohnt sind, in der Dunkelheit zu leben, werden sich nie dafür entscheiden, dem Licht näherzukommen. Es ist zu gefährlich, denn das Licht würde nur ihren eigenen Schatten verlängern."
+      },
+      {
+        "Title": "Über „Il Dottore“ ...",
+        "Context": "Es gab eine Zeit, in der sich „Il Dottore“ um mich kümmerte und sogar behauptete, in mir eine Schwester zu sehen.\nErst später wurde mir klar, je näher man ihm stand, desto mehr nutzte er einen aus. „Was ist schon ein bisschen Unbehagen unter Familienmitgliedern? Wir ertragen das füreinander, nicht wahr?“ So dachte er darüber, und ich spürte, dass er es ernst meinte, aber ich wollte nichts „ertragen“ müssen. Solche Erwartungen ... Sie erinnerten mich an mein erstes Zuhause und an die Augen, die unter dem Altar zu mir hochstarrten, so voller Gier."
+      },
+      {
+        "Title": "Über Arlecchino ...",
+        "Context": "Im Haus des Kamins leben viele Kinder, und da kann es ziemlich laut werden. Als ich sie zum ersten Mal Arlecchino „Vater“ nennen hörte, dachte ich, das wäre dort eine Regel, die alle befolgen müssten. Also benutzte ich diesen Titel auch, als sie das nächste Mal an mir vorbeiging. Und genau in diesem Moment erfuhr ich, wie still es auch im Haus des Kamins sein konnte."
+      },
+      {
+        "Title": "Über „Pulcinella“ ...",
+        "Context": "Ich kann dir beibringen, genauso wie er zu reden – du musst nur die Wörter „Geld“, „dieser verdammte Pantalone“ und „merk dir meine Worte“ kombinieren. Hier, ich zeig’s dir: „Wo ist das Geld? Merk dir meine Worte, ich werde diesen verdammten Pantalone umbringen.“ Oder: „Dieser verdammte Pantalone wird das Geld schon rausrücken, merk dir meine Worte.“ Siehst du? Ist das nicht faszinierend?"
+      },
+      {
+        "Title": "Über Sandrone – Von Natur aus mechanisch",
+        "Context": "Ich frage mich, ob der Schlüssel auf ihrem Rücken jemals aufhört, sich zu drehen. Ändert er die Richtung? Zieht sie ihn zum Schlafen raus? Wie dreht sie sich im Bett um? Seit unserer ersten Begegnung konnte ich nicht aufhören, über diesen Schlüssel nachzudenken. Da wir damals aber noch nicht eng befreundet waren, wäre es nicht richtig gewesen, einfach hinzugehen und ihn anzufassen. Also bin ich ihr, wann immer ich konnte, gefolgt und habe versucht, das Muster seiner Bewegung zu verstehen. Eines Tages drehte sie sich plötzlich um und wollte wissen, warum ich ihr ständig folge. Nachdem ich ihr den Grund erklärt hatte, sagte sie: „Wenn du so neugierig bist, warum befestige ich nicht einen an deinem Rücken? Dann kannst du es selbst herausfinden.“ Also lebte ich ein paar Tage lang mit einem Schlüssel auf dem Rücken, und das war ziemlich herausfordernd. Sandrone hat es wirklich nicht leicht, deshalb achte ich seitdem noch mehr auf sie."
+      },
+      {
+        "Title": "Über Sandrone – Von Natur aus mechanisch II",
+        "Context": "Ich bin mir nicht sicher, was für eine Puppe als „Tod“ zählt ... Ich weiß nur, dass Sandrone sich nicht mehr bewegt, und ich kann auch nicht mehr spüren, dass sie noch „funktioniert“. Ihr Schlüssel hat einfach ... angehalten. Und das alles wegen dieser „Technik“, die sie benutzt hat, um mich zurückzubringen. Sie sagte damals, sie würde es mir heimzahlen. Wie sehr ich mir wünsche, dass es nur das wäre. Nur ein Versuch, mir Angst einzujagen ..."
+      },
+      {
+        "Title": "Über „Pantalone“ ...",
+        "Context": "In seinen Augen hat alles und jeder einen Preis, und er bestimmt deren Wert. Wir sind alle nur Verhandlungsmasse, die er nutzen kann, um sein stetig wachsendes Vermögensimperium zu erweitern. Aber wer würde schon ein so langweiliges Imperium besuchen wollen? Ich jedenfalls nicht.\nHmm ... Wenn er mich jetzt sehen würde, bin ich mir sicher, dass sein Lächeln noch mehr Verachtung als zuvor zu verbergen versuchen würde. Ich kann ihn förmlich hören ... „Gratulation, Fräulein Columbina. Sie sind im Wert gestiegen.“"
+      },
+      {
+        "Title": "Über Rosalyne ...",
+        "Context": "Wenn die Verwandlung damit endet, dass die eigenen Flügel in Flammen aufgehen, ist es vielleicht das Verbleiben im Kokon, was einen rettet. Aber ich bezweifle, dass Rosalyne jemals in Betracht gezogen hat, diese Entscheidung zu treffen, oder vielleicht hatte sie ihr eigenes Ende von Anfang an als solches bestimmt. Ob es nun Liebe, Hass oder ein einfacher Tanz war, sie widmete sich ihren Bestrebungen mit ganzem Herzen ... und überließ es anderen, nach ihrem Abschied ihr Klagelied zu singen."
+      },
+      {
+        "Title": "Über den „Grafen“ ...",
+        "Context": "Ich habe gehört, dass er ein gutes Verhältnis zu seiner Familie hat. Sie gehen zusammen zelten und machen Grillpartys am See. Sandrone meint, er sei derjenige von den Elf, der am meisten wie ein normaler Mensch lebt. Ich verstehe normale Menschen zwar nicht wirklich, aber diese Art Leben klingt für mich doch ganz schön."
+      },
+      {
+        "Title": "Ich will mehr über Columbina erfahren I",
+        "Context": "Hm ...? Meine Geschichte? Ähm ... Das könnte eine Weile dauern. Oh, du hast Tee und Snacks mitgebracht? Na ja, dann könnte ich dir wohl ein bisschen mehr erzählen."
+      },
+      {
+        "Title": "Ich will mehr über Columbina erfahren II",
+        "Context": "Ich habe viel Zeit damit verbracht zu lernen, wie man mit Menschen umgeht und in dieser Welt zurechtkommt. Aber wenn ich jetzt zurückblicke, waren die Nachkommen des Frostmonds und die Fatui vielleicht nicht die besten Lehrmeister. Lange Zeit dachte ich, Beziehungen wären rein geschäftlicher Natur – ihr einziger Zweck sei es herauszufinden, was man sich dabei nehmen könne und was es einen im Gegenzug kosten würde."
+      },
+      {
+        "Title": "Ich will mehr über Columbina erfahren III",
+        "Context": "Ich liebe es, den Kuuhenki Geschichten zu erzählen, und ich liebe es zu singen. In meinem Leben gibt es eine Leere, die schon vor meiner Geburt existierte und mich seitdem begleitet. Meine Geschichte war von Anfang an unvollständig, deshalb habe ich gelernt, andere Geschichten zu nutzen, um die Lücken zu füllen. Es ist wie ... ein Bild zu malen – ich skizziere die Umrisse mit Worten und fülle sie mit Liedern aus."
+      },
+      {
+        "Title": "Ich will mehr über Columbina erfahren IV",
+        "Context": "In der Mondgebetsnacht erhielt ich einen Namen, der zu mir gehört – Columbina Hyposelenia. Früher dachte ich, ein Name sei nichts weiter als ein Pseudonym, etwas, das von einem selbst getrennt ist. Doch nach dieser Nacht wurde mir klar, dass mein Name mich mit dieser Welt und den Menschen darin verbindet ... Er ist all das, was nicht greifbar ist – ihre Freundschaft, Liebe und Unterstützung – sichtbar gemacht für die ganze Welt. Ich werde ihn für immer in Ehren halten."
+      },
+      {
+        "Title": "Ich will mehr über Columbina erfahren V",
+        "Context": "Meine Geschichte ist wie eine rückwärts gespielte Oper. Das Ende kam zuerst, und ich suchte nach dem Warum und Weshalb. Aber wenn ich zurückgehen und alles noch einmal machen könnte, würde ich rein gar nichts ändern. Mir gefällt es so, wie es jetzt ist. Ohne diese Reise hätte ich nie gewusst, dass meine Geburt in Nod-Krai meine eigene Entscheidung war, meine Freunde hätten mir nie geholfen, mit meiner wahren „Familie“ in Verbindung zu treten, und du wärst in jener Nacht Luonnotar nie in den Silbermondhof gefolgt. Meine Geschichte wäre auf eine ganz andere Art leer gewesen. Diese Version gefällt mir überhaupt nicht."
+      },
+      {
+        "Title": "Columbinas Hobbys ...",
+        "Context": "Ich gehe gerne zum Mond hinauf und beobachte in Stille, wie sich Teyvat dreht. Das gibt mir inneren Frieden."
+      },
+      {
+        "Title": "Columbinas Sorgen ...",
+        "Context": "Ich wünschte, ich könnte wie ein normaler Mensch durch Nasha spazieren ... Aber die Leute erkennen mich immer. Liegt es an meiner Kleidung? Oder daran, dass ich mit den Kuuhenki in der Stadt rede? Machen normale Menschen das etwa nicht?"
+      },
+      {
+        "Title": "Was er so mag ...",
+        "Context": "Frisches Obst und Gemüse zusammen mit duftendem Brot ... Hmm? Ach, ich weiß, es klingt etwas schlicht, aber daran bin ich gewöhnt. Das haben mir die Nachkommen des Frostmonds gegeben, als ich in Nod-Krai geboren wurde. Die kleinen Tiere teilten auch oft ihre gesammelten Beeren mit mir. Ich mag Lebensmittel am liebsten in ihrem natürlichsten Zustand – so kannst du einen Blick auf die Welt werfen, wie sie eigentlich sein sollte."
+      },
+      {
+        "Title": "Was sie nicht mag ...",
+        "Context": "„Feuerwasser“ und andere hochprozentige Getränke. Davon gibt es in Snezhnaya eine Menge. Ich war lange dort, aber ich habe mich nie daran gewöhnt. Die Welt beginnt sich zu drehen und dir ist, als würden deine Eingeweide brennen. Ich verstehe einfach nicht, warum die Leute dieses Gefühl mögen, es sei denn ... Wollen sie etwa auch zum Mond schweben?"
+      },
+      {
+        "Title": "Geschenk erhalten I",
+        "Context": "Mehr bitte. Hmm? Oh, war das schon alles? Ich muss daran denken, beim nächsten Mal etwas aufzuheben."
+      },
+      {
+        "Title": "Geschenk erhalten II",
+        "Context": "Das ist wirklich angenehm. Ich werde es im Mondlicht genießen."
+      },
+      {
+        "Title": "Geschenk erhalten III",
+        "Context": "Oh ... Immer, wenn Sandrone sauer auf mich war, hat sie mir auch solche Sachen geschenkt ..."
+      },
+      {
+        "Title": "Dein Geburtstag ...",
+        "Context": "Dein Geburtstag ist jedes Jahr am selben Tag? Wahh, das ist leicht zu merken. Die Mondgebetsnacht findet jedes Jahr zu unterschiedlichen Zeiten statt, deshalb kann ich meinen Geburtstag nur schätzen, indem ich den Mond beobachte. Ein Geburtstag ist doch eine freudige Angelegenheit, oder nicht? Alle versammeln sich zum Tanz, und die Leute bringen auch noch köstliche Opfergaben für dich dar. Hä ...? Bei normalen Menschen sehen Geburtstage nicht so aus? Geschenke, Kuchen und Freunde ...? Oh, das geht auch. Lass uns deine Freunde zur Feier einladen. Ich kann dir ein Lied singen, und wir können sogar Maalaus bitten, dir ein Bild zu malen."
+      },
+      {
+        "Title": "Gedanken über den Aufstieg – Beginn",
+        "Context": "Beim ewigen Mond, die Gezeiten werden anschwellen."
+      },
+      {
+        "Title": "Gedanken über den Aufstieg – Fortschritt",
+        "Context": "Durch den Frostmond soll die Nacht erleuchtet werden."
+      },
+      {
+        "Title": "Gedanken über den Aufstieg – Höhepunkt",
+        "Context": "Durch den Schillernden Mond soll die Dunkelheit noch tiefer in die Schatten geworfen werden."
+      },
+      {
+        "Title": "Gedanken über den Aufstieg – Ende",
+        "Context": "Die Fäden des Schicksals liegen nun in meinen Händen. Von jetzt an wird der Neumond über die Welt unter uns wachen und sie erhellen."
+      },
+      {
+        "Title": "Elementarfähigkeit I",
+        "Context": "Fließe."
+      },
+      {
+        "Title": "Elementarfähigkeit II",
+        "Context": "Woge."
+      },
+      {
+        "Title": "Elementarfähigkeit III",
+        "Context": "Verblasse."
+      },
+      {
+        "Title": "Spezialfähigkeit I",
+        "Context": "Ein neuer Mond geht auf."
+      },
+      {
+        "Title": "Spezialfähigkeit II",
+        "Context": "Drei Monde vereinen sich."
+      },
+      {
+        "Title": "Spezialfähigkeit III",
+        "Context": "Eine mondbeschienene Nacht für alle."
+      },
+      {
+        "Title": "Truhe öffnen I",
+        "Context": "Das nennt man eine „angenehme Überraschung“ ... richtig?"
+      },
+      {
+        "Title": "Truhe öffnen II",
+        "Context": "Hmm, sind sie auch von zu Hause weggelaufen?"
+      },
+      {
+        "Title": "Truhe öffnen III",
+        "Context": "Behalte sie. Ich brauche keine Opfergaben mehr."
+      },
+      {
+        "Title": "Niedrige LP I",
+        "Context": "Mir wird schwindelig ..."
+      },
+      {
+        "Title": "Niedrige LP II",
+        "Context": "Es wird dunkel ..."
+      },
+      {
+        "Title": "Niedrige LP III",
+        "Context": "Es läuft nicht so gut ..."
+      },
+      {
+        "Title": "Verbündeter hat niedrige LP I",
+        "Context": "Fühlst du dich benommen? Lass mich das übernehmen."
+      },
+      {
+        "Title": "Verbündeter hat niedrige LP II",
+        "Context": "Wie wäre es mit einer Pause?"
+      },
+      {
+        "Title": "Ohnmächtig I",
+        "Context": "Der Nachthimmel ... verblasst ... noch einmal ..."
+      },
+      {
+        "Title": "Ohnmächtig II",
+        "Context": "Der Mond ist ... verblasst ..."
+      },
+      {
+        "Title": "Ohnmächtig III",
+        "Context": "Der Preis ... das Zuhause zu verlassen ..."
+      },
+      {
+        "Title": "Leichten Treffer erlitten I",
+        "Context": "Mir geht’s gut ..."
+      },
+      {
+        "Title": "Schweren Treffer erlitten I",
+        "Context": "Autsch ...!"
+      },
+      {
+        "Title": "Schweren Treffer erlitten II",
+        "Context": "... Warum?"
+      },
+      {
+        "Title": "Truppenbeitritt I",
+        "Context": "Lass mich dir etwas Mondlicht leihen."
+      },
+      {
+        "Title": "Truppenbeitritt II",
+        "Context": "Werden wir lange weg sein?"
+      },
+      {
+        "Title": "Truppenbeitritt III",
+        "Context": "Ich werde dir folgen, wohin du auch gehst."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Figurendetails",
+        "Context": "Tag oder Nacht?\nNatürlich die Nacht. Die Welt des Tages ist übervoll von Worten, die sie nicht verstehen kann. „Kuutar“? „Jungfrau“? „Gottheit“? Sie weiß, dass diese Worte wie verschiedene Spiegel sind, die ihr Abbild in dieser fremden Welt reflektieren. Doch das sind nur die Abbilder, die andere sehen wollen. Sie erkennt sich selbst in diesen Spiegeln nicht wieder, genauso wenig wie sie den Mond am Himmel kennt. Zumindest in der Nacht kann sie deutlich die Anziehungskraft spüren, die von jenseits des Himmels kommt. Diese Anziehungskraft ist lautlos, und doch versteht sie sie. Der Frostmond ruft sie nach Hause.\n...\nFrühling, Sommer, Herbst oder Winter?\nNatürlich der Winter. Nach dem Aufruhr des Frühlings, dem Lärm des Sommers und der Ernte des Herbstes legt der Winterschnee seinen Finger sanft auf die Lippen der Welt, als würde er sagen: „Pst, nach all dem Trubel wird es Zeit für etwas Ruhe, nicht wahr?“\nSodann wird die Welt ganz still. Alle Tiere kehren in ihre Behausungen zurück. Und es ist erst im Winter, dass allen bewusst wird, wie wichtig ein warmes „Zuhause“ wirklich ist.\nUnd Columbina? Sie sucht sich gerne einen weichen, dicken Schneehaufen und stürzt sich mit angehaltenem Atem hinein. Für eine Göttin, die „kalt“ kaum spürt, ist dieses Gefühl, von sanftem Schnee umarmt zu werden, einfach nur wunderbar. Ob ihre Kollegen das verstehen können ... ist eine Frage, mit der sie sich gar nicht erst beschäftigt.\n...\nSonnenschein? Regen? Oder doch eher bewölkt?\nEin verregneter Morgen. Denn wenn Columbina erwacht und von draußen das sanfte Prasseln des Regens hört, überkommt sie, „beschützt vom Gewölbe des Silbermondhofs ...“, stets ein Gefühl der Geborgenheit ...\n„Geborgenheit.“ Diese grundlegendste Bedeutung von „Zuhause“ findet im Regen einen stärkeren Widerhall, und allein der Gedanke daran erfüllt Columbina mit einer gewissen Wärme.\nAber die Nacht ist doch immer noch am schönsten, wenn der Himmel klar ist.\n...\nWaren ihre Antworten auf all diese Fragen wirklich richtig? Und würden sie sich in Zukunft noch ändern? Diese Gedanken schwirrten Columbina durch den Kopf.\nWahrscheinlich aber eher nicht. Aber selbst wenn sie sich ändern würde, dann wäre es ihr wahrhaftigstes Selbst in diesem Moment, ihr wahrhaftigstes Ich in dieser Nacht.\nWälder, Seen oder Meere?\nNatürlich mag ich sie alle."
+      },
+      {
+        "Title": "Figurenhintergrund 1",
+        "Context": "Als Erstes hört man den Gesang.\n♪Schlaf, schlaf nun, meine liebe kleine Taube♪\n♪Lass Blumen und schöne Träume vor deinem Fenster blühen♪\n...\nWessen Gesang ist das? Er klingt flüchtig und fern, wie ein Wiegenlied, wie der Anfang einer Geschichte und zugleich wie das Ende einer Geschichte ...\nDanach kommt das Gefühl nach Erde.\nFein, sanft. Darin liegt eine vertraute Kraft verborgen, die sich wie ein Teil ihres eigenen Körpers anfühlt, als wäre es das Fruchtwasser, das sie vor ihrer Geburt umhüllte ...\nDann öffnet sie ihre Augen.\nDas Mondlicht schwebt in der Luft, und die Kleinen fangen dieses flüchtige Gewebe ein, um ihr ein Gewand umzulegen.\nEtwas ruft sie aus der Ferne, von sehr, sehr weit weg. Es ist wie ein Ziehen, eine Art Verbindung. Wie eine Nabelschnur zwischen Mutter und Kind, die noch nicht durchtrennt wurde.\nSie blickt nach oben. Aber am Himmel ist nichts zu sehen, nur ein Vorhang, eine Lüge. Sie weiß nicht warum, doch als sie zum ersten Mal den sternenübersäten Nachthimmel sieht, erkennt sie sofort, dass es eine falsche Lüge ist. Und das, was mit ihr verbunden ist, ist durch den Vorhang dieser Lüge von ihr getrennt.\nWarum wurde sie hier geboren? Oder besser gesagt, warum wurde sie überhaupt geboren? Wer bin ich? Und wessen Gesang war das?\nEine Frage nach der anderen steigt in ihrem Herzen auf. Doch die Welt gibt nicht einmal ein Echo einer Antwort zurück. Manchmal ist es beängstigender, nichts zu hören, als nichts zu sehen.\nSie ahnt, dass diese Fragen sie wohl für immer begleiten werden.\nSie schließt ihre Augen. Die Wahrheit lässt sich nicht unter falschen Lügen finden."
+      },
+      {
+        "Title": "Figurenhintergrund 2",
+        "Context": "Als Columbina zu den Fatui kam, bemerkte sie, dass es dort ganz anders war als bei den Nachkommen des Frostmonds.\nEs schien, als würde niemand schwierige Bitten an sie richten, niemand verlangte etwas von ihr oder verehrte sie, zumindest nicht offensichtlich.\nEinfach als „Kollegin“ gesehen zu werden war für sie etwas Neues, darin lag eine ihr fremde und doch ersehnte „Gleichrangigkeit“, vermischt mit dem vertrauten „Geben und Nehmen“. Sie versuchte noch, sich an dieses Leben zu gewöhnen.\nDie erste Person, die auf sie zuging, war „Il Dottore“. Columbina machte in den Worten dieses Kollegen einen anerkennenden Ton aus. Anerkennung ist anders als Bewunderung, zumindest basiert sie auf der Voraussetzung der „Gleichrangigkeit“.\n„Wenn es dir nichts ausmacht, könntest du mir vielleicht bei einer kleinen Sache helfen?“, fragte der Kollege Columbina höflich.\nHelfen? Sie dachte, das wäre eine Pflicht, die sie erfüllen müsste, aber hier konnte sie tatsächlich wählen? Oder war es ihr Kollege, der ihr diese Wahl gab?\nObwohl in den Worten von „Il Dottore“ ein beunruhigender Widerhall lag, der sie an das ferne Donnergrollen am Horizont erinnerte, war es doch ein gutes Gefühl, eine Wahl zu haben.\nAnfangs war alles normal. In „Il Dottores“ Labor gab es viele seltsame Apparate, und Columbina musste nur ein bisschen ihre Kräfte walten lassen, um hier und da etwas zu bedienen.\n„Sehr gut, das hast du wirklich gut gemacht.“\nColumbina liebte es, gelobt zu werden. Denn auch das war für sie etwas ganz und gar Neues.\nAber schon bald wurden die Komplimente zu „Fast geschafft“, „Da geht noch mehr“ und „Das bekommst du aber doch besser hin“ ...\nPlötzlich wurde Columbina klar, dass „Il Dottore“ nicht sie selbst sah, sondern das, was sie hätte sein sollen, oder besser gesagt, wie weit ihre Kräfte hätte reichen sollen. Das erinnerte sie an die Zeit vor den Fatui ...\nDas stimmte sie ein wenig traurig. Ob andere Menschen auch traurig darüber sind, dass sie so sind, wie sie sind? Sie wusste es nicht, aber sie war es auf jeden Fall.\nNicht weil sie so sein wollte, wie andere sie sehen, sondern weil die anderen nicht sie sahen. Ihr wahres Ich war wie ein Kind auf einer Feier, das einfach beiseite geschoben wurde, es war unerwünscht ..."
+      },
+      {
+        "Title": "Figurenhintergrund 3",
+        "Context": "... Lass uns etwas essen gehen.\nWenn Columbina traurig ist, unternimmt sie gerne Dinge, die ihr Freude bereiten. Sich den Bauch vollzuschlagen ist nur eines davon, aber es ist das, das am leichtesten umzusetzen ist.\n„Es ... es tut mir wirklich leid, verehrte Elf ...“, wurde sie beim Verlassen des Restaurants aufgehalten, während ihr ihr Gegenüber zitternd einen Zettel reichte. Columbina konnte es nicht sehen, aber sie erinnerte sich daran – das war wohl eine Art Vorgang, den man nach dem Essen über sich ergehen lassen musste. Ein anderer Vorgang als bei den Nachkommen des Frostmonds.\nDas Problem war, dass sie sich an all das noch nicht gewöhnt hatte. Sie wusste zwar, dass es sich um eine Art Ritual des „Gebens und Nehmens“ handelte, aber die wenigen Male zuvor hatte sie es zusammen mit ihren beiden neuen Kolleginnen – Arlecchino und Sandrone – vollführt. Genauer gesagt, hatten die beiden es vollführt.\nColumbina wusste nicht, was sie tun sollte. In diesem Moment spürte sie, wie sich bei ihrem Gegenüber eine Angst und Reue ausbreitete, die man sogar mit geschlossenen Augen wahrnehmen konnte. Sie war dafür verantwortlich und fühlte sich deswegen gleichzeitig schuldig und hilflos.\n„Ich ...“, zögerte Columbina, während sie nach den ihr so fremden Worten suchte.\n„Schon gut. Ich kümmere mich darum, du bleibst einfach hier.“ Eine vertraute Stimme erschien plötzlich neben ihr, es war Sandrone.\n„Hmpf, du kannst nicht mal richtig nach einem ‚Bewirtungsbeleg‘ fragen und traust dich trotzdem, allein essen zu gehen? Ach was, bei dir bezweifle ich sogar, dass du ‚bezahlen‘ kannst.“ Diese ungeduldigen Worte klangen auf seltsame Art und Weise beruhigend.\n„Die finanziellen Regelungen der Fatui sind wirklich unflexibel. Unflexibel und kompliziert.“ Sie kritzelte hastig etwas hin und reichte es dem zitternden Angestellten.\n„Schreib ihre Rechnungen ab jetzt auf meinen Namen, das mit der Kostenrückerstattung läuft so oder so gleich ab“, wies Sandrone ihr Gegenüber noch ungeduldig an.\n„Es tut mir leid ...“, sagte Columbina zu ihrer neuen Kollegin. Sie wusste, dass diese ihr geholfen hatte.\n„Hä? Ich habe das doch nicht getan, damit du dich bei mir entschuldigst.“ Sandrone schien nun noch verärgerter zu sein. Aber warum?\n„Äh ...? Du bist nicht böse auf mich?“, fragte Columbina.\n„Was? Warum sollte ich dir böse sein? So bist du eben“, erwiderte sie genervt. „Ich verstehe nur nicht, wie jemand wie du überhaupt durchs Leben kommt ...“\nKein „Das solltest du anders machen“, kein „Das bekommst du aber doch besser hin“ ... nur ein „So bist du eben“.\nObwohl Sandrone immer so ungeduldig klang, lag in ihrer Stimme eine gewisse Akzeptanz dafür, dass Columbina „eben so war“. Columbina freute sich darüber, dass ihre neue Kollegin ihr wahres Ich erkannt hatte.\n„... Was grinst du denn so blöd?“, fragte die nun.\nColumbina schüttelte den Kopf.\n„Ach, nichts weiter. Lass uns das nächste Mal zusammen essen gehen, Sandrone“, sagte sie. „Ich mag es zu sehen, wenn du das ‚mit der Kostenrückerstattung‘ für mich regelst.“\n„... Häh?“ Anscheinend brauchte Sandrone noch etwas Zeit, um sich an Columbinas „direkte Art“ zu gewöhnen."
+      },
+      {
+        "Title": "Figurenhintergrund 4",
+        "Context": "In monderfüllten Nächten verlässt Columbina gerne heimlich den Silbermondhof und begibt sich zu den Behausungen der kleinen Tiere. Das kann dann eine Baumhöhle sein oder auch ein Vogelnest. Sie verweilt in der Nähe, lauscht dem ruhigen Atem der kleinen Tiere und blickt dabei zum Mond am Himmel empor. Als könnte sie sich dadurch vorstellen, wie eine Nacht auf dem Mond wohl aussieht. Entspannt und friedlich. Hoffentlich ist es so.\nIn solchen Nächten setzt sie ihre Träume von einem „Zuhause“ zusammen.\nAls sie damals erneut zur Insel Hiisi zurückkehrte, lernte sie eine der heutigen Mondkantorinnen kennen. Obwohl Columbina so lange Zeit bei den Nachkommen des Frostmonds verbracht hatte, hatte sie noch nie ein so schönes und gewaltiges Geweih gesehen.\n„... Einen Moment bitte.“ Die Göttin des Frostmondes Kanon unterbrach sie. „Ich erinnere mich, dass es bei den Nachkommen des Frostmonds eigentlich viele mit einem Geweih geben sollte.“\nColumbina erklärte, dass es im Verlauf der Geschichte tatsächlich so war, aber heute gibt es nur noch sehr wenige Menschen mit einem Geweih. Ganz zu schweigen von einem so prächtigen Geweih wie das der Mondkantorin.\n„Das Blut dieser Linie wurde unweigerlich verdünnt ...“, seufzte die Göttin des Frostmonds Kanon, „Entschuldige bitte, fahre fort, Columbina Hyposelenia.“\nNachdem Columbina die Mondkantorin kennengelernt hatte, schlich sie sich manchmal heimlich in die Nähe ihrer Wohnung. Dabei bemerkte sie, dass die Gezeiten des Mondes der Mondkantorin eine Art rastlose Qual zu bereiten schienen. In solchen Momenten versuchte Columbina mit ihrer eigenen Kraft, die Gezeiten zu beruhigen, die die Mondkantorin umgab. Manchmal summte sie dabei unbewusst ein paar vertraute Melodien vor sich hin, wie ein Wiegenlied, das sie schon vor ihrer Geburt getröstet hatte.\n„Ein Wiegenlied von vor deiner Geburt?“, diesmal war es Arya, die Göttin des Ewigen Mondes.\nColumbina erklärt die Melodie, die sie vor ihrer Geburt gehört hat.\nDie drei Göttinnen schüttelten ihre Köpfe. Keine von ihnen kannte dieses Lied.\nColumbina erzählte ihren Schwestern weiter von den vielen Geschichten aus der künftigen realen Welt. Sie sprach vom Geschmack der Opfergaben der Zukunft, von den Klängen im Opernhaus ... von Freunden mit Aufziehschlüsseln im Rücken bis zu ehemaligen Engeln, die zu ihren Freunden wurden ...\nUnd schließlich kam die Mondgebetsnacht.\nDie drei Mondgöttinnen waren von der Schönheit dieser Nacht zutiefst bewegt, vielleicht auch deshalb, weil Columbina selbst beim Erzählen von dieser Nacht ein Lächeln nicht unterdrücken konnte.\n„In unserer Zeit haben die Götter im Himmel selten eine so tiefe Verbindung zur irdischen Welt“, sagten die Göttinnen des Frostmonds.\n„Ja, alle sind sehr gut zu mir. Wir spielen sogar manchmal mit Bällen im Wasser.“\n„Schwer vorstellbar. Unsere Zeit war wohl etwas zu konservativ“, seufzte die Göttin des Ewigen Mondes.\n„Freunde kleben sich gegenseitig Sticker ins Gesicht.“\nDie drei Göttinnen ließen einen leisen Ausruf der Bewunderung hören.\n„Wir tauschen unsere Süßigkeiten untereinander aus und kosten, wie die Bonbons unsere Freunde schmecken.“\nDie Göttinnen verstummten. Columbina schien die Blicke, die sie austauschten, zu bemerkt zu haben. Vielleicht waren sie ja neidisch?\nNach einer ganzen Weile seufzte die Göttin des Schillernden Mondes, Sonett, schließlich ...\n„Wahh ...“"
+      },
+      {
+        "Title": "Figurenhintergrund 5",
+        "Context": "Ein Zuhause bedeutet Akzeptanz.\nDer Frostmond durchdrang den trügerischen Himmel und blieb in Teyvat. Columbina Hyposelenia wurde von dieser Welt akzeptiert. Nun ist es an Columbina, zu versuchen, diese Welt zu akzeptieren.\nAls Erstes räumte sie den riesigen Felsbrocken weg, der den Eingang zum Silbermondhof versperrte. Den hatte sie ursprünglich aufgestellt, damit die Nachkommen des Frostmonds und die Fatui sie nicht finden konnten. Jetzt war das nicht mehr nötig.\nIhre Freunde aus Nod-Krai hatten ihr oft gesagt, dass Columbina bei ihnen willkommen sei. Und so sollten ihre Freunde, ja ihre „Familie“ auch bei ihr willkommen sein.\nEin Zuhause bedeutet Freiheit.\nEs gibt keine Regeln mehr, die die eigene Existenz ablehnen, keine verbotenen Orte mehr, niemanden mehr, der einen einfangen will ...\nSie konnte hingehen, wohin sie wollte, und tun, was sie wollte.\nAber der Umgang mit anderen Menschen war am Anfang nicht ganz einfach. So ist sie zum Beispiel bei einem Spaziergang in Nasha fast einer böswilligen Betrugsmasche auf den Leim gegangen und wurde von der herbeieilenden Nefer dafür ausgeschimpft. Ein anderes Mal schlenderte sie sorglos durch Nod-Krai und geriet versehentlich an einen für Außenstehende verbotenen Ort in der Stadt Piramida, von wo Illuga sie hinausbegleiten musste ...\nNa gut, Geschimpftes zu bekommen gehört nun auch mal zum familiären Zusammenleben. Das weiß Columbina.\nNatürlich aber auch, Fehler zu korrigieren.\nEin Zuhause bedeutet ...\n„Haha, ein Zuhause kann noch so viel mehr bedeuten“, dachte Columbina.\nEs sind die kleinen Details im Leben, all die neuen Dinge, die sie erst kürzlich zu erkennen und zu verstehen begann.\nUnd es ist eine Existenz, die sie auf ihrer weiteren Reise durch diese Welt für immer begleiten wird."
+      },
+      {
+        "Title": "Die aus Mondlicht gewebte Augenbinde",
+        "Context": "Für Columbina zeigt sich die „wahre“ Welt oft erst dann, wenn sie ihre Augen schließt.\nNachdem sie erkannte, dass das Firmament der Welt eine falsche Lüge war, verhüllte sie ihre Augen mit einem Schleier aus Mondlicht. Für sie war das nicht hinderlich, im Gegenteil: Die Welt, die sie durch Kuuvahki wahrnahm, erschien ihr sogar noch klarer. Außerdem konnte sie, wenn sie wirklich neugierig war, heimlich ihre Augen öffnen, denn ihre Augenbinde war weitmaschig.\nDie Sterne mögen lügen, aber die Gezeiten der Schwerkraft nicht. Menschen können ihre Gesichtsausdrücke verbergen, aber nicht die Wellen der Emotionen, die aus ihrem Inneren strömen.\nColumbina wartete darauf, dass sie in ihr wahres „Zuhause“ zurückkehren konnte, um dann endlich die Augenbinde abzunehmen, die sie von allen Täuschungen abschirmte.\nDoch nachdem sie eine der Drei Mondschwestern geworden und nach Teyvat zurückgekehrt war, erinnerte sie sich an die Worte der Göttin des Frostmondes Kanon. Sie begann, ihre Augen im Alltag zu öffnen und die Welt um sich herum zu beobachten.\nDer Frühlingswald besitzt so viele wunderbare Farben, und die Schneeflocken im Winter sind so rein und klar.\nEs ist erstaunlich, wie die Wellen am Strand niemals die gleichen Muster formen, und wie die Laternen der Stadt in der Nacht funkeln, als wären sie ein prächtiger Sternenhimmel ...\nSie fühlte sich glücklich.\nVielleicht hätte sie ihre Augen früher öffnen sollen, dachte sie manchmal.\nAber was, wenn ihre bisherigen Erfahrungen sie erst gelehrt haben, die Schönheit der Welt zu sehen? Hätte sie ihre Augen früher geöffnet, hätte sie dann vielleicht nur die Lügen der Welt gesehen?\nColumbina ist sich nicht sicher. Über diese an ihr Innerstes gerichtete, selbstkritische Frage muss sie wohl noch etwas länger nachdenken.\nWas das Jetzt betrifft, will sie ab und zu ihre Augen öffnen, um dieses wunderschöne „Zuhause“ in Erinnerung zu behalten.\nWarum sie die Augen nicht die ganze Zeit offen hält?\n„Hmm ... ich hab mich wohl daran gewöhnt. Außerdem“, Columbina reibt sich die Augen, „Ist es sehr anstrengend, sie die ganze Zeit offenzuhalten. Das nennt man, glaube ich ... ‚Augenermüdung‘?“"
+      },
+      {
+        "Title": "Dreifache Lunarkonvergenz",
+        "Context": "Nachdem Columbina die „Macht der drei Monde“ erhalten hatte, kamen ihr natürlich einige Fragen in den Sinn ...\nKonnte diese Macht wirklich alles bewirken? Und was sollte sie damit nur anstellen?\nSie spürte, dass die Kraft der drei Monde fast alles erfüllen konnte, was sie sich wünschte. Sich frei zwischen dem Mond und Teyvat zu bewegen, sich selbst und andere Gegenstände mühelos zu versetzen, Blumen prächtiger erblühen und Früchte saftiger werden zu lassen ...\nNatürlich hatte sie versucht, Sandrone zu erwecken. Aber das war eine der Sachen, die selbst die Macht der drei Monde nicht für sie tun konnte ...\nWas das andere angeht, wollte sie es entweder nicht tun oder dachte, dass es nicht ihre Aufgabe sei.\nSie liebt die Welt und das Zuhause so, wie es jetzt ist. Nur weil sie es könnte, nach ihrem eigenen Geschmack das Aussehen und die Regeln dieses Zuhauses zu ändern, hält sie für falsch. Unabhängig von den guten oder schlechten Absichten würde sie sich durch solch ein Verhalten nicht von „Il Dottore“ unterscheiden.\nSie sieht diese Welt als „Zuhause“ und nicht als ihr Eigentum. Das ist ein großer Unterschied.\nDeshalb gab sie einen Teil ihrer Kraft auf, damit diese weiterhin wie früher als Schutzschild für diese wunderschöne Heimat dienen konnte. Der Teil, den sie für sich behielt, musste nur ausreichen, um wie zuvor glücklich mit ihren Freunden zu leben und im Notfall das zu beschützen, was ihr am Herzen lag.\nIn diesem Moment verstand Columbina endlich die Entscheidung ihrer drei Schwestern. Mehr als die „Kontrolle“ wollten sie einfach nur diese Welt unter dem Mond „beschützen“.\nSollte sie sagen, dass sie sich als würdige kleine Schwester erwiesen habe? Eine süße Übereinstimmung.\nEs ist fast wie eine Art Erbe, oder wie eine familiäre Maxime der Mondgöttinnen.\nBei diesem Gedanken durchströmte eine wohlige Wärme Columbinas Herz. Es war, als hätte sie wieder etwas gefunden, wonach sie sich schon lange gesehnt hatte.\nDie Verbindung und das Vermächtnis zwischen Familienmitgliedern."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212500,
+      "Name": "Gewebtes Mondlicht",
+      "Description": "Columbinas Kleidung. Die Kuuhenki haben aus dem Stoff, den die Nachkommen des Frostmonds geopfert haben, und ein paar sanften Mondstrahlen diese leichte und anmutige Kleidung für Columbina gewebt. Die unwissenden Nachkommen des Frostmonds verstanden dieses neue Kleid natürlich als ein weiteres Wunder von Kuutar. Kein Wunder also, dass Columbina seitdem manchmal Wünsche wie „Bitte, Kuutar, schenke mir die gleichen geschickten Hände wie du sie besitzt“ hört.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104124,
+    113079,
+    101268,
+    112004,
+    104358,
+    113081
+  ],
+  "NameCard": {
+    "Name": "Columbina – Eines Tages",
+    "Description": "Ein Motiv für Namenskärtchen.\nSie tanzt im seichten Wasser klarer Bäche und lässt sich von der Strömung treiben, um unter den sanften Schatten der Berge wegzudösen. Sie wandert durch die Wellen der Zeit und spielt Verstecken mit den Kuuhenki.\nSie ruht im Garten aller Dinge und summt leise für jedes Lebewesen. In den stillen Stunden vor Tagesanbruch wartet sie auf den Tag ihrer Wiederkunft.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "PicturePrefix": "UI_NameCardPic_Columbina"
+  }
+}

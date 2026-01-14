@@ -1204,5 +1204,51 @@
     "SecondDescriptions": [
       "Dano do Ataque Imersivo dos personagens aumenta em 75%."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Todos os Personagens da Equipe obterão 60% de Bônus de Dano Hydro.",
+      "Todos os Personagens da Equipe obterão 60% de Bônus de Dano Electro."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "O Dano de Ataque Carregado do personagem ativo é aumentado em 75%."
+    ],
+    "SecondDescriptions": [
+      "Dano de Reações Lunares é aumentado em 75%."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Todos os membros da equipe obterão 60% de Bônus de Dano Hydro.",
+      "Todos os membros da equipe recebem um Bônus de Dano Geo de 60%."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Dano de Carga Lunar é aumentado em 75%."
+    ],
+    "SecondDescriptions": [
+      "Dano de Cristalização Lunar é aumentado em 75%."
+    ]
   }
 ]

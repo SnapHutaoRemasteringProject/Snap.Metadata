@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Pulpa de papel de diez Moras",
+    "Description": "Reúne toda la colección de «La leyenda del gran ladrón Reed Miller».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Rezos para el vacío",
+    "Description": "Reúne toda la colección de «Letanías del Lejano Norte».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "... como una abeja produce miel",
+    "Description": "Reúne toda la colección de «El eco de la caracola».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Aparta el velo de las nieves",
+    "Description": "Reúne toda la colección de «Antología del viento boreal».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "La historia de una ciudad",
+    "Description": "Reúne toda la colección de «Breve historia de las hadas de la Estrella Albina».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Un lugar embrujado bajo la luna",
+    "Description": "Reúne toda la colección de «Relatos nocturnos de la frontera».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Cazatesoros del polvo lunar (II)",
+    "Description": "Abre 45 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Cazatesoros del polvo lunar (II)",
+    "Description": "Abre 90 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Cazatesoros del polvo lunar (II)",
+    "Description": "Abre 180 cofres en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "#Aventurer{F#a}{M#o} del polvo lunar (II)",
+    "Description": "Completa 5 pruebas contrarreloj del mundo abierto en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "#Explorad{F#ora}{M#or} continental: Islas bañadas por la luz lunar (II)",
+    "Description": "Revela las regiones del mapa de Nod Krai (Mirador del Mar Vacuo, Llanura Persigueolas y Cumbre Velocinérea).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Arboledas escarchadas más allá de la noche (II)",
+    "Description": "Desbloquea todos los Puntos de teletransporte de Nod Krai (Mirador del Mar Vacuo, Llanura Persigueolas y Cumbre Velocinérea).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Peregrinaje al santuario: Islas bañadas por la luz lunar (II)",
+    "Description": "Desbloquea todos los Santuarios de las Profundidades de Nod Krai (Mirador del Mar Vacuo, Llanura Persigueolas y Cumbre Velocinérea).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Obsequios para la noche: Islas bañadas por la luz lunar (II)",
+    "Description": "Rompe los sellos de todas las cámaras del tesoro kuuhenki de Nod Krai (Mirador del Mar Vacuo, Llanura Persigueolas y Cumbre Velocinérea).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Los vientos se despiertan y las hojas revolotean",
+    "Description": "Los ruiseñores que llevan brasas ardientes en sus picos solo alzan el vuelo durante la noche.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Si la semilla no muere",
+    "Description": "Aunque la flor se marchite, las hojas cumplirán su promesa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Construcción de Punto de encuentro: Campamento del Barranco",
+    "Description": "Construye el Campamento del Barranco hasta el nivel máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Construcción de Punto de encuentro: Jardín de la Bruja",
+    "Description": "Construye el Jardín de la Bruja hasta el nivel máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Construcción de Punto de encuentro: Puesto de Avanzada de Favonius",
+    "Description": "Construye el Puesto de Avanzada de Favonius hasta el nivel máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenata lunar de la noche blanca",
+    "Description": "Completa “Anécdotas selénicas (III)”.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Que el pecado se vuelva contra el pecador",
+    "Description": "Ayuda a Janusz a deshacerse del monstruo de la Ciénaga Sombrapesadilla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "La mano del muerto",
+    "Description": "El apocalipsis aún no ha llegado.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Adiós a la esperanza, y con ella, adiós al temor",
+    "Description": "Presencia cómo un antiguo palacio emerge de la tierra.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "Al este de la luna, al oeste del sol",
+    "Description": "Completa la misión «Al este de la luna, al oeste del sol».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Quis custodiet ipsos custodes?",
+    "Description": "Averigua cuál es el plan de Grazina.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Recuerdos del lobo solitario",
+    "Description": "Y entonces, el Caballero Sanguinario perdió toda ética y moral.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Donde descansan los héroes",
+    "Description": "Sé testigo de la última historia de los Corceles de la Ventisca.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Regresando a casa por caminos distintos",
+    "Description": "Ayuda a Kuzmich a volver a su hogar natal.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Tendremos pan",
+    "Description": "Cocina en un horno unos deliciosos y calientes champiñones ilusorios.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "La colina bajo la luz de la luna",
+    "Description": "Abre la cápsula del tiempo de un habitante anónimo de Hiperbórea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Los senderos de gloria no conducen sino a la tumba",
+    "Description": "Elimina a todos los secuaces del Profesor Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Se trata del tiempo",
+    "Description": "Aprovecha el momento perfecto para contraatacar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Que no caiga al suelo",
+    "Description": "Usa el kuuvahki para absorber y lanzar mandrágoras.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "La delgada línea negra",
+    "Description": "Purifica el poder del Abismo desbordado.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Erraba solitario como una nube",
+    "Description": "Siente la suavidad y elasticidad de las flores mullidas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "El pastor",
+    "Description": "Da un paseo tranquilamente con el carnero perezoso.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "#Ahogad{F#a}{M#o} en la oscuridad",
+    "Description": "#Cae derrotad{F#a}{M#o} por la corrosión del Abismo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "No fue eso lo que sucedió",
+    "Description": "Presencia el regreso de la luna de las pesadillas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "No tentarás a los dioses",
+    "Description": "Ve contra la regla establecida por Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "“Lo llamamos ‘eficiencia’”",
+    "Description": "Rompe el escudo del Susurrador de Pesadillas de las Profundidades Insondables sin haber eliminado a ningún Pescador de las Profundidades Insondables invocado por él.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Un viajero en una noche de invierno",
+    "Description": "¿Hacia dónde la llevará su camino?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "#{F#La viajera}{M#El viajero} y su sombra",
+    "Description": "Quizá este sea el poder que deberías haber tenido desde el principio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Utopía herética",
+    "Description": "Investiga el campo de energía creado por El Doctor.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "La luz lunar de tiempos inmemoriales",
+    "Description": "Conoce a las tres Diosas Lunares del pasado en el lugar en el que están aprisionadas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "El regreso de la Luna Nueva",
+    "Description": "La Luna Nueva asciende y la rueca del destino vuelve a girar...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Navegando hacia el futuro",
+    "Description": "Sé testigo de la alianza entre las distintas facciones de Nod Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "“To the Moon”",
+    "Description": "Llega a la superficie de la luna.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "La verdadera luna",
+    "Description": "Completa la misión «La verdadera luna».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

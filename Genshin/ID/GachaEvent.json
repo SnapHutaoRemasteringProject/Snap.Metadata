@@ -3902,6 +3902,63 @@
     ]
   },
   {
+    "Name": "Somnias a Luna",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/eb985e8d125be761a03ad1b40dc0ce17_4240908947406324758_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/eb985e8d125be761a03ad1b40dc0ce17_4240908947406324758_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Penggerak Bintang-Bintang",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/152b1fc3526a51bccd23fa8456748271_569191645251835486_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/152b1fc3526a51bccd23fa8456748271_569191645251835486_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Epitome Invocation",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/3ba0134315700f8a6c42046097705110_3036085201682133050_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/3ba0134315700f8a6c42046097705110_3036085201682133050_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
+    ]
+  },
+  {
     "Name": "Bayangan Gelora Perapian",
     "Version": "5.3",
     "Order": 2,
@@ -5040,6 +5097,42 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Harmoni Kelimpahan",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/0546671fcdae108c93b84b5d3512e5d7_1844838912505613180_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/0546671fcdae108c93b84b5d3512e5d7_1844838912505613180_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000126
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
+    ]
+  },
+  {
+    "Name": "Titah di Kedalaman Lautan",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/792cbcab9249949ef6be6466b6549cbd_3134844590966748025_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/792cbcab9249949ef6be6466b6549cbd_3134844590966748025_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000087
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
     ]
   }
 ]

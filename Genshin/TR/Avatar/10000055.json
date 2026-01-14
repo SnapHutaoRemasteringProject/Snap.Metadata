@@ -716,7 +716,7 @@
       {
         "Id": 552,
         "Name": "Oturan Tazı: Saat Gibi İstikrarlı",
-        "Description": "<color=#FFD780FF>Generalin Görkemi</color> devredeyken yakındaki aktif bir karakter Kristalleşme tepkimesinden bir Element Parçası elde ederse becerinin süresi 1 saniye uzar. \nBu etki 0,1 saniyede bir uygulanabilir. Maksimum 3 saniye uzayabilir.",
+        "Description": "<color=#FFD780FF>Generalin Görkemi</color> devredeyken yakındaki aktif bir karakter Kristalleşme tepkimesinden bir Element Parçası elde ederse veya bir Ay Kristalleşmesi tepkimesi tetiklerse Generalin Görkeminin süresi 1 saniye uzar.\nBu etki 0,1 saniyede bir tetiklenebilir. Süre maksimum 3 saniye uzayabilir.",
         "Icon": "UI_Talent_S_Gorou_02"
       },
       {

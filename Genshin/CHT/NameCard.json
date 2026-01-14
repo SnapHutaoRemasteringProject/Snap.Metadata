@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "哥倫比婭·幾時",
+    "Description": "名片紋飾。\n在清溪淺灘中起舞，在蒼白山影下入夢。在時間的漣漪中漂流，與月靈玩耍躲藏。\n在萬物的花園裡小憩，對所有生靈哼唱。夜央未旦，她等待著，幾時的相見。",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "茲白·煙景",
+    "Description": "名片紋飾。\n夫天地者，萬物之逆旅也；光陰者，百代之過客也。",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "葉洛亞·魘鶯",
+    "Description": "名片紋飾。\n滿過了黑夜的鶯鳥，會用熱情報答白日世界的一切，也會用憤怒去燎盡夢魘。",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "成就·眺遠",
+    "Description": "名片紋飾。\n旅人曾站在市鎮的高處向遠處眺望，自信那些目及處尚且遙遠的景色，終將變成未來旅途紀錄中的節點。",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "挪德卡萊·長燈",
+    "Description": "名片紋飾。\n總會有燈在天幕最漆黑時亮起，如是一夜，如是千百夜。",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "紀行·奔霄",
+    "Description": "名片紋飾。\n祈我明月，祝我良朝，襲我春帔，共我奔霄。",
+    "SpecialDescription": "「紀行·奔霄」名片紋飾",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

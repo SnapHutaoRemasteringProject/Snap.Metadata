@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Bênção do Cristal Pyro</color>",
-    "Description": "Todos os membros da equipe ganham <color=#f39001>50%</color> de Bônus de Dano Geo e Pyro. Adicionalmente, você obterá Fragmentos de Cristalização próximos a cada <color=#f39001>4</color>s"
+    "Description": "Todos os membros da equipe ganham <color=#f39001>70%</color> de Bônus de Dano Geo e Pyro. Adicionalmente, você obterá Fragmentos de Cristalização próximos a cada <color=#f39001>4</color>s"
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Golpes de Estilhaços</color>",
-    "Description": "Enquanto a <color=#f39001>Bênção do Cristal Pyro</color> estiver ativa, libera na posição do personagem e causa <color=#e09800>Dano Geo em uma AdE</color> a cada <color=#f39001>{0}</color>s"
+    "Description": "Enquanto a <color=#f39001>Bênção do Cristal Pyro</color> estiver ativa, desencadeia em intervalos de tempo na posição do personagem, causando <color=#e09800>Dano Geo em uma AdE</color>"
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Bênção do Cristal Hydro</color>",
-    "Description": "Todos os membros da equipe recebem <color=#f39001>50%</color> de Bônus de Dano Hydro e Geo. Além disso, obtém Fragmentos Elementais próximos a cada <color=#f39001>4</color>s"
+    "Description": "Todos os membros da equipe ganham <color=#f39001>70%</color> de Bônus de Dano Geo e Hydro, e o Dano de Cristalização Lunar é aumentado em <color=#f39001>75%</color>. Adicionalmente, você obterá cristais próximos de Cristalização a cada <color=#f39001>4</color>s"
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Coordenador Felino de Assistência Doméstica",
     "Description": "Uma das pequenas bugigangas que Jahoda, uma ex-caçadora de tesouro, costumava levar. É jogado depois de lançar o Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color>.\nO Coordenador Felino de Assistência Doméstica regenera Vida do personagem ativo continuamente. Se o personagem que receber a Cura tiver mais de 70% de Vida, regenera Vida para o personagem próximo da equipe com Vida mais baixa.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: se houver um inimigo próximo afetado por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, o Coordenador Felino de Assistência Doméstica se converterá para o Tipo Elemental correspondente. A conversão segue a ordem de prioridade <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> e <color=#99FFFFFF>Cryo</color>. É possível passar pela Conversão Elemental uma vez por Coordenador Felino de Assistência Doméstica jogado. Depois de passar pela Conversão Elemental, o Coordenador Felino de Assistência Doméstica atacará até 3 inimigos próximos periodicamente, causando Dano Elemental correspondente."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Efeitos bônus adicionais",
+    "Description": "#Ressoando com cada elemento, {F#a}{M#o} Viajante obtém o fortalecimento do Atributo correspondente:\n<color=#80FFD7FF>Anemo</color>: aumenta a Taxa CRIT em 10%.\n<color=#FFE699FF>Geo</color>: aumenta a DEF em 20%.\n<color=#FFACFFFF>Electro</color>: aumenta a Recarga de Energia em 20%.\n<color=#99FF88FF>Dendro</color>: aumenta a Proficiência Elemental em 60.\n<color=#80C0FFFF>Hydro</color>: aumenta a Vida em 20%.\n<color=#FF9999FF>Pyro</color>: aumenta o ATQ em 20%.\n<color=#99FFFFFF>Cryo</color>: aumenta o Dano CRIT em 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Onda Gravitacional",
+    "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>Maré Eterna</color>, Columbina invoca <color=#FFD780FF>Onda Gravitacional</color>.\nOnda Gravitacional segue o personagem ativo, continuamente causando <color=#80C0FFFF>Dano Hydro em AdE</color> contra os inimigos próximos.\n\nAlém disso, enquanto Onda Gravitacional existir e um membro próximo da equipe causar Reações Lunares, ou causar Dano de Reações Lunares, Columbina obtém o efeito Sinal da Lua Nova pelos próximos 2s, acumulando <color=#FFD780FF>Gravitação</color> continuamente. É possível acumular 20 de Gravitação a cada 2s.\nO máximo de Gravitação é 60, e será removido quando a duração de Onda Gravitacional acabar.\nQuando Gravitação atingir o limite máximo, desencadeará a especial <color=#FFD780FF>Interferência Kuuvahki</color>, gerando efeitos diferentes de acordo com a quantidade máxima de Gravitação acumulada dos tipos de Reações Lunares de Columbina. Se o máximo de Gravitação acumulada por Columbina for da Reação Lunar do tipo:\n· <color=#FFD780FF>Carga Lunar</color>: Interferência Kuuvahki causa uma instância de <color=#FFACFFFF>Dano Electro em AdE</color>. Esse Dano é considerado Dano de Carga Lunar.\n· <color=#FFD780FF>Florescimento Lunar</color>: Interferência Lunar dispara 5 Selos Lunares contra os inimigos próximos, causando <color=#99FF88FF>Dano Dendro</color>. Esse Dano é considerado Dano de Florescimento Lunar.\n· <color=#FFD780FF>Cristalização Lunar</color>: Interferência Kuuvahki causa uma instância de <color=#FFE699FF>Dano Geo em AdE</color>. Esse Dano é considerado Dano de Cristalização Lunar."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Domínio Lunar",
+    "Description": "Depois de lançar o Supremo <color=#FFD780FF>Melancolia Sob o Luar</color>, Columbina invoca um domínio.\nQuando o personagem está dentro do <color=#FFD780FF>Domínio Lunar</color>, aumenta o Dano de Reações Lunares causados por todos os personagens."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Orvalho Verdejante da Montanha Lunar",
+    "Description": "Um Orvalho Verdejante especial fornecido pelo Talento Passivo <color=#FFD780FF>Regras Próprias da Lua Nova</color> de Columbina. Sua capacidade máxima e duração são contadas separadamente.\nQuando o Orvalho Verdejante da equipe acabar, consumirá o <color=#FFD780FF>Orvalho Verdejante da Montanha Lunar</color>.\nLimite máximo de <color=#FFD780FF>Orvalho Verdejante da Montanha Lunar</color> é de 3."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Canção de Luscinia",
+    "Description": "Efeito que Illuga obtém depois de lançar seu Supremo <color=#FFD780FF>Reflexo Vazio</color>. Aumenta o <color=#FFE699FF>Dano Geo</color> causado pelo personagem atual."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Conversão de Fase Lunar",
+    "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color>, Zibai troca para esse modo. Esse modo dura até {PARAM#P1263201|4S1}s, e possui as seguintes propriedades:\n· Ao realizar um Ataque Normal e Carregado, causa <color=#FFE699FF>Dano Geo</color> que não pode ser substituído.\n· A Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color> será substituída pela Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color>. Quando Zibai possui pelo menos 70 de <color=#FFD780FF>Radiância da Conversão</color>, consome 70 acúmulo de Radiância da Conversão, lança Passos do Alazão Espiritual causando duas instâncias de <color=#FFE699FF>Dano Geo</color>, com o Dano do 2º Golpe é considerado Dano de Cristalização Lunar.\n\nLimite máximo de <color=#FFD780FF>Radiância da Conversão</color> é 100. Zibai pode acumular Radiância da Conversão das seguintes formas:\n· Quando está no modo <color=#FFD780FF>Conversão de Fase Lunar</color>, acumula 10 de Radiância da Conversão por segundo.\n· Quando o Ataque Normal atinge o inimigo, acumula 5 de Radiância da Conversão. É possível acumular Radiância da Conversão uma vez a cada 0.5s dessa forma.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nQuando um membro próximo da equipe desencadeia Cristalização Lunar, Zibai acumula 35 de <color=#FFD780FF>Radiância da Conversão</color>. É possível acumular Radiância da Conversão< uma vez a cada 4s dessa forma. Lançar a Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color> redefinirá a Recarga de <color=#FFD780FF>Radiância da Conversão</color> acumulada dessa forma.\n\nDepois de lançar <color=#FFD780FF>Radiância da Conversão</color> 4 vezes, ou quando a duração acabar, Zibai sai desse modo."
   }
 ]

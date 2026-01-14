@@ -716,7 +716,7 @@
       {
         "Id": 552,
         "Name": "Repos canin : Aplomb du temps",
-        "Description": "Lorsqu'un personnage déployé à proximité obtient un fragment élémentaire généré par une réaction de Cristallisation alors qu'un <color=#FFD780FF>prestige de général</color> est actif, la durée du prestige de général de Gorou augmente de 1 s.\nCet effet peut être déclenché une fois toutes les 0,1 s, et sa durée peut être prolongée d'un maximum de 3 s de cette manière.",
+        "Description": "Lorsqu'un personnage déployé à proximité obtient un fragment élémentaire généré par une réaction de Cristallisation, ou déclenche une réaction de Sélénocristallisation, alors qu'un <color=#FFD780FF>prestige de général</color> est actif, la durée du prestige de général de Gorou augmente de 1 s.\nCet effet peut être déclenché une fois toutes les 0,1 s, et sa durée peut être prolongée d'un maximum de 3 s de cette manière.",
         "Icon": "UI_Talent_S_Gorou_02"
       },
       {

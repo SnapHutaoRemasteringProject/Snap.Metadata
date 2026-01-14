@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Chuyện Ba Xu",
+    "Description": "Thu thập trọn bộ \"Đạo Tặc Reed Miller Huyền Thoại\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Tín Ngưỡng Hư Vô",
+    "Description": "Thu thập trọn bộ \"Tập Thơ Nơi Cực Bắc\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "...Như Mật Ong Tạo Bởi Ong",
+    "Description": "Thu thập trọn bộ \"Tiếng Vọng Của Ốc Biển\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Vén Lên Bức Màn Tuyết",
+    "Description": "Thu thập trọn bộ \"Tuyển Tập Gió Bắc\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "Lịch Sử Của Một Thành Phố",
+    "Description": "Thu thập trọn bộ \"Lược Sử Fae Sao Nhạt\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Vương Quốc Fae Dưới Trăng",
+    "Description": "Thu thập trọn bộ \"Chuyện Đêm Vùng Biên\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Thợ Săn Kho Báu Bụi Trăng II",
+    "Description": "Mở 45 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Thợ Săn Kho Báu Bụi Trăng II",
+    "Description": "Mở 90 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Thợ Săn Kho Báu Bụi Trăng II",
+    "Description": "Mở 180 rương báu tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Nhà Mạo Hiểm Bụi Trăng II",
+    "Description": "Hoàn thành 5 khiêu chiến Đại Thế Giới trong thời gian quy định tại Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Thám Hiểm Đại Lục - Đảo Ánh Trăng II",
+    "Description": "Thắp sáng bản đồ Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ trong khu vực Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Rừng Sương Vượt Đêm Đen II",
+    "Description": "Mở khóa tất cả điểm dịch chuyển ở Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ trong khu vực Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Thánh Đường Hành Hương - Đảo Ánh Trăng II",
+    "Description": "Mở phong ấn tất cả Đền Địa Linh ở Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ trong khu vực Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Truy Vết Màn Đêm - Đảo Ánh Trăng II",
+    "Description": "Mở khóa tất cả phong ấn Vùng Đất Kho Báu Kuuhenki ở Trạm Gác Biển Hư Không, Đồng Bằng Đuổi Sóng và Đỉnh Tro Phủ thuộc khu vực Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Gió Đã Tỉnh Lại, Lá Rụng Bay Lượn...",
+    "Description": "Con chim dạ oanh ngậm đốm lửa cháy chỉ bay lên khi đêm đen kéo đến.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Nếu Hạt Giống Còn Sống",
+    "Description": "Cho dù hoa tàn, lá cũng sẽ giữ đúng lời hứa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Xây Nơi Tụ Họp: Doanh Trại Vách Đá",
+    "Description": "Xây dựng Doanh Trại Vách Đá đạt cấp tối đa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Xây Nơi Tụ Họp: Khu Vườn Ma Nữ",
+    "Description": "Xây dựng Khu Vườn Ma Nữ đạt cấp tối đa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Xây Nơi Tụ Họp: Pháo Đài Tây Phong",
+    "Description": "Xây dựng Pháo Đài Tây Phong đạt cấp tối đa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Khúc Đêm Trắng Dưới Trăng",
+    "Description": "Hoàn thành \"Sử Ký Bên Trăng III\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Trừng Phạt Tội Đồ Bằng Tội Ác",
+    "Description": "Giúp Janusz giải quyết ma vật ở Đầm Lầy Bóng Tối.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Thẻ Tử",
+    "Description": "Ngày tận thế vẫn chưa đến.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Từ Biệt Hy Vọng, Từ Biệt Nỗi Sợ",
+    "Description": "Chứng kiến cung điện cổ xưa trồi lên từ lòng đất.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"Phía Đông Của Mặt Trăng, Phía Tây Của Mặt Trời\"",
+    "Description": "Hoàn thành \"Phía Đông Của Mặt Trăng, Phía Tây Của Mặt Trời\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Ai Sẽ Giám Sát Người Giám Sát",
+    "Description": "Biết được kế hoạch của Grazina.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Hồi Ức Sói Hoang Rời Đàn",
+    "Description": "Kể từ đó, Kỵ Sĩ Nhuốm Máu đã từ biệt thế giới loài người...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Nơi Trở Về Của Anh Linh",
+    "Description": "Chứng kiến câu chuyện cuối cùng của Ngựa Gió Lạnh.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Lối Rẽ Trở Về",
+    "Description": "Hỗ trợ cho hành trình trở về quê nhà của Kuzmich.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Sẽ Có Bánh Mì",
+    "Description": "Dùng lò để nướng Nấm Kỳ Ảo nóng hổi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Đồi Dưới Ánh Trăng",
+    "Description": "Mở nang thời gian do người Hyperborea vô danh để lại.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Đường Vinh Quang Dẫn Về Nấm Mồ",
+    "Description": "Tiêu diệt toàn bộ vây cánh của \"giáo sư\" Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Thời Cơ Là Tất Cả",
+    "Description": "Nắm bắt chính xác thời cơ phản công.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Đừng Rơi Xuống Đất",
+    "Description": "Dùng Kuuvahki để hút và ném Mandragora.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Sợi Dây Đen Mảnh",
+    "Description": "Thanh tẩy sức mạnh Vực Sâu tràn lan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Nhẹ Nhàng Bồng Bềnh",
+    "Description": "Cảm nhận sự mềm mại và đàn hồi của Hoa Bông Dẻo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Người Chăn Cừu",
+    "Description": "Cùng Cừu Lười nhàn nhã dạo bước.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "Chìm Trong Bóng Tối",
+    "Description": "Ngã xuống dưới sự ăn mòn của Năng Lượng Xâm Thực Vực Sâu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Vốn Nên Như Vậy",
+    "Description": "Chứng kiến sự trở về của Trăng Ác Mộng.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Đừng Thăm Dò Thần Linh",
+    "Description": "Vi phạm quy tắc mà Dottore đặt ra.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"Đó Gọi Là Hiệu Quả\"",
+    "Description": "Phá vỡ khiên của Chúa Tể Ác Mộng U Ám khi chưa tiêu diệt bất kỳ Thợ Câu U Ám do nó triệu hồi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Nếu Một Đêm Đông, Có Vị Lữ Khách",
+    "Description": "Con đường của cô ấy sẽ dẫn về đâu?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Lữ Khách Và Bóng Của Mình",
+    "Description": "Có lẽ đây mới chính là sức mạnh mà bạn vốn phải có.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Thiên Đường Dị Giáo",
+    "Description": "Điều tra vùng năng lượng do Dottore tạo ra.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Ngước Nhìn Ánh Trăng Cổ Xưa",
+    "Description": "Trong nhà tù giam cầm Nguyệt Thần, gặp được ba nữ thần mặt trăng của quá khứ.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Tân Nguyệt Trở Về",
+    "Description": "Lúc này Tân Nguyệt vừa ló dạng, bánh xe định mệnh lại bắt đầu chuyển động...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Khởi Hành Đến Tương Lai",
+    "Description": "Chứng kiến sự liên minh của các thế lực tại Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "To the Moon",
+    "Description": "Đặt chân lên bề mặt của mặt trăng.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Mặt Trăng Thực Sự",
+    "Description": "Hoàn thành \"Mặt Trăng Thực Sự\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

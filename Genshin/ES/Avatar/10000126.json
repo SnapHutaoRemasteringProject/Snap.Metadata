@@ -1,0 +1,1270 @@
+{
+  "Id": 10000126,
+  "PromoteId": 126,
+  "Sort": 112,
+  "Body": 3,
+  "Icon": "UI_AvatarIcon_Zibai",
+  "SideIcon": "UI_AvatarIcon_Side_Zibai",
+  "Name": "Zibai",
+  "Description": "La Adeptus Yegua Blanca de las leyendas de Liyue, conocida como Zibai. Es la Adeptus más misteriosa de entre todos los mitos de la nación.",
+  "BeginTime": "2026-02-03T18:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 1,
+  "BaseValue": {
+    "HpBase": 1005.7526,
+    "AttackBase": 17.5028,
+    "DefenseBase": 74.48835
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12631,
+        "Proud": {
+          "Descriptions": [
+            "Daño de 1er golpe|{param1:F1P}",
+            "Daño de 2.º golpe|{param2:F1P}",
+            "#Daño de 3er golpe|{param3:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param4:F1P}",
+            "Daño de 4.º golpe|{param5:F1P}",
+            "#Daño de ATQ Cargado|{param6:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param7:F1P}",
+            "Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
+            "Daño de Caída|{param9:F1P}",
+            "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1263101,
+              "Level": 1,
+              "Parameters": [
+                0.505542,
+                0.465527,
+                0.308882,
+                0.308882,
+                0.778954,
+                0.73659,
+                0.73659,
+                20,
+                0.639324,
+                1.278377,
+                1.596762
+              ]
+            },
+            {
+              "Id": 1263102,
+              "Level": 2,
+              "Parameters": [
+                0.546691,
+                0.503418,
+                0.334023,
+                0.334023,
+                0.842357,
+                0.796545,
+                0.796545,
+                20,
+                0.691362,
+                1.382431,
+                1.726731
+              ]
+            },
+            {
+              "Id": 1263103,
+              "Level": 3,
+              "Parameters": [
+                0.58784,
+                0.54131,
+                0.359165,
+                0.359165,
+                0.90576,
+                0.8565,
+                0.8565,
+                20,
+                0.7434,
+                1.486485,
+                1.8567
+              ]
+            },
+            {
+              "Id": 1263104,
+              "Level": 4,
+              "Parameters": [
+                0.646624,
+                0.595441,
+                0.395082,
+                0.395082,
+                0.996336,
+                0.94215,
+                0.94215,
+                20,
+                0.81774,
+                1.635134,
+                2.04237
+              ]
+            },
+            {
+              "Id": 1263105,
+              "Level": 5,
+              "Parameters": [
+                0.687773,
+                0.633333,
+                0.420223,
+                0.420223,
+                1.059739,
+                1.002105,
+                1.002105,
+                20,
+                0.869778,
+                1.739187,
+                2.172339
+              ]
+            },
+            {
+              "Id": 1263106,
+              "Level": 6,
+              "Parameters": [
+                0.7348,
+                0.676638,
+                0.448956,
+                0.448956,
+                1.1322,
+                1.070625,
+                1.070625,
+                20,
+                0.92925,
+                1.858106,
+                2.320875
+              ]
+            },
+            {
+              "Id": 1263107,
+              "Level": 7,
+              "Parameters": [
+                0.799462,
+                0.736182,
+                0.488464,
+                0.488464,
+                1.231834,
+                1.16484,
+                1.16484,
+                20,
+                1.011024,
+                2.02162,
+                2.525112
+              ]
+            },
+            {
+              "Id": 1263108,
+              "Level": 8,
+              "Parameters": [
+                0.864125,
+                0.795726,
+                0.527973,
+                0.527973,
+                1.331467,
+                1.259055,
+                1.259055,
+                20,
+                1.092798,
+                2.185133,
+                2.729349
+              ]
+            },
+            {
+              "Id": 1263109,
+              "Level": 9,
+              "Parameters": [
+                0.928787,
+                0.85527,
+                0.567481,
+                0.567481,
+                1.431101,
+                1.35327,
+                1.35327,
+                20,
+                1.174572,
+                2.348646,
+                2.933586
+              ]
+            },
+            {
+              "Id": 1263110,
+              "Level": 10,
+              "Parameters": [
+                0.999328,
+                0.920227,
+                0.61058,
+                0.61058,
+                1.539792,
+                1.45605,
+                1.45605,
+                20,
+                1.26378,
+                2.527025,
+                3.15639
+              ]
+            },
+            {
+              "Id": 1263111,
+              "Level": 11,
+              "Parameters": [
+                1.069869,
+                0.985184,
+                0.65368,
+                0.65368,
+                1.648483,
+                1.55883,
+                1.55883,
+                20,
+                1.352988,
+                2.705403,
+                3.379194
+              ]
+            },
+            {
+              "Id": 1263112,
+              "Level": 12,
+              "Parameters": [
+                1.14041,
+                1.050141,
+                0.69678,
+                0.69678,
+                1.757174,
+                1.66161,
+                1.66161,
+                20,
+                1.442196,
+                2.883781,
+                3.601998
+              ]
+            },
+            {
+              "Id": 1263113,
+              "Level": 13,
+              "Parameters": [
+                1.21095,
+                1.115099,
+                0.73988,
+                0.73988,
+                1.865866,
+                1.76439,
+                1.76439,
+                20,
+                1.531404,
+                3.062159,
+                3.824802
+              ]
+            },
+            {
+              "Id": 1263114,
+              "Level": 14,
+              "Parameters": [
+                1.281491,
+                1.180056,
+                0.78298,
+                0.78298,
+                1.974557,
+                1.86717,
+                1.86717,
+                20,
+                1.620612,
+                3.240537,
+                4.047606
+              ]
+            },
+            {
+              "Id": 1263115,
+              "Level": 15,
+              "Parameters": [
+                1.352032,
+                1.245013,
+                0.826079,
+                0.826079,
+                2.083248,
+                1.96995,
+                1.96995,
+                20,
+                1.70982,
+                3.418915,
+                4.27041
+              ]
+            }
+          ]
+        },
+        "Id": 11261,
+        "Name": "Toque floral filoáureo",
+        "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques consecutivos con espada.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume cierta cantidad de Aguante para desatar un doble golpe de espada.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
+        "Icon": "Skill_A_01"
+      },
+      {
+        "GroupId": 12632,
+        "Proud": {
+          "Descriptions": [
+            "Daño de 1er golpe de intersticio faselunar|{param6:F1P} de DEF",
+            "Daño de 2.º golpe de intersticio faselunar|{param7:F1P} de DEF",
+            "#Daño de 3er golpe de intersticio faselunar|{param8:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param9:F1P} de DEF",
+            "Daño de 4.º golpe de intersticio faselunar|{param10:F1P} de DEF",
+            "#Daño de ATQ Cargado de intersticio faselunar|{param11:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param12:F1P} de DEF",
+            "Daño de 1er golpe de Pisotón yeguaespiritual|{param1:F1P} de DEF",
+            "Daño de 2.º golpe de Pisotón yeguaespiritual|{param2:F1P} de DEF",
+            "Daño adicional del 4.º golpe de intersticio faselunar|{param3:F1P} de DEF",
+            "#Duración de intersticio faselunar|{param4:F1}{NON_BREAK_SPACE}s",
+            "TdE|{param5:F1} s"
+          ],
+          "Parameters": [
+            {
+              "Id": 1263201,
+              "Level": 1,
+              "Parameters": [
+                1.72528,
+                1.40968,
+                0.29456,
+                15,
+                18,
+                0.565792,
+                0.521007,
+                0.345694,
+                0.345694,
+                0.871788,
+                0.6595,
+                0.6595
+              ]
+            },
+            {
+              "Id": 1263202,
+              "Level": 2,
+              "Parameters": [
+                1.854676,
+                1.515406,
+                0.316652,
+                15,
+                18,
+                0.608226,
+                0.560083,
+                0.371621,
+                0.371621,
+                0.937172,
+                0.708962,
+                0.708962
+              ]
+            },
+            {
+              "Id": 1263203,
+              "Level": 3,
+              "Parameters": [
+                1.984072,
+                1.621132,
+                0.338744,
+                15,
+                18,
+                0.650661,
+                0.599158,
+                0.397548,
+                0.397548,
+                1.002556,
+                0.758425,
+                0.758425
+              ]
+            },
+            {
+              "Id": 1263204,
+              "Level": 4,
+              "Parameters": [
+                2.1566,
+                1.7621,
+                0.3682,
+                15,
+                18,
+                0.70724,
+                0.651259,
+                0.432117,
+                0.432117,
+                1.089735,
+                0.824375,
+                0.824375
+              ]
+            },
+            {
+              "Id": 1263205,
+              "Level": 5,
+              "Parameters": [
+                2.285996,
+                1.867826,
+                0.390292,
+                15,
+                18,
+                0.749674,
+                0.690335,
+                0.458044,
+                0.458044,
+                1.155119,
+                0.873838,
+                0.873838
+              ]
+            },
+            {
+              "Id": 1263206,
+              "Level": 6,
+              "Parameters": [
+                2.415392,
+                1.973552,
+                0.412384,
+                15,
+                18,
+                0.792109,
+                0.72941,
+                0.483971,
+                0.483971,
+                1.220503,
+                0.9233,
+                0.9233
+              ]
+            },
+            {
+              "Id": 1263207,
+              "Level": 7,
+              "Parameters": [
+                2.58792,
+                2.11452,
+                0.44184,
+                15,
+                18,
+                0.848688,
+                0.781511,
+                0.51854,
+                0.51854,
+                1.307682,
+                0.98925,
+                0.98925
+              ]
+            },
+            {
+              "Id": 1263208,
+              "Level": 8,
+              "Parameters": [
+                2.760448,
+                2.255488,
+                0.471296,
+                15,
+                18,
+                0.905267,
+                0.833612,
+                0.55311,
+                0.55311,
+                1.394861,
+                1.0552,
+                1.0552
+              ]
+            },
+            {
+              "Id": 1263209,
+              "Level": 9,
+              "Parameters": [
+                2.932976,
+                2.396456,
+                0.500752,
+                15,
+                18,
+                0.961846,
+                0.885712,
+                0.587679,
+                0.587679,
+                1.48204,
+                1.12115,
+                1.12115
+              ]
+            },
+            {
+              "Id": 1263210,
+              "Level": 10,
+              "Parameters": [
+                3.105504,
+                2.537424,
+                0.530208,
+                15,
+                18,
+                1.018426,
+                0.937813,
+                0.622248,
+                0.622248,
+                1.569218,
+                1.1871,
+                1.1871
+              ]
+            },
+            {
+              "Id": 1263211,
+              "Level": 11,
+              "Parameters": [
+                3.278032,
+                2.678392,
+                0.559664,
+                15,
+                18,
+                1.075005,
+                0.989914,
+                0.656818,
+                0.656818,
+                1.656397,
+                1.25305,
+                1.25305
+              ]
+            },
+            {
+              "Id": 1263212,
+              "Level": 12,
+              "Parameters": [
+                3.45056,
+                2.81936,
+                0.58912,
+                15,
+                18,
+                1.131584,
+                1.042014,
+                0.691387,
+                0.691387,
+                1.743576,
+                1.319,
+                1.319
+              ]
+            },
+            {
+              "Id": 1263213,
+              "Level": 13,
+              "Parameters": [
+                3.66622,
+                2.99557,
+                0.62594,
+                15,
+                18,
+                1.202308,
+                1.10714,
+                0.734599,
+                0.734599,
+                1.852549,
+                1.401437,
+                1.401437
+              ]
+            },
+            {
+              "Id": 1263214,
+              "Level": 14,
+              "Parameters": [
+                3.88188,
+                3.17178,
+                0.66276,
+                15,
+                18,
+                1.273032,
+                1.172266,
+                0.777811,
+                0.777811,
+                1.961523,
+                1.483875,
+                1.483875
+              ]
+            },
+            {
+              "Id": 1263215,
+              "Level": 15,
+              "Parameters": [
+                4.09754,
+                3.34799,
+                0.69958,
+                15,
+                18,
+                1.343756,
+                1.237392,
+                0.821022,
+                0.821022,
+                2.070496,
+                1.566312,
+                1.566312
+              ]
+            }
+          ]
+        },
+        "Id": 11262,
+        "Name": "Manifestación terraceleste",
+        "Description": "Evoca un fragmento de sus antiguos poderes y cambia al modo {LINK#N11260001}<color=#FFD780FF>intersticio faselunar</color>{/LINK}.\nEn este modo, el daño de los Ataques Normales y Cargados de Zibai se convierte en <color=#FFE699FF>Daño Geo</color>, el cual no puede sustituirse imbuyéndose de otro elemento, y también podrá acumular un <color=#FFD780FF>fulgor intersticial</color> especial de diferentes maneras. Zibai podrá consumir el fulgor intersticial para usar la Habilidad Elemental especial <color=#FFD780FF>Pisotón yeguaespiritual</color>.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nCuando Zibai esté en modo <color=#FFD780FF>intersticio faselunar</color>, el cuarto golpe de su Ataque Normal infligirá <color=#FFE699FF>Daño Geo</color> una vez más. Este daño se considera daño de Cristalización Lunar.",
+        "Icon": "Skill_S_Zibai_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12639,
+      "Proud": {
+        "Descriptions": [
+          "Daño de 1er golpe de habilidad|{param1:F1P} de DEF",
+          "Daño de 2.º golpe de habilidad|{param2:F1P} de DEF",
+          "TdE|{param3:F1} s",
+          "Energía Elemental|{param4:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1263901,
+            "Level": 1,
+            "Parameters": [
+              1.2696,
+              1.77744,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263902,
+            "Level": 2,
+            "Parameters": [
+              1.36482,
+              1.910748,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263903,
+            "Level": 3,
+            "Parameters": [
+              1.46004,
+              2.044056,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263904,
+            "Level": 4,
+            "Parameters": [
+              1.587,
+              2.2218,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263905,
+            "Level": 5,
+            "Parameters": [
+              1.68222,
+              2.355108,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263906,
+            "Level": 6,
+            "Parameters": [
+              1.77744,
+              2.488416,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263907,
+            "Level": 7,
+            "Parameters": [
+              1.9044,
+              2.66616,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263908,
+            "Level": 8,
+            "Parameters": [
+              2.03136,
+              2.843904,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263909,
+            "Level": 9,
+            "Parameters": [
+              2.15832,
+              3.021648,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263910,
+            "Level": 10,
+            "Parameters": [
+              2.28528,
+              3.199392,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263911,
+            "Level": 11,
+            "Parameters": [
+              2.41224,
+              3.377136,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263912,
+            "Level": 12,
+            "Parameters": [
+              2.5392,
+              3.55488,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263913,
+            "Level": 13,
+            "Parameters": [
+              2.6979,
+              3.77706,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263914,
+            "Level": 14,
+            "Parameters": [
+              2.8566,
+              3.99924,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1263915,
+            "Level": 15,
+            "Parameters": [
+              3.0153,
+              4.22142,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11265,
+      "Name": "Majestuosidad de los tres recintos",
+      "Description": "#Zibai despliega un dosel divino e inflige dos golpes de <color=#FFE699FF>Daño Geo</color>. El segundo golpe se considera daño de Cristalización Lunar.\nSi Zibai está en el modo {LINK#N11260001}<color=#FFD780FF>intersticio faselunar</color>{/LINK} al usar esta habilidad, la duración de dicho modo se prolongará en 1.7{NON_BREAK_SPACE}s.",
+      "Icon": "Skill_E_Zibai_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12621,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1262101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                4
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1262101,
+        "Name": "Descenso de la Adeptus lunar",
+        "Description": "#Cuando usa la Habilidad Elemental, <color=#FFD780FF>{LINK#S11262}Manifestación terraceleste{/LINK}</color>, o cuando un personaje cercano del equipo activa la resonancia lunar, Zibai obtiene el efecto de <color=#FFD780FF>descenso lunar</color> durante 4{NON_BREAK_SPACE}s, el cual aumenta el daño del segundo golpe de {LINK#N11260001}<color=#FFD780FF>Pisotón yeguaespiritual</color>{/LINK} en una cantidad equivalente al 60% de su DEF.",
+        "Icon": "UI_Talent_S_Zibai_05"
+      },
+      {
+        "GroupId": 12622,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1262201,
+              "Level": 1,
+              "Parameters": [
+                0.15,
+                60
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1262201,
+        "Name": "Cumbres perforanubes",
+        "Description": "#Por cada personaje <color=#FFE699FF>Geo</color> (a excepción de Zibai) que haya en el equipo, la DEF de Zibai aumenta en un 15%. Por cada personaje <color=#80C0FFFF>Hydro</color> que haya en el equipo, la Maestría Elemental de Zibai aumenta en 60{NON_BREAK_SPACE}pts.",
+        "Icon": "UI_Talent_S_Zibai_06"
+      },
+      {
+        "GroupId": 12623,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1262301,
+              "Level": 1,
+              "Parameters": [
+                0.007,
+                0.14
+              ]
+            }
+          ]
+        },
+        "Id": 1262301,
+        "Name": "Bendición presagiolunar: Fluir del sol y la luna",
+        "Description": "#Cuando un personaje del equipo cause una reacción de Cristalización Hydro, esta se transformará en una reacción de Cristalización Lunar. El daño base de las reacciones de Cristalización Lunar de los personajes del equipo aumentará en un 0.7% por cada 100{NON_BREAK_SPACE}pts. de DEF que tenga Zibai. Como máximo, dicho daño puede aumentar en un 14% de esta manera.\n\nAdemás, cuando Zibai esté en el equipo, el nivel de <color=#FFD780FF>presagio lunar</color> de los personajes aumentará en{NON_BREAK_SPACE}1.",
+        "Icon": "UI_Talent_S_Zibai_07"
+      },
+      {
+        "GroupId": 12625,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1262501,
+              "Level": 1,
+              "Parameters": [
+                2
+              ]
+            }
+          ]
+        },
+        "Id": 1262501,
+        "Name": "Flores bañadas por la luna",
+        "Description": "#Zibai recupera 1{NON_BREAK_SPACE}pt. de Energía Elemental cada 2{NON_BREAK_SPACE}s cuando no está en combate por la noche (18-06{NON_BREAK_SPACE}h).\nEste efecto no se activará en dominios, Dominios de la cruzada o en la Espiral del Abismo.",
+        "Icon": "UI_Talent_S_Zibai_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1261,
+        "Name": "Surgir con ímpetu y entrar con serenidad",
+        "Description": "#Tras usar la Habilidad Elemental, <color=#FFD780FF>{LINK#S11262}Manifestación terraceleste{/LINK}</color>, Zibai obtendrá inmediatamente 100{NON_BREAK_SPACE}pts. de {LINK#N11260001}<color=#FFD780FF>fulgor intersticial</color>{/LINK}, y el máximo de cargas de <color=#FFD780FF>Pisotón yeguaespiritual</color> del modo <color=#FFD780FF>intersticio faselunar</color> aumenta a 5.\nAdemás, cada vez que Zibai cambie al modo intersticio faselunar, la primera vez que use Pisotón yeguaespiritual, el daño de Cristalización Lunar del segundo golpe aumentará en un 220%.",
+        "Icon": "UI_Talent_S_Zibai_01"
+      },
+      {
+        "Id": 1262,
+        "Name": "Almas del nacimiento y cascarones de la muerte",
+        "Description": "Cuando Zibai está en el modo {LINK#N11260001}<color=#FFD780FF>intersticio faselunar</color>{/LINK}, el daño de Cristalización Lunar de todos los personajes cercanos del equipo aumenta en un 30%.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nPotencia el efecto del talento de ascensión <color=#FFD780FF>{LINK#P1262101}Descenso de la Adeptus lunar{/LINK}</color>, de manera que el daño del segundo golpe de <color=#FFD780FF>Pisotón yeguaespiritual</color> aumenta adicionalmente en una cantidad equivalente al 550% de la DEF de Zibai. Es necesario desbloquear el talento de ascensión “Descenso de la Adeptus lunar”.",
+        "Icon": "UI_Talent_S_Zibai_02"
+      },
+      {
+        "Id": 1263,
+        "Name": "Libre de restricciones y ataduras mundanas",
+        "Description": "#Aumenta el nivel de habilidad de <color=#FFD780FF>{LINK#S11262}Manifestación terraceleste{/LINK}</color>{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+        "Icon": "UI_Talent_U_Zibai_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1264,
+        "Name": "El alma se marcha y el cuerpo la sigue",
+        "Description": "Mientras esté en el modo {LINK#N11260001}<color=#FFD780FF>intersticio faselunar</color>{/LINK}, la secuencia de los Ataques Normales de Zibai no se reiniciará, y cuando golpee a un enemigo con <color=#FFD780FF>Pisotón yeguaespiritual</color>, obtendrá el efecto de <color=#FFD780FF>esplendor disipalunas</color>, el cual hace que el ataque adicional del cuarto golpe de su próximo Ataque Normal inflija daño de Cristalización Lunar en una cantidad equivalente al 250% del daño original.",
+        "Icon": "UI_Talent_S_Zibai_03"
+      },
+      {
+        "Id": 1265,
+        "Name": "Desinterés por lo fútil",
+        "Description": "#Aumenta el nivel de habilidad de <color=#FFD780FF>{LINK#S11265}Majestuosidad de los tres recintos{/LINK}</color>{NON_BREAK_SPACE}+3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+        "Icon": "UI_Talent_U_Zibai_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1266,
+        "Name": "El mundo, un viaje transitorio",
+        "Description": "#Mientras esté en el modo {LINK#N11260001}<color=#FFD780FF>intersticio faselunar</color>{/LINK}, la eficiencia con la que Zibai obtiene <color=#FFD780FF>fulgor intersticial</color> aumentará en un 50%.\nAdemás, <color=#FFD780FF>Pisotón yeguaespiritual</color> pasa a consumir todos los pts. de fulgor intersticial, de manera que, por cada pt. adicional de fulgor intersticial consumido por encima de los 70{NON_BREAK_SPACE}pts., el daño de Pisotón yeguaespiritual y el de Cristalización Lunar que Zibai inflige en los siguientes 3{NON_BREAK_SPACE}s {LINK#N11190007}<color=#FFD780FF>asciende</color>{/LINK} en un 1.6%. Este efecto no se puede acumular.",
+        "Icon": "UI_Talent_S_Zibai_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "La Yegua del Manantial Escondido",
+    "Detail": "La Adeptus Yegua Blanca de las leyendas de Liyue, conocida como Zibai. Es la Adeptus más misteriosa de entre todos los mitos de la nación.",
+    "Association": 13,
+    "Native": "Liyue",
+    "BirthMonth": 5,
+    "BirthDay": 15,
+    "VisionBefore": "Geo",
+    "VisionOverrideLocked": "Disco Lunar",
+    "VisionOverrideUnlocked": "Disco Lunar",
+    "ConstellationBefore": "Equa Alba",
+    "CvChinese": "昱头",
+    "CvJapanese": "福圓美里",
+    "CvEnglish": "Laura Welsh",
+    "CvKorean": "Chun Song-e",
+    "CookBonus": {
+      "OriginItemId": 108935,
+      "ItemId": 108949,
+      "InputList": [
+        100064,
+        100091,
+        100011,
+        110001
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Charla - La luna",
+        "Context": "El mundo entero comparte la generosidad de los cielos, pues de ellos procede la lluvia y las nubes que bendicen la tierra. La luna nunca estuvo destinada a ser un lugar ajeno..."
+      },
+      {
+        "Title": "Charla - Matemáticas",
+        "Context": "Las matemáticas son la base de todas las cosas. Si te interesa, puedo enseñarte algo de aritmética. Primero, extiende ambas manos. Empezaremos con los diez dedos."
+      },
+      {
+        "Title": "Charla - Magia adéptica",
+        "Context": "La magia adéptica es verdaderamente milagrosa, pero a menos que uno cultive la mente antes que esa magia, todos sus logros serán como el reflejo de la luna en el agua: se desvanecerán con el más mínimo roce."
+      },
+      {
+        "Title": "Hola...",
+        "Context": "Me llamo Zibai. Los mortales solían conocerme como la “Adeptus Yegua Blanca”, pero ahora que he descendido al plano de los mortales, puedes llamarme Zibai."
+      },
+      {
+        "Title": "Cuando llueve...",
+        "Context": "La luna apenas se ve..."
+      },
+      {
+        "Title": "Cuando truena...",
+        "Context": "Escucha, es la atronadora ira de los cielos."
+      },
+      {
+        "Title": "Cuando nieva...",
+        "Context": "Al menos no hace tanto frío como en la luna."
+      },
+      {
+        "Title": "En el desierto...",
+        "Context": "Viajar por el desierto es tan arduo como me imaginaba."
+      },
+      {
+        "Title": "Buenos días...",
+        "Context": "Buenos días. ¿Dormiste bien anoche?"
+      },
+      {
+        "Title": "Buenas tardes...",
+        "Context": "#El sol está en su punto más alto. Si estás cansad{F#a}{M#o}, deberías descansar un poco."
+      },
+      {
+        "Title": "Buenas noches... (I)",
+        "Context": "La luna se arrastra silenciosamente por el cielo... hasta que, de repente, vemos cómo resplandece desde lo alto de él."
+      },
+      {
+        "Title": "Buenas noches... (II)",
+        "Context": "#Jeje, ¿intentas quedarte despiert{F#a}{M#o} hasta más tarde que la luna? Deberías irte a dormir. Buenas noches."
+      },
+      {
+        "Title": "Sobre Zibai - Viajes",
+        "Context": "Tras deshacerme de mis tres yos mortíferos, mi tercer yo vivió muchas cosas mientras vagaba por el mundo de los mortales. La más conocida de sus vivencias está registrada en el libro «El bosque de bambú a la luz de la luna», el cual relata mis andanzas nocturnas. Tal vez debería visitar ese bosque de bambú cuando tenga tiempo."
+      },
+      {
+        "Title": "Sobre Zibai - Reclusión",
+        "Context": "Cuando vivía sola, solía recurrir a las matemáticas para matar el tiempo, de modo que inventaba y resolvía acertijos aritméticos. Si te interesa, puedo mostrarte algunos de los más entretenidos."
+      },
+      {
+        "Title": "#Sobre nosotr{F#a}{M#o}s - Contemplar la luna",
+        "Context": "Cuando la gente de Liyue escribe poemas sobre la nostalgia, suelen expresar sus sentimientos exaltando la luna. Esto tiene mucho sentido, ya que por muy lejos que estemos los unos de los otros, todos compartimos la misma luz lunar. Sin embargo, seguro que, cuando se trata de apreciar genuinamente la luna, cualquier viajero preferiría volver a casa y contemplarla junto a sus amigos y familiares. Como reza el dicho: “La luna siempre brilla más en casa”."
+      },
+      {
+        "Title": "#Sobre nosotr{F#a}{M#o}s - Lejos de casa",
+        "Context": "#Recuerdo que me contaste que no eras de este mundo y que te separaste de tu herman{F#o}{M#a}... Sin embargo, a pesar de las grandes dificultades y peligros a los que te has enfrentado en esta tierra lejana, has luchado con gran valentía y demostrado una fortaleza extraordinaria. El cielo no abandona a quienes perseveran, así que estoy segura de que lograrás lo que deseas. Y no lo digo solo para consolarte. La gente de Liyue suele pedir deseos a la luna para reunirse con su familia, y como alguien que residió durante mucho tiempo en la luna, sé que mis bendiciones son más eficaces que las de cualquier otro tipo."
+      },
+      {
+        "Title": "Sobre el Disco Lunar...",
+        "Context": "Una vez que obtienes un poder divino, puedes usarlo como desees. En cuanto a mí... Como ahora vivo en Liyue, naturalmente, proteger esta tierra es mi prioridad."
+      },
+      {
+        "Title": "¿Algo que decir?",
+        "Context": "Mi tercer yo mortífero, considerado uno de los Ocho Adeptos, recibió el nombre de “Yegua de Celadón Irisáureo”, pero en realidad, yo... o mejor dicho, “ella” apenas tenía nada que ver con los otros Adeptos, a excepción de lo ocurrido con el incidente del Tao Dou. Pasaba la mayor parte del tiempo deambulando por otros lugares. Según mis recuerdos posteriores, varios miembros de los Ocho Adeptos intentaron encontrarla, pero cuatro patas siempre superan a dos... Dudo mucho que alguna vez lograran alcanzar a esa yegua."
+      },
+      {
+        "Title": "Un dato curioso...",
+        "Context": "Me asombra que los lirios de cristal hayan sobrevivido hasta el día de hoy. Todavía recuerdo cómo al Pescador Yunlai y al Infante Wuwang les encantaba acompañar los pétalos con una copa de vino. Unos tragos más tarde, se ponían a practicar con la espada para animar el ambiente. ¿Habrá nacido alguna misteriosa técnica de espada a raíz de ello? Supongo que es posible. Aunque, en realidad, lo que solía pasar es que terminaban tan ebrios que después no recordaban nada."
+      },
+      {
+        "Title": "Sobre Zhongli...",
+        "Context": "Aunque los mortales me llaman “Adeptus Yegua Blanca”, quien me otorgó ese título no fue Morax, el Adeptus Primigenio. Me uní a las filas celestiales hace mucho tiempo, en la antigüedad, donde serví como emisaria lunar. Pero el pasado quedó en el pasado y no hay necesidad de estancarse en él. Ahora, en el presente, la gente parece acostumbrada a llamarme Adeptus Yegua Blanca, y a mí me parece bien. ¿Que si alguna vez veo a Zhongli? Pues sí, lo veo de vez en cuando caminando por las calles con la directora Hu Tao o disfrutando a solas de una taza de té. Debo decir que su vida como asesor parece mucho más placentera y relajada que su vida como Rex Lapis."
+      },
+      {
+        "Title": "Sobre Ninguang...",
+        "Context": "La Liyue de hoy está construida sobre el comercio y los negocios, un asunto sumamente complejo e intrincado. El Equilibrio Celestial debe de ser una persona verdaderamente excepcional para cargar con la enorme responsabilidad de gobernar Liyue. Sin embargo, he oído que hay un total de Siete Estrellas en el Ministerio de Asuntos Civiles, y yo solo he conocido a algunos de sus integrantes. Me pregunto dónde estarán los demás... Hum, supongo que estarán ocupados cumpliendo con sus obligaciones en otro lugar."
+      },
+      {
+        "Title": "Sobre Keching...",
+        "Context": "Me encontré con el Equilibrio Terrenal una vez en las afueras de Liyue. Estaba allí con un equipo del Ministerio de Asuntos Civiles realizando algunas mediciones del terreno. El lugar era inhóspito, montañoso y escarpado, pero ahí estaba ella, liderando desde el frente. La vi por casualidad y estaba a punto de despejar unos matorrales de su camino cuando, para mi sorpresa, desenvainó su espada y rápidamente despejó el sendero por sí misma. Había oído que tenía fama de ser una líder audaz e imparable, y debo decir que ciertamente hace honor a su reputación."
+      },
+      {
+        "Title": "Sobre Qiqi...",
+        "Context": "Qiqi es un caso peculiar. Una niña pequeña que tiene el cuerpo pero no el alma de un Adeptus, y cuya lucidez mental va y viene. Creo haber visto esos síntomas antes. Humm... si el destino lo permite, me gustaría examinarla más a fondo y hacer un diagnóstico de su condición."
+      },
+      {
+        "Title": "Sobre Xianyun...",
+        "Context": "Conozco a Preservadora de Nubes, o “Xianyun”, como prefiere que la llamen ahora. A pesar de ser una Adeptus, rara vez hace uso de sus poderes adépticos, pues prefiere jugar con sus dispositivos mecánicos. Me explicó que aspira a crear artilugios que incluso los mortales comunes puedan usar con facilidad. Casualmente, me acordé de unos planos mecánicos de Lang Gan, así que procedí a dibujárselos. Sin embargo, esos mecanismos son tan antiguos que no estoy segura de que vayan a ser de utilidad en el presente..."
+      },
+      {
+        "Title": "Sobre Yanfei...",
+        "Context": "¿Esa joven es mitad humana, mitad Adeptus? Extraordinario. Por lo que me ha contado Caminante Errante, parece pertenecer a una generación más joven de Adeptus que nunca ha vivido una guerra. Con su gran dominio del código legal, dudo que tenga que depender de su poder adéptico para obtener sabiduría. Je, aún me acuerdo bien de algunos casos jurídicos de hace mucho tiempo. Dentro de unos días los pondré por escrito y le pediré a Caminante Errante que se los haga llegar. Espero que le gusten."
+      },
+      {
+        "Title": "Sobre Xiao...",
+        "Context": "He oído que hubo una época en la que los Yakshas, liderados por Morax, limpiaron la maldad de todos los rincones de la tierra. Lograron grandes hazañas militares, pero a cambio recibieron una deuda kármica que los atormentaba. Hoy solo queda el General Alatus. Me pregunto si su deuda kármica aún lo atormenta. Tal vez podría ayudarlo de algún modo... ¿Qué? ¿Que alguien ya lo ha curado? Ya veo... En ese caso, me alegro de que esté en paz consigo mismo."
+      },
+      {
+        "Title": "Sobre Yaoyao...",
+        "Context": "La discípula de Caminante Errante, si no me equivoco. Para ser una simple mortal, posee una fuerza y un espíritu admirables. Preservadora de Nubes también ha aceptado a varias discípulas, ¿correcto? Humm... Es bueno tener a alguien que te pueda suceder. Me pregunto por qué nunca he oído que Moldeador de Montañas o Escultor de la Luna muestren interés en aceptar discípulos... ¿Será que no han encontrado candidatos adecuados? ¿O quizás están demasiado ocupados divirtiéndose como para pensar en tales asuntos? Ja, cada Adeptus es misterioso a su manera."
+      },
+      {
+        "Title": "Sobre Lan Yan...",
+        "Context": "Lan Yan debe de ser descendiente de Descifravientos, uno de los Ocho Adeptos. Recuerdo que Descifravientos viajó por un tiempo con Alargéntea Plumajade y juntos crearon una historia verdaderamente encantadora. Estoy segura de que ambos estarían encantados de ver lo sabios y competentes que han resultado ser sus actuales descendientes."
+      },
+      {
+        "Title": "Sobre Hu Tao...",
+        "Context": "Estoy bien informada de la heroica hazaña de la directora Hu Tao: enfrentarse sola a la muerte para proteger a los demás. Su valentía y determinación la hacen una digna sucesora del legado del Infante Wuwang. Es una auténtica suerte que, gracias a tu ayuda, la directora Hu Tao no terminara como la Mariposa Solitaria de la Llama Escarlata. *Ejem*, en fin, tampoco es que tenga sentido dar más vueltas a las cosas que están en el pasado."
+      },
+      {
+        "Title": "Sobre las tres Diosas Lunares...",
+        "Context": "¿Las tres Diosas Lunares? Bueno... Tengo entendido que tenían una relación muy cercana. Cuando una de ellas no tenía ganas de estar de guardia, le suplicaba a otra que la sustituyera y luego se lo compensaba regalándole maquillaje y joyas. Sin embargo, eran tan libres con eso de intercambiar guardias que a veces se producía el caos. Por ejemplo, hubo un año en que las tres lunas se alinearon, pero solo porque todas se confundieron con sus respectivos horarios. Así, llegó un día en el que solo una luna debía estar de guardia, pero las tres aparecieron en el cielo al mismo tiempo. Se apresuraron para ponerse en fila, de manera que dos lunas hicieron lo que pudieron para esconderse detrás de la que debía estar de guardia, pero... lamentablemente, aun así le dieron un susto terrible a la pobre gente de la tierra. Quemaron incienso durante varios días seguidos... Tras ese incidente, las hermanas me pidieron que intentara explicarle a la gente del mundo que haber visto a las tres lunas juntas en el cielo no era ni un presagio de catástrofe inminente, ni una señal de que se avecinaba un cambio de régimen. Evidentemente, les pregunté que, entonces, qué se supone que debía representar tal fenómeno para la humanidad. Estuvieron dudándolo un rato hasta que finalmente me dijeron: “Significa... Significa que se acerca una celebración y... que todos deberían comer pasteles de luna llena... y esas cosas...”."
+      },
+      {
+        "Title": "Más sobre Zibai (I)",
+        "Context": "La Liyue de hoy es un lugar muy diferente a la tierra que yo conocí en el pasado. Ni siquiera el nombre de “Liyue” existía en aquel entonces. Desde esa época, han pasado muchas lunas y han cambiado muchas mareas, y todo lo que recuerdo ya no existe. Los poetas suelen decir que “el tiempo pasa tan rápido como una yegua cruzando una grieta”, y curiosamente, mi tercer yo mortífero era conocido como la “Adeptus Yegua Blanca”. Quizás esto sea obra del karma... ¿Te gustaría saber más sobre mi pasado? Muy bien, no pasa nada por que una persona más conozca la verdad."
+      },
+      {
+        "Title": "Más sobre Zibai (II)",
+        "Context": "Hace mucho tiempo, descendí a Lang Gan desde el cielo en calidad de emisaria y guie a la gente de esa nación hacia un futuro pacífico. La gente de Lang Gan me llamaba la “Diosa de la Tierra y los Cereales” y creía que yo había bendecido a su nación con un clima favorable y unas cosechas copiosas. Es cierto que ejercí cierta influencia sobre el clima, pero las abundantes cosechas se debieron enteramente al arduo trabajo de la gente. ¿Que como guie a Lang Gan? Desde luego, no fue ni con grandeza ni con majestuosidad. Salvo por algunas intervenciones que hice para adivinar el futuro, alejar el mal y prevenir desastres, la mayor parte del tiempo me dediqué a ser profesora. Enseñaba a los niños a leer y a escribir, a hacer aritmética y a tocar música. En mi tiempo libre, compilaba y editaba textos sobre ritos y etiqueta, música y temas similares."
+      },
+      {
+        "Title": "Más sobre Zibai (III)",
+        "Context": "En mi opinión, lo más importante para guiar a una nación hacia el futuro es educar los corazones de la gente. Por más abundante que sea su riqueza material, un pueblo sin virtud no puede construir una nación que dure en el tiempo. Piensa en esas personas de Liyue que escalan montañas en busca de los Adeptus, motivados únicamente por el beneficio personal. Aunque tengan la suerte suficiente de encontrar algún tesoro adéptico, estos tesoros terminarán siendo su ruina si sus intenciones no son puras. Ahora bien, naturalmente, al tiempo que uno cultiva la virtud de su corazón, también debe afilar la espada que lleva en la mano. Como se suele decir, siempre hay que estar preparado para lo que pueda venir."
+      },
+      {
+        "Title": "Más sobre Zibai (IV)",
+        "Context": "Siempre he sido una ávida lectora. Hoy en día, los libros son el único lugar en el que puedo encontrar el hogar y los amigos que conocía. Tengo la costumbre de anotar los hechos erróneos que veo. Hace poco, alguien se fijó en mis anotaciones y estuvo varios días buscándome para pedirme que enseñara historia en su escuela. Aunque era bastante insistente, su actitud me pareció sincera, así que accedí y enseñé los clásicos allí durante un mes. Ver a esos estudiantes, ansiosos por el conocimiento, me recordó a cuando enseñaba en una escuela de Lang Gan. Nunca imaginé que volvería a ser profesora... Supongo que es cosa del destino."
+      },
+      {
+        "Title": "Más sobre Zibai (V)",
+        "Context": "Aunque paso la mayor parte de mi tiempo deambulando por aquí y por allá, a veces regreso a Liyue para dar clases en varias escuelas, donde aprovecho para corregir los registros históricos sobre Lang Gan. En mis tiempos, el estudio de la historia se consideraba un asunto de especial importancia. Después de todo, el pasado es un espejo que puede enseñarnos valiosas lecciones para el futuro. Estoy segura de que los sabios de la antigüedad estarían encantados de saber que alguien sigue corrigiendo los registros históricos de Lang Gan incluso después de tantos siglos.\n¿Crees que no es algo muy propio de un Adeptus? Bueno, pues que así sea. Lo que necesita la Liyue de hoy en día no es el extraordinario poder de un puñado de Adeptus, sino que su población mortal una fuerzas. Seguro que los otros Adeptus también son conscientes de ello. En cualquier caso, mi papel es ser una guía, y sigo cumpliendo con él gracias a mi rol de educadora."
+      },
+      {
+        "Title": "Aficiones de Zibai...",
+        "Context": "Supongo que mi afición es contemplar la luna. Ahora que lo pienso, la idea de contemplar la luna en Liyue es bastante interesante."
+      },
+      {
+        "Title": "Preocupaciones de Zibai...",
+        "Context": "Las frases hechas utilizadas en la literatura de esta época son bastante... idiosincrásicas. No logro entender la mayoría, e intentar rastrear sus orígenes es una tarea muy laboriosa. Supongo que necesito tiempo para familiarizarme con el lenguaje moderno..."
+      },
+      {
+        "Title": "Comida que más le gusta...",
+        "Context": "¿Alguna vez has probado los pasteles de luna llena? Solía compartirlos con mis amigos mientras contemplábamos la luna, pero ahora... no consigo encontrarlos en ninguna parte. Qué lástima..."
+      },
+      {
+        "Title": "Comida que menos le gusta...",
+        "Context": "La carne cruda es simplemente... *Ejem*, solo creo que la carne debería estar bien cocinada antes de consumirse."
+      },
+      {
+        "Title": "Al recibir un regalo (I)",
+        "Context": "Si hubiera podido probar este manjar cuando vivía sola en la luna, tal vez me hubiera quedado un poco más en ella. Ja, era broma."
+      },
+      {
+        "Title": "Al recibir un regalo (II)",
+        "Context": "Una comida exquisita. La disfrutaré."
+      },
+      {
+        "Title": "Al recibir un regalo (III)",
+        "Context": "Este plato tiene un sabor... bastante peculiar. Innovador, incluso."
+      },
+      {
+        "Title": "Cumpleaños...",
+        "Context": "¿Hoy es tu cumpleaños? Entonces tenemos que celebrarlo. Recuerdo que es costumbre que los ancianos coman fideos de la longevidad... Jeje, aunque tú parezcas joven, sospecho que si contáramos los años desde tu nacimiento, serías mayor que la mayoría de la gente de Liyue. Desde esa óptica, prepararte un cuenco de fideos de la longevidad no sería un gesto inapropiado. ¿Eh? Por supuesto que sé cómo prepararlos. Puede que me uniera a las filas celestiales en su momento, pero no nací en cuna de oro. *Suspira*, a decir verdad, si en el presente apenas tengo apetito, es por todo el tiempo que pasé en el cielo sin poder cocinar... Bueno, me estoy desviando del tema. Comer es el segundo asunto más importante del mundo, así que debemos asegurarnos de que disfrutes de un buen tazón de fideos de la longevidad antes de que termine el día."
+      },
+      {
+        "Title": "El sentimiento de Ascensión - Introducción",
+        "Context": "Ya veo."
+      },
+      {
+        "Title": "El sentimiento de Ascensión - Desarrollo",
+        "Context": "La luna crece y mengua..."
+      },
+      {
+        "Title": "El sentimiento de Ascensión - Nudo",
+        "Context": "El espíritu regresa a su morada."
+      },
+      {
+        "Title": "El sentimiento de Ascensión - Desenlace",
+        "Context": "Como Adeptus, debo cumplir con mi deber."
+      },
+      {
+        "Title": "Habilidad Elemental (I)",
+        "Context": "Te purificaré."
+      },
+      {
+        "Title": "Habilidad Elemental (II)",
+        "Context": "Sin más preámbulos..."
+      },
+      {
+        "Title": "Habilidad Elemental (III)",
+        "Context": "Muerde el polvo."
+      },
+      {
+        "Title": "Habilidad Definitiva (I)",
+        "Context": "Luz divina, protégelos."
+      },
+      {
+        "Title": "Habilidad Definitiva (II)",
+        "Context": "La sabiduría suprema nos mostrará el camino."
+      },
+      {
+        "Title": "Habilidad Definitiva (III)",
+        "Context": "Los cielos se despejan y la luna cristalina refulge."
+      },
+      {
+        "Title": "Al abrir un cofre (I)",
+        "Context": "Un regalo de los cielos... Lo aceptaré con gusto."
+      },
+      {
+        "Title": "Al abrir un cofre (II)",
+        "Context": "Adueñarse de unas posesiones abandonadas no tiene nada de malo."
+      },
+      {
+        "Title": "Al abrir un cofre (III)",
+        "Context": "Deberías quedártelo. Podría serte útil."
+      },
+      {
+        "Title": "Vida baja (I)",
+        "Context": "No estaba lo suficientemente preparada."
+      },
+      {
+        "Title": "Vida baja (II)",
+        "Context": "Mantente firme..."
+      },
+      {
+        "Title": "Vida baja (III)",
+        "Context": "Hora de ir terminando."
+      },
+      {
+        "Title": "Aliado con vida baja (I)",
+        "Context": "No seas imprudente."
+      },
+      {
+        "Title": "Aliado con vida baja (II)",
+        "Context": "Tal vez deberías pensarlo mejor."
+      },
+      {
+        "Title": "Derrotada (I)",
+        "Context": "Todo... tiene un fin..."
+      },
+      {
+        "Title": "Derrotada (II)",
+        "Context": "No puedo ver la luna..."
+      },
+      {
+        "Title": "Derrotada (III)",
+        "Context": "Unas nubes oscuras cubren el cielo..."
+      },
+      {
+        "Title": "Recibiendo un ligero ataque (I)",
+        "Context": "Error mío."
+      },
+      {
+        "Title": "Recibiendo un ligero ataque (II)",
+        "Context": "Un error sin importancia."
+      },
+      {
+        "Title": "Recibiendo un fuerte ataque (I)",
+        "Context": "Frívolo y presuntuoso..."
+      },
+      {
+        "Title": "Recibiendo un fuerte ataque (II)",
+        "Context": "Estúpido e ignorante..."
+      },
+      {
+        "Title": "Unirse al equipo (I)",
+        "Context": "Contarás con mi compañía."
+      },
+      {
+        "Title": "Unirse al equipo (II)",
+        "Context": "¿A dónde nos dirigimos?"
+      },
+      {
+        "Title": "Unirse al equipo (III)",
+        "Context": "Que los cielos despejados nos guíen en nuestro viaje."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Detalles del personaje",
+        "Context": "Según las leyendas de Liyue, existe una misteriosa Adeptus conocida como “Adeptus Yegua Blanca”.\nHay indicios de ella en todo tipo de libros y cuentos populares, pero su apariencia nunca es la misma en todas estas historias.\nAlgunos dicen que tomó la forma de una yegua blanca y que ayudó al Rey Geo a conseguir su autoridad en el mundo de los mortales durante la Guerra de los Arcontes.\nOtros dicen que sus ojos, dorados como el ámbar, podían ver a través de los infinitos páramos del tiempo.\nY otros dicen que ella siempre ha vivido en la luna, escuchando los deseos de los mortales y velando por la luz del mundo terrenal.\nPero a pesar de los diversos rumores, nadie ha podido describir con claridad ni precisión cómo es ella realmente.\nYa sea en charlas durante las comidas o en escritos académicos, solo se vislumbra un fragmento del todo, como si solo pudiéramos ver pequeños fragmentos dispersos.\nPero como se suele decir, ese fragmento es como la pluma de un fénix, o como las huellas de un ganso en la nieve.\nSu pasado ha dejado huellas en este mundo mortal, y su historia aún está por ser descubierta por la gente."
+      },
+      {
+        "Title": "Historia del personaje (1)",
+        "Context": "Casi nadie sabe que las historias sobre la Adeptus Yegua Blanca que circulan en Liyue comenzaron, en realidad, con la caída de dicha Adeptus.\nElla era una emisaria del cielo que descendió a este mundo hace miles de años para guiar a los mortales.\nProtegía Lang Gan, una antigua nación rica en minerales y piedras preciosas, y enseñó a su pueblo a cultivar y a tejer para asegurarles cosechas abundantes y graneros repletos de comida.\nPrecisamente por esa razón, la gente de Lang Gan la veneraba como Diosa de la Tierra y los Cereales.\nBajo su guía, la nación llegó a ser conocida como una perla resplandeciente entre las distintas civilizaciones unificadas de aquella época.\nPor desgracia, los tiempos cambian, y una catástrofe inesperada llegó desde fuera del mundo para hacer estallar en el cielo una guerra devastadora.\nLas consecuencias de la guerra, cargadas de una malicia oscura, cayeron sobre Lang Gan, y junto a ella, el cielo tomó la decisión de comenzar una purga.\nLa voluntad sagrada azotó la gloriosa nación antigua con un castigo divino, a fin de erradicar aquella tierra contaminada.\nPara que las personas a las que protegía pudieran tener una oportunidad de sobrevivir, Zibai desobedeció la voluntad de los cielos.\nA causa de ello, su alma se rompió en tres fragmentos, y esa fue la última vez que respondió a los deseos de los mortales.\nSin embargo, como si sintiera compasión por ella, o quizás como forma de castigar a semejante traidora, una sombra del cielo que observaba a Zibai le tendió la mano.\nDesde entonces, sus tres almas fragmentadas quedaron congeladas en la cienmillonésima de segundo previa a su desaparición.\nMientras tanto, su esencia vagó eternamente en un sueño en el que no podía alcanzar ni la vida ni la muerte."
+      },
+      {
+        "Title": "Historia del personaje (2)",
+        "Context": "Cuando Zibai descendió al mundo mortal en la antigüedad en calidad de emisaria lunar, conoció a un ser de lo más extraordinario.\nTenía forma humana y un rostro fuera de lo normal, pero podía cabalgar sobre las nubes, mover montañas, llenar de agua los mares, hacer temblar la roca y romper el jade en añicos.\nQue un ser poseyera tales poderes divinos sin pertenecer a la estirpe de los ángeles dejó a Zibai sumamente perpleja.\nUn día, ambos acordaron encontrarse en las montañas para practicar magia adéptica, pero cuando llegó la hora acordada, no había ni rastro de él. Lo único que escuchó Zibai fue un retumbante estruendo en el horizonte.\nSiguió aquel ruido y vio entre las nubes a tres siluetas idénticas luchando entre sí.\nEntre el clamor de la batalla, alcanzó a oír débilmente un grito de batalla que resonaba entre las nubes: “¡El Rey Geo, la Estrella del Cielo!”.\nPoco después, la batalla terminó y las tres siluetas volvieron a fusionarse en una sola, tras lo que aparecieron frente a Zibai. Se trataba de aquel amigo suyo.\nZibai sentía una enorme curiosidad. Sin guardarse la información para sí mismo, su amigo tuvo la generosidad de explicarle que se trataba de una técnica ancestral conocida como “triple escisión”.\nDicho concepto se refería a los “tres yos”, los cuales representan los deseos corruptos y malvados de la persona que practica el autocultivo espiritual. Al deshacerse de los tres yos, se podía alcanzar la auténtica esencia de uno mismo.\nSin embargo, como emisaria del cielo y de las tres lunas, Zibai jamás había albergado malos deseos en su corazón, así que, por más que lo intentara, no lograba deshacerse de sus tres yos mortíferos.\nSu amigo no le dio ninguna importancia a aquel asunto y se marchó como si nada, no sin antes dejarle unas palabras: “La voluntad del cielo nunca permanece fija; las nubes blancas pueden cambiar y adoptar el aspecto de un perro gris”.\nEn aquel entonces, ella aún no sabía que, durante el largo viaje que tenía por delante guiando a la humanidad, tendría que dejarse influenciar imperceptiblemente por las emociones humanas.\nTampoco sabía que, en un futuro aún más lejano, cuando presenciara con sus propios ojos cómo el castigo divino caía sobre la nación que tanto apreciaba, el resentimiento, el temor y la tristeza roerían su alma como gusanos que devoran huesos.\nEn ese instante, cercenaría sus tres yos mortíferos para abandonar su antiguo yo, pasar desapercibida entre los mortales y conservar un as en la manga con el que vengarse de los cielos.\nPero como decía el dicho: “La voluntad del cielo nunca permanece fija; las nubes blancas pueden cambiar y adoptar el aspecto de un perro gris”. Fue en ese preciso instante cuando aquella sombra, que siempre la había estado observando, le lanzaría una jaula tanto de compasión como de condena absoluta."
+      },
+      {
+        "Title": "Historia del personaje (3)",
+        "Context": "Tres... cinco... siete...\nEn la luna vacía donde el tiempo se ha detenido, todo parece haber dejado de fluir.\nCincuenta y tres... cincuenta y nueve...\nEn realidad, no es que el tiempo se haya parado de verdad, sino que transcurre tan lentamente que es sencillamente imperceptible. Un día en el mundo mortal parecen equivaler a cien años en la luna.\nCiento cincuenta y uno... ciento cincuenta y siete... ciento sesenta y siete...\nSí, tiene que ser el lento paso del tiempo. De lo contrario, no hay otra forma de explicar qué es lo que ha ido desgastando los recuerdos grabados en mi cabeza.\nQuinientos cincuenta y siete...\nZiju.\nQuinientos sesenta y tres...\nLang Gan.\nQuinientos sesenta y nueve...\nLos rostros y las voces de la gente.\n¿Qué significan estas cosas? Es como si, sea como sea, no quisiera olvidarlas.\nPero ¿qué significan? ¿Qué significan?...\n... Mil quinientos cincuenta y tres...\n¿Esa luz de allí es una lámpara? Creo haberla visto muchas veces.\nMe parece que alguien me dijo en múltiples ocasiones que por ahí se iba a casa.\nAlgún día podré volver a casa. Eso es algo que no puedo olvidar bajo ninguna circunstancia.\n... Mil quinientos sesenta y siete...\n¿Qué quiere decir “casa”?\n... Tres mil quinientos cincuenta y siete...\nQué soledad... Aparte del “uno”, estos números solo se tienen a sí mismos.\n... Tres mil quinientos cincuenta y nueve...\nAh, sí, me estaba contando a mí misma.\nAsí, aunque olvide mi nombre, no olvidaré que al menos sigo existiendo.\nNo me olvidaré.\nDieciséis mil ciento veintisiete...\n¿Qué estaba contando?\nTres... cinco... siete..."
+      },
+      {
+        "Title": "Historia del personaje (4)",
+        "Context": "En realidad, la Adeptus Yegua Blanca que aparece en la mayoría de los mitos de Liyue siempre ha sido Zichiao, el tercer yo mortífero cercenado por Zibai.\nElla es el “corcel blanco que luchó junto al Rey Geo” del que tanto hablan los ancianos de la Aldea Chingtsé.\nElla es la “hija del tiempo” de la que hablan los habitantes del Valle Chenyu.\nElla es la “Yegua de Celadón Irisáureo” de la purificación del Tao Dou de los Ocho Adeptos.\nTambién es la Adeptus Yegua Blanca que, según la genealogía de la familia Lu, “cruzó una brecha temporal de quinientos años”.\nYa durante la Guerra de los Arcontes, el Arconte Geo la liberó de la pintura sobre seda de Zhanzhu, el Devorador de la Luna y estableció con ella un contrato para que lo ayudara en la batalla.\nSin embargo, las huellas que el tiempo había dejado en ella afectaron inexplicablemente al antiguo Arconte Geo.\nAsí pues, tras la Guerra de los Arcontes, Zichiao, consciente de la amenaza que representaba, se recluyó en las montañas y nunca más volvió a aparecer ante los mortales.\nSin embargo, la Adeptus tenía un carácter libre y despreocupado, y le encantaba hacer alarde de sus poderes ante los humanos. Como la vida de estos no superaba los cien años, apenas se vio afectada por el paso del tiempo.\nPor eso, de vez en cuando aparecía ante los mortales que necesitaban ayuda. Por un lado, les ayudaba a salir del apuro en el que se encontrasen y, por otro, les contaba historias de antes de que el cielo se derrumbara y la tierra se hundiera, con la intención de que dichas historias no se perdieran.\nSi lo que escribían las generaciones futuras no cumplía con sus expectativas, probablemente le echaría un vistazo y lo tiraría a la basura.\nAl fin y al cabo, era como un caballo salvaje que galopaba libremente por la naturaleza, sin nada que pudiera frenar sus pasos libres y despreocupados.\nAunque había nacido a raíz de la muerte de Zibai, nunca consideró estar destinada a llevar una brida, ni tampoco iba a permitir que Zibai o cualquier otra persona la atara con unas riendas.\nEstaba lista para lanzarse grácilmente en cualquier momento al fin de los tiempos y, “¡zas!”, a convertirse en una nube de polvo que brilla con una luz dorada."
+      },
+      {
+        "Title": "Historia del personaje (5)",
+        "Context": "#Al igual que la gran catástrofe inesperada de la antigüedad, el momento en que el destino de Zibai volvió a cambiar de rumbo también llegó desde más allá del cielo.\nGracias a al esfuerzo conjunto {F#de la viajera rubia}{M#del viajero rubio} y sus amigos, la verdadera luna regresó a Teyvat, lo que hizo que la luna falsa que en la que estaba aprisionada la esencia de Zibai comenzara a desmoronarse.\nCon la ayuda de otro viejo amigo, las tres esencias espirituales de Zibai (la atormentada, la aletargada y la libre y despreocupada) por fin vieron el momento de regresar al mundo de los mortales.\n¿Había previsto todo eso la sombra que observaba a Zibai? ¿Aquello se había convertido en la realidad presenciada por el primer ángel?\nSea como fuere, la guía de la antigua nación por fin había regresado a su tierra natal para responder al llamado de incontables deseos.\nNo obstante, dicha tierra ya no se parecía en nada a como era antaño. La gente veneraba a nuevos dioses, los ritos para encender linternas habían cambiado por completo, e incluso las historias sobre ella se habían distorsionado hasta volverse irreconocibles.\nAun así, sabía que los mortales a los que había protegido en el pasado no habían dejado que su gloriosa civilización cayera. Por el contrario, habían echado raíces en esa misma tierra, perpetuando hasta el día de hoy un legado que, aunque había cambiado en apariencia con el paso de los años, todavía perduraba.\nComo dijo aquel viejo amigo suyo: “Si el jade de Lang Gan de antaño no se hubiera convertido en la roca madre sobre la que hoy se erige Liyue, ¿cómo iba a llamarse este lugar ‘el cristal entre rocas y la luna entre las nubes’?”.\nZibai ya no alberga descontento alguno, e incluso aquella ira incontenible que sentía en el pasado se había desvanecido por completo.\nNada de lo que hizo había sido en vano. Había regresado a su tierra natal, y para ella, eso era más que suficiente.\nLe serviría para compensar todo el sufrimiento y las dificultades que tuvo que atravesar en el pasado."
+      },
+      {
+        "Title": "Mil millas de montañas y ríos",
+        "Context": "Para la Zibai de hoy en día, todo lo que hay en Liyue es familiar y novedoso al mismo tiempo.\nAsí pues, aprovechando la estabilidad de su alma, decidió recorrer las altas montañas y los grandes ríos de la nación.\nFue al Monte Chingtsé, donde contempló las cascadas que, al caer desde las montañas, salpicaban el paisaje antes de convertirse en manantiales cristalinos.\nFue al Bosque de Piedra Guyun, donde admiró el majestuoso cielo, los vientos aullantes y las lanzas de roca que se erguían imponentes e inquebrantables.\nFue a la Brecha del Jade, donde vio botes pesqueros mecerse bajo el antiguo colgante de jade, mientras las canciones de montaña resonaban a lo lejos.\nFue al Desfiladero Jueyun, donde se encontró con brumas etéreas que, al surgir y desvanecerse, parecían reinos de lagos flotantes entre las nubes similares a un mar invertido.\n...\nComo el ángel que había enseñado a la antigua nación de Lang Gan el arte de la pintura sobre seda, Zibai decidió retomar dicho arte, el cual no había practicado en miles de años.\nCada vez que llegaba a un lugar de paisajes majestuosos, plasmaba sobre la seda con su poder adéptico la belleza de las montañas y los ríos que contemplaba.\nCon el tiempo, dichos ríos y montañas llegaron a abarcar miles de millas en la pintura, componiendo un paisaje tan majestuoso como deslumbrante.\nEn sus ratos libres, Zibai sacaba la pintura y se deleitaba admirándola. De hecho, cuanto más la miraba, más se le iluminaba el rostro de orgullo y satisfacción.\nCuentan que, al ver a Zibai tan entusiasmada, Rex Lapis sintió curiosidad por la pintura e intentó pedírsela prestada en varias ocasiones para admirarla, pero ella siempre decía que no, alegando que aún no estaba terminada.\nPero entonces, ¿cuán majestuosa y espléndida será esta pintura de montañas y ríos cuando por fin la haya terminado?"
+      },
+      {
+        "Title": "Disco Lunar",
+        "Context": "Al igual que los demás miembros de su estirpe, Zibai nació a raíz de un plan divino.\nAsí pues, apareció bajo el cielo de Teyvat con la apariencia de alguien que carga con la misión del cielo.\nLa brillante estrella del cielo amaba este mundo y quería convertirlo en un jardín de felicidad, de modo que la emisaria comprendió su misión y empezó a cultivar la tierra.\nSi la tierra era fértil, la vegetación crecería y prosperaría; si la tierra se corrompía, el jardín se pudriría.\nLas flores de la felicidad florecerían bajo la cálida luz del amanecer.\nY las flores podridas debían ser arrancadas junto con la tierra para no cometer una blasfemia contra el magnífico amor de la estrella del cielo.\nEl destino de Zibai avanzaba dentro de aquel plan divino, hasta que un día...\nPor razones desconocidas, una sombra del rey, la sombra del tiempo, colocó ante Zibai una insignia grabada con una luna.\nEsto significaba que ya no solamente actuaría en nombre de la estrella del alba, sino que también sería la emisaria de las lunas.\n“¿Acaso esto también forma parte del plan divino?”, pensó Zibai, y así era: aquello también era parte de la creación del mundo.\nAsí pues, comenzó a ir y venir entre la estrella del alba, las lunas y el jardín, pero no aceptó aquella insignia.\nNo sabía en qué podía influir una insignia para perfeccionar aquel plan, así que no consideró necesario aceptarla para llevar a cabo su misión.\nSin embargo, con el paso del tiempo, se dio cuenta de que la voluntad y el amor de la estrella del alba y las lunas por el jardín no eran iguales.\nLa luz de la estrella del alba siempre se derramaba fervientemente sobre todo el jardín, sin detenerse demasiado tiempo en ninguna flor en particular.\nNo le importaba abrasar las flores y el suelo que no eran lo suficientemente sagrados, aunque eso significara enviarlos a la nada más pura.\nMientras tanto, el resplandor plateado de las lunas era diferente. En vez de en la tierra, preferían permear en las raíces de cada planta y cada flor que había sido abrasada por la estrella del alba, y les ofrecían consuelo tras haber sido heridas por la implacable luz.\nAsí, una duda asaltaba a Zibai de vez en cuando: ¿cuál de las dos voluntades y amores era más sagrado?\nLa respuesta siempre estuvo muy clara, pues la solución a dicha pregunta se encontraba en el mismo enigma planteado: como es natural, el plan divino era lo más sagrado.\nSin embargo, sin saber muy bien por qué, la mirada de Zibai comenzó a emular a la luz lunar, de modo que cada vez se detenía más en un pequeño rincón de flores y plantas que había cuidado ella misma.\nCuando una flor se abría, era como si se riera; cuando una flor se marchitaba, era como si llorara. Pero la tierra no se reía, así que ¿cómo podía sentir tristeza algo que nacía de ella?\nAsí pues, Zibai meditó y observó...\nLas flores se abrían, se marchitaban, daban frutos, los frutos caían, nuevos brotes crecían, las flores volvían a abrirse, a marchitarse...\nUn tiempo después, se enteró de que un jardín de flores a cargo de uno de sus colegas suponía una blasfemia contra lo divino, por lo que fue arrancado por completo. De pronto, Zibai sintió tristeza, y acto seguido, también sintió inquietud.\nSi la misión del cielo no contemplaba la tristeza, ¿cómo podía sentirse triste alguien que había nacido a raíz de dicha misión?\n¿Acaso la habían degradado a una flor que necesitaba que otros la guiasen? ¿Acaso la voluntad y el amor que había recibido ya no eran sagrados?\nAquello pareció marcar el punto en el que el destino se descarriló, solo para culminar en otro momento distinto: el momento en que el cielo se derrumbó y las mentiras cayeron de él.\nEl jardín se convirtió en una tierra calcinada y las flores y plantas se zarandeaban al borde del colapso. El calor abrasador quemaba la voluntad de Zibai y no le dejaba pensar.\nEn ese momento, la insignia lunar cayó sobre su espalda como una lágrima derramada.\nSe trataba del gélido resplandor que una vez presenció y rechazó, pero que ahora le brindó la misma paz y consuelo que solía otorgar a las flores y plantas del jardín.\nEn aquel instante de frío punzante, se dio cuenta de que, antes de que el calor abrasador de la estrella del alba la consumiera, podría amar a sus flores durante otros cientos de millones de años más."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212600,
+      "Name": "Corcel blanco de la luna",
+      "Description": "Modelo de vestimenta de Zibai. Los materiales principales son de seda y cáñamo. Se dice que hace miles de años, la antigua nación de Lang Gan poseía exquisitas técnicas de tejido traídas al mundo mortal por Zibai, una emisaria de los cielos. Con el paso del tiempo, aquella antigua nación y su larga historia se desvanecieron, dispersándose por el tiempo hasta volverse tan elusivos como el reflejo de la luna en el agua. Sin embargo, su arte perduró de alguna manera. Incluso hoy en día, sigue vivo en cada cuerda y marco de madera de los telares de Liyue.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104174,
+    113084,
+    100030,
+    112127,
+    104318,
+    113075
+  ],
+  "NameCard": {
+    "Name": "Zibai - Vista velada",
+    "Description": "Diseño de tarjeta de presentación.\nEl cielo y la tierra no son más que una posada para el viajero, y el tiempo, un vagabundo que atraviesa innumerables generaciones.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "PicturePrefix": "UI_NameCardPic_Zibai"
+  }
+}

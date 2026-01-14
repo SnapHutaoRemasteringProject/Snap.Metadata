@@ -1904,6 +1904,39 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Columbina's Stella Fortuna",
+    "Description": "Columbina's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Zibai's Stella Fortuna",
+    "Description": "Zibai's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga's Stella Fortuna",
+    "Description": "Illuga's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3098,6 +3131,39 @@
     "ItemType": 2,
     "Name": "Jahoda's Stella Fortuna",
     "Description": "Jahoda's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Columbina's Stella Fortuna",
+    "Description": "Columbina's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Zibai's Stella Fortuna",
+    "Description": "Zibai's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga's Stella Fortuna",
+    "Description": "Illuga's Constellation Activation Material",
     "TypeDescription": "Activates Constellation",
     "Icon": "UI_ItemIcon_1103"
   },
@@ -4869,6 +4935,28 @@
     "Description": "A fruit that grows in the warmer parts of Nod-Krai. It is beloved by animals emerging from winter and hungry children alike.\nIn the legacy of the Frostmoon Scions, Midsommar Berries are regarded as a symbol of life and abundance, for they only flourish during the warmth of spring and summer.\nThere is a tale that tells of the endless struggle between the King of Winter Holly and the King of Summer Oak — twin monarchs that slay each other as the seasons change, returning from the underworld to rule in turn until the end of time. Most Snezhnayan scholars dismiss this as a primitive religious metaphor for the alternating seasons — or at least that's what they tell themselves.",
     "TypeDescription": "Cooking Ingredient",
     "Icon": "UI_ItemIcon_101265"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101268,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Winter Icelea",
+    "Description": "A hardy plant known for withstanding relentless wind and frost, it survives even in the coldest depths of winter.",
+    "TypeDescription": "Local Specialty (Nod-Krai)",
+    "Icon": "UI_ItemIcon_101266"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101269,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Pine Amber",
+    "Description": "A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over ages, the resin hardened into crystalline amber, now shining with vivid, radiant hues.",
+    "TypeDescription": "Local Specialty (Nod-Krai)",
+    "Icon": "UI_ItemIcon_101269"
   },
   {
     "Rank": 330,
@@ -20070,6 +20158,39 @@
     "Icon": "UI_ItemIcon_121285"
   },
   {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121450,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Irismoon Seal",
+    "Description": "Collect all 3 seals to unlock the treasure vault on Voidsea Outlook.\n\nYou found this round, marked stone by chance while exploring. If you collect three with the same markings, you may be able to piece together a shadow of the bright moon that once illuminated the world.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_121450"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121451,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Irismoon Seal",
+    "Description": "Collect all 3 seals to unlock the treasure vault on Wavechaser Plain.\n\nYou found this round, marked stone by chance while exploring. If you collect three with the same markings, you may be able to piece together a shadow of the bright moon that once illuminated the world.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_121451"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121452,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Irismoon Seal",
+    "Description": "Collect all 3 seals to unlock the treasure vault on Ashveil Peak.\n\nYou found this round, marked stone by chance while exploring. If you collect three with the same markings, you may be able to piece together a shadow of the bright moon that once illuminated the world.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_121452"
+  },
+  {
     "Rank": 406,
     "MaterialType": 5,
     "Id": 106000,
@@ -31367,6 +31488,294 @@
     "Icon": "UI_ItemIcon_108856"
   },
   {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 30% of Max HP to the selected character and regenerates 510 HP every 5s for 30s.",
+    "Id": 108931,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Suspicious Lucky Snow Delight",
+    "Description": "A Liyue confectionery made from rice. Its flavor is mild and ordinary, so forgettable that it vanishes from your mind almost immediately after the last bite.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 32% of Max HP to the selected character and regenerates 730 HP every 5s for 30s.",
+    "Id": 108932,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lucky Snow Delight",
+    "Description": "A Liyue confection made from rice. The grains are ground into flour and then mixed with sugar and water before being pressed into molds and steamed to become a snow-white cake that evokes the promise of a rich and plentiful harvest.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 35% of Max HP to the selected character and regenerates 930 HP every 5s for 30s.",
+    "Id": 108933,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Delicious Lucky Snow Delight",
+    "Description": "A Liyue confection made from rice. Pure and white as fresh snow, it melts the moment it touches your tongue, offering a clean, delicate sweetness that lingers like a gentle echo.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108934,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Crispy Spring Rolls",
+    "Description": "A deep-fried Liyue snack. The crust was supposed to be crisp, but somehow it ended up soft and soggy — how strange... Wait, could this be the oil paper used to wrap the food...?",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108935,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Crispy Spring Rolls",
+    "Description": "A deep-fried Liyue snack. Shredded meat and vegetables are wrapped in a thin pancake, rolled into a tube, and then fried until golden. Crunchy on the outside, smooth on the inside, these little delicacies are cherished by old and young alike.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108936,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Crispy Spring Rolls",
+    "Description": "A deep-fried Liyue snack. With a crisp crack, the juicy filling bursts forth as you bite. Beneath the golden, flaky shell are not only layers of flavor, but the vibrant, bustling spirit of Liyue itself.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108937,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Berry Herbal Candy",
+    "Description": "A Nod-Krai candy. Salty and astringent in a way you wouldn't expect from a candy, it hits so hard that anyone anticipating something sweet would howl in shock and dismay.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' Max HP by 22% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108938,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Berry Herbal Candy",
+    "Description": "A Nod-Krai candy made from local flowers, herbs, and berries. Its bright colors bring a small but welcome touch of sweetness to the vast frozen plains.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Berry Herbal Candy",
+    "Description": "A Nod-Krai candy. The moment this translucent treat touches your tongue, waves of floral fragrance and sweet-tart berries fill your senses, fresh and delightfully sweet.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
+    "Id": 108940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Veggie Pot Soup",
+    "Description": "A soup prepared by simmering a variety of shredded vegetables with light seasoning. The long simmer has left the greens soft and limp, a bit mushy in texture. Not exactly appetizing, but it'll fill you up.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
+    "Id": 108941,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Veggie Pot Soup",
+    "Description": "A soup prepared by simmering a variety of shredded vegetables with light seasoning. It's mild, flavorful, and great for your health.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
+    "Id": 108942,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Veggie Pot Soup",
+    "Description": "A soup prepared by simmering a variety of shredded vegetables with light seasoning. Cooked with simple, minimal techniques, it brings out the purest essence of the vegetables. With just one sip, a comforting warmth spreads from your stomach through your entire body.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108943,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Fireside Merriment",
+    "Description": "A generous spread of hearty meat cuts. The dense fat, bitter and salty, hits the palate like a runaway carriage, leaving a lingering, oily trail down the throat... an intense assault few could endure.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108944,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fireside Merriment",
+    "Description": "A generous spread of hearty meat cuts combining Snezhnayan cured meats with Nod-Krai ham and sausage. Many older Nod-Krai locals like to savor it by the fire with a drink in hand.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108945,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Fireside Merriment",
+    "Description": "A generous spread of hearty meat cuts. The thick raw cuts carry hints of pine and salt, the sausages give off a deep smoky fragrance, and the ham slices add a rich, savory touch. Bold and hearty, it's a feast any Nod-Krai local would give a thumbs-up to.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 900 HP.",
+    "Id": 108946,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Mushroom Phantasm",
+    "Description": "A bread with a sauteed vegetarian filling. After struggling through the charred crust, you finally get a taste, only to be hit with a muddy, earthy flavor. A few bites in, your head starts to spin... Could this be a new type of poisonous mushroom?",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 1,200 HP.",
+    "Id": 108947,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mushroom Phantasm",
+    "Description": "A bread with a sauteed vegetarian filling. The cooked mixture is folded into rye dough, allowed to rise, and baked. It resembles a real mushroom so closely that, if not for the shallow cuts on its \"cap,\" you'd almost mistake it for the real thing.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 1,500 HP.",
+    "Id": 108948,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Mushroom Phantasm",
+    "Description": "A bread with a sauteed vegetarian filling. Its coarse, sturdy crust acts like a solid wall, sealing in the fragrant juices of the tender mushroom filling, creating a rustic yet satisfying taste that unfolds in your mouth.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' DEF by 282 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108949,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Flavor of Spring",
+    "Description": "Zibai's specialty. Its color gleams like golden amber, reminiscent of her eyes. Its aroma is as familiar as a simple spring roll, yet each crisp bite reveals an unexpected resilience... Could this be a secret recipe from ancient Lang-Gan?",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108862"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Increases all party members' Max HP by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108950,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Moonlit Mirage",
+    "Description": "Columbina's specialty. The translucent candy looks like droplets of dew gathered from moonlight. Its delicate sweetness flits in and out of reach, as if luring you into a beautiful, fleeting dream. You can't help but wonder at the skill and care that went into making it...",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108863"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 40% of Max HP and an additional 2,350 HP to the selected character.",
+    "Id": 108951,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nightwatch Soup",
+    "Description": "Illuga's specialty. A steaming bowl of hot soup, just a sip after returning from the night patrol can melt away fatigue and ease tense nerves. Such an effect is likely the result of the young captain's years of accumulated experience, perfected into his own unique recipe.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108864"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+    "Id": 108952,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sugar Sculpture: Columbina",
+    "Description": "A sugar sculpture crafted to capture a person's essence. Its light, fluttering hair ornaments bring to mind Columbina, the Moon Maiden, whose very presence feels as airy as a gentle song.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108865"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "It looks great and tastes wonderful, but it doesn't really have any effect.",
+    "Id": 108953,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sugar Sculpture: Illuga",
+    "Description": "A sugar sculpture crafted to capture a person's essence. The loyal messenger bird brings to mind Illuga, the young captain of Nightmare Orioles.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108866"
+  },
+  {
+    "Rank": 120199,
+    "MaterialType": 1,
+    "EffectDescription": "Best not to eat this!",
+    "Id": 108954,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Charred Mushroom Phantasm",
+    "Description": "A bread with a sauteed vegetable filling. Haphazardly cooked over a barely controlled fire, it comes out as a pitch-black charcoal mushroom. Just looking at it is enough to intimidate, and taking a bite could be downright risky...",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108867"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34194,6 +34603,72 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109642,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Recipe: Lucky Snow Delight",
+    "Description": "A detailed step-by-step recipe for making Lucky Snow Delight.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Crispy Spring Rolls",
+    "Description": "A detailed step-by-step recipe for making Crispy Spring Rolls.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Berry Herbal Candy",
+    "Description": "A detailed step-by-step recipe for making Berry Herbal Candy.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109645,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Veggie Pot Soup",
+    "Description": "A detailed step-by-step recipe for making Veggie Pot Soup.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109646,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Fireside Merriment",
+    "Description": "A detailed step-by-step recipe for making Fireside Merriment.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Mushroom Phantasm",
+    "Description": "A detailed step-by-step recipe for making Mushroom Phantasm.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -36201,6 +36676,39 @@
     "Icon": "UI_ItemIcon_112136"
   },
   {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112137,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Fractured Eye of the Deep Shadow",
+    "Description": "The remains of a fisher from beyond this world, left after its body dissolved.\nOnce its shell cracked, the malice housed within faded away as well.",
+    "TypeDescription": "Character and Weapon Enhancement Material",
+    "Icon": "UI_ItemIcon_112137"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112138,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Aberrant Core of the Deep Shadow",
+    "Description": "The remains of a fisher from beyond this world, left after its body dissolved.\nA core whose functions have fully shut down, and its structure resembles no organ of any creature found on this earth.",
+    "TypeDescription": "Character and Weapon Enhancement Material",
+    "Icon": "UI_ItemIcon_112138"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112139,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hooked Beak of the Deep Shadow",
+    "Description": "The remains of a fisher from beyond this world, left after its body dissolved.\nA birdlike, hook-shaped beak used by predators from beyond this world to store the biomass they seize.",
+    "TypeDescription": "Character and Weapon Enhancement Material",
+    "Icon": "UI_ItemIcon_112139"
+  },
+  {
     "Rank": 11101,
     "MaterialType": 14,
     "Id": 113001,
@@ -37079,6 +37587,50 @@
     "Description": "A kuuvahki device obtained from the energy core after defeating the Super-Heavy Landrover: Mechanized Fortress.\nThe Fontaine Research Institute of Kinetic Energy Engineering once defined several ideal cycle patterns for elemental working substance engines. Regardless of the type, the most perfect number of cycles has consistently been four. Although most engineers from the Armory Palace and the Kuuvahki Experimental Design Bureau tend to regard kuuvahki as a working substance distinct from elemental energy, design configurations beyond the four-cycle paradigm have still been proven inefficient and impractical. In a certain sense, the \"four\"-cycle might be the world's peculiar preference. Although, the world may have no preference at all, and for the world, the habit of presumptuous mortals making self-satisfied conjectures could well be the strangest preference of all.",
     "TypeDescription": "Character Level-Up Material",
     "Icon": "UI_ItemIcon_113080"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113081,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Mask of the Virtuous Doctor",
+    "Description": "A mask found in the heretical testing grounds after defeating the false god that usurped the moon.\nMedicine is meant to cure the ailments of the flesh, yet mortal physicians turn a blind eye to the true causes of death. In the hands of a wise healer, the frail human body escapes the bounds of birth, aging, sickness, and death, revealing strength that defies common sense.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113081"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113082,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Madman's Restraint",
+    "Description": "A band found in the heretical testing grounds after defeating the false god that usurped the moon.\nHumanity defines civilization by driving out madness. Yet believing that all things, whether they exist or not, can be contained within reason may itself be another form of lunacy. The madman sees through reason's cunning, and in his world, all things are permitted.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113082"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113083,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Elixir of the Heretic",
+    "Description": "A vial found in the heretical testing grounds after defeating the false god that usurped the moon.\nFor centuries, self-proclaimed scholars have crawled beneath the weight of the six cardinal prohibitions, their studies little more than circular reasoning and empty words. The pursuit of truth should know no bounds — by this measure, those condemned as heretics by the world are the truest seekers of knowledge.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Remnant of the Dreadwing",
+    "Description": "A deep-black bone relic taken from the lingering corruption left behind after defeating the Whisperer of Nightmares that came invading from beyond this world.\nThe formless beast that soared through the starless void should never have required organs this world calls \"wings.\" Those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -38441,6 +38993,28 @@
     "ItemType": 2,
     "Name": "Domain Reliquary: Tier I",
     "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n·Night of the Sky's Unveiling\n·Silken Moon's Serenade",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117026,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier II",
+    "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n· Aubade of Morningstar and Moon\n· A Day Carved From Rising Winds\n· Berserker\n· Instructor\n· The Exile",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117027,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier I",
+    "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n· Aubade of Morningstar and Moon\n· A Day Carved From Rising Winds",
     "TypeDescription": "Reliquary",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -44848,6 +45422,17 @@
     "Icon": "UI_ItemIcon_129002"
   },
   {
+    "Rank": 0,
+    "MaterialType": 2,
+    "Id": 129003,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Moon-Prayer Blossom From Columbina",
+    "Description": "A Moon-Prayer Blossom gifted to you by Columbina, exuding a fragrance both pure and ethereal, much like those you once saw in the Silvermoon Hall.\nIt stirs the memory of a story, and heralds the opening of a new chapter. This time, it will never lose its colors again.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_129003"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 120753,
@@ -49074,6 +49659,17 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121316,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Memorata-Cognoscenti's Jest",
+    "Description": "An artificial flower stained with rust. It is said to be a keepsake from Reed Miller, the founder of the Treasure Hoarders.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121319"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121317,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49081,6 +49677,17 @@
     "Description": "A feather as dark as night. It is said to be a keepsake from Reed Miller, the founder of the Treasure Hoarders.",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_121317"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121318,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Devocina-Cognoscenti's Sorrow",
+    "Description": "A timepiece long since stopped. It is said to be a keepsake from Reed Miller, the founder of the Treasure Hoarders.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121320"
   },
   {
     "Rank": 10,
@@ -49147,6 +49754,17 @@
     "Description": "A special box of custom-made sugar sculptures, seemingly crafted with someone in mind. Best enjoyed quickly before they have a chance to melt.",
     "TypeDescription": "Consumable",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121326,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Spare Bunker Handwheel",
+    "Description": "A spare handwheel used for maintaining the Doomsday Purification System. It shows no signs of rust, yet for some reason it still carries a faint, lingering scent of iron.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121326"
   },
   {
     "Rank": 10,
@@ -49603,6 +50221,61 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121378,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Golden Key",
+    "Description": "A gleaming golden key. The key itself is worth a fortune.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121378"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121379,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silver Key",
+    "Description": "A shining silver key. Not as valuable as the golden one, but it is also far from ordinary.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121379"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121380,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Iron Key",
+    "Description": "A plain iron key, one of the most ordinary and easy-to-find keys around.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121380"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121381,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Iron Key",
+    "Description": "A plain iron key, one of the most ordinary and easy-to-find keys around.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121381"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121382,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Strange Iron Coin",
+    "Description": "A coin that resembles a common iron coin, though it may be a different variant.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121382"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121383,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49766,6 +50439,39 @@
     "Icon": "UI_ItemIcon_71700047"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121403,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Aged Pinecone",
+    "Description": "An old seed that's long past fresh. Even in desperate times, it's probably not a good idea to eat it.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100020"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121404,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Aged Rye",
+    "Description": "Gray-brown grain, carrying a subtle whiff of mold...",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121405,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mysterious Meat",
+    "Description": "A fresh chunk of meat that seems to be radiating an enigmatic aura. Wonder what it'll taste like?",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100061"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121406,
@@ -49797,6 +50503,28 @@
     "Description": "A sum of money taken from the chest containing the Curatorium of Secrets's funds. Money doesn't grow on trees, so spend it wisely.",
     "TypeDescription": "Consumable",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121409,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Shutterflash\" Kamera",
+    "Description": "A custom-built Kamera equipped with Lepine-Pauline's latest \"Shutterflash\" lens.\nIts intricate inner workings can freeze the flutter of a bird's wings or the flash of a swordsman's strike in an instant. It captures the swiftest motion and preserves the most precious scenes, including every shining moment worth remembering when you reunite with friends.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_220094"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121410,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "The Shiniest and Brightest Beryl Conch",
+    "Description": "You promised Puca that you would carefully select and gather the shiniest and brightest Beryl Conches for her.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_101232"
   },
   {
     "Rank": 10,
@@ -49909,6 +50637,28 @@
     "Icon": "UI_ItemIcon_121426"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121439,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Wish",
+    "Description": "In the storytellers' tales, people entrusted their wishes to the Xiao Lanterns before releasing them into the sky. Yet there was a time when fiends sought to devour those wishes. Thanks to the intervention of an adeptus, their ascent was safeguarded...",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121439"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121440,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Moonlight",
+    "Description": "In the storytellers' tales, there were once powerful demons that could devour the moonlight. To reclaim the radiance they had consumed, that adeptus stepped forward time and time again...",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121440"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121441,
@@ -49918,6 +50668,226 @@
     "Description": "A special box of custom-made sugar sculptures, seemingly crafted with someone in mind. Best enjoyed quickly before they have a chance to melt.",
     "TypeDescription": "Consumable",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121454,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "The White Horse Adeptus Meets the White Horse Adeptus in Liyue Harbor",
+    "Description": "A photo titled by Paimon, capturing a moment of shared laughter among three friends.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121454"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121455,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "An Ancient Poem",
+    "Description": "An Ancient Poem",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100214"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121456,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Marionette's Notebook",
+    "Description": "A relic from Sandrone, passed to you by The Knave. Its pages record many matters related to Sandrone.\nAlthough its cover and pages are worn with age, it is easy to see how much its owner once treasured it.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_120275"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121458,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Special Sugar Sculpture Box",
+    "Description": "A special box of custom-made sugar sculptures, seemingly crafted with someone in mind. Best enjoyed quickly before they have a chance to melt.",
+    "TypeDescription": "Consumable",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121459,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Special Sugar Sculpture Box",
+    "Description": "A special box of custom-made sugar sculptures, seemingly crafted with someone in mind. Best enjoyed quickly before they have a chance to melt.",
+    "TypeDescription": "Consumable",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 25029,
+    "MaterialType": 78,
+    "Id": 121462,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "That Which Has Lost Its Power",
+    "Description": "A curio whose power has faded away. Crafted from fine jade and bronze, it now waits quietly for the moment it might shine once more.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_121462"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121463,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Fresh Rye",
+    "Description": "The freshly harvested wheat that carries a warm, comforting scent. Only after grinding and baking does it transform into a rich, full-bodied flavor.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121465,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "\"The First Iron Coin\"",
+    "Description": "An aged iron coin engraved with a stylized raven sigil. Legend says it was forged by Reed Miller, founder of the Treasure Hoarders, and was the very first true \"Iron Coin.\"\nIn a world without borders, in a paradise where no one suffers from hunger or cold, the gold bestowed and governed by the Deus Auri was never meant to serve as the foundation of human cooperation.\nHumans should be masters of money, not its servants. Even if one cannot claim the heart of gold for themselves, all should be able to wield the wealth that inherently belongs to everyone.\n\nBut that is a story of a much later time. Whether it was the first iron coin or the ideals sung, interpreted, and twisted over the following centuries,\nit all began on a winter night beyond the reach of lamplight, when two children slipped out of the academy, hiding from the adults' eyes, and carved a token for playing the Thief Extraordinaire.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121438"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121466,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "The White Horse Adeptus Meets the White Horse Adeptus in Liyue Harbor",
+    "Description": "A photo titled by Paimon, capturing a moment of shared laughter among three friends.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121466"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121467,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silver Lampwick",
+    "Description": "A sacred lamp capable of forming a protective barrier, now dimmed after its energy is depleted.\nOnce a ritual vessel of the Frostmoon Scions, it brought dreams and song to the lost people wandering the desolate lands. It has survived to this day only because it was left behind in the time-stilled tower.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121467"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121468,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silver Lampwick",
+    "Description": "A sacred lamp capable of forming a protective barrier, its faint light barely piercing the darkness.\nOnce a ritual vessel of the Frostmoon Scions, it brought dreams and song to the lost people wandering the desolate lands. It has survived to this day only because it was left behind in the time-stilled tower.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121468"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121469,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silver Lampwick",
+    "Description": "A sacred lamp capable of forming a protective barrier, its faint light shimmering quietly.\nOnce a ritual vessel of the Frostmoon Scions, it brought dreams and song to the lost people wandering the desolate lands. It has survived to this day only because it was left behind in the time-stilled tower.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121469"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121470,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silver Lampwick",
+    "Description": "A sacred lamp capable of forming a protective barrier, brimming with energy and shining brilliantly.\nOnce a ritual vessel of the Frostmoon Scions, it brought dreams and song to the lost people wandering the desolate lands. It has survived to this day only because it was left behind in the time-stilled tower.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121470"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121475,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Forgotten Key",
+    "Description": "This might open a door somewhere.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100302"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121476,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Tier I Bunker Access Card",
+    "Description": "A key card obtained from a peculiar terminal on the west side of Piramida. Its appearance is utterly unremarkable.\nFrom what you've been told, it should grant access to the bunker beneath the terminal.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121477,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tier II Bunker Access Card",
+    "Description": "A key card obtained from an experiment site. Its appearance is utterly unremarkable.\nNeat Snezhnayan text has been printed onto its surface: \"Senior Maintenance Technician Aleksey Zakharevich Kotelnikov.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121478,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tier III Bunker Access Card",
+    "Description": "A key card obtained from an experiment site. Its appearance is utterly unremarkable.\nNeat Snezhnayan text has been printed onto its surface: \"Chief Researcher Grazina Myklukho.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "A Brief History of the Pale Starborn",
+    "Description": "A book on fae history. Based on certain details within, it's believed to have been written by fae elders.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Night Murmurs From the Far Border: Varcolac",
+    "Description": "A collection of folktales circulated in Snezhnaya, said to record all kinds of lesser-known fae tales. This volume tells the story of a dangerous fae known as the \"Varcolac.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tales Carried by the Northwind",
+    "Description": "A poetry collection chronicling the deeds of successive Starshynas. Most of its contents were lost in past calamities. Only a small fraction of the original fragments have been recovered.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -50380,6 +51350,28 @@
     "Description": "A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into Lakkaberry.",
     "TypeDescription": "Material",
     "Icon": "UI_ItemIcon_130042"
+  },
+  {
+    "Rank": 248,
+    "MaterialType": 31,
+    "Id": 130043,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Winter Icelea Seed",
+    "Description": "A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Winter Icelea.",
+    "TypeDescription": "Material",
+    "Icon": "UI_ItemIcon_130043"
+  },
+  {
+    "Rank": 247,
+    "MaterialType": 31,
+    "Id": 130044,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Pine Amber Seed",
+    "Description": "A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Pine Amber.",
+    "TypeDescription": "Material",
+    "Icon": "UI_ItemIcon_130044"
   },
   {
     "Rank": 341,
@@ -52698,7 +53690,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 157",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Bustling Port Market.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52709,7 +53701,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 158",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Unfurling Night.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52720,7 +53712,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 159",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Sails Set With Eagerness.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52731,7 +53723,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 160",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Mayskaya Noch'.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52742,7 +53734,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 161",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Fields After Dusk.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52753,7 +53745,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 162",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Kathisma Chrysopoleos.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52764,7 +53756,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 163",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Hymn to the Moon.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52775,7 +53767,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 164",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"From Beyond.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52786,7 +53778,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 165",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Solitary Silhouette.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52797,7 +53789,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 166",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Rosy Marshland.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52808,7 +53800,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 167",
-    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Forbidding Ground.\"",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52819,6 +53811,94 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Radiant Spincrystal 168",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Raised on Fallen Meteorites.\"",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 169",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 170",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 171",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 172",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 173",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 174",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 175",
+    "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
+    "TypeDescription": "Adventure Item",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Radiant Spincrystal 176",
     "Description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Nod-Krai.",
     "TypeDescription": "Adventure Item",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -53053,6 +54133,39 @@
     "Description": "It floats away carrying beautiful wishes.",
     "TypeDescription": "Lantern Rite Material",
     "Icon": "UI_ItemIcon_200004"
+  },
+  {
+    "Rank": 15135,
+    "MaterialType": 21,
+    "Id": 200005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Celebratory Xiao Lantern",
+    "Description": "A special Xiao Lantern, specially crafted by the Ministry of Civil Affairs. Can be equipped in the item slot and used in Liyue Harbor to release the corresponding Xiao Lantern.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200005"
+  },
+  {
+    "Rank": 15136,
+    "MaterialType": 21,
+    "Id": 200006,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gift Xiao Lantern",
+    "Description": "A special Xiao Lantern, specially crafted by the Ministry of Civil Affairs. With these Xiao Lanterns, you can send various gifts to your companions. Can be equipped in the item slot and used in Liyue Harbor to release the corresponding Xiao Lantern.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200006"
+  },
+  {
+    "Rank": 15137,
+    "MaterialType": 21,
+    "Id": 200007,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Xiao Lantern Flight Manual",
+    "Description": "A handbook issued by the Ministry of Civil Affairs, detailing special techniques for releasing Xiao Lanterns. By following its instructions, you may be able to launch the lanterns in a unique Xiao Lantern formation.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200007"
   },
   {
     "Rank": 430061,
@@ -54469,7 +55582,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Seed Dispensary",
-    "Description": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"... That is to say, it can create the seeds of various plants according to their special traits, which can then be planted within the appropriate fields within your Serenitea Pot.\nPlants available for planting: Silk Flower, Sweet Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Valberry, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Naku Weed, Horsetail, Snapdragon, Lotus Head, Calla Lily, Seagrass, Sea Ganoderma, Harra Fruit, Zaytun Peach, Sumeru Rose, Pluie Lotus, Marcotte, Lumidouce Bell, Rainbow Rose, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Brilliant Chrysanthemum, Sprayfeather Gill, Glowing Hornshroom, Skysplit Gembloom, Frostlamp Flower, Midsommar Berry, Lakkaberry.",
+    "Description": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"... That is to say, it can create the seeds of various plants according to their special traits, which can then be planted within the appropriate fields within your Serenitea Pot.\nPlants available for planting: Silk Flower, Sweet Flower, Cecilia, Glaze Lily, Windwheel Aster, Qingxin, Violetgrass, Valberry, Small Lamp Grass, Jueyun Chili, Carrot, Radish, Mint, Mushroom, Naku Weed, Horsetail, Snapdragon, Lotus Head, Calla Lily, Seagrass, Sea Ganoderma, Harra Fruit, Zaytun Peach, Sumeru Rose, Pluie Lotus, Marcotte, Lumidouce Bell, Rainbow Rose, Grainfruit, Cacahuatl, Saurian Claw Succulent, Quenepa Berry, Brilliant Chrysanthemum, Sprayfeather Gill, Glowing Hornshroom, Skysplit Gembloom, Frostlamp Flower, Midsommar Berry, Lakkaberry, Pine Amber, Winter Icelea.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220033"
   },
@@ -55440,6 +56553,17 @@
     "Description": "Received from Alice, this dictionary was created by the witches. Though it claims to explain a storybook of fables titled The Little Witch and the Undying Fire, it is actually filled with homework tailored by the Hexenzirkel for each reader.\nAs they say, \"To defy the current is to learn.\" Embark on your journey with your companions and seek the crown of elevation!",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220126"
+  },
+  {
+    "Rank": 25028,
+    "MaterialType": 21,
+    "Id": 220127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jadelight Canopy",
+    "Description": "Bathed in the energy of the Ley Lines, the Jadelight Canopy has been replenished with spiritual power. It can now summon a jade carriage, helping its user travel quickly to distant locations.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220127"
   },
   {
     "Rank": 300201,
@@ -56724,7 +57848,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Feiyun Study Room",
-    "Description": "A detailed step-by-step blueprint for making a \"Feiyun Study Room.\"\nThere are many ways to fashion a study in Liyue, but luxury is optional, for the learned prefer \"spirit\" and \"elegance.\" A potted plant here balances out the moisture in the room, and the table and shelves exude a light woody fragrance that combines with the plain layout and the sunset glow of the lamps to inspire genius and elevate writing.\nThey say that many years ago, a certain guest at Feiyun Slope laid just such a study out, and this design was taken up by the previous boss of Wanwen Bookhouse. Thus, it was ever after known as the Feiyun Study Room and became recognized throughout Liyue.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan",
+    "Description": "A detailed step-by-step blueprint for making a \"Feiyun Study Room.\"\nThere are many ways to fashion a study in Liyue, but luxury is optional, for the learned prefer \"spirit\" and \"elegance.\" A potted plant here balances out the moisture in the room, and the table and shelves exude a light woody fragrance that combines with the plain layout and the sunset glow of the lamps to inspire genius and elevate writing.\nThey say that many years ago, a certain guest at Feiyun Slope laid just such a study out, and this design was taken up by the previous boss of Wanwen Bookhouse. Thus, it was ever after known as the Feiyun Study Room and became recognized throughout Liyue.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan, Zibai",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -56823,7 +57947,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Qingce Cloud Residence",
-    "Description": "A detailed step-by-step blueprint for making a \"Qingce Cloud Residence.\"\nA mountain hamlet modeled after Qingce Village. It is said that the friendly atmosphere there is infectious and that visitors who enter will find themselves calmed and more appreciative of simple joys that they may have once forgotten.\nTo head out in pursuit of one's ideals and spend one's years magnificently chasing a career is certainly praiseworthy. But after spending so long on such endeavors, one may eventually tire. When that happens, a quiet and peaceful life out in the countryside remains a good choice. Qingce Village has always maintained its acceptance of young folk who head out to seek their fortunes, and is ready to welcome them back with open arms at any time.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun",
+    "Description": "A detailed step-by-step blueprint for making a \"Qingce Cloud Residence.\"\nA mountain hamlet modeled after Qingce Village. It is said that the friendly atmosphere there is infectious and that visitors who enter will find themselves calmed and more appreciative of simple joys that they may have once forgotten.\nTo head out in pursuit of one's ideals and spend one's years magnificently chasing a career is certainly praiseworthy. But after spending so long on such endeavors, one may eventually tire. When that happens, a quiet and peaceful life out in the countryside remains a good choice. Qingce Village has always maintained its acceptance of young folk who head out to seek their fortunes, and is ready to welcome them back with open arms at any time.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun, Zibai",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70882,6 +72006,270 @@
     "ItemType": 2,
     "Name": "Master Weaselmind",
     "Description": "A detailed step-by-step blueprint for making \"Master Weaselmind.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381344,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Whispers in the Moonlight\"",
+    "Description": "A detailed step-by-step blueprint for making \"Whispers in the Moonlight.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382277,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Simple Stretcher: \"Steady Evacuation\"",
+    "Description": "A detailed step-by-step blueprint for making Simple Stretcher: \"Steady Evacuation.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382278,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Bottoms Up\"",
+    "Description": "A detailed step-by-step blueprint for making \"Bottoms Up.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382133,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"To a Friend\"",
+    "Description": "A detailed step-by-step blueprint for making \"To a Friend.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Simple Care Bed",
+    "Description": "A detailed step-by-step blueprint for making a Simple Care Bed.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384226,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Flag of Piramida",
+    "Description": "A detailed step-by-step blueprint for making a Flag of Piramida.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391014,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Adjustable Metal Barrier",
+    "Description": "A detailed step-by-step blueprint for making an Adjustable Metal Barrier.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391015,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Solitude in the City of the Ever-Watchful\"",
+    "Description": "A detailed step-by-step blueprint for making \"Solitude in the City of the Ever-Watchful.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391016,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Shelter in the City of the Ever-Watchful\"",
+    "Description": "A detailed step-by-step blueprint for making \"Shelter in the City of the Ever-Watchful.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391017,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"A Corner of One's Own\"",
+    "Description": "A detailed step-by-step blueprint for making \"A Corner of One's Own.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391018,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Care in the City of the Ever-Watchful\"",
+    "Description": "A detailed step-by-step blueprint for making \"Care in the City of the Ever-Watchful.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391019,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Forge in the City of the Ever-Watchful\"",
+    "Description": "A detailed step-by-step blueprint for making \"Forge in the City of the Ever-Watchful.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391020,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Starshyna Walking\"",
+    "Description": "A detailed step-by-step blueprint for making \"Starshyna Walking.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394332,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Warm and Cozy\"",
+    "Description": "A detailed step-by-step blueprint for making \"Warm and Cozy.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394642,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Command With Confidence\"",
+    "Description": "A detailed step-by-step blueprint for making \"Command With Confidence.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Simple Weapon Rack: \"Easy Access\"",
+    "Description": "A detailed step-by-step blueprint for making Simple Weapon Rack: \"Easy Access.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Lightkeepers' Moving Lighthouse\"",
+    "Description": "A detailed step-by-step blueprint for making \"Lightkeepers' Moving Lighthouse.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Shimmer of Life\"",
+    "Description": "A detailed step-by-step blueprint for making \"Shimmer of Life.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393223,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lush Verdure",
+    "Description": "A detailed step-by-step blueprint for making Lush Verdure.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393224,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bright Verdure",
+    "Description": "A detailed step-by-step blueprint for making Bright Verdure.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380469,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lightweight Metal Lamp",
+    "Description": "A detailed step-by-step blueprint for making a Lightweight Metal Lamp.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380470,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Standing Street Lamp: \"Efficiency Maxed\"",
+    "Description": "A detailed step-by-step blueprint for making Standing Street Lamp: \"Efficiency Maxed.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380471,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Vibrant Xiao Lantern: \"May My Wish Travel Far\"",
+    "Description": "A detailed step-by-step blueprint for making Vibrant Xiao Lantern: \"May My Wish Travel Far.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380472,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Vibrant Xiao Lantern: \"A Meeting With Friends\"",
+    "Description": "A detailed step-by-step blueprint for making Vibrant Xiao Lantern: \"A Meeting With Friends.\"\nAfter using this item, you can view it in the Creation Screen.",
     "TypeDescription": "Furnishing Blueprint",
     "Icon": "UI_ItemIcon_Home_Common"
   }

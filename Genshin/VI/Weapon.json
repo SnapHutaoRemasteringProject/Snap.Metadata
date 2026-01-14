@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Mảnh Trăng Ánh Sáng",
+    "Description": "Truyền thuyết kể rằng, thanh bảo kiếm được tiên nhân ẩn mình bên dòng suối đúc từ ánh sáng của vầng trăng trong giếng, chỉ khi hoàng hôn mới để lộ chân hình.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Lang-Gan Diễn Nghĩa",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Phòng Ngự tăng <color=#99FFFFFF>20%</color>. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng <color=#99FFFFFF>64%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Phòng Ngự tăng <color=#99FFFFFF>25%</color>. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng <color=#99FFFFFF>80%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Phòng Ngự tăng <color=#99FFFFFF>30%</color>. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng <color=#99FFFFFF>96%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Phòng Ngự tăng <color=#99FFFFFF>35%</color>. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng <color=#99FFFFFF>112%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Phòng Ngự tăng <color=#99FFFFFF>40%</color>. Trong 5s sau khi người trang bị thi triển Kỹ Năng Nguyên Tố, sát thương phản ứng Nguyệt-Kết Tinh tăng <color=#99FFFFFF>128%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê hoặc Nguyệt-Sum Suê, sẽ hồi phục <color=#99FFFFFF>12</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>60</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục <color=#99FFFFFF>12</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>60</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
         },
         {
           "Level": 1,
-          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê hoặc Nguyệt-Sum Suê, sẽ hồi phục <color=#99FFFFFF>15</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>75</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục <color=#99FFFFFF>15</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>75</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
         },
         {
           "Level": 2,
-          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê hoặc Nguyệt-Sum Suê, sẽ hồi phục <color=#99FFFFFF>18</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>90</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục <color=#99FFFFFF>18</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>90</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
         },
         {
           "Level": 3,
-          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê hoặc Nguyệt-Sum Suê, sẽ hồi phục <color=#99FFFFFF>21</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>105</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục <color=#99FFFFFF>21</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>105</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
         },
         {
           "Level": 4,
-          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê hoặc Nguyệt-Sum Suê, sẽ hồi phục <color=#99FFFFFF>24</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>120</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+          "Description": "Khi kích hoạt phản ứng Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Kết Tinh hoặc Nguyệt-Kết Tinh, sẽ hồi phục <color=#99FFFFFF>24</color> điểm Năng Lượng Nguyên Tố, đồng thời tăng <color=#99FFFFFF>120</color> điểm Tinh Thông Nguyên Tố trong 15s tiếp theo. Hiệu quả này mỗi 15s tối đa kích hoạt một lần. Người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Tấn công tăng <color=#99FFFFFF>20%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>18%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương."
+          "Description": "Tấn công tăng <color=#99FFFFFF>20%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>18%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh."
         },
         {
           "Level": 1,
-          "Description": "Tấn công tăng <color=#99FFFFFF>25%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>22.5%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương."
+          "Description": "Tấn công tăng <color=#99FFFFFF>25%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>22.5%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh."
         },
         {
           "Level": 2,
-          "Description": "Tấn công tăng <color=#99FFFFFF>30%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>27%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương."
+          "Description": "Tấn công tăng <color=#99FFFFFF>30%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>27%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh."
         },
         {
           "Level": 3,
-          "Description": "Tấn công tăng <color=#99FFFFFF>35%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>31.5%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương."
+          "Description": "Tấn công tăng <color=#99FFFFFF>35%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>31.5%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh."
         },
         {
           "Level": 4,
-          "Description": "Tấn công tăng <color=#99FFFFFF>40%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>36%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương."
+          "Description": "Tấn công tăng <color=#99FFFFFF>40%</color>; Khi nhân vật trong đội nhận được mảnh tinh thể sinh ra từ phản ứng Kết Tinh hoặc kích hoạt phản ứng Nguyệt-Kết Tinh, người trang bị sẽ nhận được 1 \"Ấn Ký\", khiến sát thương gây ra từ Kỹ Năng Nguyên Tố tăng <color=#99FFFFFF>36%</color>. Ấn Ký duy trì 15s, tối đa có thể giữ 2 ấn cùng lúc. Tất cả Ấn Ký của người trang bị sẽ bị xóa sau 0.2s khi Kỹ Năng Nguyên Tố của người đó gây sát thương. Mỗi 1s tối đa nhận 1 Ấn Ký thông qua phản ứng Nguyệt-Kết Tinh."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Dạ Khúc Hạ Màn",
+    "Description": "Viên ngọc được phủ một lớp ánh trăng mỏng phía trên, dù trong đêm đông lạnh giá vẫn toát lên sự ấm áp dịu dàng như khúc hát.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Bài Ca Ngã Rẽ",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Giới Hạn HP tăng <color=#99FFFFFF>10%</color>. Khi người trang bị kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt lên kẻ địch, sẽ hồi phục <color=#99FFFFFF>14</color> điểm Năng Lượng Nguyên Tố cho người trang bị và nhận hiệu quả \"Rượu Thần Của Biển Phì Nhiêu\" trong 12s: Giới Hạn HP tăng thêm <color=#99FFFFFF>14%</color>, sát thương phản ứng Nguyệt tăng <color=#99FFFFFF>60%</color> Sát Thương Bạo Kích. Hiệu quả hồi Năng Lượng Nguyên Tố mỗi 18s tối đa kích hoạt một lần, người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 1,
+          "Description": "Giới Hạn HP tăng <color=#99FFFFFF>12%</color>. Khi người trang bị kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt lên kẻ địch, sẽ hồi phục <color=#99FFFFFF>15</color> điểm Năng Lượng Nguyên Tố cho người trang bị và nhận hiệu quả \"Rượu Thần Của Biển Phì Nhiêu\" trong 12s: Giới Hạn HP tăng thêm <color=#99FFFFFF>16%</color>, sát thương phản ứng Nguyệt tăng <color=#99FFFFFF>80%</color> Sát Thương Bạo Kích. Hiệu quả hồi Năng Lượng Nguyên Tố mỗi 18s tối đa kích hoạt một lần, người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 2,
+          "Description": "Giới Hạn HP tăng <color=#99FFFFFF>14%</color>. Khi người trang bị kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt lên kẻ địch, sẽ hồi phục <color=#99FFFFFF>16</color> điểm Năng Lượng Nguyên Tố cho người trang bị và nhận hiệu quả \"Rượu Thần Của Biển Phì Nhiêu\" trong 12s: Giới Hạn HP tăng thêm <color=#99FFFFFF>18%</color>, sát thương phản ứng Nguyệt tăng <color=#99FFFFFF>100%</color> Sát Thương Bạo Kích. Hiệu quả hồi Năng Lượng Nguyên Tố mỗi 18s tối đa kích hoạt một lần, người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 3,
+          "Description": "Giới Hạn HP tăng <color=#99FFFFFF>16%</color>. Khi người trang bị kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt lên kẻ địch, sẽ hồi phục <color=#99FFFFFF>17</color> điểm Năng Lượng Nguyên Tố cho người trang bị và nhận hiệu quả \"Rượu Thần Của Biển Phì Nhiêu\" trong 12s: Giới Hạn HP tăng thêm <color=#99FFFFFF>20%</color>, sát thương phản ứng Nguyệt tăng <color=#99FFFFFF>120%</color> Sát Thương Bạo Kích. Hiệu quả hồi Năng Lượng Nguyên Tố mỗi 18s tối đa kích hoạt một lần, người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        },
+        {
+          "Level": 4,
+          "Description": "Giới Hạn HP tăng <color=#99FFFFFF>18%</color>. Khi người trang bị kích hoạt phản ứng Nguyệt hoặc gây sát thương phản ứng Nguyệt lên kẻ địch, sẽ hồi phục <color=#99FFFFFF>18</color> điểm Năng Lượng Nguyên Tố cho người trang bị và nhận hiệu quả \"Rượu Thần Của Biển Phì Nhiêu\" trong 12s: Giới Hạn HP tăng thêm <color=#99FFFFFF>22%</color>, sát thương phản ứng Nguyệt tăng <color=#99FFFFFF>140%</color> Sát Thương Bạo Kích. Hiệu quả hồi Năng Lượng Nguyên Tố mỗi 18s tối đa kích hoạt một lần, người trang bị không ra trận cũng có thể kích hoạt hiệu quả nêu trên."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Sonhos Baratos por 10 Mora",
+    "Description": "Colete toda a série de \"As Lendas de Reed Miller, o Ladrão Extraordinário\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Preces Silenciadas",
+    "Description": "Colete toda a série de \"Hinos do Norte Extremo\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "...Assim como Abelhas Nasceram Para Fazer Mel",
+    "Description": "Colete toda a série de \"Ecos da Concha\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Além do Véu Nevado",
+    "Description": "Colete toda a série \"Contos Levados Pelo Vento do Norte\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "História de Uma Cidade",
+    "Description": "Colete toda a série de \"Uma Breve História dos Nascidos da Estrela Azul\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "O Reino Feérico Debaixo da Lua",
+    "Description": "Colete toda a série de \"Sussurros Noturnos da Fronteira Distante\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Caçador de Tesouros da Poeira Lunar - II",
+    "Description": "Abra 45 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Caçador de Tesouros da Poeira Lunar - II",
+    "Description": "Abra 90 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Caçador de Tesouros da Poeira Lunar - II",
+    "Description": "Abra 180 baús em Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Aventureiro da Poeira Lunar - II",
+    "Description": "Conclua 5 desafios Contra o Tempo de Mundo Aberto no Panorama do Mar Vazio, Pico do Véu de Cinzas e Pico do Véu de Cinzas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Explorador Continental: Ilha Banhada pelo Luar - II",
+    "Description": "Ilumine os mapas das seguintes áreas em Nod-Krai: Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Bosques Gelados Além da Escuridão - II",
+    "Description": "Desbloqueie todos os Pontos de Teleporte das seguintes áreas de Nod-Krai: Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Marcha Santa: Ilha Banhada pelo Luar - II",
+    "Description": "Desbloqueie todos os Santuários das Profundezas do Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas na região de Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Oferendas à Noite: Ilha Banhada pelo Luar (II)",
+    "Description": "Desbloqueie todos os selos dos tesouros escondidos de Kuuhenki no Panorama do Mar Vazio, Planície do Caçador de Ondas e Pico do Véu de Cinzas na região de Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Os Ventos Despertam, As Folhas Rodopiam",
+    "Description": "Um rouxinol, carregando uma brasa em seu bico, voou somente após o anoitecer.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Se A Semente Ainda Viver",
+    "Description": "Mesmo quando as flores murcham, as folhas mantêm sua promessa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Construção Conjunta de Pontos de Encontro: Acampamento no Penhasco",
+    "Description": "Eleve o Acampamento no Penhasco ao seu nível máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Construção Conjunta de Pontos de Encontro: Jardim da Bruxa",
+    "Description": "Eleve Jardim da Bruxa ao seu nível máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Construção Conjunta de Pontos de Encontro: Fortaleza de Favonius",
+    "Description": "Eleve Fortaleza de Favonius ao seu nível máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenata ao Luar na Noite Branca",
+    "Description": "Conclua \"Crônicas Selênicas: Parte III.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Punição Adequada aos Culpados",
+    "Description": "Ajude Janusz a derrotar os monstros no Pântano dos Pesadelos.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Dead Draw",
+    "Description": "O Fim Ainda Não Chegou.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Sem Mais Esperanças, Sem Mais Medos",
+    "Description": "Testemunhe um palácio antigo surgir das profundezas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "A Leste da Lua, a Oeste do Sol",
+    "Description": "Conclua \"A Leste da Lua, a Oeste do Sol\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Quem Vigia os Vigilantes?",
+    "Description": "Descubra o Plano de Grazina.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "As Memórias do Lobo Solitário",
+    "Description": "Daí em diante, o Cavaleiro Manchado de Sangue deixou o mundo dos homens...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Onde o Herói Descansa",
+    "Description": "Testemunhe o final do conto do Corcel do Gelo Invernal.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Longe de Casa",
+    "Description": "Ajude Kuzmich em sua jornada de volta para casa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Haverá Pão",
+    "Description": "Asse os Cogumelos Fantasmas na grelha.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Colina Iluminada Pelo Luar",
+    "Description": "Abra uma cápsula do tempo deixada por alguém desconhecido de Hiperbórea.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Retorno Para Cova Silenciosa",
+    "Description": "Elimine todos os seguidores do \"Professor\" Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Momento É Tudo",
+    "Description": "Capture o momento perfeito para virar o jogo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Não Derrube",
+    "Description": "Absorva e jogue uma Mandrágora com Kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Linhas Finas e Escuras",
+    "Description": "Purifique as ondas do Poder do Abismo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Flutuando em Passos Suaves",
+    "Description": "Sinta o toque suave das Flores da Fonte de Algodão.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "O Pastor",
+    "Description": "Dê um passeio tranquilo com a Ovelha-Preguiça.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "Afogado em Escuridão",
+    "Description": "Desabe sob a Corrosão do Abismo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Como Deveria Ser",
+    "Description": "Testemunhe o retorno da Lua do Pesadelo",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Jamais Teste um Deus",
+    "Description": "Quebre a regra estabelecida por Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"Chamamos Isso de Eficiente\"",
+    "Description": "Quebre seu escudo sem derrotar nenhum Pescador das Profundezas invocado pelo Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Um Viajante Numa Noite de Inverno",
+    "Description": "A que fim a jornada dela a levará?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "O Desbravador e Sua Sombra",
+    "Description": "Talvez esse seja o poder há muito destinado a ser seu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "A Utopia Herege",
+    "Description": "Investigue o campo de energia criado por Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Luas de Muitas Eras Passadas",
+    "Description": "Encontre as Três Irmãs da Lua do passado na prisão usada para aprisionar as deusas da lua.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Quando a Lua Nova Retorna",
+    "Description": "Das cinzas, a Lua Nova se ergue para girar a roda do destino novamente...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Velejando ao Amanhã",
+    "Description": "Testemunhe a aliança forjada entre as muitas facções de Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "À Lua",
+    "Description": "Aterrisse na lua.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Lua Verdadeira",
+    "Description": "Conclua a \"Lua Verdadeira\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

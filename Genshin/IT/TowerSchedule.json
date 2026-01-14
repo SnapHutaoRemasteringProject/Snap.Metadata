@@ -1,21 +1,5 @@
 [
   {
-    "Id": 113,
-    "FloorIds": [
-      1110,
-      1111,
-      1116,
-      1117
-    ],
-    "Open": "2025-11-16T04:00:00+08:00",
-    "Close": "2025-12-16T03:59:59+08:00",
-    "BuffName": "Luna del giuramento",
-    "Descriptions": [
-      "Quando il valore del Legame vitale del personaggio attivo aumenta o diminuisce, <color=#F39000>viene sprigionata un'onda d'urto</color> che infligge DAN puri agli avversari vicini."
-    ],
-    "Icon": "UI_TowerBlessing_99"
-  },
-  {
     "Id": 114,
     "FloorIds": [
       1110,
@@ -30,6 +14,38 @@
       "#Quando il personaggio attivo scatena Turbinio su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione di quest'ultimo, infliggendo DAN puri. Quest'effetto può attivarsi una volta ogni 2{NON_BREAK_SPACE}s."
     ],
     "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Luna d'assalto",
+    "Descriptions": [
+      "#Quando un personaggio innesca una reazione lunare (Fioritura lunare, Carica lunare o Cristallizzazione lunare) su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione dell'avversario, che infligge DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_101"
+  },
+  {
+    "Id": 116,
+    "FloorIds": [
+      1110,
+      1111,
+      1122,
+      1123
+    ],
+    "Open": "2026-02-16T04:00:00+08:00",
+    "Close": "2026-03-16T03:59:59+08:00",
+    "BuffName": "Luna di pietra",
+    "Descriptions": [
+      "#Quando un personaggio infligge DAN da Cristallizzazione lunare su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione dell'avversario, che infligge DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_102"
   },
   {
     "Id": 1,
@@ -1833,5 +1849,21 @@
       "#Quando un personaggio innesca reazioni di Dendro su un avversario, <color=#F39000>viene sprigionata un'onda d'urto</color> nella posizione di quest'ultimo, infliggendo DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
     ],
     "Icon": "UI_TowerBlessing_98"
+  },
+  {
+    "Id": 113,
+    "FloorIds": [
+      1110,
+      1111,
+      1116,
+      1117
+    ],
+    "Open": "2025-11-16T04:00:00+08:00",
+    "Close": "2025-12-16T03:59:59+08:00",
+    "BuffName": "Luna del giuramento",
+    "Descriptions": [
+      "Quando il valore del Legame vitale del personaggio attivo aumenta o diminuisce, <color=#F39000>viene sprigionata un'onda d'urto</color> che infligge DAN puri agli avversari vicini."
+    ],
+    "Icon": "UI_TowerBlessing_99"
   }
 ]

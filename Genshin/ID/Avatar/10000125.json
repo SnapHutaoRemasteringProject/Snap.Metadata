@@ -1,0 +1,1241 @@
+{
+  "Id": 10000125,
+  "PromoteId": 125,
+  "Sort": 110,
+  "Body": 2,
+  "Icon": "UI_AvatarIcon_Columbina",
+  "SideIcon": "UI_AvatarIcon_Side_Columbina",
+  "Name": "Columbina",
+  "Description": "Gadis Bulan yang lahir di Nod-Krai, Bulan Hampa yang pulang ke kampung halamannya.",
+  "BeginTime": "2026-01-13T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 10,
+  "BaseValue": {
+    "HpBase": 1143.984,
+    "AttackBase": 7.448,
+    "DefenseBase": 40.0861
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12531,
+        "Proud": {
+          "Descriptions": [
+            "DMG Tahap 1|{param1:F1P}",
+            "DMG Tahap 2|{param2:F1P}",
+            "DMG Tahap 3|{param3:F1P}",
+            "DMG Charged Attack|{param4:F1P}",
+            "Konsumsi Stamina Charged Attack|{param5:F1}",
+            "DMG Moondew Cleanse|{param6:F2P} Max HP ×3",
+            "DMG Selama Plunging|{param7:F1P}",
+            "DMG Plunging Attack Rendah/Tinggi|{param8:P}/{param9:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253101,
+              "Level": 1,
+              "Parameters": [
+                0.46792,
+                0.366256,
+                0.58484,
+                1.1608,
+                50,
+                0.015112,
+                0.568288,
+                1.136335,
+                1.419344
+              ]
+            },
+            {
+              "Id": 1253102,
+              "Level": 2,
+              "Parameters": [
+                0.503014,
+                0.393725,
+                0.628703,
+                1.24786,
+                50,
+                0.016245,
+                0.614544,
+                1.228828,
+                1.534872
+              ]
+            },
+            {
+              "Id": 1253103,
+              "Level": 3,
+              "Parameters": [
+                0.538108,
+                0.421194,
+                0.672566,
+                1.33492,
+                50,
+                0.017379,
+                0.6608,
+                1.32132,
+                1.6504
+              ]
+            },
+            {
+              "Id": 1253104,
+              "Level": 4,
+              "Parameters": [
+                0.5849,
+                0.45782,
+                0.73105,
+                1.451,
+                50,
+                0.01889,
+                0.72688,
+                1.453452,
+                1.81544
+              ]
+            },
+            {
+              "Id": 1253105,
+              "Level": 5,
+              "Parameters": [
+                0.619994,
+                0.485289,
+                0.774913,
+                1.53806,
+                50,
+                0.020023,
+                0.773136,
+                1.545944,
+                1.930968
+              ]
+            },
+            {
+              "Id": 1253106,
+              "Level": 6,
+              "Parameters": [
+                0.655088,
+                0.512758,
+                0.818776,
+                1.62512,
+                50,
+                0.021157,
+                0.826,
+                1.65165,
+                2.063
+              ]
+            },
+            {
+              "Id": 1253107,
+              "Level": 7,
+              "Parameters": [
+                0.70188,
+                0.549384,
+                0.87726,
+                1.7412,
+                50,
+                0.022668,
+                0.898688,
+                1.796995,
+                2.244544
+              ]
+            },
+            {
+              "Id": 1253108,
+              "Level": 8,
+              "Parameters": [
+                0.748672,
+                0.58601,
+                0.935744,
+                1.85728,
+                50,
+                0.024179,
+                0.971376,
+                1.94234,
+                2.426088
+              ]
+            },
+            {
+              "Id": 1253109,
+              "Level": 9,
+              "Parameters": [
+                0.795464,
+                0.622635,
+                0.994228,
+                1.97336,
+                50,
+                0.02569,
+                1.044064,
+                2.087686,
+                2.607632
+              ]
+            },
+            {
+              "Id": 1253110,
+              "Level": 10,
+              "Parameters": [
+                0.842256,
+                0.659261,
+                1.052712,
+                2.08944,
+                50,
+                0.027202,
+                1.12336,
+                2.246244,
+                2.80568
+              ]
+            },
+            {
+              "Id": 1253111,
+              "Level": 11,
+              "Parameters": [
+                0.889048,
+                0.695886,
+                1.111196,
+                2.20552,
+                50,
+                0.028713,
+                1.202656,
+                2.404802,
+                3.003728
+              ]
+            },
+            {
+              "Id": 1253112,
+              "Level": 12,
+              "Parameters": [
+                0.93584,
+                0.732512,
+                1.16968,
+                2.3216,
+                50,
+                0.030224,
+                1.281952,
+                2.563361,
+                3.201776
+              ]
+            },
+            {
+              "Id": 1253113,
+              "Level": 13,
+              "Parameters": [
+                0.99433,
+                0.778294,
+                1.242785,
+                2.4667,
+                50,
+                0.032113,
+                1.361248,
+                2.721919,
+                3.399824
+              ]
+            },
+            {
+              "Id": 1253114,
+              "Level": 14,
+              "Parameters": [
+                1.05282,
+                0.824076,
+                1.31589,
+                2.6118,
+                50,
+                0.034002,
+                1.440544,
+                2.880478,
+                3.597872
+              ]
+            },
+            {
+              "Id": 1253115,
+              "Level": 15,
+              "Parameters": [
+                1.11131,
+                0.869858,
+                1.388995,
+                2.7569,
+                50,
+                0.035891,
+                1.51984,
+                3.039036,
+                3.79592
+              ]
+            }
+          ]
+        },
+        "Id": 11251,
+        "Name": "Moondew Cascade",
+        "Description": "<color=#FFD780FF>Normal Attack</color>\nMemanggil Moonlit Tides, melancarkan hingga 3 serangan yang mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.\nJika memiliki setidaknya 1 {LINK#N11190008}<color=#FFD780FF>Verdant Dew</color>{/LINK}, Charged Attack Columbina akan digantikan oleh Charged Attack khusus yang tidak mengonsumsi Stamina, yaitu <color=#FFD780FF>Moondew Cleanse</color>: Mengonsumsi 1 Verdant Dew untuk mengakibatkan 3 kali <color=#99FF88FF>Dendro DMG Area</color> terhadap musuh di depan. DMG ini dianggap sebagai DMG reaksi Lunar-Bloom.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang tanah, menyerang musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> saat mendarat.",
+        "Icon": "Skill_A_Catalyst_MD"
+      },
+      {
+        "GroupId": 12532,
+        "Proud": {
+          "Descriptions": [
+            "DMG Skill|{param1:F1P} Max HP",
+            "DMG Berkelanjutan Gravity Ripple|{param2:F1P} Max HP",
+            "DMG Lunar-Charged Gravity Interference|{param3:F2P} Max HP",
+            "DMG Lunar-Bloom Gravity Interference|{param4:F2P} Max HP ×5",
+            "DMG Lunar-Crystallize Gravity Interference|{param5:F2P} Max HP",
+            "Batas Maksimum Gravity|{param8:I}",
+            "Durasi Gravity Ripple|{param9:F1} dtk",
+            "Cooldown|{param10:F1} detik"
+          ],
+          "Parameters": [
+            {
+              "Id": 1253201,
+              "Level": 1,
+              "Parameters": [
+                0.1672,
+                0.0936,
+                0.04704,
+                0.01408,
+                0.08824,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253202,
+              "Level": 2,
+              "Parameters": [
+                0.17974,
+                0.10062,
+                0.050568,
+                0.015136,
+                0.094858,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253203,
+              "Level": 3,
+              "Parameters": [
+                0.19228,
+                0.10764,
+                0.054096,
+                0.016192,
+                0.101476,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253204,
+              "Level": 4,
+              "Parameters": [
+                0.209,
+                0.117,
+                0.0588,
+                0.0176,
+                0.1103,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253205,
+              "Level": 5,
+              "Parameters": [
+                0.22154,
+                0.12402,
+                0.062328,
+                0.018656,
+                0.116918,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253206,
+              "Level": 6,
+              "Parameters": [
+                0.23408,
+                0.13104,
+                0.065856,
+                0.019712,
+                0.123536,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253207,
+              "Level": 7,
+              "Parameters": [
+                0.2508,
+                0.1404,
+                0.07056,
+                0.02112,
+                0.13236,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253208,
+              "Level": 8,
+              "Parameters": [
+                0.26752,
+                0.14976,
+                0.075264,
+                0.022528,
+                0.141184,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253209,
+              "Level": 9,
+              "Parameters": [
+                0.28424,
+                0.15912,
+                0.079968,
+                0.023936,
+                0.150008,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253210,
+              "Level": 10,
+              "Parameters": [
+                0.30096,
+                0.16848,
+                0.084672,
+                0.025344,
+                0.158832,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253211,
+              "Level": 11,
+              "Parameters": [
+                0.31768,
+                0.17784,
+                0.089376,
+                0.026752,
+                0.167656,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253212,
+              "Level": 12,
+              "Parameters": [
+                0.3344,
+                0.1872,
+                0.09408,
+                0.02816,
+                0.17648,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253213,
+              "Level": 13,
+              "Parameters": [
+                0.3553,
+                0.1989,
+                0.09996,
+                0.02992,
+                0.18751,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253214,
+              "Level": 14,
+              "Parameters": [
+                0.3762,
+                0.2106,
+                0.10584,
+                0.03168,
+                0.19854,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            },
+            {
+              "Id": 1253215,
+              "Level": 15,
+              "Parameters": [
+                0.3971,
+                0.2223,
+                0.11172,
+                0.03344,
+                0.20957,
+                2,
+                20,
+                60,
+                25,
+                17
+              ]
+            }
+          ]
+        },
+        "Id": 11252,
+        "Name": "Eternal Tides",
+        "Description": "Membangkitkan Moonbound Tides untuk mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> dan memanggil {LINK#N11250001}<color=#FFD780FF>Gravity Ripple</color>{/LINK}.\n<color=#FFD780FF>Gravity Ripple</color> akan mengikuti Karakter aktif, dan terus mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> terhadap musuh di sekitar. Selama <color=#FFD780FF>Gravity Ripple</color> aktif, jika Karakter party di sekitar memicu atau mengakibatkan DMG reaksi Lunar, maka Columbina akan mengakumulasi nilai <color=#FFD780FF>Gravity</color> yang spesial. Saat mencapai nilai Gravity maksimum, Columbina akan mengakibatkan DMG yang berbeda berdasarkan reaksi Lunar yang paling banyak mengakumulasi nilai <color=#FFD780FF>Gravity</color> untuk Columbina.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: <color=#FFD780FF>Gravity Ripple</color> mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> dalam radius yang lebih luas.",
+        "Icon": "Skill_S_Columbina_01"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12539,
+      "Proud": {
+        "Descriptions": [
+          "DMG Skill|{param1:F1P} Max HP",
+          "Peningkatan DMG Reaksi Lunar|{param2:F1P}",
+          "Durasi Lunar Domain|{param3:F1} dtk",
+          "Cooldown|{param4:F1} dtk",
+          "Konsumsi Energy|{param5:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1253901,
+            "Level": 1,
+            "Parameters": [
+              0.3224,
+              0.13,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253902,
+            "Level": 2,
+            "Parameters": [
+              0.34658,
+              0.16,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253903,
+            "Level": 3,
+            "Parameters": [
+              0.37076,
+              0.19,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253904,
+            "Level": 4,
+            "Parameters": [
+              0.403,
+              0.22,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253905,
+            "Level": 5,
+            "Parameters": [
+              0.42718,
+              0.25,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253906,
+            "Level": 6,
+            "Parameters": [
+              0.45136,
+              0.28,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253907,
+            "Level": 7,
+            "Parameters": [
+              0.4836,
+              0.31,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253908,
+            "Level": 8,
+            "Parameters": [
+              0.51584,
+              0.34,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253909,
+            "Level": 9,
+            "Parameters": [
+              0.54808,
+              0.37,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253910,
+            "Level": 10,
+            "Parameters": [
+              0.58032,
+              0.4,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253911,
+            "Level": 11,
+            "Parameters": [
+              0.61256,
+              0.43,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253912,
+            "Level": 12,
+            "Parameters": [
+              0.6448,
+              0.46,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253913,
+            "Level": 13,
+            "Parameters": [
+              0.6851,
+              0.49,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253914,
+            "Level": 14,
+            "Parameters": [
+              0.7254,
+              0.52,
+              20,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1253915,
+            "Level": 15,
+            "Parameters": [
+              0.7657,
+              0.55,
+              20,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11255,
+      "Name": "Moonlit Melancholy",
+      "Description": "Menghubungkan gunung dan laut atas nama bulan baru yang tak ternoda. Columbina membuat tanah di sekitarnya berubah menjadi {LINK#N11250002}<color=#FFD780FF>Lunar Domain</color>{/LINK} untuk sementara dan mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color>.",
+      "Icon": "Skill_E_Columbina_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12521,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252101,
+              "Level": 1,
+              "Parameters": [
+                0.05,
+                10
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252101,
+        "Name": "Lunacy's Lure",
+        "Description": "Saat memicu {LINK#N11250001}<color=#FFD780FF>Gravity Interference</color>{/LINK}, Columbina akan mendapatkan efek Lunacy, membuat CRIT Rate diri sendiri meningkat 5% selama 10 detik. Efek ini dapat ditumpuk sampai 3 lapis.",
+        "Icon": "UI_Talent_S_Columbina_05"
+      },
+      {
+        "GroupId": 12522,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252201,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1252201,
+        "Name": "Law of the New Moon",
+        "Description": "Karakter yang berada dalam {LINK#N11250002}<color=#FFD780FF>Lunar Domain</color>{/LINK} akan mendapatkan efek berikut saat memicu reaksi Lunar:\n·<color=#FFD780FF>Reaksi Lunar-Charged</color>: Saat awan petir menyambar target yang memenuhi syarat, ada 33% kemungkinan untuk menyambar sekali lagi.\n·<color=#FFD780FF>Reaksi Lunar-Bloom</color>: Saat memicu reaksi Lunar-Bloom, party akan mendapatkan 1 lapis efek {LINK#N11250003}<color=#FFD780FF>Moonridge Dew</color>{/LINK} khusus, maksimum 3 Moonridge Dew dapat diperoleh dengan cara ini setiap 18 detik.\n·<color=#FFD780FF>Reaksi Lunar-Crystallize</color>: Saat memicu Moondrift Harmony, setiap Moondrift memiliki 33% kemungkinan untuk melakukan 1 kali serangan tambahan.",
+        "Icon": "UI_Talent_S_Columbina_06"
+      },
+      {
+        "GroupId": 12523,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252301,
+              "Level": 1,
+              "Parameters": [
+                0.002,
+                0.07
+              ]
+            }
+          ]
+        },
+        "Id": 1252301,
+        "Name": "Moonsign Benediction: Moonlight, Lent Unto You",
+        "Description": "Saat Karakter di dalam party memicu reaksi Electro-Charged/Bloom/Hydro-Crystallize, reaksi tersebut akan dikonversi menjadi reaksi Lunar-Charged/Lunar-Bloom/Lunar-Crystallize. DMG dasar reaksi ini meningkat berdasarkan Max HP Columbina. Setiap 1.000 poin Max HP akan membuat DMG dasar reaksi Lunar meningkat 0,2%, hingga maksimum 7%.\n\nSelain itu saat Columbina berada di dalam party, <color=#FFD780FF>Moonsign</color> party meningkat 1 level.",
+        "Icon": "UI_Talent_S_Columbina_07"
+      },
+      {
+        "GroupId": 12525,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1252501,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 1252501,
+        "Name": "Lunar Vigil",
+        "Description": "Jika Karakter sendiri di dalam party gugur saat berada di area Nod-Krai, Columbina akan membangkitkan Karakter ini dan memulihkan HP-nya. Jumlah HP yang dipulihkan akan didasarkan pada level Persahabatan Columbina. Efek ini dapat terpicu sekali setiap 100 detik. Efek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss.\nSelain itu, Columbina sepertinya memiliki kedekatan khusus dengan sebagian hewan yang dipengaruhi oleh kuuvahki ....",
+        "Icon": "UI_Talent_S_Columbina_08"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1251,
+        "Name": "Radiance Over Blossoms and Peaks",
+        "Description": "Melancarkan Elemental Skill <color=#FFD780FF>Eternal Tides</color> akan langsung memicu efek yang setara dengan {LINK#N11250001}<color=#FFD780FF>Gravity Interference</color>{/LINK} satu kali. Efek ini dapat terpicu sekali setiap 15 detik.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\nSaat memicu Gravity Interference, jika jenis Gravity reaksi Lunar tertinggi yang diakumulasi Columbina adalah:\n·<color=#FFD780FF>Reaksi Lunar-Charged</color>: Memulihkan 6 poin Energy untuk Karakter aktif sendiri dalam party.\n·<color=#FFD780FF>Reaksi Lunar-Bloom</color>: Meningkatkan ketahanan Karakter aktif sendiri terhadap interupsi selama 8 detik.\n·<color=#FFD780FF>Reaksi Lunar-Crystallize</color>: Menciptakan <color=#FFD780FF>Rainsea Shield</color> yang dapat menahan DMG sebesar 12% Max HP Columbina dan memiliki 250% pertahanan terhadap <color=#80C0FFFF>Hydro DMG</color>, berlangsung selama 8 detik.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
+        "Icon": "UI_Talent_S_Columbina_01"
+      },
+      {
+        "Id": 1252,
+        "Name": "Not in Lone Splendor",
+        "Description": "Nilai {LINK#N11250001}<color=#FFD780FF>Gravity</color>{/LINK} akan terakumulasi 34% lebih cepat.\nSaat <color=#FFD780FF>Gravity Interference</color> terpicu, Columbina akan mendapatkan efek <color=#FFD780FF>Lunar Brilliance</color>, meningkatkan 40% Max HP Columbina selama 8 detik.\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>:\nSelama efek <color=#FFD780FF>Lunar Brilliance</color> aktif, untuk <color=#FFD780FF>Gravity Interference</color> yang terpicu kali ini, jika jenis reaksi Lunar yang memberikan nilai Gravity tertinggi untuk Columbina adalah:\n·<color=#FFD780FF>Reaksi Lunar-Charged</color>: ATK Karakter aktif party sendiri meningkat sebesar 1% Max HP Columbina.\n·<color=#FFD780FF>Reaksi Lunar-Bloom</color>: Elemental Mastery Karakter aktif dalam party sendiri meningkat sebesar 0,35% Max HP Columbina.\n·<color=#FFD780FF>Reaksi Lunar-Crystallize</color>: DEF Karakter aktif dalam party sendiri meningkat sebesar 1% Max HP Columbina.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 7%.",
+        "Icon": "UI_Talent_S_Columbina_02"
+      },
+      {
+        "Id": 1253,
+        "Name": "Dreamlike Glow Across Tranquil Waters",
+        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11252}Eternal Tides{/LINK}</color>.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
+        "Icon": "UI_Talent_U_Columbina_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1254,
+        "Name": "Cloudveiled Ridges in Floral Mists",
+        "Description": "Saat memicu {LINK#N11250001}<color=#FFD780FF>Gravity Interference</color>{/LINK}, akan memulihkan 4 poin Energy Columbina.\n\nSelain itu, berdasarkan jenis reaksi Lunar yang memberikan nilai <color=#FFD780FF>Gravity</color> tertinggi untuk Columbina, jika reaksinya adalah Lunar-Charged/Lunar-Bloom/Lunar-Crystallize, maka DMG reaksi Lunar yang diakibatkan oleh Gravity Interference kali ini akan meningkat sebesar 12,5%/2,5%/12,5% dari Max HP Columbina. Efek di atas dapat terpicu maksimum sekali setiap 15 detik.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
+        "Icon": "UI_Talent_S_Columbina_03"
+      },
+      {
+        "Id": 1255,
+        "Name": "Silence Tending One Lone Song",
+        "Description": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11255}Moonlit Melancholy{/LINK}</color>.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party di sekitar {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
+        "Icon": "UI_Talent_U_Columbina_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1256,
+        "Name": "Through Darkness Led by Moonlight",
+        "Description": "Setelah semua Karakter dalam party yang berada dalam {LINK#N11250002}<color=#FFD780FF>Lunar Domain</color>{/LINK} memicu reaksi Lunar, CRIT DMG dari jenis elemen yang terlibat dalam reaksi elemental tersebut akan meningkat 80% selama 8 detik untuk seluruh Karakter dalam party. CRIT DMG untuk jenis elemen yang sama tidak dapat ditumpuk.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 7%.",
+        "Icon": "UI_Talent_S_Columbina_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Welkin Moon's Homecoming",
+    "Detail": "Gadis Bulan yang lahir di Nod-Krai, Bulan Hampa yang pulang ke kampung halamannya.",
+    "Association": 12,
+    "Native": "Silvermoon Hall",
+    "BirthMonth": 1,
+    "BirthDay": 14,
+    "VisionBefore": "Hydro",
+    "VisionAfter": "Hydro",
+    "VisionOverrideLocked": "???",
+    "VisionOverrideUnlocked": "Tri-Lunar Convergence",
+    "ConstellationBefore": "???",
+    "ConstellationAfter": "Columbina Hyposelenia",
+    "CvChinese": "杨梦露",
+    "CvJapanese": "Lynn",
+    "CvEnglish": "Emi Lo",
+    "CvKorean": "Yu Yeong",
+    "CookBonus": {
+      "OriginItemId": 108938,
+      "ItemId": 108950,
+      "InputList": [
+        101262,
+        101268,
+        101265,
+        101264
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Berbincang: Bernyanyi",
+        "Context": "Aku bernyanyi bukan untuk siapa-siapa, tapi jika ada yang berhenti untuk mendengarkan, kuharap lagu ini bisa memberikan sedikit kedamaian baginya."
+      },
+      {
+        "Title": "Berbincang: Rembulan",
+        "Context": "Mau menatap rembulan bersama? Kamu bisa duduk di kursi goyangku dan menikmati pemandangannya. Atau kita bisa pergi ke bulan dan memandangi Teyvat dari sana. Terserah kamu maunya yang mana."
+      },
+      {
+        "Title": "Berbincang: Jalan Panjang",
+        "Context": "Aku dulu sering berjalan lama di Aula Bulan Perak setiap hari, jadi tidak perlu khawatir. Aku bisa mengimbangimu."
+      },
+      {
+        "Title": "Halo",
+        "Context": "Kamu bisa memanggilku Columbina, atau Kuutar, atau Dewi Bulan ... terserah kamu saja. Aku sudah terbiasa dipanggil apa pun. Berkat rembulan menyertaimu, kapan pun kamu membutuhkannya."
+      },
+      {
+        "Title": "Ketika Turun Hujan",
+        "Context": "Berlindung dan mendengarkan hujan yang membersihkan bumi membuatku merasa aman, seperti berada di \"rumah\"."
+      },
+      {
+        "Title": "Setelah Hujan",
+        "Context": "Langit sudah cerah lagi. Kita pasti bisa lihat rembulan malam ini."
+      },
+      {
+        "Title": "Ketika Petir Menyambar",
+        "Context": "Ah ...! Tanpa didahului tanda kilat ... suara guntur itu sangat mengejutkan ...."
+      },
+      {
+        "Title": "Ketika Turun Salju",
+        "Context": "Aku suka salju. Indah dan damai sekali, aku pun bisa main lempar-lemparan salju dengan kuuhenki. Mau coba main?"
+      },
+      {
+        "Title": "Ketika Angin Berembus",
+        "Context": "Kalau anginnya terlalu kencang sampai susah buka mata, genggam tanganku. Aku akan menuntunmu."
+      },
+      {
+        "Title": "Di Padang Pasir",
+        "Context": "Pasirnya terasa sejuk dan nyaman untuk diinjak di malam hari, tapi waktu siang hari jadi sangat panas ...."
+      },
+      {
+        "Title": "Selamat Pagi",
+        "Context": "Selamat pagi ... Kamu lihat ikat rambutku? Hmm? Rambutku berantakan ...? Bagian mana? Bisa tolong bantu sisirkan aku?"
+      },
+      {
+        "Title": "Selamat Siang",
+        "Context": "Hmm ... rembulan belum muncul. Aku mau tidur siang sebentar dengan kuuhenki."
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "\"Senja\" ... Sebuah kata yang menarik, bukan? Seolah-olah malam itu tersandung bulan setiap kali ia datang."
+      },
+      {
+        "Title": "Selamat Tidur",
+        "Context": "Tidak bisa tidur? Hmm ... Kuuhenki juga kadang begitu masalahnya. Kalau sudah begitu, ia biasa kunyanyikan atau kudongengkan. Kamu mau dimanja seperti itu juga?"
+      },
+      {
+        "Title": "Tentang Columbina: Penutup Mata",
+        "Context": "Aku sudah terbiasa \"merasakan\" berbagai hal dengan kuuvahki — dibandingkan \"melihat\", cara ini lebih oke. Tapi terkadang ya suka penasaran juga, jadinya aku mengintip deh. Itulah keuntungan punya penutup mata berlubang."
+      },
+      {
+        "Title": "Tentang Columbina: Rumah",
+        "Context": "Dulu kupikir aku akan selamanya jadi orang asing di tanah ini — di bulanlah \"rumah\" sejatiku. Sekarang, aku punya satu tempat lagi yang bisa kusebut rumah, dan rumahku juga kini semakin dekat."
+      },
+      {
+        "Title": "Tentang Kita: Pencapaian",
+        "Context": "Aku sudah mendengar tentangmu jauh sebelum kita bertemu. Saat aku masih bersama Fatui dulu, kuingat para Harbinger lain membicarakan tentang perbuatanmu. Tapi gelar milikmu kebanyakan, aku ... sudah ketiduran sebelum mereka sempat menyebut namamu."
+      },
+      {
+        "Title": "Tentang Kita: Perjalanan",
+        "Context": "Bisa kasih aku beberapa tips untuk bepergian? Misalnya ... bagaimana caranya bicara dengan orang dari bangsa lain? Hmm? Aku harus lebih fokus pada kemampuan menyalakan api, teknik berburu, dan ... transportasi? Huh. Bukannya semua itu aku bisa pakai kuuvahki ya?"
+      },
+      {
+        "Title": "Tentang \"Tri-Lunar Convergence\"",
+        "Context": "Ketiga dewi memberikan kekuatannya kepadaku, yang bersatu menjadi kekuatan yang menyilaukan sekaligus lembut. Melaluinya, aku dapat merasakan keterikatan mereka dengan tempat ini, dan aku dapat merasakan harapan serta keinginan yang mereka berikan pada dunia ini di saat-saat terakhirnya. Aku akan mewarisi cahaya bulan mereka dan menggunakannya untuk menerangi dunia di bawah rembulan — tempat yang kita semua sebut sebagai \"rumah\"."
+      },
+      {
+        "Title": "Berbagi Cerita",
+        "Context": "Dulu di Snezhnaya, menjadi Harbinger Fatui Ketiga membuat hidup jadi jauh lebih praktis. Aku tidak perlu beli tiket kereta atau antre untuk Rombongan Teater Kolorevetsky ... Ah, terus kalau makan di restoran, aku bisa dapat ... \"penggantian biaya\"? Tapi itu terlalu rumit sih untuk kumengerti, jadi aku lebih suka ikut Sandrone atau Arlecchino saja."
+      },
+      {
+        "Title": "Kisah Menarik",
+        "Context": "Bulannya lebih indah dari yang bisa kubayangkan. kuuvahki biru mengalir seperti lautan tanpa batas, ubur-ubur megah melayang di lautan, Frostfin Whale merah muda datang dari tempat yang tidak diketahui, kuuhenki yang sangat besar ... Sungguh menakjubkan. Setelah rumahku lebih layak untuk dikunjungi, aku akan mengundang teman-temanku untuk datang ke sini."
+      },
+      {
+        "Title": "Tentang Lauma",
+        "Context": "Kalau kita mengarahkan sinar bulan ke kepala Lauma, tanduknya akan tumbuh lebih tinggi. Dan kalau sudah dapat sudut yang tepat, tanduknya bisa menusuk buah yang letaknya ketinggian untuk dijangkau ... Hmm? Lalu apa yang terjadi? Oh, um ... Kita akan dimarahi."
+      },
+      {
+        "Title": "Tentang Nicole",
+        "Context": "Oh, kami masih saling berkomunikasi sampai beberapa waktu yang lalu. Aku memintanya merekomendasikan beberapa buku untuk dijadikan bacaan kuuhenki. Dia mengirimkan banyak sekali buku, bahkan memberikan penjelasan detail tentang inspirasi dan latar belakang untuk setiap bukunya. Aku sudah pernah tanya sih kapan aku bisa membaca buku yang ditulisnya sendiri, tapi setelah itu tidak ada kabar lanjutan. Mungkin ... dia sedang menulis bukunya."
+      },
+      {
+        "Title": "Tentang Neuvillette",
+        "Context": "Naga Hydro si Iudex Fontaine itu? Hmm ... Naga yang suka menjebloskan orang ke penjara ya. Aku malas bertemu dengannya."
+      },
+      {
+        "Title": "Tentang The Seven",
+        "Context": "Kalau suatu saat perjalanan kita bersimpangan, aku pasti akan menyapa."
+      },
+      {
+        "Title": "Tentang Tsaritsa",
+        "Context": "Saat pertama kali aku bernyanyi di taman Istana Zapolyarny, Tsaritsa kebetulan lewat. Dia berdiri di sana, diam tidak bergerak, wajahnya bagaikan patung tanpa ekspresi. Sesaat, kurasa dia seperti ingin mengatakan sesuatu padaku, tapi dia tidak pernah mengatakannya.\nDia menyegel emosinya di bawah lapisan tebal es. Dunia luar hanya melihat satu sisi dari dirinya ... sosok Tsaritsa. Jika jawaban yang kucari berada di bulan, mungkin jawaban dirinya terkubur dalam salju dan es."
+      },
+      {
+        "Title": "Tentang The Jester",
+        "Context": "Dia sangat bertolak belakang dengan nama sandinya, tapi sepertinya itu memang disengaja. Meskipun dikenal sebagai \"The Jester\", nada bicaranya tegas dan serius, dan ucapannya pun berbelit-belit. Topeng yang dia pakai menggambarkan seringai yang mengejek dunia, dia sendiri pun tidak pernah tersenyum."
+      },
+      {
+        "Title": "Tentang The Captain",
+        "Context": "Banyak yang menghormatinya, tapi yang takut padanya pun sama banyaknya. Hmm? Membingungkan ya? Jadi begini, makhluk yang terbiasa hidup dalam kegelapan tidak akan pernah memilih untuk mendekati cahaya. Terlalu berbahaya, karena cahaya hanya akan membuat bayangan mereka semakin panjang."
+      },
+      {
+        "Title": "Tentang The Doctor",
+        "Context": "Dulu \"The Doctor\" pernah merawatku, bahkan bilang kalau dia menganggapku seperti adiknya.\nBaru setelah itu kusadari, semakin dekat kamu dengan seseorang, semakin bebas dia memanfaatkanmu. \"Apa salahnya sedikit tidak nyaman di antara keluarga? Kita harus saling toleransi satu sama lain, kan?\" Begitulah cara pandangnya, memang kutahu dia sungguh-sungguh, tapi aku tidak mau kalau harus \"toleransi\". Ekspektasi seperti itu ... mengingatkanku pada rumah pertamaku, dan mata-mata yang menatapku dari bawah altar, penuh dengan keserakahan."
+      },
+      {
+        "Title": "Tentang Arlecchino",
+        "Context": "House of the Hearth adalah rumah bagi banyak anak, dan suasananya riuh sekali di sana. Saat pertama kali aku mendengar mereka memanggil Arlecchino dengan sebutan \"Ayah\", kupikir itu peraturan yang harus dipatuhi di sana. Jadi, waktu dia lewat di hadapanku, aku juga memanggilnya begitu. Saat itulah barulah kusadari, betapa heningnya House of the Hearth."
+      },
+      {
+        "Title": "Tentang The Rooster",
+        "Context": "Aku bisa mengajarimu cara bicara seperti dirinya — kamu tinggal menggabungkan kata-kata \"uang\", \"si Pantalone sialan\", dan \"camkan kata-kataku\". Nih, kucontohkan. \"Mana uangnya? Camkan kata-kataku, akan kubunuh si Pantalone sialan itu.\" Atau, \"Aku bersumpah akan membuat si Pantalone sialan itu mengeluarkan uangnya, camkan kata-kataku.\" Tuh, asyik, kan?"
+      },
+      {
+        "Title": "Tentang Sandrone: Kunci Putar",
+        "Context": "Aku penasaran, apa kunci putar di punggungnya itu tidak pernah berhenti berputar? Apa arahnya berubah? Saat tidur dilepas tidak ya? Bagaimana kalau dia mau berguling? Aku sudah penasaran dengan kunci putar itu sejak pertama kali bertemu. Tapi karena kami belum dekat waktu itu, rasanya tidak sopan kalau langsung menyentuhnya. Jadi setiap ada kesempatan, aku mengikutinya dari belakang, mencoba memahami pola pergerakannya. Tapi suatu hari, dia tiba-tiba berbalik dan menuntut penjelasan kenapa aku mengikutinya terus. Setelah kujelaskan, dia bilang, \"Kalau kamu memang penasaran, mau coba kupasangkan satu di punggungmu, biar kamu bisa merasakannya sendiri?\" Setelah itu jadinya aku harus hidup dengan kunci putar di punggungku selama beberapa hari, benar-benar merepotkan sekali sih. Ternyata hidup Sandrone selama ini tidak mudah. Sejak saat itu, aku jadi lebih perhatian padanya."
+      },
+      {
+        "Title": "Tentang Sandrone: Hakikat Roda Gigi II",
+        "Context": "Aku tidak yakin apa yang bisa dianggap sebagai \"kematian\" bagi sebuah boneka ... Yang kutahu, Sandrone tidak bergerak, dan aku tidak bisa merasakan \"operasinya\". Kuncinya hanya ... berhenti. Dan semua ini karena \"teknik\" yang dia gunakan untuk menghidupkanku kembali. Dia bilang akan membalas dendam padaku waktu itu. Mudah-mudahan itu cuma aksinya untuk menakut-nakutiku ...."
+      },
+      {
+        "Title": "Tentang Regrator",
+        "Context": "Di matanya, segala sesuatu dan semua orang punya label harga, dialah yang menentukan nilainya. Kita semua hanya alat tawar-menawar yang bisa dia pakai untuk memperluas kerajaannya yang terus bertambah kaya. Tapi siapa yang mau mengunjungi kerajaan membosankan seperti itu? Aku sih tidak mau ya.\nHmm ... Kalau dia melihatku sekarang, aku yakin senyumnya akan menyembunyikan rasa jijik yang lebih besar dari sebelumnya. Sudah bisa kuduga kurang lebih apa ucapan yang keluar dari mulutnya ... \"Selamat, Nona Columbina. Nilaimu sudah naik.\""
+      },
+      {
+        "Title": "Tentang Rosalyne",
+        "Context": "Jika metamorfosis berakhir dengan sayap yang dilalap api, mungkin bertahan dalam kepompong adalah cara untuk tetap hidup. Tapi, aku tidak yakin Rosalyne pernah mempertimbangkan pilihan itu, atau mungkin dia sudah menentukan akhir hidupnya sejak awal. Entah itu cinta, kebencian, atau sekadar tarian, dia memberikan seluruh dirinya untuk apa yang dikejarnya ... dan membiarkan yang lain menyanyikan ratapan kematiannya setelah kepergiannya."
+      },
+      {
+        "Title": "Tentang Childe",
+        "Context": "Kudengar hubungannya baik dengan keluarganya. Mereka suka berkemah bersama dan barbekyuan di tepi danau. Sandrone bilang dia adalah Harbinger yang hidupnya paling mendekati kehidupan orang biasa. Aku tidak terlalu paham soal orang biasa, tapi kehidupan seperti itu kedengarannya menyenangkan."
+      },
+      {
+        "Title": "Mengenal Columbina: I",
+        "Context": "Hah ...? Ceritaku? Um ... Sepertinya akan lama kalau mau diceritakan. Oh, kamu bawa teh dan camilan? Kalau begitu ... cerita lebih lama sedikit tidak masalah."
+      },
+      {
+        "Title": "Mengenal Columbina: II",
+        "Context": "Dulu aku menghabiskan banyak waktu untuk belajar berinteraksi dengan orang lain dan menjalani hidup di dunia ini. Tapi kalau dipikir sekarang, sepertinya pengalamanku bersama Bani Bulan Embun dan Fatui bukanlah guru yang terbaik. Selama ini, kukira hubungan itu seperti transaksi — satu-satunya tujuannya adalah mencari tahu apa yang bisa kamu ambil, dan apa yang harus kamu bayar sebagai gantinya."
+      },
+      {
+        "Title": "Mengenal Columbina: III",
+        "Context": "Aku suka bercerita pada kuuhenki dan bernyanyi. Ada ruang kosong dalam hidupku yang sudah ada bahkan sebelum aku lahir dan terus membayangi diriku sejak saat itu. Sedari awal ceritaku tidak utuh, sehingga aku belajar menggunakan cerita lain untuk mengisi kekosongan itu. Rasanya seperti ... melukis sebuah gambar — aku membuat sketsa garis besarnya dengan kata-kata dan mewarnainya dengan lagu."
+      },
+      {
+        "Title": "Mengenal Columbina: IV",
+        "Context": "Pada Malam Doa Rembulan, aku menerima nama yang menjadi kepunyaanku — Columbina Hyposelenia. Dulu aku berpikir nama hanyalah sebuah alias, sesuatu yang terpisah dari diri sendiri. Tapi setelah malam itu, aku sadar bahwa namaku adalah penghubung antara diriku dengan dunia ini dan orang-orang di dalamnya ... Nama ini adalah wujud nyata dari semua hal yang tidak bisa disentuh — persahabatan, kasih sayang, dan dukungan mereka. Aku akan selalu menghargai nama ini."
+      },
+      {
+        "Title": "Mengenal Columbina: V",
+        "Context": "Kisahku seperti opera yang dimainkan secara terbalik. Akhir cerita datang lebih dulu, dan aku terus mencari alasan dan sebabnya. Tapi kalau aku bisa kembali dan mengulang semuanya dari awal, aku tetap tidak ingin mengubah apa pun. Aku cukup menyukai keadaannya sekarang. Tanpa perjalanan ini, aku tidak akan pernah tahu bahwa lahir di Nod-Krai adalah pilihanku sendiri, teman-temanku tidak akan pernah membantuku terhubung dengan \"keluarga\"-ku yang sesungguhnya, dan kamu tidak akan pernah mengikuti Luonnotar ke Aula Bulan Perak malam itu. Kisahku akan kosong dengan cara yang sangat berbeda. Aku sama sekali tidak suka versi yang itu."
+      },
+      {
+        "Title": "Hobi Columbina",
+        "Context": "Aku suka pergi ke bulan dan melihat Teyvat berputar dalam keheningan. Itu membuatku merasa damai."
+      },
+      {
+        "Title": "Masalah Columbina",
+        "Context": "Kuharap bisa jalan-jalan di Kota Nasha seperti orang biasa ... Tapi orang-orang selalu mengenaliku. Apa itu karena pakaianku? Atau karena aku berbicara dengan kuuhenki di kota? Memangnya orang biasa tidak bisa ya?"
+      },
+      {
+        "Title": "Makanan Favorit",
+        "Context": "Buah dan sayuran segar dipadukan dengan roti yang harum ... Hmm? Oh, mungkin memang agak sederhana, tapi aku sudah terbiasa kok. Itu yang diberikan Bani Bulan Embun padaku saat pertama kali aku lahir di Nod-Krai. Hewan-hewan kecil juga sering berbagi buah beri hasil buruannya. Aku lebih suka makanan dalam keadaan paling alami — itu memungkinkanmu melihat dunia sebagaimana mestinya."
+      },
+      {
+        "Title": "Makanan yang Tidak Disukai",
+        "Context": "\"Fire-Water\" dan minuman keras lainnya. Snezhnaya punya banyak minuman sejenis. Aku sudah lama tinggal di sana, tapi tidak pernah terbiasa dengan minuman-minuman itu. Dunia terasa berputar dan rasanya seperti ada api yang membakar di dalam tubuh. Aku tidak paham kenapa orang-orang suka perasaan semacam itu, atau ... Jangan-jangan mereka juga mau melayang ke bulan?"
+      },
+      {
+        "Title": "Menerima Hadiah: I",
+        "Context": "Lagi dong. Eh? Oh, sudah habis ya? Lain kali aku tidak boleh lupa untuk menyisakan lebihnya."
+      },
+      {
+        "Title": "Menerima Hadiah: II",
+        "Context": "Rasanya menyenangkan. Aku akan menikmatinya di bawah sinar rembulan."
+      },
+      {
+        "Title": "Menerima Hadiah: III",
+        "Context": "Oh ... Kalau Sandrone lagi marah, dia juga suka memberikan barang-barang seperti ini ...."
+      },
+      {
+        "Title": "Ulang Tahun",
+        "Context": "Ulang tahunmu selalu jatuh pada hari yang sama setiap tahun? Wah, mudah diingat dong ya. Malam Doa Rembulan diadakan di waktu yang berbeda setiap tahunnya, jadi aku hanya bisa memperkirakan ulang tahunku dengan cara merasakan bulan. Ulang tahun itu momen yang sangat membahagiakan, kan? Semua orang berkumpul untuk menari sementara orang-orang membuat makanan dan minuman lezat untukmu. Eh ...? Bukannya ulang tahun orang pada umumnya seperti itu? Hadiah, kue, dan teman-teman ...? Oh, itu juga bisa sih. Ayo kita undang teman-temanmu untuk merayakannya. Aku bisa menyanyikan lagu untukmu, dan kita bahkan bisa meminta Maalaus untuk melukiskan gambar untukmu."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Permulaan",
+        "Context": "Demi Bulan Abadi, ombak akan bergelora."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Persiapan",
+        "Context": "Demi Bulan Embun, malam akan diterangi."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Klimaks",
+        "Context": "Demi Bulan Pelangi, kegelapan akan terlempar lebih dalam kepada bayang-bayang."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Konklusi",
+        "Context": "Kini benang-benang takdir ada di tanganku. Mulai sekarang, bulan baru akan mengawasi dan menerangi dunia di bawahnya."
+      },
+      {
+        "Title": "Elemental Skill: I",
+        "Context": "Mengalir."
+      },
+      {
+        "Title": "Elemental Skill: II",
+        "Context": "Gelombang."
+      },
+      {
+        "Title": "Elemental Skill: III",
+        "Context": "Berkurang."
+      },
+      {
+        "Title": "Elemental Burst: I",
+        "Context": "Bulan baru telah terbit."
+      },
+      {
+        "Title": "Elemental Burst: II",
+        "Context": "Tiga bulan bertemu."
+      },
+      {
+        "Title": "Elemental Burst: III",
+        "Context": "Malam yang diterangi rembulan untuk semua."
+      },
+      {
+        "Title": "Membuka Peti Harta: I",
+        "Context": "Mereka menyebut ini \"kejutan yang menyenangkan\" ... kan?"
+      },
+      {
+        "Title": "Membuka Peti Harta: II",
+        "Context": "Hmm, apa mereka juga kabur dari rumah?"
+      },
+      {
+        "Title": "Membuka Peti Harta: III",
+        "Context": "Simpan saja. Aku tidak butuh pemberian lagi."
+      },
+      {
+        "Title": "HP Rendah: I",
+        "Context": "Kepalaku pusing ...."
+      },
+      {
+        "Title": "HP Rendah: II",
+        "Context": "Semakin gelap ...."
+      },
+      {
+        "Title": "HP Rendah: III",
+        "Context": "Kondisinya tidak begitu baik ...."
+      },
+      {
+        "Title": "HP Rekan Rendah: I",
+        "Context": "Terasa pusing? Biar aku yang ambil alih."
+      },
+      {
+        "Title": "HP Rekan Rendah: II",
+        "Context": "Bagaimana kalau kita istirahat dulu?"
+      },
+      {
+        "Title": "Gugur: I",
+        "Context": "Langit malam ... semakin ... meredup ...."
+      },
+      {
+        "Title": "Gugur: II",
+        "Context": "Bulan telah ... memudar ...."
+      },
+      {
+        "Title": "Gugur: III",
+        "Context": "Harga ... untuk meninggalkan rumah ...."
+      },
+      {
+        "Title": "Menerima Serangan Ringan: I",
+        "Context": "Aku baik-baik saja ...."
+      },
+      {
+        "Title": "Menerima Serangan Hebat: I",
+        "Context": "Aduh ...!"
+      },
+      {
+        "Title": "Menerima Serangan Hebat: II",
+        "Context": "Kenapa?"
+      },
+      {
+        "Title": "Bergabung ke Party: I",
+        "Context": "Izinkan aku meminjamkan sedikit cahaya bulan."
+      },
+      {
+        "Title": "Bergabung ke Party: II",
+        "Context": "Apa kita akan pergi lama?"
+      },
+      {
+        "Title": "Bergabung ke Party: III",
+        "Context": "Aku akan ikut ke mana pun kamu pergi."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Info Karakter",
+        "Context": "Siang atau malam?\nTentu saja malam. Dunia di siang hari dipenuhi dengan kata-kata yang tidak dapat dipahaminya. \"Kuutar\"? \"The Damselette\"? \"Dewi\"? Dia tahu kata-kata itu seperti cermin, memantulkan sosoknya di dunia yang asing. Tapi itu semua hanyalah sosok yang ingin dilihat orang lain. Dia tidak mengenali dirinya dalam pantulan cermin, sama seperti dia tidak mengenali bulan yang melayang di angkasa malam. Setidaknya di malam hari, dia dapat merasakan dengan jelas tarikan dari balik langit. Tanpa suara, namun dapat jelas dipahami. Bulan Embun memanggilnya pulang.\n....\nMusim semi, panas, gugur, atau dingin?\nTentu saja musim dingin. Setelah kesibukan musim semi, keriuhan musim panas, dan panen musim gugur, salju musim dingin perlahan menutupi bibir dunia dengan jemarinya, seolah berkata: \"Ssst, setelah gaduh selama hampir setahun, sekarang waktunya untuk tenang.\"\nMaka dunia pun menjadi tenang. Hewan-hewan kembali ke rumahnya masing-masing. Hanya di musim dingin saja semua orang menyadari beberapa penting kehangatan \"tempat bernaung\".\nSedangkan Columbina? Dia suka mencari tumpukan salju yang tebal dan empuk, menahan napas, lalu menerjunkan diri ke dalamnya. Bagi dewi yang tidak begitu sensitif terhadap dingin, sensasi dipeluk oleh salju putih lembut dari ujung kaki ke ujung kepala benar-benar luar biasa. Soal rekan-rekannya bisa memahami kelakuan Columbina atau tidak ... rasanya itu bukan masalah yang perlu dipikirkan olehnya.\n....\nCerah? Hujan? Atau mendung?\nKalau pagi, hujan. Karena saat Columbina terbangun dan mendengar suara hujan di luar Aula Bulan Perak, dia merasakan ketenangan, seolah dirinya terlindungi oleh atap kubah Aula Bulan Perak.\n\"Perlindungan\". Makna paling mendasar dari sebuah tempat bernaung ini bergema dengan begitu kuat di tengah suara hujan, dan cukup dengan berada dalam jangkauan makna ini saja sudah membuat Columbina merasa hangat.\nTapi ketika malam, memang lebih baik kalau langitnya cerah tak berawan.\n....\nApakah jawabannya untuk pertanyaan-pertanyaan ini sudah tepat? Apakah jawaban-jawaban ini akan berubah suatu hari nanti? Columbina merenung dalam hati.\nMungkin tidak. Tapi kalau pun berubah, ini adalah dirinya yang paling jujur di saat ini, dirinya yang paling jujur di malam ini.\nHutan, danau, laut, mana yang paling disuka?\nTentu saja semuanya."
+      },
+      {
+        "Title": "Kisah Karakter 1",
+        "Context": "Yang pertama kali terdengar adalah suara nyanyian.\n♪ Tidur, tidurlah, merpati kecilku sayang ♪\n♪ Biarkan bunga dan mimpi indah bermekaran di jendelamu ♪\n....\nSuara siapa itu? Terdengar samar dan jauh, seperti sebuah lagu pengantar tidur. Seperti awal sebuah kisah, dan sekaligus juga akhir darinya ....\nLalu, muncul sensasi dari tanah di bawah kakinya.\nHalus dan lembab. Di dalamnya terkandung kekuatan yang tidak asing, seperti bagian dari tubuhnya sendiri, seperti air ketuban yang pernah menyelimutinya sebelum dia dilahirkan ....\nKemudian, dia membuka matanya.\nTerang bulan menyinari udara, beberapa makhluk kecil menangkap berkas cahaya yang samar itu, lalu menenunnya menjadi pakaian.\nAda sesuatu yang memanggil dirinya sendiri dari kejauhan ... sangat jauh. Sebuah tarikan, sebuah ikatan. Seperti tali pusar yang menghubungkan bayi dengan ibunya.\nDia mengangkat pandangannya. Tapi tidak ada apa pun di langit. Hanya tirai dusta yang melingkupi segalanya. Entah mengapa, saat pertama kali melihat langit malam yang dipenuhi bintang, dia sudah tahu bahwa semuanya palsu. Dan sesuatu yang terhubung dengan dirinya terhalangi oleh kebohongan ini.\nKenapa aku terlahir di tempat ini? Atau lebih tepatnya, kenapa aku terlahir? Siapa aku? Dan siapa yang bernyanyi?\nPertanyaan demi pertanyaan muncul dalam hati. Tapi dunia tidak memberikan satu pun gema jawaban. Kadang-kadang, tidak bisa mendengar lebih menakutkan daripada tidak bisa melihat.\nDia memiliki firasat bahwa pertanyaan-pertanyaan ini akan selalu menyertainya.\nDia menutup kedua matanya. Sebab kebenaran tidak akan ditemukan di bawah tirai kepalsuan."
+      },
+      {
+        "Title": "Kisah Karakter 2",
+        "Context": "Saat pertama kali bergabung dengan Fatui, Columbina merasa di sana sangat berbeda dengan Bani Bulan Embun.\nTidak yang minta aneh-aneh. Tidak ada yang menginginkan sesuatu darinya. Tidak ada yang memuja-muja dirinya. Yah, setidaknya tidak secara terus terang.\nHubungan \"rekan kerja\" juga merupakan hal baru. Di dalamnya terdapat rasa \"kesetaraan\" yang asing namun menyenangkan, kadang juga bercampur dengan konsep \"pertukaran\" yang sudah tidak asing lagi baginya. Dia masih berusaha membiasakan diri dengan kehidupan seperti ini.\nThe Doctor adalah orang pertama yang mendekatinya. Columbina dapat mendengar nada kekaguman dalam suara rekan kerjanya ini. Kekaguman berbeda dengan pemujaan, setidaknya kekaguman didasarkan atas prinsip \"kesetaraan\".\n\"Kalau tidak keberatan, boleh bantu aku sedikit?\" tanya rekan kerjanya itu dengan nada sopan.\nMembantu? Dia pikir ini adalah sesuatu yang harus dilakukan sebagai balasan, tapi di sini dia boleh memilih? Atau apakah justru rekan kerja di hadapannya ini yang memberikannya pilihan?\nMemang, ada gema yang tidak mengenakkan dari perkataan The Doctor, seperti gemuruh awan badai di ujung cakrawala yang samar terdengar. Tetapi, fakta bahwa kali ini dia punya \"pilihan\" terasa sangat memuaskan.\nAwalnya, semua berjalan lancar. Di laboratorium The Doctor ada banyak perangkat aneh, dan Columbina hanya perlu mengerahkan kekuatannya ke yang ini, atau menggerakkan yang itu.\n\"Bagus, kamu melakukannya dengan baik.\"\nColumbina suka dipuji. Ini juga merupakan hal baru baginya.\nTapi tidak lama kemudian, pujian itu berubah menjadi \"masih kurang\", \"masih belum\", \"kamu bisa lebih dari ini\" ....\nDan Columbina pun menyadari bahwa yang dilihat oleh The Doctor bukanlah dirinya, dirinya yang \"seharusnya\", yakni tingkat yang bisa dicapai oleh kekuatannya. Hal ini mengingatkannya pada hari-hari sebelum dia bergabung dengan Fatui ....\nDia merasa sedih. Apakah ada orang lain yang merasa sedih karena menjadi dirinya sendiri? Dia tidak tahu, tapi dia merasa seperti itu.\nBukan karena dia ingin menjadi seperti yang orang lain harapkan, tapi karena orang lain tidak melihat dirinya apa adanya. Pribadinya yang sesungguhnya, diperlakukan bak anak yang kehadirannya tak diharapkan dalam sebuah pesta, dan dibiarkan melongo sendirian ...."
+      },
+      {
+        "Title": "Kisah Karakter 3",
+        "Context": "Ayo cari makan.\nSaat sedih, Columbina selalu melakukan hal-hal yang dia suka. Mengisi perut hanya salah satunya, juga kebutuhan yang paling mudah untuk dipuaskan.\n\"Ma-Maaf, Nona Harbinger ...\" Saat dia keluar dari restoran, dia dipanggil untuk berhenti. Orang itu menyerahkan selembar kertas sambil gemetaran. Columbina tidak bisa melihatnya, tapi dia ingat sesuatu, ini adalah prosedur yang harus dilakukan setelah makan. Prosedur yang berbeda dari saat dia masih di Bani Bulan Embun.\nMasalahnya, dia masih belum terbiasa dengan hal-hal seperti ini. Dia memang tahu ada semacam \"pertukaran\" yang terlibat, tapi beberapa kali sebelumnya prosedur ini diselesaikan bersama dua rekan kerja barunya, Arlecchino dan Sandrone. Lebih tepatnya, merekalah yang menyelesaikannya.\nColumbina tidak tahu harus berbuat apa saat itu. Pada saat itu, bahkan dengan mata tertutup pun dia dapat merasakan pancaran ketakutan dan penyesalan semakin menguat dari orang di hadapannya. Ini semua akibat perbuatannya, dan dirinya pun merasa bersalah namun tidak berdaya.\n\"Aku ....\" Columbina mencari kata-kata yang terasa asing.\n\"Sudahlah. Biar aku yang urus, kamu minggir sana.\" Tiba-tiba terdengar suara yang tidak asing di sampingnya. Suara Sandrone.\n\"Hmph. Minta uang makan digantikan kantor saja tidak becus, tapi sudah berani makan sendiri? Eh, salah. Kalau kamu sih kayaknya konsep 'bayar makan' saja tidak paham ya, apalagi cara bayarnya.\" Kata-kata yang terucap dengan nada kesal, tapi entah kenapa malah membuat hati tenang.\n\"Peraturan keuangan Fatui ini benar-benar kaku. Kaku dan rumit.\" Dia menulis sesuatu dengan cepat dan menyerahkannya kepada karyawan yang gemetaran di hadapannya.\n\"Mulai sekarang, kalau orang ini makan di sini lagi, masukkan tagihannya ke bonku. Toh prosedur penggantiannya juga sama saja\", kata Sandrone dengan nada kesal lagi.\n\"Maaf ...\" kata Columbina kepada rekan kerja yang baru saja ia kenal ini. Dia tahu kalau pada saat ini, dia sedang menerima bantuan dari orang lain.\n\"Hah? Siapa yang butuh kata maaf dari kamu?\" Nada suara rekannya ini semakin terdengar kesal. Kenapa ya?\n\"Eh ... kamu tidak marah?\" tanya Columbina.\n\"Hah? Kenapa harus marah? Kamu kan memang gitu orangnya\", dia menjawab dengan nada lelah. \"Sumpah ya, aku enggak paham gimana caranya orang kayak kamu bisa bertahan hidup di dunia kayak gini ....\"\nTidak ada \"seharusnya begini\". Tidak ada \"kamu masih bisa lebih baik dari ini\". Yang ada hanya \"kamu kan memang gitu orangnya\".\nNada bicara Sandrone memang selalu terdengar tidak sabaran, tapi ada sesuatu di dalamnya yang mengakui ... bawa memang begitulah dirinya. Columbina merasa senang sekali karena rekannya ini, Sandrone, memilih untuk melihat dirinya apa adanya.\n\"Kenapa malah senyum-senyum sendiri?!\" Tanya Sandrone.\nColumbina menggelengkan kepala.\n\"Tidak apa-apa. Lain kali kita makan sama-sama ya, Sandrone\", katanya. \"Aku suka lihat kamu mengurus 'penggantian' biaya makanku.\"\n\"Hah ...?\" Sepertinya rekan tersayangnya ini masih peru waktu untuk terbiasa dengan cara bicara dirinya yang \"apa adanya\"."
+      },
+      {
+        "Title": "Kisah Karakter 4",
+        "Context": "Di malam yang disinari terang rembulan, Columbina suka diam-diam pergi dari Aula Bulan Perak dan mendatangi tempat tinggal hewan-hewan kecil. Mungkin itu sebuah lubang di pohon, atau mungkin sebuah sarang burung. Dia akan berdiri di dekat sana, mendengarkan irama napas hewan-hewan kecil yang damai, sambil mendongak ke arah rembulan di langit. Seolah dengan begitu ia bisa membayangkan seperti apa malam hari di bulan yang asli. Tenang dan damai. Begitulah harapannya.\nDi malam-malam seperti ini, dia merangkai mimpi tentang \"rumah\".\nSaat kembali ke Pulau Hiisi, dia bertemu dengan Pelantun Rembulan zaman ini. Columbina menghabiskan begitu banyak waktu hidup bersama Bani Bulan Embun, tapi belum pernah melihat tanduk yang sebegitu indah dan sebegitu besarnya.\n\"Maaf, menyela izin menyela sebentar\", kata Dewi Bulan Embun Canon. \"Seingatku, seharusnya ada cukup banyak orang yang punya tanduk di Bani Bulan Embun\".\nColumbina menjelaskan bahwa sejarahnya memang benar begitu, tapi sekarang jumlah orang yang memiliki tanduk bisa dihitung jari. Apalagi tanduk sebesar dan seindah milik Pelantun Rembulan itu.\n\"Memang garis keturunan pasti akan semakin menipis seiring berjalannya waktu ya, karena percampuran dan lain hal\", kata Dewi Bulan Embun. \"Maaf, silakan lanjutkan ceritanya, Columbina Hyposelenia\".\nSetelah mengenal Pelantun Rembulan itu, Columbina terkadang diam-diam mendatangi tempat tinggalnya. Namun dia menemukan bahwa pasang surut rembulan sepertinya mendatangkan rasa sakit dan kegelisahan kepada si Pelantun Rembulan. Setiap kali hal itu terjadi, Columbina akan mencoba menggunakan kekuatannya untuk menenangkan gejolak tersebut. Terkadang, tanpa sadar dia akan bersenandung, lagu pengantar tidur yang dulu pernah menenangkan jiwanya sebelum dia dilahirkan.\n\"Lagu pengantar tidur dari sebelum kamu lahir?\" Kali ini Dewi Bulan Abadi Aria yang bertanya.\nColumbina menjelaskan tentang lagu yang sudah dia dengar dari sebelum dilahirkan.\nKetiga dewi menggelengkan kepala. Mereka tidak tahu apa-apa tentang lagu itu.\nColumbina terus bercerita kepada kakak-kakaknya tentang berbagai kisah dari dunia di masa depan. Dari rasa sesajian di sana, hingga alunan musik di gedung opera ... dari teman yang punya pegas mekanisme roda gigi di punggungnya, hingga malaikat yang saat ini sudah jadi temannya ....\nDan yang terakhir adalah Malam Doa Rembulan.\nKetiga Dewi Bulan sangat tergerak oleh deskripsi keindahan malam itu, mungkin juga karena Columbina sendiri tidak bisa berhenti tersenyum saat menceritakannya.\n\"Di zaman kami, para dewa langit jarang memiliki hubungan sedekat ini dengan dunia bawah\", kata Dewi Bulan Embun.\n\"Ya, mereka semua baik padaku. Kami bahkan bisa main lempar-lemparan bola air bersama.\"\n\"Sulit dibayangkan. Sepertinya zaman kita terlalu konservatif ya\", ucap Dewi Bulan Abadi sambil menghela napas.\n\"Kami juga saling menempelkan stiker ke wajah masing-masing.\"\nKetiga Dewi Bulan sangat kaget ketika mendengarnya sampai agak berteriak.\n\"Kami bertukar makanan dan saling menyuapi satu sama lain.\"\nDan para dewi pun terdiam. Columbina merasakan bahwa mereka saling bertukar pandang, dan sorot mata mereka seperti ... sedikit iri.\nSetelah lama terdiam, Dewi Bulan Pelangi Sonnet akhirnya menghela napas dengan nada kagum.\n\"Wah ....\""
+      },
+      {
+        "Title": "Kisah Karakter 5",
+        "Context": "Rumah adalah tempat kita diterima.\nBulan Embun menembus langit palsu untuk tinggal di Teyvat. Columbina Hyposelenia juga telah diterima oleh dunia ini. Sekarang, giliran Columbina yang akan mencoba menerima dunia ini.\nPertama-tama, dia memindahkan batu besar yang menghalangi pintu masuk Aula Bulan Perak. Batu itu awalnya diletakkan untuk mencegah Bani Bulan Embun dan Fatui menemukannya. Sekarang, sepertinya hal itu sudah tidak diperlukan lagi.\nTeman-teman di Nod-Krai sering bilang kalau Columbina bebas main ke rumah mereka kapan saja. Maka dari itu, adalah pantas dan wajar kalau dia juga melakukan hal yang sama, ke teman-temannya, juga ke \"keluarga\"-nya.\nRumah adalah tempat kita bisa bebas.\nTidak ada lagi peraturan yang menolak keberadaan diri, tidak ada lagi tempat yang terlarang untuk didatangi, tidak ada lagi orang yang mau menangkapnya ....\nDia bisa pergi ke mana pun yang dia mau, dan bisa melakukan apa pun yang dia inginkan.\nTapi saat mulai berinteraksi dengan orang lain, tentu ada beberapa kendala yang tidak terhindarkan. Misalnya saat jalan-jalan di Kota Nasha, dia hampir terjebak skema tipu-tipu orang jahat, sampai Nefer datang menyelamatkannya lalu kemudian memarahinya. Atau saat dia berkeliaran sesuka hati di Nod-Krai, dia tidak sengaja masuk ke tempat terlarang di Piramida dan diantar keluar oleh Illuga ....\nYah, dimarahi juga bagian dari hidup kekeluargaan. Columbina tahu itu.\nTentu saja, memperbaiki kesalahan juga bagian darinya.\nRumah adalah ....\nHaha, rumah bisa berarti banyak hal ... pikir Columbina.\nRumah bisa jadi berbagai macam hal kecil dalam hidup, hal-hal baru yang baru saja dia mulai alami dan rasakan.\nDan juga akan selalu menemani perjalanannya di dunia ini, sampai selama-lamanya."
+      },
+      {
+        "Title": "Penutup Mata yang Ditenun dari Terang Bulan",
+        "Context": "Bagi Columbina, \"kebenaran\" dunia hanya terlihat saat matanya terpejam.\nSetelah menyadari bahwa cakrawala yang menyelimuti dunia ini adalah sebuah kebohongan besar, dia menutup kedua matanya dengan kain yang ditenun dari sinar rembulan. Hal ini tidak menyulitkannya sama sekali, malah dunia yang dia rasakan melalui kuuvahki terasa lebih jelas daripada yang bisa dilihat oleh mata. Lagi pula, kalau dia benar-benar penasaran, dia masih bisa mengintip. Karena penutup mata itu dibuat berlubang.\nBintang mampu berdusta, tapi pasang surut gravitasi tidak. Orang mungkin menyembunyikan ekspresi, tapi gelombang emosi yang terpancar dari dalam hati mereka tidak dapat disembunyikan.\nColumbina menunggu, berharap dapat melepas penutup mata yang menghalangi kepalsuan setelah kembali ke \"rumah\"-nya yang sebenarnya.\nNamun setelah menjadi Dewi Tiga Bulan dan kembali ke Teyvat, dia teringat kata-kata yang pernah diucapkan oleh Dewi Bulan Embun Canon kepadanya. Dia mulai mencoba membuka matanya dalam kehidupan sehari-hari dan mengamati dunia dari sudut pandang yang baru.\nTernyata hutan di musim semi penuh dengan aneka ragam warna. Ternyata salju di musim dingin bisa begitu putih dan berkilau.\nTernyata ombak yang pecah di pantai tidak pernah sama. Ternyata lampu-lampu kota di malam hari berkelap-kelip seindah bintang di langit ....\nDia merasa sangat beruntung.\nMungkin seharusnya dia membuka matanya lebih awal. Kadang-kadang dia berpikir seperti itu.\nTapi ... mungkin pengalamannya sampai hari inilah yang mengajarinya untuk melihat keindahan dunia. Jika dia membuka matanya lebih awal, apakah dia hanya akan melihat kebohongan dan keburukan saja?\nColumbina tidak yakin. Pertanyaan seperti ini perlu direnungkan dan ditelaah sebelum dijawab.\nUntuk sekarang, biarlah dirinya sesekali membuka mata dan memandang \"rumah\"-nya yang begitu indah ini.\nKalau begitu, kenapa tidak melek terus saja?\n\"Hmm ... karena sudah kebiasaan. Lagi pula\", Columbina mengucek matanya, \"kalau melek rasanya capek. Istilahnya ... 'mata siwer'?\""
+      },
+      {
+        "Title": "Tri-Lunar Convergence",
+        "Context": "Setelah mewarisi kuasa tiga bulan, Columbina jadi punya pertanyaan:\nApa benar kuasa ini bisa mewujudkan segalanya? Kira-kira sebaiknya digunakan untuk apa ya?\nDia merasakan bahwa hampir semua yang ingin dia lakukan bisa diwujudkan oleh kuasa tiga bulan. Bolak-balik bulan-Teyvat, memindahkan diri sendiri dan benda-benda lain dengan mudah, membuat bunga mekar lebih indah, membuat buah-buahan lebih berisi ....\nTentu saja, dia sudah mencoba untuk membangunkan Sandrone. Tapi sepertinya itu satu dari sedikit perbuatan yang tidak bisa dilakukan oleh kuasa tiga bulan.\nUntuk hal lainnya, antara dia tidak ingin, atau dia merasa sebaiknya jangan.\nDia menyukai dunia ini dan keadaan rumahnya yang sekarang. Dia merasa tidak benar kalau mengubah tampilan dan peraturan rumah ini seenaknya hanya karena dia bisa. Terlepas dari niat baik atau buruk, cara seperti itu membuatnya merasa tidak ada bedanya dengan The Doctor.\nDia memandang dunia ini sebagai \"rumah\" tempat dirinya bernaung, dan bukan milik pribadinya. Ada perbedaan besar di antara kedua pandangan tersebut.\nMaka dari itu, dia memberikan sebagian kekuatannya untuk terus melindungi tempat yang indah ini seperti dulu. Sedangkan kekuatan yang dia simpan untuk dirinya sendiri hanyalah cukup untuk bisa hidup bahagia bersama teman-temannya, seperti yang sudah-sudah, dan untuk melindungi hal-hal yang berharga baginya saat diperlukan.\nSaat itu, Columbina tiba-tiba memahami pilihan yang dibuat oleh ketiga kakaknya. Dibandingkan dengan \"menguasai\", mereka hanya ingin \"melindungi\" dunia di bawah rembulan ini.\nApa sekarang dia sudah pantas jadi adik mereka? Pertanyaan ini memunculkan rasa harmonis yang manis di dalam hatinya.\nRasanya seperti sesuatu yang diwariskan, atau bisa dibilang seperti \"tradisi keluarga\" Dewi Bulan.\nMemikirkan hal ini, hati Columbina terasa hangat. Sepertinya dia telah menemukan sesuatu yang selama ini dia rindukan.\nIkatan dan warisan keluarga."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212500,
+      "Name": "Moonweave Gossamer",
+      "Description": "Model pakaian Columbina. Kuuhenki membuat busana yang ringan dan anggun ini untuk Columbina. Dibuat dari kain pemberian Bani Bulan Embun dan dirajut dengan beberapa helai cahaya bulan yang lembut. Para Bani Bulan Embun yang kebingungan, tidak dapat memahami semua ini, mereka secara alami menganggap pakaian baru tersebut sebagai keajaiban lain dari Kuutar. Tidak heran, sejak saat itu Columbina terkadang mendengar harapan seperti, \"Nona Kuutar, tolong anugerahi aku dengan keterampilan menjahit seperti dirimu.\"",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104124,
+    113079,
+    101268,
+    112004,
+    104358,
+    113081
+  ],
+  "NameCard": {
+    "Name": "Columbina: Someday",
+    "Description": "Style Kartu Nama.\nIa menari di aliran sungai yang dangkal dan jernih, lalu melayang. Ia tertidur di bawah bayangan gunung yang pucat. Ia mengembara melalui riak waktu, bermain petak umpet dengan Kuuhenki.\nIa beristirahat di taman milik semua orang dan bersenandung untuk setiap makhluk hidup. Di keheningan sebelum fajar, ia pun menanti saat mereka akan bertemu kembali suatu hari nanti.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "PicturePrefix": "UI_NameCardPic_Columbina"
+  }
+}

@@ -3902,6 +3902,63 @@
     ]
   },
   {
+    "Name": "Sonhos da Sombra da Lua",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/4c762e71a816712861b7b7573b6a7e63_5800676153448213674_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/4c762e71a816712861b7b7573b6a7e63_5800676153448213674_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Pulsar Cósmico",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/d314e383aef55f9d906feb1f63e16923_5831579854372494448_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/d314e383aef55f9d906feb1f63e16923_5831579854372494448_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000116
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000031,
+      10000113
+    ]
+  },
+  {
+    "Name": "Encarnação Divina",
+    "Version": "6.3",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/50000408b60792cd881fb85d5a72d3db_1115680279361222770_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/50000408b60792cd881fb85d5a72d3db_1115680279361222770_transformed.jpg",
+    "From": "2025-01-14T06:00:00+08:00",
+    "To": "2026-02-03T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14522,
+      13515
+    ],
+    "UpPurpleList": [
+      13430,
+      14430,
+      15412,
+      11402,
+      12403
+    ]
+  },
+  {
     "Name": "Cinzas da Fogueira",
     "Version": "5.3",
     "Order": 2,
@@ -5040,6 +5097,42 @@
       11401,
       13407,
       14402
+    ]
+  },
+  {
+    "Name": "Aurora da Abundância",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/24cd56f43a2effe66506d4b5b8ee5b33_4269809774474542725_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/24cd56f43a2effe66506d4b5b8ee5b33_4269809774474542725_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000126
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
+    ]
+  },
+  {
+    "Name": "A Ordem das Profundezas",
+    "Version": "6.2",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/23584873e50161c4f98b72cbc698fa5e_2851707763640868722_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/23584873e50161c4f98b72cbc698fa5e_2851707763640868722_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000087
+    ],
+    "UpPurpleList": [
+      10000127,
+      10000121,
+      10000055
     ]
   }
 ]

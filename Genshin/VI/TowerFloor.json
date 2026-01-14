@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "Nhân vật tăng 75% sát thương Tấn Công Khi Đáp."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tất cả thành viên trong đội nhận 60% buff sát thương nguyên tố Thủy.",
+      "Tất cả thành viên trong đội nhận 60% buff sát thương nguyên tố Lôi."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Tăng 75% sát thương Trọng Kích của nhân vật trong trận."
+    ],
+    "SecondDescriptions": [
+      "Tăng 75% sát thương phản ứng Nguyệt."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tất cả thành viên trong đội nhận 60% buff sát thương nguyên tố Thủy.",
+      "Tất cả thành viên trong đội nhận 60% buff Sát Thương Nguyên Tố Nham."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Tăng 75% sát thương Nguyệt-Điện Cảm."
+    ],
+    "SecondDescriptions": [
+      "Tăng 75% sát thương Nguyệt-Kết Tinh."
+    ]
   }
 ]

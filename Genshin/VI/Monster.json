@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Tuôn Chảy: Hậu Duệ Đêm Sương",
+    "Title": "Hậu Duệ Đêm Sương",
+    "Description": "Sinh mệnh nguyên tố với dáng vẻ xinh đẹp tao nhã, có khả năng hấp thu nguyên tố cực mạnh. Trong những năm tháng dài đằng đẵng bị nhiễm Nguyên Tố Thủy nồng độ cao, cuối cùng đã phát triển thành hình dạng như ngày nay.\nCơ thể trong suốt gần như được cấu thành từ giọt nước tinh khiết nhất. So với những đồng loại khác, tính tình có phần hiền hòa hơn, nhưng khi bị chọc giận, cũng sẽ lập tức ngưng tụ thành lưỡi dao nước sắc bén, xuyên thủng phòng ngự của kẻ xâm phạm.\nTrong những bài thánh ca ở di tích cực bắc, chúng là những sinh mệnh được sinh ra từ sự chúc phúc của Sương Nguyệt, tượng trưng cho nguồn chất thuần túy và ánh sáng của khởi đầu. Có lẽ chính vì vậy, chúng mới từ chối tất cả sinh linh tiếp cận chúng vì không thể chấp nhận sự thuần khiết của bản thân bị nhuộm bởi bảy màu sắc của trời cao.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Đuổi Sương: Hậu Duệ Đêm Sương",
+    "Title": "Hậu Duệ Đêm Sương",
+    "Description": "Sinh mệnh nguyên tố với dáng vẻ xinh đẹp tao nhã, có khả năng hấp thu nguyên tố cực mạnh. Trong những năm tháng dài đằng đẵng bị nhiễm Nguyên Tố Phong nồng độ cao, cuối cùng đã phát triển thành hình dạng như ngày nay.\nLuồng gió đã dệt thêm đôi cánh cho chúng. Vì hầu như sẽ không để lại dấu chân trên mặt đất nên đôi khi còn được gọi là kẻ đạp gió.\nTrong những bài thánh ca ở di tích cực bắc, chúng là những sinh mệnh được sinh ra từ sự chúc phúc của Sương Nguyệt, tượng trưng cho nguồn chất thuần túy và ánh sáng của khởi đầu. Có lẽ chính vì vậy, chúng mới từ chối tất cả sinh linh tiếp cận chúng vì không thể chấp nhận sự thuần khiết của bản thân bị nhuộm bởi bảy màu sắc của trời cao.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Khoáng Vàng: Hậu Duệ Đêm Sương",
+    "Title": "Hậu Duệ Đêm Sương",
+    "Description": "Sinh mệnh nguyên tố với dáng vẻ xinh đẹp tao nhã, có khả năng hấp thu nguyên tố cực mạnh. Trong những năm tháng dài đằng đẵng bị nhiễm Nguyên Tố Nham nồng độ cao, cuối cùng đã phát triển thành hình dạng như ngày nay.\nNguyên Tố Nham tích tụ gần như bao phủ toàn bộ cơ thể, cặp sừng cứng cáp cũng tỏa ra ánh sáng tựa như hổ phách.\nTrong những bài thánh ca ở di tích cực bắc, chúng là những sinh mệnh được sinh ra từ sự chúc phúc của Sương Nguyệt, tượng trưng cho nguồn chất thuần túy và ánh sáng của khởi đầu. Có lẽ chính vì vậy, chúng mới từ chối tất cả sinh linh tiếp cận chúng vì không thể chấp nhận sự thuần khiết của bản thân bị nhuộm bởi bảy màu sắc của trời cao.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Linh Chủ Đêm Sương",
     "Title": "Thánh Quang Bảo Hộ",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Hexadecatonic Mandragora Bách Chiến",
+    "Title": "Hexadecatonic Mandragora Bách Chiến",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Hexadecatonic Mandragora Bách Chiến",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Hilichurl To Bự Thần Bí",
     "Title": "Phù Thủy Lạc Lối Trong Bí Cảnh?",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Thợ Câu U Ám",
+    "Title": "Kỳ Thú Dị Giới",
+    "Description": "Ma vật Vực Sâu từ thế giới khác, đã xuyên qua khe nứt tối tăm để xâm nhập vào thế giới này.\nTừng có hiền triết cổ đại định nghĩa con người là loài sinh vật hai chân không có lông vũ, để phân biệt giữa con người và dã thú vô tri, từ đó chứng minh sự ưu việt của loài linh trưởng. Theo một ý nghĩa nào đó, thì những sinh vật bất tử trên người phủ đầy vảy thay vì lông vũ, lang thang giữa biển sao tĩnh lặng này, những thợ câu vô danh thả móc câu, nuốt chửng sinh khối của các thế giới khác nhau này, có lẽ cũng phù hợp với định nghĩa \"con người\" hời hợt như vậy.",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Chúa Tể Ác Mộng U Ám",
+    "Title": "Kẻ Thống Trị Vô Diện Vô Biên",
+    "Description": "Ma vật Vực Sâu mai phục trong khe nứt tăm tối, lặng lẽ quan sát thế giới này. Nghe nói hình dạng vô diện quái dị, báng bổ này chẳng qua chỉ là hình ảnh phóng chiếu trên thế giới này, còn hình thái thực sự là vật vô hình tồn tại dưới dạng năng lượng Vực Sâu thuần túy.\nDù là kẻ xâm nhập mưu tính kiểm soát thế giới này, nhưng ở một mức độ nào đó vẫn phải tuân theo quy tắc vốn có của thế giới. Cho đến khi tấm màn của trời cao tan vỡ, lớp bảo vệ của mặt đất sụp đổ, những người mất đi quê hương đến từ các vì sao cũng chỉ có thể lảng vảng ở rìa thế giới, dùng những lời thì thầm điên loạn và ngông cuồng, cố gắng xâm nhập vào thế giới này một cách vô ích... Nhưng trật tự yên bình của thế giới này, liệu sẽ duy trì đến khi nào?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Đạo Bảo Đoàn - Hỏa Dược Sư",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Đạo Bảo Đoàn Tinh Nhuệ Bách Chiến",
+    "Title": "Đạo Bảo Đoàn Tinh Nhuệ Bách Chiến",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Hóa Thân Wayob - Nghịch Lưu",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Hóa Thân Wayob - Hang Đá",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Hóa Thân Wayob - Lá Bay",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Sói Băng Bức Xạ",
+    "Title": "Dị Thú Bức Xạ",
+    "Description": "Ma thú đã trải qua một quá trình tiến hóa độc đáo do được hấp thụ sức mạnh của mặt trăng cổ xưa trong thời gian dài.\nTruyền thuyết kể rằng, khi thảm họa đen tối quét sạch vô vàn sinh vật, rừng rậm nơi vùng biên đã chìm trong tĩnh lặng. Vào thời khắc ấy, tiếng sói tru dưới ánh trăng đã xé toạc sự tĩnh lặng này. Tiếng gầm gừ như khúc bi ca của bầy sói đã cùng ánh trăng lạnh lẽo, vang vọng trên vùng đất hoang dã trong vô số đêm dài.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Sói Băng Bức Xạ Bách Chiến",
+    "Title": "Dị Thú Bức Xạ",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "Dottore",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "Dottore",
+    "Title": "Kẻ Dị Giáo Của Mặt Trăng Giả",
+    "Description": "Dottore, Quan Chấp Hành thứ hai của Fatui, nổi tiếng với ác danh \"dị giáo\", sau khi đoạt được quyền năng của ba mặt trăng, giờ đây đã bước lên bậc thang dẫn đến thần tọa của \"thế giới mới\".\nChúng ta vốn nên có được tất cả.\nNhưng lý trí đã gạt bỏ tất cả những điều nằm ngoài sức tưởng tượng, khiến con người không thể đạt đến bản chất thực sự;\nSống chết đã tạo nên xiềng xích cho cơ thể phàm trần, giam cầm dã tâm của mọi linh hồn;\nThời gian và không gian giới hạn sức tưởng tượng của con người, khiến họ trở nên thiển cận và phục tùng.\nTừ đó, mỗi vị thần giả tạo thống trị thế giới, đều tự xưng chân lý của mình là duy nhất, nhưng không ai xứng đáng với danh hiệu đó cả.\nSự biến đổi của sinh mệnh không có trật tự và kết cấu nhất định, chỉ khi loại bỏ vô vàn gông xiềng trên thế giới này, mới có thể thấy được bản chất của mọi vật.\nVà đó chính là ánh sáng của thế giới.\n\"Chẳng lẽ các ngươi lại chấp nhận chịu đựng thế giới cổ hủ, lỗi thời này sao?\"",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

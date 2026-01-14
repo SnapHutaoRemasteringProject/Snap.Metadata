@@ -3157,7 +3157,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Jahoda: Helping Hand",
-    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hands!\" — Surely that means the owner of these \"lendable hands\" is both agile and reliable, right?",
+    "Description": "Namecard style.\n\"Whenever things get too busy, I wish I could borrow Jahoda's hand!\" — Surely that means the owner of said \"lendable hand\" is both agile and reliable, right?",
     "Icon": "UI_NameCardIcon_Jahoda",
     "Pictures": [
       "UI_NameCardPic_Jahoda_Alpha",
@@ -3187,6 +3187,79 @@
     "Pictures": [
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
+    ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina: Someday",
+    "Description": "Namecard style.\nShe dances in the shallows of clear streams and drifts with the current, falling asleep beneath the pale shadows of the mountains. She wanders through the ripples of time, playing hide-and-seek with the kuuhenki.\nShe rests in the garden of all things, humming softly to every living creature. In the quiet hours before dawn, she waits for the day of their reunion.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai: Veiled Vista",
+    "Description": "Namecard style.\nHeaven and earth are but a wayfarer's lodge, and time a wanderer passing through the ages.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga: Nightmare Songbird",
+    "Description": "Namecard style.\nHaving braved the darkness of night, the nightingale pours its ardor into the bright world of day, and sears the nightmares with fierce fury.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Achievement: Far-Sighted",
+    "Description": "Namecard style.\nThe traveler once stood atop the town, gazing toward the distant horizon, confident that the far-off sights within view would one day become milestones in the journey ahead.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai: Lantern of Longest Night",
+    "Description": "Namecard style.\nIn the blackest of nights, a lamp shall rise, tonight, and for a thousand nights beyond.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Travel Notes: Lanternlit Ode",
+    "Description": "Namecard style.\nPray for me a bright moon, wish me a fair day. Clad in my spring cloak, I follow moonbeams' sway.",
+    "SpecialDescription": "\"Travel Notes: Lanternlit Ode\" namecard style",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
     ]
   }
 ]

@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "+%15 Toprak Hasarı Bonusu.",
-      "Kristalleştirme Tepkimesi ile bir Element Parçası elde edildiğinde, 10 saniyeliğine tüm grup üyeleri o element için %35 Hasar Bonusu kazanır. Bu yöntemle aynı anda yalnızca bir tür Element Hasarı Bonusu kazanılabilir."
+      "Kristalleşme ile oluşan bir Element Parçası elde edildiğinde veya bir Ay Kristalleşmesi tepkimesi tetiklendiğinde 10 saniyeliğine tüm grup üyeleri o element için %35 Hasar Bonusu kazanır. Bu yöntemle aynı anda yalnızca bir tür Element Hasarı Bonusu kazanılabilir."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "+%18 Saldırı.",
-      "Bir Element Becerisi kullandıktan sonra 10 saniyeliğine %20 Toprak Hasarı Bonusu kazanılır. Kristalleşme tepkimesinden gelen bir kalkan mevcutsa bu etki %150 artar. Bu ek artış, kalkan etkisini kaybettikten 1sn sonra kaybolur."
+      "Bir Element Becerisi kullandıktan sonra 10 saniyeliğine %20 Toprak Hasarı Bonusu kazanılır. Kristalleşme tepkimesinden gelen bir kalkan mevcutsa veya yakında Ay Kristalleşmesi tepkimeleriyle oluşan Ay Akıntıları varsa bu etki %150 artar. Bu ek artış, koşullar ortadan kalktıktan 1sn sonra kaybolur."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "+%20 Enerji Yüklemesi.",
       "Element Hasarı verildiğinde 8sn boyunca Ay Parıltısı: Adanmışlık etkisi kazanılır: Ay Sembolü İlk Parıltı/Yükselen Parıltı olduğunda tüm grup üyelerinin Element Ustalığı 60/120 artar. Bu etki, kuşanan karakter savaş alanında olmasa da tetiklenebilir. Tüm grup üyelerinin Ay Tepkimesi Hasarı, üyelerin sahip olduğu farklı her Ay Parıltısı etkisi için %10 artar. Ay Parıltısı etkileri birikmez."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Seher Yıldızı ve Ayın Sabah Şarkısı",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Element Ustalığını 80 artırır.",
+      "Kuşanan karakter alanda değilken Ay Tepkimesi Hasarı %20 artar. Grubun Ay Sembolü Seviyesi en az Yükselen Parıltıyken Ay Tepkimesi Hasarı ilave %40 daha artar. Bu etki, kuşanan karakter 3 saniye aktif olduktan sonra kaybolur."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Rüzgarların Şekillendirdiği Bir Gün",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "+%18 Saldırı.",
+      "Bir Normal Saldırı, Yüklü Saldırı, Element Becerisi veya Element Patlaması bir düşmana isabet ettikten sonra 6 saniyeliğine Kır Rüzgarlarının Lütfu etkisi kazanılır: Saldırı %25 artar. Kuşanan karakter Cadının Ödevini tamamladıysa Kır Rüzgarlarının Lütfu gelişerek Kır Rüzgarlarının Azmi olur ve kuşanan karakterin Kritik Oranını fazladan %20 artırır. Bu etki, karakter savaş alanında olmasa da tetiklenebilir."
     ]
   }
 ]

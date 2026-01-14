@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Geo DMG Bonus +15%.",
-      "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize, seluruh anggota party memperoleh 35% peningkatan Elemental DMG terhadap elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG dapat diperoleh dengan cara ini."
+      "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize atau memicu reaksi Lunar-Crystallize, seluruh anggota party memperoleh 35% Elemental DMG Bonus untuk elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG Bonus yang bisa didapatkan dengan cara ini."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "ATK +18%.",
-      "Selama 10 detik setelah melancarkan Elemental Skill, Geo DMG Bonus akan meningkat 20%. Saat dilindungi oleh Perisai yang tercipta dari reaksi Crystallize, efek di atas akan ditingkatkan lagi sebesar 150%. Efek peningkatan tambahan tersebut akan dihapus setelah 1 detik Perisai Crystallize hilang."
+      "Setelah melancarkan Elemental Skill, Geo DMG Bonus +20% selama 10 detik. Saat dilindungi oleh Perisai yang tercipta dari reaksi Crystallize atau ada Moondrift yang dihasilkan dari reaksi Lunar-Crystallize di sekitar, maka efek di atas akan meningkat sebesar 150%. Efek peningkatan tambahan ini akan hilang 1 detik setelah syarat di atas tak terpenuhi."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Energy Recharge +20%.",
       "Saat mengakibatkan Elemental DMG, akan mendapatkan efek Gleaming Moon: Devotion selama 8 detik. Gleaming Moon: Devotion: Saat Moonsign milik party adalah Nascent Gleam/Ascendant Gleam, maka Elemental Mastery seluruh Karakter dalam party +60/120 poin. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan berada di dalam party namun tidak berada di medan pertempuran. Untuk setiap efek Gleaming Moon berbeda yang dimiliki Karakter di dalam party, DMG reaksi Lunar yang diakibatkan seluruh Karakter dalam party +10%. Efek yang dihasilkan oleh Gleaming Moon tidak dapat ditumpuk."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Aubade of Morningstar and Moon",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Elemental Mastery +80 poin.",
+      "Saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran, DMG reaksi Lunar yang diakibatkan meningkat 20%. Saat Level Moonsign party setidaknya adalah Ascendant Gleam, maka DMG reaksi Lunar yang diakibatkan akan meningkat 40% lagi. Efek di atas akan hilang setelah Karakter yang mengenakan berada di medan pertempuran selama 3 detik."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "A Day Carved From Rising Winds",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "ATK +18%.",
+      "Setelah Normal Attack, Charged Attack, Elemental Skill, atau Elemental Burst mengenai musuh, akan mendapatkan efek \"Blessing of Pastoral Winds\" selama 6 detik: ATK +25%. Jika Karakter yang mengenakan sudah menyelesaikan \"PR Penyihir\", maka Blessing of Pastoral Winds akan meningkat menjadi \"Resolve of Pastoral Winds\" yang juga akan meningkatkan CRIT Rate Karakter yang mengenakan sebesar 20%. Efek ini juga dapat terpicu saat Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
     ]
   }
 ]

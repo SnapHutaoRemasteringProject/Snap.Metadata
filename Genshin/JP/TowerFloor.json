@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "キャラクターの落下攻撃によるダメージ+75%。"
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "チーム全員の水元素ダメージ+60%。",
+      "チーム全員の雷元素ダメージ+60%。"
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "フィールド上キャラクターの重撃ダメージ+75%。"
+    ],
+    "SecondDescriptions": [
+      "月反応ダメージ+75%。"
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "チーム全員の水元素ダメージ+60%。",
+      "チーム全員の岩元素ダメージ+60%。"
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "月感電ダメージ+75%。"
+    ],
+    "SecondDescriptions": [
+      "月結晶ダメージ+75%。"
+    ]
   }
 ]

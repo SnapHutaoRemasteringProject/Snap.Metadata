@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Коломбина",
+    "Description": "Персонаж в обители",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Цзы Бай",
+    "Description": "Персонаж в обители",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Иллуги",
+    "Description": "Персонаж в обители",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "Путь ценности: Нефритовое поле",
-    "Description": "Хорошо обработанное урожайное поле. Плодородная почва богата питательными веществами, которые после посева позволяют получить высококачественные растения, не требующие особого ухода. Растения на этом поле имеют огромные корни. Чтобы обеспечить достаточно места для роста, его нельзя засаживать слишком плотно.\nСемена, споры или образцы из сундука семян, которые можно выращивать на этом поле, включают: валяшку, цветок-сахарок, траву-светяшку, заоблачный перчик, морковь, редис, мяту, грибы, фрукт харра, персик зайтун, маркот, злакофрукт, какауатль, лапу завриана, ягоду квенепа, мерцающий рогатый гриб, ягоды лакка и летнику.",
+    "Description": "Хорошо обработанное урожайное поле. Плодородная почва богата питательными веществами, которые после посева позволяют получить высококачественные растения, не требующие особого ухода. Растения на этом поле имеют огромные корни. Чтобы обеспечить достаточно места для роста, его нельзя засаживать слишком плотно.\nСемена, споры или образцы из сундука семян, которые можно выращивать на этом поле, включают: валяшку, цветок-сахарок, траву-светяшку, заоблачный перчик, морковь, редис, мяту, грибы, фрукт харра, персик зайтун, маркот, злакофрукт, какауатль, лапу завриана, ягоду квенепа, мерцающий рогатый гриб, ягоды лакка, летнику и сосновый янтарь.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "Путь ценности: Нива небожителей",
-    "Description": "Хорошо обработанное поле, насыщенное силой сотворения подпространства. Плодородная почва богата питательными веществами, которые после посева позволяют получить высококачественные цветы, не требующие особого ухода. Растения на этом поле имеют огромные корни. Чтобы обеспечить достаточно места для роста, поле нельзя засаживать слишком плотно.\nСемена, споры или образцы из сундука семян, которые можно выращивать на этом поле, включают: шелковицу, сесилию, глазурную лилию, ветряную астру, цветок цинсинь, стеклянные колокольчики, траву наку, сумерскую розу, ламповый колокольчик, радужную розу, сверкающую хризантему, заоблачный камнелист и инеевый цветок.",
+    "Description": "Хорошо обработанное поле, насыщенное силой сотворения подпространства. Плодородная почва богата питательными веществами, которые после посева позволяют получить высококачественные цветы, не требующие особого ухода. Растения на этом поле имеют огромные корни. Чтобы обеспечить достаточно места для роста, поле нельзя засаживать слишком плотно.\nСемена, споры или образцы из сундука семян, которые можно выращивать на этом поле, включают: шелковицу, сесилию, глазурную лилию, ветряную астру, цветок цинсинь, стеклянные колокольчики, траву наку, сумерскую розу, ламповый колокольчик, радужную розу, сверкающую хризантему, заоблачный камнелист и инеевый цветок и шпороцветник.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Каштаная коза: освежающая мята",
     "Description": "Эта коза родом из Нод-Края. Её рога и пятна на шкуре такие, будто их покрыли свежей мятной глазурью.\nС переездом в Чайник безмятежности её шерсть стала ещё пышнее и гуще. Когда приходит время линьки, вокруг козы начинается тихий, но непрерывный «пухопад»...\nПо неведомым причинам некоторые животные, попав в обитель, сохраняют свой необычный облик, сформированный под воздействием силы куувяки. Чтобы Пухляшу было проще их различать, Паймон заботливо придумала для всех новые имена, прямо по внешнему виду...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено в результате поимки"
+    ],
+    "Id": 369222,
+    "Name": "Шипастый геккон",
+    "Description": "Ловкий геккон с присосками на лапках способен карабкаться по стенам.\nПопав в обитель, они продолжают жить в расщелинах скал, но угроза от хищников значительно снизилась, поэтому они стали проводить больше времени вне укрытий.\nПо неизвестным причинам некоторые животные, попав в обитель, сохранили свой уникальный внешний вид, сформированный под влиянием куувяки...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено в результате поимки"
+    ],
+    "Id": 369223,
+    "Name": "Пепельношеий аист",
+    "Description": "Птица с изящной походкой. Серо-золотые перья подчеркивают её стройный силуэт.\nИз-за её грациозности некоторые животные даже специально провоцируют её, чтобы полюбоваться её танцевальными угрожающими движениями. Конечно, такое поведение Пухляш запретила.\nПо неизвестным причинам некоторые животные, попав в обитель, сохранили свой уникальный внешний вид, сформированный под влиянием куувяки...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено в результате поимки"
+    ],
+    "Id": 369224,
+    "Name": "Хохлатый орёл",
+    "Description": "Остроглазый орёл, чьё благородное хохлатое оперение дополняет его царственный облик, - мастер манёвров в вышине.\nМощное телосложение и широкий размах крыльев делают его пикирующие атаки особенно смертоносными, и мало кому из жертв удаётся спастись. Когда они поселились в обители, имея достаточно пищи, они стали реже охотиться, но всё ещё часто кружат высоко в небе, демонстрируя свои прекрасные короны...\nПо неизвестным причинам некоторые животные, попав в обитель, сохранили свой уникальный внешний вид, сформированный под влиянием куувяки...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "Снеговик, созданный по образу Варесы с её маской героини. Точно передаёт её теплоту, дружелюбие и увлечённость.\nЧтобы помочь гостям со всего Тейвата отдохнуть и повеселиться, создатель «Метания нефрита» разработал эту очаровательную маленькую спутницу. Хотя снега Драконьего хребта могут быть суровыми, рядом с ней всегда уютно.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 361344,
+    "Name": "Шёпот под луной",
+    "Description": "Распространённый в городе Пирамида стол простой прямоугольной формы, полностью изготовленный из жести.\nКаждую тихую ночь ратники собираются вокруг этого стола и тихо беседуют. Почему они не говорят громче? Возможно, боятся потревожить блуждающих вокруг призраков...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "По чертежу декора из Сокровищницы обители"
+    ],
+    "Id": 362277,
+    "Name": "Обычные носилки: Надёжная переноска",
+    "Description": "Носилки простой, но крайне функциональной конструкции. Часто используются Светоносцами для медицинской транспортировки, представляют собой две жерди для переноски, соединённые прочной тканью.\nВ повседневной жизни, помимо Светоносцев, жители города Пирамида также используют такие носилки для помощи людям с ограниченной подвижностью.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 362278,
+    "Name": "До дна!",
+    "Description": "Металлическая разливная бочка большой вместимости, простая в использовании и часто применяемая Светоносцами.\nТакие бочки обычно используют на собраниях, чтобы каждый участник мог выпить столько, сколько захочет.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 362133,
+    "Name": "Моему другу",
+    "Description": "Эта металлическая скамья часто используется Светоносцами. Хотя у неё нет спинки, мягкие подушки на сиденье делают её немного удобнее.\nДаже посреди шумного празднования, сидя на этой скамье, можно внезапно ощутить накатившую грусть.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 361412,
+    "Name": "Медицинская кровать",
+    "Description": "Простая медицинская кровать Светоносцев. Она соответствует повседневным привычкам и лечебным потребностям раненых.\nИзначально кровать была оснащена рукояткой для регулировки угла спинки. Однако лежащие на ней люди часто по привычке и неосознанно крутили её, из-за чего весь день раздавался скрип. Вскоре эту деталь убрали.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 364226,
+    "Name": "Флаг Пирамиды",
+    "Description": "Флаг, часто встречающийся в Пирамиде, с изображением маяка. Маяк символизирует клятву Светоносцев всегда нести свет в тёмной ночи, оставаясь на страже будущего.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 371014,
+    "Name": "Регулируемый металлический барьер",
+    "Description": "Регулируемый металлический барьер, часто встречающийся в Пирамиде и обычно используемый в качестве оборонительного средства.\nНесмотря на то что как защитное сооружение он способен выдерживать серьёзные атаки, его недостаток столь же очевиден: перемещение из точки А в точку Б требует значительных усилий.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 371015,
+    "Name": "Одиночество в городе вечного бдения",
+    "Description": "Сооружение, часто встречающееся в Пирамиде и в основном построенное из листового металла. Оно небольшое, его строительство обходится относительно дёшево.\n«Я уж лучше буду жить один в таком доме, чем ютиться в огромном доме с десятком других людей!» - говорит мужчина, который когда-то жил в подобном строении.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 371016,
+    "Name": "Убежище в городе вечного бдения",
+    "Description": "Сооружение, часто встречающееся в Пирамиде и в основном построенное из жести. Его изогнутая крыша придаёт ему характерный внешний вид.\nХотя этот домик небольшой и он не отличается изысканным дизайном, прочная конструкция позволяет использовать его в качестве укрытия для многих.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "По чертежу декора из Сокровищницы обители"
+    ],
+    "Id": 371017,
+    "Name": "Собственный уголок",
+    "Description": "С виду непритязательное временное сооружение с навесом из жёлтой ткани.\nСобранное из простых материалов и удобное для быстрой установки и разборки, такое сооружение позволяет при необходимости оперативно и эффективно обозначить личный уголок во время временных мероприятий на открытом воздухе.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 371018,
+    "Name": "Забота в городе вечного бдения",
+    "Description": "Тип высокого сооружения, часто встречающегося в Пирамиде, в котором обычно размещаются медицинские учреждения.\nПоскольку жители Пирамиды в целом отличаются крепким здоровьем, эти больницы редко бывают переполнены. Однако с наступлением смены сезонов здесь всегда наблюдается кратковременный наплыв пациентов.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 371019,
+    "Name": "Ковка в городе вечного бдения",
+    "Description": "Сооружение, часто встречающееся в Пирамиде и по высоте сравнимое с башней. В Пирамиде именно здесь обычно располагаются кузнечные мастерские.\nКогда в Пирамиде холодает, это место становится источником тепла. С каждым ударом молота летят искры, а котёл гудит и выпускает клубы пара...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено при покупке Боевого пропуска: Жемчужный хор"
+    ],
+    "Id": 371020,
+    "Name": "Шествие Старшины",
+    "Description": "Большая статуя, созданная по образу известной исторической личности. Она стоит непоколебимо, с обнажённым мечом. Те, кто останавливается перед ней, без сомнения могут почувствовать решимость и силу изображённого героя.\nГоворят, что он, будучи первым Старшиной Светоносцев, когда-то прошёл сквозь долгую ночь лишь затем, чтобы люди увидели проблеск рассвета, символа надежды.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 371021,
+    "Name": "Маяк: Солнце на прояснившемся небе",
+    "Description": "Модель маяка, созданная по гордому образу первого из Светоносцев. Он стоит тихо, но величественно. Устойчивый и неизменно надёжный.\n«Когда тучи рассеются и солнечный свет пробьётся сквозь облака, монстры не смогут нападать из темноты», - говорит командир Иллуги. Возможно, лишь когда этот день настанет, все ратники наконец смогут опустить оружие, выйти из маяка и без опасений насладиться тёплым солнечным светом.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 374332,
+    "Name": "Теплота и уют",
+    "Description": "Обеденный стол с большой столешницей. Его основная конструкция выполнена преимущественно из металла и имеет полую форму, в которой размещена небольшая печь. Благодаря этому блюда на столе остаются тёплыми.\nНасладиться щедрым угощением и не заканчивающимися напитками хочет каждый, кто сидит за этим столом.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 374333,
+    "Name": "Макет поля боя: Предварительная демонстрация",
+    "Description": "Простой и практичный макет, созданный по образцу собственного макета магистра Варки.\n«Пока мы колеблемся, Бездна продолжает забирать бесчисленные жизни. Чем раньше мы выступим, тем скорее сможем изменить их судьбы». Разведданные лежат в основе любой операции или экспедиции. Заблаговременно моделируя возможные сценарии на макете, можно значительно сократить потери во время похода или сражения...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 374642,
+    "Name": "Командуй с уверенностью",
+    "Description": "Штабная доска, часто встречающаяся в Пирамиде. На неё обычно вывешивают карты разных районов, чтобы всем было удобнее ориентироваться во время обсуждений.\nХотя это очень простая вещь, она нередко играет важную роль, когда требуется ясное понимание ситуации и общей картины.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 374643,
+    "Name": "Стойка для оружия: Быстро и просто",
+    "Description": "Стойка для оружия простой и практичной конструкции, предназначенная для хранения оружия и щитов.\nРазмещение оружия по типам позволяет быстро и удобно брать нужное снаряжение.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 374644,
+    "Name": "Маяк на колёсах",
+    "Description": "Передвижной лунный вагон, работающий на куувяки и отличающийся необычным внешним видом. Это транспортное средство, созданное Светоносцами путём переделки механической машины из Снежной.\nС наступлением ночи ратники часто используют его как передвижной маяк, чему способствует его яркое освещение.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Совместная постройка: Награды за уровень Места встречи"
+    ],
+    "Id": 374645,
+    "Name": "Статуя ведьмы: Запечатлённое мгновение",
+    "Description": "Статуя, созданная по образу ангела, словно запечатлела ту бурную жизненную силу, которой он обладал в один волшебный миг.\n«Судьба непостижима, и всё же... я надеюсь, что смогу привести тех, кого встречаю, к счастливому концу их истории». Поскольку будущее не определено, многим важно научиться ценить настоящее.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 374819,
+    "Name": "Счастливое дерево",
+    "Description": "Сверкающее декоративное растение, украшенное множеством золотых монет удачи, пользуется большой популярностью среди жителей Ли Юэ благодаря своей репутации талисмана, притягивающего в дом богатство и роскошь.\nФразу «Если к Новому году завести Счастливое дерево, может, тогда...» часто можно услышать от любителей этого растения.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 374820,
+    "Name": "Большой фонарь Чжань Чжу: Преграда",
+    "Description": "Изысканный тёмный фонарь, выполненный в форме Пожирателя луны Чжань Чжу, зловещего персонажа сказок, нелюбимого многими детьми.\nКогда эта «преграда» оказывается у вас на пути, лучше обойти её.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 374821,
+    "Name": "Большой фонарь Чжань Чжу: Преграда Максимус",
+    "Description": "Изысканный красный фонарь, выполненный в форме Пожирателя луны Чжань Чжу, зловещего персонажа сказок, нелюбимого многими детьми.\nНе отступайте, когда Преграда Максимус встаёт у вас на пути, ведь она чувствует страх каждого, кто к ней приближается.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 374647,
+    "Name": "Мерцание жизни",
+    "Description": "Культивационный сосуд неизвестного назначения, соединённый трубками с тремя прозрачными ёмкостями.\nВ самой большой из них что-то мерцает и парит, лёгкое и прекрасное, словно сама жизнь.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 373223,
+    "Name": "Пышное цветение",
+    "Description": "Крупное растение бонсай, часто встречающееся возле заброшенного исследовательского института. Оно настолько зелёное и пышное, что один лишь его вид сразу поднимает настроение.\nПо какой-то причине растение словно переполнено жизненной силой настолько, что незнающий человек может даже задаться вопросом, не поливают ли его каким-нибудь особым зельем...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 373224,
+    "Name": "Зелёное цветение",
+    "Description": "Маленькое растение бонсай, часто встречающееся возле заброшенного исследовательского института. Оно настолько зелёное и пышное, что один лишь его вид сразу поднимает настроение.\nПо какой-то причине растение словно переполнено жизненной силой настолько, что незнающий человек может даже задаться вопросом, не поливают ли его каким-нибудь особым зельем...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "По чертежу декора из Сокровищницы обители"
+    ],
+    "Id": 360469,
+    "Name": "Лёгкая металлическая лампа",
+    "Description": "Лёгкая лампа, которую часто используют жители Пирамиды. Хотя она светит не слишком ярко, малый вес делает её удобной для переноски.\nКогда небо темнеет, дети прекращают игры, берут лампы и вместе отправляются домой. Издалека их весёлая, светящаяся толпа выглядит словно звёзды, движущиеся по земле.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Награда из удивительного сундука за исследование Нод-Края"
+    ],
+    "Id": 360470,
+    "Name": "Уличный фонарь: Максимальная эффективность",
+    "Description": "Уличный фонарь, часто встречающийся в Пирамиде. Он аккуратно выглядит и даёт достаточно яркое освещение.\nФонарь изготовлен из материалов, полученных по технологиям, характерным именно для Пирамиды. Они хорошо противостоят коррозии и ржавчине, возникающим из-за дождя. Такой подход с упором на низкие затраты и минимальный уход полностью соответствует практичному образу жизни большинства жителей города.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360471,
+    "Name": "Блистательный небесный фонарь: Пусть моё желание сбудется",
+    "Description": "Разноцветный небесный фонарь с тёплым, согревающим сердце светом. Он изготовлен из простых материалов довольно несложным способом.\nОн уносит множество драгоценных желаний и воспоминаний высоко в ночное небо.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360472,
+    "Name": "Блистательный небесный фонарь: Увидимся, друг",
+    "Description": "Разноцветный небесный фонарь с тёплым, согревающим сердце светом. Его продуманная конструкция позволяет ему дольше оставаться в воздухе.\nГоворят, что любые желания или мысли, доверенные небесному фонарю, всегда достигают того, кому они предназначены, даже если получатель находится за тысячи километров.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360473,
+    "Name": "Яркий небесный фонарь: Рифф удачи",
+    "Description": "Изысканный небесный фонарь, созданный Синь Янь. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Пора зажигать!»",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360474,
+    "Name": "Яркий небесный фонарь: Богатство и добрые вести",
+    "Description": "Изысканный небесный фонарь, созданный Ка Мином. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Желаю успехов во всех начинаниях и крепкого здоровья!»",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360475,
+    "Name": "Небесный фонарь: Прекрасное начало весны",
+    "Description": "Изысканный небесный фонарь, созданный Лань Янь. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Желаю всем мира и счастья!»",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360476,
+    "Name": "Светящийся небесный фонарь: Сладкие ароматы",
+    "Description": "Изысканный небесный фонарь, созданный Эмилией. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Пусть у каждого из нас будет время замедлиться и насладиться самыми сладкими мгновениями жизни».",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360477,
+    "Name": "Блистательный небесный фонарь: Удачи на пути",
+    "Description": "Изысканный небесный фонарь, созданный Лайлой. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Пусть у всех в Академии получится завершить научные работы».",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360478,
+    "Name": "Блистательный небесный фонарь: Исполнения всех желаний!",
+    "Description": "Изысканный небесный фонарь, созданный Сяо. Каждый, кто смотрит на него, ощущает тёплое и спокойное блаженство.\n«Пусть у всех всё будет хорошо».",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Получено во временном событии"
+    ],
+    "Id": 360479,
+    "Name": "«Бегущая Белая лошадь»",
+    "Description": "Гигантский небесный фонарь, созданный по образу одного из Адептов, что наблюдает за луной. На нём изображена Белая Лошадь, срывающаяся со скалы и летящая сквозь облака на фоне яркого заката. Сегодня люди записывают на фонаре свои желания в надежде, что Белая Лошадь спустится с луны на нефритовой колеснице и исполнит их.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

@@ -712,7 +712,7 @@
         },
         "Id": 872101,
         "Name": "Di Sản Hậu Duệ Biển Xưa",
-        "Description": "Nhân vật trong đội khi kích hoạt phản ứng Bốc Hơi, Đóng Băng, Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Khuếch Tán Nguyên Tố Thủy hoặc Kết Tinh Nguyên Tố Thủy lên kẻ địch, sẽ khiến Neuvillette sản sinh hiệu quả \"Vinh Dự Của Rồng\" trong 30s, tối đa cộng dồn 3 tầng. Khiến sát thương Trọng Kích - Phán Quyết Công Bằng gây ra tăng 110%/125%/160% so với mức ban đầu.\n\"Vinh Dự Của Rồng\" sinh ra từ mỗi loại phản ứng nguyên tố sẽ tồn tại độc lập nhau.",
+        "Description": "Nhân vật trong đội khi kích hoạt phản ứng Bốc Hơi, Đóng Băng, Điện Cảm, Nguyệt-Điện Cảm, Sum Suê, Nguyệt-Sum Suê, Khuếch Tán Nguyên Tố Thủy, Kết Tinh Nguyên Tố Thủy hoặc Nguyệt-Kết Tinh lên kẻ địch, sẽ khiến Neuvillette sản sinh hiệu quả \"Vinh Dự Của Rồng\" trong 30s, tối đa cộng dồn 3 tầng, khiến sát thương Trọng Kích - Phán Quyết Công Bằng gây ra 110%/125%/160% sát thương gốc.\n\"Vinh Dự Của Rồng\" sinh ra từ mỗi loại phản ứng nguyên tố sẽ tồn tại độc lập.",
         "Icon": "UI_Talent_S_Neuvillette_05"
       },
       {
@@ -1167,6 +1167,14 @@
     ]
   },
   "Costumes": [
+    {
+      "Id": 208701,
+      "Name": "Quà Tặng Của Melusine",
+      "Description": "Món quà bất ngờ mà Neuvillette nhận được. Bất ngờ không chỉ đến từ bản thân món quà, mà còn đến từ mỗi một đôi tay nhỏ giúp đỡ khi tham gia tạo ra. Giống như dòng sông hòa vào biển lớn, sương mai cũng ngưng tụ thành phép màu lấp lánh ánh sáng óng ánh.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
     {
       "Id": 208700,
       "Name": "Phán Quyết Trong Sạch",

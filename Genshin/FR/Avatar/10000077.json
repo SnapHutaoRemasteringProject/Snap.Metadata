@@ -1173,6 +1173,14 @@
   },
   "Costumes": [
     {
+      "Id": 207701,
+      "Name": "Rêverie de bambous sous la pluie",
+      "Description": "Tenue de Yaoyao. Les jeunes pousses projettent leurs ombres mouvantes sur le bureau en désordre. Parfois, lorsqu'un visiteur entre, ce n'est pas forcément le vent.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
+    },
+    {
       "Id": 207700,
       "Name": "Osmanthus chérubin",
       "Description": "Tenue de Yaoyao. Cette jolie veste courte que les parents de Yaoyao lui ont confectionnée, ainsi que les cloches adeptales que son maître lui a données, tiennent toujours compagnie à la petite fille lors de ses voyages entre le Village de Qingce et le Port de Liyue.",

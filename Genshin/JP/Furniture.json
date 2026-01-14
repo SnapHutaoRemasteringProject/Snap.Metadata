@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "コロンビーナ",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "兹白",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "イルーガ",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "農業の道-「素晴らしい野菜畑」",
-    "Description": "外景の力が凝集された田んぼ、肥沃な土には無限に近い養分が含まれており、種を植えると一定時間後に作物を収穫できる。しかし、ここで栽培可能な植物は根っこが長くよく伸びる。十分な成長空間を保つために、作物を植え過ぎないことを推奨する。\n「種の匣」で採集した種、胞子もしくはサンプルを使って、下記の作物を栽培できる：ヴァルベリー、スイートフラワー、イグサ、絶雲の唐辛子、ニンジン、ダイコン、ミント、キノコ、ハッラの実、ザイトゥン桃、マルコット草、グレインの実、ショコアトゥルの種、サウリアンサキュレント、ケネパベリー、蛍光ツノキノコ、ホワイトベリー、ソマルの実。",
+    "Description": "外景の力が凝集された田んぼ、肥沃な土には無限に近い養分が含まれており、種を植えると一定時間後に作物を収穫できる。しかし、ここで栽培可能な植物は根っこが長くよく伸びる。十分な成長空間を保つために、作物を植え過ぎないことを推奨する。\n「種の匣」で採集した種、胞子もしくはサンプルを使って、下記の作物を栽培できる：ヴァルベリー、スイートフラワー、イグサ、絶雲の唐辛子、ニンジン、ダイコン、ミント、キノコ、ハッラの実、ザイトゥン桃、マルコット草、グレインの実、ショコアトゥルの種、サウリアンサキュレント、ケネパベリー、蛍光ツノキノコ、ホワイトベリー、ソマルの実、琥珀香。",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "農業の道-「麗しい花畑」",
-    "Description": "外景の力が凝集された田んぼ、肥沃な土には無限に近い養分が含まれており、種を植えると一定時間後に花草を収穫できる。しかし、ここで栽培可能な植物は根っこが長くよく伸びる。十分な成長空間を保つためにも、花草を植え過ぎないことを推奨する。\n「種の匣」で採集した種、胞子もしくはサンプルを使って、下記の作物を栽培できる：霓裳花、セシリアの花、琉璃百合、風車アスター、清心、琉璃袋、鳴草、スメールローズ、ルミドゥースベル、レインボーローズ、シャクギク、岩裂の花、フロストランプ。",
+    "Description": "外景の力が凝集された田んぼ、肥沃な土には無限に近い養分が含まれており、種を植えると一定時間後に花草を収穫できる。しかし、ここで栽培可能な植物は根っこが長くよく伸びる。十分な成長空間を保つためにも、花草を植え過ぎないことを推奨する。\n「種の匣」で採集した種、胞子もしくはサンプルを使って、下記の作物を栽培できる：霓裳花、セシリアの花、琉璃百合、風車アスター、清心、琉璃袋、鳴草、スメールローズ、ルミドゥースベル、レインボーローズ、シャクギク、岩裂の花、フロストランプ、ヴィンテル草。",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "栗皮ヤギ・ヒンヤリミント",
     "Description": "ナド・クライに住む羊類で、まるでミントの汁を塗ったような羊角と斑紋を持つ。\n「塵歌壺」での生活を始めた後、栗皮ヤギの毛はますますふわふわになり、換毛期になると、彼らの周りに綿々とした「毛雨」が降る…\n何らかの未知の理由により、一部の動物は壺洞天に来た後も、クーヴァキの影響で形成された独特な外観を保持している。マルが識別しやすいよう、パイモンが心を込めて彼らの外観に基づいて新しい名前を付けてくれた…",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕獲して獲得"
+    ],
+    "Id": 369222,
+    "Name": "ヒカリトゲヤモリ",
+    "Description": "身軽なヤモリ。足裏に吸着力があり、壁を這い上がることができる。\n壺洞天に来てからも、岩壁の裂け目の中で暮らしているが、天敵からの脅威が大幅に減ったため、外に出て活動する時間も長くなった。\n何らかの未知の理由により、一部の動物は壺洞天に来た後も、クーヴァキの影響で形成された独特な外観を保持している…",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕獲して獲得"
+    ],
+    "Id": 369223,
+    "Name": "灰首フラミンゴ",
+    "Description": "優雅に歩く鳥類。灰金色の羽がそのしなやかに伸びる姿を縁取っている。\nその優美な姿から、まるで舞踊のような威嚇動作を楽しむため、わざと怒らせる動物もいるほど。もちろん、そのような行為は現在マルによって厳しく禁止されている。\n何らかの未知の理由により、一部の動物は壺洞天に来た後も、クーヴァキの影響で形成された独特な外観を保持している…",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕獲して獲得"
+    ],
+    "Id": 369224,
+    "Name": "カンムリ鷹",
+    "Description": "鋭い眼光を持つ鷹。その気高い冠羽がさらなる王者の風格を添えている。\nカンムリ鷹は空高く舞うことを得意とし、その逞しい体型と広い翼は急降撃をより致命的なものとしている。彼らに狙われた獲物が生き残ることは稀だ。壺洞天での生活を始めてからは、十分な食料があるため狩りをすることは少なくなったが、美しい冠羽を見せるため、今でも空高く旋回している…\n何らかの未知の理由により、一部の動物は壺洞天に来た後も、クーヴァキの影響で形成された独特な外観を保持している…",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -53556,7 +53694,7 @@
     ],
     "Id": 374634,
     "Name": "パーティースタンド-「止まらないワクワク」",
-    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「リズムビートパーティー」で会場のシンボルとされたダンサーの立看板。「流泉の衆」を代表するダンサー、ムラアニの楽しげに舞う姿を余すところなく再現している。\nスメールのベテランダンサーでさえ、ムラアニの動きを真似て思い切り踊った後には、自分でも驚くほど新しい発想を得て、数多くの楽しいダンスの扉を開くことができる。\nこれまで踊ったことのないステップに挑戦し、見た目は簡単な動きの中から想像もしなかった表現力を引き出す——これこそが、主催者たちが「舞術交流」に熱意を注ぐ理由のひとつである。",
+    "Description": "ナタの「流泉の衆」、「花翼の集」、「こだまの子」、そしてスメールのエルマイト旅団「熾光の猟獣」の支部が共同で開催したダンス交流イベント「リズムビートパーティー」で会場のシンボルとされたダンサーの立看板。「流泉の衆」を代表するダンサー、ムアラニの楽しげに舞う姿を余すところなく再現している。\nスメールのベテランダンサーでさえ、ムラアニの動きを真似て思い切り踊った後には、自分でも驚くほど新しい発想を得て、数多くの楽しいダンスの扉を開くことができる。\nこれまで踊ったことのないステップに挑戦し、見た目は簡単な動きの中から想像もしなかった表現力を引き出す——これこそが、主催者たちが「舞術交流」に熱意を注ぐ理由のひとつである。",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Lipai_01_Vo",
     "Rank": 90100
   },
@@ -54334,6 +54472,931 @@
     "Description": "ヴァレサをモデルに作られた雪だるまは、彼女の象徴的な英雄の仮面を身に着け、優しくも情熱的な姿を見事に再現している。\n世界中のゲストの心を癒すため、「雪玉チャレンジ」の設計者は、このような愛らしい仲間を特別に作り上げた。この雪だるまと一緒なら、凍てつくドラゴンスパインでも、特別な温もりを感じることができるだろう。",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 361344,
+    "Name": "「静夜の密談」",
+    "Description": "ピラミダでよく見かけるテーブル。シンプルで直線的なデザインで、鉄板で作られている。\n静かな夜になると、ライトキーパーたちはこのテーブルを囲んで小声で語り合う。大きな声を出さないのは、きっと周りを彷徨う亡霊たちを驚かさないためなのだろう…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 362277,
+    "Name": "簡易担架-「平穏搬送」",
+    "Description": "シンプルながら高い機能性を備えた担架。二本の棒を支柱とし、その間を丈夫な布地でつないだもので、ライトキーパーがよく使用する医療搬送ツールだ。\n日常生活では、ライトキーパー以外にも、ピラミダの住民たちが、移動が困難な人々を助けるためにこの種の担架を使用している。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 362278,
+    "Name": "「豪快な一杯」",
+    "Description": "ライトキーパーの間でよく使われている金属製の飲み物樽。容量も大きく、お酒を注ぐのに便利だ。\n宴会場には、このような飲み物樽が多く配置されており、誰もが自由に飲めるようになっている。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 362133,
+    "Name": "「友へ」",
+    "Description": "ライトキーパーがよく使う金属製のベンチ。快適な背もたれこそないものの、座面にはクッションが敷かれている。\n戦友と同じ椅子に腰を下ろし、酒宴の喧騒に身を任せていても、時として物思いが心に重くのしかかることがある。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 361412,
+    "Name": "簡易医療ベッド",
+    "Description": "ライトキーパーの間でよく使われる簡易医療ベッド。負傷者の寝たきり生活と治療のニーズに合わせて作られている。\nこの簡易医療ベッドには背もたれの角度を調節できるハンドルが付いていたが、このベッドに横たわる人がつい無意識にハンドルを回して「ギシギシ」という音を立てるため、すぐに取り外されてしまった。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 364226,
+    "Name": "「ピラミダの旗」",
+    "Description": "ピラミダでよく見かける旗。ライトキーパーの灯台の紋章が描かれており、暗闇の中で永遠にランプを掲げ、未来を見守り続けるライトキーパーの意志を表している。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 371014,
+    "Name": "鉄製の調節可能なバリケード",
+    "Description": "鉄製の調節可能なバリケード。ピラミダでよく見かける防衛施設として設置されている。\n大量の攻撃に耐えられる防衛装置だが、欠点も明らかだ——別の場所に移動させようとすると、相当な手間がかかってしまう。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 371015,
+    "Name": "「守護の都の孤独」",
+    "Description": "ピラミダでよく見かける建造物。主に鉄板で作られている。内部は狭いものの、建設コストが低いという利点がある。\n「大勢の人と大きな家で暮らすより、こんな家で一人で過ごす方がいいね！」とかつてこの家に住んでいた男は語った。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 371016,
+    "Name": "「守護の都の庇護」",
+    "Description": "ピラミダでよく見かける建造物。主に鉄板で作られており、特徴的な曲線を描く屋根を持つ建物だ。\n内部空間は広くなく、外観も特別な設計ではないが、構造が頑丈で多くの人々の避難所となり得るという利点がある。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371017,
+    "Name": "「片隅の間」",
+    "Description": "普通のデザインのテント。黄色い天幕が敷かれている。\n材料はシンプルで組み立ても取り外しも簡単なので、屋外イベントを急遽開催する際には、このようなテントがあれば素早く手軽に空間を区切ることができる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 371018,
+    "Name": "「守護の都の加護」",
+    "Description": "ピラミダでよく見かける建造物。天井が高く、医療施設として利用されている。\nピラミダの住民はほとんどが健康体のため、医療所の前はほとんど閑古鳥が鳴く状態だが、季節の変わり目になると、一時的に賑わいを見せる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 371019,
+    "Name": "「守護の都の鍛錬」",
+    "Description": "ピラミダでよく見かける建造物。塔のように非常に高層な建物。鍛冶サービスを提供する場所として使われている。\nピラミダが一番寒い時期でも、この建物の周りはいつも暖かい——ハンマーの下から火花が散り、炉からごうごうと熱気が立ち上る…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "紀行・真珠の歌の購入"
+    ],
+    "Id": 371020,
+    "Name": "「剣を携えて」",
+    "Description": "歴史上のある著名人物をモデルに造られた大型の彫像。剣を携え前進する毅然とした姿勢をしており、この彫像の前に立ち止まって眺める者でさえ、その決意と力強さが伝わってくる。\n「ライトキーパー」軍団の初代マスター・ライトキーパーとして、長き夜の中を歩み続け、人々のために一筋の希望の光を守り抜いたと伝えられている。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 371021,
+    "Name": "光の灯台-「吹き晴らす太陽」",
+    "Description": "「ライトキーパー」の大きな灯台をモチーフに作られた模型。静かに佇み、安定感と信頼感を漂わせている。\n「黒雲が散り、太陽の光が雲を突き抜けるようになったら、もう魔物が暗闇に紛れて出てこなくなるでしょう」とイルーガ隊長は語った。その日が来てこそ、全てのライトキーパーたちは手にした武器を置き、灯台から出て、暖かな陽光に満ちた休暇を楽しめるのかもしれない。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 374332,
+    "Name": "「和やかな温もり」",
+    "Description": "広々とした食卓。金属で作られた本体部分に中空設計が施されており、食卓の下にも小さなかまどを配置できるスペースがあり、食事の温かさを保つことができる。\n宴を楽しみ、心ゆくまで飲み交わす。これはきっと、この食卓に座る人々の共通の思いなのだろう。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 374333,
+    "Name": "作戦立体模型-「予行演習」",
+    "Description": "大団長ファルカの立体模型をモデルとして作られた模型。シンプルながら実用的。\n「俺たちが躊躇している間にも、アビスは無数の命を奪っている。一刻も早く遠征に出れば、それだけ早く連中の運命を変えることができる」——情報は行軍の基礎だ。立体模型で起こりうる状況を事前に演習できれば、進軍や戦闘による被害を大幅に減らすことができるだろう…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 374642,
+    "Name": "「揺るがぬ指揮」",
+    "Description": "ピラミダでよく見かける作戦ボード。様々な地域のマップが貼られており、皆で交流する際の参考として使われている。\n極めて素朴なツールではあるが、思考を整理し、全体を見渡す必要がある時に、重要な役割を果たす。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 374643,
+    "Name": "簡易武器掛け-「取り出し容易」",
+    "Description": "シンプルなデザインの武器掛け。武器と盾を配置できるスペースがある。\n収納時に武器のカテゴリー分けに気を配っておけば、緊急出撃の際にも素早く装備を取り出すことができる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 374644,
+    "Name": "「ピカピカ移動ハウス」",
+    "Description": "独特な形状で移動に便利な月車。クーヴァキを燃料として駆動し、ライトキーパーがスネージナヤの機関車を改造して作り上げた輸送手段。\n夜になると、ライトキーパーたちはこれを移動式の灯台として使用することが多く——便利で、十分な明るさを放つ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「集いの場」の建設Lv.報酬"
+    ],
+    "Id": 374645,
+    "Name": "魔女の彫像-「永遠に止まる瞬間」",
+    "Description": "天の使いを原型として作られた模型。天の使いが溢れる生命力を見せた瞬間を切り取ったかのよう。\n「運命は予測できないものなのよ。それでもやはり、あたしが見届けた人たちには、いい結末を迎えてほしい。物語の中のキャラクターたちであってもね」未来の一瞬一瞬は誰にも確かめられない。だからこそ、この瞬間を切り取ることは、多くの人にとって大切な学びとなるのだ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374819,
+    "Name": "「吉兆の宝樹」",
+    "Description": "金色に輝くたくさんの吉語銭が飾られた景観盆栽。「財宝招来、金玉満堂」という縁起物として、璃月の人々に深く愛されている。\n「ああ！庭に宝樹を飾り尽くせば、来年は…」と、「宝樹」の設置に熱心な愛好家たちはそう語った。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374820,
+    "Name": "大詹灯-「道を遮る厄介者」",
+    "Description": "深い色の詹諸をモデルに作られた大詹灯。独特な形をしており、「詹諸呑月」の話を聞いた子供たちが思わず歯ぎしりしてしまうようなキャラクター。\nこの「道を遮る厄介者」は手ごわい相手だから、道を遮られた時は迂回するのがおすすめ…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 374821,
+    "Name": "大詹灯-「道を塞ぐ大将」",
+    "Description": "玉を抱えている赤い詹諸をモデルに作られた大詹灯。独特な形をしており、「詹諸呑月」の話を聞いた子供たちが思わず歯ぎしりしてしまうようなキャラクター。\nこの「道を塞ぐ大将」は臆病者を見抜いてしまうから、道を塞がれても決して引き下がってはいけない…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 374647,
+    "Name": "「生気のきらめき」",
+    "Description": "用途の分からない培養容器。パイプで繋がれた三つの透明な容器。\n最も大きな容器の中では蛍光が明滅し、漂っている。まるで生命力そのもののように、軽やかで美しい。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 373223,
+    "Name": "「緑流るる繁茂」",
+    "Description": "放棄された研究所でよく見かける大型盆栽。そこで育つ植物は生気に満ち溢れ、見ただけで思わず心が晴れやかになってしまうほどだ。\n不思議なことに、いつ見かけてもいつも緑が生い茂っている様子。知らない人たちの中には、何か特別な薬で水やりをしているのではないかと推測する者もいる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 373224,
+    "Name": "「緑流るる青翠」",
+    "Description": "放棄された研究所でよく見かける小型盆栽。そこで育つ植物は生気に満ち溢れ、見ただけで思わず心が晴れやかになってしまうほどだ。\n不思議なことに、いつ見かけてもいつも緑が生い茂っている様子。知らない人たちの中には、何か特別な薬で水やりをしているのではないかと推測する者もいる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360469,
+    "Name": "軽量型金属ランプ",
+    "Description": "ピラミダで一般的な軽量型金属ランプ。明るさは控えめだが、持ち運びやすいのが特徴。\n子供たちは天幕が真っ暗になるまで遊んでいると、このランプを手に持って連れ立って帰る姿は、まるで地上に散りばめられた星々のようだ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ナド・クライ地域の珍奇な宝箱報酬"
+    ],
+    "Id": 360470,
+    "Name": "スタンド式街灯-「省エネ設計」",
+    "Description": "ピラミダでよく見かけるスタンド式街灯。整然とした形状で明るい光を放つ。\nピラミダの特殊な鍛造技術で作られた材料を使用しているため、雨水による腐食に強い特徴がある——「省エネで、低コスト」というこの特徴は、住民たちの生活理念とも一致している。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360471,
+    "Name": "明彩霄灯-「良き願い、彼方へ」",
+    "Description": "鮮やかな色彩と温かな光を放つ霄灯。シンプルな材料で手軽に作ることができる。\n大切な願いと想いを乗せて、夜空を遠くまで漂っていく。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360472,
+    "Name": "明彩霄灯-「友と交わす約束」",
+    "Description": "鮮やかな色彩と温かな光を放つ霄灯。より遠くまで飛ばせるよう、より精巧な設計がなされている。\n伝え聞くところによると、たとえ千里の距離があっても、霄灯に託した想いは相手の心まで届くのだとか。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360473,
+    "Name": "明彩霄灯-「妙音奏でる吉祥」",
+    "Description": "独特なデザインで、辛炎によって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「とびっきり最高のロックを聴かせてやる！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360474,
+    "Name": "明彩霄灯-「新春がもたらす吉兆」",
+    "Description": "独特なデザインで、嘉明によって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「万事順調で、心身健康を祈るぜ」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360475,
+    "Name": "明彩霄灯-「春を迎える瑞燕」",
+    "Description": "独特なデザインで、藍硯によって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「安全で、楽しく過ごせるように祈ってるよッ！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360476,
+    "Name": "明彩霄灯-「そよ風運ぶ香り」",
+    "Description": "独特なデザインで、エミリエによって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「皆さんが香りを愉しむ穏やかな余暇を得られますように」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360477,
+    "Name": "明彩霄灯-「連綿と続く幸運」",
+    "Description": "独特なデザインで、レイラによって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「教令院の学生たち全員の論文が無事に合格できますように…」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360478,
+    "Name": "明彩霄灯-「成就される願い」",
+    "Description": "独特なデザインで、魈によって作られた霄灯。見る人に温かさと安らぎ、そして幸せを感じさせてくれる。\n「諸事平安」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 360479,
+    "Name": "「白駒の隙を駆ける」",
+    "Description": "月を守る仙人をモチーフに作られた特大の霄灯。純白の馬が山の隙間から飛び越える姿を象っており、綿雲が寄り添い、色鮮やかな夕焼け雲が連なっている。今では、皆が霄灯に願いを書き記すようになった。そうすれば、あの白馬の仙人が玉で造られた立派な車に乗って月から降り立ち、人々の願いを叶えてくれるかもしれない。",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

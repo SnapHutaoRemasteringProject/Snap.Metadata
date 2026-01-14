@@ -1761,6 +1761,39 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Columbina",
+    "Description": "Material zum Aktivieren von Columbinas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Zibai",
+    "Description": "Material zum Aktivieren von Zibais Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Illuga",
+    "Description": "Material zum Aktivieren von Illugas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2955,6 +2988,39 @@
     "ItemType": 2,
     "Name": "Stella Fortuna von Jahoda",
     "Description": "Material zum Aktivieren von Jahodas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Columbina",
+    "Description": "Material zum Aktivieren von Columbinas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Zibai",
+    "Description": "Material zum Aktivieren von Zibais Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Illuga",
+    "Description": "Material zum Aktivieren von Illugas Sternbild",
     "TypeDescription": "Zur Aktivierung von Sternbildern",
     "Icon": "UI_ItemIcon_1103"
   },
@@ -4726,6 +4792,28 @@
     "Description": "Diese Frucht wächst in den wärmeren Regionen von Nod-Krai und erfreut sich großer Beliebtheit, sowohl bei überwinternden Tieren als auch bei naschhaften Kindern.\nIn einer Legende der Nachkommen des Frostmonds gelten die Mittsommerbeeren als Sinnbild für „Leben“ und „Fülle“, denn nur im Frühling und Sommer tragen sie Blüten und gedeihen.\nEine Legende erzählt vom „König der Winterstechpalmen“ und dem „König der Sommereichen“, zwei Zwillingsherrschern, die sich im ewigen Zyklus töten und aus dem Totenreich zurückkehren, um über ihre Zeit zu herrschen, bis ans Ende der Welt. Die Gelehrten von Snezhnaya glauben, es handle sich dabei um ein primitives Bild für den Wechsel der Jahreszeiten, oder zumindest reden sie sich dies ein.",
     "TypeDescription": "Zutat",
     "Icon": "UI_ItemIcon_101265"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101268,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Winterweidenkraut",
+    "Description": "Eine robuste Pflanze, die dafür bekannt ist, unerbittlichem Wind und Frost zu widerstehen und selbst in den kältesten Tiefen des Winters zu überleben.",
+    "TypeDescription": "Regionale Besonderheit aus Nod-Krai",
+    "Icon": "UI_ItemIcon_101266"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101269,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Bernharzkraut",
+    "Description": "Ein Edelstein, der aus dem Harz der hoch aufragenden alten Bäume entstanden ist, die einst Nod-Krai bedeckten. Im Laufe der Jahrhunderte verhärtete sich das Harz zu kristallinem Bernstein, der nun in lebendigen, strahlenden Farben leuchtet.",
+    "TypeDescription": "Regionale Besonderheit aus Nod-Krai",
+    "Icon": "UI_ItemIcon_101269"
   },
   {
     "Rank": 330,
@@ -19696,6 +19784,39 @@
     "Icon": "UI_ItemIcon_121285"
   },
   {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121450,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gravurstein des Schillernden Mondes",
+    "Description": "Sammle 3 Gravursteine, um die Schatzkammer auf dem Leeremeer-Ausblick zu öffnen.\n\nEin rundes Symbol, das während der Erkundung zu finden ist. Bei der Kombination von 3 mit identischem Muster scheint daraus das Abbild des einst die Welt erleuchtenden Mondes zu entstehen.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_121450"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121451,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gravurstein des Schillernden Mondes",
+    "Description": "Sammle 3 Gravursteine, um die Schatzkammer auf der Wellenjäger-Ebene zu öffnen.\n\nEin rundes Symbol, das während der Erkundung zu finden ist. Bei der Kombination von 3 mit identischem Muster scheint daraus das Abbild des einst die Welt erleuchtenden Mondes zu entstehen.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_121451"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121452,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gravurstein des Schillernden Mondes",
+    "Description": "Sammle 3 Gravursteine, um die Schatzkammer auf dem Ascheschleier-Gipfel zu öffnen.\n\nEin rundes Symbol, das während der Erkundung zu finden ist. Bei der Kombination von 3 mit identischem Muster scheint daraus das Abbild des einst die Welt erleuchtenden Mondes zu entstehen.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_121452"
+  },
+  {
     "Rank": 406,
     "MaterialType": 5,
     "Id": 106000,
@@ -30993,6 +31114,294 @@
     "Icon": "UI_ItemIcon_108856"
   },
   {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 30{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 510 LP wieder her.",
+    "Id": 108931,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Misslungenes Schneevergnügen",
+    "Description": "Eine aus Reis hergestellte Süßspeise aus Liyue. Ihr Geschmack ist mild und gewöhnlich, so unauffällig, dass man sie nach dem letzten Bissen fast sofort wieder vergessen hat.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 32{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 730 LP wieder her.",
+    "Id": 108932,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Schneevergnügen",
+    "Description": "Eine aus Reis hergestellte Süßspeise aus Liyue. Erst zemalmt man die Körner zu einem Pulver, mischt sie mit Zucker und Wasser, presst sie in Formen und dämpft sie anschließend zu schneeweißen Küchlein mit der Aussicht auf eine reiche und ergiebige Ernte.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 35{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 930 LP wieder her.",
+    "Id": 108933,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Leckeres Schneevergnügen",
+    "Description": "Eine aus Reis hergestellte Süßspeise aus Liyue. Rein und weiß wie frischer Schnee, schmilzt es auf der Zunge nur so dahin und hinterlässt einen reinen, zarten Geschmack, der wie ein sanftes Echo nachhallt.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die VTD aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 165 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108934,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungene Knusper-Frühlingsrollen",
+    "Description": "Eine frittierte Köstlichkeit aus Liyue. Eigentlich sollte die Kruste ja knusprig sein, ist aber irgendwie weich und matschig; komisch ... Moment mal, könnte das vielleicht am Backpapier liegen, in das das Essen eingewickelt war ...?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die VTD aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 200 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108935,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Knusper-Frühlingsrollen",
+    "Description": "Eine frittierte Köstlichkeit aus Liyue. Geschnetzeltes Fleisch und Gemüse werden in einen dünnen Pfannkuchen gewickelt, zu einer Rolle geformt und dann goldbraun frittiert. Außen knusprig, innen reichhaltig, ein Leckerbissen, der sich bei Jung und Alt größter Beliebtheit erfreut.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die VTD aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 235 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108936,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckere Knusper-Frühlingsrollen",
+    "Description": "Eine frittierte Köstlichkeit aus Liyue. Mit einem frischen Knacken spritzt die saftige Füllung beim Reinbeißen heraus. Unter der goldbraunen, blättrigen Hülle verbergen sich nicht nur Schichten voll des Geschmacks, sondern auch der lebendige, geschäftige Geist von Liyue selbst.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die max. LP aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108937,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungene Fruchtige Kräuterbonbons",
+    "Description": "Eine Süßigkeit aus Nod-Krai. Salzig und herb, wie man es von einer Süßigkeit nicht erwarten würde, ist der Geschmack so intensiv, dass jeder, der etwas Süßes erwartet, vor Schreck und Entsetzen aufschreien würde.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die max. LP aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 22{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108938,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fruchtige Kräuterbonbons",
+    "Description": "Eine Süßigkeit aus Nod-Krai, die aus lokalen Blumen, Kräutern und Beeren hergestellt wird. Ihre leuchtenden Farben bringen einen kleinen, aber willkommenen Hauch von Süße in die weiten, gefrorenen Ebenen.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die max. LP aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 25{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckere Fruchtige Kräuterbonbons",
+    "Description": "Eine Süßigkeit aus Nod-Krai. Sobald diese durchsichtige Köstlichkeit deine Zunge berührt, erfüllen Wellen von blumigem Duft und süß-säuerlichen Beeren deine Sinne; frisch und herrlich süß.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 30{NON_BREAK_SPACE}% LP sowie zusätzlich 600 LP wieder her.",
+    "Id": 108940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungene Gemüse-Topfsuppe",
+    "Description": "Eine Suppe aus Eine Suppe, die durch das langsame Kochen verschiedener geschnittener Gemüsesorten mit leichter Würzung zubereitet wird. Durch das lange Kochen sind die Gemüsestücke weich und matschig geworden, mit einer etwas breiigen Konsistenz. Nicht gerade appetitlich, aber wenigstens macht sie satt.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 32{NON_BREAK_SPACE}% LP sowie zusätzlich 1.250 LP wieder her.",
+    "Id": 108941,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gemüse-Topfsuppe",
+    "Description": "Eine Suppe, die durch das Köcheln verschiedener geschnittener Gemüsesorten mit leichter Würze zubereitet wird; mild, aromatisch und sehr gesund.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 34{NON_BREAK_SPACE}% LP sowie zusätzlich 1.900 LP wieder her.",
+    "Id": 108942,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckere Gemüse-Topfsuppe",
+    "Description": "Eine Suppe, die durch langsames Köcheln verschiedener geschnittener Gemüsesorten mit leichter Würzung zubereitet wird. Mit einfachen, minimalistischen Techniken gekocht, bringt sie die reinste Essenz des Gemüses zur Geltung. Schon ein einziger Schluck reicht aus, um eine wohltuende Wärme vom Magen aus über den ganzen Körper zu verbreiten.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die KT aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 10{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108943,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungene Freude am Lagerfeuer",
+    "Description": "Eine großzügige Auswahl an herzhaften Fleischstücken. Das dichte Fett, bitter und salzig, trifft den Gaumen wie ein außer Kontrolle geratener Waggon und hinterlässt einen lang anhaltenden, öligen Geschmack im Hals ... ein heftiger Angriff, dem nur wenige standhalten können.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die KT aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 15{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108944,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Freude am Lagerfeuer",
+    "Description": "Eine reichhaltige Auswahl herzhafter Fleischstücke, bestehend aus geräuchertem Fleisch aus Snezhnayan sowie Schinken und Wurst aus Nod-Krai. Viele der älteren Einwohner aus Nod-Krai lassen sich diese Köstlichkeit gerne am Kaminfeuer bei einem guten Tropfen schmecken.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die KT aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108945,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckere Freude am Lagerfeuer",
+    "Description": "Eine großzügige Auswahl an herzhaften Fleischstücken. Die dick geschnittenen rohen Fleischstücke duften leicht nach Kiefer und Salz, die Würste verströmen einen intensiven Rauchgeruch und die Schinkenscheiben sorgen für eine reichhaltige, herzhafte Note. Kräftig und herzhaft, ein Festmahl, auf das sich jeder Einwohner aus Nod-Krai sofort stürzen würde.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 900 LP wieder her.",
+    "Id": 108946,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungene Fungus-Fantasie",
+    "Description": "Ein Brot mit einer Füllung aus sautiertem Gemüse. Nachdem man sich durch die verkohlte Kruste gekämpft hat, gelangt man endlich zum Geschmack, nur um von einem schlammigen, erdigen Aroma überwältigt zu werden. Nach ein paar Bissen beginnt sich einem der Kopf zu drehen ... Ob es sich um eine neue Art giftiger Pilze handelt?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 1.200 LP wieder her.",
+    "Id": 108947,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungus-Fantasie",
+    "Description": "Ein Brot, das mit gedünstetem Gemüse gefüllt ist. Die gekochte Mischung wird in Roggenteig eingewickelt, gehen gelassen und anschließend gebacken. Es sieht einem echten Pilz so ähnlich, dass man es ohne die flachen Einschnitte auf seiner „Kappe“ fast für einen echten halten könnte.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 1.500 LP wieder her.",
+    "Id": 108948,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckere Fungus-Fantasie",
+    "Description": "Ein Brot mit einer Füllung aus sautiertem Gemüse. Seine grobe, feste Kruste wirkt wie eine solide Wand, die den aromatischen Saft der zarten Pilzfüllung einschließt und einen rustikalen und dennoch vollmundigen Geschmack erzeugt, der sich im Mund entfaltet.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Erhöht die VTD aller Truppenmitglieder 300{NON_BREAK_SPACE}s lang um 282 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108949,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Geschmack des Frühlings",
+    "Description": "Zibais Spezialzubereitung. Seine Farbe schimmert wie goldener Bernstein und erinnert frappierend an ihre Augen. Das Aroma ist so vertraut wie eine einfache Frühlingsrolle, doch jeder knusprige Bissen offenbart eine unerwartete Widerstandsfähigkeit ... Könnte dies ein Geheimrezept aus dem alten Lang-Gan sein?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108862"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "Erhöht die max. LP aller Truppenmitglieder 300 s lang um 30 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108950,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Illusion im Mondlicht",
+    "Description": "Columbinas Spezialzubereitung. Diese durchscheinende Süßigkeit wirkt wie Tautropfen, die sich im Mondlicht gesammelt haben. Ihre zarte Süße scheint unerreichbar und lockt dich in einen wunderschönen, flüchtigen Traum. Du kannst nicht anders, als dich über die Kunstfertigkeit und Sorgfalt zu wundern, mit der sie hergestellt wurde ...",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108863"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur 40{NON_BREAK_SPACE}% LP sowie zusätzlich 2.350 LP wieder her.",
+    "Id": 108951,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nachtwächtersuppe",
+    "Description": "Illugas Spezialzubereitung. Eine Schüssel mit dampfend-heißer Suppe. Nur ein Schluck nach der Rückkehr von der Nachtpatrouille, kann Müdigkeit vertreiben und angespannte Nerven beruhigen. Eine solche Wirkung ist wahrscheinlich das Ergebnis der jahrelangen Erfahrung des jungen Truppenführers, die er in seinem eigenen einzigartigen Rezept perfektioniert hat.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108864"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Sieht toll aus und schmeckt auch noch besser; hat allerdings leider keine wirkliche Wirkung.",
+    "Id": 108952,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Zuckerfigur – Columbina",
+    "Description": "Eine von einer echten Person inspirierte Zuckerfigur. Ihre leichten, flatternden Haarschmuckstücke erinnern an Columbina, die Mondjungfrau, deren bloße Anwesenheit so luftig wirkt wie ein sanftes Lied.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108865"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Sieht toll aus und schmeckt auch noch besser; hat allerdings leider keine wirkliche Wirkung.",
+    "Id": 108953,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Zuckerfigur – Illuga",
+    "Description": "Eine von einer echten Person inspirierte Zuckerfigur. Der treue Botenvogel erinnert an Illuga, den jungen Truppenführer des „Albtraum-Pirols“.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108866"
+  },
+  {
+    "Rank": 120199,
+    "MaterialType": 1,
+    "EffectDescription": "Am besten nicht essen!",
+    "Id": 108954,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Verkohlte Fungus-Fantasie",
+    "Description": "Ein Brot mit einer Füllung aus sautiertem Gemüse. Willkürlich über einem kaum kontrollierten Feuer gegart, entsteht ein pechschwarzer Holzkohlepilz. Allein sein Anblick schüchtert ein, ganz zu schweigen von dem Risiko, das schon ein einziger Bissen birgt ...",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108867"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33820,6 +34229,72 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109642,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rezept: Schneevergnügen",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Schneevergnügen“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Knusper-Frühlingsrollen",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Knusper-Frühlingsrollen“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Fruchtige Kräuterbonbons",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Fruchtige Kräuterbonbons“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109645,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Gemüse-Topfsuppe",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Gemüse-Topfsuppe“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109646,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Freude am Lagerfeuer",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Freude am Lagerfeuer“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Fungus-Fantasie",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Fungus-Fantasie“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -35827,6 +36302,39 @@
     "Icon": "UI_ItemIcon_112136"
   },
   {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112137,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Gebrochenes Auge der tiefen Schatten",
+    "Description": "Die Überreste eines Anglers aus einer anderen Welt, zurückgelassen, nachdem sich sein Körper aufgelöst hatte.\nSobald seine Hülle zerbrach, verschwand auch die darin enthaltene Boshaftigkeit.",
+    "TypeDescription": "Material zur Verbesserung von Figuren und Waffen",
+    "Icon": "UI_ItemIcon_112137"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112138,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Aberranter Kern der tiefen Schatten",
+    "Description": "Die Überreste eines Anglers aus einer anderen Welt, zurückgelassen, nachdem sich sein Körper aufgelöst hatte.\nEin Kern, dessen Funktionen vollständig zum Erliegen gekommen sind und dessen Struktur keinem Organ eines Lebewesens auf dieser Welt ähnelt.",
+    "TypeDescription": "Material zur Verbesserung von Figuren und Waffen",
+    "Icon": "UI_ItemIcon_112138"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112139,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Schnabel der tiefen Schatten",
+    "Description": "Die Überreste eines Anglers aus einer anderen Welt, zurückgelassen, nachdem sich sein Körper aufgelöst hatte.\nEin vogelähnlicher, hakenförmiger Schnabel, den Raubtiere aus einer anderen Welt verwenden, um die von ihnen erbeutete Biomasse zu lagern.",
+    "TypeDescription": "Material zur Verbesserung von Figuren und Waffen",
+    "Icon": "UI_ItemIcon_112139"
+  },
+  {
     "Rank": 11101,
     "MaterialType": 14,
     "Id": 113001,
@@ -36705,6 +37213,50 @@
     "Description": "Ein Kuuvahki-Apparat, gewonnen aus dem Energiekern des „Superschweren Landkreuzers – Mobile Kampffestung“, nachdem er besiegt wurde.\nDas Forschungsinstitut für kinetische Energie Fontaine hat einst mehrere ideale Zyklusmodelle für elementare Arbeitsstoffe definiert. Ganz gleich, um welche Form es sich handelt: Die perfekte Zyklenzahl ist stets vier. Obwohl die Ingenieure des Büros für Heeresgerät und des Versuchs- und Konstruktionsbüros der Insel Paha dazu neigen, Kuuvahki als einen von der Elementarkraft verschiedenen Arbeitsstoff zu betrachten, hat sich jede Konstruktion jenseits des Vier-Zyklus-Designs als ineffizient und unpraktisch erwiesen. In gewisser Weise könnte man sagen, dass die Welt selbst eine seltsame Vorliebe für die Zahl „vier“ hat ... oder vielleicht hat die Welt gar keine Vorlieben, und es sind nur die klugen, selbstgefälligen Sterblichen, die sich solche Neigungen einbilden.",
     "TypeDescription": "Material zur Verbesserung von Figuren",
     "Icon": "UI_ItemIcon_113080"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113081,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Maske des tugendhaften Arztes",
+    "Description": "Eine Maske, die nach dem Sieg über die falsche Gottheit, die sich den Mond angemaßt hatte, auf dem Prüfgelände der Ketzer gefunden wurde.\nMedizin soll eigentlich die Leiden des Fleisches heilen, doch sterbliche Ärzte verschließen ihre Augen vor den wahren Ursachen des Todes. In den Händen eines weisen Heilers entkommt der gebrechliche menschliche Körper den Fesseln von Geburt, Alterung, Krankheit und Tod und enthüllt eine Kraft, die sich dem gesunden Menschenverstand entzieht.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113081"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113082,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Fesseln des Verrückten",
+    "Description": "Ein Band, das nach dem Sieg über die falsche Gottheit, die sich den Mond angemaßt hatte, auf dem Prüfgelände der Ketzer gefunden wurde.\nDie Menschheit definiert Zivilisation als die Vertreibung des Wahnsinns. Doch zu glauben, dass alle Dinge, ob sie nun existieren oder nicht, mit Vernunft erfasst werden können, könnte selbst eine andere Form des Wahnsinns sein. Der Wahnsinnige durchschaut die List der Vernunft, denn in seiner Welt ist alles erlaubt.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113082"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113083,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Elixier des Ketzers",
+    "Description": "Ein Band, das nach dem Sieg über die falsche Gottheit, die sich den Mond angemaßt hatte, auf dem Prüfgelände der Ketzer gefunden wurde.\nSeit Jahrhunderten kriechen die selbsternannten Gelehrten unter der Last der sechs Kardinalsverbote dahin, wobei ihre Studien kaum mehr als Zirkelschlüsse und leere Worte sind. Das Streben nach Wahrheit sollte keine Grenzen kennen; gemessen daran sind diejenigen, die von der Welt als Ketzer verurteilt werden, die wahrhaftigsten Wissenssuchenden.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Überreste der Schreckensflügel",
+    "Description": "Ein tiefschwarzes Knochenrelikt, das aus der verweilenden Verderbnis gewonnen wurde, die nach dem Sieg über den Flüsterer der Albträume zurückblieb, der aus einer anderen Welt eingedrungen war.\nDas formlose Ungeheuer, das durch die sternenlose Leere schwebte, hätte niemals etwas benötigt, die unsereins „Flügel“ nennt. Die grotesken, profanen Anhängsel könnten entstanden sein, um sich an die Gesetze unter dem Mond anzupassen, oder vielleicht sind sie nur ein verzerrtes Fragment seiner wahren Gestalt, das sterbliche Augen wahrnehmen können.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -38067,6 +38619,28 @@
     "ItemType": 2,
     "Name": "Rätselhafte Artefaktkiste – Rang 1",
     "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker Wunder erleben.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· Nacht der himmlischen Enthüllung\n· Serenade des seidenen Mondes",
+    "TypeDescription": "Artefaktkiste",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117026,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rätselhafte Artefaktkiste – Rang 2",
+    "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker gesegnet sein.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· „Gesang von Stern und Mond“\n· „Tag des aufkommenden Windes“\n· „Berserker“\n· „Ausbilder“\n· „Verbannter“",
+    "TypeDescription": "Artefaktkiste",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117027,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Rätselhafte Artefaktkiste – Rang 1",
+    "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker Wunder erleben.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· „Gesang von Stern und Mond“\n· „Tag des aufkommenden Windes“",
     "TypeDescription": "Artefaktkiste",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -44474,6 +45048,17 @@
     "Icon": "UI_ItemIcon_129002"
   },
   {
+    "Rank": 0,
+    "MaterialType": 2,
+    "Id": 129003,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Mondgebetsblüte von Columbina",
+    "Description": "Eine dir von Columbina gereichte Mondgebetsblüte, die einen reinen und ätherischen Duft verströmt, ähnlich dem, den du einst im Silbermondhof wahrgenommen hast.\nSie weckt Erinnerungen an eine längst erzählte Geschichte und läutet den Beginn eines neuen Kapitels ein. Diese Mal wird sie ihre Farben nie wieder verlieren.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_129003"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 120753,
@@ -48700,6 +49285,17 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121316,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Scherz des Erinnerungsgraveurs",
+    "Description": "Eine mit Rost befleckte künstliche Blume. Von ihr heißt es, sie sei ein Andenken an Reed Miller, seines Zeichens Gründer der Schatzräuber.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121319"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121317,
     "RankLevel": 0,
     "ItemType": 2,
@@ -48707,6 +49303,17 @@
     "Description": "Eine Feder so schwarz wie die Nacht. Hierbei soll es sich um ein Andenken von Reed Miller, dem Gründer der Schatzräuber, handeln.",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_121317"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121318,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Trauer des Ergebenheitsvertrauten",
+    "Description": "Eine Uhr, die schon vor Ewigkeiten stehen geblieben ist. Von ihr heißt es, sie sei ein Andenken an Reed Miller, seines Zeichens Gründer der Schatzräuber.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121320"
   },
   {
     "Rank": 10,
@@ -48773,6 +49380,17 @@
     "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121326,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Ersatzhandkurbel des Schutzraums",
+    "Description": "Eine Ersatzhandkurbel, die zur Wartung des „Apokalypsereinigungssystems“ verwendet wird. Sie weist keine Anzeichen von Rost auf, doch aus irgendeinem Grund haftet ihr noch immer ein schwacher, anhaltender Geruch von Eisen an.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121326"
   },
   {
     "Rank": 10,
@@ -49008,6 +49626,39 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121354,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe I",
+    "Description": "(Test) ID für Lesematerial",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121355,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe II",
+    "Description": "(Test) ID für Lesematerial",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121356,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe III",
+    "Description": "(Test) ID für Lesematerial",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121357,
     "RankLevel": 1,
     "ItemType": 2,
@@ -49229,6 +49880,61 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121378,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Goldener Schlüssel",
+    "Description": "Ein glänzender goldener Schlüssel, der schon für sich selbst ein Vermögen wert ist.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121378"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121379,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silberner Schlüssel",
+    "Description": "Ein silbern glänzender Schlüssel. Vielleicht nicht ganz so wertvoll wie sein goldenes Pendant, aber trotzdem alles andere als gewöhnlich.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121379"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121380,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Eisenschlüssel",
+    "Description": "Ein stinknormaler Schlüssel aus Eisen. Unter all den Schlüsseln, die es so gibt, ist dies der gewöhnlichste und am häufigsten anzutreffende.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121380"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121381,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Eisenschlüssel",
+    "Description": "Ein stinknormaler Schlüssel aus Eisen. Unter all den Schlüsseln, die es so gibt, ist dies der gewöhnlichste und am häufigsten anzutreffende.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121381"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121382,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Seltsame Eisenmünze",
+    "Description": "Eine Münze, die einer gewöhnlichen Eisenmünze ähnelt, obwohl es sich möglicherweise um eine andere Variante handeln könnte.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121382"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121383,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49392,6 +50098,39 @@
     "Icon": "UI_ItemIcon_71700047"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121403,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Alter Kiefernzapfen",
+    "Description": "Ein alter Samen, längst nicht mehr frisch. Selbst in verzweifelten Zeiten wäre es vielleicht nicht die beste Idee, ihn zu essen.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100020"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121404,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Alter Roggen",
+    "Description": "Graubraunes Korn mit einem dezenten Hauch von Schimmel ...",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121405,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mysteriöses Fleisch",
+    "Description": "Frisches Fleisch, von dem ein mysteriöser Geruch ausgeht. Wie es wohl schmecken wird?",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100061"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121406,
@@ -49423,6 +50162,28 @@
     "Description": "Ein Teil der Finanzmittel des „Kuratoriums der Geheimnisse“, aus einer Kiste entnommen. Geld ist schwer zu bekommen, also bitte mit Bedacht ausgeben.",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121409,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fotoapparat „Momentaufnahme“",
+    "Description": "Ein speziell angefertigter „Fotoapparat“, ausgestattet mit dem neuesten „Momentaufnahme“-Objektiv von Lepine-Pauline.\nSein komplexes Innenleben ist in der Lage, das Flattern eines Vogelflügels oder den Blitz eines Schwertschlags innerhalb eines Augenblicks festzuhalten. Er fängt selbst die schnellsten Bewegungen ein und bewahrt die wertvollsten Momente, darunter auch jeden strahlenden Augenblick, der es wert ist, in Erinnerung zu bleiben, wenn du dich mit deinen Freunden triffst.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_220094"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121410,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Die „glänzendste und funkelndste“ Beryllmuschel",
+    "Description": "Die glänzendsten und funkelndsten Beryllmuscheln, die du Puca zu finden versprochen hast.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_101232"
   },
   {
     "Rank": 10,
@@ -49535,6 +50296,28 @@
     "Icon": "UI_ItemIcon_121426"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121439,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Wunsch",
+    "Description": "In den Erzählungen der Geschichtenerzähler vertrauten die Menschen ihre Wünsche den Laternen an, bevor sie diese in den Himmel entließen. Doch es gab eine Zeit, in der böse Mächte danach strebten, diese Wünsche zu verschlingen. Dank des Eingreifens einer Adeptin wurde allerdings ihr Aufstieg geschützt ...",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121439"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121440,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Mondlicht",
+    "Description": "In den Erzählungen der Geschichtenerzähler gab es einst mächtige Dämonen, die in der Lage waren, das Mondlicht zu verschlingen. Und immer wieder trat eine Adeptin hervor, um das von ihnen verschlungene Licht zurückzugewinnen ...",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121440"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121441,
@@ -49544,6 +50327,226 @@
     "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121454,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Die Adeptin des weißen Pferdes trifft die Adeptin des weißen Pferdes in Liyue“",
+    "Description": "Ein Foto, das von Paimon betitelt wurde. Es hält den Moment des gemeinsamen Lachens dreier Freunde fest.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121454"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121455,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Ein altes Gedicht",
+    "Description": "Ein altes Gedicht",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100214"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121456,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Marionettes“ Notizbuch",
+    "Description": "Eine Hinterlassenschaft von Sandrone, das dir von Arlecchino übergeben wurde. Seine Seiten enthalten zahlreiche Aufzeichnungen über Sandrone.\nObwohl der Einband und die Seiten nicht vom Zahn der Zeit verschont geblieben sind, lässt sich doch unschwer erkennen, wie sehr sein einstiger Besitzer dieses Buch geschätzt hat.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_120275"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121458,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Besondere Zuckerfiguren-Schachtel",
+    "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121459,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Besondere Zuckerfiguren-Schachtel",
+    "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 25029,
+    "MaterialType": 78,
+    "Id": 121462,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Etwas, das seine Kraft verloren hat",
+    "Description": "Ein Kuriosum, dessen Kraft längst verblasst ist. Aus feiner Jade und Bronze gefertigt, wartet es nun still und leise auf den Moment, in dem es wieder erstrahlen könnte.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_121462"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121463,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Frischer Roggen",
+    "Description": "Das frisch geerntete Getreide verströmt einen warmen, beruhigenden Duft. Erst nach dem Mahlen und Backen entfaltet es sein reichhaltiges, vollmundiges Aroma.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121465,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "„Die erste Eisenmünze“",
+    "Description": "Eine alte, abgenutzte Eisenmünze, auf der ein stilisiertes Wappen eines Raben prangt. Der Legende nach wurde sie von Reed Miller, dem Gründer der Schatzräuber, geprägt und gilt als die allererste echte „Eisenmünze“.\nIn einer Welt frei von Grenzen, in einem Paradies, in dem niemand Hunger oder Kälte leidet, war das von Deus Auri verliehene und verwaltete Gold nie dazu bestimmt, Grundlage menschlicher Zusammenarbeit zu sein.\nDer Mensch sollte Herr über das Geld sein, nicht ihm zu Diensten. Und auch wenn man nicht von sich behaupten kann, ein Herz aus Gold zu haben, sollte man doch in der Lage sein, den Reichtum zu besitzen, der jedem von Natur aus zusteht.\n\nDoch dies ist eine Geschichte aus einer viel späteren Zeit. Ob es nun die erste Eisenmünze war oder die Ideale, die in den folgenden Jahrhunderten besungen, interpretiert und verdreht wurden,\nso begann doch alles in einer Winternacht, fernab vom Licht der Straßenlaternen, als zwei Kinder sich aus dem Institut schlichen und verborgen vor den Augen der Erwachsenen ein Zeichen für das Spiel „Der edle Räuber“ schnitzten.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121438"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121466,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Die Adeptin des weißen Pferdes trifft die Adeptin des weißen Pferdes in Liyue“",
+    "Description": "Ein Foto, das von Paimon betitelt wurde. Es hält den Moment des gemeinsamen Lachens dreier Freunde fest.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121466"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121467,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silberdocht",
+    "Description": "Eine heilige Lampe, die eine schützende Barriere bilden kann. Nachdem ihre Energie allerdings erschöpft wurde, gibt sie nur noch schwaches Licht von sich.\nEinst ein Ritualgefäß der Nachkommen des Frostmonds, brachte es den verlorenen Menschen, die durch die verödeten Länder wanderten, Träume und Lieder. Es hat bis heute überlebt, einzig und allein weil es in dem „Turm“ zurückgelassen wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121467"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121468,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silberdocht",
+    "Description": "Eine heilige Lampe, die eine schützende Barriere bilden kann und deren schwaches Licht nur knapp die Dunkelheit durchdringt.\nEinst ein Ritualgefäß der Nachkommen des Frostmonds, brachte es den verlorenen Menschen, die durch die verödeten Länder wanderten, Träume und Lieder. Es hat bis heute überlebt, einzig und allein weil es in dem „Turm“ zurückgelassen wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121468"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121469,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silberdocht",
+    "Description": "Eine heilige Lampe, die eine schützende Barriere bilden kann und die leise in einem schwachen Licht schimmert.\nEinst ein Ritualgefäß der Nachkommen des Frostmonds, brachte es den verlorenen Menschen, die durch die verödeten Länder wanderten, Träume und Lieder. Es hat bis heute überlebt, einzig und allein weil es in dem „Turm“ zurückgelassen wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121469"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121470,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Silberdocht",
+    "Description": "Eine heilige Lampe, die eine schützende Barriere bilden kann. Sie strotzt regelrecht vor Energie und leuchtet strahlend hell.\nEinst ein Ritualgefäß der Nachkommen des Frostmonds, brachte es den verlorenen Menschen, die durch die verödeten Länder wanderten, Träume und Lieder. Es hat bis heute überlebt, einzig und allein weil es in dem „Turm“ zurückgelassen wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121470"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121475,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Zurückgelassener Schlüssel",
+    "Description": "Kann möglicherweise eine Tür öffnen.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100302"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121476,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe I",
+    "Description": "Eine Schlüsselkarte, die man an einem seltsamen Terminal auf der Westseite von Piramida erhält. Sie sieht völlig unauffällig aus.\nVon dem, was dir gesagt wurde, sollte sie dir Zugang zum Schutzraum unter dem Terminal gewähren.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121477,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe II",
+    "Description": "Eine Schlüsselkarte, die in der Versuchszone gefunden wurde. Sie sieht völlig unauffällig aus.\nAuf ihr steht in ordentlicher snezhnayanischen Schrift: „Leitender Wartungstechniker Aleksey Zakharevich Kotelnikov“.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121478,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Schlüsselkarte des Schutzraums – Stufe III",
+    "Description": "Eine Schlüsselkarte, die in der Versuchszone gefunden wurde. Sie sieht völlig unauffällig aus.\nAuf ihr steht in ordentlicher snezhnayanischen Schrift: „Forschungsleiterin Grazina Myklukho“.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Eine kurze Geschichte der blassen Sterngeborenen",
+    "Description": "Ein Buch über die Geschichte der Feen. Aufgrund bestimmter Details darin glauben die meisten, dass es von den Ältesten der Feen geschrieben wurde.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nachtgeflüster von der fernen Grenze – Varcolac",
+    "Description": "Ein Volksmärchenbuch von Snezhnaya, das angeblich alle möglichen weniger bekannten Feengeschichten enthält. Dieser Band erzählt die Geschichte einer gefährlichen Fee namens „Varcolac“.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Geschichten, getragen vom Nordwind",
+    "Description": "Eine Gedichtsammlung, die die Taten der Starshyna über Generationen hinweg festhält. Der größte Teil ihres Inhalts ging bei früheren Katastrophen verloren. Was heute noch übrig ist, ist nur ein kleiner Teil der ursprünglichen Sammlung.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -50006,6 +51009,28 @@
     "Description": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus eine „Lakkabeere“.",
     "TypeDescription": "Material",
     "Icon": "UI_ItemIcon_130042"
+  },
+  {
+    "Rank": 248,
+    "MaterialType": 31,
+    "Id": 130043,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Winterweidenkraut-Samen",
+    "Description": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus Winterweidenkraut.",
+    "TypeDescription": "Material",
+    "Icon": "UI_ItemIcon_130043"
+  },
+  {
+    "Rank": 247,
+    "MaterialType": 31,
+    "Id": 130044,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Bernharzkraut-Samen",
+    "Description": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus eine Bernharzkraut.",
+    "TypeDescription": "Material",
+    "Icon": "UI_ItemIcon_130044"
   },
   {
     "Rank": 341,
@@ -52324,7 +53349,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLVII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie –­­ Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Bustling Port Market“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52335,7 +53360,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLVIII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Unfurling Night“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52346,7 +53371,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLIX",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie –­­ Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Sails Set With Eagerness“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52357,7 +53382,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLX",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Mayskaya Noch’“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52368,7 +53393,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXI",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Fields After Dusk“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52379,7 +53404,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Kathisma Chrysopoleos“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52390,7 +53415,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXIII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Hymn to the Moon“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52401,7 +53426,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXIV",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „From Beyond“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52412,7 +53437,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXV",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie –­­ Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Solitary Silhouette“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52423,7 +53448,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXVI",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Rosy Marshland“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52434,7 +53459,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXVII",
-    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Forbidding Ground“.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52445,6 +53470,94 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Strahlender Drehkristall CLXVIII",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Raised on Fallen Meteorites“.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXIX",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXX",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXI",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXII",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXIII",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXIV",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXV",
+    "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
+    "TypeDescription": "Abenteuerobjekt",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Strahlender Drehkristall CLXXVI",
     "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -52679,6 +53792,39 @@
     "Description": "Trägt Hoffnungen und Wünsche, um sie an entfernte Orte zu befördern.",
     "TypeDescription": "Material für das Laternenritual",
     "Icon": "UI_ItemIcon_200004"
+  },
+  {
+    "Rank": 15135,
+    "MaterialType": 21,
+    "Id": 200005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Feierliche Laterne",
+    "Description": "Eine spezielle Laterne, die vom Rat für Allgemeine Angelegenheiten speziell angefertigt wurde. Kann als Objekt ausgerüstet und in Liyue verwendet werden, um die entsprechende Laterne zu entlassen.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_200005"
+  },
+  {
+    "Rank": 15136,
+    "MaterialType": 21,
+    "Id": 200006,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Geschenk-Laterne",
+    "Description": "Eine spezielle Laterne, die vom Rat für Allgemeine Angelegenheiten speziell angefertigt wurde. Mit diesen Laternen kannst du deinen Begleitern verschiedene Geschenke schicken. Kann als Objekt ausgerüstet und in Liyue verwendet werden, um die entsprechende Laterne zu steigen zu lassen.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_200006"
+  },
+  {
+    "Rank": 15137,
+    "MaterialType": 21,
+    "Id": 200007,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Laternen-Fluganleitung",
+    "Description": "Ein vom Rat für Allgemeine Angelegenheiten herausgegebenes Handbuch, in dem detailliert spezielle Techniken zum Steigenlassen von Laternen beschrieben werden. Wenn du die Anweisungen befolgst, sollte es dir gelingen, die Laternen in einer einzigartigen Formation steigen zu lassen.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_200007"
   },
   {
     "Rank": 430061,
@@ -54095,7 +55241,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Saatschachtel",
-    "Description": "Eine magische Schachtel, die du von Madame Ping erhalten hast. Laut Madame Ping hat diese Schachtel eine „Samensynthese“ Fähigkeit ... Je nach der ursprünglichen Gestalt der Pflanze, können die „synthetisierten Samen“ in das passende Feld der „Kanne der Vergänglichkeit“ gepflanzt werden.\nWas du pflanzen kannst: Seidenblume, Zuckerblume, Cecilia, Glaslilie, Windmühlenaster, Qingxin, Glasglöckchen, Valbeere, Lampenkraut, Jueyun-Peperoni, Möhre, Rettich, Minze, Champignon, Naku-Kraut, Pferdeschwanz, Goldfischkraut, Lotosfrucht, Wasserlilie, Seegras, Meereslackporling, Harra-Frucht, Zaytun-Pfirsich, Sumeru-Rose, Pluie-Lotos, Marcotte, Lumidouce-Glockenblume, Regenbogenrose, Kornfrucht, Cacahuatl, Saurierklauen-Sukkulente, Quenepa-Beere, brillante Chrysantheme, Gischtfeder-Kieme, Leuchthornpilz, Wolkenfels-Spaltblatt, Frostglocke, Mittsommerbeere und Lakkabeere.",
+    "Description": "Eine magische Schachtel, die du von Madame Ping erhalten hast. Laut Madame Ping hat diese Schachtel eine „Samensynthese“ Fähigkeit ... Je nach der ursprünglichen Gestalt der Pflanze, können die „synthetisierten Samen“ in das passende Feld der „Kanne der Vergänglichkeit“ gepflanzt werden.\nWas du pflanzen kannst: Seidenblume, Zuckerblume, Cecilia, Glaslilie, Windmühlenaster, Qingxin, Glasglöckchen, Valbeere, Lampenkraut, Jueyun-Peperoni, Möhre, Rettich, Minze, Champignon, Naku-Kraut, Pferdeschwanz, Goldfischkraut, Lotosfrucht, Wasserlilie, Seegras, Meereslackporling, Harra-Frucht, Zaytun-Pfirsich, Sumeru-Rose, Pluie-Lotos, Marcotte, Lumidouce-Glockenblume, Regenbogenrose, Kornfrucht, Cacahuatl, Saurierklauen-Sukkulente, Quenepa-Beere, brillante Chrysantheme, Gischtfeder-Kieme, Leuchthornpilz, Wolkenfels-Spaltblatt, Frostglocke, Mittsommerbeere, Lakkabeere, Bernharzkraut und Winterweidenkraut.",
     "TypeDescription": "Hilfsmittel",
     "Icon": "UI_ItemIcon_220033"
   },
@@ -55066,6 +56212,17 @@
     "Description": "Ein von Alice erhaltenes Lexikon, das von den Hexen gemeinsam verfasst wurde. Angeblich diente es als Kommentar zum Fabelbuch „Die kleine Hexe und das unauslöschliche Feuer“, doch in Wahrheit birgt es Aufgaben, die der Hexenzirkel eigens für alle ersann.\nWie es heißt: „Das Ankämpfen gegen die Strömung ist die Aufgabe.“ So zieh mit deinen Gefährten hinaus, um die Krone der Erhebung zu erringen!",
     "TypeDescription": "Hilfsmittel",
     "Icon": "UI_ItemIcon_220126"
+  },
+  {
+    "Rank": 25028,
+    "MaterialType": 21,
+    "Id": 220127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Baldachin des Himmels“",
+    "Description": "Das „Baldachin des Himmels“, das von der Energie des Flusses der Elemente durchdrungen ist, wurde mit spiritueller Kraft aufgefüllt. Es kann eine Jadekutsche herbeirufen, mit der sein Benutzer schnell an weit entfernte Orte reisen kann.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_220127"
   },
   {
     "Rank": 300201,
@@ -56350,7 +57507,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Feiyun-Arbeitszimmer",
-    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Feiyun-Arbeitszimmer“.\nEs gibt viele Möglichkeiten, ein Arbeitszimmer in Liyue einzurichten, Luxus ist optional, denn die Gelehrten bevorzugen „Geist“ und „Eleganz“. Eine Topfpflanze hier balanciert die Luftfeuchtigkeit aus. Der Tisch und die Regale geben einen leicht holzigen Duft ab, der mit dem schlichten Layout und dem dämmrigen Licht der Lampen das Genie inspiriert und zum Schreiben anregt.\nEs heißt, dass ein bestimmter Gast am Feiyun-Hang vor vielen Jahren ein genau solches Arbeitszimmer einrichtete und die Gestaltung wurde dann vom vorherigen Leiter der Buchhandlung Wanwen übernommen. So war es dann seither als Feiyun-Arbeitszimmer bekannt und erlangte in ganz Liyue Bekanntheit.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu und Lan Yan.",
+    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Feiyun-Arbeitszimmer“.\nEs gibt viele Möglichkeiten, ein Arbeitszimmer in Liyue einzurichten, Luxus ist optional, denn die Gelehrten bevorzugen „Geist“ und „Eleganz“. Eine Topfpflanze hier balanciert die Luftfeuchtigkeit aus. Der Tisch und die Regale geben einen leicht holzigen Duft ab, der mit dem schlichten Layout und dem dämmrigen Licht der Lampen das Genie inspiriert und zum Schreiben anregt.\nEs heißt, dass ein bestimmter Gast am Feiyun-Hang vor vielen Jahren ein genau solches Arbeitszimmer einrichtete und die Gestaltung wurde dann vom vorherigen Leiter der Buchhandlung Wanwen übernommen. So war es dann seither als Feiyun-Arbeitszimmer bekannt und erlangte in ganz Liyue Bekanntheit.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan und Zibai.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -56449,7 +57606,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Qingce-Wolkenlandhaus",
-    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Qingce-Wolkenlandhaus“.\nEin Bergdorf, das dem Qingce-Dorf nachempfunden wurde. Man sagt, dass die freundliche Atmosphäre dort ansteckend ist und dass Besucher, die eintreten, sich viel ruhiger fühlen und ihre Freude für die einfachen Dinge des Lebens, die sie einst verloren haben, wiederentdecken.\nSich auf die Jagd nach den eigenen Idealen zu machen und jahrelang einer Karriere nachzujagen ist sicherlich rühmlich. Doch nachdem man lange Zeit damit verbracht hat, wird man irgendwann müde, und wenn das passiert, dann ist ein friedliches Leben auf dem Land vielleicht eine gute Idee. Das Qingce-Dorf hat es immer akzeptiert, dass die jungen Menschen auf der Suche nach ihrem Glück aufgebrochen sind, und es ist stets bereit, sie jederzeit mit offenen Armen wieder zu empfangen.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao und Xianyun.",
+    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Qingce-Wolkenlandhaus“.\nEin Bergdorf, das dem Qingce-Dorf nachempfunden wurde. Man sagt, dass die freundliche Atmosphäre dort ansteckend ist und dass Besucher, die eintreten, sich viel ruhiger fühlen und ihre Freude für die einfachen Dinge des Lebens, die sie einst verloren haben, wiederentdecken.\nSich auf die Jagd nach den eigenen Idealen zu machen und jahrelang einer Karriere nachzujagen ist sicherlich rühmlich. Doch nachdem man lange Zeit damit verbracht hat, wird man irgendwann müde, und wenn das passiert, dann ist ein friedliches Leben auf dem Land vielleicht eine gute Idee. Das Qingce-Dorf hat es immer akzeptiert, dass die jungen Menschen auf der Suche nach ihrem Glück aufgebrochen sind, und es ist stets bereit, sie jederzeit mit offenen Armen wieder zu empfangen.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun und Zibai.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70508,6 +71665,270 @@
     "ItemType": 2,
     "Name": "„Marder-Meister“",
     "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Marder-Meister“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381344,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Geflüster im Mondlicht“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Nächtliche Geheimgespräche“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382277,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Einfache Trage – „Stabile Begleitung“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Einfache Trage – Stabile Begleitung“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382278,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Wohl bekomms!“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Wohl bekomms!“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382133,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Auf gute Freunde!“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Auf gute Freunde!“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Einfaches Pflegebett",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Einfaches Pflegebett“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384226,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Piramidische Flagge“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Piramidische Flagge“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391014,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Verstellbare Metallbarriere",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Verstellbare Metallbarriere“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391015,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Einsamkeit in der Stadt der Immerwachenden“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Einsamkeit in der Stadt der Immerwachenden“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391016,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Unterschlupf in der Stadt der Immerwachenden“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Unterschlupf in der Stadt der Immerwachenden“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391017,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Eine Ecke ganz für sich allein“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Eine Ecke ganz für sich allein“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391018,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Fürsorge in der Stadt der Immerwachenden“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Fürsorge in der Stadt der Immerwachenden“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391019,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Schmieden in der Stadt der Immerwachenden“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Schmieden in der Stadt der Immerwachenden“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391020,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Spaziergang durch Starshyna“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Spaziergang durch Starshyna“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394332,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Warm und gemütlich“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Warm und gemütlich“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394642,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Kommando mit Zuversicht“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Kommando mit Zuversicht“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Einfaches Waffenregal – „Schnell und einfach“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Einfaches Waffenregal – Schnell und einfach“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Leuchtende mobile Hütte“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Leuchtende mobile Hütte“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Schimmer des Lebens“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Schimmer des Lebens“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393223,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Smaragdblüte“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Smaragdblüte“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393224,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Blühendes Grün“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Blühendes Grün“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380469,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leichte Metalllampe",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Leichte Metalllampe“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380470,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Straßenlaterne – „Geringer Wartungs- und Investitionsaufwand“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Straßenlaterne – Geringer Wartungs- und Investitionsaufwand“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380471,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lebendige Laterne – „Möge mein Wunsch weit reisen“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Lebendige Laterne – Möge mein Wunsch weit reisen“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380472,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lebendige Laterne – „Auf bald, mein Freund“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Lebendige Laterne – Auf bald, mein Freund“.\nNach der Anwendung im Herstellungsmenü zu finden.",
     "TypeDescription": "Dekorationsbauplan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

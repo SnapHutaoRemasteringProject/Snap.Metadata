@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Sucesor Nochescarcha - Aluvión",
+    "Title": "Sucesor Nochescarcha",
+    "Description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Hydro durante muchos años.\nSu cuerpo cristalino está compuesto casi enteramente por gotas de la más pura de las aguas. Aunque es más tranquilo que la mayoría de miembros de su especie, cuando es provocado, es capaz de formar cortantes filos con el agua de los alrededores que pueden atravesar las defensas de cualquier intruso incauto.\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Sucesor Nochescarcha - Galopavientos",
+    "Title": "Sucesor Nochescarcha",
+    "Description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Anemo durante muchos años.\nEl viento en constante movimiento le ha concedido un par de alas. Como no suele dejar huellas en la tierra, se le conoce como “aquel que camina con el viento”.\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Sucesor Nochescarcha - Esquirla áurea",
+    "Title": "Sucesor Nochescarcha",
+    "Description": "Un hermoso y grácil ser elemental que posee una gran afinidad con los elementos. Evolucionó hasta tener este aspecto tras exponerse a altas concentraciones del elemento Geo durante muchos años.\nSu cuerpo al completo está cubierto por una acumulación del elemento Geo, mientras que sus duras astas brillan con el fulgor del ámbar pulido.\nSegún las letanías del Lejano Norte que han sobrevivido hasta hoy en día, se trata de una criatura nacida de las bendiciones de la Luna Escarchada, un símbolo de la pureza de la fuente primigenia y del fulgor original. Tal vez esa sea la razón por la que rechazan a todo ser que se les acerca demasiado: porque no pueden soportar que su pureza se manche con los siete colores de la luz celeste.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Señor Nochescarcha",
     "Title": "Protector del fulgor sagrado",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Mandrágora hexadecatónica aguerrida",
+    "Title": "Mandrágora hexadecatónica aguerrida",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Mandrágora hexadecatónica aguerrida",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Megahilichurl Superenigmático",
     "Title": "Chamán accidentalmente dominiluminado",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Pescador de las Profundidades Insondables",
+    "Title": "Bestia de otro mundo",
+    "Description": "Una criatura del Abismo que se infiltra a través de fisuras en las profundidades insondables, cruzando a este mundo desde lugares desconocidos.\nHace mucho tiempo, un antiguo filósofo describió a los humanos como “bípedos sin plumas”, usando una expresión tan sencilla para distinguir a la humanidad de los animales y así afirmar la superioridad de los primeros. De alguna forma, estas bestias inmortales que vagan por el silencioso vacío cósmico, tienen escamas en vez de plumas y usan sus ganchudos picos para devorar la biomasa de los distintos mundos también podrían ajustarse a la misma definición simplista de “humanos”.",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Susurrador de Pesadillas de las Profundidades Insondables",
+    "Title": "Dominador sin rostro ni dominio",
+    "Description": "Una criatura del Abismo que acecha a través de fisuras en las profundidades insondables, observando el mundo en silencio. Se dice que su siniestra forma sin rostro no es más que una proyección, pues su verdadero cuerpo solo existe como una masa amorfa de energía pura del Abismo.\nIncluso los invasores que buscan reclamar este mundo deben obedecer sus normas en cierta manera. Mientras no se parta el firmamento ni colapsen las defensas de la tierra, estas criaturas venidas de las estrellas no podrán hacer más que permanecer en los límites del mundo, susurrando delirios y sin conseguir penetrar más allá... Pero ¿cuánto tiempo más lograrán aguantar la estabilidad y el orden?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Ladrón de Tesoros - Maestro de Pociones Pyro",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Ladrón de Tesoros de élite aguerrido",
+    "Title": "Ladrón de Tesoros de élite aguerrido",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Manifestación Wayob Contrafluyente",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Manifestación Wayob Cavernaria",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Manifestación Wayob Raudifolia",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Glaciolobo Radiante",
+    "Title": "Bestia Radiante",
+    "Description": "Una bestia que ha terminado evolucionando de una forma única debido a la irradiación continuada del antiguo poder de la luna.\nCuenta la leyenda que, cuando una oscura calamidad arrasó con innumerables vidas, los bosques de las tierras fronterizas quedaron en completo silencio. En medio de tal quietud, el único sonido que rompía la calma era el aullido de los glaciolobos, una llamada a la luna. Noche tras noche, sus lamentos resonaban a través de la floresta desierta bajo la fría luz lunar.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Glaciolobo Radiante aguerrido",
+    "Title": "Bestia Radiante",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "¿?",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "El Doctor",
+    "Title": "El Doctor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "El Doctor",
+    "Title": "Hereje de la Luna Falsa",
+    "Description": "Conocido como un hereje por todo el mundo, El Doctor, segundo de Los Once de los Fatui, se ha hecho con la autoridad de las tres lunas, y ahora sube los escalones hacia el trono divino prometido al “nuevo mundo”.\nTodo debería habernos pertenecido a nosotros.\nPero la razón expulsó todo aquello que excediera los límites, dejando a la humanidad ciega frente a su naturaleza original.\nLa vida y la muerte nos atan a unas envolturas mortales, aprisionando toda chispa de aspiración.\nY, después de todo, el tiempo y el espacio nos cercan, obligando a nuestras mentes a aceptar una obediencia sumisa para que nadie se atreva siquiera a imaginarse la libertad.\nDesde aquel momento, los dioses falsos han gobernado el mundo, todos y cada uno de ellos gritando sus verdades como si constituyeran la única realidad, aunque ninguno merece el poder que reclaman con tanta pasión.\nEl flujo de la vida no posee una estructura natural: el orden simplemente le fue impuesto. Elimina las cadenas que asfixian al mundo y la esencia de todas las cosas se hará visible finalmente.\nY tal revelación... es la primera luz del nuevo mundo.\n“Así que les pregunto: ¿seguirán soportando una existencia en este mundo arcaico y decadente?”.",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "¿?",
+    "Title": "El Doctor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "¿?",
+    "Title": "El Doctor",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

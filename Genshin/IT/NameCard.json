@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Colombina: Un giorno",
+    "Description": "Stile per la carta giocatore.\nAbbandonandosi alla corrente, ella danza tra le acque basse dei ruscelli, assopendosi alla pallida ombra delle montagne. Ella vaga tra le pieghe del tempo, giocando a nascondino con le Kuuhenki.\nRiposando nel giardino del tutto, mormora dolcemente a ogni creatura. Nelle ore silenziose che precedono l'aurora, ella attende il giorno in cui si riuniranno.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai: Vista velata",
+    "Description": "Stile per la carta giocatore.\nCielo e terra sono una locanda per viandanti, e il tempo un vagabondo che attraversa le epoche.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga: Uccello canterino dell'incubo",
+    "Description": "Stile per la carta giocatore.\nSuperata l'oscurità della notte, l'usignolo si lancia con ardore nel mondo del giorno, lacerando gli incubi con selvaggio furore.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Obiettivo: Lungimiranza",
+    "Description": "Stile per la carta giocatore.\nIl viaggiatore si erse sulla cima della città a contemplare l'orizzonte lontano: sapeva che quei panorami così distanti prima o poi sarebbero diventati pietre miliari del suo viaggio.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai: Lanterna della notte più lunga",
+    "Description": "Stile per la carta giocatore.\nAnche nella notte più buia, una lampada si leverà alta. Così è stanotte, e così sarà per mille notti a venire.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Appunti di viaggio: Ode illuminata alla lanterna",
+    "Description": "Stile per la carta giocatore.\nPrega alla luna che splende, augurami un dì di fortuna. Vestita del mio manto di primavera, mi lascio cullare dal chiarore della luna.",
+    "SpecialDescription": "Stile per la carta giocatore Appunti di viaggio: Ode illuminata alla lanterna",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

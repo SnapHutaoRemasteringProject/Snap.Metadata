@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Träume in zehn Mora Zellstoff",
+    "Description": "Sammle die komplette Reihe von „Die Legenden von Reed Miller, dem Großen Räuber“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Gebete, die in Stille versinken",
+    "Description": "Sammle die komplette Reihe von „Bittgesang des Nordens“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "... So natürlich wie Honig aus einem Bienenstock",
+    "Description": "Sammle die komplette Reihe von „Echos der Meeresschnecke“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Was jenseits des Schneeschleiers liegt",
+    "Description": "Sammle die komplette Reihe von „Geschichten, getragen vom Nordwind“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "Die Geschichte einer Stadt",
+    "Description": "Sammle die komplette Reihe von „Eine kurze Geschichte der blassen Sterngeborenen“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Das Reich der Feen unter dem Mond",
+    "Description": "Sammle die komplette Reihe von „Nachtgeflüster von der fernen Grenze“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Schatzsucher im Mondstaub II",
+    "Description": "Öffne 45 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Schatzsucher im Mondstaub II",
+    "Description": "Öffne 90 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Schatzsucher im Mondstaub II",
+    "Description": "Öffne 180 Truhen auf dem Leeremeer-Ausblick, auf der Wellenjäger-Ebene und auf dem Ascheschleier-Gipfel.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Abenteurer im Mondstaub II",
+    "Description": "Schließ 5 Zeitherausforderungen in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Erkundung des Landes – Insel im Mondschein II",
+    "Description": "Schalte die Gebiete des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels in der Region um Nod-Krai auf der Karte frei.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Frostige Haine jenseits der Dunkelheit II",
+    "Description": "Aktiviere alle Teleportationspunkte in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels in der Region um Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Heiliger Marsch – Insel im Mondschein II",
+    "Description": "Schalte alle Schreine der Tiefe in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels in der Region um Nod-Krai frei.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Opfergaben für die Nacht – Insel im Mondschein II",
+    "Description": "Schalte alle geheimen Stätten der Reichtümer der Kuuhenki in den Gebieten des Leeremeer-Ausblicks, der Wellenjäger-Ebene und des Ascheschleier-Gipfels in der Region um Nod-Krai frei.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Der Wind ist erwacht, die Blätter wirbeln herum",
+    "Description": "Eine Nachtigall mit glühenden Kernen im Schnabel steigt nur nach Einbruch der Dunkelheit auf.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Wenn der Keim noch lebt",
+    "Description": "Selbst wenn die Blume verwelkt, halten die Blätter ihr Versprechen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Gemeinsam errichteter Treffpunkt – Lager an der Klippe",
+    "Description": "Erreich die höchste Konstruktionsstufe vom „Lager an der Klippe“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Gemeinsam errichteter Treffpunkt – Garten der Hexe",
+    "Description": "Erreich die höchste Konstruktionsstufe vom „Garten der Hexe“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Gemeinsam errichteter Treffpunkt – Favonius-Festung",
+    "Description": "Erreich die höchste Konstruktionsstufe von „Favonius-Festung“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenade der Weißmondnacht",
+    "Description": "Schließ „Mondchroniken III“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Eine passende Strafe für den Schuldigen",
+    "Description": "Hilf Janusz dabei, das Monsterproblem im Schreckschattensumpf in den Griff zu kriegen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Totes Blatt",
+    "Description": "Das Ende ist noch nicht da.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Keine Hoffnung, keine Furcht",
+    "Description": "Werde Zeuge, wie ein uralter Palast aus den Tiefen emporsteigt.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "„Östlich des Mondes, westlich der Sonne“",
+    "Description": "Schließ „Östlich des Mondes, westlich der Sonne“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "„Quis Custodiet Ipsos Custodes?“",
+    "Description": "Enthülle Grazinas Plan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Die Erinnerungen des einsamen Wolfes",
+    "Description": "Von diesem Moment an wandte sich der blutbefleckte Ritter von der Welt der Menschen ab ...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Wo die Helden ruhen",
+    "Description": "Werde Zeuge vom Ende der Geschichte des „Frostwind-Ritters“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Getrennte Wege auf der Heimreise",
+    "Description": "Hilf Kuzmich auf seinem Weg nach Hause.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Brot wird es geben",
+    "Description": "Nutze den Ofen, um eine heiße, knackfrische „Fungus-Fantasie“ zu backen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Der Hügel unter dem Mond",
+    "Description": "Öffne eine Zeitkapsel, die von einem unbekannten Hyperboreaner zurückgelassen wurde.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Der Weg der Ehre führt zum Grab",
+    "Description": "Beseitige alle Anhänger von „Professor“ Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Es kommt auf den richtigen Zeitpunkt an",
+    "Description": "Nutze den richtigen Moment, um das Blatt zu wenden.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Nicht fallen lassen",
+    "Description": "Absorbiere und wirf eine Mandragora mit Kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Dünne, schwarze Fäden",
+    "Description": "Reinige die überfließende Kraft des Abgrunds.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Schweben in sanften Schritten",
+    "Description": "Spüre den weichen, federnden Hauch der Baumwoll-Blüte.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Der Hirte",
+    "Description": "Unternimm einen friedlichen Spaziergang mit den Schläfchen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "In Dunkelheit ertrunken",
+    "Description": "Wegen der Korruption des „Abgrund-Verfalls“ ohnmächtig geworden.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Wie es hätte sein sollen",
+    "Description": "Werde Zeuge der Rückkehr des Albtraummonds.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Fordere niemals eine Gottheit heraus",
+    "Description": "Brich die von Il Dottore aufgestellte Regel.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "„Das nennen wir effizient“",
+    "Description": "Zerstöre seinen Schild, ohne einen der vom Herrn der verborgenen Tiefen – Flüsterer der Albträume beschworenen Angler der verborgenen Tiefen zu vernichten.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Ein Reisender in einer Winternacht",
+    "Description": "Wohin wird ihre Reise sie führen?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Der Wanderer und sein Schatten",
+    "Description": "Vielleicht ist dies die Kraft, die dir schon lange vorbestimmt ist.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Die Utopie des Ketzers",
+    "Description": "Untersuche das von „Il Dottore“ erzeugte Energiefeld.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Im Licht eines Mondes vor unserer Zeit",
+    "Description": "Triff die drei Mondschwestern der Vergangenheit in dem Gefängnis, in dem einst die Mondgöttin gefangen gehalten wurde.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Wenn der Neumond zurückkehrt",
+    "Description": "Aus der Asche erhebt sich der „Neumond“, dessen Aufstieg das Rad des Schicksals erneut in Bewegung setzt ...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Setze Segel in Richtung morgen",
+    "Description": "Werde Zeuge des Bündnisses, das zwischen den vielen Fraktionen von Nod-Krai geschlossen wurde.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "„To the Moon“",
+    "Description": "Erreiche die Oberfläche des Mondes.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Der wahre Mond",
+    "Description": "Schließ „Der wahre Mond“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

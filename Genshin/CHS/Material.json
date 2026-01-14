@@ -1662,6 +1662,39 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "哥伦比娅的命星",
+    "Description": "哥伦比娅的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "兹白的命星",
+    "Description": "兹白的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "叶洛亚的命星",
+    "Description": "叶洛亚的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2856,6 +2889,39 @@
     "ItemType": 2,
     "Name": "雅珂达的命星",
     "Description": "雅珂达的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "哥伦比娅的命星",
+    "Description": "哥伦比娅的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "兹白的命星",
+    "Description": "兹白的命之座激活素材",
+    "TypeDescription": "命之座激活",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "叶洛亚的命星",
+    "Description": "叶洛亚的命之座激活素材",
     "TypeDescription": "命之座激活",
     "Icon": "UI_ItemIcon_1103"
   },
@@ -4627,6 +4693,28 @@
     "Description": "生长在挪德卡莱温暖地带的果实，深受过冬的动物与嘴馋的孩子们喜爱。\n在霜月之子的传承中，夏槲果被视为「生命」与「丰盈」的象征，因为只有在春夏温暖的日子里，这种果实才会开花生长。\n亦有「冬凌王」与「夏槲王」永恒斗争的逸话。传说两位孪生的君王伴着年轮的转动，交替杀死彼此、又交替从冥府重生，统治属于他们的时节，如此循环往复，直至世界终结。至冬的学者们普遍认为这只是原始信仰中对季节交替的隐喻，至少他们这样说服了自己。",
     "TypeDescription": "食材",
     "Icon": "UI_ItemIcon_101265"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101268,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "冬凌草",
+    "Description": "生命力极其顽强的花草，即便历经风吹霜打，依旧在苦寒的冬日里迎风摇曳。",
+    "TypeDescription": "挪德卡莱区域特产",
+    "Icon": "UI_ItemIcon_101266"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101269,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "松珀香",
+    "Description": "古时覆盖挪德卡莱的参天巨木，流淌下的树脂凝结而成的宝石，散发着璀璨的色彩。",
+    "TypeDescription": "挪德卡莱区域特产",
+    "Icon": "UI_ItemIcon_101269"
   },
   {
     "Rank": 330,
@@ -19575,6 +19663,39 @@
     "Icon": "UI_ItemIcon_121285"
   },
   {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121450,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "虹月印磐",
+    "Description": "集齐3个印磐后，可开启虚海望宝库。\n\n在探索时偶然得到的圆形符印，如能找到纹样相同的3个，似乎就能拼凑出曾经照亮世界的皓月的影迹。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_121450"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121451,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "虹月印磐",
+    "Description": "集齐3个印磐后，可开启逐浪野宝库。\n\n在探索时偶然得到的圆形符印，如能找到纹样相同的3个，似乎就能拼凑出曾经照亮世界的皓月的影迹。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_121451"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121452,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "虹月印磐",
+    "Description": "集齐3个印磐后，可开启烟硌山峰宝库。\n\n在探索时偶然得到的圆形符印，如能找到纹样相同的3个，似乎就能拼凑出曾经照亮世界的皓月的影迹。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_121452"
+  },
+  {
     "Rank": 406,
     "MaterialType": 5,
     "Id": 106000,
@@ -30872,6 +30993,294 @@
     "Icon": "UI_ItemIcon_108856"
   },
   {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的30%，并在之后的30秒内，每5秒恢复510点生命值。",
+    "Id": 108931,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "奇怪的穰穰瑞雪糕",
+    "Description": "由米制成的璃月糕点。入嘴是平淡普通的米香，可以说是没有任何记忆点。吃完后大概很快就会将这个味道置之脑后…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的32%，并在之后的30秒内，每5秒恢复730点生命值。",
+    "Id": 108932,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "穰穰瑞雪糕",
+    "Description": "由米制成的璃月糕点。将谷物磨成粉混合后加入糖与水，揉圆放入模具压制成型后蒸煮而成。成品洁白，宛若带来五谷丰登的瑞雪一般。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "立即为选中的角色恢复生命值上限的35%，并在之后的30秒内，每5秒恢复930点生命值。",
+    "Id": 108933,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "美味的穰穰瑞雪糕",
+    "Description": "由米制成的璃月糕点。洁白的糕点在手上宛如一捧新雪，送入口中后倏然间融化，带来清冽甘甜的味觉享受，幽幽的回味更是如余音袅袅不绝。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色防御力提高165点，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108934,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的香炸春卷",
+    "Description": "油炸而成的璃月小吃。本该是酥脆的外皮，吃起来软软的，怪哉怪哉…等等，这该不会是用于包裹食物的油纸吧…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色防御力提高200点，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108935,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "香炸春卷",
+    "Description": "油炸而成的璃月小吃。将肉与菜切成细丝，裹上薄饼，卷成筒形，放入油锅炸至金黄出锅。皮脆馅丰，老少皆宜。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色防御力提高235点，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108936,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的香炸春卷",
+    "Description": "油炸而成的璃月小吃。随着清脆的声音响起，饱含汁水的内馅争先恐后地涌入口中。金灿灿的酥皮包裹着的不仅仅是多重滋味，更是满满的璃月烟火气息。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色生命值上限提升20%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108937,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的花果草糖",
+    "Description": "挪德卡莱的糖果。尝起来又咸又涩，很难想象这种味觉体验居然是由糖果带来的，强烈的刺激足以让每个心怀期待的人发出痛苦的哀嚎。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色生命值上限提升22%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108938,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "花果草糖",
+    "Description": "挪德卡莱的糖果。选用挪德卡莱本土的花花草草与浆果为原料，制成色彩缤纷的糖果，为这片广袤的寒原带来了小小的甜蜜。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色生命值上限提升25%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的花果草糖",
+    "Description": "挪德卡莱的糖果。舌尖接触到晶莹的糖果，就像是推开了一扇窗，花朵馥郁的芬芳与浆果酸甜的气息扑面而来，兼具清新与甜蜜。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的30%，并额外恢复600点生命值。",
+    "Id": 108940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的蔬菜罐罐汤",
+    "Description": "各种蔬菜组成的汤品。新鲜与脆嫩随着长时间的炖煮消失不见，只剩下软烂的菜叶苦苦支撑。若是不介意黏糊糊的怪异口感，充饥应该不成问题…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的32%，并额外恢复1250点生命值。",
+    "Id": 108941,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "蔬菜罐罐汤",
+    "Description": "各种蔬菜组成的汤品。各类食材切丝后，加水煮熟，只需要简单调味即可食用。清淡又鲜美，对健康颇有益处。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的34%，并额外恢复1900点生命值。",
+    "Id": 108942,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的蔬菜罐罐汤",
+    "Description": "各种蔬菜组成的汤品。简单到极致的烹饪，呈现出了蔬菜最为本真的味道，只须一口，踏实的暖意便会从胃扩散至全身。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色暴击率提升10%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108943,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的篝火边的欢腾",
+    "Description": "大块的肉类拼盘。大块的脂肪带着发苦的咸味，像是失控的月厢车，将味蕾冲撞得七零八落，同时又在喉间拖曳出油腻的轨迹…是常人难以承受的冲击。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色暴击率提升15%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108944,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "篝火边的欢腾",
+    "Description": "大块的肉类拼盘。从至冬传来的腌制生肉块，再加上挪德卡莱本土的火腿片与香肠，组成了一道肉肴。上了年纪的挪德卡莱人通常会边烤火边搭配着酒水细细品尝。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色暴击率提升20%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108945,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的篝火边的欢腾",
+    "Description": "大块的肉类拼盘。大块的生肉有着淡淡的松木与盐的味道，香肠则带有深邃的烟熏气味，最后再加上火腿片带来的醇厚滋味，如此粗犷又豪迈的盛宴，或许每一位挪德卡莱人都会为此亮出大拇指吧。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "复苏选中的角色，为其恢复900点生命值。",
+    "Id": 108946,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的蘑幻之菇",
+    "Description": "素馅的面包。一番努力之后，牙齿终于突破了烤糊的面皮，但尝到的却是土腥味，咀嚼几下后甚至开始头晕了…不好，这难道是新型「毒蘑菇」吗？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "复苏选中的角色，为其恢复1200点生命值。",
+    "Id": 108947,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "蘑幻之菇",
+    "Description": "素馅的面包。将内馅混合炒制好后，裹进黑麦面团中，发酵好后进行烘烤。如果没有「伞盖」上的花刀，很难将其与真正的蘑菇区分开来。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "复苏选中的角色，为其恢复1500点生命值。",
+    "Id": 108948,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的蘑幻之菇",
+    "Description": "素馅的面包。粗粝的外壳犹如一道坚实的城墙，为柔韧的蘑菇碎保留了鲜香的汁水，在口中交织出质朴又丰盈的味觉享受。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色防御力提高282点，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108949,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "炸春鲜",
+    "Description": "兹白的特色料理。见其色如金珀，恰似她的眼眸；闻其香则与寻常春卷一般无二；尝其味酥脆中却别具韧性…这会是来自古老琅玕国的秘传肴馔制法吗？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108862"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "队伍中所有角色生命值上限提升30%，持续300秒。多人游戏时，仅对自己的角色生效。",
+    "Id": 108950,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "皎月渺渺",
+    "Description": "哥伦比娅的特色料理。剔透的糖果像是从月光中掬起的几滴露珠，若有似无的一丝丝甜味忽而捉摸不定，仿佛坠入美好又虚幻的梦境一般。这般从未有过的新奇体验，她是怎么做到的呢…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108863"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "为选中的角色恢复生命值上限的40%，并额外恢复2350点生命值。",
+    "Id": 108951,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "夜守暖汤",
+    "Description": "叶洛亚的特色料理。暖呼呼的热汤，在巡夜归来后喝上一口，便能驱散身心的疲惫，舒缓紧绷的神经。如此奇效，大概是这位少年队长积攒多年经验才研发出的独创配方吧…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108864"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "好看又好吃，但是几乎没什么用。",
+    "Id": 108952,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "糖雕・哥伦比娅",
+    "Description": "以人物印象为参考制作的糖雕。轻盈飘飖的发饰，让人想到了如歌声一般空灵的月之少女哥伦比娅。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108865"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "好看又好吃，但是几乎没什么用。",
+    "Id": 108953,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "糖雕・叶洛亚",
+    "Description": "以人物印象为参考制作的糖雕。忠诚的信鸟，让人想到了「魇夜之莺」的少年队长叶洛亚。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108866"
+  },
+  {
+    "Rank": 120199,
+    "MaterialType": 1,
+    "EffectDescription": "不吃为妙！",
+    "Id": 108954,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "如同焦炭的蘑幻之菇",
+    "Description": "素馅的面包。毫无章法可言的烹饪技法，加上近乎失控的火烤，出炉的是——黑黝黝的「焦炭蘑菇」…外表震慑力十足，勉强吃下去说不定会中毒…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108867"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33699,6 +34108,72 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109642,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "食谱：穰穰瑞雪糕",
+    "Description": "步骤详实的食谱,记载着「穰穰瑞雪糕」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食谱：香炸春卷",
+    "Description": "步骤详实的食谱,记载着「香炸春卷」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食谱：花果草糖",
+    "Description": "步骤详实的食谱,记载着「花果草糖」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109645,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食谱：蔬菜罐罐汤",
+    "Description": "步骤详实的食谱,记载着「蔬菜罐罐汤」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109646,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食谱：篝火边的欢腾",
+    "Description": "步骤详实的食谱,记载着「篝火边的欢腾」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食谱：蘑幻之菇",
+    "Description": "步骤详实的食谱,记载着「蘑幻之菇」的制作方法。",
+    "TypeDescription": "食谱",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -35706,6 +36181,39 @@
     "Icon": "UI_ItemIcon_112136"
   },
   {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112137,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "深黯的裂眼",
+    "Description": "自异界侵入的钓客，在形体消散后留下的残屑。\n表壳碎裂后，寄宿在其中的恶意也随之消泯。",
+    "TypeDescription": "角色与武器培养素材",
+    "Icon": "UI_ItemIcon_112137"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112138,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "深黯的怪核",
+    "Description": "自异界侵入的钓客，在形体消散后留下的残屑。\n机能已然停止的核心，与地上任何生物的器官组织都没有相似之处。",
+    "TypeDescription": "角色与武器培养素材",
+    "Icon": "UI_ItemIcon_112138"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112139,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "深黯的钩喙",
+    "Description": "自异界侵入的钓客，在形体消散后留下的残屑。\n形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。",
+    "TypeDescription": "角色与武器培养素材",
+    "Icon": "UI_ItemIcon_112139"
+  },
+  {
     "Rank": 11101,
     "MaterialType": 14,
     "Id": 113001,
@@ -36584,6 +37092,50 @@
     "Description": "击败超重型陆巡舰·机动战垒之后，自其能源核心中取得的月矩力装置。\n枫丹动能工程科学研究院曾定义过数类元素工质发动机的理想循环模式，无论是哪一种，最为完美的循环数目皆为四。尽管军械宫与帕哈岛试验设计局的工程师们大多倾向于将月矩力视为一种不同于元素力的工质，四循环以外的设计构型依然被证明是低效而不实用的。从某种意义上来说，「四」的循环也许是世界古怪的偏好吧——当然，世界也许并无偏好，对世界而言，自作聪明的凡人擅自猜度的习惯才是最古怪的偏好也说不定。",
     "TypeDescription": "角色培养素材",
     "Icon": "UI_ItemIcon_113080"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113081,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "贤医的假面",
+    "Description": "战胜僭月的伪神后，自异端的试验场内拾得的面具。\n所谓医疗的目的在于消除躯体上的病症，然而俗世的医者却对真正致死的疾病视而不见。苦弱的血肉之躯，经由贤医之手不再囿于生老病死，展现出超越常理的力量。",
+    "TypeDescription": "角色培养素材",
+    "Icon": "UI_ItemIcon_113081"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113082,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "狂人的约束",
+    "Description": "战胜僭月的伪神后，自异端的试验场内拾得的束带。\n人们通过排除疯狂定义了文明，然而自以为能将一切存在与非存在皆纳入理性的筹划，或许也不过是另一形式的癫狂。狂人看穿了理性的狡计，在他的世界中一切皆允。",
+    "TypeDescription": "角色培养素材",
+    "Icon": "UI_ItemIcon_113082"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113083,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "异端的瓶剂",
+    "Description": "战胜僭月的伪神后，自异端的试验场内拾得的瓶剂。\n千百年来，自称学者的众愚匍匐在六宗禁制的脚下，他们自欺欺人的研究不过是循环论证的文字游戏。对真理的探求绝不应受到任何限制，如此说来被世人视作异端的恶徒，才是真正的求知者。",
+    "TypeDescription": "角色培养素材",
+    "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "魇翼枯骸",
+    "Description": "击败自异界侵入此世的魇语之主，从其留下的残秽中取得的深黯骨骸。\n翱翔于漆黑星海间的无形之兽，本不应需要被这个世界称作「羽翼」的器官。那怪诞而亵渎的翅膀，或许是为了适应月下的法则而生；又或许它不过是凡夫眼中所见的，其真身投下的扭曲一角罢了。",
+    "TypeDescription": "角色培养素材",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -37946,6 +38498,28 @@
     "ItemType": 2,
     "Name": "深秘圣物匣·一等",
     "Description": "收纳圣遗物的圣物匣。愿见者可以感受圣迹。\n\n每个圣物匣中，能获得以下圣遗物套装中的一件：\n·「穹境示现之夜」\n·「纺月的夜歌」",
+    "TypeDescription": "圣物匣",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117026,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "深秘圣物匣·二等",
+    "Description": "收纳圣遗物的圣物匣。愿见者可以蒙受祝福。\n\n每个圣物匣中，能获得以下圣遗物套装中的一件：\n·「晨星与月的晓歌」\n·「风起之日」\n·「战狂」\n·「教官」\n·「流放者」",
+    "TypeDescription": "圣物匣",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117027,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "深秘圣物匣·一等",
+    "Description": "收纳圣遗物的圣物匣。愿见者可以感受圣迹。\n\n每个圣物匣中，能获得以下圣遗物套装中的一件：\n·「晨星与月的晓歌」\n·「风起之日」",
     "TypeDescription": "圣物匣",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -44276,6 +44850,17 @@
     "Icon": "UI_ItemIcon_129002"
   },
   {
+    "Rank": 0,
+    "MaterialType": 2,
+    "Id": 129003,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "哥伦比娅赠予你的祈月之花",
+    "Description": "哥伦比娅赠送的祈月之花，散发着纯净与空灵的芬芳，一如你在银月之庭所见的那些。\n它唤起一段故事的记忆，也预示一个崭新的开篇。它已不会再失去自己的色彩了。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_129003"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 120753,
@@ -48514,6 +49099,17 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121316,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "忆识者的戏言",
+    "Description": "沾染锈迹的假花，据说是盗宝团的创立者雷德·米勒留下的信物。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121319"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121317,
     "RankLevel": 0,
     "ItemType": 2,
@@ -48521,6 +49117,17 @@
     "Description": "如夜幕般漆黑的鸦羽，据说是盗宝团的创立者雷德·米勒留下的信物。",
     "TypeDescription": "任务道具",
     "Icon": "UI_ItemIcon_121317"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121318,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "眷识者的哀慕",
+    "Description": "早已停转的时计，据说是盗宝团的创立者雷德·米勒留下的信物。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121320"
   },
   {
     "Rank": 10,
@@ -48587,6 +49194,17 @@
     "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121326,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "避难所备用手轮",
+    "Description": "用以维修「末日净化系统」的备用手轮。虽然没有生锈，但不知为何依然散发着一股淡淡的、挥之不去的铁锈味。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121326"
   },
   {
     "Rank": 10,
@@ -49054,6 +49672,61 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121378,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "金钥匙",
+    "Description": "金闪闪的钥匙，光是钥匙本身就有不菲的价值。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121378"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121379,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "银钥匙",
+    "Description": "银灿灿的钥匙，稍逊于金钥匙，但也并非寻常之物。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121379"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121380,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "铁钥匙",
+    "Description": "普通的铁钥匙，即使在众多钥匙之中，也是最为普通，随处可见的一种。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121380"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121381,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "铁钥匙",
+    "Description": "普通的铁钥匙，即使在众多钥匙之中，也是最为普通，随处可见的一种。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121381"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121382,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "奇怪的铁钱",
+    "Description": "和通常所见的铁钱有几分相似的硬币，或许是铁钱的一种？",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121382"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121383,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49217,6 +49890,39 @@
     "Icon": "UI_ItemIcon_71700047"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121403,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "陈年的松果",
+    "Description": "已经不再新鲜的种子，哪怕是不得已的情况，吃下它或许也不是一个好的选择。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_100020"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121404,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "陈年的黑麦",
+    "Description": "灰褐色的穗子，隐约可以闻到一丝发霉的气息…",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121405,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "神秘的肉",
+    "Description": "散发着神秘气息的新鲜肉块。不知道吃起来会是什么味道呢？",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_100061"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121406,
@@ -49248,6 +49954,28 @@
     "Description": "从箱子里取出来的一部分「秘闻馆」资金。千金不易得，谨慎使用。",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121409,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「瞬影」留影机",
+    "Description": "搭载了乐平波琳最新研发的「瞬影」镜头的特制留影机。\n其精密的内部结构，足以将飞鸟的振翅与剑士的锋芒都凝固于一瞬。它能捕捉极致的速度，也能留住最珍贵的画面——与友人重逢时，那每一个闪闪发光的、值得被珍藏的瞬间。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_220094"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121410,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "「最亮最闪」的苍晶螺",
+    "Description": "答应了芙佳，要为她精挑细选，采集最亮最闪的苍晶螺。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_101232"
   },
   {
     "Rank": 10,
@@ -49360,6 +50088,28 @@
     "Icon": "UI_ItemIcon_121426"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121439,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "心愿",
+    "Description": "在说书人的故事里，人们将各类美好的心愿寄托在霄灯之上，放飞至高天。但是，这些心愿也曾遭妖魔吞噬，所幸有仙人出手，护得了这些心愿的周全…",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121439"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121440,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "月光",
+    "Description": "在说书人的故事里，某些强大的妖魔就连月光也能吞噬。为了救出被吞噬的月光，那位仙人也曾多次出手…",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121440"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121441,
@@ -49369,6 +50119,226 @@
     "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121454,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「白马仙人在璃月港参观白马仙人」",
+    "Description": "一张由派蒙题名的留影，凝固了三人的欢笑瞬间。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121454"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121455,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "古诗一首",
+    "Description": "古诗一首",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_100214"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121456,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「木偶」的笔记本",
+    "Description": "由「仆人」转交给你的，桑多涅的遗物。记录了许多有关桑多涅的内容。\n虽然外表和书页有些陈旧，但不难看出笔记本主人对它的爱惜。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_120275"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121458,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "特别的糖雕匣",
+    "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121459,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "特别的糖雕匣",
+    "Description": "装有特制糖雕的匣子。里面装着的糖雕似乎是针对某人定制。无论如何，为了避免糖雕融化，还请尽快食用。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 25029,
+    "MaterialType": 78,
+    "Id": 121462,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "灵气散尽的某物",
+    "Description": "一件灵气已散尽的奇物，形制古朴，由美玉和青铜打造，正静待着重新焕发光彩的时刻。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_121462"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121463,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "新鲜的黑麦",
+    "Description": "刚从地里收割的麦子，散发着温暖的气息。要经过研磨与烘烤，才能化为醇厚的滋味。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121465,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "「最初的铁钱」",
+    "Description": "古旧的铁质钱币，其上摹刻着鸦印的形状，据说是很久以前的盗宝团创始人雷德·米勒打造出的第一枚真正的「铁钱」。\n在没有界限的世界里，在无人忍受饥寒的乐园里，贵金之神所赐予、所掌控的金钱，不该成为人与人之间互助的定础。\n「人」应当是金钱之主，而非其仆役。即使无法成为黄金之心的主人，也该让所有人平等掌控本就属于所有人的财富——\n\n但那也已经是很久以后的故事了。无论是最初的铁钱，还是在其后的数百年间，为不同的人传唱、解读、扭曲的理想，\n在那灯光所未及的冬夜，也不过是躲避着大人们的视线、偷偷溜出学院的二人，为扮演侠盗的游戏而刻下的代币罢了。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121438"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121466,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「白马仙人在璃月港参观白马仙人」",
+    "Description": "一张由派蒙题名的留影，凝固了三人的欢笑瞬间。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121466"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121467,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "银灯芯",
+    "Description": "能够展开结界的神圣灯盏，由于能量耗尽而变得黯淡无光。\n原本是霜月之子的祭器，曾为彷徨在失乐荒土上的古国遗民带去梦与诗歌，因遗落在光阴凝滞的「高塔」中而保存至今。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121467"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121468,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "银灯芯",
+    "Description": "能够展开结界的神圣灯盏，其中散发着暗弱的光芒。\n原本是霜月之子的祭器，曾为彷徨在失乐荒土上的古国遗民带去梦与诗歌，因遗落在光阴凝滞的「高塔」中而保存至今。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121468"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121469,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "银灯芯",
+    "Description": "能够展开结界的神圣灯盏，其中散发着微亮的光芒。\n原本是霜月之子的祭器，曾为彷徨在失乐荒土上的古国遗民带去梦与诗歌，因遗落在光阴凝滞的「高塔」中而保存至今。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121469"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121470,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "银灯芯",
+    "Description": "能够展开结界的神圣灯盏，其中充满了能量，熠熠生辉。\n原本是霜月之子的祭器，曾为彷徨在失乐荒土上的古国遗民带去梦与诗歌，因遗落在光阴凝滞的「高塔」中而保存至今。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121470"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121475,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "遗落的钥匙",
+    "Description": "或许可以打开某扇门。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_100302"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121476,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "避难所密钥卡·初阶",
+    "Description": "从皮拉米达城西侧某个奇怪终端处获得的密钥卡，形制平平无奇。\n据说可以用来开启终端下方的避难所大门。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121477,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "避难所密钥卡·进阶",
+    "Description": "在实验区域获得的密钥卡，形制平平无奇。\n其上印刷着工整的至冬文字：「高阶维修工阿列克谢·扎卡列维奇·柯泰尼科夫」。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121478,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "避难所密钥卡·高阶",
+    "Description": "在实验区域获得的密钥卡，形制平平无奇。\n其上印刷着工整的至冬文字：「主研究员格蕾兹娜·米科卢霍」。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "苍星妖灵史略",
+    "Description": "有关妖精历史的书籍，根据其中的一些细节，世人都认为是妖精中的年长者所作。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "边乡夜语·鬣兽",
+    "Description": "流传于至冬的民间故事书，据称讲述了各类不为人知的妖精逸闻。本篇讲述的是名为「鬣兽」的危险妖精。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "朔风集",
+    "Description": "载有历代执灯长事迹的诗集。大部分内容都在先前的灾厄中佚失，如今能收集的残篇只有原本的一小部分。",
+    "TypeDescription": "任务道具",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -49831,6 +50801,28 @@
     "Description": "通过「化种匣」获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「白灵果」。",
     "TypeDescription": "素材",
     "Icon": "UI_ItemIcon_130042"
+  },
+  {
+    "Rank": 248,
+    "MaterialType": 31,
+    "Id": 130043,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "「冬凌草」的种子",
+    "Description": "通过「化种匣」获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「冬凌草」。",
+    "TypeDescription": "素材",
+    "Icon": "UI_ItemIcon_130043"
+  },
+  {
+    "Rank": 247,
+    "MaterialType": 31,
+    "Id": 130044,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "「松珀香」的种子",
+    "Description": "通过「化种匣」获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「松珀香」。",
+    "TypeDescription": "素材",
+    "Icon": "UI_ItemIcon_130044"
   },
   {
     "Rank": 341,
@@ -52149,7 +53141,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十七",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「繁沸之港」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52160,7 +53152,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十八",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「白夜洇润」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52171,7 +53163,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百五十九",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「萦思随白帆」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52182,7 +53174,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「雨月夜想」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52193,7 +53185,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十一",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「向晚的丘甸」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52204,7 +53196,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十二",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「黄金城的祷颂」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52215,7 +53207,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十三",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「近月赞咏」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52226,7 +53218,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十四",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「自外而至」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52237,7 +53229,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十五",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「驻息的孤影」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52248,7 +53240,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十六",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「如霞的盐沼」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52259,7 +53251,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十七",
-    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「戒禁之域」。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52270,6 +53262,94 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "旋曜玉帛·其一百六十八",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含旋律为「升于陨圮」。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百六十九",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十一",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十二",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十三",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十四",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十五",
+    "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
+    "TypeDescription": "冒险道具",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "旋曜玉帛·其一百七十六",
     "Description": "蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含着来自挪德卡莱的神秘旋律。",
     "TypeDescription": "冒险道具",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -52504,6 +53584,39 @@
     "Description": "让它承载着良善的愿望飘向远方。",
     "TypeDescription": "海灯节材料",
     "Icon": "UI_ItemIcon_200004"
+  },
+  {
+    "Rank": 15135,
+    "MaterialType": 21,
+    "Id": 200005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "节庆霄灯",
+    "Description": "由总务司特别制作的特殊霄灯。可以装备在道具栏中，在璃月港内使用即可放出对应霄灯。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_200005"
+  },
+  {
+    "Rank": 15136,
+    "MaterialType": 21,
+    "Id": 200006,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "节礼霄灯",
+    "Description": "由总务司特别制作的特殊霄灯，借助此类霄灯，可以将各类礼物赠送给伙伴。可以装备在道具栏中，在璃月港内使用即可放出对应霄灯。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_200006"
+  },
+  {
+    "Rank": 15137,
+    "MaterialType": 21,
+    "Id": 200007,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "霄灯飞阵谱",
+    "Description": "总务司下发的图谱，上面记载着放飞霄灯的特殊技巧。如果按照图谱上的记载操作，或许能将霄灯放飞为特殊的「霄灯飞阵」。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_200007"
   },
   {
     "Rank": 430061,
@@ -53920,7 +55033,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "化种匣",
-    "Description": "从萍姥姥处获得的神奇匣子。据萍姥姥说，这匣子具有「化种」之能…依据原有植物的特性，可以将「化种」所得的种子种植在「尘歌壶」的对应田亩中。\n可供种植的植物：霓裳花、甜甜花、塞西莉亚花、琉璃百合、风车菊、清心、琉璃袋、落落莓、小灯草、绝云椒椒、胡萝卜、白萝卜、薄荷、蘑菇、鸣草、马尾、金鱼草、莲蓬、嘟嘟莲、海草、海灵芝、香辛果、墩墩桃、须弥蔷薇、久雨莲、茉洁草、柔灯铃、虹彩蔷薇、颗粒果、苦种、肉龙掌、青蜜莓、灼灼彩菊、浪沫羽鳃、微光角菌、云岩裂叶、霜盏花、夏槲果、白灵果。",
+    "Description": "从萍姥姥处获得的神奇匣子。据萍姥姥说，这匣子具有「化种」之能…依据原有植物的特性，可以将「化种」所得的种子种植在「尘歌壶」的对应田亩中。\n可供种植的植物：霓裳花、甜甜花、塞西莉亚花、琉璃百合、风车菊、清心、琉璃袋、落落莓、小灯草、绝云椒椒、胡萝卜、白萝卜、薄荷、蘑菇、鸣草、马尾、金鱼草、莲蓬、嘟嘟莲、海草、海灵芝、香辛果、墩墩桃、须弥蔷薇、久雨莲、茉洁草、柔灯铃、虹彩蔷薇、颗粒果、苦种、肉龙掌、青蜜莓、灼灼彩菊、浪沫羽鳃、微光角菌、云岩裂叶、霜盏花、夏槲果、白灵果、松珀香、冬凌草。",
     "TypeDescription": "小道具",
     "Icon": "UI_ItemIcon_220033"
   },
@@ -54891,6 +56004,17 @@
     "Description": "从艾莉丝那里得到的，由魔女们共同撰写的辞典。虽说名义上是为了一本名为《小魔女与不熄灭的火》的寓言书所作的注释，但实际内容却是魔女会为大家量身定制的「课题」。\n正所谓「流溢的逆行即是课业」，与伙伴们一同踏上取得擢升之冠冕的旅途吧！",
     "TypeDescription": "小道具",
     "Icon": "UI_ItemIcon_220126"
+  },
+  {
+    "Rank": 25028,
+    "MaterialType": 21,
+    "Id": 220127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「青玄乘阳华盖」",
+    "Description": "经由地脉洗礼，补充了灵气的「青玄乘阳华盖」，能够唤出青玉高辇，帮助使用者快速前往某地。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_220127"
   },
   {
     "Rank": 300201,
@@ -56175,7 +57299,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "绯云文斋",
-    "Description": "步骤详实的图纸，记载着「绯云文斋」的放置方法。\n璃月的书斋有着诸多门道，但「奢华」实为可有可无的选项，文人们更重视「气韵」与「清雅」。摆上一株葱郁的盆栽，平衡屋内的湿度，桌案与书柜的木材就能散发出清幽的淡香，配合有意留白的布局，与立灯如炽的光晕，使人神采奕然，笔走龙蛇。\n据传多年前，旅居绯云坡的某位墨客无心插柳，布置了这式书房，并被「万文集舍」的前代掌柜推广。此后它便以「绯云文斋」之名，为璃月的千家万户所熟知。\n使用后可进入放置界面查看。\n偏好这套摆设的同伴：行秋、钟离、凝光、云堇、白术、蓝砚",
+    "Description": "步骤详实的图纸，记载着「绯云文斋」的放置方法。\n璃月的书斋有着诸多门道，但「奢华」实为可有可无的选项，文人们更重视「气韵」与「清雅」。摆上一株葱郁的盆栽，平衡屋内的湿度，桌案与书柜的木材就能散发出清幽的淡香，配合有意留白的布局，与立灯如炽的光晕，使人神采奕然，笔走龙蛇。\n据传多年前，旅居绯云坡的某位墨客无心插柳，布置了这式书房，并被「万文集舍」的前代掌柜推广。此后它便以「绯云文斋」之名，为璃月的千家万户所熟知。\n使用后可进入放置界面查看。\n偏好这套摆设的同伴：行秋、钟离、凝光、云堇、白术、蓝砚、兹白",
     "TypeDescription": "摆设套装图纸",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -56274,7 +57398,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "轻策闲云居",
-    "Description": "步骤详实的图纸，记载着「轻策闲云居」的放置方法。\n以轻策庄为摹版布置的山间村庄。据说踏入此地后，游人便会被亲切的氛围感染，心境归于平和，发现以往疏忽的质朴之美。\n年少之时追求理想，为了事业闯荡，经历一段波澜壮阔的岁月，固然值得肯定。不过常年在外闯荡，可能也会有疲惫的一天。彼时，和睦的邻里与平静的乡间生活，也不失为一种选择。对于出门远游的年轻人，轻策庄始终持以长辈般的包容，随时欢迎他们归乡发展。\n使用后可进入放置界面查看。\n偏好这套摆设的同伴：辛焱、魈、胡桃、七七、申鹤、夜兰、瑶瑶、闲云",
+    "Description": "步骤详实的图纸，记载着「轻策闲云居」的放置方法。\n以轻策庄为摹版布置的山间村庄。据说踏入此地后，游人便会被亲切的氛围感染，心境归于平和，发现以往疏忽的质朴之美。\n年少之时追求理想，为了事业闯荡，经历一段波澜壮阔的岁月，固然值得肯定。不过常年在外闯荡，可能也会有疲惫的一天。彼时，和睦的邻里与平静的乡间生活，也不失为一种选择。对于出门远游的年轻人，轻策庄始终持以长辈般的包容，随时欢迎他们归乡发展。\n使用后可进入放置界面查看。\n偏好这套摆设的同伴：辛焱、魈、胡桃、七七、申鹤、夜兰、瑶瑶、闲云、兹白",
     "TypeDescription": "摆设套装图纸",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70333,6 +71457,270 @@
     "ItemType": 2,
     "Name": "「幕后黑鼬」",
     "Description": "步骤详实的图纸，记载着「『幕后黑鼬』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381344,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「静夜的密谈」",
+    "Description": "步骤详实的图纸，记载着「『静夜的密谈』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382277,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "简易担架-「平稳护送」",
+    "Description": "步骤详实的图纸，记载着「简易担架-『平稳护送』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382278,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「豪豪畅饮」",
+    "Description": "步骤详实的图纸，记载着「『豪豪畅饮』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382133,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「致友人」",
+    "Description": "步骤详实的图纸，记载着「『致友人』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "简易医疗护理床",
+    "Description": "步骤详实的图纸，记载着「简易医疗护理床」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384226,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「皮拉米达之帜」",
+    "Description": "步骤详实的图纸，记载着「『皮拉米达之帜』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391014,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "铁制可调节路障",
+    "Description": "步骤详实的图纸，记载着「铁制可调节路障」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391015,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「守望之城的独处」",
+    "Description": "步骤详实的图纸，记载着「『守望之城的独处』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391016,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「守望之城的庇托」",
+    "Description": "步骤详实的图纸，记载着「『守望之城的庇托』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391017,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「一隅之间」",
+    "Description": "步骤详实的图纸，记载着「『一隅之间』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391018,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「守望之城的照护」",
+    "Description": "步骤详实的图纸，记载着「『守望之城的照护』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391019,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「守望之城的锤炼」",
+    "Description": "步骤详实的图纸，记载着「『守望之城的锤炼』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391020,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「执剑长行」",
+    "Description": "步骤详实的图纸，记载着「『执剑长行』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394332,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「暖意可亲」",
+    "Description": "步骤详实的图纸，记载着「『暖意可亲』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394642,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「指挥若定」",
+    "Description": "步骤详实的图纸，记载着「『指挥若定』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "简易武器架-「取用便捷」",
+    "Description": "步骤详实的图纸，记载着「简易武器架-『取用便捷』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「亮堂堂移动小屋」",
+    "Description": "步骤详实的图纸，记载着「『亮堂堂移动小屋』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「如生机闪烁」",
+    "Description": "步骤详实的图纸，记载着「『如生机闪烁』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393223,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「绿意流动的葱茏」",
+    "Description": "步骤详实的图纸，记载着「『绿意流动的葱茏』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393224,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「绿意流动的青翠」",
+    "Description": "步骤详实的图纸，记载着「『绿意流动的青翠』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380469,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "轻型金属提灯",
+    "Description": "步骤详实的图纸，记载着「轻型金属提灯」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380470,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "立式路灯-「低损低耗」",
+    "Description": "步骤详实的图纸，记载着「立式路灯-『低损低耗』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380471,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "明彩霄灯-「好愿远游」",
+    "Description": "步骤详实的图纸，记载着「明彩霄灯-『好愿远游』」的制作方法。\n使用后可进入制作界面查看。",
+    "TypeDescription": "摆设图纸",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380472,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "明彩霄灯-「与友相约」",
+    "Description": "步骤详实的图纸，记载着「明彩霄灯-『与友相约』」的制作方法。\n使用后可进入制作界面查看。",
     "TypeDescription": "摆设图纸",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -1204,5 +1204,51 @@
     "SecondDescriptions": [
       "#Erhöht den mit Angriffen aus dem Fall von der Figur verursachten Schaden um 75{NON_BREAK_SPACE}%."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "#Verleiht allen Truppenmitgliedern einen Hydro-SCH-Bonus von 60{NON_BREAK_SPACE}%.",
+      "#Verleiht allen Truppenmitgliedern einen Elektro-SCH-Bonus von 60{NON_BREAK_SPACE}%."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "#Erhöht den mit heftigen Schlägen verursachten Schaden der aktuellen Figur um 75{NON_BREAK_SPACE}%."
+    ],
+    "SecondDescriptions": [
+      "#Erhöht den Schaden durch Mondleuchten-Reaktionen um 75{NON_BREAK_SPACE}%."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "#Verleiht allen Truppenmitgliedern einen Hydro-SCH-Bonus von 60{NON_BREAK_SPACE}%.",
+      "#Verleiht allen Truppenmitgliedern einen Geo-SCH-Bonus von 60{NON_BREAK_SPACE}%."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "#Erhöht den mit der Reaktion Mond unter Strom verursachten Schaden um 75{NON_BREAK_SPACE}%."
+    ],
+    "SecondDescriptions": [
+      "#Erhöht den mit der Reaktion Mond-Kristallisation verursachten Schaden um 75{NON_BREAK_SPACE}%."
+    ]
   }
 ]

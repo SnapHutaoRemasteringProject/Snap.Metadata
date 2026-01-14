@@ -716,7 +716,7 @@
       {
         "Id": 552,
         "Name": "Segugio seduto: Affidabile come un orologio",
-        "Description": "#Mentre <color=#FFD780FF>Gloria del generale</color> è attiva, la sua durata si estende di 1{NON_BREAK_SPACE}s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione. \nSi può verificare una sola volta ogni 0,1{NON_BREAK_SPACE}s. La durata può estendersi fino a 3{NON_BREAK_SPACE}s.",
+        "Description": "#Mentre <color=#FFD780FF>Gloria del generale</color> è attiva, la sua durata si estende di 1{NON_BREAK_SPACE}s quando un personaggio attivo vicino ottiene un frammento elementale tramite una reazione di Cristallizzazione o quando innesca una reazione di Cristallizzazione lunare. \nSi può verificare una sola volta ogni 0,1{NON_BREAK_SPACE}s. La durata può estendersi fino a 3{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Gorou_02"
       },
       {

@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Pyro Crystal's Boon</color>",
-    "Description": "All party members gain <color=#f39001>50%</color> Pyro and Geo DMG Bonus. Additionally, you will obtain nearby Crystallize shards every <color=#f39001>4</color>s"
+    "Description": "All party members gain <color=#f39001>70%</color> Pyro and Geo DMG Bonus. Additionally, you will obtain nearby Crystallize shards every <color=#f39001>4</color>s"
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Stoneshard Strike</color>",
-    "Description": "Unleashed at the character's position every <color=#f39001>{0}</color>s while <color=#f39001>Pyro Crystal's Boon</color> is active, dealing <color=#e09800>AoE Geo DMG</color>"
+    "Description": "Unleashed at the character's position periodically while <color=#f39001>Pyro Crystal's Boon</color> is active, dealing <color=#e09800>AoE Geo DMG</color>"
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Hydro Crystal's Boon</color>",
-    "Description": "All party members gain <color=#f39001>50%</color> Hydro and Geo DMG Bonus. Additionally, you will obtain nearby Crystallize shards every <color=#f39001>4</color>s"
+    "Description": "All party members gain <color=#f39001>70%</color> Hydro and Geo DMG Bonus, and Lunar-Crystallize DMG is increased by <color=#f39001>75%</color>. Additionally, you will obtain nearby Crystallize shards every <color=#f39001>4</color>s."
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Purrsonal Coordinated Assistance Robots",
     "Description": "One of the gadgets that Jahoda — a former treasure hunter — carries around with her. It is deployed upon using her Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color>.\nPurrsonal Coordinated Assistance Robots continuously restore HP to your active character. If the healed character's HP is above 70%, they also restore HP to the nearby party member with the lowest HP.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: If nearby opponents are affected by <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, or <color=#99FFFFFF>Cryo</color>, Purrsonal Coordinated Assistance Robots will convert to that element. The order of priority that determines which element will be converted to is: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, then <color=#99FFFFFF>Cryo</color>. After each deployment, a Purrsonal Coordinated Assistance Robot can undergo one such conversion. After converting, the Purrsonal Coordinated Assistance Robot will periodically attack up to 3 nearby opponents, dealing damage of the corresponding element."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Additional Buff Effects",
+    "Description": "The Traveler gains an attribute bonus for every element they have resonated with: \n<color=#80FFD7FF>Anemo</color>: CRIT Rate is increased by 10%,\n<color=#FFE699FF>Geo</color>: DEF is increased by 20%,\n<color=#FFACFFFF>Electro</color>: Energy Recharge is increased by 20%, \n<color=#99FF88FF>Dendro</color>: Elemental Mastery is increased by 60,\n<color=#80C0FFFF>Hydro</color>: HP is increased by 20%,\n<color=#FF9999FF>Pyro</color>: ATK is increased by 20%,\n<color=#99FFFFFF>Cryo</color>: CRIT DMG is increased by 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Gravity Ripple",
+    "Description": "After unleashing Elemental Skill <color=#FFD780FF>Eternal Tides</color>, Columbina will summon <color=#FFD780FF>Gravity Ripple</color>.\nGravity Ripple will follow the current active character on the field, while continuously dealing <color=#80C0FFFF>AoE Hydro DMG</color> to surrounding opponents.\n\nAdditionally, while Gravity Ripple is on the field, and nearby party members trigger Lunar reactions or inflict Lunar Reaction DMG, Columbina will gain the New Moon's Omen effect for 2s, continuously accumulating <color=#FFD780FF>Gravity</color>. 20 Gravity can be accumulated every 2s.\nYou can have up to 60 Gravity, and it will be removed when the duration of Gravity Ripple ends.\nOnce Gravity is accumulated to its limit, a special <color=#FFD780FF>Gravity Interference</color> will be triggered. Different effects will be triggered depending on the Lunar reaction type that has accumulated the most Gravity for Columbina. If the Lunar reaction type that has accumulated the most Gravity for Columbina is:\n· <color=#FFD780FF>Lunar-Charged</color>: Gravity Interference will deal a single instance of <color=#FFACFFFF>Electro AoE DMG</color>. This DMG is considered Lunar-Charged DMG. \n· <color=#FFD780FF>Lunar-Bloom</color>: Gravity Interference will fire 5 Moondew Sigils at surrounding opponents, dealing <color=#99FF88FF>Dendro DMG</color>. This DMG is considered Lunar-Bloom DMG.\n· <color=#FFD780FF>Lunar-Crystallize</color>: Gravity Interference will deal a single instance of <color=#FFE699FF>Geo AoE DMG</color>. This DMG is considered Lunar-Crystallize DMG."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Lunar Domain",
+    "Description": "The domain that Columbina summons after unleashing the Elemental Burst <color=#FFD780FF>Moonlit Melancholy</color>.\nWhen current active characters are within the <color=#FFD780FF>Lunar Domain</color>, Lunar Reaction DMG inflicted by all party members will increase."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Moonridge Dew",
+    "Description": "A special Verdant Dew resource provided by Columbina's Passive Talent, <color=#FFD780FF>Law of the New Moon</color>. Its maximum capacity and duration are calculated separately from Verdant Dew.\nWhen the party's Verdant Dew is expended, <color=#FFD780FF>Moonridge Dew</color> will be consumed instead.\nYour party can have up to 3 <color=#FFD780FF>Moonridge Dew</color>."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Nightingale's Song",
+    "Description": "The effect gained after Illuga unleashes his Elemental Burst <color=#FFD780FF>Shadowless Reflection</color>. It can increase the <color=#FFE699FF>Geo DMG</color> inflicted by current active characters."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Lunar Phase Shift",
+    "Description": "After using the Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color>, Zibai will change to this mode. This mode lasts at most {PARAM#P1263201|4S1}s and has the following properties:\n· Normal and Charged Attacks are converted into <color=#FFE699FF>Geo DMG</color> that cannot be overridden by other infusions.\n· The Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color> will also be converted to the Elemental Skill <color=#FFD780FF>Spirit Steed's Stride</color>: When Zibai has at least 70 <color=#FFD780FF>Phase Shift Radiance</color>, she can consume 70 Phase Shift Radiance to unleash Spirit Steed's Stride and cause two instances of <color=#FFE699FF>Geo DMG</color>. The second instance will be considered Lunar-Crystallize Reaction DMG.\n\nA maximum of 100 <color=#FFD780FF>Phase Shift Radiance</color> points can be accrued, and Zibai can accumulate them in the following ways:\n· She gains 10 points every second she is in the <color=#FFD780FF>Lunar Phase Shift</color> mode.\n· She gains 5 points when hitting an opponent with her Normal Attacks. She can gain Phase Shift Radiance points in this way once every 0.5s.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\nWhen nearby party members trigger Lunar-Crystallize, they will also accrue 35 <color=#FFD780FF>Phase Shift Radiance</color> points for Zibai. Points can be gained this way once every 4s. Unleashing the special elemental skill <color=#FFD780FF>Spirit Steed's Stride</color> will reset the CD for <color=#FFD780FF>Phase Shift Radiance</color> gained this way.\n\nZibai will leave this mode after unleashing <color=#FFD780FF>Spirit Steed's Stride</color> 4 times, or when the skill's duration ends."
   }
 ]

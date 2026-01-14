@@ -12765,8 +12765,7 @@
   {
     "Ids": [
       41422,
-      41423,
-      23787
+      41423
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12792,8 +12791,7 @@
   {
     "Ids": [
       41442,
-      41443,
-      23789
+      41443
     ],
     "RankLevel": 4,
     "SetId": 15041,
@@ -12821,7 +12819,9 @@
       41513,
       41514,
       23781,
-      23786
+      23786,
+      23787,
+      23789
     ],
     "RankLevel": 5,
     "SetId": 15041,
@@ -13028,5 +13028,285 @@
     "Name": "祭霜者的迷狂",
     "Description": "純淨無垢的時計，如今早已伴著其舊主的妄執一同停轉。",
     "Icon": "UI_RelicIcon_15042_5"
+  },
+  {
+    "Ids": [
+      43412,
+      43413,
+      23806
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "獻與月的酹祭",
+    "Description": "古時向空月奉獻祭祀的信徒，在儀式最後的狂歡宴上遺失的酒杯。",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43422,
+      43423,
+      23807
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "獻與月的離光",
+    "Description": "古時為空月書寫禱文的司祭，從這支羽筆中汲取了無數的靈感。",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43432,
+      43433
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "獻與月的銀冕",
+    "Description": "古時為空月獻上讚美詩的詩人，在唸誦出最後一個音節時摘下的銀冠。",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43442,
+      43443,
+      23809
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "獻與月的華夢",
+    "Description": "古時為空月女神塑像的工匠，為彰顯神明華美的容姿而精心雕琢的花飾。",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43452,
+      43453,
+      23810
+    ],
+    "RankLevel": 4,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "獻與月的終時",
+    "Description": "古時向空月求索真相的賢者，為銘記終末之時而準備的沙漏。",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      43513,
+      43514,
+      23801
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "獻與月的酹祭",
+    "Description": "古時向空月奉獻祭祀的信徒，在儀式最後的狂歡宴上遺失的酒杯。",
+    "Icon": "UI_RelicIcon_15043_1"
+  },
+  {
+    "Ids": [
+      43523,
+      43524,
+      23802
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "獻與月的離光",
+    "Description": "古時為空月書寫禱文的司祭，從這支羽筆中汲取了無數的靈感。",
+    "Icon": "UI_RelicIcon_15043_2"
+  },
+  {
+    "Ids": [
+      43533,
+      43534,
+      23803,
+      23808
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "獻與月的銀冕",
+    "Description": "古時為空月獻上讚美詩的詩人，在唸誦出最後一個音節時摘下的銀冠。",
+    "Icon": "UI_RelicIcon_15043_3"
+  },
+  {
+    "Ids": [
+      43543,
+      43544,
+      23804
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "獻與月的華夢",
+    "Description": "古時為空月女神塑像的工匠，為彰顯神明華美的容姿而精心雕琢的花飾。",
+    "Icon": "UI_RelicIcon_15043_4"
+  },
+  {
+    "Ids": [
+      43553,
+      43554,
+      23805
+    ],
+    "RankLevel": 5,
+    "SetId": 15043,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "獻與月的終時",
+    "Description": "古時向空月求索真相的賢者，為銘記終末之時而準備的沙漏。",
+    "Icon": "UI_RelicIcon_15043_5"
+  },
+  {
+    "Ids": [
+      44412,
+      44413
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "未言的宴話",
+    "Description": "形制古老的蒼色酒杯，據說在遙遠的過去曾屬於某位無名的吟遊詩人。",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44422,
+      44423
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "晨光的明誓",
+    "Description": "如晨曦般明淨的蒼色羽飾，據說在遙遠的過去曾屬於某位拋棄了姓名的侍衛。",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44432,
+      44433
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "哀慕的戀歌",
+    "Description": "點綴著青玉與蒼水晶的華貴髮飾，據說在遙遠的過去曾是烈風之主賜予眷寵之人的信物。",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44442,
+      44443
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "風花的箴銘",
+    "Description": "永不凋落的蒼色晶花，據說在遙遠的過去曾屬於某位祈喚千風與繁花的流民少女。",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44452,
+      44453,
+      23820
+    ],
+    "RankLevel": 4,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "春律的片刻",
+    "Description": "裝著蒼色細砂的沙漏，不知為何，無論怎樣顛倒，也無法讓其中的砂礫流動分毫。",
+    "Icon": "UI_RelicIcon_15044_5"
+  },
+  {
+    "Ids": [
+      44513,
+      44514,
+      23811,
+      23816,
+      23817,
+      23818
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 4,
+    "ItemType": 3,
+    "Name": "未言的宴話",
+    "Description": "形制古老的蒼色酒杯，據說在遙遠的過去曾屬於某位無名的吟遊詩人。",
+    "Icon": "UI_RelicIcon_15044_1"
+  },
+  {
+    "Ids": [
+      44523,
+      44524,
+      23812
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 2,
+    "ItemType": 3,
+    "Name": "晨光的明誓",
+    "Description": "如晨曦般明淨的蒼色羽飾，據說在遙遠的過去曾屬於某位拋棄了姓名的侍衛。",
+    "Icon": "UI_RelicIcon_15044_2"
+  },
+  {
+    "Ids": [
+      44533,
+      44534,
+      23813,
+      23819
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 5,
+    "ItemType": 3,
+    "Name": "哀慕的戀歌",
+    "Description": "點綴著青玉與蒼水晶的華貴髮飾，據說在遙遠的過去曾是烈風之主賜予眷寵之人的信物。",
+    "Icon": "UI_RelicIcon_15044_3"
+  },
+  {
+    "Ids": [
+      44543,
+      44544,
+      23814
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 1,
+    "ItemType": 3,
+    "Name": "風花的箴銘",
+    "Description": "永不凋落的蒼色晶花，據說在遙遠的過去曾屬於某位祈喚千風與繁花的流民少女。",
+    "Icon": "UI_RelicIcon_15044_4"
+  },
+  {
+    "Ids": [
+      44553,
+      44554,
+      23815
+    ],
+    "RankLevel": 5,
+    "SetId": 15044,
+    "EquipType": 3,
+    "ItemType": 3,
+    "Name": "春律的片刻",
+    "Description": "裝著蒼色細砂的沙漏，不知為何，無論怎樣顛倒，也無法讓其中的砂礫流動分毫。",
+    "Icon": "UI_RelicIcon_15044_5"
   }
 ]

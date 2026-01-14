@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Protección pirocristalina</color>",
-    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>50%</color> de Bono de Daño Pyro y Geo. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
+    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>70%</color> de Bono de Daño Pyro y Geo. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Emboscada rocosa</color>",
-    "Description": "#Mientras el efecto de <color=#f39001>protección pirocristalina</color> esté activo, en la ubicación del personaje se liberará cada <color=#f39001>{0}</color>{NON_BREAK_SPACE}s una emboscada rocosa que inflige <color=#e09800>Daño Geo en el AdE</color>."
+    "Description": "Mientras el efecto de <color=#f39001>protección pirocristalina</color> esté activo, en la ubicación del personaje se liberará cada cierto tiempo una arremetida rocosa que inflige <color=#e09800>Daño Geo en el AdE</color>."
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Protección hidrocristalina</color>",
-    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>50%</color> de Bono de Daño Hydro y Geo. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
+    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>70%</color> de Bono de Daño Hydro y Geo, y el daño infligido por la reacción de Cristalización Lunar aumenta un <color=#f39001>75%</color>. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Coordinadores gatunos de asistencia doméstica",
     "Description": "Uno de los artilugios que llevaba Jahoda cuando era cazadora de tesoros. Los saca al usar la Habilidad Definitiva, <color=#FFD780FF>Dispositivo secreto: Los siete artilugios de una cazadora</color>.\nLos coordinadores gatunos de asistencia doméstica restaurarán Vida continuamente a tu personaje en uso del equipo. Si el personaje que recibe la curación tiene más del 70% de la Vida, también curarán al personaje cercano con menos Vida del equipo.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nSi los enemigos cercanos están afectados por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, los coordinadores gatunos de asistencia doméstica cambiarán al tipo elemental correspondiente según el siguiente orden de prioridad: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, <color=#99FFFFFF>Cryo</color>. Los coordinadores gatunos de asistencia doméstica solo podrán sufrir un cambio elemental cada vez que se saquen al campo de batalla. Tras producirse dicho cambio, atacarán cada cierto tiempo a un máximo de 3 enemigos, a los cuales infligirán daño del elemento correspondiente."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Fortalecimientos adicionales",
+    "Description": "#{F#La}{M#El} Viajer{F#a}{M#o} obtiene una bonificación de atributo por cada elemento con el que haya resonado:\n<color=#80FFD7FF>Anemo</color>: Prob. CRIT +10%.\n<color=#FFE699FF>Geo</color>: DEF +20%.\n<color=#FFACFFFF>Electro</color>: Recarga de Energía +20%.\n<color=#99FF88FF>Dendro</color>: Maestría Elemental +60{NON_BREAK_SPACE}pts.\n<color=#80C0FFFF>Hydro</color>: Vida +20%.\n<color=#FF9999FF>Pyro</color>: ATQ +20%.\n<color=#99FFFFFF>Cryo</color>: Daño CRIT +20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Oleaje gravitacional",
+    "Description": "#Tras usar la Habilidad Elemental, <color=#FFD780FF>Mareas inmemoriales</color>, Colombina invocará un <color=#FFD780FF>oleaje gravitacional</color>.\nEl oleaje gravitacional seguirá al personaje en uso e infligirá <color=#80C0FFFF>Daño Hydro en el AdE</color> continuamente a los enemigos cercanos.\n\nAdemás, mientras el oleaje gravitacional esté activo, cuando un personaje cercano del equipo cause una Reacción Lunar o inflija daño de Reacción Lunar, Colombina obtendrá el efecto de “revelación de la Luna Nueva” durante los 2{NON_BREAK_SPACE}s siguientes, con el que acumulará constantemente <color=#FFD780FF>fuerza gravitatoria</color>. Cada 2{NON_BREAK_SPACE}s podrá acumular 20{NON_BREAK_SPACE}pts. de fuerza gravitatoria.\nEl límite de fuerza gravitatoria es de 60{NON_BREAK_SPACE}pts., y dicho valor se eliminará cuando termine la duración de oleaje gravitacional.\nAl alcanzar el máximo de fuerza gravitatoria, se activará una <color=#FFD780FF>interferencia gravitacional</color> especial que producirá diferentes efectos según la Reacción Lunar que más fuerza gravitatoria haya otorgado a Colombina. Si dicha Reacción Lunar es:\n·<color=#FFD780FF>Electrocargado Lunar</color>: la interferencia gravitacional infligirá una vez <color=#FFACFFFF>Daño Electro en el AdE</color> considerado como daño de Electrocargado Lunar.\n·<color=#FFD780FF>Florecimiento Lunar</color>: la interferencia gravitacional disparará 5 estelas rociolunares contra los enemigos cercanos, las cuales infligirán <color=#99FF88FF>Daño Dendro</color> considerado como daño de Florecimiento Lunar.\n·<color=#FFD780FF>Cristalización Lunar</color>: la interferencia gravitacional infligirá una vez <color=#FFE699FF>Daño Geo en el AdE</color> considerado como daño de Cristalización Lunar."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Dominio lunar",
+    "Description": "Un terreno especial creado por Colombina tras usar su Habilidad Definitiva, <color=#FFD780FF>Nostalgia de la luz lunar</color>.\nCuando el personaje en uso se encuentre en el <color=#FFD780FF>dominio lunar</color>, el daño de las Reacciones Lunares de todos los personajes del equipo aumentará."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Rocío cumbreluna",
+    "Description": "Un tipo de rocío de la espesura especial proporcionado por el talento pasivo de Colombina, <color=#FFD780FF>La ley de la Luna Nueva</color>. El límite y la duración de este tipo de rocío se calculan de forma independiente a los del rocío de la espesura.\nCuando el rocío de la espesura del equipo se agote, en su lugar se consumirá el <color=#FFD780FF>rocío cumbreluna</color>.\nEl límite de <color=#FFD780FF>rocío cumbreluna</color> es de 3 gotas."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Canto del ruiseñor",
+    "Description": "Este efecto, obtenido tras usar la Habilidad Definitiva de Illuga, <color=#FFD780FF>Reflejo sin sombra</color>, puede aumentar el <color=#FFE699FF>Daño Geo</color> que inflige el personaje en uso."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Intersticio faselunar",
+    "Description": "#Zibai cambia a este modo tras usar su Habilidad Elemental, <color=#FFD780FF>Manifestación terraceleste</color>. Dicho modo dura {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s y posee las siguientes propiedades:\n·El daño de sus Ataques Normales y Cargados se convierte en <color=#FFE699FF>Daño Geo</color>, el cual no puede sustituirse imbuyéndose de otro elemento.\n·La Habilidad Elemental, <color=#FFD780FF>Manifestación terraceleste</color>, se remplaza por la Habilidad Elemental especial <color=#FFD780FF>Pisotón yeguaespiritual</color>, de manera que, cuando Zibai tenga al menos 70{NON_BREAK_SPACE}pts. de fulgor intersticial, podrá consumirlos para usar Pisotón yeguaespiritual e infligir dos golpes de <color=#FFE699FF>Daño Geo</color>. El segundo golpe se considera daño de Cristalización Lunar.\n\nEl límite de puntos de <color=#FFD780FF>fulgor intersticial</color> es 100, y Zibai puede obtenerlos de las siguientes formas:\n·Cuando está en modo <color=#FFD780FF>intersticio faselunar</color>, obtiene 10{NON_BREAK_SPACE}pts. de fulgor intersticial por segundo.\n·Al golpear a un enemigo con un Ataque Normal, obtiene 5{NON_BREAK_SPACE}pts. de fulgor intersticial. Esto solo puede ocurrir una vez cada 0.5{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nCuando un personaje cercano del equipo causa una reacción de Cristalización Lunar, Zibai también obtiene 35{NON_BREAK_SPACE}pts. de <color=#FFD780FF>fulgor intersticial</color>. Esto solo puede ocurrir una vez cada 4{NON_BREAK_SPACE}s. Usar la Habilidad Elemental especial <color=#FFD780FF>Pisotón yeguaespiritual</color> reiniciará el TdE de la obtención de <color=#FFD780FF>fulgor intersticial</color> por medio de esta forma.\n\nZibai saldrá de este modo cuando haya usado cuatro veces <color=#FFD780FF>Pisotón yeguaespiritual</color> o cuando termine su duración."
   }
 ]

@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Lichtbringende Mondscherbe",
+    "Description": "Ein legendäres Schwert, geschmiedet von einem Adepten, der sich in den klaren Quellen verbarg. Das Schwert wurde aus dem fließenden Mondlicht des Brunnens erschaffen und zeigt seine wahre Form nur in der Dämmerung.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Erbe vom Lang-Gan",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Erhöht die VTD um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5{NON_BREAK_SPACE}s lang den Schaden der Reaktion Mond-Kristallisation um <color=#99FFFFFF>64{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "#Erhöht die VTD um <color=#99FFFFFF>25{NON_BREAK_SPACE}%</color>. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5{NON_BREAK_SPACE}s lang den Schaden der Reaktion Mond-Kristallisation um <color=#99FFFFFF>80{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "#Erhöht die VTD um <color=#99FFFFFF>30{NON_BREAK_SPACE}%</color>. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5{NON_BREAK_SPACE}s lang den Schaden der Reaktion Mond-Kristallisation um <color=#99FFFFFF>96{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "#Erhöht die VTD um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color>. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5{NON_BREAK_SPACE}s lang den Schaden der Reaktion Mond-Kristallisation um <color=#99FFFFFF>112{NON_BREAK_SPACE}%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "#Erhöht die VTD um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>. Erhöht nach dem Anwenden der Elementarfähigkeit durch den Träger 5{NON_BREAK_SPACE}s lang den Schaden der Reaktion Mond-Kristallisation um <color=#99FFFFFF>128{NON_BREAK_SPACE}%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“ oder „Mondspross“ <color=#99FFFFFF>12</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>60</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
+          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ <color=#99FFFFFF>12</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>60</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
         },
         {
           "Level": 1,
-          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“ oder „Mondspross“ <color=#99FFFFFF>15</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>75</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
+          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ <color=#99FFFFFF>15</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>75</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
         },
         {
           "Level": 2,
-          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“ oder „Mondspross“ <color=#99FFFFFF>18</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>90</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
+          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ <color=#99FFFFFF>18</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>90</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
         },
         {
           "Level": 3,
-          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“ oder „Mondspross“ <color=#99FFFFFF>21</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>105</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
+          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ <color=#99FFFFFF>21</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>105</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
         },
         {
           "Level": 4,
-          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“ oder „Mondspross“ <color=#99FFFFFF>24</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>120</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
+          "Description": "#Stellt beim Auslösen der Reaktionen „Unter Strom“, „Mond unter Strom“, „Sprießen“, „Mondspross“, „Kristallisation“ oder „Mond-Kristallisation“ <color=#99FFFFFF>24</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und erhöht die Elementarkunde 15{NON_BREAK_SPACE}s lang um <color=#99FFFFFF>120</color>{NON_BREAK_SPACE}Punkte, 15{NON_BREAK_SPACE}s Abklingzeit. Dieser Effekt kann auch ausgelöst werden, wenn die damit ausgerüstete Figur inaktiv ist."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#Erhöht den ANG um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>18{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
+          "Description": "#Erhöht den ANG um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>18{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden."
         },
         {
           "Level": 1,
-          "Description": "#Erhöht den ANG um <color=#99FFFFFF>25{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>22,5{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
+          "Description": "#Erhöht den ANG um <color=#99FFFFFF>25{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>22,5{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden."
         },
         {
           "Level": 2,
-          "Description": "#Erhöht den ANG um <color=#99FFFFFF>30{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>27{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
+          "Description": "#Erhöht den ANG um <color=#99FFFFFF>30{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>27{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden."
         },
         {
           "Level": 3,
-          "Description": "#Erhöht den ANG um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>31,5{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
+          "Description": "#Erhöht den ANG um <color=#99FFFFFF>35{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>31,5{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden."
         },
         {
           "Level": 4,
-          "Description": "#Erhöht den ANG um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>36{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt."
+          "Description": "#Erhöht den ANG um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn Truppenmitglieder Elementarsplitter durch die Reaktion „Kristallisation“ erhalten oder die Reaktion „Mond-Kristallisation“ auslösen, 1 Siegel, das den Schaden der Elementarfähigkeit um <color=#99FFFFFF>36{NON_BREAK_SPACE}%</color> erhöht. Das Siegel hält 15{NON_BREAK_SPACE}s und der Träger kann bis zu 2 Siegel auf einmal haben. Alle Siegel des Trägers werden 0,2{NON_BREAK_SPACE}s, nachdem dessen Elementarfähigkeit Schaden verursacht hat, entfernt. Durch die Reaktion „Mond-Kristallisation“ kann pro Sekunde nur 1 Siegel erhalten werden."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Nachtmusik im Schleier",
+    "Description": "Eine vom Mondlicht umhüllte Jadeperle. Sie strahlt selbst in der kalten Winternacht eine liedhafte Wärme aus.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ballade der Kreuzung",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#Erhöht die max. LP um <color=#99FFFFFF>10{NON_BREAK_SPACE}%</color>. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, <color=#99FFFFFF>14</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um <color=#99FFFFFF>14{NON_BREAK_SPACE}%</color> und den KSCH durch Mondleuchten-Reaktionen um <color=#99FFFFFF>60{NON_BREAK_SPACE}%</color>. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist."
+        },
+        {
+          "Level": 1,
+          "Description": "#Erhöht die max. LP um <color=#99FFFFFF>12{NON_BREAK_SPACE}%</color>. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, <color=#99FFFFFF>15</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um <color=#99FFFFFF>16{NON_BREAK_SPACE}%</color> und den KSCH durch Mondleuchten-Reaktionen um <color=#99FFFFFF>80{NON_BREAK_SPACE}%</color>. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist."
+        },
+        {
+          "Level": 2,
+          "Description": "#Erhöht die max. LP um <color=#99FFFFFF>14{NON_BREAK_SPACE}%</color>. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, <color=#99FFFFFF>16</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um <color=#99FFFFFF>18{NON_BREAK_SPACE}%</color> und den KSCH durch Mondleuchten-Reaktionen um <color=#99FFFFFF>100{NON_BREAK_SPACE}%</color>. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist."
+        },
+        {
+          "Level": 3,
+          "Description": "#Erhöht die max. LP um <color=#99FFFFFF>16{NON_BREAK_SPACE}%</color>. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion auslöst oder Gegnern damit Schaden zufügt, <color=#99FFFFFF>17</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um <color=#99FFFFFF>20{NON_BREAK_SPACE}%</color> und den KSCH durch Mondleuchten-Reaktionen um <color=#99FFFFFF>120{NON_BREAK_SPACE}%</color>. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist."
+        },
+        {
+          "Level": 4,
+          "Description": "#Erhöht die max. LP um <color=#99FFFFFF>18{NON_BREAK_SPACE}%</color>. Stellt dem Träger, wenn dieser eine Mondleuchten-Reaktion anwendet oder Gegnern damit Schaden zufügt, <color=#99FFFFFF>18</color>{NON_BREAK_SPACE}Punkte Elementarenergie wieder her und verleiht ihm den Effekt „Heiligwein des Meers des reichen Segens“, der 12{NON_BREAK_SPACE}s lang anhält: Erhöht die max. LP weiter um <color=#99FFFFFF>22{NON_BREAK_SPACE}%</color> und den KSCH durch Mondleuchten-Reaktionen um <color=#99FFFFFF>140{NON_BREAK_SPACE}%</color>. Der Elementarenergie-Wiederherstellungs-Effekt hat eine Abklingzeit von 18{NON_BREAK_SPACE}s und kann auch ausgelöst werden, wenn der Träger inaktiv ist."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

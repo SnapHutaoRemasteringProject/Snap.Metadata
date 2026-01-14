@@ -712,7 +712,7 @@
         },
         "Id": 872101,
         "Name": "Héritier de l'autorité de l'ancienne mer",
-        "Description": "Lorsqu'un personnage de l'équipe déclenche une réaction d'Évaporation, de Gel, d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Dispersion Hydro ou de Cristallisation Hydro sur un ennemi, Neuvillette obtient un cumul de gloire draconique passée pendant 30 s : peut être cumulé 3 fois maximum, ce qui augmente les DGT de l'attaque chargée « Jugement équitable » à une valeur équivalant à 110 %, 125 % ou 160 % des DGT d'origine, selon le nombre de cumuls.\nLes cumuls de gloire draconique passée de chaque réaction élémentaire existent indépendamment les uns des autres.",
+        "Description": "Lorsqu'un personnage de l'équipe déclenche une réaction d'Évaporation, de Gel, d'Électrocution, de Sélénocution, de Fleurissement, de Sélénofleurissement, de Dispersion Hydro, de Cristallisation Hydro ou de Sélénocristallisation sur un ennemi, Neuvillette obtient un cumul de gloire draconique passée pendant 30 s : peut être cumulé 3 fois maximum, ce qui augmente les DGT de l'attaque chargée « Jugement équitable » à une valeur équivalant à 110 %, 125 % ou 160 % des DGT d'origine, selon le nombre de cumuls.\nLes cumuls de gloire draconique passée de chaque réaction élémentaire existent indépendamment les uns des autres.",
         "Icon": "UI_Talent_S_Neuvillette_05"
       },
       {
@@ -1167,6 +1167,14 @@
     ]
   },
   "Costumes": [
+    {
+      "Id": 208701,
+      "Name": "Cadeau mélusin",
+      "Description": "Un cadeau surprise pour Neuvillette. Le plaisir ne vient pas seulement du cadeau lui-même, mais de chaque petite main qui a contribué à sa création. Comme les rivières se jettent dans l'immensité de la mer, les gouttes de rosée peuvent s'unir pour créer un miracle scintillant de mille reflets.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
     {
       "Id": 208700,
       "Name": "Arbitrage sans équivoque",

@@ -2,16 +2,30 @@
   {
     "Id": 1,
     "Icon": "UI_AvatarIcon_PlayerBoy_Circle",
-    "Name": "#Viajer{F#a}{M#o}",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000005
   },
   {
+    "Id": 11,
+    "Icon": "UI_AvatarIcon_PlayerBoyCostumeCWXR_Circle",
+    "Name": "{0}: Renacer del cielo y la tierra",
+    "UnlockType": 3,
+    "UnlockParameter": 200501
+  },
+  {
     "Id": 2,
     "Icon": "UI_AvatarIcon_PlayerGirl_Circle",
-    "Name": "#Viajer{F#a}{M#o}",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000007
+  },
+  {
+    "Id": 21,
+    "Icon": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle",
+    "Name": "{0}: Renacer del cielo y la tierra",
+    "UnlockType": 3,
+    "UnlockParameter": 200701
   },
   {
     "Id": 100,
@@ -583,7 +597,7 @@
   {
     "Id": 6000,
     "Icon": "UI_AvatarIcon_Wanderer_Circle",
-    "Name": "Trotamundos",
+    "Name": "{0}",
     "UnlockType": 2,
     "UnlockParameter": 10000075
   },
@@ -593,6 +607,13 @@
     "Name": "Yaoyao",
     "UnlockType": 2,
     "UnlockParameter": 10000077
+  },
+  {
+    "Id": 6101,
+    "Icon": "UI_AvatarIcon_YaoyaoCostumeWinter_Circle",
+    "Name": "Yaoyao: Embelesamiento de la lluvia y el bambú",
+    "UnlockType": 3,
+    "UnlockParameter": 207701
   },
   {
     "Id": 6200,
@@ -670,6 +691,13 @@
     "Name": "Neuvillette",
     "UnlockType": 2,
     "UnlockParameter": 10000087
+  },
+  {
+    "Id": 7101,
+    "Icon": "UI_AvatarIcon_NeuvilletteCostumeWinter_Circle",
+    "Name": "Neuvillette: Obsequio de las melusinas",
+    "UnlockType": 3,
+    "UnlockParameter": 208701
   },
   {
     "Id": 7200,
@@ -931,6 +959,27 @@
     "UnlockParameter": 10000124
   },
   {
+    "Id": 10800,
+    "Icon": "UI_AvatarIcon_Columbina_Circle",
+    "Name": "Colombina",
+    "UnlockType": 2,
+    "UnlockParameter": 10000125
+  },
+  {
+    "Id": 10900,
+    "Icon": "UI_AvatarIcon_Illuga_Circle",
+    "Name": "Illuga",
+    "UnlockType": 2,
+    "UnlockParameter": 10000127
+  },
+  {
+    "Id": 11000,
+    "Icon": "UI_AvatarIcon_Zibai_Circle",
+    "Name": "Zibai",
+    "UnlockType": 2,
+    "UnlockParameter": 10000126
+  },
+  {
     "Id": 100010,
     "Icon": "UI_AvatarIcon_72105_Circle",
     "Name": "Máscara de Hanachirusato",
@@ -1097,6 +1146,13 @@
     "Name": "Netochka",
     "UnlockType": 4,
     "UnlockParameter": 76003
+  },
+  {
+    "Id": 100250,
+    "Icon": "UI_AvatarIcon_76101_Circle",
+    "Name": "Flecha de Terpikeraunas",
+    "UnlockType": 4,
+    "UnlockParameter": 76101
   },
   {
     "Id": 200010,

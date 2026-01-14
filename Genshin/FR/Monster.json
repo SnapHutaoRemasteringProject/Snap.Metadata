@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Courant déferlant : Héritier de givrenuit",
+    "Title": "Héritier de givrenuit",
+    "Description": "Une élégante entité élémentaire qui possède une très grande affinité élémentaire. De longues années l'ont exposée à de fortes concentrations d'élément Hydro, ce qui lui a donné sa forme actuelle.\nLeur corps transparent, semblable à du verre, est composé presque entièrement de gouttelettes d'eau pure. Bien que plus douces que la plupart de leurs congénères, elles peuvent, une fois provoquées, transformer instantanément l'eau environnante en lames acérées capables de percer les défenses de tout intrus imprudent.\nD'après les prières encore récitées dans le grand nord, elles naissent grâce à la bénédiction de la Lune de givre. Ce sont des témoignages vivants de sa pureté et de sa lumière originelles. Peut-être est-ce pour cela qu'elles ne supportent pas que leur pureté soit entachée par les sept couleurs de la lumière céleste. Ou bien encore qu'elles rejettent toute forme de vie qui les approcherait d'un peu trop près.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Chasse-nuage voilé : Héritier de givrenuit",
+    "Title": "Héritier de givrenuit",
+    "Description": "Une élégante entité élémentaire qui possède une très grande affinité élémentaire. De longues années l'ont exposée à de fortes concentrations d'élément Anémo, ce qui lui a donné sa forme actuelle.\nLe vent, en soufflant, leur a tissé une paire d'ailes supplémentaires. Comme elles ne laissent presque jamais d'empreintes au sol, on les appelle aussi celles qui marchent avec le vent.\nD'après les prières encore récitées dans le grand nord, elles naissent grâce à la bénédiction de la Lune de givre. Ce sont des témoignages vivants de sa pureté et de sa lumière originelles. Peut-être est-ce pour cela qu'elles ne supportent pas que leur pureté soit entachée par les sept couleurs de la lumière céleste. Ou bien encore qu'elles rejettent toute forme de vie qui les approcherait d'un peu trop près.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Éclat solaire : Héritier de givrenuit",
+    "Title": "Héritier de givrenuit",
+    "Description": "Une élégante entité élémentaire qui possède une très grande affinité élémentaire. De longues années l'ont exposée à de fortes concentrations d'élément Anémo, ce qui lui a donné sa forme actuelle.\nLeur corps est presque entièrement recouvert d'une accumulation d'élément Géo, tandis que leurs bois robustes brillent de l'éclat de l'ambre poli.\nD'après les prières encore récitées dans le grand nord, elles naissent grâce à la bénédiction de la Lune de givre. Ce sont des témoignages vivants de sa pureté et de sa lumière originelles. Peut-être est-ce pour cela qu'elles ne supportent pas que leur pureté soit entachée par les sept couleurs de la lumière céleste. Ou bien encore qu'elles rejettent toute forme de vie qui les approcherait d'un peu trop près.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Herra de la nuit glaciale",
     "Title": "Gardien de la sainte lumière",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Mandragore hexadécatonique vétérane",
+    "Title": "Mandragore hexadécatonique vétérane",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Mandragore hexadécatonique vétérane",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Mégatoshaman mystifiant",
     "Title": "Un chaman ayant accidentellement obtenu la donjon-mination",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Pêcheur des fonds cachés",
+    "Title": "Bête perchée d'outremonde",
+    "Description": "#Une créature de l'Abîme qui se glisse à travers une faille cachée dans les profondeurs afin de venir depuis l'au-delà de ce monde.\nIl y a fort longtemps, un ancien philosophe décrivait les humains comme des « bipèdes sans plumes{NON_BREAK_SPACE}», utilisant cette simple expression pour distinguer l'humanité des animaux et affirmer la supériorité humaine. D'une certaine manière, ces errants immortels du vide cosmique silencieux, recouverts d'écailles plutôt que de plumes et utilisant leur bec crochu pour puiser de la biomasse d'un monde à l'autre, pourraient, eux aussi, correspondre à cette définition simpliste d'« humain ».",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Seigneur chuchoteur de cauchemars des fonds cachés",
+    "Title": "Souverain sans visage ni frontières",
+    "Description": "Une créature de l'Abîme qui se glisse à travers une faille cachée dans les profondeurs, observant silencieusement ce monde. Sa forme étrange et sans visage ne serait qu'une projection, car son véritable corps n'existerait que comme une masse informe d'énergie abyssale pure.\nMême les envahisseurs qui cherchent à s'emparer de ce monde doivent, dans une certaine mesure, en respecter les règles. À moins que les cieux ne se déchirent et que les défenses terrestres ne s'effondrent, ces êtres venus des étoiles ne peuvent guère faire plus que rôder aux confins de ce monde, y semant leur folie, leurs tentatives d'infiltration restant vaines... Mais combien de temps cette stabilité et cet ordre peuvent-ils réellement durer ?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Pyrochimiste des Pilleurs de trésors",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Élite vétérane des Pilleurs de trésors",
+    "Title": "Élite vétérane des Pilleurs de trésors",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Manifestation coulante de Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Manifestation caverneuse de Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Manifestation célère de Wayob",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Loup glacial radieux",
+    "Title": "Bête radieuse",
+    "Description": "Une bête qui a évolué grâce à une immersion millénaire dans l'ancienne énergie lunaire, donnant ainsi naissance à une écologie unique.\nLa légende raconte que lorsqu'une sombre calamité anéantit d'innombrables vies, les forêts frontalières sombrèrent dans un silence absolu. Dans cette quiétude, seul le hurlement des Loups glaciaux, appelant la lune, venait rompre le silence de mort. Nuit après nuit, leurs cris plaintifs résonnaient à travers l'immensité sauvage et déserte, baignée par le froid clair de lune.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Loup glacial radieux vétéran",
+    "Title": "Bête radieuse",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "Dottore",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "Dottore",
+    "Title": "Hérétique de la fausse lune",
+    "Description": "Dans tout le pays, il est vilipendé comme un hérétique. Pourtant, Dottore, le 2e Exécuteur des Fatui, s'est déjà emparé de l'autorité trilunaire et gravit à présent les longues marches menant au trône divin promis au « nouveau monde ».\nTout aurait dû nous appartenir.\nMais la raison a rejeté tout ce qui dépassait ses limites, laissant l'humanité aveugle à sa nature originelle.\nLa vie et la mort nous ont alors enfermés dans des enveloppes mortelles, enchaînant la moindre étincelle d'aspiration.\nEt le temps et l'espace se sont refermés en dernier, emprisonnant l'esprit dans une obéissance docile, de sorte que personne n'oserait imaginer s'en libérer.\nÀ partir de ce moment, de faux dieux ont gouverné le monde, chacun criant sa vérité comme la seule vérité, bien qu'aucun ne mérite le titre qu'il revendique si bruyamment.\nLe cours de la vie n'obéit à aucune structure naturelle : l'ordre lui a été imposé. Débarrassez-vous de toutes les chaînes qui entravent ce monde, et l'essence de toute chose se révélera enfin.\nEt cette révélation... est la première lueur du monde nouveau.\n« Ainsi je vous le demande : allez-vous continuer à subir ce monde archaïque et en ruine ? »",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

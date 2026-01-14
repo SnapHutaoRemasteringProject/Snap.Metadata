@@ -1662,6 +1662,39 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Colombina",
+    "Description": "Materiale per l'attivazione della costellazione di Colombina",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Zibai",
+    "Description": "Materiale per l'attivazione della costellazione di Zibai",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Illuga",
+    "Description": "Materiale per l'attivazione della costellazione di Illuga",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2856,6 +2889,39 @@
     "ItemType": 2,
     "Name": "Stella Fortuna di Jahoda",
     "Description": "Materiale per l'attivazione della costellazione di Jahoda",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6125,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Colombina",
+    "Description": "Materiale per l'attivazione della costellazione di Colombina",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6126,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Zibai",
+    "Description": "Materiale per l'attivazione della costellazione di Zibai",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Illuga",
+    "Description": "Materiale per l'attivazione della costellazione di Illuga",
     "TypeDescription": "Attiva costellazione",
     "Icon": "UI_ItemIcon_1103"
   },
@@ -4627,6 +4693,28 @@
     "Description": "Un frutto che cresce nelle aree più calde di Nod-Krai. È adorato sia dagli animali che escono dal letargo invernale sia dai bambini affamati.\nNella tradizione degli Eredi della Luna gelata, le bacche Midsommar sono un simbolo di vita e abbondanza, poiché crescono solo nel calore della primavera e dell'estate.\nEsiste una storia che parla di una lotta senza fine tra il Re del Leccio invernale e il Re della Quercia estiva: i due re gemelli si uccidono a vicenda mentre le stagioni si avvicendano nel corso dell'anno, facendo ritorno dall'aldilà per governare nuovamente la propria stagione fino alla fine dei tempi. Molti studiosi di Snezhnaya considerano questa storia una primitiva metafora religiosa dell'alternarsi delle stagioni. O almeno, questa è la spiegazione che si sono dati.",
     "TypeDescription": "Ingrediente culinario",
     "Icon": "UI_ItemIcon_101265"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101268,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Erba invernale",
+    "Description": "Una pianta resistente e capace di sopravvivere anche nelle condizioni climatiche più avverse, ondeggiando strenuamente nel gelido vento invernale.",
+    "TypeDescription": "Specialità di Nod-Krai",
+    "Icon": "UI_ItemIcon_101266"
+  },
+  {
+    "Rank": 317,
+    "MaterialType": 4,
+    "Id": 101269,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Ambra di pino",
+    "Description": "Una gemma formatasi dalla resina degli imponenti alberi antichi che un tempo ricoprivano Nod-Krai. Nel corso delle ere, la resina si è indurita trasformandosi in ambra cristallina, che ora risplende di tonalità vivide e luminose.",
+    "TypeDescription": "Specialità di Nod-Krai",
+    "Icon": "UI_ItemIcon_101269"
   },
   {
     "Rank": 330,
@@ -19553,6 +19641,39 @@
     "Icon": "UI_ItemIcon_121285"
   },
   {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121450,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sigillo della Luna arcobaleno",
+    "Description": "Raccogli tutti e 3 i sigilli per accedere al tesoro del Belvedere del Mar Vacuo.\n\nHai ottenuto questa pietra rotonda e incisa per caso durante l'esplorazione. Se riuscirai a trovarne tre con le stesse incisioni, dovresti essere in grado di ricreare un'ombra della radiosa luna che un tempo illuminava il mondo.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_121450"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121451,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sigillo della Luna arcobaleno",
+    "Description": "Raccogli tutti e 3 i sigilli per accedere al tesoro della Pianura Solcaonde.\n\nHai ottenuto questa pietra rotonda e incisa per caso durante l'esplorazione. Se riuscirai a trovarne tre con le stesse incisioni, dovresti essere in grado di ricreare un'ombra della radiosa luna che un tempo illuminava il mondo.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_121451"
+  },
+  {
+    "Rank": 410007,
+    "MaterialType": 5,
+    "Id": 121452,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sigillo della Luna arcobaleno",
+    "Description": "Raccogli tutti e 3 i sigilli per accedere al tesoro del Picco Cinereo.\n\nHai ottenuto questa pietra rotonda e incisa per caso durante l'esplorazione. Se riuscirai a trovarne tre con le stesse incisioni, dovresti essere in grado di ricreare un'ombra della radiosa luna che un tempo illuminava il mondo.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_121452"
+  },
+  {
     "Rank": 406,
     "MaterialType": 5,
     "Id": 106000,
@@ -30850,6 +30971,294 @@
     "Icon": "UI_ItemIcon_108856"
   },
   {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 30% dei PS max del personaggio selezionato e rigenera 510 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108931,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Delizia innevata propizia sospetta",
+    "Description": "Un dolciume di Liyue a base di riso. Il suo sapore è delicato e ordinario, così insignificante che svanisce dalla mente quasi subito dopo l'ultimo boccone.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 32% dei PS max del personaggio selezionato e rigenera 730 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108932,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Delizia innevata propizia",
+    "Description": "Un dolciume di Liyue fatto di riso. I chicchi vengono ridotti in farina e mescolati con zucchero e acqua fino a formare un impasto, che viene pressato in degli stampi e poi cotto al vapore. Ciò che si ottiene è una torta bianca come la neve che evoca la promessa di un raccolto ricco e abbondante.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 211001,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 35% dei PS max del personaggio selezionato e rigenera 930 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108933,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Delizia innevata propizia deliziosa",
+    "Description": "Un dolciume di Liyue a base di riso. Puro e bianco come neve fresca, si scioglie appena entra in bocca, offrendo una dolcezza pura e delicata che persiste come un leggero eco.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108857"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di 165 la DIF di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108934,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Involtini primavera croccanti sospetti",
+    "Description": "Uno spuntino fritto di Liyue. La loro crosta avrebbe dovuto essere croccante, eppure per qualche ragione è diventata flaccida e molliccia... Che strano... Aspetta, non è che questa è la carta oleata che serviva ad avvolgerli?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di 200 la DIF di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108935,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Involtini primavera croccanti",
+    "Description": "Uno spuntino fritto di Liyue. La carne sfilacciata e le verdure sono avvolte in una sottile sfoglia, il tutto arrotolato a cilindro e fritto fino a doratura. Croccanti fuori e morbide dentro, queste piccole prelibatezze sono amate sia dai giovani che dagli anziani.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di 235 la DIF di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108936,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Involtini primavera croccanti deliziosi",
+    "Description": "Uno spuntino fritto di Liyue. Con uno scrocchio secco, il succulento ripieno esplode in bocca al primo morso. Sotto la crosta dorata e velata non si nascondono solo strati di sapore, ma anche la vitalità e il calore quotidiani di Liyue.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108868"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 20% i PS max di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108937,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramelle alle erbe e alle bacche sospette",
+    "Description": "Delle caramelle di Nod-Krai. Sono inaspettatamente salate e pungenti, per essere quello che sono. Il loro sapore è talmente intenso da provocare un sonoro sgomento in chiunque le assaggi.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 22% i PS max di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108938,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramelle alle erbe e alle bacche",
+    "Description": "Delle caramelle di Nod-Krai fatte con fiori, erbe e bacche del posto. I loro colori vivaci portano un piccolo ma gradito tocco di dolcezza nelle vaste pianure gelide.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 25% i PS max di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108939,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramelle alle erbe e alle bacche deliziose",
+    "Description": "Delle caramelle di Nod-Krai. Appena ti toccano la lingua, una fragranza floreale e la dolcezza vivace delle bacche ti inondano i sensi, combinando freschezza e una piacevole dolcezza.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108858"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 30% dei PS max e 600 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Zuppa di verdure sospetta",
+    "Description": "Una zuppa preparata sobbollendo una varietà di verdure tritate con un condimento leggero. La lunga cottura a fuoco lento ha reso le verdure molli e flosce, con una consistenza leggermente pastosa. Potrà non essere gradevole, ma di sicuro non ti lascerà a stomaco vuoto.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 32% dei PS max e 1.250 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108941,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Zuppa di verdure",
+    "Description": "Una zuppa preparata sobbollendo una varietà di verdure tritate con un condimento leggero. È delicata, saporita e ottima per la tua salute.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 34% dei PS max e 1.900 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108942,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Zuppa di verdure deliziosa",
+    "Description": "Una zuppa preparata sobbollendo una varietà di verdure tritate con un condimento leggero. Il suo semplice metodo di cottura esalta il vero sapore delle verdure, e basta un sorso per infondere un piacevole calore allo stomaco che si diffonde in tutto il corpo.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108859"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 10% il tasso di CRIT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108943,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gioia davanti al focolare sospetta",
+    "Description": "Un'abbondante varietà di succulenti tagli di carne. Il grasso spesso ha un sapore amaro e salato, che colpisce il palato come una carrozza imbizzarrita, lasciando la gola unta... In pochi riescono a sopportare un simile assalto alle proprie papille gustative.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 15% il tasso di CRIT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108944,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gioia davanti al focolare",
+    "Description": "Un'abbondante varietà di succulenti tagli di carne, che uniscono salumi stagionati di Snezhnaya a prosciutto e salsiccia di Nod-Krai. Molti anziani di Nod-Krai amano gustarla accanto al fuoco sorseggiando una bevanda.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 520011,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 20% il tasso di CRIT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108945,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gioia davanti al focolare deliziosa",
+    "Description": "Un'abbondante varietà di succulenti tagli di carne. I tagli spessi e grezzi emanano note di pino e sale, le salsicce aggiungono un profondo sapore affumicato, e il prosciutto completa il tutto con il suo tocco ricco e avvolgente. Un banchetto audace e sostanzioso che qualsiasi abitante di Nod-Krai gradirebbe.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108860"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 900 PS.",
+    "Id": 108946,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungo fantasma sospetto",
+    "Description": "Del pane ripieno di verdure saltate. Dopo aver sbriciolato a fatica la crosta bruciacchiata, ti ritrovi la bocca invasa da un sapore di terra e fango. Dopo qualche boccone, la testa comincia a girarti... Che si tratti di un nuovo tipo di fungo velenoso?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 1.200 PS.",
+    "Id": 108947,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungo fantasma",
+    "Description": "Del pane ripieno di verdure saltate. Il composto cotto viene incorporato in un impasto di segale, lasciato lievitare e cotto al forno. Assomiglia così tanto a un fungo che, se non fosse per i tagli superficiali sulla parte superiore, lo si potrebbe quasi scambiare per un fungo vero.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 320014,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 1.500 PS.",
+    "Id": 108948,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungo fantasma delizioso",
+    "Description": "Del pane ripieno di verdure saltate. La sua crosta grezza risulta robusta come un muro solito, trattenendo i succhi saporiti del tenero ripieno di funghi. Un'unione che crea un sapore semplice ma appagante.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108861"
+  },
+  {
+    "Rank": 620009,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di 282 la DIF di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108949,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sapore di primavera",
+    "Description": "La specialità di Zibai. Il suo colore risplende come ambra dorata, proprio come i suoi occhi. Il suo aroma è simile a quello di un comune involtino primavera, ma la consistenza croccante nasconde una resistenza inaspettata... Che sia una ricetta segreta tramandata dall'antica nazione di Lang-Gan?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108862"
+  },
+  {
+    "Rank": 623004,
+    "MaterialType": 1,
+    "EffectDescription": "#Aumenta di un 30% i PS max di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108950,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Miraggio lunare",
+    "Description": "La specialità di Colombina. Questa caramella traslucida sembra fatta di goccioline di rugiada raccolte al chiaro di luna. La sua dolcezza è delicata ed evanescente, dando l'impressione di trovarsi in un sogno bellissimo e sfuggente. Viene da chiedersi quanta abilità e quanta cura abbia richiesto la sua preparazione...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108863"
+  },
+  {
+    "Rank": 220017,
+    "MaterialType": 15,
+    "EffectDescription": "Ripristina un 40% dei PS max e 2.350 PS aggiuntivi del personaggio selezionato.",
+    "Id": 108951,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Zuppa della guardia notturna",
+    "Description": "La specialità di Illuga. Una calda ciotola di brodo che scaccia la fatica con un solo sorso, alleviando la fatica dopo una lunga ronda notturna. Un simile effetto deve essere frutto dei molti anni di esperienza accumulata dal giovane capitano, che gli hanno permesso di perfezionare la sua ricetta speciale...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108864"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Ha un bell'aspetto e un sapore delizioso, ma non ha alcun effetto.",
+    "Id": 108952,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scultura di zucchero: Colombina",
+    "Description": "Una scultura di zucchero creata per catturare l'essenza di una persona. I suoi leggeri e svolazzanti ornamenti per capelli richiamano Colombina, la Fanciulla lunare, la cui sola presenza è eterea come una dolce melodia.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108865"
+  },
+  {
+    "Rank": 131099,
+    "MaterialType": 15,
+    "EffectDescription": "Ha un bell'aspetto e un sapore delizioso, ma non ha alcun effetto.",
+    "Id": 108953,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scultura di zucchero: Illuga",
+    "Description": "Una scultura di zucchero creata per catturare l'essenza di una persona. Il fedele uccello messaggero porta alla mente Illuga, il giovane capitano degli Orioli dell'incubo.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108866"
+  },
+  {
+    "Rank": 120199,
+    "MaterialType": 1,
+    "EffectDescription": "Meglio non mangiarlo!",
+    "Id": 108954,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungo fantasma carbonizzato",
+    "Description": "Del pane ripieno di verdure saltate. Cotto in modo disordinato e a fuoco a malapena controllato, ha proprio l'aspetto di un fungo di carbone nero come la pece. Il suo aspetto risulta decisamente minaccioso, e ingoiarne anche solo un morso potrebbe essere un grosso rischio...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108867"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -33677,6 +34086,72 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109642,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ricetta: Delizia innevata propizia",
+    "Description": "Una ricetta passo dopo passo per preparare una Delizia innevata propizia.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: involtini primavera croccanti",
+    "Description": "Una ricetta passo dopo passo per preparare degli involtini primavera croccanti.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: caramelle alle erbe e alle bacche",
+    "Description": "Una ricetta passo dopo passo per preparare delle caramelle alle erbe e alle bacche.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109645,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: zuppa di verdure",
+    "Description": "Una ricetta passo dopo passo per preparare una zuppa di verdure.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109646,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: Gioia davanti al focolare",
+    "Description": "Una ricetta passo dopo passo per preparare una Gioia davanti al focolare.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: Fungo fantasma",
+    "Description": "Una ricetta passo dopo passo per preparare un Fungo fantasma.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -35684,6 +36159,39 @@
     "Icon": "UI_ItemIcon_112136"
   },
   {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112137,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Occhio frammentato dell'ombra profonda",
+    "Description": "I resti di un Pescatore proveniente da un altro mondo, derivanti dalla decomposizione del suo corpo.\nDopo che il guscio si è incrinato, anche la malizia racchiusa al suo interno è svanita.",
+    "TypeDescription": "Materiale di potenziamento armi e personaggi",
+    "Icon": "UI_ItemIcon_112137"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112138,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nucleo aberrante dell'ombra profonda",
+    "Description": "I resti di un Pescatore proveniente da un altro mondo, derivanti dalla decomposizione del suo corpo.\nUn nucleo le cui funzioni si sono completamente spente, la cui struttura non presenta somiglianze con gli organi di altre creature di questa terra.",
+    "TypeDescription": "Materiale di potenziamento armi e personaggi",
+    "Icon": "UI_ItemIcon_112138"
+  },
+  {
+    "Rank": 10145,
+    "MaterialType": 14,
+    "Id": 112139,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Becco uncinato dell'ombra profonda",
+    "Description": "I resti di un Pescatore proveniente da un altro mondo, derivanti dalla decomposizione del suo corpo.\nUn becco uncinato simile a quello di un uccello, usato da predatori da oltre questo mondo per conservare la biomassa catturata.",
+    "TypeDescription": "Materiale di potenziamento armi e personaggi",
+    "Icon": "UI_ItemIcon_112139"
+  },
+  {
     "Rank": 11101,
     "MaterialType": 14,
     "Id": 113001,
@@ -36562,6 +37070,50 @@
     "Description": "Un dispositivo a Kuuvahki ricavato dal nucleo energetico dopo aver sconfitto l'Incrociatore terrestre super pesante: Fortezza meccanizzata.\nL'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine ha definito in passato diversi schemi ciclici ideali per i motori a sostanza elementale. Indipendentemente dal tipo, il numero perfetto di cicli è sempre stato quattro. Sebbene la maggior parte degli ingegneri del Palazzo dell'Armeria e dell'Istituto di Progettazione sperimentale tenda a considerare il Kuuvahki come una sostanza operativa distinta dall'energia elementale, le configurazioni di progettazione che si discostano dal paradigma dei quattro cicli si sono dimostrate inefficienti e impraticabili. In un certo senso, i \"quattro cicli\" potrebbero essere la peculiare preferenza del mondo. Detto questo, il mondo potrebbe non avere alcuna preferenza e, per il mondo, l'abitudine dei presuntuosi mortali nel fare congetture autocompiaciute potrebbe essere la più strana delle preferenze.",
     "TypeDescription": "Materiale per aumento livello dei personaggi",
     "Icon": "UI_ItemIcon_113080"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113081,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Maschera del dottore virtuoso",
+    "Description": "Una maschera recuperata dal campo di sperimentazione eretico dopo aver sconfitto il falso dio usurpatore della luna.\nLa medicina ha lo scopo di curare i mali del corpo, ma i medici umani distolgono lo sguardo davanti alle vere cause della morte. Nelle mani di un medico saggio, il fragile corpo umano non è più vincolato da nascita, età, malattia o morte, e può finanche mostrare una forza che va oltre ogni logica.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113081"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113082,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Vincolo del folle",
+    "Description": "Una maschera recuperata dal campo di sperimentazione eretico dopo aver sconfitto il falso dio usurpatore della luna.\nL'umanità definisce la civiltà ciò che allontana la follia; tuttavia, credere che tutte le cose, esistenti o meno, possano essere racchiuse nella ragione è a sua volta un'altra forma di pazzia. Il folle può vedere oltre l'inganno della ragione, e nel suo mondo ogni cosa è concessa.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113082"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113083,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Elisir dell'eretico",
+    "Description": "Una fiala recuperata dal campo di sperimentazione eretico dopo aver sconfitto il falso dio usurpatore della luna.\nPer molti secoli, i sedicenti ricercatori hanno strisciato ai piedi dei sei divieti capitali, rendendo i loro studi poco più che ragionamenti circolari fatti di parole vuote. La ricerca della verità non dovrebbe mai essere vincolata dalle restrizioni. In questo senso, forse coloro che vengono bollati come eretici e malvagi sono gli autentici cercatori della conoscenza.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113083"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113084,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Resti dell'ala corrotta",
+    "Description": "Una reliquia ossea dal colore nero scuro ricavata dai resti della corruzione latente dopo la sconfitta del Sussurratore di incubi, giunto in questo mondo come un invasore.\nLa bestia informe che attraversava il vuoto siderale non avrebbe mai dovuto necessitare di organi che in questo mondo chiamiamo \"ali\". Tali grottesche e profane appendici potrebbero essere sorte per adattarsi alle leggi che regnano ai piedi della luna, o forse sono semplicemente il frammento distorto della sua vera forma, percepita tramite gli occhi dei mortali.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113084"
   },
   {
     "Rank": 15101,
@@ -37924,6 +38476,28 @@
     "ItemType": 2,
     "Name": "Reliquiario del dominio: livello I",
     "Description": "Un reliquiario utilizzato per conservare i manufatti. Possa chi lo vede percepire il tocco divino.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Notte della rivelazione celeste\n· Serenata della luna di seta",
+    "TypeDescription": "Reliquiario",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117026,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Reliquiario del dominio: livello II",
+    "Description": "Un reliquiario utilizzato per conservare i manufatti. Sia benedetto chi lo vede.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Aubade della stella del mattino e della luna\n· Un giorno scolpito dai venti ascendenti\n· Berserker\n· Istruttore\n· Esule",
+    "TypeDescription": "Reliquiario",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117027,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Reliquiario del dominio: livello I",
+    "Description": "Un reliquiario utilizzato per conservare i manufatti. Sia benedetto chi lo vede.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Aubade della stella del mattino e della luna\n· Un giorno scolpito dai venti ascendenti",
     "TypeDescription": "Reliquiario",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -44331,6 +44905,17 @@
     "Icon": "UI_ItemIcon_129002"
   },
   {
+    "Rank": 0,
+    "MaterialType": 2,
+    "Id": 129003,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Fiore della Preghiera lunare di Colombina",
+    "Description": "Un Fiore della Preghiera lunare che ti è stato donato da Colombina. Emana un profumo puro ed etereo, proprio come quelli che hai visto in passato alla Sala della Luna d'argento.\nRichiama alla mente una storia e annuncia l'inizio di un nuovo capitolo. Questa volta, non perderà mai più i suoi colori.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_129003"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 120753,
@@ -48557,10 +49142,21 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121316,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Scherzo dell'Esperto di memorie",
+    "Description": "Un fiore artificiale macchiato dalla ruggine. Si dice che sia un cimelio di Reed Miller, il fondatore dei Cacciatori di tesori.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121319"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121317,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Piuma dell'intenditore di scritture",
+    "Name": "Piuma dell'Esperto di scritture",
     "Description": "Una piuma scura come la notte. Si dice che sia un cimelio di Reed Miller, il fondatore dei Cacciatori di tesori.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121317"
@@ -48568,10 +49164,21 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121318,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Tristezza dell'Esperto di legami",
+    "Description": "Un orologio fermo da tempo. Si dice che sia un cimelio di Reed Miller, il fondatore dei Cacciatori di tesori.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121320"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121319,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Ebbrezza dell'intenditore di tessiture",
+    "Name": "Ebbrezza dell'Esperto di tessiture",
     "Description": "Un calice sfarzoso. Si dice che sia un cimelio di Reed Miller, il fondatore dei Cacciatori di tesori.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121318"
@@ -48582,7 +49189,7 @@
     "Id": 121320,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Maschera dell'intenditore di stratagemmi",
+    "Name": "Maschera dell'Esperto di stratagemmi",
     "Description": "Una maschera fredda che un tempo celava un vero volto. Si dice che sia un cimelio di Reed Miller, il fondatore dei Cacciatori di tesori. Oltre al gelido chiaro di luna che danza sulla superficie di puro argento, non vi sono altri ornamenti.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121316"
@@ -48630,6 +49237,17 @@
     "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121326,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Valvola di scorta del bunker",
+    "Description": "Una valvola di scorta usata per la manutenzione del Sistema di purificazione dell'apocalisse. Non mostra segni di ossidazione, eppure per qualche ragione emana ancora un debole e persistente odore ferroso.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121326"
   },
   {
     "Rank": 10,
@@ -49086,6 +49704,61 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121378,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chiave dorata",
+    "Description": "Una chiave d'oro scintillante. La chiave stessa vale una fortuna.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121378"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121379,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chiave d'argento",
+    "Description": "Una chiave d'argento lucente. Non è preziosa quanto quella dorata, ma è anche tutt'altro che comune.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121379"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121380,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chiave di ferro",
+    "Description": "Una comune chiave di ferro, una delle più comuni e facili da reperire.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121380"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121381,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chiave di ferro",
+    "Description": "Una comune chiave di ferro, una delle più comuni e facili da reperire.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121381"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121382,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Moneta di ferro strana",
+    "Description": "Una moneta che assomiglia a una comune moneta di ferro, sebbene possa essere una sua variante.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121382"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121383,
     "RankLevel": 0,
     "ItemType": 2,
@@ -49249,6 +49922,39 @@
     "Icon": "UI_ItemIcon_71700047"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121403,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Pigna invecchiata",
+    "Description": "Un seme antico, ormai non più fresco. Mangiarlo potrebbe non essere una grande idea, anche nei momenti più disperati.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100020"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121404,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Segale invecchiata",
+    "Description": "Un cereale dalle tonalità grigio-marroni, con un leggero sentore di muffa...",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121405,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Carne misteriosa",
+    "Description": "Un pezzo di carne fresca che sembra emanare un'aura enigmatica. Che sapore avrà?",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100061"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121406,
@@ -49280,6 +49986,28 @@
     "Description": "Una somma di denaro prelevata dai fondi del Consiglio dei segreti. I soldi non crescono sugli alberi, quindi spendili con criterio.",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121409,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fotokamera istantanea",
+    "Description": "Una Fotokamera personalizzata, dotata dell'ultimo obiettivo \"istantaneo\" di Lépine-Pauline.\nI suoi intricati meccanismi interni possono immortalare il battito d'ali di un uccello o il fendente di uno spadaccino in un istante. Cattura il movimento più rapido e preserva le scene più preziose, inclusi tutti i momenti indimenticabili che vivrai quando ti riunirai con i tuoi amici.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_220094"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121410,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "La conchiglia di Béryl più brillante e splendente",
+    "Description": "Hai promesso a Puca di raccogliere per lei le conchiglie di Béryl più lucenti e brillanti di tutte.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_101232"
   },
   {
     "Rank": 10,
@@ -49392,6 +50120,28 @@
     "Icon": "UI_ItemIcon_121426"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121439,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Desiderio",
+    "Description": "Nei racconti dei cantastorie, le persone affidavano i loro desideri alle lanterne Xiao prima di liberarle in cielo. Tuttavia, ci fu un tempo in cui dei demoni cercarono di divorare quei desideri. Fortunatamente, grazie all'intervento di un'Adepta, la loro ascesa fu protetta...",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121439"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121440,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chiaro di luna",
+    "Description": "Nei racconti dei cantastorie, un tempo esistevano potenti demoni in grado di divorare la luce della luna. Per recuperare lo splendore che avevano consumato, quell'Adepta si fece avanti più e più volte...",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121440"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121441,
@@ -49401,6 +50151,226 @@
     "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121454,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "L'Adepta cavallo bianco incontra l'Adepta cavallo bianco al Porto di Liyue",
+    "Description": "#Una foto intitolata da Paimon, che cattura un momento di risate condivise tra {F#amiche}{M#amici}.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121454"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121455,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Una poesia antica",
+    "Description": "Una poesia antica",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100214"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121456,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Taccuino della Marionetta",
+    "Description": "Un cimelio di Sandrone ricevuto dalla Fantesca. Le sue pagine contengono molte informazioni su Sandrone.\nSebbene la copertina e le pagine siano usurate, è facile capire con quanta cura la sua proprietaria lo abbia custodito.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_120275"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121458,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scatola con sculture di zucchero speciale",
+    "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121459,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Scatola con sculture di zucchero speciale",
+    "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 25029,
+    "MaterialType": 78,
+    "Id": 121462,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ciò che ha perso il suo potere",
+    "Description": "Un congegno la cui potenza è svanita. Forgiato con giada e bronzo pregiati, ora attende in silenzio il momento in cui potrà risplendere ancora una volta.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_121462"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121463,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Segale fresca",
+    "Description": "I grani appena raccolti effondono un aroma caldo e confortante. Solo dopo essere stati macinati e cotti rivelano il loro sapore pieno e corposo.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_101268"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121465,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "La prima Moneta di ferro",
+    "Description": "Una vecchia Moneta di ferro incisa con un sigillo stilizzato a forma di corvo. Leggenda vuole che sia stata coniata da Reed Miller, fondatore dei Cacciatori di tesori, e che si tratti della prima, vera \"Moneta di ferro\".\nIn un mondo senza confini, in un paradiso dove nessuno patisce la fame o il freddo, l'oro elargito e governato dal Deus Auri non era stato concepito per essere il fondamento della cooperazione umana.\nL'umanità è tenuta a governare la ricchezza, non a esserne al servizio. Pur non potendo diventare portatori di un cuore d'oro, la ricchezza appartiene a ogni individuo, e il diritto di usarla spetta a tutti.\n\nTuttavia, quella storia risale a un'epoca ben più lontana.\nChe si tratti della prima Moneta di ferro o degli ideali che furono cantati, interpretati e distorti da innumerevoli mani nel corso dei secoli, tutto ebbe inizio in una notte d'inverno buia oltre ogni dire, quando due bambini sgattaiolarono fuori dall'accademia per nascondersi dagli occhi degli adulti, intagliando un gettone per giocare al Ladro eccezionale.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121438"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121466,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "L'Adepta cavallo bianco incontra l'Adepta cavallo bianco al Porto di Liyue",
+    "Description": "#Una foto intitolata da Paimon, che cattura un momento di risate condivise tra {F#amiche}{M#amici}.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121466"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121467,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stoppino d'argento",
+    "Description": "Una lampada sacra capace di formare una barriera protettiva. La sua luce è flebile, avendo quasi esaurito la sua energia.\nUn tempo era un oggetto rituale degli Eredi della Luna gelata, in grado di portare sogni e canti a coloro che si smarrivano nelle terre desolate. Era rimasta abbandonata nella torre sospesa nel tempo, motivo per cui è sopravvissuta fino a oggi.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121467"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121468,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stoppino d'argento",
+    "Description": "Una lampada sacra capace di formare una barriera protettiva. La sua luce è fioca e tremolante, in grado a malapena di penetrare le tenebre.\nUn tempo era un oggetto rituale degli Eredi della Luna gelata, in grado di portare sogni e canti a coloro che si smarrivano nelle terre desolate. Era rimasta abbandonata nella torre sospesa nel tempo, motivo per cui è sopravvissuta fino a oggi.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121468"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121469,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stoppino d'argento",
+    "Description": "Una lampada sacra capace di formare una barriera protettiva. La sua luce è come un tenue barlume che riluce placidamente.\nUn tempo era un oggetto rituale degli Eredi della Luna gelata, in grado di portare sogni e canti a coloro che si smarrivano nelle terre desolate. Era rimasta abbandonata nella torre sospesa nel tempo, motivo per cui è sopravvissuta fino a oggi.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121469"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121470,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stoppino d'argento",
+    "Description": "Una lampada sacra capace di formare una barriera protettiva. La sua luce è sfavillante e vigorosa.\nUn tempo era un oggetto rituale degli Eredi della Luna gelata, in grado di portare sogni e canti a coloro che si smarrivano nelle terre desolate. Era rimasta abbandonata nella torre sospesa nel tempo, motivo per cui è sopravvissuta fino a oggi.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121470"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121475,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chiave dimenticata",
+    "Description": "Potrebbe aprire una porta da qualche parte.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100302"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121476,
+    "RankLevel": 1,
+    "ItemType": 2,
+    "Name": "Tessera d'accesso al bunker (livello I)",
+    "Description": "Una tessera d'accesso dall'aspetto ordinario, ottenuta da un terminale particolare nella parte occidentale di Piramida.\nDa quanto ti è stato detto, dovrebbe garantire l'accesso al bunker sotto il terminale.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121354"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121477,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tessera d'accesso al bunker (livello II)",
+    "Description": "Una tessera d'accesso dall'aspetto ordinario, ottenuta dal sito dell'esperimento.\nSulla sua superficie, è stato stampato un testo di Snezhnaya che recita: \"Tecnico di manutenzione senior Aleksey Zakharevich Kotelnikov\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121355"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121478,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tessera d'accesso al bunker (livello III)",
+    "Description": "Una tessera d'accesso dall'aspetto ordinario, ottenuta dal sito dell'esperimento.\nSulla sua superficie, è stato stampato un testo di Snezhnaya che recita: \"Ricercatrice capo Grazina Myklukho\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121512,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Una breve storia della Candida Stella",
+    "Description": "Un libro sulla storia delle Fate. In base ad alcuni dettagli, si ritiene che sia stato scritto dagli anziani delle Fate.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121512"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121513,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mormorii notturni dal confine lontano: Varcolac",
+    "Description": "Una raccolta di racconti popolari che circola a Snezhnaya, che si dice contenga ogni sorta di racconti meno noti sulle Fate. Questo volume racconta la storia di una pericolosa Fata conosciuta come \"Varcolac\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121513"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121514,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Storie del Vento del Nord",
+    "Description": "Una raccolta di poesie che racconta le gesta degli Starsina. La maggior parte del suo contenuto è andata perduta in calamità passate. Solo una piccola parte dei frammenti originali sono stati recuperati.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121514"
   },
   {
     "Rank": 287,
@@ -49863,6 +50833,28 @@
     "Description": "Un seme ottenuto dalla scatola di semi. Di ottima qualità e pieno di vita, non aspetta altro che essere seminato nei campi del Regno interiore. Dopo qualche tempo, diventerà una Baccalakka.",
     "TypeDescription": "Materiale",
     "Icon": "UI_ItemIcon_130042"
+  },
+  {
+    "Rank": 248,
+    "MaterialType": 31,
+    "Id": 130043,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Seme di Erba invernale",
+    "Description": "Un seme ottenuto dalla scatola di semi. Di ottima qualità e pieno di vita, non aspetta altro che essere seminato nei campi del Regno interiore. Dopo qualche tempo, diventerà dell'Erba invernale.",
+    "TypeDescription": "Materiale",
+    "Icon": "UI_ItemIcon_130043"
+  },
+  {
+    "Rank": 247,
+    "MaterialType": 31,
+    "Id": 130044,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Seme di ambra di pino",
+    "Description": "Un seme ottenuto dalla scatola di semi. Di ottima qualità e pieno di vita, non aspetta altro che essere seminato nei campi del Regno interiore. Dopo qualche tempo, diventerà una pianta d'ambra di pino.",
+    "TypeDescription": "Materiale",
+    "Icon": "UI_ItemIcon_130044"
   },
   {
     "Rank": 341,
@@ -52181,7 +53173,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 157",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"The Bustling Port Market\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52192,7 +53184,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 158",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Unfurling Night\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52203,7 +53195,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 159",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Sails Set With Eagerness\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52214,7 +53206,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 160",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Mayskaya Noch\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52225,7 +53217,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 161",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Fields After Dusk\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52236,7 +53228,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 162",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Kathisma Chrysopoleos\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52247,7 +53239,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 163",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Hymn to the Moon\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52258,7 +53250,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 164",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"From Beyond\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52269,7 +53261,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 165",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"The Solitary Silhouette\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52280,7 +53272,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 166",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Rosy Marshland\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52291,7 +53283,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 167",
-    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"The Forbidding Ground\".",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
   },
@@ -52302,6 +53294,94 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Voltacristallo radioso 168",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è \"Raised on Fallen Meteorites\".",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 169",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 170",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 171",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 172",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141275,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 173",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141276,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 174",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141277,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 175",
+    "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
+    "TypeDescription": "Oggetto dell'avventura",
+    "Icon": "UI_ItemIcon_BGM_Common"
+  },
+  {
+    "Rank": 500107,
+    "MaterialType": 36,
+    "Id": 141278,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Voltacristallo radioso 176",
     "Description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Nod-Krai.",
     "TypeDescription": "Oggetto dell'avventura",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -52536,6 +53616,39 @@
     "Description": "Vola lontano trasportando splendidi desideri.",
     "TypeDescription": "Materiale per il Festival delle lanterne",
     "Icon": "UI_ItemIcon_200004"
+  },
+  {
+    "Rank": 15135,
+    "MaterialType": 21,
+    "Id": 200005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterna Xiao celebrativa",
+    "Description": "Una speciale lanterna Xiao creata appositamente dal Ministero degli Affari Civili. Può essere equipaggiata nello slot oggetti e utilizzata nel Porto di Liyue per liberare la lanterna Xiao corrispondente.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200005"
+  },
+  {
+    "Rank": 15136,
+    "MaterialType": 21,
+    "Id": 200006,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterna Xiao regalo",
+    "Description": "Una speciale lanterna Xiao creata appositamente dal Ministero degli Affari Civili. Con queste lanterne Xiao, puoi inviare vari doni ai tuoi compagni. Può essere equipaggiata nello slot e usata nel Porto di Liyue per liberare la lanterna Xiao corrispondente.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200006"
+  },
+  {
+    "Rank": 15137,
+    "MaterialType": 21,
+    "Id": 200007,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Manuale di ascesa delle lanterne Xiao",
+    "Description": "Un manuale pubblicato dal Ministero degli Affari Civili che descrive tecniche speciali per il rilascio delle lanterne Xiao. Seguendo le sue istruzioni, potrai far ascendere le lanterne Xiao creando una formazione speciale.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_200007"
   },
   {
     "Rank": 430061,
@@ -53952,7 +55065,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Scatola di semi",
-    "Description": "Una scatola speciale che hai ricevuto da Madame Ping. Dice che abbia il potere di \"generare semi\", ovvero possa creare vari semi, spore e campioni in base alle diverse caratteristiche, che puoi poi seminare nei vari lotti all'interno della tua Serenteiera.\nTra i semi, le spore e i campioni disponibili: Fiordiseta, Fiordolce, Cecilia, Splendigiglio, Asteria del vento, Qingxin, Campaviola, Baccaduta, Lampadulina, peperoncino di Jueyun, carota, ravanello, menta, fungo, Erba del pianto, equiseto, bocca di leone, frutto di loto, giglio di calla, alga, ganoderma marino, frutto di Harra, pesca di Zaytun, rosa di Sumeru, loto di Pluie, Marcotte, campanula di Lumidouce e rosa arcobaleno, Granifrutto, cacahuatl, pianta grassa artiglio di Saurico, bacca Quenepa, Crisantemo splendente, Branchia Irropiuma, Cornofungo luminoso, Bocciolo Spezzacieli, Fiore Gelolume, bacca Midsommar e Lakkabacca.",
+    "Description": "Una scatola speciale che hai ricevuto da Madame Ping. Dice che abbia il potere di \"generare semi\", ovvero possa creare vari semi, spore e campioni in base alle diverse caratteristiche, che puoi poi seminare nei vari lotti all'interno della tua Serenteiera.\nTra i semi, le spore e i campioni disponibili: Fiordiseta, Fiordolce, Cecilia, Splendigiglio, Asteria del vento, Qingxin, Campaviola, Baccaduta, Lampadulina, peperoncino di Jueyun, carota, ravanello, menta, fungo, Erba del pianto, equiseto, bocca di leone, frutto di loto, giglio di calla, alga, ganoderma marino, frutto di Harra, pesca di Zaytun, rosa di Sumeru, loto di Pluie, Marcotte, campanula di Lumidouce, rosa arcobaleno, Granifrutto, cacahuatl, pianta grassa Artiglio di Saurico, bacca Quenepa, Crisantemo splendente, Branchia Irropiuma, Cornofungo luminoso, Bocciolo Spezzacieli, Fiore Gelolume, bacca Midsommar, Lakkabacca, ambra di pino, Erba invernale.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220033"
   },
@@ -54923,6 +56036,17 @@
     "Description": "Un dizionario creato dalle streghe e ricevuto da Alice. Sebbene sia ufficialmente un commentario per un libro di fiabe intitolato \"La piccola strega e la fiamma perpetua\", è in realtà pieno di compiti preparati dall'Hexenzirkel appositamente per ogni lettore.\nCome si suol dire, \"imparare significa sfidare le correnti\". Parti insieme ai tuoi compagni per un viaggio alla ricerca della corona dell'esaltazione!",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220126"
+  },
+  {
+    "Rank": 25028,
+    "MaterialType": 21,
+    "Id": 220127,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Paracielo di Giadaluce",
+    "Description": "Immerso nell'energia delle linee geomantiche, il Paracielo di Giadaluce è stato ricaricato di potere spirituale. Ora può evocare un carro di giada, aiutando il suo utilizzatore a viaggiare rapidamente verso luoghi distanti.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220127"
   },
   {
     "Rank": 300201,
@@ -56207,7 +57331,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Studio di Feiyun",
-    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un set Studio di Feiyun.\nEsistono molti modi per arredare uno studio a Liyue, ma il lusso è opzionale, poiché i sapienti preferiscono lo spirito e l'eleganza. Una pianta in vaso equilibra l'umidità nella stanza, il tavolo e gli scaffali emanano una leggera fragranza di legno che si confà all'arredamento semplice, mentre la luce soffusa delle lampade ispira il genio e la scrittura ricercata.\nSi dice che, molti anni fa, un certo ospite del Pendio di Feiyun avesse approntato uno studio come questo, e che il suo progetto fosse stato ripreso dal precedente gestore della Libreria Wanwen. Da allora è quindi conosciuto come \"Studio di Feiyun\", e la sua fama si è diffusa in tutta Liyue.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu e Lan Yan.",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un set Studio di Feiyun.\nEsistono molti modi per arredare uno studio a Liyue, ma il lusso è opzionale, poiché i sapienti preferiscono lo spirito e l'eleganza. Una pianta in vaso equilibra l'umidità nella stanza, il tavolo e gli scaffali emanano una leggera fragranza di legno che si confà all'arredamento semplice, mentre la luce soffusa delle lampade ispira il genio e la scrittura ricercata.\nSi dice che, molti anni fa, un certo ospite del Pendio di Feiyun avesse approntato uno studio come questo, e che il suo progetto fosse stato ripreso dal precedente gestore della Libreria Wanwen. Da allora è quindi conosciuto come \"Studio di Feiyun\", e la sua fama si è diffusa in tutta Liyue.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Xingqiu, Zhongli, Ningguang, Yun Jin, Baizhu, Lan Yan e Zibai.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -56306,7 +57430,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Residenza delle nuvole di Qingce",
-    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un set Residenza delle nuvole di Qingce.\nUn borgo di montagna sul modello del Villaggio di Qingce. Si dice che la sua atmosfera amichevole sia contagiosa, e che i visitatori che vi entrano si sentano più calmi e capaci di apprezzare le semplici gioie che forse avevano dimenticato.\nPartire per inseguire i propri ideali e dedicare anni al solo inseguimento di una carriera è senza dubbio degno di lode; ma, dopo aver impiegato tanto tempo dietro a tali fatiche, può sopraggiungere la stanchezza. Quando ciò accade, una vita tranquilla e serena in campagna rimane una buona scelta. Il Villaggio di Qingce ha sempre accettato le partenze dei giovani in cerca di fortuna, ed è pronto a dare loro un caldo bentornato in qualsiasi momento.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao e Xianyun.",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un set Residenza delle nuvole di Qingce.\nUn borgo di montagna sul modello del Villaggio di Qingce. Si dice che la sua atmosfera amichevole sia contagiosa, e che i visitatori che vi entrano si sentano più calmi e capaci di apprezzare le semplici gioie che forse avevano dimenticato.\nPartire per inseguire i propri ideali e dedicare anni al solo inseguimento di una carriera è senza dubbio degno di lode; ma, dopo aver impiegato tanto tempo dietro a tali fatiche, può sopraggiungere la stanchezza. Quando ciò accade, una vita tranquilla e serena in campagna rimane una buona scelta. Il Villaggio di Qingce ha sempre accettato le partenze dei giovani in cerca di fortuna, ed è pronto a dare loro un caldo bentornato in qualsiasi momento.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Xinyan, Xiao, Hu Tao, Qiqi, Shenhe, Yelan, Yaoyao, Xianyun e Zibai.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70365,6 +71489,270 @@
     "ItemType": 2,
     "Name": "Donnola superiore",
     "Description": "Un progetto con istruzioni passo dopo passo per realizzare Donnola superiore.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381344,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sussurri al chiaro di luna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un Sussurri al chiaro di luna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382277,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Barella semplice Trasporto stabile",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una barella semplice Mezzo di trasporto stabile.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382278,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Alla salute!",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Alla salute!\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382133,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "A un amico",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare A un amico.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381412,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Letto di cura semplice",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un letto di cura semplice.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384226,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bandiera di Piramida",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una bandiera di Piramida.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391014,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Barriera di metallo regolabile",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una barriera di metallo regolabile.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391015,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Solitudine nella città della vigilanza eterna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Solitudine nella città della vigilanza eterna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391016,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rifugio nella città della vigilanza eterna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Rifugio nella città della vigilanza eterna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391017,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Un angolo tutto per sé",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Un angolo tutto per sé.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391018,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cura nella città della vigilanza eterna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Cura nella città della vigilanza eterna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391019,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Forgia nella città della vigilanza eterna",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Forgia nella città della vigilanza eterna.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391020,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cammino dello Starsina",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Cammino dello Starsina.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394332,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Calore e conforto",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Calore e conforto.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394642,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Comando sicuro",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Comando sicuro.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394643,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rastrelliera di armi semplice Accesso facile",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una rastrelliera di armi semplice Accesso facile.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394644,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Faro mobile dei Guardaluce",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un faro mobile dei Guardaluce.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394647,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Scintilla vitale",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Scintilla vitale.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393223,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Verde lussureggiante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Verde lussureggiante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393224,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Verde esuberante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Verde esuberante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380469,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampada di metallo leggera",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lampada di metallo leggera.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380470,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampione Efficienza massima",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un lampione Efficienza massima.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380471,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterna Xiao vivace Che il mio desiderio viaggi lontano",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lanterna Xiao vivace Che il mio desiderio viaggi lontano.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380472,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lanterna Xiao vivace Un incontro con gli amici",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lanterna Xiao vivace Un incontro con gli amici.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   }

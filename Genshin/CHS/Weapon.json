@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "朏魄含光",
+    "Description": "传说中隐于清泉的仙人用井月的流光铸成的宝剑，唯有在日夕昏明时才会显露真形。",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "琅玕衍义",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "防御力提高<color=#99FFFFFF>20%</color>。装备者施放元素战技后的5秒内，月结晶反应伤害提升<color=#99FFFFFF>64%</color>。"
+        },
+        {
+          "Level": 1,
+          "Description": "防御力提高<color=#99FFFFFF>25%</color>。装备者施放元素战技后的5秒内，月结晶反应伤害提升<color=#99FFFFFF>80%</color>。"
+        },
+        {
+          "Level": 2,
+          "Description": "防御力提高<color=#99FFFFFF>30%</color>。装备者施放元素战技后的5秒内，月结晶反应伤害提升<color=#99FFFFFF>96%</color>。"
+        },
+        {
+          "Level": 3,
+          "Description": "防御力提高<color=#99FFFFFF>35%</color>。装备者施放元素战技后的5秒内，月结晶反应伤害提升<color=#99FFFFFF>112%</color>。"
+        },
+        {
+          "Level": 4,
+          "Description": "防御力提高<color=#99FFFFFF>40%</color>。装备者施放元素战技后的5秒内，月结晶反应伤害提升<color=#99FFFFFF>128%</color>。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "触发感电、月感电、绽放或月绽放反应时，恢复<color=#99FFFFFF>12</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>60</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+          "Description": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复<color=#99FFFFFF>12</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>60</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
         },
         {
           "Level": 1,
-          "Description": "触发感电、月感电、绽放或月绽放反应时，恢复<color=#99FFFFFF>15</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>75</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+          "Description": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复<color=#99FFFFFF>15</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>75</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
         },
         {
           "Level": 2,
-          "Description": "触发感电、月感电、绽放或月绽放反应时，恢复<color=#99FFFFFF>18</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>90</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+          "Description": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复<color=#99FFFFFF>18</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>90</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
         },
         {
           "Level": 3,
-          "Description": "触发感电、月感电、绽放或月绽放反应时，恢复<color=#99FFFFFF>21</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>105</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+          "Description": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复<color=#99FFFFFF>21</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>105</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
         },
         {
           "Level": 4,
-          "Description": "触发感电、月感电、绽放或月绽放反应时，恢复<color=#99FFFFFF>24</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>120</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+          "Description": "触发感电、月感电、绽放、月绽放、结晶或月结晶反应时，恢复<color=#99FFFFFF>24</color>点元素能量，并在接下来的15秒内使元素精通提升<color=#99FFFFFF>120</color>点。该效果每15秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "攻击力提升<color=#99FFFFFF>20%</color>；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>18%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+          "Description": "攻击力提升<color=#99FFFFFF>20%</color>；队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>18%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。每1秒至多通过月结晶反应获取1枚「约印」。"
         },
         {
           "Level": 1,
-          "Description": "攻击力提升<color=#99FFFFFF>25%</color>；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>22.5%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+          "Description": "攻击力提升<color=#99FFFFFF>25%</color>；队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>22.5%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。每1秒至多通过月结晶反应获取1枚「约印」。"
         },
         {
           "Level": 2,
-          "Description": "攻击力提升<color=#99FFFFFF>30%</color>；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>27%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+          "Description": "攻击力提升<color=#99FFFFFF>30%</color>；队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>27%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。每1秒至多通过月结晶反应获取1枚「约印」。"
         },
         {
           "Level": 3,
-          "Description": "攻击力提升<color=#99FFFFFF>35%</color>；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>31.5%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+          "Description": "攻击力提升<color=#99FFFFFF>35%</color>；队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>31.5%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。每1秒至多通过月结晶反应获取1枚「约印」。"
         },
         {
           "Level": 4,
-          "Description": "攻击力提升<color=#99FFFFFF>40%</color>；队伍中的角色获取结晶反应产生的晶片时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>36%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。"
+          "Description": "攻击力提升<color=#99FFFFFF>40%</color>；队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，会为装备者赋予1枚「约印」，使元素战技造成的伤害提升<color=#99FFFFFF>36%</color>，约印持续15秒，至多同时持有2枚。所有约印将在装备者的元素战技造成伤害后的0.2秒后移除。每1秒至多通过月结晶反应获取1枚「约印」。"
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "帷间夜曲",
+    "Description": "笼着月色轻纱的玉珠，即便是在冬日的寒夜中也萦绕着如歌的温存。",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "十字路的旅歌",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "生命值上限提高<color=#99FFFFFF>10%</color>。装备者触发月曜反应或对敌人造成月曜反应伤害时，将为装备者恢复<color=#99FFFFFF>14</color>点元素能量，并获得持续12秒的「丰饶海的神酒」效果：生命值上限进一步提高<color=#99FFFFFF>14%</color>，月曜反应伤害的暴击伤害提升<color=#99FFFFFF>60%</color>。恢复元素能量效果每18秒至多触发一次，装备者处于队伍后台时，依然能触发上述效果。"
+        },
+        {
+          "Level": 1,
+          "Description": "生命值上限提高<color=#99FFFFFF>12%</color>。装备者触发月曜反应或对敌人造成月曜反应伤害时，将为装备者恢复<color=#99FFFFFF>15</color>点元素能量，并获得持续12秒的「丰饶海的神酒」效果：生命值上限进一步提高<color=#99FFFFFF>16%</color>，月曜反应伤害的暴击伤害提升<color=#99FFFFFF>80%</color>。恢复元素能量效果每18秒至多触发一次，装备者处于队伍后台时，依然能触发上述效果。"
+        },
+        {
+          "Level": 2,
+          "Description": "生命值上限提高<color=#99FFFFFF>14%</color>。装备者触发月曜反应或对敌人造成月曜反应伤害时，将为装备者恢复<color=#99FFFFFF>16</color>点元素能量，并获得持续12秒的「丰饶海的神酒」效果：生命值上限进一步提高<color=#99FFFFFF>18%</color>，月曜反应伤害的暴击伤害提升<color=#99FFFFFF>100%</color>。恢复元素能量效果每18秒至多触发一次，装备者处于队伍后台时，依然能触发上述效果。"
+        },
+        {
+          "Level": 3,
+          "Description": "生命值上限提高<color=#99FFFFFF>16%</color>。装备者触发月曜反应或对敌人造成月曜反应伤害时，将为装备者恢复<color=#99FFFFFF>17</color>点元素能量，并获得持续12秒的「丰饶海的神酒」效果：生命值上限进一步提高<color=#99FFFFFF>20%</color>，月曜反应伤害的暴击伤害提升<color=#99FFFFFF>120%</color>。恢复元素能量效果每18秒至多触发一次，装备者处于队伍后台时，依然能触发上述效果。"
+        },
+        {
+          "Level": 4,
+          "Description": "生命值上限提高<color=#99FFFFFF>18%</color>。装备者触发月曜反应或对敌人造成月曜反应伤害时，将为装备者恢复<color=#99FFFFFF>18</color>点元素能量，并获得持续12秒的「丰饶海的神酒」效果：生命值上限进一步提高<color=#99FFFFFF>22%</color>，月曜反应伤害的暴击伤害提升<color=#99FFFFFF>140%</color>。恢复元素能量效果每18秒至多触发一次，装备者处于队伍后台时，依然能触发上述效果。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

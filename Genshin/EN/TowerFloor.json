@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "Characters' Plunging Attack DMG increased by 75%."
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "All party members gain a 60% Hydro DMG Bonus.",
+      "All party members gain a 60% Electro DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "The active character's Charged Attack DMG is increased by 75%."
+    ],
+    "SecondDescriptions": [
+      "Lunar Reaction DMG is increased by 75%."
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "All party members gain a 60% Hydro DMG Bonus.",
+      "All party members gain a 60% Geo DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Lunar-Charged DMG is increased by 75%."
+    ],
+    "SecondDescriptions": [
+      "Lunar-Crystallize DMG is increased by 75%."
+    ]
   }
 ]

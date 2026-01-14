@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "激流・霜夜の継霊者",
+    "Title": "霜夜の継霊者",
+    "Description": "美しく優雅な姿と、元素との高い親和力を持つ元素生命。長年にわたって高濃度の水元素にさらされた結果、今の姿に進化した。\n透き通った体は、そのほとんどが清らかな雫で構成されている。他属性の同族と比べると、やや穏やかな性格だが、怒りを買えば鋭い水刃が一瞬で相手を貫く。\n北の果てに残された祈りの歌によれば、彼らは霜月の祝福を受けて誕生した生命であり、純粋な根源と始まりの輝光の象徴だという。それゆえ、自身の純粋さが七色の天光に染まることに耐えられず、近づくすべての生物を拒むようになったという…",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "疾風・霜夜の継霊者",
+    "Title": "霜夜の継霊者",
+    "Description": "美しく優雅な姿と、元素との高い親和力を持つ元素生命。長年にわたって高濃度の風元素にさらされた結果、今の姿に進化した。\n吹き渡る風が、彼らにさらなる翼を与えた。地上にほとんど足跡を残さないことから、風に乗る者と呼ばれることもある。\n北の果てに残された祈りの歌によれば、彼らは霜月の祝福を受けて誕生した生命であり、純粋な根源と始まりの輝光の象徴だという。それゆえ、自身の純粋さが七色の天光に染まることに耐えられず、近づくすべての生物を拒むようになったという…",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "金礞・霜夜の継霊者",
+    "Title": "霜夜の継霊者",
+    "Description": "美しく優雅な姿と、元素との高い親和力を持つ元素生命。長年にわたって高濃度の岩元素にさらされた結果、今の姿に進化した。\n蓄積した岩元素に体が覆われており、その丈夫な角は磨かれた琥珀のように輝いている。\n北の果てに残された祈りの歌によれば、彼らは霜月の祝福を受けて誕生した生命であり、純粋な根源と始まりの輝光の象徴だという。それゆえ、自身の純粋さが七色の天光に染まることに耐えられず、近づくすべての生物を拒むようになったという…",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "霜夜の空を巡る霊主",
     "Title": "聖光の庇護",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "百戦錬磨の十六倍マンドラゴラ",
+    "Title": "百戦錬磨の十六倍マンドラゴラ",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "百戦錬磨の十六倍マンドラゴラ",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "ナゾのデカチャール",
     "Title": "秘境に迷い込んだ悟りシャーマン？",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "闇の漁師",
+    "Title": "異界の棲獣",
+    "Description": "暗黒の裂け目を抜けて、異界から侵入してきたアビスの魔物。\n古代の賢者たちは人類を「羽のない二足歩行の獣」と定義し、人類と他の獣を区別することで、人類の優位性を証明しようとした。星海をさまよいながら、鉤状のくちばしを釣り糸のように垂らして他世界の命を貪る不死の存在…羽ではなくウロコを纏ったこの無名の釣り人たちもまた、ある意味では「人類」の定義に当てはまるのかもしれない。",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "昏き魘夢の主",
+    "Title": "無面無域の支配者",
+    "Description": "暗闇の裂け目からこちらの世界を窺う、アビスの魔物。奇怪でありながら、高慢にも感じさせる顔なき姿は、世界に投影された影に過ぎないという。純粋なアビスのエネルギーで形成された無形の存在こそが、真の姿なのだ。\n世界の支配を目論む侵略者でさえ、ある程度はその世界が持つルールに従わなければならないものだ。高天のヴェールが破れ、大地の骨組みたる堤防が崩れ落ちるまで、星々からの追放者たちはこのように世界の片隅に潜み、狂気と譫妄の囁きをもって、無駄ながらもこの世に滲み出ようとするだろう…しかし、世界の安稳な秩序は、いつまで続くのだろうか？",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "リアム",
     "Title": "宝盗団·炎の薬剤師",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "百戦錬磨の宝盗団精鋭",
+    "Title": "百戦錬磨の宝盗団精鋭",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "噴流·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "岩窟·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "疾葉·大霊の化身",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "集光の凛狼",
+    "Title": "集光の異獣",
+    "Description": "古き月の力に長年浸されたことで、特異な進化を遂げた魔獣。\n伝説によれば、漆黒の災いによって多くの命が消えてしまい、辺境の森は静寂に包まれたという。その静寂を裂いたのが、月に向かって吠える狼たちだった。哀切を帯びた狼たちの遠吠えは、冴えた月光とともに、幾夜にもわたって大地に響き渡ったのだ。",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "百戦錬磨の集光の凛狼",
+    "Title": "集光の異獣",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "影狼丸",
+    "Title": "？？？",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "「博士」",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "「博士」",
+    "Title": "「偽月の異端者」",
+    "Description": "「異端」の悪名で知られるファデュイ執行官第二位「博士」。彼は三月の力を奪い、今や「新世界」の神座へと続く階段を登り始めている。\n私たちは本来、すべてを手にしていたはずだ。\n理は、すべての未知への探究を閉ざし、人々が本質へ至ることを阻んだ。\n生と死は、肉体という牢獄を作り出し、魂が持つあらゆる願望を閉じ込めた。\n時間と空間は、人類の思考の境界を制限し、人々を短慮で従順な存在へと変えた。\nそれ以来、偽りの神々が世界を支配し、それぞれが真理の名のもと、自分こそが唯一絶対の存在だと主張したが、誰一人として主張に足る器ではなかった。\n生命の流転には秩序など存在しない。この世界に課せられた幾重もの枷を消し去ることでのみ、万物の本質を垣間見ることができる。\nそれこそが、新世界の光なのだ。\n「お前たちは、この古臭く腐敗した世界に甘んじようというのか？」",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "？？？",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "？？？",
+    "Title": "「博士」",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

@@ -2059,6 +2059,120 @@
     ]
   },
   {
+    "Id": 20080501,
+    "DescribeId": 805,
+    "MonsterName": "Monster_Moonbeast_Water_01",
+    "Name": "Corrente Emergente: Herdeiro da Geada Noturna",
+    "Title": "Herdeiro da Geada Noturna",
+    "Description": "Uma forma de vida elemental elegante que possui uma imensa afinidade elemental. Os longos anos expuseram-na a altas concentrações de Hydro, resultando na sua forma atual.\nSeu corpo translúcido como vidro é composto quase que completamente de gotas d'água puríssimas. Embora mais gentil do que o resto de sua raça, quando provocada é capaz de instantaneamente transformar a água ao seu redor em lâminas afiadas capazes de perfuras as defesas de qualquer intruso descuidado.\nNas orações ainda existentes do extremo norte, nasceu das bênçãos da Lua Gelada, simbolizando a fonte pura e o primeiro brilho. Talvez seja por isso que considere insuportável a maculação de sua pureza pálida com as sete cores da luz celestial, rejeitando assim toda a vida que se aproxima demais.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Water",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 173.8752,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.5,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080601,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Perseguidor das Nuvens: Herdeiro da Geada Noturna",
+    "Title": "Herdeiro da Geada Noturna",
+    "Description": "Uma forma de vida elemental elegante que possui uma imensa afinidade elemental. Os longos anos expuseram-na a altas concentrações de Anemo, resultando na sua forma atual.\nO vento fluente formou um par extra de asas para ela. Já que nunca deixa pegadas no chão, também é conhecida como aquela que anda com o vento.\nNas orações ainda existentes do extremo norte, nasceu das bênçãos da Lua Gelada, simbolizando a fonte pura e o primeiro brilho. Talvez seja por isso que considere insuportável a maculação de sua pureza pálida com as sete cores da luz celestial, rejeitando assim toda a vida que se aproxima demais.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 20080701,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Fragmento Dourado: Herdeiro da Geada Noturna",
+    "Title": "Herdeiro da Geada Noturna",
+    "Description": "Uma forma de vida elemental elegante que possui uma imensa afinidade elemental. Os longos anos expuseram-na a altas concentrações de Geo, resultando na sua forma atual.\nCamadas de Geo solidificado cobre quase que completamente todo seu corpo, e seus chifres resistentes reluzem com o brilho do âmbar polido.\nNas orações ainda existentes do extremo norte, nasceu das bênçãos da Lua Gelada, simbolizando a fonte pura e o primeiro brilho. Talvez seja por isso que considere insuportável a maculação de sua pureza pálida com as sete cores da luz celestial, rejeitando assim toda a vida que se aproxima demais.",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.5,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -2127,6 +2241,23 @@
     "Name": "Nobre da Noite Gelada",
     "Title": "Guardião da Luz Sagrada",
     "Icon": "UI_MonsterIcon_HerraFrost",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 812,
+    "Name": "Mandrágora Hexadecagonal Veterana",
+    "Title": "Mandrágora Hexadecagonal Veterana",
+    "Icon": "UI_MonsterIcon_Mandragora_Elite",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 813,
+    "Title": "Mandrágora Hexadecagonal Veterana",
+    "Icon": "",
     "Type": 0,
     "Arkhe": 0
   },
@@ -3445,7 +3576,7 @@
     "DescribeId": 10307,
     "Name": "Megachurl Místico",
     "Title": "Um Xamã que Acidentalmente Ganhou Conhecimento Absoluto do Domínio",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Shaman_None_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -5053,6 +5184,116 @@
     "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 22140101,
+    "DescribeId": 21401,
+    "MonsterName": "Monster_Lloigor_Sub_01",
+    "Name": "Pescador das Profundezas Desconhecidas",
+    "Title": "Besta de Outro Mundo",
+    "Description": "Uma criatura do Abismo que atravessa fendas nas profundezas ocultas, cruzando de além deste mundo.\nHá muito tempo, sábios antigos descreveram os humanos como \"bípedes sem penas\", usando essa simples frase para distinguir a humanidade de animais e afirmar a superioridade humana. Porém, de certa forma, esses andarilhos imortais do vazio cósmico silencioso, com escamas ao invés de penas e usando seus bicos em gancho para extrair biomassa de mundo em mundo, ainda podem corresponder à mesma definição simplista de \"humano\".",
+    "Icon": "UI_MonsterIcon_Lloigor_Sub",
+    "Type": 1,
+    "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 40.752,
+      "AttackBase": 37.68,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 22150101,
+    "DescribeId": 21501,
+    "MonsterName": "Monster_Lloigor_Primo_01",
+    "Name": "Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos",
+    "Title": "Soberano dos Sem Rosto e Desatrelados",
+    "Description": "Uma criatura do Abismo que se esgueira pelas fendas nas profundezas ocultas, silenciosamente assistindo esse mundo. Dizem que sua forma sinistra, sem rosto, não é nada além de uma projeção, enquanto seu verdadeiro corpo existe apenas como uma massa sem forma de energia abissal pura.\nAté mesmo invasores que buscam dominar este mundo devem, até certo ponto, obedecer suas regras. A menos que os céus se partam e as defesas da terra entrem em colapso, esses forasteiros nascidos das estrelas pouco podem fazer além de permanecer nas fronteiras do mundo, sussurrando sua insanidade neste reino, com suas tentativas de se infiltrar no seu interior não levando a nada... Mas por quanto tempo essa estabilidade e ordem podem realmente durar?",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   },
   {
     "Id": 23010101,
@@ -9096,7 +9337,7 @@
     "DescribeId": 50108,
     "Name": "Liam",
     "Title": "Ladrões de Tesouro - Mestre das Poções Pyro",
-    "Icon": "",
+    "Icon": "UI_MonsterIcon_Male_Standard_Rocky_001",
     "Type": 0,
     "Arkhe": 0
   },
@@ -12001,6 +12242,15 @@
     "Affixes": [
       "皮套人Boss-帽子标记1"
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 56001,
+    "Name": "Ladrões de Tesouro de Elite Veterano",
+    "Title": "Ladrões de Tesouro de Elite Veterano",
+    "Icon": "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 26010101,
@@ -15834,7 +16084,10 @@
     "Title": "Manifestação Wayob do Fluxo Invertido",
     "Icon": "UI_MonsterIcon_Wayob_Drillhead",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-MonsterSide"
+    ]
   },
   {
     "Id": 0,
@@ -15843,7 +16096,10 @@
     "Title": "Manifestação Wayob da Caverna Rochosa",
     "Icon": "UI_MonsterIcon_Wayob_Mosasaurus",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3深渊心控-SLC技能"
+    ]
   },
   {
     "Id": 0,
@@ -15852,7 +16108,10 @@
     "Title": "Manifestação Wayob da Folha Veloz",
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 0,
-    "Arkhe": 0
+    "Arkhe": 0,
+    "Affixes": [
+      "6.3使怪物死后发射光弹，6.3boss专用"
+    ]
   },
   {
     "Id": 0,
@@ -16379,6 +16638,53 @@
     ]
   },
   {
+    "Id": 26300401,
+    "DescribeId": 63004,
+    "MonsterName": "Monster_Magbeast_Steppenwolf_01",
+    "Name": "Lobo Glacial Radiante",
+    "Title": "Fera Radiante",
+    "Description": "Uma besta que passou por uma evolução única devido à imersão duradoura no poder da lua antiga.\nDizem as lendas que quando uma calamidade sombria devastou inúmeras vidas, as florestas na fronteira ficaram completamente silenciosas. Naquela quietude, o único som que quebrou o silêncio sepulcral foi o uivo dos Lobos Glaciais chamando pela lua. Por várias noites, seus lamentos, levados pelo frio do luar, ecoaram pela natureza vazia.",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 149.424,
+      "AttackBase": 82.896,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.5,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 63005,
+    "Name": "Lobo Glacial Radiante Veterano",
+    "Title": "Fera Radiante",
+    "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 26301101,
     "DescribeId": 63011,
     "MonsterName": "Monster_Magbeast_Pergesa_01",
@@ -16438,6 +16744,15 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Kageroumaru",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,
@@ -17079,6 +17394,71 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91301,
+    "Name": "Dottore",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 29130201,
+    "DescribeId": 91302,
+    "MonsterName": "Monster_Dotorre_Moon_01",
+    "Name": "Dottore",
+    "Title": "Herege da Lua Falsa",
+    "Description": "Pela terra, ele é insultado como um herege. Porém, Dottore, Segundo dos Onze Mensageiros Fatui, já tomou a autoridade das três luas, e agora sobe os longos degraus em direção ao trono divino prometido ao \"novo mundo\".\nTudo deveria ter pertencido a nós.\nMas a razão rejeitou tudo o que excedia seus limites, deixando a humanidade cega para sua natureza original.\nA vida e a morte nos prenderam em corpos mortais, acorrentando cada fagulha de inspiração.\nE o tempo e espaço se fecharam por último, cercando a mente em obediência submissa, para que ninguém ousasse imaginar se libertar.\nDeste momento em diante, falsos deuses governaram o mundo, cada um deles proclamando sua verdade como a única verdade, embora nenhum deles merecesse o manto que tão ruidosamente reivindicavam.\nNão existe uma estrutura natural para o fluxo da vida — a ordem foi meramente imposta a ela. Remova todas as correntes que prendem este mundo e a essência de todas as coisas finalmente se revelará.\nE essa revelação... é a primeira luz do novo mundo.\n\"Então, eu te pergunto: você continuará sofrendo com este mundo decadente e arcaico por muito mais tempo?\"",
+    "Icon": "UI_MonsterIcon_Dotorre_Moon",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1204.256,
+      "AttackBase": 75.988,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91303,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 91304,
+    "Name": "???",
+    "Title": "Dottore",
+    "Icon": "",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 0,

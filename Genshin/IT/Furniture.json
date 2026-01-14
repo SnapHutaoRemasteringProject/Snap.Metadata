@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Colombina",
+    "Description": "Personaggio residente",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Personaggio residente",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Personaggio residente",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "Lotto di terra Campo di giada",
-    "Description": "Un campo ordinato che è saturo di energia della Creazione di Mondi alternativi. Il terreno fertile ha una capacità nutritiva quasi infinita, per cui i semi piantati qui diventeranno raccolti eccellenti nel tempo, senza aver bisogno di particolare cura. Tuttavia, le colture tenderanno a sviluppare lunghe radici, quindi non potrai piantarne tante se vorrai dare a tutte lo spazio sufficiente per crescere.\nQui puoi piantare i seguenti semi, spore e campioni ottenuti dalla scatola di semi: Baccaduta, Fiordolce, Lampadulina, peperoncino di Jueyun, carota, ravanello, menta, fungo, frutto di Harra, pesca di Zaytun, Marcotte, Granifrutto, cacahuatl, pianta grassa Artiglio di Saurico bacca Quenepa, Cornofungo luminoso, Baccalakka e bacca Midsommar.",
+    "Description": "Un campo ordinato che è saturo di energia della Creazione di Mondi alternativi. Il terreno fertile ha una capacità nutritiva quasi infinita, per cui i semi piantati qui diventeranno raccolti eccellenti nel tempo, senza aver bisogno di particolare cura. Tuttavia, le colture tenderanno a sviluppare lunghe radici, quindi non potrai piantarne tante se vorrai dare a tutte lo spazio sufficiente per crescere.\nQui puoi piantare i seguenti semi, spore e campioni ottenuti dalla scatola di semi: Baccaduta, Fiordolce, Lampadulina, peperoncino di Jueyun, carota, ravanello, menta, fungo, frutto di Harra, pesca di Zaytun, Marcotte, Granifrutto, cacahuatl, pianta grassa Artiglio di Saurico bacca Quenepa, Cornofungo luminoso, Baccalakka, bacca Midsommar e ambra di pino.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "Lotto di terra Campo rigoglioso",
-    "Description": "Un campo ordinato che è saturo di energia della Creazione di Mondi alternativi. Il terreno fertile vanta una capacità nutritiva quasi infinita, per cui i semi piantati qui diventeranno splendidi fiori nel tempo, senza aver bisogno di cure impegnative. Tuttavia, i fiori tendono a sviluppare lunghe radici, quindi non potrai piantarne tanti se vorrai dare a tutti lo spazio sufficiente per crescere.\nQui puoi piantare i seguenti semi, spore e campioni ottenuti dalla scatola di semi: Fiordiseta, Cecilia, Splendigiglio, Asteria del vento, Qingxin, Campaviola, Erba del pianto, rosa di Sumeru, campanula di Lumidouce, rosa arcobaleno e Crisantemo splendente, Bocciolo Spezzacieli e Fiore Gelolume.",
+    "Description": "Un campo ordinato che è saturo di energia della Creazione di Mondi alternativi. Il terreno fertile vanta una capacità nutritiva quasi infinita, per cui i semi piantati qui diventeranno splendidi fiori nel tempo, senza aver bisogno di cure impegnative. Tuttavia, i fiori tendono a sviluppare lunghe radici, quindi non potrai piantarne tanti se vorrai dare a tutti lo spazio sufficiente per crescere.\nQui puoi piantare i seguenti semi, spore e campioni ottenuti dalla scatola di semi: Fiordiseta, Cecilia, Splendigiglio, Asteria del vento, Qingxin, Campaviola, Erba del pianto, rosa di Sumeru, campanula di Lumidouce, rosa arcobaleno e Crisantemo splendente, Bocciolo Spezzacieli, Fiore Gelolume ed Erba invernale.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Capra castagna menta fresca",
     "Description": "Una razza di capra originaria di Nod-Krai. Le sue corna e i suoi motivi sembrano essere stati ricoperti da una generosa dose di succo alla menta.\nDopo essersi trasferite nella Serenteiera, il loro manto è diventato ancora più soffice. Con l'arrivo della stagione della muta, una \"pioggia soffice\" cade intorno a loro...\nPer ragioni sconosciute, alcuni animali che entrano nel Regno interiore mantengono il loro aspetto particolare modellato dalla forza del Kuuvahki. Per aiutare Tonda a identificarli, Paimon ha avuto la premura di dare loro nuovi nomi basati sul loro aspetto...",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dalla cattura"
+    ],
+    "Id": 369222,
+    "Name": "Geco Spinodorso",
+    "Description": "Un geco piuttosto agile e flessibile. I suoi cuscinetti plantari forniscono una suzione sufficiente ad aiutarlo ad arrampicarsi sui muri.\nSebbene abbia continuato a vivere all'interno di fessure rocciose dopo essere arrivato nel Regno interiore, la minaccia rappresentata dai suoi predatori naturali è stata notevolmente ridotta. Di conseguenza, ora è anche in grado di rimanere attivo all'esterno per periodi di tempo più lunghi.\nPer qualche ragione sconosciuta, alcune creature, anche dopo essere giunte nel Regno interiore, hanno mantenuto l'aspetto unico creato sotto l'influenza del Kuuvahki in precedenza...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dalla cattura"
+    ],
+    "Id": 369223,
+    "Name": "Cicogna cenerina",
+    "Description": "Un uccello dalla forma elegante. Le sue piume grigio dorate ne accentuano la silhouette snella ed elegante.\nA causa della sua eleganza, alcune creature lo provocano deliberatamente solo per osservare le sue proteste, simili a delle danze. Naturalmente, questo comportamento è ora severamente proibito da Tonda.\nPer qualche ragione sconosciuta, alcune creature, anche dopo essere giunte nel Regno interiore, hanno mantenuto l'aspetto unico creato sotto l'influenza del Kuuvahki in precedenza...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dalla cattura"
+    ],
+    "Id": 369224,
+    "Name": "Aquila coronata",
+    "Description": "Un'aquila dalla vista acuta la cui nobile corona ne esalta ulteriormente il portamento regale.\nL'aquila coronata eccelle nel ruotare attorno alla sua preda in alto nel cielo e, grazie alla sua corporatura robusta e all'ampia apertura alare, i suoi attacchi in picchiata sono particolarmente letali. Nel Regno interiore, dove il cibo è abbondante, caccia raramente; tuttavia, volteggia ancora spesso in alto per mostrare la sua bellissima cresta...\nPer qualche ragione sconosciuta, alcune creature, anche dopo essere giunte nel Regno interiore, hanno mantenuto l'aspetto unico creato sotto l'influenza del Kuuvahki in precedenza...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -52256,7 +52394,7 @@
     ],
     "Id": 371012,
     "Name": "Faro uggioso Luce della speranza eterna",
-    "Description": "Un'elevata struttura ispirata a un faro che si erge su un cimitero, che culmina con un imponente pinnacolo.\nLe persone in vita rimaste non hanno alcun bisogno di illuminarne il segnalatore, dato che le ombre agitate permangono, legate da giuramenti fatti quand'erano ancora vive. Che il faro rimanga acceso o meno, e in qualsiasi circostanza, il calore e la speranza sono ciò che i Guardaluce desiderano per Nod-Krai a ogni costo. Tale infatti è il loro giuramento: \"Useremo le nostra ossa e il nostro sangue come combustibile, renderemo la vita più importante della morte.\"",
+    "Description": "Un'elevata struttura ispirata a un faro che si erge su un cimitero, che culmina con un imponente pinnacolo.\nLe persone in vita rimaste non hanno alcun bisogno di illuminarne il segnalatore, dato che le ombre agitate permangono, legate da giuramenti fatti quand'erano ancora vive. Che il faro rimanga acceso o meno, e in qualsiasi circostanza, il calore e la speranza sono ciò che i Guardaluce desiderano per Nod-Krai a ogni costo. Tale infatti è il loro giuramento: \"Useremo le nostre ossa e il nostro sangue come combustibile, renderemo la vita più importante della morte.\"",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Zhongjuchang_02_Lod0",
     "Rank": 70700
   },
@@ -53981,7 +54119,7 @@
     ],
     "Id": 374641,
     "Name": "Torre tripode verticale bipolare",
-    "Description": "Una bizzarra torre a tre gambe che si trova al Laboratorio di Krumkake Tin-Tin.\nSi ritiene che sia una reliquia risalente a un'epoca d'oro, la cui funzione originaria è andata persa nel tempo. Ora è una struttura puramente decorativa.",
+    "Description": "Una bizzarra torre a tre gambe che si trova al Laboratorio di Krumkake Tin-Tin.\nSi ritiene che sia una macchina riadattata risalente all'Era dorata, la cui funzione originaria è sconosciuta. Ora è puramente una struttura decorativa.",
     "Icon": "UI_Homeworld_Ani_Exterior_Ndkl_Decoration_Prop_LJCtianxian_01",
     "Rank": 90100
   },
@@ -54334,6 +54472,931 @@
     "Description": "Un pupazzo di neve modellato sulle fattezze di Varesa, completato dalla sua caratteristica maschera da eroina. Cattura fedelmente il suo calore e il suo spirito affabile, senza perdere la passione che la contraddistingue.\nPer aiutare i visitatori di tutta Teyvat a rilassarsi e a divertirsi, la persona che ha creato Lancio di giada ha progettato questo piccolo e affascinante compagno. Sebbene le nevi del Picco del Drago possano essere difficili, la sua presenza porta un calore sottile che persiste.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 361344,
+    "Name": "Sussurri al chiaro di luna",
+    "Description": "Un tavolo che si trova spesso a Piramida. Semplice e quadrato, è interamente realizzato con delle lamiere.\nNel corso di ogni serata silenziosa, i Ratniki si siedono attorno a un tavolo come questo, parlando a bassa voce. Forse cercano di non disturbare gli spiriti erranti che potrebbero aggirarsi nei dintorni?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Progetto per decorazione del Negozio del regno"
+    ],
+    "Id": 362277,
+    "Name": "Barella semplice Trasporto stabile",
+    "Description": "Una barella dal design semplice ma altamente funzionale. Uno strumento solitamente utilizzato dai Guardaluce per il trasporto medico, è formata da due pali collegati con della stoffa robusta e che fungono da barre di trasporto.\nOltre ai Guardaluce, queste barelle sono utilizzate dai cittadini di Piramida per aiutare coloro che non possono muoversi autonomamente.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 362278,
+    "Name": "Alla salute!",
+    "Description": "Un erogatore di bevande in metallo molto capiente e facile da usare, spesso impiegato dai Guardaluce.\nQuesti erogatori sono comuni durante i raduni, dato che permettono a ogni partecipante di bere quanto desidera.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 362133,
+    "Name": "A un amico",
+    "Description": "Questa panca di metallo è frequentemente utilizzata dai Guardaluce. Sebbene sia priva di schienale, è dotata di un cuscino su cui potersi sedere.\nPersino durante i festeggiamenti più chiassosi dei propri compagni, quando ci si siede su questa panca si è a volte sopraffatti dalla malinconia.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 361412,
+    "Name": "Letto di cura semplice",
+    "Description": "Un semplice letto di cura utilizzato dai Guardaluce. Si adatta facilmente alle abitudini quotidiane e alle necessità di trattamento dei feriti.\nIn origine, questo letto era dotato di una manovella che permetteva all'utilizzatore di regolare l'angolazione dello schienale. Tuttavia, poiché coloro che vi giacevano giravano abitualmente e inconsciamente la manovella, producendo cigolii per tutto il giorno, questa fu presto rimossa dal design del letto.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 364226,
+    "Name": "Bandiera di Piramida",
+    "Description": "Una bandiera che si vede spesso a Piramida e che reca l'immagine del faro dei Guardaluce. Il faro rappresenta il loro giuramento di mantenere sempre alta la luce nell'oscurità della notte, mentre vegliano sul futuro.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 371014,
+    "Name": "Barriera di metallo regolabile",
+    "Description": "Una barriera metallica che si vede spesso nei dintorni di Piramida. Viene comunemente impiegata come misura difensiva.\nSebbene come apparato difensivo sia solitamente in grado di resistere ad attacchi considerevoli, il suo aspetto negativo è altrettanto evidente: trasportarla da un punto all'altro richiede uno sforzo considerevole.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 371015,
+    "Name": "Solitudine nella città della vigilanza eterna",
+    "Description": "Una struttura che si vede spesso nei dintorni di Piramida, costruita principalmente con delle lamiere. Sebbene non offra molto in termini di spazio interno abitabile, è relativamente economica da costruire.\n\"Preferirei stare da solo in una casa come questa piuttosto che essere stipato in una enorme con decine di persone!\", disse un gentiluomo che un tempo viveva in un edificio simile.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 371016,
+    "Name": "Rifugio nella città della vigilanza eterna",
+    "Description": "Una struttura che si vede spesso nei dintorni di Piramida, costruita principalmente con delle lamiere. Il suo tetto curvo le conferisce un aspetto unico.\nSebbene non offra molto in termini di spazio interno abitabile o manchi di un design raffinato, ha una struttura robusta che può servire da riparo per molti.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Progetto per decorazione del Negozio del regno"
+    ],
+    "Id": 371017,
+    "Name": "Un angolo tutto per sé",
+    "Description": "Una struttura provvisoria dall'aspetto ordinario, caratterizzata da una tettoia in tessuto giallo.\nRealizzata con materiali semplici e facile da montare e smontare, questo tipo di struttura può essere impiegata per delimitare in maniera rapida ed efficace un angolo tutto per sé quando necessario per eventi all'aperto.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 371018,
+    "Name": "Cura nella città della vigilanza eterna",
+    "Description": "Una tipologia di struttura relativamente alta che si trova spesso a Piramida e che ospita solitamente centri di cura.\nPoiché la popolazione residente a Piramida è in gran parte sana, le sue cliniche sono frequentate raramente. Tuttavia, queste strutture registrano sempre un breve aumento di attività ogni volta che cambiano le stagioni.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 371019,
+    "Name": "Forgia nella città della vigilanza eterna",
+    "Description": "Una struttura estremamente alta che si trova spesso a Piramida, simile a una torre. Al suo interno vengono di norma forniti servizi di forgiatura.\nAnche quando le temperature di Piramida scendono al minimo, questo posto offre una gradita fonte di calore, con le scintille che volano a ogni colpo di martello e la caldaia che rimbomba e rilascia vapore...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene acquistando il Pass battaglia: Coro gnostico"
+    ],
+    "Id": 371020,
+    "Name": "Cammino dello Starsina",
+    "Description": "Una grande statua raffigurante un famoso personaggio storico dall'aspetto risoluto e con la spada sguainata. Di certo, coloro che si soffermano dinanzi a essa possono percepire la determinazione e la forza del soggetto.\nSi narra che, essendo il primissimo Starsina dei Guardaluce, egli camminava nella lunga notte per far sì che il popolo ricevesse un barlume di luce dell'alba: un segno di speranza per tutti.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 371021,
+    "Name": "Faro Sole tra le nuvole",
+    "Description": "Un modello di faro creato ispirandosi a quello originale dei Guardaluce, di cui andavano fieri. Silenzioso ma solenne, questo faro è saldo e sempre affidabile.\n\"Una volta che le nubi oscure si saranno diradate e la luce del sole si farà strada tra le nuvole, non vedremo più mostri emergere al riparo della notte\", dice il capitano Illuga. Forse solo quando quel giorno arriverà davvero, tutti i Ratniki potranno finalmente deporre le armi, uscire dal faro e crogiolarsi indisturbati nella calda luce del sole.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 374332,
+    "Name": "Calore e conforto",
+    "Description": "Un tavolo da pranzo con un'ampia superficie. Il suo corpo principale è realizzato prevalentemente in metallo e presenta un design cavo, fornendo lo spazio per un piccolo fornello. In questo modo, il cibo sulla tavola viene mantenuto caldo.\nGodersi un sontuoso banchetto e bere a sazietà è senza dubbio ciò che desiderano tutti coloro che si siedono a questo tavolo.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 374333,
+    "Name": "Tavolo tattico Dimostrazione avanzata",
+    "Description": "Un semplice e pratico tavolo tattico, ispirato a quello del Gran Maestro Varka.\n\"Mentre noi esitiamo, l'Abisso continua a mietere innumerevoli vite. Perciò, prima ci metteremo in marcia e prima potremo cambiare il loro destino\". La raccolta di informazioni è il fondamento di ogni operazione o spedizione. Simulando in anticipo possibili scenari sul tavolo tattico, le perdite dovute a marce o battaglie dovrebbero essere notevolmente ridotte...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 374642,
+    "Name": "Comando sicuro",
+    "Description": "Un tabellone tattico che si trova spesso a Piramida. Spesso vi vengono appese mappe di diverse regioni, facilitandone la consultazione durante le discussioni.\nSebbene sia uno strumento estremamente semplice, svolge spesso un ruolo importante ogni volta che è necessario avere una mente chiara o una visione d'insieme.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 374643,
+    "Name": "Rastrelliera di armi semplice Accesso facile",
+    "Description": "Una rastrelliera per armi dal design relativamente semplice su cui è possibile riporre armi e scudi.\nDisporre le varie armi per tipologia permette di brandirle facilmente quando si è chiamati a partire seduta stante.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 374644,
+    "Name": "Faro mobile dei Guardaluce",
+    "Description": "Un Veicolo lunare dall'elevata mobilità dall' aspetto piuttosto unico. Alimentato a Kuuvahki, è un mezzo di trasporto che i Guardaluce hanno creato modificando dei veicoli meccanizzati di Snezhnaya.\nAl calar della notte, i Ratniki lo impiegano spesso come faro mobile, una pratica favorita dall'ottima illuminazione che offre.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Costruzione congiunta del Punto d'incontro: ricompensa Punto d'incontro"
+    ],
+    "Id": 374645,
+    "Name": "Statua della strega Momento magico",
+    "Description": "Questa statua, il cui aspetto s'ispira a quello di un angelo, sembra aver catturato l'intensa vitalità che tale angelo possedeva in un momento di magia.\n\"Il destino è sempre ineffabile, eppure... spero ancora di poter guidare coloro che incontro verso un lieto fine per la loro storia\". Poiché ogni momento futuro è incerto, catturare il presente è probabilmente un \"compito\" vitale per molti.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 374819,
+    "Name": "Albero del Tesoro propizio",
+    "Description": "Questa scintillante pianta ornamentale, adornata da una moltitudine di Monete della fortuna dorate, è popolare tra la gente di Liyue per il suo significato simbolico di \"portare ricchezza e la prosperità, riempiendo ogni casa di oro e giada\".\n\"Se riempissimo il giardino con questi alberi, l'anno prossimo sarà...\" è una frase che si sente spesso tra gli appassionati di questa pianta.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 374820,
+    "Name": "Lanterna del Grande Zhanzhu Bloccasentiero",
+    "Description": "Una lanterna grande e raffinata, la cui forma si ispira a un Zhanzhu dal colore scuro, un personaggio che molti bambini detestano dopo aver ascoltato la storia di \"Zhanzhu il Divoraluna\".\nQuando questo \"Bloccasentiero\" ti ostacola, aggiralo. Può essere un bel problema...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 374821,
+    "Name": "Lanterna del Grande Zhanzhu Bloccasentiero massimo",
+    "Description": "Una lanterna grande e raffinata, la cui forma si ispira a Zhanzhu il Rubagiada, un personaggio che molti bambini detestano dopo aver ascoltato la storia di \"Zhanzhu il Divoraluna\"\nNon indietreggiare quando il \"Bloccasentiero massimo\" ti sbarra la strada, poiché può percepire la paura in ogni persona che gli si avvicina...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 374647,
+    "Name": "Scintilla vitale",
+    "Description": "Un recipiente per la coltivazione, collegato da delle tubature a tre contenitori trasparenti.\nNel contenitore più grande, un bagliore fluorescente luccica e fluttua, tanto leggero quanto meraviglioso, proprio come la vita stessa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 373223,
+    "Name": "Verde lussureggiante",
+    "Description": "Una grande pianta di bonsai che si trova spesso nei dintorni dell'istituto di ricerca abbandonato. Piena di vitalità, è così verde e rigogliosa che il solo vederla solleva immediatamente il morale.\nPer qualche ragione, la pianta sembra traboccare perennemente di vita, tanto che chi non ne sa nulla potrebbe chiedersi se venga innaffiata con qualche pozione speciale...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 373224,
+    "Name": "Verde esuberante",
+    "Description": "Una piccola pianta di bonsai che si trova spesso nei dintorni dell'istituto di ricerca abbandonato. Piena di vitalità, è così verde e rigogliosa che il solo vederla solleva immediatamente il morale.\nPer qualche ragione, la pianta sembra traboccare perennemente di vita, tanto che chi non ne sa nulla potrebbe chiedersi se venga innaffiata con qualche pozione speciale...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Progetto per decorazione del Negozio del regno"
+    ],
+    "Id": 360469,
+    "Name": "Lampada di metallo leggera",
+    "Description": "Una lampada leggera spesso usata dagli abitanti di Piramida. Anche se non è molto luminosa, il suo peso ridotto la rende facile da trasportare.\nAl calar della sera, i bambini smettono di giocare, prendendo le loro lanterne per tornare a casa insieme. Da lontano, i bambini allegri e gioiosi appaiono come delle stelle che si muovono sul terreno.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Ricompensa baule notevole Nod-Krai"
+    ],
+    "Id": 360470,
+    "Name": "Lampione Efficienza massima",
+    "Description": "Un lampione che si trova spesso a Piramida. Ha un aspetto curato e offre una buona illuminazione.\nÈ realizzato con materiali forgiati tramite procedimenti usati solo a Piramida, i quali forniscono una resistenza superiore alla corrosione e alla ruggine causate dalla pioggia. Questa dedizione al principio di \"bassa manutenzione, basso investimento\" è perfettamente in linea con l'approccio pratico alla vita condiviso dalla maggior parte degli abitanti di questa città.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360471,
+    "Name": "Lanterna Xiao vivace Che il mio desiderio viaggi lontano",
+    "Description": "Una colorata lanterna Xiao la cui luce riscalda il cuore. È realizzata con materiali e un metodo piuttosto semplici.\nTrasporta molti desideri e ricordi preziosi lontano nel cielo notturno.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360472,
+    "Name": "Lanterna Xiao vivace Un incontro con gli amici",
+    "Description": "Una lanterna Xiao colorata la cui luce riscalda il cuore. Il suo design ingegnoso le permette di rimanere in aria più a lungo.\nSi dice che qualsiasi desiderio o pensiero affidato alla lanterna Xiao raggiungerà sempre il suo destinatario, anche se si trova a migliaia di chilometri di distanza.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360473,
+    "Name": "Lanterna Xiao vivace Riff fortunato",
+    "Description": "Una squisita lanterna Xiao creata da Xinyan. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"È ora di scatenarci!!!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360474,
+    "Name": "Lanterna Xiao vivace Buoni auspici",
+    "Description": "Una squisita lanterna Xiao creata da Gaming. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"Auguro a tutti successo nelle vostre imprese e buona salute!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360475,
+    "Name": "Lanterna Xiao vivace Il miglior inizio della primavera",
+    "Description": "Una squisita lanterna Xiao creata da Lan Yan. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"Auguro a tutti pace e felicità!\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360476,
+    "Name": "Lanterna Xiao vivace Dolci profumi nel vento",
+    "Description": "Una squisita lanterna Xiao creata da Émilie. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"Auguro a tutti di avere il tempo di fermarsi un po' ad assaporare i momenti più dolci della vita.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360477,
+    "Name": "Lanterna Xiao vivace Fortuna perenne",
+    "Description": "Una squisita lanterna Xiao creata da Layla. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"Auguro a tutti i membri dell'Akademiya di riuscire a completare le proprie tesi...\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360478,
+    "Name": "Lanterna Xiao vivace Che tutti i tuoi desideri si avverino",
+    "Description": "Una squisita lanterna Xiao creata da Xiao. Tutti coloro che la osservano sono pervasi da una sensazione di calore e serenità.\n\"Possano tutti stare bene.\"",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Si ottiene dall'evento a tempo limitato"
+    ],
+    "Id": 360479,
+    "Name": "Cavallo bianco al galoppo",
+    "Description": "Una gigantesca lanterna Xiao il cui aspetto si ispira a quello di una certa Adepta che veglia sulla luna. Raffigura un pallido cavallo bianco che salta da una parete rocciosa attraverso volute di nuvole, su uno sfondo di brillanti tonalità del tramonto. Oggi, le persone incidono i loro desideri su questa lanterna, forse nella speranza che l'Adepta cavallo bianco scenda dalla luna su un carro di giada per esaudire i loro desideri.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

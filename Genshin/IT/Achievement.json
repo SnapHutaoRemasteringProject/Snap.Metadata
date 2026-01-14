@@ -33,7 +33,7 @@
     "Goal": 1,
     "Order": 3,
     "Title": "La voce dell'acqua corrente",
-    "Description": "Raccogli la serie completa del Cuore delle limpide sorgenti.",
+    "Description": "Raccogli la serie completa del \"Cuore delle limpide sorgenti\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -47,7 +47,7 @@
     "Goal": 1,
     "Order": 4,
     "Title": "L'Alabarda divina deride i cieli",
-    "Description": "Raccogli la serie completa della Leggenda dell'alabarda distrutta.",
+    "Description": "Raccogli la serie completa della \"Leggenda dell'alabarda distrutta\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -61,7 +61,7 @@
     "Goal": 1,
     "Order": 5,
     "Title": "L'ubriacone e il lupo",
-    "Description": "Raccogli la serie completa del Racconto di un ubriacone.",
+    "Description": "Raccogli la serie completa del \"Racconto di un ubriacone\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -75,7 +75,7 @@
     "Goal": 1,
     "Order": 6,
     "Title": "Primavera, cavallo bianco e chiaro di luna",
-    "Description": "Raccogli la serie completa della Foresta di bambù al chiaro di luna.",
+    "Description": "Raccogli la serie completa della \"Foresta di bambù al chiaro di luna\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -981,7 +981,7 @@
     "Goal": 22,
     "Order": 70,
     "Title": "Terra dei denti di leone",
-    "Description": "Raccogli la serie completa de La volpe nel Mare di denti di leone.",
+    "Description": "Raccogli la serie completa de \"La volpe nel Mare di denti di leone\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -994,7 +994,7 @@
     "Goal": 22,
     "Order": 71,
     "Title": "La vera amicizia richiede sacrificio",
-    "Description": "Raccogli la serie completa de La principessa dei cinghiali.",
+    "Description": "Raccogli la serie completa de \"La principessa dei cinghiali\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -1007,7 +1007,7 @@
     "Goal": 22,
     "Order": 72,
     "Title": "Eterna giovinezza",
-    "Description": "Raccogli la serie completa della Malinconia di Vera.",
+    "Description": "Raccogli la serie completa della \"Malinconia di Vera\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -1020,7 +1020,7 @@
     "Goal": 22,
     "Order": 73,
     "Title": "Specialista di studi hilichurliani",
-    "Description": "Raccogli la serie completa delle Tradizioni culturali hilichurliane.",
+    "Description": "Raccogli la serie completa delle \"Tradizioni culturali hilichurliane\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -1272,7 +1272,7 @@
     "Goal": 0,
     "Order": 92,
     "Title": "Storie di mostruosa follia",
-    "Description": "Raccogli la serie completa dei Racconti di Via Toki.",
+    "Description": "Raccogli la serie completa dei \"Racconti di Via Toki\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -2374,7 +2374,7 @@
     "Goal": 32,
     "Order": 176,
     "Title": "Ricordi di Gurabad",
-    "Description": "Raccogli la serie completa de La storia di Shiruyeh e Shirin.",
+    "Description": "Raccogli la serie completa de \"La storia di Shiruyeh e Shirin\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -2387,7 +2387,7 @@
     "Goal": 32,
     "Order": 177,
     "Title": "Brillante come una fiamma",
-    "Description": "Raccogli la serie completa de Il foglio del fogliame.",
+    "Description": "Raccogli la serie completa de \"Il foglio del fogliame\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -2400,7 +2400,7 @@
     "Goal": 32,
     "Order": 178,
     "Title": "Il viaggio di Farris",
-    "Description": "Raccogli la serie completa de La pergamena della canzone fluente.",
+    "Description": "Raccogli la serie completa de \"La pergamena della canzone fluente\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -3551,7 +3551,7 @@
     "Goal": 43,
     "Order": 176,
     "Title": "Renart l'Ingannevole",
-    "Description": "Raccogli la serie completa delle Fiabe di Fontaine.",
+    "Description": "Raccogli la serie completa delle \"Fiabe di Fontaine\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -3564,7 +3564,7 @@
     "Goal": 43,
     "Order": 177,
     "Title": "Robben contro Chesterton",
-    "Description": "Raccogli la serie completa di Robben contro Chesterton: La spilla iridata.",
+    "Description": "Raccogli la serie completa di \"Robben contro Chesterton: La spilla iridata\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -3577,7 +3577,7 @@
     "Goal": 43,
     "Order": 178,
     "Title": "Compendio della miseria",
-    "Description": "Raccogli la serie completa di Remuria: Il declino e la rovina.",
+    "Description": "Raccogli la serie completa di \"Remuria: Il declino e la rovina\".",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -5600,6 +5600,257 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0"
+  },
+  {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Romanzi pulp da dieci Mora",
+    "Description": "Raccogli la serie completa de \"Le leggende di Reed Miller, il Ladro eccezionale\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "La fede era per la transitorietà",
+    "Description": "Raccogli la serie completa degli \"Inni dell'Estremo Nord\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "...Come l'ape produce il miele",
+    "Description": "Raccogli la serie completa degli \"Echi della conchiglia\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Squarcia la cortina di neve del cielo",
+    "Description": "Raccogli la serie completa delle \"Storie del Vento del Nord\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "Storia di una città",
+    "Description": "Raccogli la serie completa di \"Una breve storia della Candida Stella\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Il posto incantato sotto la luna",
+    "Description": "Raccogli la serie completa di \"Mormorii notturni dal confine lontano\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Caccia al tesoro tra la polvere lunare (II)",
+    "Description": "Apri 45 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Caccia al tesoro tra la polvere lunare (II)",
+    "Description": "Apri 90 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Caccia al tesoro tra la polvere lunare (II)",
+    "Description": "Apri 180 bauli sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Avventure tra la polvere lunare (II)",
+    "Description": "Completa 5 sfide a tempo del mondo di gioco attivate da un meccanismo sul Belvedere del Mar Vacuo, nella Pianura Solcaonde e sul Picco Cinereo",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Esplorazione continentale: Isole al chiaro di luna (II)",
+    "Description": "Illumina le mappe delle seguenti aree di Nod-Krai: Belvedere del Mar Vacuo, Pianura Solcaonde e Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Boschi ghiacciati oltre le tenebre (II)",
+    "Description": "Sblocca tutti i Portali nelle seguenti aree di Nod-Krai: Belvedere del Mar Vacuo, Pianura Solcaonde e Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Pellegrinaggio al santuario: Isole al chiaro di luna (II)",
+    "Description": "Sblocca tutti i Santuari delle Profondità nelle seguenti aree di Nod-Krai: Belvedere del Mar Vacuo, Pianura Solcaonde e Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Offerte alla notte: Isole al chiaro di luna (II)",
+    "Description": "Sblocca tutti i sigilli dei Tesori nascosti delle Kuuhenki nelle seguenti aree di Nod-Krai: Belvedere del Mar Vacuo, Pianura Solcaonde e Picco Cinereo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "I venti si risvegliano, le foglie vorticano",
+    "Description": "Un usignolo, che trasportava un tizzone nel becco, volava solo dopo il tramonto.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Se il seme non muore",
+    "Description": "Anche quando il fiore appassisce, le foglie mantengono la loro promessa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Costruzione congiunta del Punto d'incontro: Accampamento di sorveglianza della Rupe",
+    "Description": "Raggiungi il livello di costruzione massimo dell'Accampamento di sorveglianza della Rupe.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Costruzione congiunta del Punto d'incontro: Giardino della Strega",
+    "Description": "Raggiungi il livello di costruzione massimo del Giardino della Strega.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Costruzione congiunta del Punto d'incontro: Fortezza di Favonius",
+    "Description": "Raggiungi il livello di costruzione massimo della Fortezza di Favonius.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 81000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Bianca serenata al chiaro di luna",
+    "Description": "Completa Cronache lunari: Parte III.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Ritorcere ogni peccato contro il peccatore",
+    "Description": "Aiuta Janusz a occuparsi dei mostri alla Palude Ombrincubo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Mano del morto",
+    "Description": "La fine non è ancora arrivata.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Fuggi dunque, o speranza, e tu con essa Fuggi, o timor",
+    "Description": "Osserva l'ascesa dell'antico palazzo dalle profondità.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"A est della luna, a ovest del sole\"",
+    "Description": "Completa \"A est della luna, a ovest del sole\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Quis custodiet ipsos custodes?",
+    "Description": "Svela il piano di Grazina.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "La memoria del lupo solitario",
+    "Description": "Da allora, il Cavaliere insanguinato si allontanò dal mondo degli umani...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Dove riposano gli eroi",
+    "Description": "Assisti alla fine della storia dei Destrieri della Burrasca gelata",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Quando ci si separa nella strada verso casa",
+    "Description": "Aiuta Kuzmich nel suo viaggio verso casa.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Ci sarà del pane",
+    "Description": "Prepara dei Funghi fantasma appena sfornati nel forno.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "La collina al chiaro di luna",
+    "Description": "Sblocca una capsula del tempo lasciata da un iperboreano sconosciuto.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "I sentieri della gloria non portano che alla tomba",
+    "Description": "Elimina tutti i seguaci del \"professor\" Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Si tratta sempre di tempismo",
+    "Description": "Cogli l'attimo e cambia la sorte.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Non farlo cadere!",
+    "Description": "Assorbi e lancia una Mandragora con il Kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "La sottile linea nera",
+    "Description": "Purifica le emissioni fluenti del potere abissale.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Vagavo solitario come una nuvola",
+    "Description": "Senti il tocco morbido ed elastico delle Cotonvere...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Il pastore",
+    "Description": "Passeggia serenamente al fianco del Pigrariete.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "E la tenebra dissolta",
+    "Description": "Soccombi alla corruzione del Deterioramento abissale.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Come avrebbe dovuto essere",
+    "Description": "Sii testimone del ritorno della Luna dell'incubo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Non tentare un Dio",
+    "Description": "Infrangi le regole stabilite da Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"La chiamiamo 'efficienza'\"",
+    "Description": "Rompi lo scudo senza sconfiggere neanche uno dei Pescatori delle profondità nascoste evocati dal Signore delle profondità nascoste: Sussurratore di incubi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Un viaggiatore in una notte d'inverno",
+    "Description": "Quale sarà la fine del suo viaggio?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Il viandante e la sua ombra",
+    "Description": "Forse questo è il potere che ti è destinato.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "L'utopia dell'eretico",
+    "Description": "Esamina il campo di energia creato dal Luminare.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Chiaro di luna di epoche remote",
+    "Description": "Incontra le tre Sorelle lunari del passato nella prigione che un tempo confinava le Dee della Luna.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Il ritorno della Luna nuova",
+    "Description": "Dalle ceneri, sorge la Luna nuova, la sua ascesa mette nuovamente in moto la ruota del destino...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Navigando verso il domani",
+    "Description": "Assisti all'alleanza forgiata tra le fazioni di Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "To the Moon",
+    "Description": "Raggiungi la superficie della luna.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Luna vera",
+    "Description": "Completa \"Luna vera\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

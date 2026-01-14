@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "Colombina",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "Zibai",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "Illuga",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "Raíces esenciales: Campo enigmático",
-    "Description": "Un campo de cultivo formado gracias a la creación dimensional. En su fértil tierra abunda un sinfín de nutrientes que, tras plantar una semilla, dará lugar a un cultivo de gran calidad y que apenas necesita cuidados. Las plantas que crecen en este campo adquieren unas raíces enormes, por lo que, a fin de tener suficiente espacio para crecer, en él no se pueden plantar demasiadas cosas.\nEntre las semillas, esporas o muestras del Semillero que pueden crecer aquí, se incluyen: valbayas, flores dulces, lucettas, chiles de Jueyun, zanahorias, rábanos, menta. champiñones, frutos harra, duraznolivas, jazmimpolutos, mahís, cacahuatles, patas de saurio, quenepas, cornihongos luminosos, lakkas y bellotas veraniegas.",
+    "Description": "Un campo de cultivo formado gracias a la creación dimensional. En su fértil tierra abunda un sinfín de nutrientes que, tras plantar una semilla, dará lugar a un cultivo de gran calidad y que apenas necesita cuidados. Las plantas que crecen en este campo adquieren unas raíces enormes, por lo que, a fin de tener suficiente espacio para crecer, en él no se pueden plantar demasiadas cosas.\nEntre las semillas, esporas o muestras del Semillero que pueden crecer aquí, se incluyen: valbayas, flores dulces, lucettas, chiles de Jueyun, zanahorias, rábanos, menta. champiñones, frutos harra, duraznolivas, jazmimpolutos, mahís, cacahuatles, patas de saurio, quenepas, cornihongos luminosos, lakkas, bellotas veraniegas y ámbares de pino.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "Raíces esenciales: Campos exuberantes",
-    "Description": "Un campo de cultivo formado gracias a la creación dimensional. En su fértil tierra abunda un sinfín de nutrientes que, tras plantar una semilla, dará lugar a una flor de gran calidad y que apenas necesita cuidados. Las plantas que crecen en este campo adquieren unas raíces enormes, por lo que, a fin de tener suficiente espacio para crecer, en él no se pueden plantar demasiadas flores.\nEntre las semillas, esporas o muestras del Semillero que pueden crecer aquí, se incluyen: flores de seda, cecilias, lirios de cristal, margaritas voladoras, flores chingxin, campanitas de cristal, percibetormentas, rosas de Sumeru, campanillas lumidulces, rosarcoíris, crisantemos resplandecientes, flores rocanubosas y flores velaescarcha.",
+    "Description": "Un campo de cultivo formado gracias a la creación dimensional. En su fértil tierra abunda un sinfín de nutrientes que, tras plantar una semilla, dará lugar a una flor de gran calidad y que apenas necesita cuidados. Las plantas que crecen en este campo adquieren unas raíces enormes, por lo que, a fin de tener suficiente espacio para crecer, en él no se pueden plantar demasiadas flores.\nEntre las semillas, esporas o muestras del Semillero que pueden crecer aquí, se incluyen: flores de seda, cecilias, lirios de cristal, margaritas voladoras, flores chingxin, campanitas de cristal, percibetormentas, rosas de Sumeru, campanillas lumidulces, rosarcoíris, crisantemos resplandecientes, flores rocanubosas, flores velaescarcha y hierbas invernales.",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "Cabra castaña menta",
     "Description": "Una cabra que habita en Nod Krai, cuyos cuernos y marcas parecen teñidos con el color de menta.\nTras entrar a la Relajatetera, su lana se volvió aún más esponjosa. Durante la época de muda, es como si cayera una “llovizna” de copos de algodón.\nPor razones desconocidas, al llegar al mundo interior, algunos animales mantuvieron la forma adquirida por la fuerza del kuuvahki. Para facilitarle el reconocimiento a Gordi, Paimon decidió ponerles nombres nuevos según su apariencia.",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible al capturar"
+    ],
+    "Id": 369222,
+    "Name": "Geco lomoespinoso",
+    "Description": "Este geco de cuerpo ligero y pie firme aprovecha la capacidad natural de sus patas de adherirse a las paredes para escalar.\nTras llegar al mundo interior, siguen viviendo en los resquicios de los acantilados rocosos, pero como las amenazas de sus depredadores han disminuido considerablemente, pasan más tiempo fuera de sus escondites.\nPor razones desconocidas, algunos animales que llegaron al mundo interior conservan su apariencia especial influenciada por el kuuvahki...",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible al capturar"
+    ],
+    "Id": 369223,
+    "Name": "Cigüeña cuellogrís",
+    "Description": "Un ave grácil y de largas patas cubierta de un suave plumaje gris y dorado.\nDebido a su gracia, algunos animales incluso la provocan a propósito para admirar sus movimientos de advertencia, los cuales parecen una danza. Por supuesto, Gordi ya ha prohibido terminantemente este comportamiento.\nPor razones desconocidas, algunos animales que llegaron al mundo interior conservan su apariencia especial influenciada por el kuuvahki...",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible al capturar"
+    ],
+    "Id": 369224,
+    "Name": "Águila coronada",
+    "Description": "Un águila de aguda mirada. Su orgullosa corona de plumas le otorga cierto aire de realeza.\nMientras planea sin esfuerzo alguno a grandes alturas, usa su fuerza y su amplia envergadura para llevar a cabo devastadoras caídas en picado que dejan a sus presas pocas oportunidades de huida. Desde que estas águilas coronadas se mudaron al mundo interior, rara vez cazan porque siempre hay comida a su disposición. Sin embargo, para exhibir su hermoso plumaje coronado, suelen volar y dar vueltas en lo alto del cielo...\nPor razones desconocidas, algunos animales que llegaron al mundo interior conservan su apariencia especial influenciada por el kuuvahki...",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "Un muñeco de nieve inspirado en Varesa, con su característica máscara de heroína. Captura muy fielmente su calidez y su espíritu apasionado.\nEl creador de “Tiro de jade” diseñó este pequeño y encantador compañero para ayudar a los huéspedes de todo Teyvat a relajarse y divertirse. Aunque las nieves de Espinadragón pueden ser muy traicioneras, su presencia aporta una sutil calidez que perdura en el ambiente.",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 361344,
+    "Name": "Susurros en una noche tranquila",
+    "Description": "Una mesa común en Piramida, de diseño simple y cuadrado, fabricada completamente en chapa de hierro.\nCada noche tranquila, los soldados ratnik se sientan alrededor de esta mesa para conversar en voz baja. ¿Por qué? Tal vez no quieren perturbar a los espíritus que vagan por la zona...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 362277,
+    "Name": "Camilla simple: Transporte seguro",
+    "Description": "Una camilla de diseño simple pero muy útil. Es una herramienta médica de transporte comúnmente utilizada por los Lampareros, está construida con dos barras de transporte unidas por una tela resistente.\nEn la vida cotidiana, además de los Lampareros, algunos residentes de Piramida también utilizan este tipo de camillas para ayudar a transportar a personas con movilidad reducida.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 362278,
+    "Name": "Beber a raudales",
+    "Description": "Un barril metálico de gran capacidad que usan los Lampareros para autoservirse bebidas alcohólicas.\nEn los lugares de reunión, se suelen colocar muchos barriles como estos para que todos puedan servirse la cantidad que quieran.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 362133,
+    "Name": "Por mi amigo",
+    "Description": "Un banco metálico común entre los Lampareros, que aunque no tiene respaldo cómodo, al menos cuenta con un cojín suave.\nCuando uno se sienta junto a sus camaradas, incluso entre el bullicio de las bebidas y la alegría, hay veces que los pensamientos melancólicos invaden el corazón.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 361412,
+    "Name": "Cama simple de cuidados médicos",
+    "Description": "Una cama médica simple de uso común entre los Lampareros, diseñada para adaptarse a los hábitos y necesidades de tratamiento de los pacientes postrados.\nOriginalmente, esta cama médica simple tenía una manivela para ajustar el ángulo del respaldo, pero como los pacientes que se acostaban en ella solían moverla inconscientemente haciendo un ruido chirriante, la manivela fue desmontada enseguida.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 364226,
+    "Name": "Estandarte de Piramida",
+    "Description": "Un estandarte común en Piramida, decorado con el símbolo del faro de los Lampareros, que representa su voluntad de mantener la luz eterna en la oscuridad y de velar por el futuro.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 371014,
+    "Name": "Barrera ajustable de hierro",
+    "Description": "Una barrera ajustable de hierro muy común en Piramida, se suele usar como un dispositivo de defensa.\nEste puede resistir una gran cantidad de ataques, pero tiene un defecto bastante obvio: moverlo a otro lugar requiere bastante esfuerzo.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 371015,
+    "Name": "Soledad en la ciudad veladora",
+    "Description": "Un edificio muy común en Piramida construido principalmente con chapas metálicas. El espacio interior es pequeño, pero su bajo costo de construcción es su mayor ventaja.\n“¡Prefiero vivir solo en una casa así que estar apretujado con la gente en una casa grande!”, comentó un señor que vivió en una de estas viviendas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 371016,
+    "Name": "Refugio en la ciudad veladora",
+    "Description": "Un edificio muy común en Piramida construido principalmente con chapas metálicas. Tiene un diseño distintivo y un techo arqueado.\nAunque estas casas no tienen mucho espacio interior ni un diseño particularmente elaborado, su estructura resistente ofrece refugio a muchas personas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371017,
+    "Name": "Espacio propio",
+    "Description": "Un puesto con un diseño sencillo y un toldo amarillo de tela.\nGracias a sus materiales simples y su fácil montaje y desmontaje, estos puestos son perfectos para delimitar espacios durante eventos al aire libre de forma rápida y eficiente.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 371018,
+    "Name": "Protección de la ciudad veladora",
+    "Description": "Un edificio muy común en Piramida de grandes alturas que sirve como centro de atención médica en la ciudad.\nLa mayoría de los habitantes de Piramida gozan de buena salud, por lo que estos centros médicos suelen estar tranquilos. Sin embargo, con cada cambio de estación, estos lugares experimentan breves períodos de actividad.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 371019,
+    "Name": "Forja de la ciudad veladora",
+    "Description": "Un edificio muy común en Piramida con varios pisos que se asemeja a una torre. En Piramida, estos edificios suelen servir como lugares donde se ofrecen servicios de forja.\nIncluso en los días más fríos de la ciudad, siempre hay un calor acogedor alrededor de esta construcción: las chispas saltan al compás de los golpes del martillo y las calderas rugen mientras expulsan nubes de vapor...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible con la compra del PB Himno de la Perla"
+    ],
+    "Id": 371020,
+    "Name": "Marcha con espada",
+    "Description": "Una imponente estatua, esculpida a imagen de un célebre personaje histórico, se alza con porte firme mientras empuña una espada. La determinación y el poder que irradia son tales que incluso quienes se detienen a contemplarla pueden sentir su presencia.\nDicen que, como primer starshiná de los Lampareros, caminó durante la larga noche con un solo propósito: mantener viva una luz de esperanza para todos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 371021,
+    "Name": "Faro de iluminación: Luz que atraviesa las nubes",
+    "Description": "Una maqueta inspirada en el gran faro de los Lampareros, que se alza silencioso, firme y confiable.\n“Cuando las nubes oscuras se dispersen y los rayos del sol atraviesen el cielo, ya no veremos monstruos salir bajo el manto de la noche”, dice el capitán Illuga. Quizás solo entonces los soldados ratnik podrán dejar sus armas, salir del faro y disfrutar por fin de unas vacaciones bajo el cálido sol.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 374332,
+    "Name": "Siempre calentito",
+    "Description": "Una amplia mesa de comedor hecha principalmente de metal. Presenta un diseño hueco que permite colocar pequeños hornillos debajo de la mesa para mantener la temperatura de los platos servidos.\nDisfrutar de un festín y beber hasta saciarse, seguramente ese es el pensamiento común de todos los que se sientan a comer en esta mesa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 374333,
+    "Name": "Arena de estrategia: Simulación de avance",
+    "Description": "Un modelo simple pero práctico basado en la arena de estrategia del Gran Maestro Varka.\n“Por cada momento en el que vaciláramos, el Abismo seguiría destrozando innumerables vidas. Cuanto antes emprendiéramos la marcha, antes podríamos alterar sus destinos”. La obtención de la información es la base de toda campaña. Mediante simulaciones de futuros escenarios en la arena, las bajas deberían poder reducirse tanto en el avance como en el combate...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 374642,
+    "Name": "Control absoluto",
+    "Description": "Un tablón de operaciones común en Piramida con mapas de diferentes zonas para facilitar su visualización en las discusiones grupales.\nSe trata de una herramienta muy sencilla, pero resulta fundamental cuando es necesario aclarar ideas y tener una visión general de la situación.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 374643,
+    "Name": "Armero simple: Equipación rápida",
+    "Description": "Un armero de diseño sencillo para colocar armas y escudos.\nSi se clasifican las diferentes armas al momento de guardarlas, será muy conveniente para aquellos que necesiten equiparse rápidamente para el combate.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 374644,
+    "Name": "Casa móvil luminosa",
+    "Description": "Un carro lunar de diseño peculiar y fácil movilidad, impulsado por el poder del kuuvahki como combustible. Es un vehículo de transporte modificado a partir de una locomotora de Snezhnaya utilizada por los Lampareros.\nDurante la noche, los soldados ratnik suelen usarlo como un faro móvil, ya que es práctico y lo suficientemente luminoso.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de nivel de Construcción de Punto de encuentro"
+    ],
+    "Id": 374645,
+    "Name": "Estatua de la bruja: Momento inmortalizado",
+    "Description": "Un modelo creado a partir de un ángel que parece haber inmortalizado la desbordante vitalidad que mostró en un instante.\n“El destino es siempre inefable, pero... aún tengo la esperanza de poder guiar a aquellos que encuentro hacia el final feliz de sus historias”. Como es imposible tener certeza de cada momento del futuro, capturar el presente se convierte en una lección muy importante para muchas personas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374819,
+    "Name": "Árbol de la fortuna",
+    "Description": "Este bonsái ornamental, adornado con relucientes monedas auspiciosas, es muy apreciado por la gente de Liyue por simbolizar la atracción de riqueza y prosperidad al hogar.\n“Si llenara mi jardín de árboles de la fortuna, entonces el próximo año...”, comentan algunos entusiastas aficionados a colocar estas plantas.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374820,
+    "Name": "Linterna Zhanzhu grande: Obstructor",
+    "Description": "Una linterna Zhanzhu grande de color oscuro con un diseño muy peculiar inspirada en Zhanzhu, el Devorador de la Luna. Se trata de un personaje que hace rechinar los dientes de muchos niños después de escuchar su historia.\nCuando bloquee tu camino, será mejor que lo evites, pues este pequeño obstructor puede ser muy persistente...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 374821,
+    "Name": "Linterna Zhanzhu grande: Obstructor mayor",
+    "Description": "Una linterna Zhanzhu grande de color rojo con un diseño muy peculiar inspirada en Zhanzhu, el Devorador de la Luna, el cual abraza una pieza de jade. Se trata de un personaje que hace rechinar los dientes de muchos niños después de escuchar su historia.\nCuando se interponga en tu camino, no lo evites, pues este obstructor mayor puede percibir el miedo de tu interior...",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 374647,
+    "Name": "Como destellos de vida",
+    "Description": "Un contenedor de cultivo de función desconocida, compuesto por tres recipientes transparentes conectados por tubos.\nEn el recipiente más grande, una luz fluorescente parpadea y flota, tan ligera y hermosa como la vida misma.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 373223,
+    "Name": "Verdor exuberante",
+    "Description": "Una maceta de gran tamaño que se encuentra comúnmente en los institutos de investigación abandonados. Las plantas que crecen en ella rebosan de vitalidad, tanto que con solo verlas, uno no puede evitar sentirse de mejor humor.\nPor alguna razón, estas plantas siempre lucen exuberantes sin importar cuándo se las vea. Algunas personas que desconocen su origen especulan: ¿será que las riegan con algún tipo de solución especial?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 373224,
+    "Name": "Verdor floreciente",
+    "Description": "Una maceta de tamaño pequeño que se encuentra comúnmente en los institutos de investigación abandonados. Las plantas que crecen en ella rebosan de vitalidad, tanto que con solo verlas, uno no puede evitar sentirse de mejor humor.\nPor alguna razón, estas plantas siempre lucen exuberantes sin importar cuándo se las vea. Algunas personas que desconocen su origen especulan: ¿será que las riegan con algún tipo de solución especial?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360469,
+    "Name": "Lámpara ligera de metal",
+    "Description": "Una lámpara metálica ligera de uso común entre los habitantes de Piramida. Su luminosidad es limitada, pero es muy práctica porque es muy fácil de llevar.\nCuando los niños juegan hasta que la noche cae, toman sus lámparas y regresan juntos a casa, creando un bullicio alegre, como si fueran estrellas en la tierra.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Recompensa de cofre extraño de Nod Krai"
+    ],
+    "Id": 360470,
+    "Name": "Farola de bajo desgaste y bajo consumo",
+    "Description": "Una farola muy común en Piramida con un diseño cuidado y buena iluminación.\nEstá fabricada con materiales forjados mediante técnicas especiales de Piramida, lo que evita que se oxide por la erosión de la lluvia. “Bajo desgaste y baja inversión”, esto también coincide con la filosofía de vida de la mayoría de los habitantes de la ciudad.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360471,
+    "Name": "Linterna celeste brillante: Largo viaje de buenos deseos",
+    "Description": "Una linterna celeste de colores brillantes y luz cálida, fácil de hacer gracias a sus materiales sencillos.\nLleva consigo preciadas aspiraciones y recuerdos mientras viaja por el cielo nocturno.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360472,
+    "Name": "Linterna celeste brillante: Encuentro entre amigos",
+    "Description": "Una linterna celeste de colores brillantes y luz cálida, con un diseño más refinado que le permite volar distancias más largas.\nDicen que incluso a miles de kilómetros de distancia, los sentimientos confiados a la linterna celeste llegarán a su destinatario.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360473,
+    "Name": "Linterna celeste brillante: Melodía de la prosperidad",
+    "Description": "Una linterna celeste de diseño único hecha por Xinyan que transmite calidez, serenidad y felicidad a primera vista.\n“¡Quiero dar un concierto brutal!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360474,
+    "Name": "Linterna celeste brillante: Próspero año nuevo",
+    "Description": "Una linterna celeste de diseño único hecha por Gaming que transmite calidez, serenidad y felicidad a primera vista.\n“Que todo salga bien y que gocemos de buena salud”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360475,
+    "Name": "Linterna celeste brillante: Golondrina de la primavera",
+    "Description": "Una linterna celeste de diseño único hecha por Lan Yan que transmite calidez, serenidad y felicidad a primera vista.\n“¡Que todos estén sanos, salvos y felices!”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360476,
+    "Name": "Linterna celeste brillante: Fragancia del viento",
+    "Description": "Una linterna celeste de diseño único hecha por Émilie que transmite calidez, serenidad y felicidad a primera vista.\n“Que todos puedan disfrutar de momentos tranquilos para saborear su fragancia”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360477,
+    "Name": "Linterna celeste brillante: Buena suerte para siempre",
+    "Description": "Una linterna celeste de diseño único hecha por Laila que transmite calidez, serenidad y felicidad a primera vista.\n“Que todos los estudiantes de la Academia de Sumeru aprueben su tesis”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360478,
+    "Name": "Linterna celeste brillante: Que todos los deseos se cumplan",
+    "Description": "Una linterna celeste de diseño único hecha por Xiao que transmite calidez, serenidad y felicidad a primera vista.\n“Paz”.",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 360479,
+    "Name": "Galope de la yegua blanca",
+    "Description": "Una enorme linterna celeste creada a imagen de una Adeptus que custodiaba la luna. Representa una yegua blanca inmaculada saltando desde un acantilado, rodeada de nubes y envuelta en un crepúsculo resplandeciente. Hoy en día, la gente escribe sus aspiraciones en las linternas celestes con la esperanza de que la Adeptus Yegua Blanca descienda de la luna en su carruaje de jade para cumplir sus deseos.",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

@@ -127,12 +127,12 @@
   {
     "Id": 211201,
     "Name": "<color=#f39001>Pyro Crystal's Boon</color>",
-    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Pyro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>70%</color> Pyro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
   },
   {
     "Id": 211202,
     "Name": "<color=#e09800>Stoneshard Strike</color>",
-    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada setiap <color=#f39001>{0}</color> detik dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
+    "Description": "Saat <color=#f39001>Pyro Crystal's Boon</color> sedang aktif, akan melancarkan gelombang serangan di posisi Karakter berada secara berkala dan mengakibatkan <color=#e09800>Geo DMG Area</color>."
   },
   {
     "Id": 211203,
@@ -217,7 +217,7 @@
   {
     "Id": 211801,
     "Name": "<color=#f39001>Hydro Crystal's Boon</color>",
-    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Hydro dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>70%</color> Hydro dan Geo DMG Bonus, DMG reaksi Lunar-Crystallize meningkat <color=#f39001>75%</color>. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
   },
   {
     "Id": 211802,
@@ -398,5 +398,35 @@
     "Id": 11240002,
     "Name": "Purrsonal Coordinated Assistance Robot",
     "Description": "Salah satu peralatan yang selalu dibawa oleh Jahoda, si mantan pemburu harta karun. Alat ini akan dikeluarkan setelah Jahoda melancarkan Elemental Burst <color=#FFD780FF>Hidden Aces: Seven Tools of the Hunter</color>.\nPurrsonal Coordinated Assistance Robots akan terus memulihkan HP Karakter aktif dalam party sendiri. Jika HP Karakter yang dipulihkan lebih dari 70%, akan otomatis memulihkan HP Karakter sekitar dengan HP terendah di dalam party juga.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Saat musuh di sekitar terpengaruh oleh efek <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color>, maka Purrsonal Coordinated Assistance Robots akan dikonversi menjadi jenis elemen yang sesuai, dengan prioritas urutan konversi sebagai berikut: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, <color=#99FFFFFF>Cryo</color>. Setiap kali mengeluarkan Purrsonal Coordinated Assistance Robots, konversi elemen di atas hanya dapat terpicu satu kali. Setelah memicu konversi elemen, Purrsonal Coordinated Assistance Robots akan menyerang maksimum 3 musuh di sekitar secara berkala dan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Efek Buff Tambahan",
+    "Description": "Untuk setiap jenis elemen yang sudah diresonansi, Pengembara akan mendapatkan peningkatan stats berikut: \n<color=#80FFD7FF>Anemo</color>: CRIT Rate meningkat 10%.\n<color=#FFE699FF>Geo</color>: DEF meningkat 20%.\n<color=#FFACFFFF>Electro</color>: Energy Recharge meningkat 20%.\n<color=#99FF88FF>Dendro</color>: Elemental Mastery meningkat 60 poin.\n<color=#80C0FFFF>Hydro</color>: HP meningkat 20%.\n<color=#FF9999FF>Pyro</color>: ATK meningkat 20%.\n<color=#99FFFFFF>Cryo</color>: CRIT DMG meningkat 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Gravity Ripple",
+    "Description": "Setelah melancarkan Elemental Skill <color=#FFD780FF>Eternal Tides</color>, Columbina akan memanggil <color=#FFD780FF>Gravity Ripple</color>.\nGravity Ripple akan mengikuti Karakter aktif dan terus mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> terhadap musuh di sekitar.\n\nSelain itu, selama Gravitational Ripple aktif, jika ada Karakter party di sekitar yang memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar, maka Columbina akan mendapatkan efek New Moon's Omen selama 2 detik dan akan terus mengakumulasi nilai <color=#FFD780FF>Gravity</color> sebesar 20 poin setiap 2 detik.\nNilai maksimum Gravity adalah 60 poin dan akan dihapus saat durasi Gravity Ripple berakhir.\nKetika nilai Gravity mencapai maksimum, akan memicu <color=#FFD780FF>Gravity Interference</color> spesial yang akan menghasilkan efek berbeda berdasarkan reaksi Lunar yang paling banyak mengakumulasi nilai Gravity untuk Columbina. Jika reaksi Lunar yang paling banyak mengakumulasi Gravity untuk Columbina adalah:\n·<color=#FFD780FF>Lunar-Charged</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFACFFFF>Electro DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Charged.\n·<color=#FFD780FF>Lunar-Bloom</color>: Gravity Interference akan menembakkan 5 Moondew Sigil terhadap musuh di sekitar dan mengakibatkan <color=#99FF88FF>Dendro DMG</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Bloom.\n·<color=#FFD780FF>Lunar-Crystallize</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFE699FF>Geo DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Crystallize."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Lunar Domain",
+    "Description": "Area yang diciptakan Columbina setelah ia melancarkan Elemental Burst <color=#FFD780FF>Moonlit Melancholy</color>. \nSaat Karakter aktif berada dalam <color=#FFD780FF>Lunar Domain</color>, DMG reaksi Lunar yang diakibatkan seluruh Karakter dalam party akan meningkat."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Moonridge Dew",
+    "Description": "Verdant Dew khusus yang dihasilkan oleh Talenta Pasif Columbina, <color=#FFD780FF>Law of the New Moon</color>. Durasi dan kapasitas maksimumnya dihitung terpisah dari Verdant Dew.\nSaat Verdant Dew yang dimiliki party habis terpakai, maka <color=#FFD780FF>Moonridge Dew</color> yang akan dikonsumsi.\nBatas maksimum <color=#FFD780FF>Moonridge Dew</color> yang dapat diperoleh adalah 3."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Nightingale's Song",
+    "Description": "Efek yang diperoleh setelah Illuga melancarkan Elemental Burst <color=#FFD780FF>Shadowless Reflection</color>. Efek ini dapat meningkatkan <color=#FFE699FF>Geo DMG</color> yang diakibatkan Karakter aktif."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Lunar Phase Shift",
+    "Description": "Zibai akan berganti ke mode ini setelah melancarkan Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color>. Mode ini berlangsung selama maksimum {PARAM#P1263201|4S1} detik dan memiliki karakteristik berikut:\n·Normal Attack dan Charged Attack akan dikonversi menjadi <color=#FFE699FF>Geo DMG</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\n·Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color> akan berubah menjadi Elemental Skill khusus <color=#FFD780FF>Spirit Steed's Stride</color>: Saat Zibai memiliki minimum 70 poin <color=#FFD780FF>Phase Shift Radiance</color>, dia dapat mengonsumsi 70 poin Phase Shift Radiance untuk melancarkan Spirit Steed's Stride yang mengakibatkan dua kali <color=#FFE699FF>Geo DMG</color>. DMG tahap keduanya dianggap sebagai DMG reaksi Lunar-Crystallize.\n\nBatas maksimum <color=#FFD780FF>Phase Shift Radiance</color> adalah 100 poin, dan Zibai dapat mengakumulasi Phase Shift Radiance melalui cara-cara berikut:\n·Saat berada dalam mode <color=#FFD780FF>Lunar Phase Shift</color>, Zibai akan mengakumulasi 10 poin Phase Shift Radiance setiap detiknya.\n·Zibai akan mendapatkan 5 poin Phase Shift Radiance saat Normal Attack-nya mengenai musuh. Ia bisa mendapatkan Phase Shift Radiance dari cara ini maksimum 1 kali setiap 0,5 detik.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\nSaat Karakter party di sekitar memicu reaksi Lunar-Crystallize, Zibai juga akan mendapatkan 35 poin <color=#FFD780FF>Phase Shift Radiance</color>. Zibai bisa mendapatkan Phase Shift Radiance dari cara ini maksimum 1 kali setiap 4 detik. Melancarkan Elemental Skill Khusus <color=#FFD780FF>Spirit Steed's Stride</color> akan mengulang durasi CD <color=#FFD780FF>Phase of Shift Radiance</color> yang terakumulasi.\n\nZibai akan keluar dari mode ini setelah melancarkan <color=#FFD780FF>Spirit Steed's Stride</color> 4 kali atau saat durasinya berakhir."
   }
 ]

@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Confère un bonus de DGT Géo de 15 %.",
-      "Lorsque vous obtenez un cristal issu d'une Cristallisation, tous les personnages de l'équipe bénéficient d'un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois."
+      "Lorsque vous obtenez un cristal issu d'une Cristallisation ou déclenchez une réaction de Sélénocristallisation, tous les personnages de l'équipe bénéficient d'un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "Augmente l'ATQ de 18 %.",
-      "Après l'utilisation d'une compétence élémentaire, le bonus de DGT Géo augmente de 20 % pendant 10 s. Sous la protection d'un bouclier généré par une réaction de Cristallisation, cet effet augmente de 150 %, cette augmentation supplémentaire disparaissant 1 s après la perte du bouclier."
+      "Après l'utilisation d'une compétence élémentaire, le bonus de DGT Géo augmente de 20 % pendant 10 s. Sous la protection d'un bouclier généré par une réaction de Cristallisation, ou s'il existe un voile lunaire créé par une réaction de Sélénocristallisation à proximité, cet effet augmente de 150 %, cette augmentation supplémentaire disparaissant 1 s après que ces conditions ne sont pas remplies."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Augmente la recharge d'énergie de 20 %.",
       "Infliger des DGT élémentaires accorde l'effet Lune étincelante « Dévotion » pendant 8 s : augmente la maîtrise élémentaire de tous les personnages de l'équipe de 60 pts ou de 120 pts lorsque la signelune de l'équipe est respectivement de type Lueur naissante ou ascendante. L'effet ci-dessus peut être déclenché même si le personnage équipé de l'artéfact n'est pas déployé. De plus, les DGT infligés par les réactions sélènes déclenchées par tous les personnages de l'équipe augmentent de 10 % pour chaque lune étincelante de type différent des personnages de l'équipe. Les bonus accordés par l'effet Lune étincelante ne se cumulent pas."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Aubade d'astre et de lune",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Augmente la maîtrise élémentaire de 80 pts.",
+      "Lorsque le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé, les DGT de réaction sélène augmentent de 20 %, et de 40 % supplémentaires si le cycle signelunaire de l'équipe est au moins « Lueur ascendante ». Cet effet prend fin 3 s après que le personnage concerné est déployé."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Journée sculptée par les vents ascendants",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "Augmente l'ATQ de 18 %.",
+      "Toucher un ennemi avec une attaque normale, une attaque chargée, une compétence élémentaire ou un déchaînement élémentaire accorde l'effet Bénédiction des vents pastoraux pendant 6 s : augmente l'ATQ de 25 %. Si le personnage équipé de l'artéfact a terminé son devoir de la sorcière, l'effet est converti en l'effet Détermination des vents pastoraux, augmentant en plus le taux CRIT de 20 %. Les effets décrits ci-dessus peuvent être déclenchés même lorsque le personnage fait partie de l'équipe mais n'est pas déployé."
     ]
   }
 ]

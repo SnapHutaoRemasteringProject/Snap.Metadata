@@ -712,7 +712,7 @@
         },
         "Id": 872101,
         "Name": "Heir to the Ancient Sea's Authority",
-        "Description": "Saat Karakter di dalam party memicu reaksi Vaporize, Frozen, Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Hydro Swirl, atau Hydro Crystallize terhadap musuh, Neuvillette akan mendapat satu lapis efek \"Past Draconic Glories\" selama 30 detik, efek ini dapat ditumpuk sampai 3 lapis. Efek Past Draconic Glories meningkatkan DMG Charged Attack: Equitable Judgment menjadi 110%/125%/160% dari DMG awalnya.\nSetiap lapis efek Past Draconic Glories yang dihasilkan oleh masing-masing Reaksi Elemental dihitung secara terpisah.",
+        "Description": "Saat Karakter di dalam party memicu reaksi Vaporize, Frozen, Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Hydro Swirl, Hydro Crystallize, atau Lunar-Crystallize terhadap musuh, Neuvillette akan mendapat satu lapis efek \"Past Draconic Glories\" selama 30 detik, efek ini dapat ditumpuk sampai 3 lapis. Efek Past Draconic Glories akan meningkatkan DMG Charged Attack: Equitable Judgment menjadi 110%/125%/160% dari DMG awalnya.\nSetiap lapis efek Past Draconic Glories yang dihasilkan oleh masing-masing Reaksi Elemental dihitung secara terpisah.",
         "Icon": "UI_Talent_S_Neuvillette_05"
       },
       {
@@ -1167,6 +1167,14 @@
     ]
   },
   "Costumes": [
+    {
+      "Id": 208701,
+      "Name": "Melusent Gift",
+      "Description": "Hadiah kejutan untuk Neuvillette. Kebahagiaan tak hanya datang dari hadiah itu sendiri, tapi dari setiap tangan kecil yang turut membuatnya. Layaknya sungai yang menyatu dengan lautan luas, begitu pula tetesan embun yang menyatu menciptakan keajaiban yang berkilauan dengan cahaya warna-warni.",
+      "IsDefault": false,
+      "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+      "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+    },
     {
       "Id": 208700,
       "Name": "Clear Adjudication",

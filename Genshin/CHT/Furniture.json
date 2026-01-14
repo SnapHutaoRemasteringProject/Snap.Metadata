@@ -2498,6 +2498,69 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368209,
+    "Name": "哥倫比婭",
+    "Description": "家園入住角色",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368210,
+    "Name": "茲白",
+    "Description": "家園入住角色",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368211,
+    "Name": "葉洛亞",
+    "Description": "家園入住角色",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10022,7 +10085,7 @@
     ],
     "Id": 372501,
     "Name": "貴本之道-「玄此玉田」",
-    "Description": "凝聚著外景之能的規整田畝，肥沃的土壤中蘊含著臨近無窮的養分，埋入種子後，無需仔細打理，就能在一段時間後收成品質優良的作物。不過種植於此的植物，往往有著龐大的根系，為了確保充足的生長空間，每塊田畝不宜栽種太多作物。\n使用「化種匣」採集到的種子、孢子或樣本，即可在這種田畝裡種植以下作物：落落莓、甜甜花、小燈草、絕雲椒椒、胡蘿蔔、白蘿蔔、薄荷、蘑菇、香辛果、墩墩桃、茉潔草、顆粒果、苦種、肉龍掌、青蜜莓、微光角菌、白靈果、夏槲果。",
+    "Description": "凝聚著外景之能的規整田畝，肥沃的土壤中蘊含著臨近無窮的養分，埋入種子後，無需仔細打理，就能在一段時間後收成品質優良的作物。不過種植於此的植物，往往有著龐大的根系，為了確保充足的生長空間，每塊田畝不宜栽種太多作物。\n使用「化種匣」採集到的種子、孢子或樣本，即可在這種田畝裡種植以下作物：落落莓、甜甜花、小燈草、絕雲椒椒、胡蘿蔔、白蘿蔔、薄荷、蘑菇、香辛果、墩墩桃、茉潔草、顆粒果、苦種、肉龍掌、青蜜莓、微光角菌、白靈果、夏槲果、松珀香。",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_02_Lod0",
     "Rank": 80600
   },
@@ -10047,7 +10110,7 @@
     ],
     "Id": 372502,
     "Name": "貴本之道-「薿此芝田」",
-    "Description": "凝聚著外景之能的規整田畝，肥沃的土壤中蘊含著臨近無窮的養分，埋入種子後，無需仔細打理，就能在一段時間後收成上佳品質的花卉。不過種植於此的植物，往往有著龐大的根系，為了保證充足的生長空間，每塊田畝不宜栽種太多花卉。\n使用「化種匣」採集到的種子、孢子或樣本，即可在這種田畝裡種植以下作物：霓裳花、塞西莉亞花、琉璃百合、風車菊、清心、琉璃袋、鳴草、須彌薔薇、柔燈鈴、虹彩薔薇、灼灼彩菊、雲岩裂葉、霜盞花。",
+    "Description": "凝聚著外景之能的規整田畝，肥沃的土壤中蘊含著臨近無窮的養分，埋入種子後，無需仔細打理，就能在一段時間後收穫上佳品質的花卉。不過種植於此的植物，往往有著龐大的根系，為了保證充足的生長空間，每塊田畝不宜栽種太多花卉。\n使用「化種匣」採集到的種子、孢子或樣本，即可在這種田畝裡種植以下作物：霓裳花、塞西莉亞花、琉璃百合、風車菊、清心、琉璃袋、鳴草、須彌薔薇、柔燈鈴、虹彩薔薇、灼灼彩菊、雲岩裂葉、霜盞花、冬凌草。",
     "Icon": "UI_Homeworld_Exterior_Common_Thing_FieldBase_01_Lod0",
     "Rank": 80600
   },
@@ -20687,6 +20750,81 @@
     "Name": "慄慄羊·冰冰薄荷",
     "Description": "生活在挪德卡萊的羊類，有著如同塗抹了薄荷汁液的羊角和斑紋。\n在進入「塵歌壺」生活後，慄慄羊的毛髮更加蓬鬆了。到了掉毛季的時候，牠們的周圍就會下起一場綿綿的「毛毛雨」…\n出於某些未知原因，一些動物來到壺中洞天後，仍保留了受月矩力影響而形成的獨特外觀。為了方便阿圓辨別，派蒙貼心地根據牠們的外觀為大家取了新名字…",
     "Icon": "UI_AnimalIcon_Goat_02_04",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 620,
+    "DiscountCost": 620,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕捉獲得"
+    ],
+    "Id": 369222,
+    "Name": "芒脊守宮",
+    "Description": "身形靈活的守宮，足墊有吸附能力，可以貼壁攀爬。\n來到了壺中洞天後，牠們還是在岩壁裂隙內生活，但天敵帶來的威脅減少了許多，於是牠們出來活動的時間也因此而延長了。\n出於某些未知原因，一些動物來到壺中洞天後，仍保留了受月矩力影響而形成的獨特外觀…",
+    "Icon": "UI_AnimalIcon_Lizard_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Crane_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕捉獲得"
+    ],
+    "Id": 369223,
+    "Name": "灰頸鸛",
+    "Description": "步態優雅的鳥類，灰金色的彩羽勾勒出纖長的身姿。\n由於身姿優雅，有些動物甚至會故意惹怒牠來欣賞牠們像舞蹈一般的示威動作。當然，這種行為現在已經被阿圓明令禁止了。\n出於某些未知原因，一些動物來到壺中洞天後，仍保留了受月矩力影響而形成的獨特外觀…",
+    "Icon": "UI_AnimalIcon_Crane_Laurus_01",
+    "Rank": 110100
+  },
+  {
+    "Types": [
+      9002,
+      0
+    ],
+    "SurfaceType": 12,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 100,
+    "Cost": 625,
+    "DiscountCost": 625,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_AnimalIcon_Falcon_Laurus_01",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "捕捉獲得"
+    ],
+    "Id": 369224,
+    "Name": "冠飾鷹",
+    "Description": "目光銳利的鷹隼，高貴的冠羽更添一份王者氣質。\n冠飾鷹擅長高空盤旋，強壯的體型和寬廣的翼展使牠們的俯衝攻擊尤為致命，鮮有獵物能逃過一劫。在進入壺中洞天生活後，擁有充足食物的牠們鮮少捕獵，但是為了展示自己美麗的冠羽，牠們仍舊常常在高空盤旋…\n出於某些未知原因，一些動物來到壺中洞天後，仍保留了受月矩力影響而形成的獨特外觀…",
+    "Icon": "UI_AnimalIcon_Falcon_Laurus_01",
     "Rank": 110100
   },
   {
@@ -54334,6 +54472,931 @@
     "Description": "以瓦雷莎為原型所製作的雪人模型，配有她標誌性的英雄面具，精準還原了她親切且不失熱忱的形象。\n為了幫助各國客人放鬆心情，「飛玉趣擲」的設計者特意打造了如此可愛的同伴。有它相伴，哪怕面對寒冷刺骨的龍脊雪山，也會感受到一份特別的溫暖吧。",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 361344,
+    "Name": "「靜夜的密談」",
+    "Description": "常見於皮拉米達城的桌子，造型簡約方正，通體使用鐵皮打造而成。\n每一個安靜的夜裡，執燈士們都會圍坐在這張桌子旁小聲談話——至於為何不發出過大的聲音？或許是怕驚擾周圍遊蕩的鬼魂吧…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 362277,
+    "Name": "簡易擔架-「平穩護送」",
+    "Description": "設計簡約但功能性極強的擔架，以雙棍為抬桿，棍間以結實的布料連接，是執燈人常用的醫療搬運工具。\n在日常生活中，除了執燈人，皮拉米達城的一些居民也會使用這類擔架來幫助那些不便移動的人。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRdanjia_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 362278,
+    "Name": "「豪豪暢飲」",
+    "Description": "執燈人中常用金屬製飲品桶，容量較大，取酒便利。\n聚會場地中常常會擺放著許多像這樣的飲品桶，以便每個人都能無拘無束地暢飲。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRjiutong_01_Vo",
+    "Rank": 30200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 362133,
+    "Name": "「致友人」",
+    "Description": "執燈人常用的金屬製長椅，雖然沒有舒適的靠背，但好在座椅上還有軟墊。\n當與戰友坐到同一張椅子上時，在狂飲盡興的喧聲中，憂思也有時會壓上心頭。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYRyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 361412,
+    "Name": "簡易醫療護理床",
+    "Description": "執燈人常用的簡易醫療護理床，往往貼合了傷員的臥床生活習慣和治療需要。\n此簡易醫療護理床本來有著一個可調節靠背弧度的手搖把手，但由於躺上這張床的人總不自覺經常搖動把手而發出「吱呀吱呀」的噪聲，這個把手很快就被拆卸了。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYRchuang_01_Lod0",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 364226,
+    "Name": "「皮拉米達之幟」",
+    "Description": "常見於皮拉米達城城內的旗幟，其上繪有執燈人的燈塔圖示，展現了執燈人在黑夜中永執明燈，守望未來的意志。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_SYRqi_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 370,
+    "DiscountCost": 370,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 371014,
+    "Name": "鐵製可調節路障",
+    "Description": "鐵製的可調節路障，常見於皮拉米達城，往往作為一種防禦設施出現。\n此防禦裝置往往能抵擋大量的攻擊，但缺點也相當明顯——若是要搬運到別處去，那就要費不少工夫了。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcjuma_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 174,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 371015,
+    "Name": "「守望之城的獨處」",
+    "Description": "常見於皮拉米達城的建築，主體由鐵皮打造而成，內部空間較小，但勝在搭建成本較低。\n「我寧願獨自在這樣的房子裡，也不願意和那麼多人擠在一個大房子裡！」一位居住過此房的先生如是說。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 315,
+    "DiscountCost": 256,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 371016,
+    "Name": "「守望之城的庇託」",
+    "Description": "常見於皮拉米達城的建築，主體由鐵皮打造而成，外觀頗具特色，有著弧形的屋頂。\n即使這類房子並無太大的內部空間，外觀上也沒有精妙的設計，但勝在結構穩固，能為許多人提供庇託。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcminju_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371017,
+    "Name": "「一隅之間」",
+    "Description": "造型普通的棚子，有著布製的黃色頂棚。\n材料簡單，拆裝便利，因而當一些戶外活動要臨時舉辦時，這類棚子就能又快又好地框定一隅之地。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pczhangpeng_02_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 265,
+    "DiscountCost": 207,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 371018,
+    "Name": "「守望之城的照護」",
+    "Description": "常見於皮拉米達城的建築，層高較高，在皮拉米達城中常作為提供醫療護理的場所。\n皮拉米達城的居民大多身體康健，因而醫療站門前大多時間冷冷清清，但每當季節更迭的時候，這裡又會短暫地熱鬧一下。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pcyiliaozhan_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 380,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 371019,
+    "Name": "「守望之城的錘鍊」",
+    "Description": "常見於皮拉米達城的建築，層高極高，猶如塔樓，在皮拉米達城中常作為提供鍛造服務的場所。\n皮拉米達城天氣最冷的時候，這座建築旁邊也總是暖呼呼的——錘子底下冒出火星、鍋爐轟隆隆冒著熱氣…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pctiejiangpu_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 295,
+    "DiscountCost": 245,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "購買紀行·珍珠之歌獲得"
+    ],
+    "Id": 371020,
+    "Name": "「執劍長行」",
+    "Description": "以歷史上某位知名人物為原型而製作的大型雕像，有著執劍前行的堅定姿勢，甚至連駐足在此雕像前觀看的人，都能感受到其傳達的決心與力量。\n據說，身為「執燈人」軍團的初代執燈長，他曾於漫長的長夜中行走，只求為眾人守望得一縷希望的曙光。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdiaoxiang_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 560,
+    "DiscountCost": 398,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 371021,
+    "Name": "照明燈塔-「撥雲見日」",
+    "Description": "以「執燈人」的高大燈塔為原型製作的模型，靜靜佇立，穩重而可靠。\n「等烏雲散去，陽光也能穿破雲層灑下來，就不會再有魔物趁著天黑跑出來了吧。」葉洛亞隊長如是說。或許只有那天到來，所有執燈士才能放下手中的武器，從燈塔中走出來，享受充滿溫暖陽光的假期吧。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_SYRdengta_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 48,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 374332,
+    "Name": "「暖意可親」",
+    "Description": "檯面寬大的餐桌，主體部分由金屬打造而成，採用了中空的設計，因而在桌面下方甚至有空間放置小小的爐灶，以確保桌面餐品的溫度。\n享用盛宴，開懷暢飲，這想必是每位坐到這張餐桌前用餐的人的共同想法吧。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_SYRdazhuo_01_Lod0",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1035,
+    "DiscountCost": 1035,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 374333,
+    "Name": "作戰沙盤-「預先展示」",
+    "Description": "以大團長法爾迦的沙盤為原型製作的模型，簡約但實用。\n「在我們猶猶豫豫的時候，深淵也正戕害無數人的性命。早一刻出征，就能早一刻改變他們的命運。」情報是行軍的基礎，若能夠在沙盤中預演未來可能發生的場景，那麼行進或者戰鬥帶來的損傷，應當都會大大減少吧…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
+    "Rank": 130300
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 374642,
+    "Name": "「指揮若定」",
+    "Description": "常見於皮拉米達城的作戰板，往往有不同地域的地圖黏貼其上，以便眾人討論時觀看。\n雖然是極其樸素的工具，但在需要釐清思緒、通覽全局的時候，常常能發揮重要的作用。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pczhanshuban_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 125,
+    "DiscountCost": 94,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 374643,
+    "Name": "簡易武器架-「取用便捷」",
+    "Description": "設計較為簡約的武器架，有著可供放置武器與盾牌的位置。\n若在收納的時候就有心將不同的武器分類，那麼那些急需出戰的人取用就會十分方便。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_Pcwuqijia_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 745,
+    "DiscountCost": 658,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 374644,
+    "Name": "「亮堂堂移動小屋」",
+    "Description": "造型奇特、移動便利的月廂車，依靠月矩力作為燃料驅動，是執燈人使用至冬的機關車改裝而成的運輸工具。\n當夜間來臨的時候，執燈士們常常將它當作移動的燈塔來使用——方便，又足夠亮堂堂。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_SYRwuziche_01_Vo",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 755,
+    "DiscountCost": 755,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「聚所共建」聚所等級獎勵"
+    ],
+    "Id": 374645,
+    "Name": "魔女雕像-「定格此刻」",
+    "Description": "以天使為原型製作的模型，似乎是定格了天使在某一瞬間所展現出的旺盛生命力。\n「命運就是那麼不可言說，不過嘛…我還是希望引導我所見到的人，獲得一個美好的結局。」未來的每一個瞬間都不可能確定，所以，定格此刻對於許多人來說，也算是極其重要的一課了。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_MNDX_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 895,
+    "DiscountCost": 895,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 374819,
+    "Name": "「吉事寶樹」",
+    "Description": "掛上了許多亮晶晶吉語錢的觀景盆栽，因其「招財進寶，金玉滿堂」的寓意，而深受璃月眾人的喜愛。\n「啊！如果在院中擺滿吉事寶樹，豈不是明年…」有些熱衷擺放「吉事寶樹」的愛好者如是說。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_HDJJubaopen_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 280,
+    "DiscountCost": 280,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 374820,
+    "Name": "大詹燈-「截道小兵」",
+    "Description": "以深色詹諸為原型製作的大詹燈，造型別緻，是許多孩子們聽完「詹諸吞月」之後會恨得牙癢癢的角色呢。\n當牠阻擋你的道路時，請繞開牠吧，「截道小兵」是很難纏的…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Heihama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 374821,
+    "Name": "大詹燈-「攔路大將」",
+    "Description": "以紅色抱玉詹諸為原型製作的大詹燈，造型別緻，是許多孩子們聽完「詹諸吞月」之後會恨得牙癢癢的角色呢。\n當牠阻擋你的道路時，切莫退縮，「攔路大將」會看出每個膽怯的人…",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Decoration_Prop_Honghama_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7014,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 200,
+    "DiscountCost": 200,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 374647,
+    "Name": "「如生機閃爍」",
+    "Description": "不知具體作用的培養容器，由管子連接著三個透明的器皿。\n最大的器皿中有著螢光在閃爍、浮動，就像生命一般，輕盈而美麗。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_YJSshebei_01_Lod0",
+    "Rank": 90100
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 190,
+    "DiscountCost": 141,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 373223,
+    "Name": "「綠意流動的蔥蘢」",
+    "Description": "常見於廢棄研究所的大型盆栽，其中生長的植物生機十足，甚至使人一見到，心情就不由自主好了起來。\n不知為何，無論在何時見到此盆栽，都是一副綠意盎然的樣子。一些不知情的人提出猜測，這是否是用什麼特殊藥水澆灌的？",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_01_Lod0",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 373224,
+    "Name": "「綠意流動的青翠」",
+    "Description": "常見於廢棄研究所的小型盆栽，其中生長的植物生機十足，甚至使人一見到，心情就不由自主好了起來。\n不知為何，無論在何時見到此盆栽，都是一副綠意盎然的樣子。一些不知情的人提出猜測，這是否是用什麼特殊藥水澆灌的？",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Flower_Prop_YJShuapen_02_Vo",
+    "Rank": 90300
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 360469,
+    "Name": "輕型金屬提燈",
+    "Description": "皮拉米達城居民常用的輕型金屬提燈，亮度有限，但勝在方便十足。\n若是孩子們玩到就連天幕都全黑時，他們就會提著提燈結伴回家，熱熱鬧鬧，就如地面上的星星。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcdideng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 85,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "挪德卡萊地區奇饋寶箱獎勵"
+    ],
+    "Id": 360470,
+    "Name": "立式路燈-「低損低耗」",
+    "Description": "常見於皮拉米達城的立式路燈，造型整齊，燈光明亮。\n使用皮拉米達城特殊鍛造工藝鍛造的材料打造而成，不易受雨水的沖刷而鏽蝕——「低損耗，低投入」，這也符合大部分城中居民的生活理念。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Lamp_Light_Pcludeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 135,
+    "DiscountCost": 135,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360471,
+    "Name": "明彩霄燈-「好願遠遊」",
+    "Description": "色彩明麗，燈光溫暖的霄燈，材料簡易，製作起來相當簡單。\n它承載著許多寶貴的心願與思念，在夜空中遠遊。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_01_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 190,
+    "DiscountCost": 190,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360472,
+    "Name": "明彩霄燈-「與友相約」",
+    "Description": "色彩明麗，燈光溫暖的霄燈，有著更精妙的設計，以便更長途的飛行。\n據說，即使相隔千里，寄託於霄燈之上的心意也能讓對方知曉。",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_02_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 120,
+    "DiscountCost": 120,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360473,
+    "Name": "明彩霄燈-「妙音奏祥」",
+    "Description": "造型別緻，由辛焱製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「開一場超厲害的演出！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_03_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360474,
+    "Name": "明彩霄燈-「歲啟吉亨」",
+    "Description": "造型別緻，由嘉明製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「萬事順利，身體健康。」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_04_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360475,
+    "Name": "明彩霄燈-「瑞燕迎春」",
+    "Description": "造型別緻，由藍硯製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「平平安安，快快樂樂！」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_05_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 155,
+    "DiscountCost": 155,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360476,
+    "Name": "明彩霄燈-「和風凝香」",
+    "Description": "造型別緻，由艾梅莉埃製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「願人們都能擁有品味芳香的閒暇時光。」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_06_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 185,
+    "DiscountCost": 185,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360477,
+    "Name": "明彩霄燈-「好運連綿」",
+    "Description": "造型別緻，由萊依拉製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「教令院裡所有學生的論文都能順利通過…」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_07_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 240,
+    "DiscountCost": 240,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360478,
+    "Name": "明彩霄燈-「所願皆成」",
+    "Description": "造型別緻，由魈製作而成的霄燈，讓人一看見時，就能感到溫暖、安寧與幸福。\n「諸事平安。」",
+    "Icon": "UI_Homeworld_Ani_Exterior_Ly_Lamp_Light_Xiaodeng_08_Vo",
+    "Rank": 90700
+  },
+  {
+    "Types": [
+      7008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 405,
+    "DiscountCost": 405,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 360479,
+    "Name": "「白駒隙中馳」",
+    "Description": "以一位守護月亮的仙人為原型製作的巨大霄燈，造型為一匹皎潔的白馬從山崖的縫隙間躍過，絮雲纏抱，彩霞迤邐。如今，大家都願意將心願寫在霄燈上，或許如此，那白馬仙人就願意駕著玉製的高車從月亮上下凡，回應人們的心願呢？",
+    "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
+    "Rank": 90700
   },
   {
     "Types": [

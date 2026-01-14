@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Çok Ucuz Roman",
+    "Description": "\"Olağanüstü Hırsız Reed Miller'ın Maceraları\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Fani Olana İnanç",
+    "Description": "\"Uzak Kuzeyin İlahileri\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "Arının Bal Yapması Gibi",
+    "Description": "\"Kabuktaki Yankılar\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Gökteki Kar Perdesini Arala",
+    "Description": "\"Kuzey Rüzgarının Getirdiği Masallar\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "Bir Şehrin Tarihi",
+    "Description": "\"Soluk Yıldızdan Doğanların Kısa Tarihi\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Ayın Altındaki Büyülü Yer",
+    "Description": "\"Uzak Sınırdan Gece Fısıltıları\" serisinin tüm ciltlerini topla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Ay Tozu Hazine Avcısı (II)",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 45 sandık aç.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Ay Tozu Hazine Avcısı (II)",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 90 sandık aç.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Ay Tozu Hazine Avcısı (II)",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde 180 sandık aç.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Ay Tozu Maceracısı (II)",
+    "Description": "Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi'nde Açık Dünya mekanizmasıyla etkinleştirilen 5 Zamana Karşı Mücadele tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Kıta Kaşifi: Mehtaplı Adalar (II)",
+    "Description": "Nod-Krai'daki şu bölgelerin haritalarını aydınlat: Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Karanlığın Ötesindeki Buzul Orman (II)",
+    "Description": "Nod-Krai'ın şu bölgelerindeki tüm Işınlanma Portallarının kilidini aç: Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Tapınak Kaşifi: Mehtaplı Adalar (II)",
+    "Description": "Nod-Krai'ın şu bölgelerindeki tüm Derinlikler Tapınaklarının kilidini aç: Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Geceye Adaklar: Mehtaplı Adalar (II)",
+    "Description": "Nod-Krai'ın şu bölgelerindeki Kuuhenkilerin Saklı Hazinelerinin tüm mühürlerini aç: Issız Deniz Tepesi, Dalgakapan Ovası ve Külduvak Zirvesi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Rüzgarlar Uyanıyor, Yapraklar Uçuşuyor",
+    "Description": "Gagasında kor taşıyan bülbül ancak alacakaranlıktan sonra uçar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Tohum Ölmezse",
+    "Description": "Çiçek solsa bile sözlerini tutar yapraklar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Ortak Buluşma Noktası İnşaatı: Yamaç Kampı",
+    "Description": "Yamaç Kampında maksimum İnşaat Seviyesine ulaş.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Ortak Buluşma Noktası İnşaatı: Cadının Bahçesi",
+    "Description": "Cadının Bahçesinde maksimum İnşaat Seviyesine ulaş.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Ortak Buluşma Noktası İnşaatı: Favonius Kalesi",
+    "Description": "Favonius Kalesinde maksimum İnşaat Seviyesine ulaş.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Mehtaplı Beyaz Gece Serenadı",
+    "Description": "\"Mehtap Günlükleri: Bölüm III\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Günahkara Kendi Günahını Tattır",
+    "Description": "Janusz'un Dehşet Gölgesi Bataklığı'ndaki canavarlarla başa çıkmasına yardım et.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Ölü Adamın Eli",
+    "Description": "Nihai gün henüz gelmedi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Elveda Umut, Elveda Korku",
+    "Description": "Kadim sarayın derinliklerden yükselişini izle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"Ayın Doğusu, Güneşin Batısı\"",
+    "Description": "\"Ayın Doğusu, Güneşin Batısı\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Quis Custodiet Ipsos Custodes",
+    "Description": "Grazina'nın planını ortaya çıkar.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Yalnız Kurdun Anısı",
+    "Description": "Böylece Kanlı Şövalye insanların dünyasına sırtını döndü...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Kahramanların Huzur Bulduğu Yer",
+    "Description": "Donuk Fırtına Küheylanlarının hikayesinin sonuna tanık ol.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Eve Giden Ayrı Yollar",
+    "Description": "Kuzmich'in eve dönüş yolculuğunda ona yardım et.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Ekmeksiz Doymam",
+    "Description": "Mangalda sıcacık, taptaze bir Mantar Hülyası yap.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Mehtaplı Tepe",
+    "Description": "Bilinmeyen bir Hyperborealı tarafından bırakılmış bir zaman kapsülünü aç.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "İhtişamın Yolları Ancak Mezara Çıkar",
+    "Description": "\"Profesör\" Rotwang'ın tüm takipçilerini ortadan kaldır.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Her Şey Zamanlamayla İlgili",
+    "Description": "Durumu tersine çevirmek için en doğru anı yakala.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Sakın Düşürme",
+    "Description": "Kuuvahkiyi kullanarak bir Mandragorayı em ve fırlat.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Siyah İnce Çizgi",
+    "Description": "Hiçlik gücünün sızıntılarını arındır.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Bulut Gibi Yalnız Dolaştım",
+    "Description": "Pamuk Yayı Çiçeklerinin yumuşak ve esnek dokusunu hisset.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Çoban",
+    "Description": "Tembel Koyun ile huzurlu bir yürüyüşe çık.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "Karanlıkta Tarumar Oldum",
+    "Description": "Hiçlik Çürümesinin aşınması altında çök.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Olması Gerektiği Gibi",
+    "Description": "Kabus Ayının dönüşüne tanık ol.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Bir Tanrıyı Sınamaya Kalkma",
+    "Description": "Il Dottore'nin koyduğu bir kuralı çiğne.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"Buna Verimlilik Denir\"",
+    "Description": "Gizli Derinliklerin Lordu: Kabus Fısıldayan tarafından çağrılan hiçbir Gizli Derinliklerin Balıkçısını yenmeden lordun kalkanını kır.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Bir Kış Gecesi Bir Gezgin",
+    "Description": "Yolculuğu onu nereye götürecek?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Yolcu ve Gölgesi",
+    "Description": "Belki de bu güç senin kaderinde vardır.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Sapkının Ütopyası",
+    "Description": "Doktor'un oluşturduğu enerji alanını araştır.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Geçmiş Çağlardan Gelen Ay Işığı",
+    "Description": "Bir zamanlar ay tanrıçalarının hapsolduğu zindanda geçmişteki Üç Ay Kız Kardeşle tanış.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Yeni Ay Geri Döndüğünde",
+    "Description": "Küllerden \"Yeni Ay\" yükseliyor, yükselişi kader çarkını yeniden döndürüyor...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Yarına Doğru Yelken Açarken",
+    "Description": "Nod-Krai'daki gruplar arasında kurulan ittifaka tanık ol.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "Aya Doğru",
+    "Description": "Ayın yüzeyine ulaş.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Gerçek Ay",
+    "Description": "\"Gerçek Ay\" görevini tamamla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

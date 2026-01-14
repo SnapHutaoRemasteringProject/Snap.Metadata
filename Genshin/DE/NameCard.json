@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina – Eines Tages",
+    "Description": "Ein Motiv für Namenskärtchen.\nSie tanzt im seichten Wasser klarer Bäche und lässt sich von der Strömung treiben, um unter den sanften Schatten der Berge wegzudösen. Sie wandert durch die Wellen der Zeit und spielt Verstecken mit den Kuuhenki.\nSie ruht im Garten aller Dinge und summt leise für jedes Lebewesen. In den stillen Stunden vor Tagesanbruch wartet sie auf den Tag ihrer Wiederkunft.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai – Verhüllter Ausblick",
+    "Description": "Ein Motiv für Namenskärtchen.\nHimmel und Erde sind lediglich eine Herberge für Wanderer, und die Zeit ist ein Wanderer, der durch die Epochen zieht.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga – Albtraum-Nachtigal",
+    "Description": "Ein Motiv für Namenskärtchen.\nNachdem sie der Dunkelheit der Nacht die Stirn geboten hat, schüttet die Nachtigall ihre Leidenschaft in die helle Welt des Tages und verbrennt die Albträume mit feuriger Wut.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Errungenschaften – Weitsichtig",
+    "Description": "Ein Motiv für Namenskärtchen.\nEinst stand der Reisende auf einem Hügel über der Stadt und blickte in die Ferne, überzeugt davon, dass die weit entfernten Orte, die er sah, eines Tages Meilensteine auf seiner Reise werden würden.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai – Laterne der langen Nächte",
+    "Description": "Ein Motiv für Namenskärtchen.\nUnd sei die Nacht noch so dunkel, eine Laterne wird leuchten, heute Nacht und noch tausend Nächte danach.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Erlebnispass – Laternenlicht",
+    "Description": "Ein Motiv für Namenskärtchen.\nBete für mich um einen hellen Mond, wünsche mir einen herrlichen Tag. In meinen Frühlingsmantel gehüllt, folge ich dem Tanz der Mondstrahlen.",
+    "SpecialDescription": "Motiv „Erlebnispass – Laternenlicht“ für Namenskärtchen",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

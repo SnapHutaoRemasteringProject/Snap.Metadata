@@ -5602,6 +5602,257 @@
     "Version": "6.0"
   },
   {
+    "Id": 80456,
+    "Goal": 65,
+    "Order": 417,
+    "Title": "Novel Fantasi Sepuluh Mora",
+    "Description": "Kumpulkan keseluruhan seri \"Legenda Reed Miller Si Pencuri Ulung\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80457,
+    "Goal": 65,
+    "Order": 418,
+    "Title": "Kepercayaan yang Dipersembahkan untuk Kehampaan",
+    "Description": "Kumpulkan keseluruhan seri \"Himne Ujung Utara\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80458,
+    "Goal": 65,
+    "Order": 419,
+    "Title": "... Seperti Madu yang Berasal dari Lebah",
+    "Description": "Kumpulkan keseluruhan set \"Gema Keong\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80459,
+    "Goal": 65,
+    "Order": 420,
+    "Title": "Di Balik Tirai Salju",
+    "Description": "Kumpulkan keseluruhan seri \"Kisah yang Diembus Angin Utara\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80460,
+    "Goal": 65,
+    "Order": 421,
+    "Title": "Masa Lalu Sebuah Kota",
+    "Description": "Kumpulkan keseluruhan seri \"Sejarah Singkat Roh Bintang Pucat\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80461,
+    "Goal": 65,
+    "Order": 422,
+    "Title": "Bangsa Peri di Bawah Rembulan",
+    "Description": "Kumpulkan keseluruhan seri \"Desiran Malam dari Perbatasan Jauh\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80462,
+    "Goal": 66,
+    "Order": 423,
+    "Title": "Pemburu Harta Debu Bulan (II)",
+    "Description": "Buka 45 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80463,
+    "Goal": 66,
+    "Order": 424,
+    "PreviousId": 80462,
+    "Title": "Pemburu Harta Debu Bulan (II)",
+    "Description": "Buka 90 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80464,
+    "Goal": 66,
+    "Order": 425,
+    "PreviousId": 80463,
+    "Title": "Pemburu Harta Debu Bulan (II)",
+    "Description": "Buka 180 peti harta di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80465,
+    "Goal": 66,
+    "Order": 426,
+    "Title": "Petualang Debu Bulan (II)",
+    "Description": "Selesaikan 5 Tantangan Dunia Terbuka dengan batas waktu di Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 5,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80466,
+    "Goal": 66,
+    "Order": 427,
+    "Title": "Penjelajah Benua: Pulau Cahaya Rembulan (II)",
+    "Description": "Membuka peta Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak di wilayah Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80467,
+    "Goal": 66,
+    "Order": 428,
+    "Title": "Hutan Embun Beku di Kegelapan Malam (II)",
+    "Description": "Buka semua Teleport Waypoint di area Nod-Krai: Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 29,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80468,
+    "Goal": 66,
+    "Order": 429,
+    "Title": "Peziarah Tempat Suci: Pulau Cahaya Rembulan (II)",
+    "Description": "Membuka semua Shrine of Depths di wilayah Nod-Krai: Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80469,
+    "Goal": 66,
+    "Order": 430,
+    "Title": "Pemberian Untuk Malam: Pulau Cahaya Rembulan (II)",
+    "Description": "Membuka semua segel di Harta Karun Tersembunyi Kuuhenki di wilayah berikut di Nod-Krai: Voidsea Outlook, Wavechaser Plain, dan Ashveil Peak.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80470,
+    "Goal": 66,
+    "Order": 431,
+    "Title": "Angin Telah Terbangun, Daun-Daun pun Berguguran",
+    "Description": "Burung bulbul yang membawa api di paruhnya, hanya akan terbang saat malam tiba.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80471,
+    "Goal": 66,
+    "Order": 432,
+    "Title": "Jika Benih Tidak Pernah Mati",
+    "Description": "Biarpun bunganya gugur, daun beserta janjinya tidak akan luntur.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80472,
+    "Goal": 66,
+    "Order": 433,
+    "Title": "Pembangunan Titik Kumpul: Cliffwatch Camp",
+    "Description": "Bangun Cliffwatch Camp ke level tertinggi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80473,
+    "Goal": 66,
+    "Order": 434,
+    "Title": "Pembangunan Titik Kumpul: The Witch's Garden",
+    "Description": "Bangun The Witch's Garden ke level tertinggi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 80474,
+    "Goal": 66,
+    "Order": 435,
+    "Title": "Pembangunan Titik Kumpul: Favonius Keep",
+    "Description": "Bangun Favonius Keep ke level tertinggi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -13469,6 +13720,258 @@
     "Version": "6.1"
   },
   {
+    "Id": 81625,
+    "Goal": 0,
+    "Order": 1619,
+    "Title": "Serenada Malam Putih Bercahaya Bulan",
+    "Description": "Selesaikan \"Kronik Bulan: Bag III\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81626,
+    "Goal": 0,
+    "Order": 1620,
+    "Title": "Menghukum Pendosa Dengan Dosa",
+    "Description": "Bantu Janusz menyelesaikan masalah monster di Dreadshade Mire.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81627,
+    "Goal": 0,
+    "Order": 1621,
+    "Title": "Kartu Kematian",
+    "Description": "Akhir zaman belum tiba.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81628,
+    "Goal": 0,
+    "Order": 1622,
+    "Title": "Selamat Tinggal Harapan, Selamat Tinggal Ketakutan",
+    "Description": "Menyaksikan istana kuno bangkit dari dalam tanah.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81629,
+    "Goal": 0,
+    "Order": 1623,
+    "Title": "\"Di Timur Bulan, Di Barat Matahari\"",
+    "Description": "Selesaikan \"Di Timur Bulan, Di Barat Matahari\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81630,
+    "Goal": 0,
+    "Order": 1624,
+    "Title": "Siapa yang Mengawasi Para Pengawas?",
+    "Description": "Singkap rencana Grazina.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81631,
+    "Goal": 0,
+    "Order": 1625,
+    "Title": "Kenangan Serigala Penyendiri",
+    "Description": "Sejak saat itu, Kesatria Berdarah meninggalkan dunia manusia ....",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81632,
+    "Goal": 0,
+    "Order": 1626,
+    "Title": "Tempat Peristirahatan Roh Pahlawan",
+    "Description": "Saksikan kisah terakhir dari Frostgale Steeds.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81633,
+    "Goal": 0,
+    "Order": 1627,
+    "Title": "Pulang Nan Jauh di Mata",
+    "Description": "Bantu perjalanan Kuzmich ke kampung halamannya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81634,
+    "Goal": 0,
+    "Order": 1628,
+    "Title": "Pasti Akan Ada Roti",
+    "Description": "Gunakan pemanggang untuk memanggang \"Mushroom Phantasm\" yang masih hangat.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81635,
+    "Goal": 0,
+    "Order": 1629,
+    "Title": "Bukit di Bawah Rembulan",
+    "Description": "Buka kapsul waktu yang ditinggalkan oleh Orang Hyperborea tanpa nama.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81636,
+    "Goal": 0,
+    "Order": 1630,
+    "Title": "Jalan Kembali Menuju Makam",
+    "Description": "Mengeliminasi semua kaki tangan Profesor Rotwang.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81637,
+    "Goal": 0,
+    "Order": 1631,
+    "Title": "Timing Itu Nomor Satu",
+    "Description": "Berhasil memanfaatkan waktu serangan balik yang tepat.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81638,
+    "Goal": 0,
+    "Order": 1632,
+    "Title": "Jangan Sampai Jatuh Ya",
+    "Description": "Gunakan kuuvahki untuk menyerap dan melempar Mandragora.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81639,
+    "Goal": 0,
+    "Order": 1633,
+    "Title": "Garis Hitam Tipis",
+    "Description": "Murnikan kekuatan Abyss yang meluap.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81640,
+    "Goal": 0,
+    "Order": 1634,
+    "Title": "Mengambang Bebas",
+    "Description": "Rasakan kelembutan dan kelenturan dari Cottonspring Flower.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81641,
+    "Goal": 0,
+    "Order": 1635,
+    "Title": "Aku Adalah Anak Gembala~",
+    "Description": "Berjalan santai bersama Slothsheep.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 81642,
+    "Goal": 0,
+    "Order": 1636,
+    "Title": "Tertelan Kegelapan",
+    "Description": "Gugur karena terkena korosi Abyssal Decay.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -17450,6 +17953,48 @@
     "Version": "6.2"
   },
   {
+    "Id": 82304,
+    "Goal": 0,
+    "Order": 2304,
+    "Title": "Memang Begitulah Seharusnya",
+    "Description": "Menyaksikan kembalinya Bulan Mimpi Buruk.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82305,
+    "Goal": 0,
+    "Order": 2305,
+    "Title": "Jangan Mencobai Dewa",
+    "Description": "Langgar aturan yang dibuat oleh Il Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 82306,
+    "Goal": 0,
+    "Order": 2306,
+    "Title": "\"Ini Baru Namanya Efisien\"",
+    "Description": "Hancurkan Perisai milik Lord of the Hidden Depths: Whisperer of Nightmares tanpa membunuh Fisher of Hidden Depths yang dipanggil olehnya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -19816,6 +20361,118 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.2"
+  },
+  {
+    "Id": 84374,
+    "Goal": 0,
+    "Order": 5149,
+    "Title": "Seorang Pengembara di Malam Musim Dingin",
+    "Description": "Ke manakah jalan yang akan dia tempuh?",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84375,
+    "Goal": 0,
+    "Order": 5150,
+    "Title": "Sang Pengelana dan Bayangannya",
+    "Description": "Mungkin inilah kekuatan yang seharusnya kamu miliki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84376,
+    "Goal": 0,
+    "Order": 5151,
+    "Title": "Utopia Sang Penista",
+    "Description": "Selidiki medan energi yang dibuat oleh The Doctor.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84377,
+    "Goal": 0,
+    "Order": 5152,
+    "Title": "Memandang Sinar Bulan Abadi dari Jauh",
+    "Description": "Bertemu dengan \"Tiga Dewi Bulan\" dari \"masa lalu\" di penjara yang mengurung \"Dewi Bulan\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84378,
+    "Goal": 0,
+    "Order": 5153,
+    "Title": "Bulan Baru Kembali Bersinar",
+    "Description": "Saat ini \"Bulan Baru\" mulai terbit dan menggerakkan roda takdir ....",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84379,
+    "Goal": 0,
+    "Order": 5154,
+    "Title": "Berlayar Menuju Masa Depan",
+    "Description": "Saksikan persatuan berbagai faksi di Nod-Krai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84380,
+    "Goal": 0,
+    "Order": 5155,
+    "Title": "To the Moon",
+    "Description": "Tiba di permukaan bulan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
+  },
+  {
+    "Id": 84381,
+    "Goal": 0,
+    "Order": 5156,
+    "Title": "Bulan Sejati",
+    "Description": "Selesaikan \"Bulan Sejati\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.3"
   },
   {
     "Id": 84501,

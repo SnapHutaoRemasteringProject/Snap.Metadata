@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Erhöht den Geo-Schaden um 15 %.",
-      "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
+      "#Erhöht beim Erhalten von durch die Reaktion Kristallisation erschaffenen Splittern oder beim Auslösen der Reaktion Mond-Kristallisation den mit dem jeweiligen Element verursachten Schaden aller Truppenmitglieder 10{NON_BREAK_SPACE}s lang um 35{NON_BREAK_SPACE}%. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "#Erhöht den ANG um 18{NON_BREAK_SPACE}%.",
-      "#Erhöht den Geo-SCH-Bonus 10{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%, nachdem eine Elementarfähigkeit eingesetzt wurde. Erhöht diesen Effekt zusätzlich um 150{NON_BREAK_SPACE}%, wenn die Figur von einem Kristallschild, der durch die Reaktion „Kristallisation“ entsteht, geschützt wird. Diese weitere Verstärkung wird 1{NON_BREAK_SPACE}s nach dem Verlieren des Schildes entfernt."
+      "#Erhöht den Geo-SCH-Bonus 10{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%, nachdem eine Elementarfähigkeit eingesetzt wurde. Erhöht diesen Effekt zusätzlich um 150{NON_BREAK_SPACE}%, wenn die Figur von einem Kristallschild, der durch die Reaktion „Kristallisation“ entsteht, geschützt wird, oder sich in der Nähe ein durch die Reaktion „Mond-Kristallisation“ hervorgerufener Mondkäfig befindet – diese weitere Verstärkung wird 1{NON_BREAK_SPACE}s nach der Nichterfüllung dieser Bedingungen entfernt."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "#Erhöht die Aufladerate um 20{NON_BREAK_SPACE}%.",
       "#Verleiht beim Verursachen von Elementar-Schaden 8{NON_BREAK_SPACE}s lang den Effekt „Helles Mondlicht – Hohe Überzeugung“: Erhöht, wenn das Mondomen der Truppe „Anfänglicher Glanz“ / „Reifer Glanz“ ist, die Elementarkunde aller Figuren in der Truppe um 60/120 Punkte. Dieser Effekt kann auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet. Erhöht für jeden unterschiedlichen Effekt des „Hellen Mondlichts“ der Truppenmitglieder den Schaden der von allen Truppenmitgliedern ausgelösten Mondleuchten-Reaktionen um 10{NON_BREAK_SPACE}%. Der durch „Helles Mondlicht“ ausgelöste Effekt ist nicht stapelbar."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Gesang von Stern und Mond",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Erhöht die Elementarkunde um 80 Punkte.",
+      "#Erhöht den mit Mondleuchten-Reaktionen verursachten Schaden um 20{NON_BREAK_SPACE}%, wenn der Träger inaktiv in der Truppe ist. Erhöht den mit Mondleuchten-Reaktionen verursachten Schaden zusätzlich um 40{NON_BREAK_SPACE}%, wenn die Mondomenstufe der Truppe mindestens Reifer Glanz ist. Dieser Effekt wird entfernt, wenn der Träger länger als 3{NON_BREAK_SPACE}s aktiv auf dem Feld ist."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Tag des aufkommenden Windes",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "#Erhöht den ANG um 18{NON_BREAK_SPACE}%.",
+      "#Verleiht nach Treffen von Gegnern mit einem Standardangriff, heftigen Schlag, einer Elementarfähigkeit oder Spezialfähigkeit 6{NON_BREAK_SPACE}s lang „Segen des Windes und des Hirtengesangs“: Erhöht den ANG um 25{NON_BREAK_SPACE}%. Verbessert, wenn der Träger „Aufgabe der Hexe“ bereits abgeschlossen hat, „Segen des Windes und des Hirtengesangs“ zu „Willen des Windes und des Hirtengesangs“ und erhöht zusätzlich die KT des Trägers, der die Prüfung bestanden hat, um 20{NON_BREAK_SPACE}%. Diese Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet."
     ]
   }
 ]

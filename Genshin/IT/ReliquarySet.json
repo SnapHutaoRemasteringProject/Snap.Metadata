@@ -539,7 +539,7 @@
     "Icon": "UI_RelicIcon_15014_4",
     "Descriptions": [
       "Bonus DAN da Geo +15%.",
-      "#Quando si ottiene un frammento elementale generato con la reazione della Cristallizzazione, tutti i membri del gruppo ricevono un 35% di bonus DAN per quel particolare elemento della durata di 10{NON_BREAK_SPACE}s. È possibile ottenere un solo bonus DAN elementali alla volta."
+      "#Quando si ottiene un frammento elementale tramite Cristallizzazione o innescando una reazione di Cristallizzazione lunare, tutti i membri del gruppo ricevono un 35% di bonus DAN per l'elemento corrispondente della durata di 10{NON_BREAK_SPACE}s. È possibile ottenere un solo bonus DAN elementali alla volta."
     ]
   },
   {
@@ -899,7 +899,7 @@
     "Icon": "UI_RelicIcon_15034_4",
     "Descriptions": [
       "ATT +18%.",
-      "#Dopo aver usato un'abilità elementale, il personaggio riceve un 20% di bonus DAN da Geo per 10{NON_BREAK_SPACE}s. Se il personaggio è protetto da uno scudo ottenuto tramite reazioni di Cristallizzazione, l'effetto sopracitato aumenta di un 150%. Questo aumento si annulla 1{NON_BREAK_SPACE}s dopo la perdita dello scudo."
+      "#Dopo aver usato un'abilità elementale, il personaggio riceve un 20% di bonus DAN da Geo per 10{NON_BREAK_SPACE}s. Quando il personaggio è protetto da uno scudo ottenuto tramite reazioni di Cristallizzazione, o quando sono presenti nelle vicinanze delle Gabbie lunari create dalla reazione di Cristallizzazione lunare, l'effetto sopracitato aumenta di un 150%. Quando queste condizioni non sono più soddisfatte, l'aumento aggiuntivo sparisce dopo 1{NON_BREAK_SPACE}s."
     ]
   },
   {
@@ -1044,6 +1044,42 @@
     "Descriptions": [
       "Ricarica d'energia +20%.",
       "#Quando vengono inflitti DAN elementali, si ottiene l'effetto Luna splendente: Devozione per 8{NON_BREAK_SPACE}s, che aumenta la maestria elementale di tutti i membri del gruppo di 60/120 quando il Presagio lunare del gruppo è Barlume nascente/Barlume ascendente. L'effetto si può innescare anche quando il personaggio che equipaggia il set non è in campo. I DAN delle reazioni lunari di tutti i membri del gruppo aumentano di un 10% per ciascun tipo di effetto Luna splendente presente nel gruppo. Gli effetti di Luna splendente non sono cumulabili."
+    ]
+  },
+  {
+    "SetId": 15043,
+    "EquipAffixId": 215043,
+    "EquipAffixIds": [
+      2150430,
+      2150431
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Aubade della stella del mattino e della luna",
+    "Icon": "UI_RelicIcon_15043_4",
+    "Descriptions": [
+      "Maestria elementale +80.",
+      "#Quando il personaggio che equipaggia il set non è in campo, i DAN da reazione lunare aumentano di un 20%. Quando il livello del Presagio lunare del gruppo è almeno Barlume ascendente, i DAN da reazione lunare aumentano di un ulteriore 40%. Quest'effetto scompare quando il personaggio rimane attivo per 3{NON_BREAK_SPACE}s."
+    ]
+  },
+  {
+    "SetId": 15044,
+    "EquipAffixId": 215044,
+    "EquipAffixIds": [
+      2150440,
+      2150441
+    ],
+    "NeedNumber": [
+      2,
+      4
+    ],
+    "Name": "Un giorno scolpito dai venti ascendenti",
+    "Icon": "UI_RelicIcon_15044_4",
+    "Descriptions": [
+      "ATT +18%.",
+      "#Dopo aver colpito un avversario con un attacco normale, un attacco caricato, un'abilità o un Tripudio elementale, il personaggio che equipaggia il set ottiene l'effetto Benedizioni dei venti pastorali per 6{NON_BREAK_SPACE}s, che aumenta l'ATT di un 25%. Se il personaggio ha completato i Compiti della strega, Benedizioni dei venti pastorali viene potenziato in Determinazione dei venti pastorali, che fornisce al personaggio anche un 20% di tasso di CRIT aggiuntivo. L'effetto può attivarsi anche quando il personaggio non è in campo."
     ]
   }
 ]

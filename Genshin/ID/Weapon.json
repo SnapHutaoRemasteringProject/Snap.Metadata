@@ -2611,6 +2611,59 @@
     ]
   },
   {
+    "Id": 11519,
+    "PromoteId": 11519,
+    "Sort": 5116,
+    "WeaponType": 1,
+    "RankLevel": 5,
+    "Name": "Lightbearing Moonshard",
+    "Description": "Pedang legendaris yang konon katanya ditempa oleh seorang Adeptus yang bersembunyi di mata air jernih dengan menggunakan cahaya bulan dari sumur. Wujud aslinya hanya akan terungkap saat senja dan fajar bertemu.",
+    "Icon": "UI_EquipIcon_Sword_SilverwareSaw",
+    "AwakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Legacy of Lang-Gan",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "DEF +<color=#99FFFFFF>20%</color>. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +<color=#99FFFFFF>64%</color> selama 5 detik."
+        },
+        {
+          "Level": 1,
+          "Description": "DEF +<color=#99FFFFFF>25%</color>. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +<color=#99FFFFFF>80%</color> selama 5 detik."
+        },
+        {
+          "Level": 2,
+          "Description": "DEF +<color=#99FFFFFF>30%</color>. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +<color=#99FFFFFF>96%</color> selama 5 detik."
+        },
+        {
+          "Level": 3,
+          "Description": "DEF +<color=#99FFFFFF>35%</color>. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +<color=#99FFFFFF>112%</color> selama 5 detik."
+        },
+        {
+          "Level": 4,
+          "Description": "DEF +<color=#99FFFFFF>40%</color>. Setelah Karakter yang mengenakan melancarkan Elemental Skill, DMG reaksi Lunar-Crystallize +<color=#99FFFFFF>128%</color> selama 5 detik."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114024,
+      112136,
+      112124
+    ]
+  },
+  {
     "Id": 12101,
     "PromoteId": 12101,
     "Sort": 1201,
@@ -4167,23 +4220,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Saat memicu reaksi Electro-Charged, Lunar-Charged, Bloom atau Lunar-Bloom, akan memulihkan <color=#99FFFFFF>12</color> poin Energy dan meningkatkan Elemental Mastery sebesar <color=#99FFFFFF>60</color> poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+          "Description": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan <color=#99FFFFFF>12</color> poin Energy dan meningkatkan <color=#99FFFFFF>60</color> poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
         },
         {
           "Level": 1,
-          "Description": "Saat memicu reaksi Electro-Charged, Lunar-Charged, Bloom atau Lunar-Bloom, akan memulihkan <color=#99FFFFFF>15</color> poin Energy dan meningkatkan Elemental Mastery sebesar <color=#99FFFFFF>75</color> poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+          "Description": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan <color=#99FFFFFF>15</color> poin Energy dan meningkatkan <color=#99FFFFFF>75</color> poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
         },
         {
           "Level": 2,
-          "Description": "Saat memicu reaksi Electro-Charged, Lunar-Charged, Bloom atau Lunar-Bloom, akan memulihkan <color=#99FFFFFF>18</color> poin Energy dan meningkatkan Elemental Mastery sebesar <color=#99FFFFFF>90</color> poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+          "Description": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan <color=#99FFFFFF>18</color> poin Energy dan meningkatkan <color=#99FFFFFF>90</color> poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
         },
         {
           "Level": 3,
-          "Description": "Saat memicu reaksi Electro-Charged, Lunar-Charged, Bloom atau Lunar-Bloom, akan memulihkan <color=#99FFFFFF>21</color> poin Energy dan meningkatkan Elemental Mastery sebesar <color=#99FFFFFF>105</color> poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+          "Description": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan <color=#99FFFFFF>21</color> poin Energy dan meningkatkan <color=#99FFFFFF>105</color> poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
         },
         {
           "Level": 4,
-          "Description": "Saat memicu reaksi Electro-Charged, Lunar-Charged, Bloom atau Lunar-Bloom, akan memulihkan <color=#99FFFFFF>24</color> poin Energy dan meningkatkan Elemental Mastery sebesar <color=#99FFFFFF>120</color> poin selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+          "Description": "Saat memicu Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize, atau Lunar-Crystallize, akan memulihkan <color=#99FFFFFF>24</color> poin Energy dan meningkatkan <color=#99FFFFFF>120</color> poin Elemental Mastery selama 15 detik. Efek ini dapat terpicu sekali setiap 15 detik. Efek di atas tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
         }
       ]
     },
@@ -4591,23 +4644,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "ATK meningkat <color=#99FFFFFF>20%</color>. Saat Karakter dalam party mendapatkan Elemental Shard dari reaksi Crystallize, Karakter yang mengenakannya akan mendapatkan 1 \"Seal\", yang dapat meningkatkan <color=#99FFFFFF>18%</color> DMG Elemental Skill. Seal dapat berlangsung selama 15 detik dan hanya 2 Seal yang dapat tercipta dalam waktu bersamaan. Semua Seal akan dihapus 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG."
+          "Description": "ATK +<color=#99FFFFFF>20%</color>. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +<color=#99FFFFFF>18%</color>. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize."
         },
         {
           "Level": 1,
-          "Description": "ATK meningkat <color=#99FFFFFF>25%</color>. Saat Karakter dalam party mendapatkan Elemental Shard dari reaksi Crystallize, Karakter yang mengenakannya akan mendapatkan 1 \"Seal\", yang dapat meningkatkan <color=#99FFFFFF>22,5%</color> DMG Elemental Skill. Seal dapat berlangsung selama 15 detik dan hanya 2 Seal yang dapat tercipta dalam waktu bersamaan. Semua Seal akan dihapus 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG."
+          "Description": "ATK +<color=#99FFFFFF>25%</color>. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +<color=#99FFFFFF>22,5%</color>. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize."
         },
         {
           "Level": 2,
-          "Description": "ATK meningkat <color=#99FFFFFF>30%</color>. Saat Karakter dalam party mendapatkan Elemental Shard dari reaksi Crystallize, Karakter yang mengenakannya akan mendapatkan 1 \"Seal\", yang dapat meningkatkan <color=#99FFFFFF>27%</color> DMG Elemental Skill. Seal dapat berlangsung selama 15 detik dan hanya 2 Seal yang dapat tercipta dalam waktu bersamaan. Semua Seal akan dihapus 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG."
+          "Description": "ATK +<color=#99FFFFFF>30%</color>. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +<color=#99FFFFFF>27%</color>. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize."
         },
         {
           "Level": 3,
-          "Description": "ATK meningkat <color=#99FFFFFF>35%</color>. Saat Karakter dalam party mendapatkan Elemental Shard dari reaksi Crystallize, Karakter yang mengenakannya akan mendapatkan 1 \"Seal\", yang dapat meningkatkan <color=#99FFFFFF>31,5%</color> DMG Elemental Skill. Seal dapat berlangsung selama 15 detik dan hanya 2 Seal yang dapat tercipta dalam waktu bersamaan. Semua Seal akan dihapus 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG."
+          "Description": "ATK +<color=#99FFFFFF>35%</color>. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +<color=#99FFFFFF>31,5%</color>. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize."
         },
         {
           "Level": 4,
-          "Description": "ATK meningkat <color=#99FFFFFF>40%</color>. Saat Karakter dalam party mendapatkan Elemental Shard dari reaksi Crystallize, Karakter yang mengenakannya akan mendapatkan 1 \"Seal\", yang dapat meningkatkan <color=#99FFFFFF>36%</color> DMG Elemental Skill. Seal dapat berlangsung selama 15 detik dan hanya 2 Seal yang dapat tercipta dalam waktu bersamaan. Semua Seal akan dihapus 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG."
+          "Description": "ATK +<color=#99FFFFFF>40%</color>. Saat Karakter dalam party mendapatkan shard dari reaksi Crystallize atau memicu Lunar-Crystallize, akan memberikan 1 Seal kepada Karakter yang mengenakan dan membuat DMG Elemental Skill +<color=#99FFFFFF>36%</color>. Seal ini bertahan selama 15 detik, dan dapat memiliki maksimum 2 Seal di saat yang sama. Seal akan hilang 0,2 detik setelah Elemental Skill Karakter yang mengenakan mengakibatkan DMG. Hanya 1 Seal yang dapat diperoleh detiknya melalui reaksi Lunar-Crystallize."
         }
       ]
     },
@@ -9318,6 +9371,59 @@
       114044,
       112133,
       112061
+    ]
+  },
+  {
+    "Id": 14522,
+    "PromoteId": 14522,
+    "Sort": 5419,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Nocturne's Curtain Call",
+    "Description": "Manik-manik giok yang diselubungi cahaya bulan, memancarkan pesona lembut dan merdu bahkan di malam musim dingin yang dingin.",
+    "Icon": "UI_EquipIcon_Catalyst_Brisingamen",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ballad of the Crossroads",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Max HP +<color=#99FFFFFF>10%</color>. Saat Karakter yang mengenakan memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar terhadap musuh, akan memulihkan <color=#99FFFFFF>14</color> poin Energy kepada Karakter yang mengenakan dan mendapatkan efek \"Bountiful Sea's Sacred Wine\" selama 12 detik: Max HP +<color=#99FFFFFF>14%</color> lagi, CRIT DMG untuk DMG reaksi Lunar +<color=#99FFFFFF>60%</color>. Efek pemulihan Energy hanya dapat terpicu sekali setiap 18 detik. Efek di atas tetap dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+        },
+        {
+          "Level": 1,
+          "Description": "Max HP +<color=#99FFFFFF>12%</color>. Saat Karakter yang mengenakan memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar terhadap musuh, akan memulihkan <color=#99FFFFFF>15</color> poin Energy kepada Karakter yang mengenakan dan mendapatkan efek \"Bountiful Sea's Sacred Wine\" selama 12 detik: Max HP +<color=#99FFFFFF>16%</color> lagi, CRIT DMG untuk DMG reaksi Lunar +<color=#99FFFFFF>80%</color>. Efek pemulihan Energy hanya dapat terpicu sekali setiap 18 detik. Efek di atas tetap dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+        },
+        {
+          "Level": 2,
+          "Description": "Max HP +<color=#99FFFFFF>14%</color>. Saat Karakter yang mengenakan memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar terhadap musuh, akan memulihkan <color=#99FFFFFF>16</color> poin Energy kepada Karakter yang mengenakan dan mendapatkan efek \"Bountiful Sea's Sacred Wine\" selama 12 detik: Max HP +<color=#99FFFFFF>18%</color> lagi, CRIT DMG untuk DMG reaksi Lunar +<color=#99FFFFFF>100%</color>. Efek pemulihan Energy hanya dapat terpicu sekali setiap 18 detik. Efek di atas tetap dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+        },
+        {
+          "Level": 3,
+          "Description": "Max HP +<color=#99FFFFFF>16%</color>. Saat Karakter yang mengenakan memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar terhadap musuh, akan memulihkan <color=#99FFFFFF>17</color> poin Energy kepada Karakter yang mengenakan dan mendapatkan efek \"Bountiful Sea's Sacred Wine\" selama 12 detik: Max HP +<color=#99FFFFFF>20%</color> lagi, CRIT DMG untuk DMG reaksi Lunar +<color=#99FFFFFF>120%</color>. Efek pemulihan Energy hanya dapat terpicu sekali setiap 18 detik. Efek di atas tetap dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+        },
+        {
+          "Level": 4,
+          "Description": "Max HP +<color=#99FFFFFF>18%</color>. Saat Karakter yang mengenakan memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar terhadap musuh, akan memulihkan <color=#99FFFFFF>18</color> poin Energy kepada Karakter yang mengenakan dan mendapatkan efek \"Bountiful Sea's Sacred Wine\" selama 12 detik: Max HP +<color=#99FFFFFF>22%</color> lagi, CRIT DMG untuk DMG reaksi Lunar +<color=#99FFFFFF>140%</color>. Efek pemulihan Energy hanya dapat terpicu sekali setiap 18 detik. Efek di atas tetap dapat terpicu meski Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114084,
+      112139,
+      112127
     ]
   },
   {

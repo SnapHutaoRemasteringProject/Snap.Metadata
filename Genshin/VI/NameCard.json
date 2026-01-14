@@ -3188,5 +3188,78 @@
       "UI_NameCardPic_Green_Alpha",
       "UI_NameCardPic_Green_P"
     ]
+  },
+  {
+    "Id": 210267,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Columbina - Khi Nào",
+    "Description": "Hoa văn danh thiếp.\nNhảy múa giữa dòng suối trong vắt và những vùng nước nông, chìm vào giấc mơ dưới bóng núi nhợt nhạt. Trôi dạt giữa gợn sóng thời gian, đùa giỡn trốn tìm cùng Kuuhenki.\nNghỉ ngơi trong khu vườn vạn vật, ngân nga với muôn loài. Đêm đã khuya, nhưng bình minh vẫn chưa ló dạng. Cô vẫn chờ, chờ đợi khi gặp gỡ.",
+    "Icon": "UI_NameCardIcon_Columbina",
+    "Pictures": [
+      "UI_NameCardPic_Columbina_Alpha",
+      "UI_NameCardPic_Columbina_P"
+    ]
+  },
+  {
+    "Id": 210268,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zibai - Cảnh Khói",
+    "Description": "Hoa văn danh thiếp.\nĐất trời là quán trọ của vạn vật, thời gian là lữ khách của hàng trăm thế hệ.",
+    "Icon": "UI_NameCardIcon_Zibai",
+    "Pictures": [
+      "UI_NameCardPic_Zibai_Alpha",
+      "UI_NameCardPic_Zibai_P"
+    ]
+  },
+  {
+    "Id": 210269,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Illuga - Chim Đêm",
+    "Description": "Hoa văn danh thiếp.\nCon chim dạ oanh đã vượt qua đêm đen, sẽ dùng nhiệt huyết để đền đáp tất cả những gì thuộc về thế giới ban ngày, và dùng cơn thịnh nộ để thiêu rụi mọi cơn ác mộng.",
+    "Icon": "UI_NameCardIcon_Illuga",
+    "Pictures": [
+      "UI_NameCardPic_Illuga_Alpha",
+      "UI_NameCardPic_Illuga_P"
+    ]
+  },
+  {
+    "Id": 210270,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Thành Tựu - Nhìn Xa",
+    "Description": "Hoa văn danh thiếp.\nNgười lữ khách từng đứng trên cao ngắm nhìn phong cảnh nơi xa xăm, tin rằng những cảnh sắc mà tầm mắt chạm tới, dẫu xa xôi, nhưng cuối cùng cũng sẽ trở thành điểm nhấn trong hành trình tương lai.",
+    "Icon": "UI_NameCardIcon_Csxy6",
+    "Pictures": [
+      "UI_NameCardPic_Csxy6_Alpha",
+      "UI_NameCardPic_Csxy6_P"
+    ]
+  },
+  {
+    "Id": 210271,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nod-Krai - Đèn Đêm Dài",
+    "Description": "Hoa văn danh thiếp.\nLuôn có những ngọn đèn sáng lên vào thời khắc trời tối tăm nhất, đêm này qua đêm khác, suốt trăm ngàn đêm.",
+    "Icon": "UI_NameCardIcon_NodKrai2",
+    "Pictures": [
+      "UI_NameCardPic_NodKrai2_Alpha",
+      "UI_NameCardPic_NodKrai2_P"
+    ]
+  },
+  {
+    "Id": 210272,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nhật Ký Hành Trình - Bôn Tiêu",
+    "Description": "Hoa văn danh thiếp.\nNguyện trăng sáng soi đường, mong ngày mai tươi đẹp, khoác áo xuân ấm áp, cùng vút bay tận trời cao.",
+    "SpecialDescription": "Hoa văn danh thiếp \"Nhật Ký Hành Trình - Bôn Tiêu\"",
+    "Icon": "UI_NameCardIcon_Bp47",
+    "Pictures": [
+      "UI_NameCardPic_Bp47_Alpha",
+      "UI_NameCardPic_Bp47_P"
+    ]
   }
 ]

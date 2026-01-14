@@ -1203,5 +1203,51 @@
     "SecondDescriptions": [
       "캐릭터가 낙하 공격으로 주는 피해가 75% 증가한다"
     ]
+  },
+  {
+    "Id": 1120,
+    "Index": 11,
+    "LevelGroupId": 120,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "파티 내 모든 캐릭터가 물 원소 피해 보너스를 60% 획득한다",
+      "파티 내 모든 캐릭터가 번개 원소 피해 보너스를 60% 획득한다"
+    ]
+  },
+  {
+    "Id": 1121,
+    "Index": 12,
+    "LevelGroupId": 121,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "현재 필드 위 캐릭터의 강공격 피해가 75% 증가한다"
+    ],
+    "SecondDescriptions": [
+      "달빛 반응 피해가 75% 증가한다"
+    ]
+  },
+  {
+    "Id": 1122,
+    "Index": 11,
+    "LevelGroupId": 122,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "파티 내 모든 캐릭터가 물 원소 피해 보너스를 60% 획득한다",
+      "파티 내 모든 캐릭터가 바위 원소 피해 보너스를 60% 획득한다"
+    ]
+  },
+  {
+    "Id": 1123,
+    "Index": 12,
+    "LevelGroupId": 123,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "달 감전 피해가 75% 증가한다"
+    ],
+    "SecondDescriptions": [
+      "달 결정 피해가 75% 증가한다"
+    ]
   }
 ]
