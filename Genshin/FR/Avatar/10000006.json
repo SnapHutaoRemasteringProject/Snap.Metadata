@@ -38,8 +38,8 @@
           "Descriptions": [
             "DGT 1er coup|{param1:F1P}",
             "DGT 2e coup|{param2:F1P}",
-            "DGT 3e coup|{param3:F1P}",
-            "DGT 4e coup|{param4:F1P}",
+            "DGT 3e coup|{param3:P}",
+            "DGT 4e coup|{param4:P}",
             "DGT attaque chargée|{param5:P}",
             "Coût d'endurance attaque chargée|{param6:F1} pts",
             "DGT durant la chute|{param7:F1P}",
@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Touche d'éclair",
@@ -282,7 +283,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "DGT appui simple|{param6:F1P}",
+            "DGT appui simple|{param6:P}",
             "TdR appui simple|{param7:F1} s",
             "DGT appui long|{param1:P}",
             "DGT appui long (Conductivité : 1)|{param2:P}",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Arc fulminant",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Rose de foudre",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Connaissances médicinales",

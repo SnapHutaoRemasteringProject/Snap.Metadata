@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
-            "DMG Tahap 3|{param3:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
+            "DMG Tahap 3|{param3:P}",
             "DMG Charged Attack|{param4:P}",
             "Konsumsi Stamina Charged Attack|{param5:F1}",
             "DMG Selama Plunging|{param6:F1P}",
@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Kaboom!",
@@ -266,7 +267,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "DMG Jumpy Dumpty|{param1:F1P}",
+            "DMG Jumpy Dumpty|{param1:P}",
             "DMG Ranjau|{param4:F1P}",
             "Durasi Ranjau|{param5:F1} detik",
             "Cooldown|{param6:F1} dtk"
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Jumpy Dumpty",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Sparks 'n' Splash",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "All Of My Treasures!",

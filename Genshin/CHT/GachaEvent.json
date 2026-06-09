@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/5010bee6ef18073199a083742b7d4441_680384253109172263.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/21f2dedec9963d8323091cbf8a29c2cc_5663460991973238604.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/807fce88944d63b6888b1b176bfc957a_6351383161503026307.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/58975d2d2ea8b8a73b76a4ccac8efc8d_4803525097787262168.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/b3e9bc5ce45f20da1ddc857227437c1a_6213816069826054894.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/eb12aec1cb8602ced1ecf77df61cef3b_1708051809106410094.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5275,6 +5281,177 @@
       15405,
       15403,
       15402,
+      15401
+    ]
+  },
+  {
+    "Name": "虛星臨渡",
+    "Version": "6.4",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/03/03/20eda4aafdaa03db7627310a49c0306f_6030145838553544596_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/03/03/20eda4aafdaa03db7627310a49c0306f_6030145838553544596_transformed.jpg",
+    "From": "2026-03-17T18:00:00+08:00",
+    "To": "2026-04-07T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000114
+    ],
+    "UpPurpleList": [
+      10000115,
+      10000072,
+      10000088
+    ]
+  },
+  {
+    "Name": "莓色香頌",
+    "Version": "6.4",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/03/03/589190a56f970ac01d24f8fdfe005b31_4346926162823373543_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/03/03/589190a56f970ac01d24f8fdfe005b31_4346926162823373543_transformed.jpg",
+    "From": "2026-03-17T18:00:00+08:00",
+    "To": "2026-04-07T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000112
+    ],
+    "UpPurpleList": [
+      10000115,
+      10000072,
+      10000088
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.4",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/03/03/b4efa67e9eea0198cc0b56ff12c305b4_158189120978295445_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/03/03/b4efa67e9eea0198cc0b56ff12c305b4_158189120978295445_transformed.jpg",
+    "From": "2026-03-17T18:00:00+08:00",
+    "To": "2026-04-07T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11517,
+      13514
+    ],
+    "UpPurpleList": [
+      11402,
+      12402,
+      13407,
+      14401,
+      15405
+    ]
+  },
+  {
+    "Name": "呀吼吼博物誌",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/9a8d9313b55b0cf9e6ae15413f36741e_8023999245625700397_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/9a8d9313b55b0cf9e6ae15413f36741e_8023999245625700397_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "飲羽散紅",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/5c5653299eb5ab9e7b7e59bac8a76352_6121952072085469372_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/5c5653299eb5ab9e7b7e59bac8a76352_6121952072085469372_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/c886a825a638d85049132ca2a2817ea1_8704945973959267858_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/c886a825a638d85049132ca2a2817ea1_8704945973959267858_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
+    ]
+  },
+  {
+    "Name": "蒼林月禱",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/05ffe276bdbb49d5bcf2101f846c1882_1050786431662798895_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/05ffe276bdbb49d5bcf2101f846c1882_1050786431662798895_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000119
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "赤砂的誘言",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/e858c1c86e294a94913bc721b21ea61c_6980848131292414282_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/e858c1c86e294a94913bc721b21ea61c_6980848131292414282_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000122
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/69f0b0f60844dc05dff0a49c86e996c2_7146591984757431990_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/69f0b0f60844dc05dff0a49c86e996c2_7146591984757431990_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14520,
+      14521
+    ],
+    "UpPurpleList": [
+      11403,
+      12405,
+      13407,
+      14434,
       15401
     ]
   }

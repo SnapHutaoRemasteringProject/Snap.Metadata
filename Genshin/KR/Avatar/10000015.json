@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
-            "4단 공격 피해|{param4:F1P}",
-            "5단 공격 피해|{param5:F1P}",
-            "강공격 피해|{param6:F1P}+{param7:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
+            "3단 공격 피해|{param3:P}",
+            "4단 공격 피해|{param4:P}",
+            "5단 공격 피해|{param5:P}",
+            "강공격 피해|{param6:P}+{param7:P}",
             "강공격 스태미나 소모|{param8:F1}pt",
             "낙하 기간 피해|{param9:F1P}",
             "저공/고공 추락 충격 피해|{param10:P}/{param11:P}"
@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "의전 검술",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "서리 엄습",
@@ -449,7 +451,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "스킬 피해|{param1:F1P}",
+          "스킬 피해|{param1:P}",
           "재사용 대기시간|{param2:F1}초",
           "지속 시간|{param3:F1}초",
           "원소 에너지|{param4:I}"
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "살을 에는 윤무",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "숨겨진 실력",

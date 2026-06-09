@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "DGT 1er coup|{param1:F1P}",
-            "DGT 2e coup|{param2:F1P}",
-            "DGT 3e coup|{param3:F1P}",
+            "DGT 1er coup|{param1:P}",
+            "DGT 2e coup|{param2:P}",
+            "DGT 3e coup|{param3:P}",
             "DGT attaque chargée|{param4:P}",
             "Coût d'endurance attaque chargée|{param5:F1} pts",
             "DGT durant la chute|{param6:F1P}",
@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Boum ! Boum !",
@@ -266,7 +267,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "DGT Bombe rebondissante|{param1:F1P}",
+            "DGT Bombe rebondissante|{param1:P}",
             "DGT mine|{param4:F1P}",
             "Durée mine|{param5:F1} s",
             "Temps de recharge|{param6:F1} s"
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bombe rebondissante",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Fleur bombardier",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Des trésors partout !",
