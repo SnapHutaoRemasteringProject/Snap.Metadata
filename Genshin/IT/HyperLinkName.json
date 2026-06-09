@@ -1,0 +1,492 @@
+[
+  {
+    "Id": 210101,
+    "Name": "<color=#0075de>Scossa mareale</color>",
+    "Description": "Si sprigiona quando un personaggio innesca <color=#f39001>Vaporizzazione</color> su un avversario, infliggendo <color=#0075de>DAN da Hydro</color>."
+  },
+  {
+    "Id": 210102,
+    "Name": "<color=#ef5534>Impeto fiammeggiante</color>",
+    "Description": "Si sprigiona quando un personaggio innesca <color=#f39001>Vaporizzazione</color> su un avversario, infliggendo <color=#ef5534>DAN da Pyro</color>."
+  },
+  {
+    "Id": 210201,
+    "Name": "<color=#7bb100>Seme persistente</color>",
+    "Description": "Ogni nucleo di Dendro generato crea 1 Seme persistente che orbita intorno al personaggio attivo (max <color=#f39001>4</color> contemporaneamente). I Semi si consumano al contatto con un avversario, infliggendogli <color=#7bb100>DAN da Dendro</color>."
+  },
+  {
+    "Id": 210301,
+    "Name": "<color=#ef5534>Onda incendiaria</color>",
+    "Description": "Il numero di iterazioni di DAN da <color=#f39001>Ustione</color> inflitte viene conteggiato separatamente per ciascun avversario. Quando uno qualsiasi di tali conteggi raggiunge il valore di <color=#f39001>6</color>, il conteggio si azzera e vengono inflitti <color=#ef5534>DAN da Pyro ad area</color>."
+  },
+  {
+    "Id": 210302,
+    "Name": "<color=#7bb100>Nucleo di combustione</color>",
+    "Description": "Si innesca dopo che il personaggio ha inflitto DAN da Dendro a un avversario affetto da <color=#f39001>Ustione</color>, infliggendo <color=#7bb100>DAN da Dendro</color>."
+  },
+  {
+    "Id": 210401,
+    "Name": "<color=#f39001>Dono del Cristallo di Pyro</color>",
+    "Description": "#Tutti i membri del gruppo ricevono un <color=#f39001>50%</color> di bonus DAN da Pyro e Geo, e si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 210402,
+    "Name": "<color=#ef5534>Onda di accensione</color>",
+    "Description": "#Si sprigiona nella posizione del personaggio ogni <color=#f39001>6</color>{NON_BREAK_SPACE}s mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#ef5534>DAN da Pyro ad area</color>."
+  },
+  {
+    "Id": 210403,
+    "Name": "<color=#e09800>Colpo di Litoschegge</color>",
+    "Description": "#Si sprigiona nella posizione del personaggio ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
+  },
+  {
+    "Id": 210501,
+    "Name": "<color=#f39001>Dono del Cristallo di Electro</color>",
+    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>50%</color> di bonus DAN da Electro e Geo, e si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 210502,
+    "Name": "<color=#e09800>Spaccapietra roboante</color>",
+    "Description": "Dopo che i personaggi hanno colpito con un attacco un avversario, precipita nella posizione di quest'ultimo mentre <color=#f39001>Dono del Cristallo di Electro</color> è attivo, infliggendo <color=#e09800>DAN da Geo</color>."
+  },
+  {
+    "Id": 210503,
+    "Name": "<color=#e09800>Spaccapietra roboante</color>",
+    "Description": "Precipita nella posizione dell'avversario vicino dopo che i personaggi hanno raccolto <color=#f39001>{0}</color> frammenti elementali prodotti dalla <color=#f39001>reazione di Cristallizzazione di Electro</color>, infliggendo <color=#e09800>DAN da Geo</color>."
+  },
+  {
+    "Id": 210601,
+    "Name": "<color=#f39001>Fragilità</color>",
+    "Description": "Riduce di un <color=#f39001>5.5%</color> le RES a Pyro e a Electro degli avversari, massimo 4 accumuli."
+  },
+  {
+    "Id": 210602,
+    "Name": "<color=#ef5534>Sfera esplosiva</color>",
+    "Description": "Dopo aver inflitto DAN da Electro a un avversario affetto da Fragilità, infliggi <color=#ef5534>DAN da Pyro</color> a <color=#f39001>tutti</color> gli avversari affetti da Fragilità presenti sul campo."
+  },
+  {
+    "Id": 210603,
+    "Name": "<color=#b863ee>Folgori</color>",
+    "Description": "Dopo aver inflitto DAN da Pyro a un avversario affetto da Fragilità, infliggi <color=#b863ee>DAN da Electro</color> a <color=#f39001>tutti</color> gli avversari affetti da Fragilità presenti sul campo."
+  },
+  {
+    "Id": 210701,
+    "Name": "<color=#7bb100>Fulcro vigoroso</color>",
+    "Description": "Quando i personaggi innescano reazioni di Vivificazione, Accentuazione o Propagazione sugli avversari, viene scagliato contro questi ultimi un proiettile che esplode all'impatto, infliggendo <color=#7bb100>DAN da Dendro ad area</color>."
+  },
+  {
+    "Id": 210702,
+    "Name": "<color=#b863ee>Fulmine brulicante</color>",
+    "Description": "Precipita dopo che un personaggio ha inflitto DAN da Electro o da Dendro a un avversario affetto da Vivificazione, infliggendo <color=#b863ee>DAN da Electro</color> aggiuntivi."
+  },
+  {
+    "Id": 210901,
+    "Name": "<color=#f39001>Preghiera del vento: Hydro</color>",
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio e i loro PS max aumentano rispettivamente di un <color=#f39001>80%</color> e di un <color=#f39001>8%</color>."
+  },
+  {
+    "Id": 210902,
+    "Name": "<color=#0075de>Hydrosfera curativa</color>",
+    "Description": "Registra il totale di PS ripristinati dai personaggi e scatena un'esplosione quando la sua durata si esaurisce, infliggendo <color=#0075de>DAN da Hydro ad area</color> agli avversari vicini in base al totale di PS ripristinati e al numero di accumuli di <color=#f39001>Preghiera del vento: Hydro</color>."
+  },
+  {
+    "Id": 210903,
+    "Name": "<color=#0075de>Vortice tempestoso</color>",
+    "Description": "Attira gli avversari vicini e infligge loro <color=#0075de>DAN da Hydro ad area</color> in base al numero di accumuli di <color=#f39001>Preghiera del vento: Hydro</color>."
+  },
+  {
+    "Id": 211001,
+    "Name": "<color=#f39001>Preghiera del vento: Electro</color>",
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio aumentano di un <color=#f39001>80%</color> e, ogni volta che ottengono <color=#f39001>Preghiera del vento: Electro</color>, tutti i membri del gruppo ricevono <color=#f39001>2</color> di energia elementale."
+  },
+  {
+    "Id": 211002,
+    "Name": "<color=#b863ee>Fendilampo tempestoso</color>",
+    "Description": "Quando i personaggi usano un Tripudio elementale, si genera un <color=#f39001>Marchio Fendilampo</color>. Quando gli attacchi del personaggio attivo colpiscono gli avversari, il Marchio Fendilampo viene consumato per scatenare un <color=#b863ee>Fendilampo tempestoso</color> che infligge <color=#b863ee>DAN da Electro</color> a tutti gli avversari sul suo percorso in base al numero di accumuli di <color=#f39001>Preghiera del vento: Electro</color>."
+  },
+  {
+    "Id": 211003,
+    "Name": "<color=#b863ee>Lamposalto folgorante</color>",
+    "Description": "Mentre <color=#f39001>Preghiera del vento: Electro</color> è attiva, quando un attacco in picchiata colpisce un avversario, infligge <color=#b863ee>DAN da Electro ad area</color> in base al numero di accumuli di Preghiera del vento: Electro."
+  },
+  {
+    "Id": 211101,
+    "Name": "<color=#f39001>Sovratensione elettrica</color>",
+    "Description": "I DAN inflitti dalle <color=#f39001>reazioni di Electrocarica</color> innescate dai membri del gruppo aumentano di un <color=#f39001>250%</color>, mentre i DAN da <color=#f39001>Carica lunare</color> aumentano di un <color=#f39001>70%</color>."
+  },
+  {
+    "Id": 211102,
+    "Name": "<color=#b863ee>Nucleo Vagofulmine</color>",
+    "Description": "Segue il personaggio in campo mentre l'effetto Sovratensione elettrica è attivo, scagliando 3 proiettili di Electro che infliggono <color=#b863ee>DAN da Electro</color> agli avversari colpiti dal personaggio."
+  },
+  {
+    "Id": 211103,
+    "Name": "<color=#f39001>Burrasca</color>",
+    "Description": "#Mentre l'effetto Sovratensione elettrica è attivo, usa a intervalli di <color=#f39001>2</color>{NON_BREAK_SPACE}s uno dei seguenti attacchi in modo casuale.\n1. <color=#b863ee>Colpo della Burrasca</color>: infligge <color=#b863ee>DAN da Electro</color> agli avversari nella sua area d'effetto, ripristinando al contempo <color=#f39001>2</color> di energia elementale del personaggio attivo.\n2. <color=#0075de>Nubifragio burrascoso</color>: infligge <color=#0075de>DAN da Hydro</color> agli avversari nella sua area d'effetto, ripristinando al contempo i PS del personaggio attivo di un <color=#f39001>5%</color>."
+  },
+  {
+    "Id": 211201,
+    "Name": "<color=#f39001>Dono del Cristallo di Pyro</color>",
+    "Description": "#Tutti i membri del gruppo ricevono un <color=#f39001>70%</color> di bonus DAN da Pyro e Geo, e si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 211202,
+    "Name": "<color=#e09800>Colpo di Litoschegge</color>",
+    "Description": "Si scatena a intervalli regolari nella posizione del personaggio mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
+  },
+  {
+    "Id": 211203,
+    "Name": "<color=#e09800>Spaccapietra roboante</color>",
+    "Description": "Precipita nella posizione dell'avversario quando quest'ultimo viene colpito con un attacco normale, caricato o in picchiata mentre <color=#f39001>Dono del Cristallo di Pyro</color> è attivo, infliggendo <color=#e09800>DAN da Geo</color>."
+  },
+  {
+    "Id": 211301,
+    "Name": "<color=#f39001>Dono del Cristallo di Cryo</color>",
+    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>70%</color> di bonus DAN da Cryo e Geo. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 211302,
+    "Name": "<color=#e09800>Colpi di Litocristalli</color>",
+    "Description": "Si scatenano a intervalli regolari nella posizione del personaggio mentre <color=#f39001>Dono del Cristallo di Cryo</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
+  },
+  {
+    "Id": 211303,
+    "Name": "<color=#e09800>Scheggia rompigelo</color>",
+    "Description": "Precipita nella posizione dell'avversario quando quest'ultimo viene colpito da personaggi di Cryo o Geo con un colpo CRIT mentre <color=#f39001>Dono del Cristallo di Cryo</color> è attivo, infliggendo <color=#e09800>DAN da Geo</color>."
+  },
+  {
+    "Id": 211401,
+    "Name": "<color=#2bb7d5>Cascata di gelo</color>",
+    "Description": "Si scatena quando un personaggio attivo di <color=#ef5534>Pyro</color> innesca una reazione di Fusione, infliggendo <color=#2bb7d5>DAN da Cryo</color>."
+  },
+  {
+    "Id": 211402,
+    "Name": "<color=#ef5534>Pinnacolo di fiamme</color>",
+    "Description": "Si scatena quando un personaggio attivo di <color=#2bb7d5>Cryo</color> innesca una reazione di Fusione, infliggendo <color=#ef5534>DAN da Pyro</color>."
+  },
+  {
+    "Id": 211403,
+    "Name": "<color=#f39001>Termoclino significativo</color>",
+    "Description": "I personaggi infliggono DAN da Fusione aumentati di un <color=#f39001>30%</color>."
+  },
+  {
+    "Id": 211501,
+    "Name": "<color=#f39001>Preghiera del vento: Pyro</color>",
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio e il loro ATT aumentano rispettivamente di un <color=#f39001>80%</color> e di un <color=#f39001>9%</color>."
+  },
+  {
+    "Id": 211502,
+    "Name": "<color=#ef5534>Spirofiamma</color>",
+    "Description": "Si scatena quando il personaggio attivo infligge DAN a un avversario con un attacco, consumando i PS del suddetto personaggio e infliggendo <color=#ef5534>DAN da Pyro ad area</color> in base al numero di accumuli di Preghiera del vento: Pyro."
+  },
+  {
+    "Id": 211503,
+    "Name": "<color=#f39001>Vampotempesta</color>",
+    "Description": "Si scatena quando i membri del gruppo <color=#f39001>di Pyro o Anemo</color> entrano in campo, infliggendo DAN ad area del <color=#f39001>tipo elementale</color> dei personaggi in base al numero di accumuli di Preghiera del vento: Pyro."
+  },
+  {
+    "Id": 211601,
+    "Name": "<color=#f39001>Freddo pungente</color>",
+    "Description": "I DAN da CRIT di Cryo e Hydro di tutti i membri del gruppo aumentano di un <color=#f39001>40%</color>."
+  },
+  {
+    "Id": 211602,
+    "Name": "<color=#0075de>Onda gelida</color>",
+    "Description": "Si scatena quando un personaggio attivo di <color=#2bb7d5>Cryo</color> innesca Congelamento su un avversario, infliggendo <color=#0075de>DAN da Hydro ad area</color>."
+  },
+  {
+    "Id": 211603,
+    "Name": "<color=#2bb7d5>Onda congelante</color>",
+    "Description": "Si scatena quando un personaggio attivo di <color=#0075de>Hydro</color> innesca Congelamento su un avversario, infliggendo <color=#2bb7d5>DAN da Cryo ad area</color>."
+  },
+  {
+    "Id": 211604,
+    "Name": "<color=#f39001>Rompibrina</color>",
+    "Description": "Riduce di un <color=#f39001>8%</color> le RES a Hydro e a Cryo degli avversari, massimo <color=#f39001>3</color> accumuli."
+  },
+  {
+    "Id": 211701,
+    "Name": "<color=#f39001>Arrendevolezza</color>",
+    "Description": "Riduce di un <color=#f39001>5%</color> le RES a Cryo e a Electro degli avversari, e di un <color=#f39001>10%</color> la RES fisica, massimo <color=#f39001>6</color> accumuli."
+  },
+  {
+    "Id": 211702,
+    "Name": "<color=#f39001>Scossa crescente</color>",
+    "Description": "#Si scatena dopo che i personaggi hanno inflitto <color=#f39001>DAN fisici</color> a un avversario affetto da <color=#f39001>Arrendevolezza</color>, infliggendo DAN fisici al massimo ogni <color=#f39001>3</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 211801,
+    "Name": "<color=#f39001>Dono del Cristallo di Hydro</color>",
+    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>70%</color> di bonus DAN da Hydro e Geo. I DAN da Cristallizzazione lunare aumentano di un <color=#f39001>75%</color>. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 211802,
+    "Name": "<color=#e09800>Colpo di Litoscaglie</color>",
+    "Description": "Si scatena a intervalli regolari nella posizione del personaggio mentre <color=#f39001>Dono del Cristallo di Hydro</color> è attivo, infliggendo <color=#e09800>DAN da Geo ad area</color>."
+  },
+  {
+    "Id": 211803,
+    "Name": "<color=#e09800>Litotorrente</color>",
+    "Description": "Precipita nella posizione dell'avversario quando i PS dei personaggi di Hydro o Geo nel tuo gruppo vengono ripristinati mentre <color=#f39001>Dono del Cristallo di Hydro</color> è attivo, infliggendo <color=#e09800>DAN da Geo</color>."
+  },
+  {
+    "Id": 211804,
+    "Name": "<color=#f39001>Spina congelata</color>",
+    "Description": "#Infligge <color=#f39001>DAN ad area di Cryo e Dendro</color> a ogni nemico vicino ogni <color=#f39001>2</color>{NON_BREAK_SPACE}s. In campo possono esserci fino a 2 Spine congelate contemporaneamente."
+  },
+  {
+    "Id": 211805,
+    "Name": "<color=#b863ee>Spina folgorante</color>",
+    "Description": "#Dopo che un personaggio ha colpito con un attacco di Electro un avversario nell'area d'effetto di una <color=#f39001>Spina congelata</color>, quest'ultima si trasforma in una Spina folgorante che dura <color=#f39001>10</color>{NON_BREAK_SPACE}s. La frequenza dei suoi attacchi aumenta a <color=#f39001>una volta</color> al secondo, infliggendo DAN da Electro ad area ×<color=#f39001>1.5</color>."
+  },
+  {
+    "Id": 211806,
+    "Name": "<color=#f39001>Spina magnetica</color>",
+    "Description": "Non attacca, ma aumenta i <color=#f39001>DAN da Cryo, da Dendro, da Electro e fisici</color> inflitti dai personaggi agli avversari vicini. Quest'effetto positivo viene potenziato di un <color=#f39001>45%</color> per ogni Spina magnetica in campo, fino a un <color=#f39001>90%</color> massimo."
+  },
+  {
+    "Id": 211901,
+    "Name": "<color=#f39001>Preghiera del vento: Cryo</color>",
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio e i loro DAN da CRIT aumentano rispettivamente di un <color=#f39001>80%</color> e di un <color=#f39001>16%</color>."
+  },
+  {
+    "Id": 211902,
+    "Name": "<color=#2bb7d5>Algibrina</color>",
+    "Description": "Si applica quando <color=#f39001>Preghiera del vento: Cryo</color> è attivo e un personaggio colpisce un avversario con i suoi attacchi. Gli avversari subiscono <color=#2bb7d5>DAN da Cryo</color> a intermittenza in base al numero di accumuli di <color=#f39001>Preghiera del vento: Cryo</color>."
+  },
+  {
+    "Id": 211903,
+    "Name": "<color=#19c78e>Nebbiagelida</color>",
+    "Description": "Si genera quando <color=#f39001>Preghiera del vento: Cryo</color> è attivo e il personaggio esegue uno Scatto, attirando i nemici nelle vicinanze e infliggendo <color=#19c78e>DAN da Anemo</color>, in base al numero di accumuli di <color=#f39001>Preghiera del vento: Cryo</color>."
+  },
+  {
+    "Id": 11120001,
+    "Name": "Modalità Refrigerazione",
+    "Description": "#<color=#FFD780FF>{LAYOUT_MOBILE#Tocco}{LAYOUT_PC#Pressione}{LAYOUT_PS#Pressione}</color>\nEscoffier attiva il suo Meka da cucina multiuso nella modalità Refrigerazione e infligge <color=#99FFFFFF>DAN da Cryo ad area</color> agli avversari vicini.\n\n<color=#FFD780FF>Meka da cucina: modalità Refrigerazione</color>\nSegue il personaggio attivo e scaglia dei Parfait congelati contro gli avversari vicini a intervalli regolari, infliggendo <color=#99FFFFFF>DAN da Cryo</color>."
+  },
+  {
+    "Id": 11120002,
+    "Name": "Modalità Cucina estemporanea",
+    "Description": "<color=#FFD780FF>Meka da cucina: modalità Cucina estemporanea</color>\n· Il Meka da cucina viene posizionato in campo e assorbe gli attacchi elementali. Quando l'energia elementale assorbita raggiunge un certo limite, Escoffier converte gli ingredienti contenuti nel Meka in dei piatti deliziosi.\n· Escoffier ha bisogno di tempo per comprare nuovi ingredienti, quindi può creare in questo modo solo un certo numero di piatti alla settimana. Il numero di piatti che Escoffier può preparare si ripristina ogni lunedì alle 04:00."
+  },
+  {
+    "Id": 11130001,
+    "Name": "Fuoco di supporto",
+    "Description": "#Nello stato di Grazia dell'Anima della Notte, gli attacchi normali di Ifa si trasformano in Fuoco di supporto.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tocco}{LAYOUT_PC#Pressione}{LAYOUT_PS#Pressione}</color>\nSpara un Colpo rinvigorente.\n\n<color=#FFD780FF>Pressione prolungata</color>\nSpara continuamente dei Colpi rinvigorenti.\n\n<color=#FFD780FF>Colpo rinvigorente</color>\nInfligge <color=#80FFD7FF>DAN da Anemo</color> con attributo Anima della Notte e, quando colpisce un avversario, ripristina i PS di tutti i membri del gruppo vicini in base alla maestria elementale di Ifa."
+  },
+  {
+    "Id": 11130002,
+    "Name": "Fondamentali di soccorso",
+    "Description": "Massimo 150 punti. Ogni punto di Fondamentali di soccorso di Ifa aumenta di un 1,5% i DAN da Turbinio ed Electrocarica inflitti dai membri vicini del gruppo, e di uno 0,2% i loro DAN da Carica lunare. Questi punti si azzerano quando lo stato di Grazia dell'Anima della Notte di Ifa termina."
+  },
+  {
+    "Id": 11130003,
+    "Name": "Grazia dell'Anima della Notte: Ifa",
+    "Description": "Consuma costantemente punti Anima della Notte. Questo stato termina quando tutti i punti si esauriscono o se l'abilità viene usata di nuovo. Il suo stato di Grazia dell'Anima della Notte ha le seguenti proprietà:\n· Ifa si libra in aria con l'aiuto di Cacucu, aumentando la sua VEL di movimento e la resistenza alle interruzioni. Ifa consuma costantemente punti Anima della Notte per continuare a fluttuare. Quando esegue uno Scatto o aumenta di velocità, Ifa consuma punti Anima della Notte aggiuntivi;\n· quando sferra attacchi normali, Ifa usa diversi tipi di Fuoco di supporto in base alla diversa pressione dell'abilità."
+  },
+  {
+    "Id": 11130004,
+    "Name": "Marchio di sedazione",
+    "Description": "Esplode e svanisce dopo un breve lasso di tempo, infliggendo DAN ad area dell'elemento corrispondente. Il Sedativo terapeutico può applicare un Marchio di sedazione a un massimo di 4 avversari colpiti. Lo stesso avversario non può ricevere Marchi di più elementi contemporaneamente."
+  },
+  {
+    "Id": 11130005,
+    "Name": "Astuzia del serpente",
+    "Description": "Skirk può consumare i punti Astuzia del serpente per mantenere la modalità Lampo eptafasico o per scatenare il suo Tripudio elementale Caos: Rovina.\n\nSkirk ottiene punti Astuzia del serpente nei modi seguenti:\n· dopo aver usato la sua abilità elementale Caos: Distorsione;\n· dopo aver innescato l'effetto del suo talento d'ascensione Oltre ogni logica, e aver assorbito i Varchi nel Vuoto.\n\nQuando Skirk lascia il campo in modalità Lampo eptafasico o se quest'ultima termina, i suoi punti Astuzia del serpente vengono rimossi."
+  },
+  {
+    "Id": 11130006,
+    "Name": "Lampo eptafasico",
+    "Description": "Skirk entra in questa modalità per un determinato periodo di tempo quando usa la sua abilità elementale <color=#FFD780FF>Caos: Distorsione</color>. La modalità ha le seguenti proprietà:\n· consuma continuamente punti Astuzia del serpente;\n· aumenta l'area d'effetto degli attacchi normali e caricati e la resistenza all'interruzione di Skirk;\n· converte i DAN inflitti dai suoi attacchi normali, caricati e in picchiata in <color=#99FFFFFF>DAN da Cryo</color> non influenzabili da altre infusioni elementali;\n· converte il suo Tripudio elementale <color=#FFD780FF>Caos: Rovina</color> nel Tripudio elementale speciale <color=#FFD780FF>Caos: Estinzione</color>;\n· permette a Skirk di muoversi sulle superfici acquatiche quando compie uno Scatto.\nSkirk esce da questa modalità quando i punti Astuzia del serpente si esauriscono o al termine della sua durata, e l'abilità elementale entra in TdR."
+  },
+  {
+    "Id": 11130007,
+    "Name": "Oltre ogni logica",
+    "Description": "#Quando i membri del gruppo vicini innescano reazioni di Congelamento, Superconduzione, Turbinio di Cryo o Cristallizzazione di Cryo su un avversario, si genera un Varco nel Vuoto vicino a quest'ultimo. Quest'effetto può attivarsi una volta ogni 2,5{NON_BREAK_SPACE}s. Nel campo possono coesistere fino a 3 Varchi nel Vuoto generati da Skirk.\n\nPer assorbire i Varchi nel Vuoto vicini, Skirk può usare i seguenti metodi:\n· colpire un avversario con un attacco caricato nella sua modalità Lampo eptafasico;\n· usare il suo Tripudio elementale speciale <color=#FFD780FF>Caos: Estinzione</color> mentre è in modalità Lampo eptafasico;\n· tenere premuta la sua abilità elementale <color=#FFD780FF>Caos: Distorsione</color> per muoversi velocemente.\n\nOgni Varco assorbito le conferisce 8 punti Astuzia del serpente."
+  },
+  {
+    "Id": 11130008,
+    "Name": "Ritorno all'oblio",
+    "Description": "#Quando gli attacchi di <color=#80C0FFFF>Hydro</color> dei membri del gruppo di <color=#80C0FFFF>Hydro</color> vicini colpiscono gli avversari, o quando i membri del gruppo di <color=#99FFFFFF>Cryo</color> vicini, a parte Skirk, colpiscono gli avversari con attacchi di <color=#99FFFFFF>Cryo</color>, Skirk ottiene l'effetto Traversata della morte per 20{NON_BREAK_SPACE}s, cumulabile fino a 3 volte. La durata di ciascun accumulo è calcolata in modo indipendente.\nIn questo modo, ciascun personaggio può conferire a Skirk solo 1 accumulo di Traversata della Morte.\nOgni accumulo di Traversata della Morte aumenta i DAN da attacco normale inflitti da Skirk nella modalità Lampo eptafasico di un 110%/120%/170% dei DAN originali, nonché i DAN inflitti utilizzando il suo Tripudio elementale <color=#FFD780FF>Caos: Rovina</color> di un 105%/115%/160% dei DAN originali."
+  },
+  {
+    "Id": 11130009,
+    "Name": "Pioggia sacramentale",
+    "Description": "Si innescano degli effetti diversi a seconda di chi ci entra in contatto:\nse è un avversario a toccare la Pioggia, quest'ultima esplode e infligge <color=#80C0FFFF>DAN da Hydro ad area</color> agli avversari vicini;\nse è un membro del gruppo a toccare la pioggia, quest'ultima farà sì che il personaggio che l'ha toccata rimbalzi in aria.\n\nNon può esistere più di 1 Pioggia sacramentale evocato da Dahlia in campo alla volta."
+  },
+  {
+    "Id": 11130010,
+    "Name": "Grazia di Favonius",
+    "Description": "Quando Dahlia usa il suo Tripudio elementale <color=#FFD780FF>Salterio radioso</color>, applica questo effetto ai membri del gruppo.\nMentre l'effetto è attivo, Dahlia può consumare 1 accumulo di Benedizione per generare un nuovo Scudo di Grazia sacra quando quello esistente termina la sua durata o viene infranto a causa dei DAN subiti."
+  },
+  {
+    "Id": 11130011,
+    "Name": "Benedizione",
+    "Description": "Dahlia ottiene Benedizione nei modi seguenti:\n· ottiene × accumuli di Benedizione quando il membro attivo del gruppo colpisce 4 volte con gli attacchi normali gli avversari mentre è sotto l'effetto di Grazia di Favonius;\n· dopo aver innescato l'effetto del suo talento d'ascensione Grazia gentile del vento.\n\nDahlia può ottenere un massimo di × accumuli di Benedizione nel corso della durata di Grazia di Favonius."
+  },
+  {
+    "Id": 11160001,
+    "Name": "Birgitta",
+    "Description": "#L'assistente e compagna di battaglia di Ineffa. Può essere evocata sul campo tramite l'abilità o il Tripudio elementale.\nSe sono presenti avversari nelle vicinanze, Birgitta si sposta rapidamente verso uno di loro e sprigiona una Scarica ogni 2{NON_BREAK_SPACE}s, infliggendo <color=#FFACFFFF>DAN da Electro ad area</color>.\nPuò esistere solo una Birgitta evocata da Ineffa alla volta.\n\nInoltre, sembra che a Nod-Krai esistano dei metodi per modificarne l'aspetto esteriore..."
+  },
+  {
+    "Id": 11190001,
+    "Name": "Santuario di Boscogelo",
+    "Description": "#Una matrice magica che protegge le Cantaluna e che può essere evocata usando l'abilità elementale <color=#FFD780FF>Runo: Riposo senz'alba di Karsikko</color>.\nIl Santuario di Boscogelo segue il personaggio attivo e infligge un'iterazione di <color=#99FF88FF>DAN da Dendro ad area</color> agli avversari dentro la matrice ogni 2{NON_BREAK_SPACE}s. Tali DAN sono considerati DAN da abilità elementale."
+  },
+  {
+    "Id": 11190002,
+    "Name": "Canto della luna",
+    "Description": "Una melodia usata per intrecciare inni. Quando si usa un Tripudio elementale, o per un certo periodo di tempo dopo averne usato uno, il Canto può essere convertito in accumuli di Inno pallido, che aumentano i DAN delle reazioni di Fioritura, Iperfioritura, Germinazione e Fioritura lunare.\nQuando Lauma consuma Rugiada verdeggiante per usare la variante a pressione prolungata della sua abilità elementale <color=#FFD780FF>Runo: Riposo senz'alba di Karsikko</color>, ogni unità di Rugiada verdeggiante consumata fornisce a Lauma 1 accumulo di Canto della luna."
+  },
+  {
+    "Id": 11190003,
+    "Name": "Inno pallido",
+    "Description": "Un inno tramandato da generazioni di Cantaluna che aumenta i DAN inflitti dalle reazioni di Fioritura, Iperfioritura, Germinazione e Fioritura lunare.\n\nLauma può ottenere accumuli di Inno pallido nei modi seguenti:\n· usando il suo Tripudio elementale <color=#FFD780FF>Runo: Cuori uniti nella luna battente</color>;\n· quando consuma gli accumuli di Canto della luna a causa dell'utilizzo del Tripudio elementale <color=#FFD780FF>Runo: Cuori uniti nella luna battente</color>;\n· quando il Santuario di Boscogelo innesca l'effetto della sua costellazione <color=#FFD780FF>\"Sangue e lacrime offro al chiaro di luna\"</color>.\n\nQuando i membri del gruppo infliggono DAN da Fioritura, Iperfioritura, Germinazione o Fioritura lunare, viene consumato 1 accumulo di Inno pallido e i DAN inflitti aumentano in base alla maestria elementale di Lauma. Se più avversari contemporaneamente subiscono DAN, vengono consumati più accumuli di Inno pallido in base al numero di avversari colpiti.\nLa durata di ogni accumulo di Inno pallido è indipendente dalle altre."
+  },
+  {
+    "Id": 11190004,
+    "Name": "Veglia della marea crepuscolare",
+    "Description": "I DAN da Fioritura, Iperfioritura e Germinazione inflitti dai membri del gruppo possono causare colpi CRIT, con un tasso di CRIT e DAN da CRIT fissati rispettivamente a un {PARAM#P1192101|1S100}% e un {PARAM#P1192101|2S100}%. Il tasso di CRIT di quest'effetto si può accumulare con il tasso di CRIT ottenuto da effetti simili che permettono a queste reazioni elementali di innescare colpi CRIT."
+  },
+  {
+    "Id": 11190005,
+    "Name": "Preghiera al chiaro di luna",
+    "Description": "Il tasso di CRIT e i DAN da CRIT dei DAN da Fioritura lunare dei membri del gruppo aumentano rispettivamente di un {PARAM#P1192101|3S100}% e di un {PARAM#P1192101|4S100}%."
+  },
+  {
+    "Id": 11190007,
+    "Name": "Innalzamento",
+    "Description": "Effetto di aumento DAN speciale. Viene calcolato in modo indipendente rispetto ad altri effetti di aumento DAN."
+  },
+  {
+    "Id": 11190008,
+    "Name": "Rugiada verdeggiante",
+    "Description": "#Una risorsa che si ottiene quando i membri del gruppo innescano reazioni di Fioritura lunare.\nIl gruppo ottiene 1 Rugiada verdeggiante ogni 2,5{NON_BREAK_SPACE}s per 2,5{NON_BREAK_SPACE}s dopo aver innescato una reazione di Fioritura lunare. Il gruppo può avere un massimo di 3 Rugiade verdeggianti. Innescando un'altra reazione di Fioritura lunare in questo periodo di tempo, la durata dell'effetto viene ripristinata."
+  },
+  {
+    "Id": 11200001,
+    "Name": "Sinfonia tonante",
+    "Description": "Consuma meno energia elementale per usare un Tripudio elementale speciale. Flins infligge un'iterazione di <color=#FFACFFFF>DAN da Electro ad area</color>. Tali DAN sono considerati DAN da Carica lunare.\nQuando <color=#FFD780FF>Presagio lunare: Barlume ascendente</color> è attivo, se sono presenti delle nubi temporalesche nelle vicinanze, Flins infligge un'iterazione aggiuntiva di <color=#FFACFFFF>DAN da Electro ad area</color>. Tali DAN sono considerati DAN da Carica lunare."
+  },
+  {
+    "Id": 11220001,
+    "Name": "Danza dell'ombra",
+    "Description": "Uno stato che si attiva quando Nefer usa la sua abilità elementale <color=#FFD780FF>Strategia del senet: Danza delle mille notti</color>.\nMentre è attivo, se Nefer ha almeno 1 unità di Rugiada verdeggiante a disposizione, i suoi attacchi caricati vengono sostituiti dall'attacco caricato speciale Spettacolo fantasma.\nNefer esce dallo stato di Danza dell'ombra dopo aver scatenato {PARAM#P1223201|3S1} volte Spettacolo fantasma o al termine della sua durata."
+  },
+  {
+    "Id": 11220002,
+    "Name": "Spettacolo fantasma",
+    "Description": "Quando è nello stato di Danza dell'ombra derivante dalla sua abilità elementale <color=#FFD780FF>Strategia del senet: Danza delle mille notti</color>, se Nefer ha almeno 1 unità di Rugiada verdeggiante a disposizione, i suoi attacchi caricati vengono sostituiti dall'attacco caricato speciale Spettacolo fantasma, che non consuma vigore.\nNefer evoca delle Ombre di sé stessa per effettuare degli attacchi coordinati contro i nemici. Nefer e le Ombre infliggono rispettivamente la seconda e terza fase dei <color=#99FF88FF>DAN da Dendro ad area</color>. I DAN inflitti dalle Ombre sono considerati DAN da Fioritura lunare. Evocare le Ombre per la prima volta dopo ogni Spettacolo fantasma consuma 1 unità di Rugiada verdeggiante."
+  },
+  {
+    "Id": 11220003,
+    "Name": "Velo della menzogna",
+    "Description": "#Dopo aver assorbito i Semi dell'inganno grazie al talento d'ascensione Scommessa al chiaro di luna, Nefer ottiene questo effetto, aumentando di conseguenza i DAN inflitti dal suo Spettacolo fantasma.\nOgni accumulo di Velo della menzogna aumenta i DAN inflitti dallo Spettacolo fantasma di Nefer di un {PARAM#P1222101|6S100}%. Il numero massimo di accumuli iniziali è {PARAM#P1222101|1S1}. La durata di ogni accumulo è di {PARAM#P1222101|2S1}{NON_BREAK_SPACE}s e ciascuna viene calcolata in modo indipendente."
+  },
+  {
+    "Id": 11230001,
+    "Name": "Trasmutazione essenziale",
+    "Description": "#Un effetto che Durin ottiene per 6{NON_BREAK_SPACE}s dopo aver scatenato l'abilità elementale <color=#FFD780FF>Forma binaria: Convergenza e divisione</color>.\nMentre è attivo, Durin può premere il {LAYOUT_PC#tasto}{LAYOUT_PS#tasto}{LAYOUT_MOBILE#pulsante} dell'abilità elementale per entrare nello stato di <color=#FFD780FF>Conferma della purezza</color> o quello dell'attacco normale per entrare nello stato di <color=#FFD780FF>Negazione delle tenebre</color>.\nQuando è in questi stati, Durin ottiene sia effetti positivi sia Tripudi elementali diversi."
+  },
+  {
+    "Id": 11240001,
+    "Name": "Fiaschetta preziosa Purr purr",
+    "Description": "Un piccolo recipiente che Jahoda estrae quando usa la sua abilità elementale, <color=#FFD780FF>Strategia ingegnosa: Condivisione del bottino</color>.\nMentre Jahoda è in stato di Inseguimento ombroso, se i nemici vicini sono affetti da <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, la Fiaschetta preziosa Purr purr subisce una conversione nell'elemento corrispondente e inizia a riempirsi, seguendo il seguente ordine di priorità: <color=#FF9999FF>Pyro</color> > <color=#80C0FFFF>Hydro</color> > <color=#FFACFFFF>Electro</color> > <color=#99FFFFFF>Cryo</color>. Ogni volta che l'abilità elementale viene usata, la Fiaschetta preziosa Purr purr può subire una sola delle suddette conversioni.\nUna volta riempita la Fiaschetta, Jahoda la svuota immediatamente ed esce dallo stato di Inseguimento ombroso per infliggere un'iterazione di <color=#80FFD7FF>DAN da Anemo</color> agli avversari vicini.\nOgni volta che l'abilità elementale viene usata, Jahoda estrae una nuova Fiaschetta preziosa Purr purr.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando la <color=#FFD780FF>Fiaschetta preziosa Purr purr</color> è piena, Jahoda non la svuota immediatamente. Al contrario, consuma costantemente l'elemento immagazzinato per un breve periodo di tempo, scagliando a intermittenza contro i nemici vicini delle <color=#FFD780FF>Miciosfere morbidose</color>, che infliggono DAN dello stesso elemento della <color=#FFD780FF>Fiaschetta preziosa Purr purr</color>."
+  },
+  {
+    "Id": 11240002,
+    "Name": "Robot di assistenza coordinata purrsonali",
+    "Description": "Dei piccoli congegni che Jahoda, ex cacciatrice di tesori, porta con sé. Vengono schierati quando usa il suo Tripudio elementale, <color=#FFD780FF>Assi segreti: Sette strumenti della cacciatrice</color>.\nI Robot di assistenza coordinata purrsonali ripristinano costantemente i PS del tuo personaggio attivo. Se i PS del personaggio curato sono superiori a un 70%, ripristinano anche i PS del membro del gruppo vicino con i PS più bassi.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando i nemici vicini sono affetti da <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, i Robot di assistenza coordinata purrsonali subiscono una conversione nell'elemento corrispondente, seguendo il seguente ordine di priorità: <color=#FF9999FF>Pyro</color> > <color=#80C0FFFF>Hydro</color> > <color=#FFACFFFF>Electro</color> > <color=#99FFFFFF>Cryo</color>. Ogni volta che viene schierato, un Robot di assistenza coordinata purrsonale può subire una sola conversione elementale. Dopo la conversione, attacca periodicamente fino a 3 avversari vicini, infliggendo DAN dell'elemento corrispondente."
+  },
+  {
+    "Id": 10050001,
+    "Name": "Effetti positivi aggiuntivi",
+    "Description": "#{F#La viaggiatrice}{M#Il viaggiatore} ottiene un bonus alle statistiche per ogni elemento con cui ha risuonato.\n<color=#80FFD7FF>Anemo</color>: il tasso di CRIT aumenta di un 10%.\n<color=#FFE699FF>Geo</color>: la DIF aumenta di un 20%.\n<color=#FFACFFFF>Electro</color>: la ricarica d'energia aumenta di un 20%.\n<color=#99FF88FF>Dendro</color>: la maestria elementale aumenta di 60.\n<color=#80C0FFFF>Hydro</color>: i PS aumentano di un 20%.\n<color=#FF9999FF>Pyro</color>: l'ATT aumenta di un 20%.\n<color=#99FFFFFF>Cryo</color>: i DAN da CRIT aumentano di un 20%."
+  },
+  {
+    "Id": 11250001,
+    "Name": "Marea gravitazionale",
+    "Description": "#Dopo aver sprigionato l'abilità elementale <color=#FFD780FF>Maree eterne</color>, Colombina evoca una <color=#FFD780FF>Marea gravitazionale</color>.\nLa Marea gravitazionale segue il personaggio attivo in campo e infligge costantemente <color=#80C0FFFF>DAN da Hydro ad area</color> agli avversari circostanti.\n\nInoltre, quando la Marea gravitazionale è in campo e i membri vicini del gruppo innescano reazioni lunari o infliggono DAN da reazione lunare, Colombina ottiene l'effetto Presagio della Luna nuova per 2{NON_BREAK_SPACE}s, accumulando continuamente <color=#FFD780FF>Gravità</color>. Ogni 2{NON_BREAK_SPACE}s è possibile ottenere fino a 20 accumuli di Gravità.\nIl limite massimo di Gravità è 60, e una volta terminata la durata della Marea gravitazionale, tutta la Gravità accumulata viene rimossa.\nUna volta raggiunto il limite di Gravità, si attiva una speciale <color=#FFD780FF>Interferenza gravitazionale</color> che, in base al tipo di reazione lunare che ha fornito la maggiore quantità di Gravità a Colombina, innesca effetti diversi.\n· <color=#FFD780FF>Carica lunare</color>: l'Interferenza gravitazionale infligge una singola iterazione di <color=#FFACFFFF>DAN da Electro ad area</color> considerati come DAN da Carica lunare.\n· <color=#FFD780FF>Fioritura lunare</color>: l'Interferenza gravitazionale scaglia 5 Sigilli di rugiada lunare agli avversari circostanti, infliggendo <color=#99FF88FF>DAN da Dendro</color> considerati come DAN da Fioritura lunare.\n· <color=#FFD780FF>Cristallizzazione lunare</color>: l'Interferenza gravitazionale infligge una singola iterazione di <color=#FFE699FF>DAN da Geo ad area</color> considerati come DAN da Cristallizzazione lunare."
+  },
+  {
+    "Id": 11250002,
+    "Name": "Dominio lunare",
+    "Description": "Il dominio che Colombina evoca dopo aver sprigionato il Tripudio elementale <color=#FFD780FF>Malinconia lunare</color>.\nQuando i personaggi attivi attuali sono all'interno del <color=#FFD780FF>Dominio lunare</color>, i DAN da reazione lunare inflitti da tutti i membri del gruppo aumentano."
+  },
+  {
+    "Id": 11250003,
+    "Name": "Rugiada selenica",
+    "Description": "Un tipo speciale di Rugiada verdeggiante fornito dal talento passivo di Colombina, <color=#FFD780FF>Legge della Luna nuova</color>. La sua capacità e la sua durata massime sono calcolate indipendentemente dalla Rugiada verdeggiante.\nQuando la Rugiada verdeggiante del gruppo si esaurisce, al suo posto viene consumata la <color=#FFD780FF>Rugiada selenica</color>.\nIl tuo gruppo può avere fino a 3 unità di <color=#FFD780FF>Rugiada selenica</color>."
+  },
+  {
+    "Id": 11270001,
+    "Name": "Canzone dell'usignolo",
+    "Description": "L'effetto derivante dall'attivazione del Tripudio elementale di Illuga <color=#FFD780FF>Riflesso senz'ombra</color>. Può aumentare i <color=#FFE699FF>DAN da Geo</color> inflitti dal personaggio attivo attuale."
+  },
+  {
+    "Id": 11260001,
+    "Name": "Cambio delle fasi lunari",
+    "Description": "#Dopo aver usato la sua abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color>, Zibai entra in questa modalità, che dura al massimo {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s e ha le seguenti proprietà:\n· i DAN degli attacchi normali e caricati vengono convertiti in <color=#FFE699FF>DAN da Geo</color> non influenzabili da altre infusioni elementali;\n· l'abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color> viene convertita nell'abilità elementale <color=#FFD780FF>Passo del destriero spirituale</color>. Quando Zibai ha almeno 70 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, può consumarli per scatenare Passo del destriero spirituale e infliggere due iterazioni di <color=#FFE699FF>DAN da Geo</color>. I DAN della seconda iterazione vengono considerati DAN da Cristallizzazione lunare.\n\nÈ possibile avere un massimo di 100 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, che Zibai può ottenere nei seguenti modi:\n· 10 per ogni secondo in cui si trova nello stato di <color=#FFD780FF>Cambio delle fasi lunari</color>;\n· 5 quando colpisce un avversario con i suoi attacchi normali, una volta ogni 0,5{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando i membri del gruppo vicini innescano Cristallizzazione lunare, forniscono a Zibai 35 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>. È possibile ottenere accumuli in questo modo una volta ogni 4{NON_BREAK_SPACE}s. Scatenare l'abilità elementale speciale <color=#FFD780FF>Passo del destriero spirituale</color> annulla il suddetto tempo di attesa, permettendo di accumulare immediatamente altro <color=#FFD780FF>Cambio di fase splendente</color> in questo modo.\n\nZibai esce da questa modalità dopo aver scatenato <color=#FFD780FF>Passo del destriero spirituale</color> 4 volte o quando la durata dell'abilità termina."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Sturm und Drang",
+    "Description": "Una modalità che si attiva usando l'abilità elementale di Varka <color=#FFD780FF>Turbine della sentenza</color>.\nMentre è attiva, Varka infligge DAN da attacco normale e da attacco caricato aumentati e non può eseguire attacchi in picchiata. Quando sferra attacchi normali o caricati, le due claymore di Varka infliggono DAN elementali in base ai tipi elementali dei personaggi nel gruppo.\n· I DAN inflitti dalla claymore nella mano sinistra vengono convertiti in <color=#80FFD7FF>DAN da Anemo</color> non influenzabili da altre infusioni elementali.\n· Se nel gruppo sono presenti personaggi di <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, la claymore nella mano destra infligge i rispettivi DAN elementali, non influenzabili da altre infusioni, seguendo il suddetto ordine di priorità dei tipi elementali.\n\nInoltre, mentre questa modalità è attiva, se nel gruppo sono presenti personaggi di <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, l'abilità elementale di Varka <color=#FFD780FF>Turbine della sentenza</color> viene convertita nell'abilità elementale speciale <color=#FFD780FF>Ascensione dei Quattro Venti</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Ascensione dei Quattro Venti",
+    "Description": "#L'abilità elementale speciale di Varka. Infligge DAN elementali ad area corrispondenti all'elemento della claymore impugnata nella mano destra (non influenzabili da altre infusioni) e <color=#80FFD7FF>DAN da Anemo ad area</color> agli avversari.\nHa un TdR iniziale e dispone di un massimo di 2 utilizzi.\nQuando Varka si trova nella modalità <color=#FFD780FF>Sturm und Drang</color> e il suo attacco normale colpisce un avversario, il TdR di <color=#FFD780FF>Ascensione dei Quattro Venti</color> si riduce di 0,5{NON_BREAK_SPACE}s. Quest'effetto può attivarsi fino a un massimo di 15 volte ogni volta che Varka passa alla modalità <color=#FFD780FF>Sturm und Drang</color>.\nInoltre, Varka può consumare le cariche di <color=#FFD780FF>Ascensione dei Quattro Venti</color> per eseguire l'attacco caricato speciale <color=#FFD780FF>Divorazzurro</color>, che non consuma vigore e infligge 2 iterazioni di DAN elementali corrispondenti all'elemento della claymore impugnata nella mano destra (non influenzabili da altre infusioni) e 2 iterazioni di <color=#80FFD7FF>DAN da Anemo</color>."
+  },
+  {
+    "Id": 11290001,
+    "Name": "Colpo da maestro",
+    "Description": "Una modalità di Lohen che si attiva dopo aver sprigionato l'abilità elementale <color=#FFD780FF>Colpo imprevisto</color>. La modalità Colpo da maestro ha le seguenti caratteristiche.\n· I DAN inflitti da attacchi normali, attacchi caricati e attacchi in picchiata di Lohen vengono convertiti in <color=#99FFFFFF>DAN da Cryo</color> non influenzabili da altre infusioni.\n· Quando Lohen colpisce un nemico con un attacco normale o un attacco caricato, accumula <color=#FFD780FF>Gioia</color> utilizzabile per sprigionare l'abilità elementale speciale <color=#FFD780FF>Nelle ossa e nell'anima</color>. Lohen può sprigionare <color=#FFD780FF>Nelle ossa e nell'anima</color> fino a 3 volte durante la modalità <color=#FFD780FF>Colpo da maestro</color>, dopo le quali non può più accumulare <color=#FFD780FF>Gioia</color>.\n· Quando i membri vicini del gruppo infliggono DAN, accumulano <color=#FFD780FF>Voglia di vincere</color> per Lohen, utilizzabile per aumentare i DAN inflitti da <color=#FFD780FF>Nelle ossa e nell'anima</color>.\n· La modalità Colpo da maestro termina quando Lohen lascia il campo. Al termine della modalità, <color=#FFD780FF>Gioia</color> e <color=#FFD780FF>Voglia di vincere</color> si azzerano."
+  },
+  {
+    "Id": 11290002,
+    "Name": "Nelle ossa e nell'anima",
+    "Description": "Un'abilità elementale speciale che Lohen può impiegare dopo che la sua <color=#FFD780FF>Gioia</color> ha raggiunto il livello massimo.\nDopo aver colpito un avversario, consuma tutta la <color=#FFD780FF>Gioia</color> e la <color=#FFD780FF>Voglia di vincere</color> per infliggere <color=#99FFFFFF>DAN da Cryo</color>. Tali DAN aumentano in base alla quantità di <color=#FFD780FF>Voglia di vincere</color> consumata."
+  },
+  {
+    "Id": 11290003,
+    "Name": "Gioia",
+    "Description": "#Lohen accumula {PARAM#P1293201|13S1} punti <color=#FFD780FF>Gioia</color> ogni volta che colpisce gli avversari con attacchi normali o caricati durante la modalità Colpo da maestro. È possibile accumulare fino a un massimo di 100 punti Gioia alla volta.\nÈ possibile ottenere <color=#FFD780FF>Gioia</color> una volta ogni 0,1{NON_BREAK_SPACE}s. Quando i punti <color=#FFD780FF>Gioia</color> raggiungono il limite massimo, l'abilità elementale di Lohen <color=#FFD780FF>Colpo imprevisto</color> viene sostituita dall'abilità elementale speciale <color=#FFD780FF>Nelle ossa e nell'anima</color>."
+  },
+  {
+    "Id": 11290004,
+    "Name": "Voglia di vincere",
+    "Description": "#Una risorsa speciale che si accumula quando gli altri membri vicini del gruppo infliggono DAN mentre Lohen è in modalità Colpo da maestro. È possibile accumulare fino a un massimo di 100 punti Voglia di vincere.\nMentre la modalità Colpo da maestro è attiva, quando gli altri membri vicini del gruppo infliggono DAN, se tali DAN non sono inferiori a un {PARAM#P1293201|15S100}% dell'ATT di base di Lohen, quest'ultimo accumula {PARAM#P1293201|16S1} punti <color=#FFD780FF>Voglia di vincere</color>; in caso contrario, ne accumula 1.\nOgni personaggio può fornire <color=#FFD780FF>Voglia di vincere</color> a Lohen una volta ogni 0,1{NON_BREAK_SPACE}s."
+  },
+  {
+    "Id": 11300001,
+    "Name": "Lumi: Forme d'attacco",
+    "Description": "Lumi possiede tre forme d'attacco diverse.\n\n<color=#FFD780FF>Forma superpotente</color>\nLumi utilizza <color=#FFD780FF>Pestaggio martellante</color> per attaccare continuamente gli avversari vicini. Ogni attacco infligge 2 iterazioni di <color=#FFE699FF>DAN da Geo ad area</color>.\nSe ci sono delle Gabbie lunari nelle vicinanze, Lumi alterna <color=#FFD780FF>Pestaggio martellante</color> e <color=#FFD780FF>Martello sovraccarico pesante</color> per attaccare continuamente gli avversari vicini. <color=#FFD780FF>Martello sovraccarico pesante</color> infligge <color=#FFE699FF>DAN da Geo ad area</color>, considerati DAN da reazione di Cristallizzazione lunare.\n\n<color=#FFD780FF>Forma superpotente finale</color>\nLumi usa la <color=#FFD780FF>Polverizzazione devastante</color> suprema, infliggendo un'iterazione particolarmente potente di <color=#FFE699FF>DAN da Geo ad area</color> considerati DAN da reazione di Cristallizzazione lunare, per poi passare alla <color=#FFD780FF>Forma potente standard</color>.\n\n<color=#FFD780FF>Forma potente standard</color>\nNonostante non sia appariscente come le altre forme, è in grado di fare parecchio male.\nLumi usa <color=#FFD780FF>Pestaggio martellante</color> a intervalli più lunghi per attaccare continuamente gli avversari vicini. Ogni attacco infligge 2 iterazioni di <color=#FFE699FF>DAN da Geo ad area</color>."
+  },
+  {
+    "Id": 11310001,
+    "Name": "Grazia della kenosis",
+    "Description": "Un effetto conferito da Nicole a tutti i membri vicini del gruppo dopo aver sprigionato l'abilità elementale <color=#FFD780FF>Rivelazione: Luce increata</color>, che aumenta l'ATT in base all'ATT di Nicole.\nUna volta soddisfatte determinate condizioni, l'effetto <color=#FFD780FF>Grazia della kenosis</color> si potenzia in <color=#FFD780FF>Guida della theosis</color>, che aumenta ulteriormente l'ATT."
+  },
+  {
+    "Id": 11310002,
+    "Name": "Guida della theosis",
+    "Description": "#Potenziare l'effetto <color=#FFD780FF>Grazia della kenosis</color> aumenta l'ATT di ulteriori {PARAM#P1312101|3S1}.\nDopo aver sbloccato il talento d'ascensione \"Methexis\" e soddisfatto una delle seguenti condizioni di osservazione, <color=#FFD780FF>Grazia della kenosis</color> si potenzia in <color=#FFD780FF>Guida della theosis</color> per il resto della sua durata.\n· Un altro personaggio sotto osservazione rimane in campo per più di {PARAM#P1312101|2S1}{NON_BREAK_SPACE}s.\n· Un altro personaggio sotto osservazione è un personaggio con attributo Hexerei.\n\nInoltre, dopo aver sbloccato il talento d'ascensione \"Philokalia\", quando un membro attivo del gruppo nelle vicinanze colpisce un avversario con DAN elementali, l'effetto <color=#FFD780FF>Grazia della kenosis</color> attivo su Nicole si potenzia in <color=#FFD780FF>Guida della theosis</color> per {PARAM#P1312201|1S1}{NON_BREAK_SPACE}s.\n\nQuando i personaggi diversi da Nicole che possiedono <color=#FFD780FF>Guida della theosis</color> lasciano il campo, il loro effetto regredisce in <color=#FFD780FF>Grazia della kenosis</color>."
+  },
+  {
+    "Id": 11320001,
+    "Name": "Martello Scacciamali",
+    "Description": "Il fidato compagno di ogni Cacciastreghe! In determinate condizioni, il Martello Scacciamali viene sottoposto a una Conversione elementale, trasformando tutti i suoi DAN in DAN del tipo elementale corrispondente.\nPrune può evocare il Martello Scacciamali sottoposto a Conversione elementale nei seguenti modi.\n· Per un certo periodo di tempo dopo aver innescato una reazione di Turbinio su un avversario tramite l'abilità elementale <color=#FFD780FF>Din-din-dan! Scampanio Scacciastreghe</color>, Prune può sferrare l'abilità elementale speciale <color=#FFD780FF>Don don! Castigo della strega!</color>. Usando quest'abilità speciale, il Martello Scacciamali viene convertito nell'altro tipo elementale coinvolto nella suddetta reazione di Turbinio.\n· Dopo aver sbloccato il talento d'ascensione \"Verdetto e punizione\", quando la Campana Ammaliastreghe in modalità Caccia innesca un Turbinio su un avversario, evoca un Martello Scacciamali sottoposto alla Conversione elementale corrispondente per attaccare l'avversario."
+  },
+  {
+    "Id": 11320002,
+    "Name": "Verdetto e punizione",
+    "Description": "Durante il Tripudio elementale <color=#FFD780FF>La campana rintocca! La caccia è aperta!</color>, dopo che la Campana Ammaliastreghe in modalità Caccia ha inflitto DAN a un avversario, se tali DAN innescano un Turbinio su un avversario, evoca anche un <color=#FFD780FF>Martello Scacciamali</color> che infligge DAN del tipo corrispondente alla Conversione elementale derivante dal Turbinio. Tali DAN sono considerati DAN da Tripudio elementale."
+  },
+  {
+    "Id": 11320003,
+    "Name": "Rintocchi sincronizzati",
+    "Description": "Dopo che Prune ha colpito un avversario con il <color=#FFD780FF>Martello Scacciamali</color> sottoposto a Conversione elementale, gli altri membri vicini del gruppo ottengono l'effetto Adunanza del rintocco, che aumenta i DAN da ATT in base all'ATT di Prune."
+  }
+]
