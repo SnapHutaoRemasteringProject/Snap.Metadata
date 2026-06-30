@@ -678,5 +678,15 @@
       "Count": 1
     },
     "Icon": "UI_AchievementIcon_A024"
+  },
+  {
+    "Id": 68,
+    "Order": 69,
+    "Name": "无束的残月",
+    "Icon": "UI_AchievementIcon_A025",
+    "FinishReward": {
+      "Id": 210285,
+      "Count": 1
+    }
   }
 ]

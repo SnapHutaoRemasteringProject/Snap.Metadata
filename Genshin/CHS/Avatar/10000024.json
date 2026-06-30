@@ -1,7 +1,7 @@
 {
   "Id": 10000024,
   "PromoteId": 24,
-  "Sort": 17,
+  "Sort": 24,
   "Body": 3,
   "Icon": "UI_AvatarIcon_Beidou",
   "SideIcon": "UI_AvatarIcon_Side_Beidou",
@@ -18,15 +18,15 @@
   "GrowCurves": [
     {
       "Type": 1,
-      "Value": 22
+      "Value": 20
     },
     {
       "Type": 4,
-      "Value": 32
+      "Value": 30
     },
     {
       "Type": 7,
-      "Value": 22
+      "Value": 20
     }
   ],
   "SkillDepot": {
@@ -36,12 +36,12 @@
         "GroupId": 2431,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:P}",
-            "二段伤害|{param2:P}",
-            "三段伤害|{param3:P}",
-            "四段伤害|{param4:P}",
+            "一段伤害|{param1:F1P}",
+            "二段伤害|{param2:F1P}",
+            "三段伤害|{param3:F1P}",
+            "四段伤害|{param4:F1P}",
             "五段伤害|{param5:P}",
-            "重击循环伤害|{param6:P}",
+            "重击循环伤害|{param6:F1P}",
             "重击终结伤害|{param7:P}",
             "重击体力消耗|每秒{param8:F1}点",
             "最大持续时间|{param9:F1}秒",
@@ -319,8 +319,7 @@
                 4.982145
               ]
             }
-          ],
-          "Display": 0
+          ]
         },
         "Id": 10241,
         "Name": "征涛",
@@ -502,8 +501,7 @@
                 7.5
               ]
             }
-          ],
-          "Display": 0
+          ]
         },
         "Id": 10242,
         "Name": "捉浪",
@@ -516,7 +514,7 @@
       "Proud": {
         "Descriptions": [
           "技能伤害|{param1:P}",
-          "闪雷伤害|{param2:P}",
+          "闪雷伤害|{param2:F1P}",
           "伤害减免|{param3:P}",
           "持续时间|{param4:F1}秒",
           "冷却时间|{param5:F1}秒",
@@ -703,8 +701,7 @@
               80
             ]
           }
-        ],
-        "Display": 0
+        ]
       },
       "Id": 10245,
       "Name": "斫雷",
@@ -762,13 +759,34 @@
               "Level": 1,
               "Parameters": []
             }
-          ],
-          "Display": 0
+          ]
         },
         "Id": 242301,
         "Name": "拥涛踏潮",
         "Description": "队伍中自己的角色游泳消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
         "Icon": "UI_Talent_Explosion_Swim"
+      },
+      {
+        "GroupId": 2424,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 242401,
+              "Level": 1,
+              "Parameters": [
+                4,
+                8,
+                15
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 242401,
+        "Name": "引路明星",
+        "Description": "长按施放元素战技<color=#FFD780FF>捉浪</color>时，即便不受到攻击，每0.8秒也会主动积攒一层力量，提高释放时造成的伤害。\n此外，长按施放<color=#FFD780FF>捉浪</color>命中敌人时，还会依据积攒的力量，获得额外的增益效果：每积攒一层力量，都会使其元素战技的冷却时间减少4秒，并为自身恢复8点元素能量，该效果每15秒至多触发一次。\n此外，处于{LINK#N11330003}<color=#FFD780FF>极星辉域</color>{/LINK}中时，北斗将会进入<color=#FFD780FF>辉映·星超导</color>状态。",
+        "Icon": "UI_Talent_S_Beidou_08"
       }
     ],
     "Talents": [
@@ -790,7 +808,7 @@
         "Description": "<color=#FFD780FF>捉浪</color>的技能等级提高3级。\n至多提升至15级。",
         "Icon": "UI_Talent_U_Beidou_01",
         "ExtraLevel": {
-          "Index": 2,
+          "Index": 9,
           "Level": 3
         }
       },
@@ -806,7 +824,7 @@
         "Description": "<color=#FFD780FF>斫雷</color>的技能等级提高3级。\n至多提升至15级。",
         "Icon": "UI_Talent_U_Beidou_02",
         "ExtraLevel": {
-          "Index": 9,
+          "Index": 2,
           "Level": 3
         }
       },
@@ -821,25 +839,24 @@
   "FetterInfo": {
     "Title": "无冕的龙王",
     "Detail": "武装船队「南十字」的首领，豪快的大姐头。",
-    "Association": 2,
+    "Association": 0,
     "Native": "南十字船队",
     "BirthMonth": 2,
     "BirthDay": 14,
     "VisionBefore": "雷",
-    "VisionOverrideUnlocked": "神之眼",
     "ConstellationBefore": "南天海山座",
     "CvChinese": "唐雅菁",
     "CvJapanese": "小清水亚美",
     "CvEnglish": "阿莱格拉·克拉克",
     "CvKorean": "郑柚美",
     "CookBonus": {
-      "OriginItemId": 108099,
+      "OriginItemId": 114514,
       "ItemId": 108138,
-      "InputList": [
-        100061,
-        100027
-      ]
+      "InputList": []
     },
+    "VisionAfter": "雷",
+    "VisionOverrideUnlocked": "神之眼",
+    "ConstellationAfter": "南天海山座",
     "Fetters": [
       {
         "Title": "初次见面…",
@@ -994,18 +1011,6 @@
         "Context": "我不太喜欢吃凉菜冷盘。有这慢悠悠开胃的功夫，鱼都能烤熟几条了。"
       },
       {
-        "Title": "收到赠礼·其一",
-        "Context": "好味道，我喜欢！有米饭吗，帮忙添两碗？"
-      },
-      {
-        "Title": "收到赠礼·其二",
-        "Context": "你的手艺真不错，让人心情也变得不一样了。"
-      },
-      {
-        "Title": "收到赠礼·其三",
-        "Context": "菜是好菜，这就够了。"
-      },
-      {
         "Title": "生日…",
         "Context": "来，上船。我早就跟兄弟们约好把时间腾出来了，吃的喝的也都准备好了。今天你生日，让你做一天老大。哈！嗯，想去哪？"
       },
@@ -1124,6 +1129,18 @@
       {
         "Title": "加入队伍·其三",
         "Context": "我相信你。"
+      },
+      {
+        "Title": "收到赠礼·其一",
+        "Context": "好味道，我喜欢！有米饭吗，帮忙添两碗？"
+      },
+      {
+        "Title": "收到赠礼·其二",
+        "Context": "你的手艺真不错，让人心情也变得不一样了。"
+      },
+      {
+        "Title": "收到赠礼·其三",
+        "Context": "菜是好菜，这就够了。"
       }
     ],
     "FetterStories": [
