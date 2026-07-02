@@ -4851,11 +4851,6 @@
         "Value": 2301
       }
     ],
-    "CultivationItems": [
-      114084,
-      112145,
-      112127
-    ],
     "Affix": {
       "Name": "白女皇的升变",
       "Descriptions": [
@@ -4880,7 +4875,12 @@
           "Description": "攻击力提升<color=#99FFFFFF>56%</color>。\n此外，装备者的重击每次命中敌人后，都会短暂达成「超越」：使装备者的星超导反应伤害提升<color=#99FFFFFF>32%</color>，持续5秒。该效果至多叠加3层，每0.2秒至多叠加一层。"
         }
       ]
-    }
+    },
+    "CultivationItems": [
+      114084,
+      112145,
+      112127
+    ]
   },
   {
     "Id": 13101,
@@ -11897,7 +11897,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 0,
+    "Sort": 5512,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "星鹫赤羽",
@@ -11950,7 +11950,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 0,
+    "Sort": 5513,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "黎明破晓之史",
@@ -12003,7 +12003,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 0,
+    "Sort": 5514,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "霜结的誓金枝",

@@ -1,8 +1,8 @@
 {
   "Id": 10000133,
   "PromoteId": 133,
-  "Sort": 133,
-  "Body": 3,
+  "Sort": 118,
+  "Body": 2,
   "Icon": "UI_AvatarIcon_MarionetteNew",
   "SideIcon": "UI_AvatarIcon_Side_MarionetteNew",
   "Name": "桑多涅",
@@ -287,7 +287,8 @@
                 4.982145
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11331,
         "Name": "事象数式·自明演绎",
@@ -438,7 +439,8 @@
                 4
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11332,
         "Name": "事象数式·游衍解析",
@@ -622,7 +624,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11335,
       "Name": "事象数式·万理证毕",
@@ -685,7 +688,8 @@
                 0.14
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1332301,
         "Name": "星耀祝礼·唯理为光",
@@ -702,7 +706,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1332501,
         "Name": "茶会的序曲与长长的故事",
@@ -729,7 +734,7 @@
         "Description": "普通攻击{LINK#S11331}<color=#FFD780FF>事象数式·自明演绎</color>{/LINK}的技能等级提高3级。\n至多提升至15级。",
         "Icon": "UI_Talent_U_MarionetteNew_01",
         "ExtraLevel": {
-          "Index": 9,
+          "Index": 1,
           "Level": 3
         }
       },
@@ -745,7 +750,7 @@
         "Description": "元素爆发{LINK#S11335}<color=#FFD780FF>事象数式·万理证毕</color>{/LINK}的技能等级提高3级。\n至多提升至15级。",
         "Icon": "UI_Talent_U_MarionetteNew_02",
         "ExtraLevel": {
-          "Index": 2,
+          "Index": 9,
           "Level": 3
         }
       },
@@ -760,23 +765,28 @@
   "FetterInfo": {
     "Title": "镜水析谬",
     "Detail": "愚人众执行官第七席，「木偶」。以数理解析事象之人，茶会上永不缺席的优雅淑女。",
-    "Association": 0,
+    "Association": 15,
     "Native": "愚人众",
     "BirthMonth": 1,
     "BirthDay": 13,
     "VisionBefore": "冰",
+    "VisionOverrideLocked": "星之楔",
+    "VisionOverrideUnlocked": "神之眼",
     "ConstellationBefore": "镜中奇械座",
     "CvChinese": "洪海天",
     "CvJapanese": "本多真梨子",
     "CvEnglish": "迪宁·麦乐迪",
     "CvKorean": "姜恩爱",
     "CookBonus": {
-      "OriginItemId": 114514,
+      "OriginItemId": 108534,
       "ItemId": 108976,
-      "InputList": []
+      "InputList": [
+        101231,
+        101230,
+        110008,
+        100062
+      ]
     },
-    "VisionOverrideLocked": "星之楔",
-    "VisionOverrideUnlocked": "星之楔",
     "Fetters": [
       {
         "Title": "初次见面…",
@@ -1135,7 +1145,7 @@
       "Id": 213300,
       "Name": "发条与淑女与圆舞曲",
       "Description": "桑多涅的装扮款式。获得了新生的她，觉得也是时候为自己做一套新衣服了，全新的人生值得一条全新的裙子。而这其中少不了的，自然是属于淑女的优雅、华丽、大气…还有就是祈祷它不要在战斗中破损，不要溅上咖啡和茶渍吧。",
-      "IsDefault": true
+      "IsDefault": false
     }
   ],
   "CultivationItems": [

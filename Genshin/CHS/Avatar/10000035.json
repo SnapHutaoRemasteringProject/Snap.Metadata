@@ -1,8 +1,8 @@
 {
   "Id": 10000035,
   "PromoteId": 35,
-  "Sort": 35,
-  "Body": 3,
+  "Sort": 7,
+  "Body": 5,
   "Icon": "UI_AvatarIcon_Qiqi",
   "SideIcon": "UI_AvatarIcon_Side_Qiqi",
   "Name": "七七",
@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}",
+            "一段伤害|{param1:P}",
+            "二段伤害|{param2:P}",
             "三段伤害|{param3:F1P}+{param3:F1P}",
             "四段伤害|{param4:F1P}+{param4:F1P}",
-            "五段伤害|{param5:F1P}",
-            "重击伤害|{param6:F1P}+{param6:F1P}",
+            "五段伤害|{param5:P}",
+            "重击伤害|{param6:P}+{param6:P}",
             "重击体力消耗|{param7:F1}点",
             "下坠期间伤害|{param8:F1P}",
             "低空/高空坠地冲击伤害|{param9:P}/{param10:P}"
@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10351,
         "Name": "云来古剑法",
@@ -564,7 +565,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10352,
         "Name": "仙法·寒病鬼差",
@@ -572,12 +574,35 @@
         "Icon": "Skill_S_Qiqi_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3551,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 355101,
+              "Level": 1,
+              "Parameters": [
+                15,
+                0.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 355101,
+        "Name": "七宝奉真",
+        "Description": "元素战技<color=#FFD780FF>仙法·寒病鬼差</color>的冷却时间缩短至15秒。\n<color=#FFD780FF>辉映·星超导</color>：寒病鬼差持续期间，队伍中自己的角色造成的超导、星超导反应伤害提升50%。\n此外，处于{LINK#N11330003}<color=#FFD780FF>极星辉域</color>{/LINK}中时，七七将会进入<color=#FFD780FF>辉映·星超导</color>状态。",
+        "Icon": "UI_Talent_S_Qiqi_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3539,
       "Proud": {
         "Descriptions": [
           "技能伤害|{param3:P}",
-          "治疗量|{param1:F1P}攻击力+{param2:I}",
+          "治疗量|{param1:P}攻击力+{param2:I}",
           "持续时间|{param4:F1}秒",
           "冷却时间|{param5:F1}秒",
           "元素能量|{param6:I}",
@@ -779,7 +804,8 @@
               7.061673
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10353,
       "Name": "仙法·救苦度厄",
@@ -836,33 +862,13 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 352301,
         "Name": "前尘旧忆",
         "Description": "在小地图上显示周围的<color=#FFD780FF>璃月区域特产</color>的位置。",
         "Icon": "UI_Talent_Collect_Local_Liyue"
-      },
-      {
-        "GroupId": 3551,
-        "Proud": {
-          "Descriptions": [],
-          "Parameters": [
-            {
-              "Id": 355101,
-              "Level": 1,
-              "Parameters": [
-                15,
-                0.5
-              ]
-            }
-          ],
-          "Display": 1
-        },
-        "Id": 355101,
-        "Name": "七宝奉真",
-        "Description": "元素战技<color=#FFD780FF>仙法·寒病鬼差</color>的冷却时间缩短至15秒。\n<color=#FFD780FF>辉映·星超导</color>：寒病鬼差持续期间，队伍中自己的角色造成的超导、星超导反应伤害提升50%。\n此外，处于{LINK#N11330003}<color=#FFD780FF>极星辉域</color>{/LINK}中时，七七将会进入<color=#FFD780FF>辉映·星超导</color>状态。",
-        "Icon": "UI_Talent_S_Qiqi_08"
       }
     ],
     "Talents": [
@@ -915,24 +921,27 @@
   "FetterInfo": {
     "Title": "冻冻回魂夜",
     "Detail": "药庐「不卜庐」的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。",
-    "Association": 0,
+    "Association": 2,
     "Native": "不卜庐",
     "BirthMonth": 3,
     "BirthDay": 3,
     "VisionBefore": "冰",
+    "VisionOverrideUnlocked": "神之眼",
     "ConstellationBefore": "三清铃座",
     "CvChinese": "宴宁",
     "CvJapanese": "田村由加莉",
     "CvEnglish": "克莉斯蒂·凯特",
     "CvKorean": "李露",
     "CookBonus": {
-      "OriginItemId": 114514,
+      "OriginItemId": 108132,
       "ItemId": 108140,
-      "InputList": []
+      "InputList": [
+        100061,
+        100084,
+        100092,
+        100088
+      ]
     },
-    "VisionAfter": "冰",
-    "VisionOverrideUnlocked": "神之眼",
-    "ConstellationAfter": "三清铃座",
     "Fetters": [
       {
         "Title": "初次见面…",
@@ -1039,6 +1048,10 @@
         "Context": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？"
       },
       {
+        "Title": "关于布伦妮…",
+        "Context": "外表硬硬的女孩…但手心很软。喜欢。"
+      },
+      {
         "Title": "想要了解七七·其一",
         "Context": "有什么事吗？"
       },
@@ -1073,6 +1086,18 @@
       {
         "Title": "讨厌的食物…",
         "Context": "对不起，我不知道…"
+      },
+      {
+        "Title": "收到赠礼·其一",
+        "Context": "凉凉的，很喜欢。虽然没有味道…"
+      },
+      {
+        "Title": "收到赠礼·其二",
+        "Context": "唔…"
+      },
+      {
+        "Title": "收到赠礼·其三",
+        "Context": "有点烫…"
       },
       {
         "Title": "生日…",
@@ -1197,22 +1222,6 @@
       {
         "Title": "加入队伍·其三",
         "Context": "我带着…笔记。"
-      },
-      {
-        "Title": "收到赠礼·其一",
-        "Context": "凉凉的，很喜欢。虽然没有味道…"
-      },
-      {
-        "Title": "收到赠礼·其二",
-        "Context": "唔…"
-      },
-      {
-        "Title": "收到赠礼·其三",
-        "Context": "有点烫…"
-      },
-      {
-        "Title": "关于布伦妮…",
-        "Context": "外表硬硬的女孩…但手心很软。喜欢。"
       }
     ],
     "FetterStories": [
@@ -1271,5 +1280,11 @@
     "Description": "名片纹饰。\n有什么需要冷藏？白先生的药材、椰奶…还有胡桃。",
     "Icon": "UI_NameCardIcon_Qiqi",
     "PicturePrefix": "UI_NameCardPic_Qiqi"
+  },
+  "TraceEffect": {
+    "Id": 215002,
+    "Name": "游迹·冻冻回魂夜",
+    "Description": "七七的绘想游迹。寒病鬼差的同伴们时常前来拜访，随七七一同练习柔软体操。",
+    "Icon": "UI_TraceEffectIcon_Qiqi"
   }
 }

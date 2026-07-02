@@ -1300,26 +1300,8 @@
   },
   {
     "Id": 1132,
-    "Index": 9,
-    "LevelGroupId": 132,
-    "Background": "UI_TowerPic_4",
-    "Descriptions": [
-      "角色的月曜反应造成的伤害提升50%。"
-    ]
-  },
-  {
-    "Id": 1133,
-    "Index": 10,
-    "LevelGroupId": 133,
-    "Background": "UI_TowerPic_4",
-    "Descriptions": [
-      "角色的月曜反应造成的伤害提升50%。"
-    ]
-  },
-  {
-    "Id": 1134,
     "Index": 11,
-    "LevelGroupId": 134,
+    "LevelGroupId": 132,
     "Background": "UI_TowerPic_4",
     "Descriptions": [
       "队伍中所有角色获得60%冰元素伤害加成。",
@@ -1327,9 +1309,9 @@
     ]
   },
   {
-    "Id": 1135,
+    "Id": 1133,
     "Index": 12,
-    "LevelGroupId": 135,
+    "LevelGroupId": 133,
     "Background": "UI_TowerPic_5",
     "Descriptions": [],
     "FirstDescriptions": [

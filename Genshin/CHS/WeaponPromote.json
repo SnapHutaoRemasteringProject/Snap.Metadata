@@ -17810,6 +17810,7 @@
     ]
   },
   {
+    "Id": 12516,
     "Level": 0,
     "AddProperties": [
       {
@@ -17832,15 +17833,15 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
   },
   {
+    "Id": 12516,
     "Level": 1,
     "AddProperties": [
       {
         "Type": 4,
-        "Value": 25.9
+        "Value": 31.1
       },
       {
         "Type": 20,
@@ -17858,15 +17859,15 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
   },
   {
+    "Id": 12516,
     "Level": 2,
     "AddProperties": [
       {
         "Type": 4,
-        "Value": 51.9
+        "Value": 62.2
       },
       {
         "Type": 20,
@@ -17884,15 +17885,15 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
   },
   {
+    "Id": 12516,
     "Level": 3,
     "AddProperties": [
       {
         "Type": 4,
-        "Value": 77.8
+        "Value": 93.4
       },
       {
         "Type": 20,
@@ -17910,15 +17911,15 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
   },
   {
+    "Id": 12516,
     "Level": 4,
     "AddProperties": [
       {
         "Type": 4,
-        "Value": 103.7
+        "Value": 124.5
       },
       {
         "Type": 20,
@@ -17936,37 +17937,11 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
   },
   {
+    "Id": 12516,
     "Level": 5,
-    "AddProperties": [
-      {
-        "Type": 4,
-        "Value": 129.7
-      },
-      {
-        "Type": 20,
-        "Value": 0
-      },
-      {
-        "Type": 22,
-        "Value": 0
-      },
-      {
-        "Type": 23,
-        "Value": 0
-      },
-      {
-        "Type": 28,
-        "Value": 0
-      }
-    ],
-    "Id": 12516
-  },
-  {
-    "Level": 6,
     "AddProperties": [
       {
         "Type": 4,
@@ -17988,8 +17963,33 @@
         "Type": 28,
         "Value": 0
       }
-    ],
-    "Id": 12516
+    ]
+  },
+  {
+    "Id": 12516,
+    "Level": 6,
+    "AddProperties": [
+      {
+        "Type": 4,
+        "Value": 186.7
+      },
+      {
+        "Type": 20,
+        "Value": 0
+      },
+      {
+        "Type": 22,
+        "Value": 0
+      },
+      {
+        "Type": 23,
+        "Value": 0
+      },
+      {
+        "Type": 28,
+        "Value": 0
+      }
+    ]
   },
   {
     "Id": 13101,
