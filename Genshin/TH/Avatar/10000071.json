@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Secret Rite: Chasmic Soulfarer",
         "Description": "พุ่งไปข้างหน้าอย่างรวดเร็ว เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่ในเส้นทางการโจมตี\n\nเมื่อ Cyno อยู่ภายใต้สภาวะ Pactsworn Pathclearer ของท่าไม้ตาย \"Sacred Rite: Wolf's Swiftness\" จะเปลี่ยนเป็นใช้ <color=#FFD780FF>Mortuary Rite</color> เพื่อปลดปล่อยพลังของสายฟ้าแทน โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> และทำให้ช่วงเวลาคงอยู่ของ Pactsworn Pathclearer ยาวนานขึ้น\n\n<i>\"การพิพากษาในครั้งนี้ คุณไม่มีสิทธิ์เลือกที่จะยอมรับหรือปฏิเสธ คุณกับฉัน... ต่างก็เป็นส่วนหนึ่งของมันตั้งนานแล้ว\"</i>",
+        "UnlockedDescription": "พุ่งไปข้างหน้าอย่างรวดเร็ว เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่ในเส้นทางการโจมตี\n\nเมื่อ Cyno อยู่ภายใต้สถานะ Pactsworn Pathclearer จะเปลี่ยนเป็นใช้ <color=#FFD780FF>Mortuary Rite</color> เพื่อปลดปล่อยพลังของสายฟ้าแทน โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> หาก Cyno เข้าสู่สถานะ Pactsworn Pathclearer ด้วยการปล่อยท่าไม้ตาย <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> เมื่อปล่อย <color=#FFD780FF>Mortuary Rite</color> จะขยายช่วงเวลาต่อเนื่องของสถานะ Pactsworn Pathclearer ครั้งนี้ให้นานขึ้นอีก\n\n<i>\"การพิพากษาในครั้งนี้ คุณไม่มีสิทธิ์เลือกที่จะยอมรับหรือปฏิเสธ คุณกับฉัน... ต่างก็เป็นส่วนหนึ่งของมันตั้งนานแล้ว\"</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],

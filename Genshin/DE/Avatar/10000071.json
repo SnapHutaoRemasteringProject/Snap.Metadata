@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Geheimer Ritus – Abgründiger Seelenwanderer",
         "Description": "Führt blitzschnell einen Stoß aus, der den Gegnern in der Bahn <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\n\nWenn Cyno sich im Modus „Paktverschworener Pfadklärer“ befindet, den die Spezialfähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ ausgelöst hat, führt er stattdessen den <color=#FFD780FF>Bestattungsritus</color> aus, der donnernd <color=#FFACFFFF>Elektro-Flächenschaden</color> verursacht und die Dauer des Modus „Paktverschworener Pfadklärer“ verlängert.\n\n<i>„Dieser Prozess lässt keinen Einspruch zu. Wir alle ... sind schon lange darin gefangen.“</i>",
+        "UnlockedDescription": "Führt blitzschnell einen Stoß aus, der den Gegnern in der Bahn <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\n\nWenn Cyno sich im Modus „Paktverschworener Pfadklärer“ befindet, führt er stattdessen den <color=#FFD780FF>Bestattungsritus</color> aus, der donnernd <color=#FFACFFFF>Elektro-Flächenschaden</color> verursacht. Verlängert, wenn Cyno durch die Spezialfähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color> in den Modus „Paktverschworener Pfadklärer“ eintritt, beim Anwenden von <color=#FFD780FF>Bestattungsritus</color> zudem die Dauer des aktuellen Modus „Paktverschworener Pfadklärer“.\n\n<i>„Dieser Prozess lässt keinen Einspruch zu. Wir alle ... sind schon lange darin gefangen.“</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],

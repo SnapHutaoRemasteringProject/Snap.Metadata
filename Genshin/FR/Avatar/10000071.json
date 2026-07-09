@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Rite : Traversée abyssale",
         "Description": "Effectue un assaut rapide, infligeant des <color=#FFACFFFF>DGT Électro</color> aux ennemis en chemin.\n\nLorsque Cyno est sous l'effet d'éclaireur sermenté de son déchaînement élémentaire « Liturgie : Rapidité lupine », il déclenche à la place un <color=#FFD780FF>rite mortuaire</color> qui inflige de tonitruants <color=#FFACFFFF>DGT Électro de zone</color> et prolonge la durée d'éclaireur sermenté.\n\n<i>« Ce jugement ne tolère aucun choix. Il n'y a ici ni rejet ni acceptation... Nous sommes tous deux liés depuis longtemps à cette conviction. »</i>",
+        "UnlockedDescription": "Effectue un assaut rapide, infligeant des <color=#FFACFFFF>DGT Électro</color> aux ennemis en chemin.\n\nLorsque Cyno est sous l'effet d'éclaireur sermenté, il déclenche à la place un <color=#FFD780FF>rite mortuaire</color> qui inflige de tonitruants <color=#FFACFFFF>DGT Électro de zone</color>. Si Cyno passe en éclaireur sermenté grâce à son déchaînement élémentaire <color=#FFD780FF>Liturgie : Rapidité lupine</color>, déclencher un <color=#FFD780FF>rite mortuaire</color> prolonge également la durée cette instance d'éclaireur sermenté.\n\n<i>« Ce jugement ne tolère aucun choix. Il n'y a ici ni rejet ni acceptation... Nous sommes tous deux liés depuis longtemps à cette conviction. »</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],

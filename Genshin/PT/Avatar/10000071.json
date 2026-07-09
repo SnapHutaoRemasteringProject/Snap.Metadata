@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Ritual Secreto: Travessia Abissal",
         "Description": "Avança rapidamente, infligindo <color=#FFACFFFF>Dano Electro</color> contra os inimigos no caminho.\n\nQuando Cyno está sob o estado \"Juramento Desbravador\" de seu Supremo \"Ritual Sagrado: Agilidade Lupina\", lançará <color=#FFD780FF>Ritual Mortuário</color>, usando o poder dos raios para infligir <color=#FFACFFFF>Dano Electro em AdE</color> e prolongar a duração de \"Juramento Desbravador\".\n\n<i>\"Esse julgamento não possui escolha. Não há rejeição ou aceitação... Pois já fomos julgados há muito tempo.\"</i>",
+        "UnlockedDescription": "Avança rapidamente, infligindo <color=#FFACFFFF>Dano Electro</color> contra os inimigos no caminho.\n\nQuando Cyno está sob o estado Juramento Desbravador, lançará <color=#FFD780FF>Ritual Mortuário</color>, usando o poder dos raios para infligir <color=#FFACFFFF>Dano Electro em uma AdE</color>. Se Cyno entrar no estado Juramento Desbravador ao lançar o Supremo <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, ao lançar <color=#FFD780FF>Ritual Mortuário</color>, prolongará a duração do estado Juramento Desbravador atual.\n\n<i>\"Esse julgamento não possui escolha. Não há rejeição ou aceitação... Pois já fomos julgados há muito tempo.\"</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],

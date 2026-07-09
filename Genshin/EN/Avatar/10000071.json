@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Secret Rite: Chasmic Soulfarer",
         "Description": "Performs a swift thrust, dealing <color=#FFACFFFF>Electro DMG</color> to opponents along the path.\n\nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a <color=#FFD780FF>Mortuary Rite</color> that deals thunderous <color=#FFACFFFF>AoE Electro DMG</color> and extends the duration of Pactsworn Pathclearer.\n\n<i>\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"</i>",
+        "UnlockedDescription": "Performs a swift thrust, dealing <color=#FFACFFFF>Electro DMG</color> to opponents along the way.\n\nWhen Cyno is in the Pactsworn Pathclearer state, he will instead unleash a <color=#FFD780FF>Mortuary Rite</color> that deals thunderous <color=#FFACFFFF>AoE Electro DMG</color>. If Cyno enters the Pactsworn Pathclearer through the Elemental Burst <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, unleashing <color=#FFD780FF>Mortuary Rite</color> will also extend the duration of the current instance of Pactsworn Pathclearer.\n\n<i>\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],

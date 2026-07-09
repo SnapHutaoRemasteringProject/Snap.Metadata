@@ -476,6 +476,7 @@
         "Id": 10712,
         "Name": "Rito arcano: Guida delle anime del baratro",
         "Description": "Esegue un affondo rapido, infliggendo <color=#FFACFFFF>DAN da Electro</color> ai nemici lungo il percorso.\n\nQuando Cyno si trova nello stato di Precorritore giurato innescato da Rito sacro: Destrezza del lupo, scatena un <color=#FFD780FF>Rito funebre</color> che infligge fragorosi <color=#FFACFFFF>DAN da Electro ad area</color> ed estende la durata di Precorritore giurato.\n\n<i>\"Questo giudizio non ammette opzioni. In questo luogo non esiste né ripudio né accettazione... È una condanna che da lungo tempo pesa su entrambi.\"</i>",
+        "UnlockedDescription": "Esegue un affondo rapido, infliggendo <color=#FFACFFFF>DAN da Electro</color> ai nemici lungo il percorso.\n\nQuando Cyno si trova nello stato di Precorritore giurato scatena un <color=#FFD780FF>Rito funebre</color> che infligge fragorosi <color=#FFACFFFF>DAN da Electro ad area</color>. Se Cyno entra nello stato di Precorritore giurato tramite il Tripudio elementale <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, scatenare <color=#FFD780FF>Rito funebre</color> estende la durata dell'iterazione attuale di Precorritore giurato.\n\n<i>\"Questo giudizio non ammette opzioni. In questo luogo non esiste né ripudio né accettazione... È una condanna che da lungo tempo pesa su entrambi.\"</i>",
         "Icon": "Skill_S_Cyno_01"
       }
     ],
