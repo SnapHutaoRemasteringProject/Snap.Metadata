@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Ascetismo de la escarcha",
         "Description": "Qiqi regenera 2 pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.",
+        "UnlockedDescription": "#Qiqi recupera 2{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nQiqi también recupera 6{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo con un ataque o con un ataque coordinado. Este efecto solo se puede activar una vez cada 6{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Frío polar",
         "Description": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra enemigos afectados por <color=#99FFFFFF>Cryo</color>.",
+        "UnlockedDescription": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra los enemigos afectados por <color=#99FFFFFF>Cryo</color>.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nEl ATQ de Qiqi aumenta en un 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Supresión divina",
         "Description": "Reduce en un 20% el ATQ de los objetivos marcados por el talismán de conservación de la fortuna.",
+        "UnlockedDescription": "Reduce en un 20% el ATQ de los objetivos marcados por el talismán de conservación de la fortuna.\nAdemás, al activarse el efecto de curación del talismán de conservación de la fortuna, se restaurará Vida una vez adicional al personaje cercano con el porcentaje de Vida más bajo en una cantidad equivalente al 180% del ATQ de Qiqi.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Rito de la resurrección",
         "Description": "Al lanzar la habilidad <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nSolo puede ocurrir una vez cada 15 min.",
+        "UnlockedDescription": "#Al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nEste efecto solo se puede activar una vez cada 15{NON_BREAK_SPACE}min.\nAdemás, tras usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, Qiqi obtendrá 4 cargas de <color=#FFD780FF>misticismo</color>. Cuando tu personaje en uso del equipo (a excepción de Qiqi) inflija daño de Superconductor Estelar, consumirá 1 carga de <color=#FFD780FF>misticismo</color> para aumentar el daño infligido en una cantidad equivalente al 600% del ATQ de Qiqi. Como máximo, el efecto de <color=#FFD780FF>misticismo</color> puede durar hasta 12{NON_BREAK_SPACE}s y las cargas se reiniciarán al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

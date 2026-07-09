@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Ascetics of Frost",
         "Description": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.",
+        "UnlockedDescription": "Qiqi regenerates 2 Energy when the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman.\n<color=#FFD780FF>Radiance: Stellar-Conduct</color>: Qiqi also regenerates 6 Elemental Energy when the Herald of Frost's attacks and coordinated attacks hit opponents. This effect can trigger once every 6s.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Frozen to the Bone",
         "Description": "Qiqi's Normal and Charged Attack DMG against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.",
+        "UnlockedDescription": "Qiqi's Normal and Charged Attack DMG against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.\n<color=#FFD780FF>Radiance: Stellar-Conduct</color>: Qiqi's ATK is increased by 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Divine Suppression",
         "Description": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.",
+        "UnlockedDescription": "Targets marked by a Fortune-Preserving Talisman have their ATK reduced by 20%.\nAdditionally, when the healing effect of Fortune-Preserving Talisman triggers, the nearby party member with the lowest HP percentage remaining will also receive an additional instance of healing for 180% of Qiqi's ATK.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Rite of Resurrection",
         "Description": "Using <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins.",
+        "UnlockedDescription": "Using <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins.\nAdditionally, after using <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color>, Qiqi will also gain 4 stacks of <color=#FFD780FF>Glimpse of Mystery</color>, and when your current active character (other than Qiqi) deals Stellar-Conduct DMG, 1 stack of <color=#FFD780FF>Glimpse of Mystery</color> is consumed, and DMG dealt is increased by 600% of Qiqi's ATK. The <color=#FFD780FF>Glimpse of Mystery</color> effect lasts up to 12s, and unleashing <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> refreshes the stack count.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

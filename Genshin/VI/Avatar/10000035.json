@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Trở Lại Nghèo Khổ",
         "Description": "Khi Hàn Bệnh Quỷ Sai đánh trúng kẻ địch đang bị Bùa Độ Ách Chân đánh dấu, sẽ hồi 2 điểm năng lượng nguyên tố cho Qiqi.",
+        "UnlockedDescription": "Khi Hàn Bệnh Quỷ Sai đánh trúng kẻ địch đang bị Bùa Độ Ách Chân đánh dấu, sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố cho Qiqi.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Khi đòn tấn công và đòn đánh phối hợp của Hàn Bệnh Quỷ Sai đánh trúng kẻ địch, sẽ còn hồi phục 6 điểm Năng Lượng Nguyên Tố cho Qiqi. Hiệu quả này mỗi 6s tối đa kích hoạt một lần.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Giá Rét Thấu Xương",
         "Description": "Đối với địch bị ảnh hưởng bởi <color=#99FFFFFF>Nguyên Tố Băng</color>, sát thương tấn công thường và trọng kích mà Qiqi gây ra tăng 15%.",
+        "UnlockedDescription": "Đối với kẻ địch bị ảnh hưởng bởi <color=#99FFFFFF>Nguyên Tố Băng</color>, sát thương Tấn Công Thường và Trọng Kích mà Qiqi gây ra tăng 15%.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Tấn Công của Qiqi tăng 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Thiên Uy Áp Chúng",
         "Description": "Mục tiêu bị Bùa Độ Ách Chân đánh dấu, lực tấn công giảm 20%.",
+        "UnlockedDescription": "Mục tiêu bị Bùa Độ Ách Chân đánh dấu sẽ giảm 20% Tấn Công.\nNgoài ra, khi kích hoạt hiệu quả trị liệu của Bùa Độ Ách Chân, sẽ còn hồi phục thêm một lần cho nhân vật có tỷ lệ HP thấp nhất ở gần, lượng hồi phục tương đương 180% Tấn Công của Qiqi.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Khởi Tử Hồi Sinh",
         "Description": "Khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> hồi sinh và phục hồi 50% HP cho tất cả các nhân vật trong đội ngã xuống.\nHiệu quả này mỗi 15 phút chỉ thi triển 1 lần.",
+        "UnlockedDescription": "Khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color>, hồi sinh và phục hồi 50% HP cho tất cả các nhân vật trong đội ngã xuống.\nHiệu quả này mỗi 15 phút chỉ kích hoạt 1 lần.\nNgoài ra, sau khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color>, Qiqi sẽ còn nhận được 4 tầng <color=#FFD780FF>Động Huyền</color>: Ngoại trừ Qiqi, khi nhân vật ra trận hiện tại trong đội bản thân gây sát thương phản ứng Tinh-Siêu Dẫn, sẽ tiêu hao 1 tầng <color=#FFD780FF>Động Huyền</color> để tăng sát thương gây ra tương đương 600% Tấn Công của Qiqi. <color=#FFD780FF>Động Huyền</color> tối đa duy trì 12s, khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> sẽ làm mới số tầng.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

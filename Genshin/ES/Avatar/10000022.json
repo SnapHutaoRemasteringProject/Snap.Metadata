@@ -770,12 +770,14 @@
         "Id": 221,
         "Name": "Vendaval feroz",
         "Description": "Dispara 2 flechas adicionales por cada <color=#FFD780FF>Disparo Preciso</color>. Cada una inflige un 33% del daño de la flecha original.",
+        "UnlockedDescription": "#Dispara 2 flechas adicionales por cada <color=#FFD780FF>Disparo Preciso</color>. Cada una inflige un 33% del daño de la flecha original.\nAdemás, por cada <color=#FFD780FF>flecha huracanada</color> también se disparan dos flechas adicionales que persiguen a los enemigos y que infligen cada una un 20% del daño original. Este efecto solo puede activarse una vez cada 0.25{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Venti_01"
       },
       {
         "Id": 222,
         "Name": "Brisa de reminiscencia",
         "Description": "<color=#FFD780FF>Sonata celestial</color> reduce la <color=#80FFD7FF>RES Anemo</color> y la RES Física del enemigo en un 12% durante 10 s.\nLos enemigos lanzados al aire por <color=#FFD780FF>Sonata celestial</color> sufren una reducción adicional del 12% de <color=#80FFD7FF>RES Anemo</color> y de RES física.",
+        "UnlockedDescription": "#<color=#FFD780FF>Sonata celestial</color> reduce la <color=#80FFD7FF>RES Anemo</color> y la RES Física de los enemigos en un 24% durante 10{NON_BREAK_SPACE}s.\n\nAdemás, tras usar la Habilidad Definitiva, <color=#FFD780FF>Gran Oda del Viento</color>, Venti obtiene el efecto de <color=#FFD780FF>cuando sopla el viento</color> y se reinicia el TdE de la Habilidad Elemental, <color=#FFD780FF>Sonata celestial</color>. Tras golpear a un enemigo con una <color=#FFD780FF>flecha huracanada</color>, hay un 25% de probabilidad de que Venti obtenga el efecto de <color=#FFD780FF>cuando sopla el viento</color>.\n\n<color=#FFD780FF>Cuando sopla el viento</color>\nAl usar la Habilidad Elemental, <color=#FFD780FF>Sonata celestial</color>, {LAYOUT_MOBILE#tocando una vez}{LAYOUT_PC#pulsando una vez}{LAYOUT_PS#pulsando una vez}, esta inflige un 300% de su daño original. Este efecto dura 15{NON_BREAK_SPACE}s y se anula después de que Venti use dicha habilidad {LAYOUT_MOBILE#tocando una vez}{LAYOUT_PC#pulsando una vez}{LAYOUT_PS#pulsando una vez}.",
         "Icon": "UI_Talent_S_Venti_02"
       },
       {
@@ -792,6 +794,7 @@
         "Id": 224,
         "Name": "Huracán de la libertad",
         "Description": "Venti obtiene un 25% de <color=#80FFD7FF>Bono de Daño Anemo</color> durante 10 s tras recoger un orbe o una partícula elemental.",
+        "UnlockedDescription": "#Después de que Venti use su Habilidad Elemental, <color=#FFD780FF>Sonata celestial</color>, o su Habilidad Definitiva, <color=#FFD780FF>Gran Oda del Viento</color>, tanto él como tu personaje en uso del equipo obtienen un 25% de <color=#80FFD7FF>Bono de Daño Anemo</color> durante 10{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Venti_03"
       },
       {
@@ -808,6 +811,7 @@
         "Id": 226,
         "Name": "Tormenta de la rebelión",
         "Description": "La RES Anemo de los enemigos se reduce en un 20% cuando reciben daño de <color=#FFD780FF>Gran Oda del Viento</color>.\nSi ocurre un cambio elemental durante <color=#80FFD7FF>Gran Oda del Viento</color>, su RES Elemental al nuevo elemento se reducirá en un 20%.",
+        "UnlockedDescription": "La <color=#80FFD7FF>RES Anemo</color> de los enemigos se reduce en un 20% cuando reciben daño de <color=#FFD780FF>Gran Oda del Viento</color>.\nSi ocurre un cambio elemental, su RES Elemental al nuevo elemento se reducirá en un 20%.\nAdemás, otorga un bono de Daño CRIT del 100% al daño que inflige Venti a esos enemigos.",
         "Icon": "UI_Talent_S_Venti_04"
       }
     ]

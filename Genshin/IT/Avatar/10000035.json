@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Ascetismo del gelo",
         "Description": "Quando il Messaggero del gelo colpisce un avversario marchiato da un Talismano proteggi fortuna, l'energia di Qiqi si rigenera di 2.",
+        "UnlockedDescription": "#Quando il Messaggero del gelo colpisce un avversario marchiato da un Talismano proteggi fortuna, l'energia di Qiqi si rigenera di 2.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, l'energia elementale di Qiqi si rigenera di 6 quando gli attacchi e gli attacchi coordinati del Messaggero del gelo colpiscono gli avversari. Quest'effetto può attivarsi una volta ogni 6{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Freddo penetrante",
         "Description": "I DAN degli attacchi normali e caricati di Qiqi contro gli avversari sotto l'effetto di <color=#99FFFFFF>Cryo</color> aumentano di un 15%.",
+        "UnlockedDescription": "I DAN degli attacchi normali e caricati di Qiqi contro gli avversari sotto l'effetto di <color=#99FFFFFF>Cryo</color> aumentano di un 15%.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, l'ATT di Qiqi aumenta di un 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Soppressione divina",
         "Description": "L'ATT dei bersagli marchiati dal Talismano proteggi fortuna si riduce di un 20%.",
+        "UnlockedDescription": "L'ATT dei bersagli marchiati da un Talismano proteggi fortuna si riduce di un 20%.\nInoltre, quando l'effetto di guarigione del Talismano proteggi fortuna si attiva, il membro del gruppo nelle vicinanze con la percentuale di PS rimanenti più bassa riceve anche una guarigione aggiuntiva pari a un 180% dell'ATT di Qiqi.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Rito della rinascita",
         "Description": "#<color=#FFD780FF>Arte dell'Adeptus: Protettrice della fortuna</color> rianima tutti i membri sconfitti del gruppo e rigenera un 50% dei loro PS.\nSi può verificare una sola volta ogni 15{NON_BREAK_SPACE}min.",
+        "UnlockedDescription": "#<color=#FFD780FF>Arte dell'Adeptus: Protettrice della fortuna</color> rianima tutti i membri del gruppo sconfitti nelle vicinanze e rigenera un 50% dei loro PS.\nSi può verificare una sola volta ogni 15{NON_BREAK_SPACE}min.\nInoltre, dopo aver usato <color=#FFD780FF>Arte dell'Adeptus: Protettrice della fortuna</color>, Qiqi ottiene 4 accumuli di <color=#FFD780FF>Scorcio misterioso</color>, e quando il tuo personaggio attivo attuale (diverso da Qiqi) infligge DAN da Astroconduzione, consuma 1 accumulo di <color=#FFD780FF>Scorcio misterioso</color> per aumentare i DAN inflitti di un 600% dell'ATT di Qiqi. L'effetto di <color=#FFD780FF>Scorcio misterioso</color> dura fino a 12{NON_BREAK_SPACE}s, e sprigionare nuovamente <color=#FFD780FF>Arte dell'Adeptus: Protettrice della fortuna</color> ne ripristina gli accumuli.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Ascetics of Frost",
         "Description": "Saat Herald of Frost mengenai musuh yang ditandai oleh Fortune-Preserving Talisman, Qiqi memulihkan 2 Energy.",
+        "UnlockedDescription": "Saat Herald of Frost mengenai musuh yang ditandai Fortune-Preserving Talisman, Qiqi memulihkan 2 poin Energy.\n<color=#FFD780FF>Radiance: Stellar-Conduct</color>: Saat serangan dan serangan terkoordinasi Herald of Frost mengenai musuh, Qiqi juga memulihkan 6 poin Energy. Efek ini dapat terpicu sekali setiap 6 detik.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Frozen to the Bone",
         "Description": "Meningkatkan 15% Normal dan Charged Attack Qiqi terhadap musuh yang terpengaruh <color=#99FFFFFF>Cryo</color>.",
+        "UnlockedDescription": "DMG yang diakibatkan Normal Attack dan Charged Attack Qiqi terhadap musuh yang terpengaruh elemen <color=#99FFFFFF>Cryo</color> meningkat 15%.\n\n<color=#FFD780FF>Radiance: Stellar-Conduct</color>: ATK Qiqi meningkat 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Divine Suppression",
         "Description": "ATK dari musuh yang ditandai oleh Fortune-Preserving Talisman berkurang 20%.",
+        "UnlockedDescription": "ATK milik target yang ditandai Fortune-Preserving Talisman berkurang 20%.\nSelain itu, saat memicu efek pemulihan HP dari Fortune-Preserving Talisman, Karakter di sekitar dengan persentase HP terendah akan menerima pemulihan HP tambahan sebesar 180% ATK Qiqi.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Rite of Resurrection",
         "Description": "Menggunakan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> akan menghidupkan kembali Karakter yang gugur di sekitar dan memulihkan 50% HP mereka.\nEfek ini terpicu setiap 15 menit.",
+        "UnlockedDescription": "Menggunakan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> akan menghidupkan kembali semua Karakter yang gugur di sekitar dan memulihkan 50% HP mereka.\nEfek ini dapat terpicu sekali setiap 15 menit.\nSelain itu, saat melancarkan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color>, Qiqi juga akan mendapatkan 4 lapis <color=#FFD780FF>Glimpse of Mystery</color>: Saat Karakter aktif sendiri dalam party selain Qiqi mengakibatkan DMG reaksi Stellar-Conduct, akan mengonsumsi 1 lapis <color=#FFD780FF>Glimpse of Mystery</color>, untuk meningkatkan DMG yang diakibatkan sebesar 600% ATK Qiqi. <color=#FFD780FF>Glimpse of Mystery</color> berlangsung maksimum 12 detik dan jumlah lapisannya akan diperbarui saat melancarkan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color>.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

@@ -723,12 +723,14 @@
         "Id": 581,
         "Name": "Yakan-Opfer",
         "Description": "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von <color=#FFD780FF>Große Geheimkunst – Tenko Kenshin</color> 8 Punkte Elementarenergie wieder her.",
+        "UnlockedDescription": "#Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von <color=#FFD780FF>Große Geheimkunst – Tenko Kenshin</color> 8{NON_BREAK_SPACE}Punkte Elementarenergie wieder her. Verleiht Truppenmitgliedern in der Nähe, nachdem Yae Miko die Reaktion Supraleiter oder Stellar-Supraleiter ausgelöst oder Schaden mit Stellar-Supraleiter verursacht hat, 10{NON_BREAK_SPACE}s lang einen Elektro-SCH-Bonus sowie einen Stellar-Supraleiter-SCH-Bonus von 50{NON_BREAK_SPACE}%. Aktualisiert die Dauer bei erneuter Anwendung.",
         "Icon": "UI_Talent_S_Yae_01"
       },
       {
         "Id": 582,
         "Name": "Mondgesang der Kitsune",
         "Description": "<color=#FFD780FF>Sesshou-Sakura</color> sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht.",
+        "UnlockedDescription": "#<color=#FFD780FF>Sesshou-Sakura</color> sind bei der Entstehung anfänglich in Phase 2 und können höchstens Phase 4 erreichen. Außerdem wird ihr Angriffsradius um 60{NON_BREAK_SPACE}% erhöht. Zudem erhöhen Sesshou-Sakura, solange sie aktiv sind, je nach ihrer aktuellen Phase die Elementarkunde von Yae Miko und des aktuellen Truppenmitglieds um 60/90/120/200 Punkte.",
         "Icon": "UI_Talent_S_Yae_02"
       },
       {
@@ -745,6 +747,7 @@
         "Id": 584,
         "Name": "Rosarote Blitzleiter",
         "Description": "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von <color=#FFD780FF>Sesshou-Sakura</color> den <color=#FFACFFFF>Elektro-Schaden</color> aller Truppenmitglieder in der Nähe 5 s lang um 20 %.",
+        "UnlockedDescription": "#Erhöht beim Treffen von Gegnern mit den Blitzschlägen von <color=#FFD780FF>Sesshou-Sakura</color> den <color=#FFACFFFF>Elektro-Schaden</color> aller Truppenmitglieder in der Nähe 5{NON_BREAK_SPACE}s lang um 20{NON_BREAK_SPACE}%. Stellt zudem 8{NON_BREAK_SPACE}Punkte Elementarenergie für Yae Miko wieder her. Der oben genannte Effekt zur Wiederherstellung von Elementarenergie hat eine Abklingzeit von 5{NON_BREAK_SPACE}s. Erhöht zusätzlich den von Yae Miko mit ihrer Spezialfähigkeit verursachten Schaden um 100{NON_BREAK_SPACE}%.",
         "Icon": "UI_Talent_S_Yae_03"
       },
       {
@@ -761,6 +764,7 @@
         "Id": 586,
         "Name": "Daisesshou-Fluch",
         "Description": "<color=#FFD780FF>Sesshou-Sakura</color> ignorieren beim Angriff 60 % der VTD des Gegners.",
+        "UnlockedDescription": "#<color=#FFD780FF>Sesshou-Sakura</color> ignorieren beim Angriff 60{NON_BREAK_SPACE}% der VTD des Gegners. Der KSCH des von Yae Miko mit der Reaktion Stellar-Supraleiter verursachten Schadens wird um 200{NON_BREAK_SPACE}% erhöht.",
         "Icon": "UI_Talent_S_Yae_04"
       }
     ]

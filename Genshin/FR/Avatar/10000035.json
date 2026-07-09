@@ -876,12 +876,14 @@
         "Id": 351,
         "Name": "Ascèse du givre",
         "Description": "Qiqi récupère 2 pts d'énergie élémentaire à chaque fois que son héraut de givre touche un ennemi marqué par un talisman de fortune.",
+        "UnlockedDescription": "Qiqi récupère 2 pts d'énergie élémentaire à chaque fois que son héraut de givre touche un ennemi marqué par un talisman de fortune.\n<color=#FFD780FF>Radiance « Astroconduction »</color> : Qiqi récupère également 6 pts d'énergie élémentaire lorsque l'attaque ou une attaque coordonnée du héraut de givre touche un ennemi, ceci pouvant être déclenché une fois toutes les 6 s.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Gelé jusqu'à l'os",
         "Description": "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par l'<color=#99FFFFFF>élément Cryo</color>.",
+        "UnlockedDescription": "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par l'<color=#99FFFFFF>élément Cryo</color>.\n<color=#FFD780FF>Radiance « Astroconduction »</color> : L'ATQ de Qiqi augmente de 50 %.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -898,6 +900,7 @@
         "Id": 354,
         "Name": "Répression divine",
         "Description": "L'ATQ des cibles marquées par un talisman de fortune diminue de 20 %.",
+        "UnlockedDescription": "L'ATQ des cibles marquées par un talisman de fortune diminue de 20 %.\nDe plus, déclencher l'effet de soins d'un talisman de fortune soigne également le personnage proche ayant le pourcentage de PV restant le plus bas une fois pour une valeur équivalant à 180 % de l'ATQ de Qiqi.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -914,6 +917,7 @@
         "Id": 356,
         "Name": "Symbole de la renaissance",
         "Description": "L'activation d'<color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> réanime tous les personnages de l'équipe à proximité et restaure 50 % de leurs PV.\nCet effet peut être déclenché une fois toutes les 15 min.",
+        "UnlockedDescription": "L'activation d'<color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> réanime tous les personnages de l'équipe à proximité et restaure 50 % de leurs PV.\nCet effet peut être déclenché une fois toutes les 15 min.\nDe plus, après l'utilisation d'<color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color>, Qiqi obtient également 4 cumuls de l'effet <color=#FFD780FF>Aperçu de mystère</color>, et les DGT augmentent d'une valeur équivalant à 600 % de l'ATQ de Qiqi au prix d'un cumul d'<color=#FFD780FF>Aperçu de mystère</color> lorsque votre personnage déployé (hormis Qiqi) inflige des DGT de réaction d'Astroconduction. L'effet <color=#FFD780FF>Aperçu de mystère</color> dure un maximum de 12 s et utiliser <color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> réinitialise ses cumuls.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]
