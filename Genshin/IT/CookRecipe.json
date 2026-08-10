@@ -1027,6 +1027,44 @@
     ]
   },
   {
+    "Id": 1701,
+    "Name": "Salsiccia affumicata del Podvorye",
+    "Description": "Salsiccia a fette. Una salsiccia di carne stagionata, ripiena e affumicata, tagliata a fette sottili e servita così com'è. Un piatto simbolo del ristorante Podvorye, una scelta sicura che nessuno al tavolo rifiuterebbe.",
+    "EffectDescription": [
+      "Ripristina un <color=#3399CCFF>8-10%</color> dei PS max e <color=#3399CCFF>800-1.200</color> PS aggiuntivi del personaggio selezionato."
+    ],
+    "CookMethod": 1,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108886",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 5,
+    "RankLevel": 1,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108988
+      },
+      {
+        "Count": 1,
+        "Id": 108989
+      },
+      {
+        "Count": 1,
+        "Id": 108990
+      }
+    ],
+    "Input": [
+      {
+        "Count": 1,
+        "Id": 110011
+      },
+      {
+        "Count": 1,
+        "Id": 100077
+      }
+    ]
+  },
+  {
     "Id": 2001,
     "Name": "Spaghetti al ragù fiammante",
     "Description": "Un piatto di spaghetti con del ragù di carne. Emana un profumo d'erbe aromatiche e di carne che risveglia l'appetito.",
@@ -4107,6 +4145,134 @@
       {
         "Count": 1,
         "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2701,
+    "Name": "Stroganina",
+    "Description": "Delle strisce di pesce affettato. Con una lama affilata, si taglia il pesce intero congelato in diagonale, ricavando delle strisce sottili e arricciate. Solitamente servite con sale grosso, sono un piatto freddo crudo molto diffuso a Snezhnaya.",
+    "EffectDescription": [
+      "#Aumenta di <color=#3399CCFF>66-95</color> l'ATT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s.",
+      "In modalità cooperativa, si applica solo ai tuoi personaggi."
+    ],
+    "CookMethod": 3,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108887",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108991
+      },
+      {
+        "Count": 1,
+        "Id": 108992
+      },
+      {
+        "Count": 1,
+        "Id": 108993
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100084
+      },
+      {
+        "Count": 2,
+        "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2702,
+    "Name": "Pagnotta di segale alla Glupov",
+    "Description": "Una pagnotta densa e sostanziosa. L'impasto deve essere sottoposto a una lunga fermentazione a freddo. Dopo la cottura, forma una crosta dura e una mollica compatta dalla consistenza fine. Una volta pronto, il pane si conserva per molto tempo, rendendolo una razione comune tra i mercanti itineranti, i soldati e i cacciatori di Snezhnaya.",
+    "EffectDescription": [
+      "Ripristina un <color=#3399CCFF>18-22%</color> dei PS max del personaggio selezionato.",
+      "#Rigenera <color=#3399CCFF>300-470</color> PS ogni 5{NON_BREAK_SPACE}s per i 30{NON_BREAK_SPACE}s successivi."
+    ],
+    "CookMethod": 3,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108891",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132004
+      },
+      {
+        "Count": 1,
+        "Id": 132005
+      },
+      {
+        "Count": 1,
+        "Id": 132006
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 110016
+      },
+      {
+        "Count": 1,
+        "Id": 100075
+      },
+      {
+        "Count": 1,
+        "Id": 110006
+      }
+    ]
+  },
+  {
+    "Id": 2703,
+    "Name": "Borsc",
+    "Description": "Un piatto di zuppa dal colore rosso vivace. Una volta che il brodo è pronto, vari ingredienti vengono aggiunti a più riprese e fatti sobbollire finché i loro sapori non si amalgamano. Spesso si aggiunge un cucchiaio di panna acida poco prima di servire. A ogni sorso, un calore costante si diffonde nel corpo, sufficiente a tenere a bada il freddo pungente.",
+    "EffectDescription": [
+      "#<color=#3399CCFF>Riduce</color> l'incremento del Freddo estremo di tutti i membri del gruppo per 900{NON_BREAK_SPACE}s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108889",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108997
+      },
+      {
+        "Count": 1,
+        "Id": 108998
+      },
+      {
+        "Count": 1,
+        "Id": 108999
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 101278
+      },
+      {
+        "Count": 1,
+        "Id": 100080
+      },
+      {
+        "Count": 1,
+        "Id": 100061
+      },
+      {
+        "Count": 1,
+        "Id": 110015
       }
     ]
   },
@@ -10018,7 +10184,7 @@
   {
     "Id": 3612,
     "Name": "Costine di maiale cotte al vapore su legno di betulla",
-    "Description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emandando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
+    "Description": "Un piatto preparato con rami e costine. Le costine vengono marinate, essiccate all'aria, poi posizionate su rami di betulla e cotte al vapore. Quando viene servita, la carne è così tenera da sfaldarsi, emanando un caratteristico aroma legnoso. È uno dei tradizionali piatti festivi di Nod-Krai.",
     "EffectDescription": [
       "#Riduce di un <color=#3399CCFF>15-25%</color> il vigore consumato da tutti i membri del gruppo mentre planano e durante gli scatti per 900{NON_BREAK_SPACE}s.",
       "In modalità cooperativa, si applica solo ai tuoi personaggi."
@@ -10059,6 +10225,283 @@
       {
         "Count": 1,
         "Id": 100080
+      }
+    ]
+  },
+  {
+    "Id": 3701,
+    "Name": "Zharkoye",
+    "Description": "Un piatto di carne servito in un tegame di terracotta. Gli ingredienti tagliati a cubetti vengono posizionati nella pentola, sigillati con dell'impasto e poi cotti al forno. Una volta pronto, si rimuove il croccante coperchio di pane e si aggiunge della panna acida per insaporire. Il procedimento in sé non è complicato, ma controllare la temperatura del forno e il tempo di brasatura richiede una notevole esperienza.",
+    "EffectDescription": [
+      "Ripristina un <color=#3399CCFF>30-34%</color> dei PS max e <color=#3399CCFF>600-1.900</color> PS aggiuntivi del personaggio selezionato."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108885",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108985
+      },
+      {
+        "Count": 1,
+        "Id": 108986
+      },
+      {
+        "Count": 1,
+        "Id": 108987
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 2,
+        "Id": 100080
+      },
+      {
+        "Count": 2,
+        "Id": 100013
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3702,
+    "Name": "Okroska del regno innevato",
+    "Description": "Una ciotola di zuppa fredda. Gli ingredienti cotti vengono disposti uniformemente in una ciotola, quindi ricoperti da un brodo a base di panna acida. Alcuni abitanti di Snezhnaya si sfidano a mandar giù una grande ciotola di questa zuppa tutta d'un fiato nei giorni più freddi, considerandola una prova del loro essere guerrieri capaci di dominare il freddo pungente.",
+    "EffectDescription": [
+      "#Aumenta di <color=#3399CCFF>165-235</color> la DIF di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 4,
+    "Icon": "UI_ItemIcon_108888",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108994
+      },
+      {
+        "Count": 1,
+        "Id": 108995
+      },
+      {
+        "Count": 1,
+        "Id": 108996
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100062
+      },
+      {
+        "Count": 1,
+        "Id": 110005
+      },
+      {
+        "Count": 1,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3703,
+    "Name": "Gelato al ribes artico",
+    "Description": "Un dessert servito in un bicchiere. Panna, latte, miele e bacche schiacciate vengono mescolati insieme, poi congelati in morbide e vellutate palline di gelato. I sapori della frutta e dei latticini si fondono in un gusto ricco e delizioso, rendendo questo dolce un piacere che alcuni gusteranno volentieri a prescindere dalla temperatura.",
+    "EffectDescription": [
+      "Rianima il personaggio selezionato.",
+      "Ripristina <color=#3399CCFF>900-1.500</color> PS."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108890",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132001
+      },
+      {
+        "Count": 1,
+        "Id": 132002
+      },
+      {
+        "Count": 1,
+        "Id": 132003
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 100078
+      },
+      {
+        "Count": 3,
+        "Id": 110002
+      },
+      {
+        "Count": 2,
+        "Id": 110017
+      }
+    ]
+  },
+  {
+    "Id": 3704,
+    "Name": "Medovik",
+    "Description": "Una torta a base di miele. Sottili sfoglie di impasto al miele vengono cotte e poi impilate strato dopo strato, con una crema di panna acida spalmata tra l'una e l'altra. La torta è rifinita con una spolverata di briciole e un filo di sciroppo di miele. Ogni passaggio deve essere eseguito con cura per ottenere un risultato preciso e uniforme.",
+    "EffectDescription": [
+      "#Rigenera <color=#3399CCFF>450-790</color> PS ogni 5{NON_BREAK_SPACE}s per i 30{NON_BREAK_SPACE}s successivi."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108892",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132007
+      },
+      {
+        "Count": 1,
+        "Id": 132008
+      },
+      {
+        "Count": 1,
+        "Id": 132009
+      }
+    ],
+    "Input": [
+      {
+        "Count": 4,
+        "Id": 110017
+      },
+      {
+        "Count": 4,
+        "Id": 110001
+      },
+      {
+        "Count": 3,
+        "Id": 100062
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3705,
+    "Name": "Saslyk alla snezhnayana",
+    "Description": "Degli spiedini con grossi pezzi di carne grigliata. I pezzi di carne marinata, infilzati su spiedini di ferro, vengono grigliati sui carboni ardenti e girati finché non risultano abbrustoliti all'esterno e teneri all'interno. Che si tratti di un ritrovo in cortile, di una battuta di caccia o di un falò su uno spiazzo di neve appena sgombrato, questi spiedini si possono trovare ovunque sia possibile accendere un fuoco a Snezhnaya.",
+    "EffectDescription": [
+      "#Riduce di un <color=#3399CCFF>15-25%</color> il vigore consumato da tutti i membri del gruppo durante le arrampicate e gli Scatti per 900{NON_BREAK_SPACE}s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108893",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132010
+      },
+      {
+        "Count": 1,
+        "Id": 132011
+      },
+      {
+        "Count": 1,
+        "Id": 132012
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 3,
+        "Id": 100064
+      },
+      {
+        "Count": 1,
+        "Id": 101281
+      },
+      {
+        "Count": 1,
+        "Id": 101278
+      }
+    ]
+  },
+  {
+    "Id": 3706,
+    "Name": "Fiori Palla di neve sui campi innevati",
+    "Description": "Una classica insalata a strati. Ogni ingrediente viene preparato separatamente e poi disposto a strati con un condimento di panna acida insaporita distribuito tra di essi. Una volta assemblata, l'insalata viene solitamente lasciata riposare per un po' in modo che i sapori possano amalgamarsi completamente. Il piatto finito ricorda dei fiori Palla di neve sui campi innevati, ed è proprio per questo che il piatto ha questo nome.",
+    "EffectDescription": [
+      "#Aumenta di <color=#3399CCFF>160-228</color> l'ATT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108894",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132013
+      },
+      {
+        "Count": 1,
+        "Id": 132014
+      },
+      {
+        "Count": 1,
+        "Id": 132015
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100084
+      },
+      {
+        "Count": 1,
+        "Id": 110009
+      },
+      {
+        "Count": 1,
+        "Id": 100062
       }
     ]
   },
@@ -11880,6 +12323,52 @@
       {
         "Count": 2,
         "Id": 100016
+      }
+    ]
+  },
+  {
+    "Id": 4906,
+    "Name": "Palline dolci",
+    "Description": "Un assortimento di palline di gelato. Quattro gusti diversi sono serviti in coppette di carta separate e confezionati insieme in un'unica scatola. Di solito, gli assaggiatori si dividono in due categorie: chi affonda il cucchiaio nel gusto di cui ha più voglia e chi finisce ogni coppetta in ordine. In ogni caso, alla fine non rimane mai nulla sul fondo della scatola.",
+    "EffectDescription": [
+      "#Aumenta di <color=#3399CCFF>224–320</color> l'ATT e di un <color=#3399CCFF>6-10%</color> il tasso di CRIT di tutti i membri del gruppo per 300{NON_BREAK_SPACE}s."
+    ],
+    "CookMethod": 1,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108897",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 20,
+    "RankLevel": 4,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132018
+      },
+      {
+        "Count": 1,
+        "Id": 132019
+      },
+      {
+        "Count": 1,
+        "Id": 132020
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101265
+      },
+      {
+        "Count": 3,
+        "Id": 101264
+      },
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 101278
       }
     ]
   },
