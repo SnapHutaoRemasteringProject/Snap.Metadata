@@ -1027,6 +1027,44 @@
     ]
   },
   {
+    "Id": 1701,
+    "Name": "Linguiça Defumada Podvorye",
+    "Description": "Uma linguiça defumada de carne temperada, fatiada finamente antes de ser servida. Um prato clássico do Restaurante Podvorye e uma escolha confiável que ninguém à mesa recusaria.",
+    "EffectDescription": [
+      "Restaura <color=#3399CCFF>8%- 10%</color> de Vida Máxima e um adicional de <color=#3399CCFF>800 - 1200</color> de Vida ao personagem selecionado."
+    ],
+    "CookMethod": 1,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108886",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 5,
+    "RankLevel": 1,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108988
+      },
+      {
+        "Count": 1,
+        "Id": 108989
+      },
+      {
+        "Count": 1,
+        "Id": 108990
+      }
+    ],
+    "Input": [
+      {
+        "Count": 1,
+        "Id": 110011
+      },
+      {
+        "Count": 1,
+        "Id": 100077
+      }
+    ]
+  },
+  {
     "Id": 2001,
     "Name": "Macarrão à Bolonhesa Picante",
     "Description": "Macarrão à Bolonhesa. O aroma da carne e das ervas só aumentam o apetite.",
@@ -4107,6 +4145,134 @@
       {
         "Count": 1,
         "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2701,
+    "Name": "Peixe Cacheado",
+    "Description": "Fatias de peixe longas, parecendo fitas. Corte com uma lâmina afiada em um ângulo pela superfície de um peixe congelado inteiro, removendo tiras finas que se enrolam. Geralmente servido com sal grosso, esse é o prato frio comum em Snezhnaya.",
+    "EffectDescription": [
+      "Aumenta o ATQ de todos os membros da Equipe em <color=#3399CCFF>66 - 95</color> por 300s.",
+      "No modo multijogador, o efeito apenas se aplica ao seu personagem."
+    ],
+    "CookMethod": 3,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108887",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108991
+      },
+      {
+        "Count": 1,
+        "Id": 108992
+      },
+      {
+        "Count": 1,
+        "Id": 108993
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100084
+      },
+      {
+        "Count": 2,
+        "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2702,
+    "Name": "Pão de Centeio Glupov",
+    "Description": "Um pão denso e caloroso. A massa deve ser fermentada por muito tempo em baixa temperatura. Ao ser assada, ela forma uma casca dura, com um miolo de textura fina. O pão finalizado dura por muito tempo, tornando-o um alimento comum entre os comerciantes, soldados e caçadores viajantes de Snezhnaya.",
+    "EffectDescription": [
+      "Restaura <color=#3399CCFF>18% - 22%</color> da Vida Máxima ao personagem selecionado.",
+      "Restaura <color=#3399CCFF>300-470</color> de Vida a cada 5s pelos próximos 30s."
+    ],
+    "CookMethod": 3,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108891",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132004
+      },
+      {
+        "Count": 1,
+        "Id": 132005
+      },
+      {
+        "Count": 1,
+        "Id": 132006
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 110016
+      },
+      {
+        "Count": 1,
+        "Id": 100075
+      },
+      {
+        "Count": 1,
+        "Id": 110006
+      }
+    ]
+  },
+  {
+    "Id": 2703,
+    "Name": "Borscht",
+    "Description": "Uma sopa de peixe vermelha vibrante. Quando o caldo está pronto, vários ingredientes são adicionados em lotes e fervidos lentamente até que os sabores se misturem. Uma colher de Smetana é adicionada geralmente logo antes de ser servida. Com cada colherada, um calor é transmitido pelo seu corpo, suficiente para manter o frio extremo do ambiente longe.",
+    "EffectDescription": [
+      "<color=#3399CCFF>Diminui</color> o crescimento de Frio Extremo em todos os personagens da equipe por 900s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108889",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108997
+      },
+      {
+        "Count": 1,
+        "Id": 108998
+      },
+      {
+        "Count": 1,
+        "Id": 108999
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 101278
+      },
+      {
+        "Count": 1,
+        "Id": 100080
+      },
+      {
+        "Count": 1,
+        "Id": 100061
+      },
+      {
+        "Count": 1,
+        "Id": 110015
       }
     ]
   },
@@ -10063,6 +10229,283 @@
     ]
   },
   {
+    "Id": 3701,
+    "Name": "Carne Braseada na Panela",
+    "Description": "Um prato de carne servido numa panela de barro. Ingredientes cortados em cubo são colocados na panela, selados com massa, então assados no forno. Quando estiver preparado, a parte de cima crocante do pão é removida e Smetana é adicionada para temperar. O método em si não é complicado, mas controlar a temperatura do forno e o tempo de braseado requer experiência.",
+    "EffectDescription": [
+      "Restaura <color=#3399CCFF>30% - 34%</color> de Vida Máxima e um adicional de <color=#3399CCFF>600 - 1900</color> de Vida ao personagem selecionado."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108885",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108985
+      },
+      {
+        "Count": 1,
+        "Id": 108986
+      },
+      {
+        "Count": 1,
+        "Id": 108987
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 2,
+        "Id": 100080
+      },
+      {
+        "Count": 2,
+        "Id": 100013
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3702,
+    "Name": "Okroshka do Reino da Neve",
+    "Description": "Uma tigela de sopa fria. Ingredientes cozidos são organizados uniformemente numa tigela, então cobertos com um caldo à base de Smetana. Algumas pessoas de Snezhnaya se desafiam a comer uma tigela grande dessa sopa de uma vez só nos dias mais frios, usando isso como prova de serem guerreiros que podem conquistar o frio extremo.",
+    "EffectDescription": [
+      "Aumenta a DEF de todos os membros da Equipe em <color=#3399CCFF>165 - 235</color> por 300s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 4,
+    "Icon": "UI_ItemIcon_108888",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108994
+      },
+      {
+        "Count": 1,
+        "Id": 108995
+      },
+      {
+        "Count": 1,
+        "Id": 108996
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100062
+      },
+      {
+        "Count": 1,
+        "Id": 110005
+      },
+      {
+        "Count": 1,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3703,
+    "Name": "Sorvete de Groselha de Gelo",
+    "Description": "Uma sobremesa servida num copo. Creme, leite, mel e frutas amassadas são misturados, então congelados até virarem sorvete liso e sedoso. A fruta e os produtos de leite se misturam num sabor encorpado e delicioso, fazendo uma comida que todos adorarão, independentemente da temperatura.",
+    "EffectDescription": [
+      "Revive o personagem selecionado.",
+      "Restaura <color=#3399CCFF>900 - 1.500</color> de Vida."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108890",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132001
+      },
+      {
+        "Count": 1,
+        "Id": 132002
+      },
+      {
+        "Count": 1,
+        "Id": 132003
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 100078
+      },
+      {
+        "Count": 3,
+        "Id": 110002
+      },
+      {
+        "Count": 2,
+        "Id": 110017
+      }
+    ]
+  },
+  {
+    "Id": 3704,
+    "Name": "Medovik",
+    "Description": "Um bolo feito com mel. Folhas finas de massa com mel são assadas, então empilhadas camada a camada com cobertura de Smetana entre cada camada. O bolo é finalizado com pedaços de massa crocantes espalhados e um xarope de mel derramado sobre ele. Cada passo deve ser feito cuidadosamente para produzir um resultado bom e uniforme.",
+    "EffectDescription": [
+      "Regenera <color=#3399CCFF>450 - 790</color> de Vida a cada 5s durante 30s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108892",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132007
+      },
+      {
+        "Count": 1,
+        "Id": 132008
+      },
+      {
+        "Count": 1,
+        "Id": 132009
+      }
+    ],
+    "Input": [
+      {
+        "Count": 4,
+        "Id": 110017
+      },
+      {
+        "Count": 4,
+        "Id": 110001
+      },
+      {
+        "Count": 3,
+        "Id": 100062
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3705,
+    "Name": "Shashliks de Snezhnaya",
+    "Description": "Pedaços grandes de carne assados num espeto. Pedaços marinados de carne são espetados e assados sobre brasas de carvão, virados até estarem chamuscados por fora e macios por dentro. Seja em reuniões no quintal, em caçados ou num pedaço de neve limpo suficiente para se fazer uma fogueira, esses espetos podem ser encontrados em qualquer lugar de Snezhnaya onde um fogo possa ser aceso.",
+    "EffectDescription": [
+      "Diminui o consumo de Stamina ao Correr e Escalar para todos os membros da Equipe em <color=#3399CCFF>15% - 25%</color> por 900s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108893",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132010
+      },
+      {
+        "Count": 1,
+        "Id": 132011
+      },
+      {
+        "Count": 1,
+        "Id": 132012
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 3,
+        "Id": 100064
+      },
+      {
+        "Count": 1,
+        "Id": 101281
+      },
+      {
+        "Count": 1,
+        "Id": 101278
+      }
+    ]
+  },
+  {
+    "Id": 3706,
+    "Name": "Flores Nevadas Sobre Campos de Neve",
+    "Description": "Uma salada clássica em camadas. Cada ingrediente é preparado separadamente, então empilhado em camadas com molho de Smetana temperada entre cada camada. Uma vez montada, a salada é geralmente deixada para descansar por um tempo para que os sabores possam se misturar completamente. O prato finalizado lembra aglomerados de Flores Nevadas sobre um campo enevado, daí veio o nome.",
+    "EffectDescription": [
+      "Aumenta o ATQ de todos os membros da Equipe em <color=#3399CCFF>160 - 228</color> por 300s."
+    ],
+    "CookMethod": 2,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108894",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132013
+      },
+      {
+        "Count": 1,
+        "Id": 132014
+      },
+      {
+        "Count": 1,
+        "Id": 132015
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100084
+      },
+      {
+        "Count": 1,
+        "Id": 110009
+      },
+      {
+        "Count": 1,
+        "Id": 100062
+      }
+    ]
+  },
+  {
     "Id": 3901,
     "Name": "Combo de Croissant Crocante",
     "Description": "Um pequeno conjunto de pão e café. Primeiro a massa é enrolada antes de ser pincelada com ovo batido e colocada no forno, resultando em um croissant fumegante e único. Dizem que o ato de passar o ovo nele é como a assinatura de um padeiro — e parece que essa pessoa possui uma caligrafia ótima.",
@@ -11880,6 +12323,52 @@
       {
         "Count": 2,
         "Id": 100016
+      }
+    ]
+  },
+  {
+    "Id": 4906,
+    "Name": "Sorvetes Sortidos",
+    "Description": "Uma combinação de sorvetes. Quatro sabores diferentes são servidos em tigelas de papel separadas e reunidas numa única caixa. Quem experimenta cai geralmente em uma de duas categorias: aqueles que comem qualquer sabor que quiserem e aqueles que terminam cada tigela em ordem. Seja como for, nunca sobra nada no fundo da caixa no fim.",
+    "EffectDescription": [
+      "Aumenta o ATQ de todos os membros da equipe em <color=#3399CCFF>224 - 320</color> e aumenta a Taxa CRIT em <color=#3399CCFF>6% - 10%</color> por 300s."
+    ],
+    "CookMethod": 1,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108897",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 20,
+    "RankLevel": 4,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132018
+      },
+      {
+        "Count": 1,
+        "Id": 132019
+      },
+      {
+        "Count": 1,
+        "Id": 132020
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101265
+      },
+      {
+        "Count": 3,
+        "Id": 101264
+      },
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 101278
       }
     ]
   },

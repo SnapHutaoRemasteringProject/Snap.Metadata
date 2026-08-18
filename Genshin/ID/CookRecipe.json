@@ -1027,6 +1027,44 @@
     ]
   },
   {
+    "Id": 1701,
+    "Name": "Podvorye Smoked Sausage",
+    "Description": "Irisan sosis. Sosis daging asap yang dibumbui dan diisi, diiris tipis dan disajikan langsung. Ini adalah hidangan khas Podvorye Restaurant, dan pilihan andalan yang tidak akan ditolak oleh siapa pun di meja makan.",
+    "EffectDescription": [
+      "Memulihkan <color=#3399CCFF>8%–10%</color> Max HP dan tambahan <color=#3399CCFF>800–1.200</color> HP untuk Karakter yang dipilih."
+    ],
+    "CookMethod": 1,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108886",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 5,
+    "RankLevel": 1,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108988
+      },
+      {
+        "Count": 1,
+        "Id": 108989
+      },
+      {
+        "Count": 1,
+        "Id": 108990
+      }
+    ],
+    "Input": [
+      {
+        "Count": 1,
+        "Id": 110011
+      },
+      {
+        "Count": 1,
+        "Id": 100077
+      }
+    ]
+  },
+  {
     "Id": 2001,
     "Name": "Flaming Red Bolognese",
     "Description": "Bolognese yang penuh dengan saus daging. Aroma gabungan daging dan herba yang harum mudah membuat air liurmu mengalir.",
@@ -4107,6 +4145,134 @@
       {
         "Count": 1,
         "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2701,
+    "Name": "Stroganina",
+    "Description": "Potongan panjang ikan yang diiris tipis. Dipotong menggunakan pisau tajam secara menyudut di permukaan ikan beku yang utuh, menghasilkan serutan tipis yang melengkung. Biasanya disajikan dengan garam kasar, ini adalah hidangan dingin mentah yang umum di Snezhnaya.",
+    "EffectDescription": [
+      "Meningkatkan <color=#3399CCFF>66–95</color> ATK seluruh anggota party selama 300 detik.",
+      "Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri."
+    ],
+    "CookMethod": 3,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108887",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108991
+      },
+      {
+        "Count": 1,
+        "Id": 108992
+      },
+      {
+        "Count": 1,
+        "Id": 108993
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100084
+      },
+      {
+        "Count": 2,
+        "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2702,
+    "Name": "Glupov Rye Bread",
+    "Description": "Sepotong roti yang padat dan mengenyangkan. Adonannya harus melalui proses fermentasi dingin yang panjang. Setelah dipanggang, roti ini akan membentuk kerak yang keras dengan bagian dalam yang padat dan bertekstur halus. Roti yang sudah jadi dapat disimpan untuk waktu yang lama, menjadikannya ransum yang umum di kalangan pedagang keliling, prajurit, dan pemburu Snezhnaya.",
+    "EffectDescription": [
+      "Memulihkan <color=#3399CCFF>18–22%</color> HP Karakter yang dipilih.",
+      "Memberikan regenerasi <color=#3399CCFF>300–470</color> HP setiap 5 detik selama 30 detik."
+    ],
+    "CookMethod": 3,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108891",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132004
+      },
+      {
+        "Count": 1,
+        "Id": 132005
+      },
+      {
+        "Count": 1,
+        "Id": 132006
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 110016
+      },
+      {
+        "Count": 1,
+        "Id": 100075
+      },
+      {
+        "Count": 1,
+        "Id": 110006
+      }
+    ]
+  },
+  {
+    "Id": 2703,
+    "Name": "Borscht",
+    "Description": "Hidangan sup berwarna merah cerah. Setelah kaldu siap, berbagai macam bahan ditambahkan secara bertahap dan dimasak perlahan hingga rasanya menyatu. Sesendok krim asam sering kali ditambahkan tepat sebelum dihidangkan. Pada setiap tegukannya, kehangatan akan menyebar ke seluruh tubuh, cukup untuk menahan hawa dingin yang menusuk dari luar.",
+    "EffectDescription": [
+      "Kecepatan akumulasi Sheer Cold untuk seluruh anggota party <color=#3399CCFF>berkurang</color> selama 900 detik."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108889",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108997
+      },
+      {
+        "Count": 1,
+        "Id": 108998
+      },
+      {
+        "Count": 1,
+        "Id": 108999
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 101278
+      },
+      {
+        "Count": 1,
+        "Id": 100080
+      },
+      {
+        "Count": 1,
+        "Id": 100061
+      },
+      {
+        "Count": 1,
+        "Id": 110015
       }
     ]
   },
@@ -10063,6 +10229,283 @@
     ]
   },
   {
+    "Id": 3701,
+    "Name": "Zharkoye",
+    "Description": "Hidangan daging yang disajikan di dalam pot tanah liat. Bahan-bahan yang dipotong kotak-kotak dimasukkan ke dalam pot, ditutup rapat dengan adonan, lalu dipanggang di dalam oven. Setelah matang, tutup roti yang renyah diangkat, dan krim asam ditambahkan sebagai bumbu. Sebenarnya, cara memasaknya mudah saja, tapi mengendalikan suhu oven dan waktu merebusnya butuh pengalaman yang memadai.",
+    "EffectDescription": [
+      "Memulihkan <color=#3399CCFF>30%–34%</color> Max HP dan <color=#3399CCFF>600–1.900</color> HP tambahan untuk Karakter yang dipilih."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108885",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108985
+      },
+      {
+        "Count": 1,
+        "Id": 108986
+      },
+      {
+        "Count": 1,
+        "Id": 108987
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 2,
+        "Id": 100080
+      },
+      {
+        "Count": 2,
+        "Id": 100013
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3702,
+    "Name": "Snowrealm Okroshkas",
+    "Description": "Semangkuk sup dingin. Bahan-bahan yang telah dimasak diatur merata di dalam mangkuk, lalu disiram dengan kaldu berbahan dasar krim asam. Beberapa orang Snezhnaya menantang diri mereka sendiri untuk menghabiskan semangkuk besar sup ini sekaligus di hari-hari yang paling dingin, menjadikannya sebagai bukti bahwa mereka adalah prajurit yang mampu menaklukkan hawa dingin yang menusuk tulang.",
+    "EffectDescription": [
+      "Meningkatkan <color=#3399CCFF>165–235</color> DEF seluruh anggota party selama 300 detik."
+    ],
+    "CookMethod": 2,
+    "FoodType": 4,
+    "Icon": "UI_ItemIcon_108888",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108994
+      },
+      {
+        "Count": 1,
+        "Id": 108995
+      },
+      {
+        "Count": 1,
+        "Id": 108996
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100062
+      },
+      {
+        "Count": 1,
+        "Id": 110005
+      },
+      {
+        "Count": 1,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3703,
+    "Name": "Rimecurrant Ice Cream",
+    "Description": "Hidangan penutup yang disajikan di gelas. Krim, susu, madu, dan buah beri yang ditumbuk dicampur menjadi satu, lalu dibekukan menjadi bulatan es krim yang halus dan lembut. Rasa buah dan susu berpadu menghasilkan rasa yang kaya dan lezat, menjadikannya suguhan yang akan dinikmati sebagian orang dengan senang hati terlepas dari apa pun suhunya.",
+    "EffectDescription": [
+      "Menghidupkan kembali Karakter yang dipilih.",
+      "Memulihkan <color=#3399CCFF>900–1.500</color> HP."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108890",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132001
+      },
+      {
+        "Count": 1,
+        "Id": 132002
+      },
+      {
+        "Count": 1,
+        "Id": 132003
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 100078
+      },
+      {
+        "Count": 3,
+        "Id": 110002
+      },
+      {
+        "Count": 2,
+        "Id": 110017
+      }
+    ]
+  },
+  {
+    "Id": 3704,
+    "Name": "Medovik",
+    "Description": "Kue yang terbuat dari madu. Lembaran tipis adonan madu dipanggang, lalu disusun lapis demi lapis dengan olesan krim asam di antara setiap lembarnya. Sebagai sentuhan akhir, kue ini diberi taburan remahan dan siraman sirup madu. Setiap langkah harus dilakukan dengan teliti untuk mendapatkan hasil yang rapi dan merata.",
+    "EffectDescription": [
+      "Memberikan regenerasi <color=#3399CCFF>450–790</color> HP setiap 5 detik selama 30 detik."
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108892",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132007
+      },
+      {
+        "Count": 1,
+        "Id": 132008
+      },
+      {
+        "Count": 1,
+        "Id": 132009
+      }
+    ],
+    "Input": [
+      {
+        "Count": 4,
+        "Id": 110017
+      },
+      {
+        "Count": 4,
+        "Id": 110001
+      },
+      {
+        "Count": 3,
+        "Id": 100062
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3705,
+    "Name": "Snezhnaya Shashliks",
+    "Description": "Tusukan daging panggang dengan potongan yang besar. Potongan daging yang telah dimarinasi ditusukkan ke batang besi dan dipanggang di atas bara panas, lalu dibolak-balik sampai luarnya hangus namun di dalamnya tetap empuk. Baik di acara kumpul-kumpul di halaman, saat berburu, atau di sepetak salju yang disingkirkan sekadar cukup untuk menyalakan api, tusukan daging ini bisa ditemukan di mana saja di Snezhnaya tempat api bisa dinyalakan.",
+    "EffectDescription": [
+      "Mengurangi <color=#3399CCFF>15–25%</color> jumlah Stamina yang dikonsumsi seluruh anggota party saat berlari dan memanjat selama 900 detik."
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108893",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132010
+      },
+      {
+        "Count": 1,
+        "Id": 132011
+      },
+      {
+        "Count": 1,
+        "Id": 132012
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 3,
+        "Id": 100064
+      },
+      {
+        "Count": 1,
+        "Id": 101281
+      },
+      {
+        "Count": 1,
+        "Id": 101278
+      }
+    ]
+  },
+  {
+    "Id": 3706,
+    "Name": "Snowball Blooms Atop Snowfields",
+    "Description": "Salad berlapis klasik. Setiap bahan disiapkan secara terpisah, lalu ditumpuk berlapis-lapis dengan saus krim asam berbumbu yang dioleskan di antaranya. Setelah disusun, salad biasanya didiamkan sejenak agar rasanya menyatu dengan sempurna. Hidangan yang sudah jadi ini menyerupai sekumpulan bunga Snowball Flower yang bermekaran di atas padang salju, yang mana merupakan asal-usul namanya.",
+    "EffectDescription": [
+      "Meningkatkan <color=#3399CCFF>160–228</color> ATK seluruh anggota party selama 300 detik."
+    ],
+    "CookMethod": 2,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108894",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132013
+      },
+      {
+        "Count": 1,
+        "Id": 132014
+      },
+      {
+        "Count": 1,
+        "Id": 132015
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100084
+      },
+      {
+        "Count": 1,
+        "Id": 110009
+      },
+      {
+        "Count": 1,
+        "Id": 100062
+      }
+    ]
+  },
+  {
     "Id": 3901,
     "Name": "Crisp Croissant Combo",
     "Description": "Set makanan berisi roti dan kopi. Gulung adonan rotinya, oleskan telur yang sudah dikocok, masukkan ke dalam panggangan. Akhirnya, roti kecil yang mengembang pun siap disajikan. Konon proses mengoleskan telur adalah tanda khas seorang pembuat roti. Tampaknya tanda kali ini sangat rapi.",
@@ -11880,6 +12323,52 @@
       {
         "Count": 2,
         "Id": 100016
+      }
+    ]
+  },
+  {
+    "Id": 4906,
+    "Name": "Sweet Scoops",
+    "Description": "Aneka ragam bola es krim. Empat rasa berbeda disajikan di mangkuk kertas terpisah dan dikemas bersama di dalam satu kotak. Para penikmatnya biasanya terbagi menjadi dua kubu: mereka yang menyantap rasa apa pun yang mereka inginkan, dan mereka yang menghabiskan setiap mangkuk secara berurutan. Bagaimanapun juga, pada akhirnya tidak akan pernah ada yang tersisa di dasar kotak.",
+    "EffectDescription": [
+      "Meningkatkan <color=#3399CCFF>224–320</color> ATK dan <color=#3399CCFF>6%-10%</color> CRIT Rate seluruh anggota party selama 300 detik."
+    ],
+    "CookMethod": 1,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108897",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 20,
+    "RankLevel": 4,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132018
+      },
+      {
+        "Count": 1,
+        "Id": 132019
+      },
+      {
+        "Count": 1,
+        "Id": 132020
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101265
+      },
+      {
+        "Count": 3,
+        "Id": 101264
+      },
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 101278
       }
     ]
   },

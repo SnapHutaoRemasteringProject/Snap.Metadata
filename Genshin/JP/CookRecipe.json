@@ -1027,6 +1027,44 @@
     ]
   },
   {
+    "Id": 1701,
+    "Name": "セラーガーデン・スモークソーセージ",
+    "Description": "スライスされたソーセージ。味付けして腸詰めにした肉を燻製し、薄切りにしてそのまま盛り付けたもの。セラーガーデン・レストランの看板メニューであり、食事の際には誰もが喜ぶ万能の一品でもある。",
+    "EffectDescription": [
+      "選択したキャラのHP上限の<color=#3399CCFF>8%~10%</color>を回復し、さらにHPを<color=#3399CCFF>800~1200</color>回復する。"
+    ],
+    "CookMethod": 1,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108886",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 5,
+    "RankLevel": 1,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108988
+      },
+      {
+        "Count": 1,
+        "Id": 108989
+      },
+      {
+        "Count": 1,
+        "Id": 108990
+      }
+    ],
+    "Input": [
+      {
+        "Count": 1,
+        "Id": 110011
+      },
+      {
+        "Count": 1,
+        "Id": 100077
+      }
+    ]
+  },
+  {
     "Id": 2001,
     "Name": "完熟トマトのミートソース",
     "Description": "ミートソースたっぷりのスパゲッティ。スパゲッティがトマトソースで真っ赤に彩られている。甘酸っぱく美味しく、食欲をかきたてる。",
@@ -4107,6 +4145,134 @@
       {
         "Count": 1,
         "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2701,
+    "Name": "鮮魚のストロガニナ",
+    "Description": "細長い魚の切り身。鋭い刃物で凍った丸ごとの魚の表面を斜めに削り、薄く長い巻き状の切り身にしたもの。通常は粗塩をつけて食べる、スネージナヤで一般的な生食の冷菜。",
+    "EffectDescription": [
+      "チーム全員の攻撃力+<color=#3399CCFF>66~95</color>、継続時間300秒。",
+      "マルチプレイ中、自分のキャラクターにのみ有効。"
+    ],
+    "CookMethod": 3,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108887",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108991
+      },
+      {
+        "Count": 1,
+        "Id": 108992
+      },
+      {
+        "Count": 1,
+        "Id": 108993
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100084
+      },
+      {
+        "Count": 2,
+        "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2702,
+    "Name": "グルポフ黒パン",
+    "Description": "ずっしりとしたパン。生地は長時間の低温発酵を必要とし、焼き上げると外皮は硬く、中はきめ細かくぎっしりと詰まっている。長期間保存できるため、スネージナヤの行商人や兵士、狩人たちの定番の携帯食となっている。",
+    "EffectDescription": [
+      "選択したキャラのHP上限の<color=#3399CCFF>18%~22%</color>を回復する。",
+      "その後30秒間、5秒毎にHPを<color=#3399CCFF>300~470</color>回復する。"
+    ],
+    "CookMethod": 3,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108891",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132004
+      },
+      {
+        "Count": 1,
+        "Id": 132005
+      },
+      {
+        "Count": 1,
+        "Id": 132006
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 110016
+      },
+      {
+        "Count": 1,
+        "Id": 100075
+      },
+      {
+        "Count": 1,
+        "Id": 110006
+      }
+    ]
+  },
+  {
+    "Id": 2703,
+    "Name": "ボルシチ",
+    "Description": "真っ赤なスープ。先にベースのスープを煮出し、数回に分けて各種食材を入れる。味が互いに溶け合うまでじっくりと煮込み、食卓に出す前にサワークリームをひとさじ添えることが多い。飲むと、体の中に穏やかな温もりが長く続き、屋外の厳しい寒さもしのげる。",
+    "EffectDescription": [
+      "チーム全員の極寒ゲージの蓄積速度が<color=#3399CCFF>低下する</color>。継続時間900秒。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108889",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108997
+      },
+      {
+        "Count": 1,
+        "Id": 108998
+      },
+      {
+        "Count": 1,
+        "Id": 108999
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 101278
+      },
+      {
+        "Count": 1,
+        "Id": 100080
+      },
+      {
+        "Count": 1,
+        "Id": 100061
+      },
+      {
+        "Count": 1,
+        "Id": 110015
       }
     ]
   },
@@ -10063,6 +10229,281 @@
     ]
   },
   {
+    "Id": 3701,
+    "Name": "肉の壺焼き",
+    "Description": "陶製の壺に入った肉料理。切り分けた食材をそれぞれ壺に入れ、生地で口を塞いでオーブンに入れる。焼き上がったらサクサクのパン生地の蓋を外し、サワークリームを加えて味を調える。作り方は複雑ではないが、オーブンの温度管理や蒸し焼きにする時間の見極めには、ある程度の経験が必要だ。",
+    "EffectDescription": [],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108885",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108985
+      },
+      {
+        "Count": 1,
+        "Id": 108986
+      },
+      {
+        "Count": 1,
+        "Id": 108987
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 2,
+        "Id": 100080
+      },
+      {
+        "Count": 2,
+        "Id": 100013
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3702,
+    "Name": "雪国スープ",
+    "Description": "冷製のスープ。火を通した食材を器に均等に敷き詰め、そこにサワークリームで調えたスープを注ぐ。スネージナヤ人の中には、最も寒い日に大きな器一杯の冷たいスープを一気に飲み干すことに挑戦し、自らが厳しい寒さに打ち勝つ勇士であることを証明しようとする者もいる。",
+    "EffectDescription": [
+      "チーム全員の防御力+<color=#3399CCFF>165~235</color>、継続時間300秒。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 4,
+    "Icon": "UI_ItemIcon_108888",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108994
+      },
+      {
+        "Count": 1,
+        "Id": 108995
+      },
+      {
+        "Count": 1,
+        "Id": 108996
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100062
+      },
+      {
+        "Count": 1,
+        "Id": 110005
+      },
+      {
+        "Count": 1,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3703,
+    "Name": "アイススグリのアイスクリーム",
+    "Description": "グラス入りのデザート。クリーム、ミルク、ハチミツと砕いたベリーを混ぜ合わせ、凍らせてきめ細かくなめらかなアイスクリームに仕上げ、丸くすくってグラスに盛ったもの。果実とミルクの香りが溶け合った美味しさで、気温に関係なく、いつでも喜んで味わう人がいる。",
+    "EffectDescription": [
+      "選択したキャラを復活させる。",
+      "さらにHPを<color=#3399CCFF>900~1500</color>回復する。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108890",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132001
+      },
+      {
+        "Count": 1,
+        "Id": 132002
+      },
+      {
+        "Count": 1,
+        "Id": 132003
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 100078
+      },
+      {
+        "Count": 3,
+        "Id": 110002
+      },
+      {
+        "Count": 2,
+        "Id": 110017
+      }
+    ]
+  },
+  {
+    "Id": 3704,
+    "Name": "メドヴィク",
+    "Description": "ハチミツで作られたケーキ。ハチミツを加えた生地を薄く伸ばして焼き上げ、次にサワークリームで作ったクリームを層ごとに塗って重ねる。最後に細かく砕いた生地を散らし、ハチミツシロップをかける。きれいな仕上がりにするためには、どの工程も決して手を抜くことはできない。",
+    "EffectDescription": [
+      "その後30秒間、5秒毎にHPを<color=#3399CCFF>450~790</color>回復する。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108892",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132007
+      },
+      {
+        "Count": 1,
+        "Id": 132008
+      },
+      {
+        "Count": 1,
+        "Id": 132009
+      }
+    ],
+    "Input": [
+      {
+        "Count": 4,
+        "Id": 110017
+      },
+      {
+        "Count": 4,
+        "Id": 110001
+      },
+      {
+        "Count": 3,
+        "Id": 100062
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3705,
+    "Name": "スネージナヤ串焼き",
+    "Description": "大ぶりの肉の串焼き。漬け込んだ肉を鉄串に刺し、炭火の上で返しながら、外は香ばしく中は柔らかくなるまで焼き上げる。庭での集まりや狩りの途中、さらには雪をかいて作った小さな空き地でも、スネージナヤでは火を起こせる場所ならどこでも見かけられる。",
+    "EffectDescription": [
+      "チーム全員が登りとダッシュに消費するスタミナ<color=#3399CCFF>-15%~-25%</color>、継続時間900秒。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108893",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132010
+      },
+      {
+        "Count": 1,
+        "Id": 132011
+      },
+      {
+        "Count": 1,
+        "Id": 132012
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 3,
+        "Id": 100064
+      },
+      {
+        "Count": 1,
+        "Id": 101281
+      },
+      {
+        "Count": 1,
+        "Id": 101278
+      }
+    ]
+  },
+  {
+    "Id": 3706,
+    "Name": "白の雪玉花",
+    "Description": "定番のレイヤードサラダ。下ごしらえした食材を層状に重ね、各層の間に味付けしたサワークリームソースを塗る。盛り付け後は、味をしっかりとなじませるためにしばらく寝かせるのが一般的だ。出来上がった姿が、雪原に雪玉花が群れ咲く様子に似ていることから、この名が付けられた。",
+    "EffectDescription": [
+      "チーム全員の攻撃力+<color=#3399CCFF>160~228</color>、継続時間300秒。"
+    ],
+    "CookMethod": 2,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108894",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132013
+      },
+      {
+        "Count": 1,
+        "Id": 132014
+      },
+      {
+        "Count": 1,
+        "Id": 132015
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100084
+      },
+      {
+        "Count": 1,
+        "Id": 110009
+      },
+      {
+        "Count": 1,
+        "Id": 100062
+      }
+    ]
+  },
+  {
     "Id": 3901,
     "Name": "カリカリクロワッサン",
     "Description": "パンとコーヒーのセット。こねた生地に卵液を塗り、オーブンで焼く。すると、熱々の膨らんだパンが焼きが上がる。噂によれば、卵液を塗るこの工程はパン職人がサインしているのだという。今回のサインはとても整っているようだ。",
@@ -11880,6 +12321,52 @@
       {
         "Count": 2,
         "Id": 100016
+      }
+    ]
+  },
+  {
+    "Id": 4906,
+    "Name": "スイート・アイスクリームセット",
+    "Description": "アイスカップの詰め合わせ。4種類の異なるフレーバーのアイスをそれぞれ紙のカップに盛り付けて、一つの箱にまとめたもの。好きなフレーバーをすくって食べる派もいれば、一カップずつ食べていく派もいるが、最終的に箱が空っぽになってしまうことに違いはない。",
+    "EffectDescription": [
+      "チーム全員の攻撃力+<color=#3399CCFF>224~320</color>、会心率+<color=#3399CCFF>6%~10%</color>、継続時間300秒。"
+    ],
+    "CookMethod": 1,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108897",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 20,
+    "RankLevel": 4,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132018
+      },
+      {
+        "Count": 1,
+        "Id": 132019
+      },
+      {
+        "Count": 1,
+        "Id": 132020
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101265
+      },
+      {
+        "Count": 3,
+        "Id": 101264
+      },
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 101278
       }
     ]
   },

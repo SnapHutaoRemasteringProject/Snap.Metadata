@@ -3,26 +3,8 @@
     "Id": 0,
     "DescribeId": 90903,
     "Name": "",
-    "Title": "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+    "Title": "Всепожирающий нарвал",
     "Icon": "UI_MonsterIcon_Hili_None_01",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 40651,
-    "Name": "Мек: Протокол разведки (пневма)",
-    "Title": "Мек: Протокол разведки",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 40602,
-    "Name": "Мек: Улучшение вычислений (усия)",
-    "Title": "Мек: Улучшение вычислений",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
     "Type": 0,
     "Arkhe": 0
   },
@@ -109,17 +91,17 @@
   },
   {
     "Id": 0,
-    "DescribeId": 40601,
-    "Name": "Мек: Протокол разведки (усия)",
-    "Title": "Мек: Протокол разведки",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
+    "DescribeId": 40607,
+    "Name": "Мек: Быстрый сбор (усия)",
+    "Title": "Мек: Быстрый сбор",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
     "Type": 0,
     "Arkhe": 0
   },
   {
     "Id": 0,
-    "DescribeId": 40607,
-    "Name": "Мек: Быстрый сбор (усия)",
+    "DescribeId": 40657,
+    "Name": "Мек: Быстрый сбор (пневма)",
     "Title": "Мек: Быстрый сбор",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
     "Type": 0,
@@ -145,17 +127,17 @@
   },
   {
     "Id": 0,
-    "DescribeId": 40609,
-    "Name": "Спецмек: Подавление (усия)",
-    "Title": "Спецмек: Подавление",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
+    "DescribeId": 40602,
+    "Name": "Мек: Улучшение вычислений (усия)",
+    "Title": "Мек: Улучшение вычислений",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
     "Type": 0,
     "Arkhe": 0
   },
   {
     "Id": 0,
-    "DescribeId": 40659,
-    "Name": "Спецмек: Подавление (пневма)",
+    "DescribeId": 40609,
+    "Name": "Спецмек: Подавление (усия)",
     "Title": "Спецмек: Подавление",
     "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
     "Type": 0,
@@ -226,10 +208,82 @@
   },
   {
     "Id": 0,
-    "DescribeId": 40657,
-    "Name": "Мек: Быстрый сбор (пневма)",
-    "Title": "Мек: Быстрый сбор",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Assimilator",
+    "DescribeId": 40702,
+    "Name": "Сюита ледяного ветра: Погребение Коппелии",
+    "Title": "«Погребение Коппелии»",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 41002,
+    "Name": "Железный утёнок",
+    "Title": "Первозданная конструкция: Разведчик",
+    "Icon": "UI_MonsterIcon_Gastrobot_01",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 51303,
+    "Name": "Крылатый парящий рыцарь",
+    "Title": "Вила танцующих крыльев",
+    "Icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 51311,
+    "Name": "Волкодлак-метатель",
+    "Title": "Волкодлак-головорез",
+    "Icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 51313,
+    "Name": "Волкодлак-громила",
+    "Title": "Волкодлак-головорез",
+    "Icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 51315,
+    "Name": "Волкодлак-налётчик",
+    "Title": "Волкодлак-головорез",
+    "Icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 40659,
+    "Name": "Спецмек: Подавление (пневма)",
+    "Title": "Спецмек: Подавление",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 51317,
+    "Name": "Волкодлак-снайпер",
+    "Title": "Волкодлак-головорез",
+    "Icon": "UI_MonsterIcon_Vukodlak_Thin_Pistol",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 40651,
+    "Name": "Мек: Протокол разведки (пневма)",
+    "Title": "Мек: Протокол разведки",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
     "Type": 0,
     "Arkhe": 0
   },
@@ -237,24 +291,6 @@
     "Id": 0,
     "DescribeId": 30771,
     "Name": "Опричник: Санитар",
-    "Title": "Опричник",
-    "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 30751,
-    "Name": "Опричник: Боец авангарда",
-    "Title": "Опричник",
-    "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 30711,
-    "Name": "Опричник: Боец фронта",
     "Title": "Опричник",
     "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
     "Type": 0,
@@ -379,17 +415,17 @@
   },
   {
     "Id": 0,
-    "DescribeId": 21211,
-    "Name": "Сумрачный мимесис - Тепетлизавр-воин: Камнедробитель",
-    "Title": "Сумрачная мимифлора",
-    "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
+    "DescribeId": 40601,
+    "Name": "Мек: Протокол разведки (усия)",
+    "Title": "Мек: Протокол разведки",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Sentry",
     "Type": 0,
     "Arkhe": 0
   },
   {
     "Id": 0,
-    "DescribeId": 21212,
-    "Name": "Сумрачный мимесис - Юмказавр-воин: Текущий огонь",
+    "DescribeId": 21211,
+    "Name": "Сумрачный мимесис - Тепетлизавр-воин: Камнедробитель",
     "Title": "Сумрачная мимифлора",
     "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
     "Type": 0,
@@ -487,19 +523,46 @@
   },
   {
     "Id": 0,
-    "DescribeId": 40702,
-    "Name": "Сюита ледяного ветра: Погребение Коппелии",
-    "Title": "«Погребение Коппелии»",
-    "Icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
+    "DescribeId": 30708,
+    "Name": "Свет волны: Самоуничтожающийся блуждающий механизм",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_ExplosiveDrone_Water",
     "Type": 0,
     "Arkhe": 0
   },
   {
     "Id": 0,
-    "DescribeId": 41002,
-    "Name": "Железный утёнок",
-    "Title": "Первозданная конструкция: Разведчик",
-    "Icon": "UI_MonsterIcon_Gastrobot_01",
+    "DescribeId": 30711,
+    "Name": "Опричник: Боец фронта",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 30751,
+    "Name": "Опричник: Боец авангарда",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 21212,
+    "Name": "Сумрачный мимесис - Юмказавр-воин: Текущий огонь",
+    "Title": "Сумрачная мимифлора",
+    "Icon": "UI_MonsterIcon_TheAbyss_Rhizome",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 52106,
+    "Name": "Штурмовик Пустынников",
+    "Title": "Магу кэнки",
+    "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -514,28 +577,10 @@
   },
   {
     "Id": 0,
-    "DescribeId": 60510,
-    "Name": "Молодой вишап глубин: Ледогрыз",
-    "Title": "Вишап глубин: Ледогрыз",
-    "Icon": "UI_MonsterIcon_Drake_Deepsea_Ice",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 60509,
-    "Name": "Молодой вишап глубин: Исток",
-    "Title": "Вишап глубин: Исток",
-    "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 52106,
-    "Name": "Штурмовик Пустынников",
-    "Title": "Магу кэнки",
-    "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+    "DescribeId": 80310,
+    "Name": "Фантом «Стального когтя»",
+    "Title": "Фантом «Стального когтя»",
+    "Icon": "UI_MonsterIcon_Penguin_01",
     "Type": 0,
     "Arkhe": 0
   },
@@ -631,19 +676,19 @@
   },
   {
     "Id": 0,
-    "DescribeId": 60511,
-    "Name": "Молодой вишап глубин: Громоглот",
-    "Title": "Вишап глубин: Громоглот",
-    "Icon": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "DescribeId": 60509,
+    "Name": "Молодой вишап глубин: Исток",
+    "Title": "Вишап глубин: Исток",
+    "Icon": "UI_MonsterIcon_Drake_Deepsea_Water",
     "Type": 0,
     "Arkhe": 0
   },
   {
     "Id": 0,
-    "DescribeId": 80209,
-    "Name": "Кагэромару",
-    "Title": "???",
-    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "DescribeId": 60510,
+    "Name": "Молодой вишап глубин: Ледогрыз",
+    "Title": "Вишап глубин: Ледогрыз",
+    "Icon": "UI_MonsterIcon_Drake_Deepsea_Ice",
     "Type": 0,
     "Arkhe": 0
   },
@@ -658,10 +703,19 @@
   },
   {
     "Id": 0,
-    "DescribeId": 80226,
-    "Name": "Бывалая капибара",
-    "Title": "???",
-    "Icon": "UI_MonsterIcon_Capybara_02",
+    "DescribeId": 60511,
+    "Name": "Молодой вишап глубин: Громоглот",
+    "Title": "Вишап глубин: Громоглот",
+    "Icon": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
+    "DescribeId": 80213,
+    "Name": "Бывалая шишковатая черепаха",
+    "Title": "Бывалая шишковатая черепаха",
+    "Icon": "UI_MonsterIcon_Tortoise_Electric",
     "Type": 0,
     "Arkhe": 0
   },
@@ -703,28 +757,19 @@
   },
   {
     "Id": 0,
+    "DescribeId": 80209,
+    "Name": "Кагэромару",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Inu_Taroumaru_01",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
     "DescribeId": 90803,
     "Name": "Хищный размножающийся организм",
     "Title": "Защитник последнего оазиса",
     "Icon": "UI_MonsterIcon_Hili_None_01",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 80213,
-    "Name": "Бывалая шишковатая черепаха",
-    "Title": "Бывалая шишковатая черепаха",
-    "Icon": "UI_MonsterIcon_Tortoise_Electric",
-    "Type": 0,
-    "Arkhe": 0
-  },
-  {
-    "Id": 0,
-    "DescribeId": 90601,
-    "Name": "Сёгун Райдэн",
-    "Title": "Сёгун Райдэн",
-    "Icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
     "Type": 0,
     "Arkhe": 0
   },
@@ -739,6 +784,15 @@
   },
   {
     "Id": 0,
+    "DescribeId": 90601,
+    "Name": "Сёгун Райдэн",
+    "Title": "Сёгун Райдэн",
+    "Icon": "UI_MonsterIcon_Shougun_Mitakenarukami",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
+    "Id": 0,
     "DescribeId": 80228,
     "Name": "Фантом «Боевого козла»",
     "Title": "Фантом «Боевого козла»",
@@ -748,10 +802,10 @@
   },
   {
     "Id": 0,
-    "DescribeId": 80310,
-    "Name": "Фантом «Стального когтя»",
-    "Title": "Фантом «Стального когтя»",
-    "Icon": "UI_MonsterIcon_Penguin_01",
+    "DescribeId": 80226,
+    "Name": "Бывалая капибара",
+    "Title": "???",
+    "Icon": "UI_MonsterIcon_Capybara_02",
     "Type": 0,
     "Arkhe": 0
   },
@@ -1442,6 +1496,27 @@
     "Icon": "UI_MonsterIcon_Slime_Fire_02",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113028,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 35.168,
@@ -1479,6 +1554,27 @@
     "Icon": "UI_MonsterIcon_Slime_Fire_03",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113028,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 10.8672,
       "AttackBase": 7.536,
@@ -1516,6 +1612,27 @@
     "Icon": "UI_MonsterIcon_Slime_Rock_02",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113028,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 35.168,
@@ -1553,6 +1670,27 @@
     "Icon": "UI_MonsterIcon_Slime_Rock_03",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113028,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 35.168,
@@ -1590,6 +1728,12 @@
     "Icon": "UI_MonsterIcon_Slime_Moon_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112004,
+      112003,
+      112002
+    ],
     "BaseValue": {
       "HpBase": 418.3872,
       "AttackBase": 82.896,
@@ -1673,6 +1817,27 @@
       "免疫感电伤害和效果",
       "无相挑战标记"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113002,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 149.424,
       "AttackBase": 75.36,
@@ -1713,6 +1878,25 @@
     "Affixes": [
       "同系伤害抵抗-风-100%",
       "无相挑战标记"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113001,
+      104154,
+      104153,
+      104152,
+      104151,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
     ],
     "BaseValue": {
       "HpBase": 149.424,
@@ -1755,6 +1939,25 @@
       "同系伤害抵抗-岩-100%",
       "无相挑战标记"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113009,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 149.424,
       "AttackBase": 75.36,
@@ -1793,6 +1996,27 @@
     "Icon": "UI_MonsterIcon_Effigy_Water",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113028,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 122.256,
       "AttackBase": 113.04,
@@ -1831,6 +2055,27 @@
     "Icon": "UI_MonsterIcon_Effigy_Ice",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113020,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 75.36,
@@ -1869,6 +2114,27 @@
     "Icon": "UI_MonsterIcon_Effigy_Fire",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113024,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 75.36,
@@ -1908,6 +2174,25 @@
     "Arkhe": 0,
     "Affixes": [
       "无相挑战标记"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113040,
+      104134,
+      104133,
+      104132,
+      104131,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400047
     ],
     "BaseValue": {
       "HpBase": 122.256,
@@ -2485,6 +2770,27 @@
     "Icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113057,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 298.848,
       "AttackBase": 125.6,
@@ -2522,6 +2828,27 @@
     "Icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113057,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 283.9056,
       "AttackBase": 62.8,
@@ -2692,6 +3019,12 @@
     "Icon": "UI_MonsterIcon_Sylph_Ice_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112055,
+      112054,
+      112053
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 21.98,
@@ -2730,6 +3063,12 @@
     "Icon": "UI_MonsterIcon_Sylph_Electric_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112055,
+      112054,
+      112053
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 35.168,
@@ -2768,6 +3107,12 @@
     "Icon": "UI_MonsterIcon_Sylph_Fire_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112055,
+      112054,
+      112053
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 21.98,
@@ -2909,6 +3254,19 @@
     "Icon": "UI_MonsterIcon_Moonbeast_Electric",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112130,
+      112129,
+      112128,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 138.5568,
       "AttackBase": 75.36,
@@ -2917,44 +3275,6 @@
       "GrassSubHurt": 0.1,
       "WaterSubHurt": 0.1,
       "ElecSubHurt": 0.5,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
-    "Id": 20080201,
-    "DescribeId": 802,
-    "MonsterName": "Monster_Moonbeast_Grass_01",
-    "Name": "Переплетённая лоза: Потомок морозной ночи",
-    "Title": "Потомок морозной ночи",
-    "Description": "Элегантное элементальное существо, обладающее сильной связью с элементом. Долгие годы оно было подвержено воздействию высоких концентраций Дендро, что и привело к формированию его нынешнего облика.\nЭто существо удивительным образом связано с растительным миром рощ. Некоторые говорят, что одна из Голосов Лунного Гимна однажды заключила с ними договор, став другом и спутником всего живого на этой земле.\nВ дошедших до наших дней гимнах крайнего севера говорится, что они рождены благодаря благословениям Морозной Луны, символизируя чистый источник и изначальное сияние. Возможно, именно поэтому они считают невыносимым осквернение своей бледной чистоты семью цветами небесного света, отвергая всё живое, что приближается к ним.",
-    "Icon": "UI_MonsterIcon_Moonbeast_Grass",
-    "Type": 1,
-    "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 138.5568,
-      "AttackBase": 75.36,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.5,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
@@ -2985,6 +3305,19 @@
     "Icon": "UI_MonsterIcon_Moonbeast_Fire",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112130,
+      112129,
+      112128,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 176.592,
       "AttackBase": 75.36,
@@ -3023,6 +3356,19 @@
     "Icon": "UI_MonsterIcon_Moonbeast_Ice",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112130,
+      112129,
+      112128,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 176.592,
       "AttackBase": 75.36,
@@ -3061,6 +3407,19 @@
     "Icon": "UI_MonsterIcon_Moonbeast_Water",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112130,
+      112129,
+      112128,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 173.8752,
       "AttackBase": 75.36,
@@ -3090,82 +3449,6 @@
     ]
   },
   {
-    "Id": 20080601,
-    "DescribeId": 806,
-    "MonsterName": "Monster_Moonbeast_Wind_01",
-    "Name": "Ловец облаков: Потомок морозной ночи",
-    "Title": "Потомок морозной ночи",
-    "Description": "Элегантное элементальное существо, обладающее сильной связью с элементом. Долгие годы оно было подвержено воздействию высоких концентраций Анемо, что и привело к формированию его нынешнего облика.\nПорыв ветра сплёл для него дополнительную пару крыльев. Поскольку он почти не оставляет следов на земле, его также называют идущим по ветру.\nСогласно дошедшим до нас молитвам крайнего севера он рождён из благословений Морозной Луны, символизируя чистый источник и первое сияние. Возможно, именно поэтому он считает невыносимым осквернение своей бледной чистоты семью цветами небесного света, отвергая всё живое, что приближается слишком близко.",
-    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
-    "Type": 1,
-    "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 138.5568,
-      "AttackBase": 75.36,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.5,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
-    "Id": 20080701,
-    "DescribeId": 807,
-    "MonsterName": "Monster_Moonbeast_Rock_01",
-    "Name": "Золотой осколок солнца: Потомок морозной ночи",
-    "Title": "Потомок морозной ночи",
-    "Description": "Элегантное элементальное существо, обладающее сильной связью с элементом. Долгие годы оно было подвержено воздействию высоких концентраций Гео, что и привело к формированию его нынешнего облика.\nСлои затвердевшего Гео покрывают почти всё его тело, а его крепкие рога сияют блеском полированного янтаря.\nСогласно дошедшим до нас молитвам крайнего севера он рождён из благословений Морозной Луны, символизируя чистый источник и первое сияние. Возможно, именно поэтому он считает невыносимым осквернение своей бледной чистоты семью цветами небесного света, отвергая всё живое, что приближается слишком близко.",
-    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
-    "Type": 1,
-    "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 138.5568,
-      "AttackBase": 75.36,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.5,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
     "Id": 20081001,
     "DescribeId": 810,
     "MonsterName": "Monster_HerraFrost_01",
@@ -3175,6 +3458,31 @@
     "Icon": "UI_MonsterIcon_HerraFrost",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113079,
+      104164,
+      104163,
+      104162,
+      104161,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 298.848,
       "AttackBase": 100.48,
@@ -3387,9 +3695,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112013,
-      112012,
-      112011,
       112007,
       112006,
       112005
@@ -3437,9 +3742,6 @@
     ],
     "Drops": [
       202,
-      112013,
-      112012,
-      112011,
       112007,
       112006,
       112005
@@ -3578,9 +3880,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112013,
-      112012,
-      112011,
       112007,
       112006,
       112005
@@ -3625,9 +3924,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112013,
-      112012,
-      112011,
       112007,
       112006,
       112005
@@ -3802,6 +4098,12 @@
     "Icon": "UI_MonsterIcon_Hili_Wei",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112007,
+      112006,
+      112005
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 45.216,
@@ -3840,6 +4142,12 @@
     "Icon": "UI_MonsterIcon_Hili_Electric_Range",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112007,
+      112006,
+      112005
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -3878,6 +4186,22 @@
     "Icon": "UI_MonsterIcon_Brute_None_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 30.144,
@@ -3916,6 +4240,22 @@
     "Icon": "UI_MonsterIcon_Brute_None_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 30.144,
@@ -3954,6 +4294,22 @@
     "Icon": "UI_MonsterIcon_Brute_None_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 60.288,
@@ -4313,6 +4669,15 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112010,
+      112009,
+      112008,
+      112007,
+      112006,
+      112005
+    ],
     "BaseValue": {
       "HpBase": 1086.72,
       "AttackBase": 138.16,
@@ -4410,88 +4775,6 @@
       {
         "Type": 4,
         "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
-    "Id": 22020101,
-    "DescribeId": 20201,
-    "MonsterName": "Invoker_Herald_Water_01",
-    "Name": "Вестник Бездны: Злые течения",
-    "Title": "Тёмная аура Воронки",
-    "Description": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны. Их Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков. Беспечным глупцам не уйти от предначертанного судьбой наказания.",
-    "Icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
-    "Type": 1,
-    "Arkhe": 0,
-    "Affixes": [
-      "咏者使徒通用爬塔开盾前挣脱词缀"
-    ],
-    "BaseValue": {
-      "HpBase": 108.672,
-      "AttackBase": 75.36,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 1
-      },
-      {
-        "Type": 4,
-        "Value": 2
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
-    "Id": 22030201,
-    "DescribeId": 20302,
-    "MonsterName": "Invoker_Deacon_Fire_01",
-    "Name": "Чтец Бездны: Пламя бездны",
-    "Title": "Пожирающее пламя тьмы",
-    "Description": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное. «Чтец» также означает «учёный». Они считают, что чтение магических писаний делает их сильнее.",
-    "Icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
-    "Type": 1,
-    "Arkhe": 0,
-    "Affixes": [
-      "咏者使徒通用爬塔开盾前挣脱词缀"
-    ],
-    "BaseValue": {
-      "HpBase": 108.672,
-      "AttackBase": 56.52,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 1
-      },
-      {
-        "Type": 4,
-        "Value": 2
       },
       {
         "Type": 7,
@@ -5000,6 +5283,42 @@
     "Affixes": [
       "深渊法师（水冰雷）"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113045,
+      104144,
+      104143,
+      104142,
+      104141,
+      104164,
+      104163,
+      104162,
+      104161,
+      104114,
+      104113,
+      104112,
+      104111,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400023,
+      400033,
+      400043,
+      400138,
+      400148,
+      400128,
+      400133,
+      400088,
+      400098,
+      400022,
+      400032,
+      400042
+    ],
     "BaseValue": {
       "HpBase": 135.84,
       "AttackBase": 100.48,
@@ -5038,6 +5357,19 @@
     "Icon": "UI_MonsterIcon_Ovacua_Order_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112091,
+      112090,
+      112089,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 97.8048,
       "AttackBase": 87.92,
@@ -5076,6 +5408,19 @@
     "Icon": "UI_MonsterIcon_Ovacua_Order_02",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112091,
+      112090,
+      112089,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 32.6016,
       "AttackBase": 45.216,
@@ -5114,6 +5459,19 @@
     "Icon": "UI_MonsterIcon_Ovacua_Chaos_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112091,
+      112090,
+      112089,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 114.1056,
       "AttackBase": 62.8,
@@ -5151,6 +5509,19 @@
     "Icon": "UI_MonsterIcon_Ovacua_Chaos_02",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112091,
+      112090,
+      112089,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 32.656,
@@ -5192,6 +5563,35 @@
     "Affixes": [
       "所有怪物使用深渊次数盾必须挂载"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113067,
+      104114,
+      104113,
+      104112,
+      104111,
+      104144,
+      104143,
+      104142,
+      104141,
+      104154,
+      104153,
+      104152,
+      104151,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 75.36,
@@ -5232,6 +5632,19 @@
     "Arkhe": 0,
     "Affixes": [
       "常规次数盾怪物通用"
+    ],
+    "Drops": [
+      202,
+      112118,
+      112117,
+      112116,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 46.1856,
@@ -5387,6 +5800,19 @@
     "Icon": "UI_MonsterIcon_Lloigor_Sub",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112139,
+      112138,
+      112137,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 37.68,
@@ -5425,6 +5851,27 @@
     "Icon": "UI_MonsterIcon_Lloigor_Primo",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113084,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 366.768,
       "AttackBase": 75.36,
@@ -5463,6 +5910,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 25.12,
@@ -5501,6 +5954,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 75.36,
@@ -5541,6 +6000,12 @@
     "Affixes": [
       "地方传奇标记",
       "刷新大血条，发重置Group的SLC"
+    ],
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
     ],
     "BaseValue": {
       "HpBase": 502.608,
@@ -5583,6 +6048,12 @@
       "地方传奇标记",
       "刷新大血条，发重置Group的SLC"
     ],
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 448.272,
       "AttackBase": 125.6,
@@ -5624,6 +6095,12 @@
       "地方传奇标记",
       "刷新大血条，发重置Group的SLC"
     ],
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 407.52,
       "AttackBase": 150.72,
@@ -5662,6 +6139,22 @@
     "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112031,
+      112030,
+      112029,
+      112034,
+      112033,
+      112032,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 67.92,
       "AttackBase": 100.48,
@@ -5703,6 +6196,22 @@
       "精英化词缀-详见对应文档",
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112031,
+      112030,
+      112029,
+      112034,
+      112033,
+      112032,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 472.7232,
       "AttackBase": 125.6,
@@ -5743,6 +6252,9 @@
     "Arkhe": 0,
     "Affixes": [
       "召唤怪跟随创建者的生命周期"
+    ],
+    "Drops": [
+      202
     ],
     "BaseValue": {
       "HpBase": 67.92,
@@ -6020,6 +6532,12 @@
     "Affixes": [
       "铁皮集群-远程"
     ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
     "BaseValue": {
       "HpBase": 16.3008,
       "AttackBase": 22.608,
@@ -6049,6 +6567,286 @@
     ]
   },
   {
+    "Id": 23070200,
+    "DescribeId": 30702,
+    "MonsterName": "Soldier_Male_Standard_Gun_Rifle",
+    "Name": "Опричник: Солдат фронта",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_Soldier_Male_Standard_Gun_Rifle",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "TPS-通用词缀-影域特效1",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
+    "BaseValue": {
+      "HpBase": 5.486268,
+      "AttackBase": 45.058296,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 23070210,
+    "DescribeId": 30704,
+    "MonsterName": "Soldier_Male_Standard_Gun_Rifle",
+    "Name": "Застрельщик Фатуи: Гидро стрелок",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Water_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "TPS-通用词缀-影域特效1",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
+    "BaseValue": {
+      "HpBase": 21.945072,
+      "AttackBase": 67.58744,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 23070213,
+    "DescribeId": 30705,
+    "MonsterName": "Soldier_Male_Standard_Gun_Rifle",
+    "Name": "Застрельщик Фатуи: Пиро стрелок",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "TPS-通用词缀-影域特效1",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
+    "BaseValue": {
+      "HpBase": 18.287561,
+      "AttackBase": 56.32287,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 23070220,
+    "DescribeId": 30703,
+    "MonsterName": "Soldier_Male_Standard_Gun_Sniper",
+    "Name": "Опричник: Снайпер",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_Soldier_Male_Standard_Gun_Rifle",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "TPS-通用词缀-影域特效1",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
+    "BaseValue": {
+      "HpBase": 2.194507,
+      "AttackBase": 45.058296,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 23070245,
+    "DescribeId": 30706,
+    "MonsterName": "Human_Female_Cudgel_TPS_02",
+    "Name": "Опричник: Инженер",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "愚人众特辖队-无磁",
+      "铁皮集群-辅助",
+      "TPS-通用词缀-影域特效1",
+      "TPS-通用词缀-受击保护4.5",
+      "TPS-通用词缀-受击叠加限制0.2幅度",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
+    "BaseValue": {
+      "HpBase": 7.315024,
+      "AttackBase": 31.540808,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 23070250,
+    "DescribeId": 30709,
+    "MonsterName": "Monster_ExplosiveDrone_01",
+    "Name": "Ревущий гром: Самоуничтожающийся блуждающий механизм",
+    "Title": "Опричник",
+    "Icon": "UI_MonsterIcon_ExplosiveDrone_Electric",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "愚人众小车词缀-水",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "BaseValue": {
+      "HpBase": 4.57189,
+      "AttackBase": 67.58744,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 23072101,
     "DescribeId": 30721,
     "MonsterName": "Human_MuscleMan_Shield_01",
@@ -6060,6 +6858,12 @@
     "Arkhe": 0,
     "Affixes": [
       "铁皮集群-坦克4"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
     ],
     "BaseValue": {
       "HpBase": 19.0176,
@@ -6102,6 +6906,12 @@
     "Affixes": [
       "铁皮集群-远程"
     ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 20.096,
@@ -6142,6 +6952,12 @@
     "Arkhe": 0,
     "Affixes": [
       "铁皮集群-坦克4"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
     ],
     "BaseValue": {
       "HpBase": 16.3008,
@@ -6184,6 +7000,12 @@
     "Affixes": [
       "铁皮集群-辅助"
     ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -6224,6 +7046,12 @@
     "Arkhe": 0,
     "Affixes": [
       "铁皮集群-远程"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
     ],
     "BaseValue": {
       "HpBase": 13.584,
@@ -6268,6 +7096,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-坦克3"
     ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 50.24,
@@ -6311,6 +7145,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-坦克3"
     ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
+    ],
     "BaseValue": {
       "HpBase": 65.2032,
       "AttackBase": 55.264,
@@ -6353,6 +7193,12 @@
       "铁皮机器-N-红",
       "铁皮机器-磁单极",
       "铁皮集群-远程"
+    ],
+    "Drops": [
+      202,
+      112127,
+      112126,
+      112125
     ],
     "BaseValue": {
       "HpBase": 54.336,
@@ -6440,6 +7286,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-坦克3"
     ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
+    ],
     "BaseValue": {
       "HpBase": 32.6016,
       "AttackBase": 22.608,
@@ -6483,6 +7335,12 @@
       "铁皮机器-N-红",
       "铁皮机器-磁单极",
       "铁皮集群-坦克3"
+    ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
     ],
     "BaseValue": {
       "HpBase": 32.6016,
@@ -6528,6 +7386,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-远程"
     ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 27.632,
@@ -6571,6 +7435,12 @@
       "铁皮机器-N-红",
       "铁皮机器-磁单极",
       "铁皮集群-远程"
+    ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
     ],
     "BaseValue": {
       "HpBase": 27.168,
@@ -6616,6 +7486,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-远程飞行"
     ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 27.632,
@@ -6659,6 +7535,12 @@
       "铁皮机器-N-红",
       "铁皮机器-磁单极",
       "铁皮集群-坦克2"
+    ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
     ],
     "BaseValue": {
       "HpBase": 95.088,
@@ -6704,6 +7586,12 @@
       "铁皮机器-磁单极",
       "铁皮集群-坦克1"
     ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
+    ],
     "BaseValue": {
       "HpBase": 108.672,
       "AttackBase": 62.8,
@@ -6745,6 +7633,12 @@
       "铁皮机器-磁动力",
       "铁皮机器-N-红",
       "铁皮机器-磁单极"
+    ],
+    "Drops": [
+      202,
+      112124,
+      112123,
+      112122
     ],
     "BaseValue": {
       "HpBase": 81.504,
@@ -6860,6 +7754,25 @@
     "Icon": "UI_MonsterIcon_Nithhoggr_None",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113035,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 75.36,
@@ -7050,6 +7963,31 @@
     "Icon": "UI_MonsterIcon_Apparatus_Perpetual",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113023,
+      104164,
+      104163,
+      104162,
+      104161,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 90.432,
@@ -7088,6 +8026,19 @@
     "Icon": "UI_MonsterIcon_Gargoyle",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112070,
+      112069,
+      112068,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 50.24,
@@ -7126,6 +8077,31 @@
     "Icon": "UI_MonsterIcon_Gargoyle_Fafnir",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113038,
+      104164,
+      104163,
+      104162,
+      104161,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 230.928,
       "AttackBase": 75.36,
@@ -7166,6 +8142,19 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112070,
+      112069,
+      112068,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 652.032,
       "AttackBase": 175.84,
@@ -7204,6 +8193,19 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112073,
+      112072,
+      112071,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 46.1856,
       "AttackBase": 45.216,
@@ -7242,6 +8244,19 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112073,
+      112072,
+      112071,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 46.1856,
       "AttackBase": 45.216,
@@ -7280,6 +8295,19 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112073,
+      112072,
+      112071,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 46.1856,
       "AttackBase": 45.216,
@@ -7318,6 +8346,31 @@
     "Icon": "UI_MonsterIcon_Monolith_Starchild",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113039,
+      104114,
+      104113,
+      104112,
+      104111,
+      104154,
+      104153,
+      104152,
+      104151,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 82.896,
@@ -7359,6 +8412,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 27.168,
@@ -7402,6 +8461,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 516.192,
       "AttackBase": 150.72,
@@ -7443,6 +8508,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -7486,6 +8557,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 24.4512,
       "AttackBase": 20.096,
@@ -7527,6 +8604,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 19.48134,
@@ -7570,6 +8653,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 32.4689,
       "AttackBase": 50,
@@ -7611,6 +8700,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 64.9378,
@@ -7654,6 +8749,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 32.6016,
       "AttackBase": 17.584,
@@ -7695,6 +8796,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 65.2032,
@@ -7738,6 +8845,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 75.36,
@@ -7779,6 +8892,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 70.6368,
@@ -7822,6 +8941,12 @@
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
     ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
+    ],
     "BaseValue": {
       "HpBase": 19.0176,
       "AttackBase": 25.12,
@@ -7863,6 +8988,12 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      202,
+      112085,
+      112084,
+      112083
     ],
     "BaseValue": {
       "HpBase": 95.088,
@@ -7906,6 +9037,34 @@
       "正义机器-天线词缀",
       "正义机器-双人舞战斗2"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113049,
+      113050,
+      104154,
+      104153,
+      104152,
+      104151,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400148,
+      400022,
+      400032,
+      400042,
+      400052,
+      400147
+    ],
     "BaseValue": {
       "HpBase": 203.76,
       "AttackBase": 62.8,
@@ -7947,6 +9106,25 @@
     "Affixes": [
       "正义机器-荒性词缀",
       "正义机器-天线词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113052,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 213.2688,
@@ -8037,6 +9215,27 @@
     "Icon": "UI_MonsterIcon_DragonClaw",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113066,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 353.184,
       "AttackBase": 100.48,
@@ -8149,6 +9348,27 @@
     "Icon": "UI_MonsterIcon_DragonCollar",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113076,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400133,
+      400022,
+      400042,
+      400132,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 293.4144,
       "AttackBase": 100.48,
@@ -8187,6 +9407,19 @@
     "Icon": "UI_MonsterIcon_Monitor_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112145,
+      112144,
+      112143,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 114.1056,
       "AttackBase": 75.36,
@@ -8227,6 +9460,19 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112145,
+      112144,
+      112143,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 1222.56,
       "AttackBase": 138.16,
@@ -8265,6 +9511,27 @@
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113077,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 366.768,
       "AttackBase": 75.36,
@@ -8303,6 +9570,19 @@
     "Icon": "UI_MonsterIcon_Watcher_Normal_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112142,
+      112141,
+      112140,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 75.36,
@@ -8341,6 +9621,25 @@
     "Icon": "UI_MonsterIcon_Watcher_Primo_01",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113086,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 326.016,
       "AttackBase": 100.48,
@@ -8837,6 +10136,12 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112004,
+      112003,
+      112002
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -8874,6 +10179,12 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112004,
+      112003,
+      112002
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -8911,6 +10222,12 @@
     "Icon": "UI_MonsterIcon_Monolith_Ordinator",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -9068,6 +10385,12 @@
     "Icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 32.6016,
       "AttackBase": 25.12,
@@ -9410,6 +10733,12 @@
     "Icon": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 25.12,
@@ -9492,6 +10821,12 @@
     "Icon": "UI_MonsterIcon_Thoarder_Male_Shovel_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 25.12,
@@ -9618,6 +10953,12 @@
     "Icon": "UI_MonsterIcon_Thoarder_Female_Hatchet_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 32.6016,
       "AttackBase": 25.12,
@@ -9973,6 +11314,12 @@
     "Affixes": [
       "影响黑貉队是否会对2.4打捞活动的烟花有反应"
     ],
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 108.672,
       "AttackBase": 30.144,
@@ -10182,6 +11529,29 @@
     "Affixes": [
       "傀儡将军挑战风分身默认剑气词缀"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113022,
+      104154,
+      104153,
+      104152,
+      104151,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 62.8,
@@ -10219,6 +11589,29 @@
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Ice",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113022,
+      104154,
+      104153,
+      104152,
+      104151,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 62.8,
@@ -10256,6 +11649,29 @@
     "Icon": "UI_MonsterIcon_Samurai_Ningyo_Mask",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113022,
+      104154,
+      104153,
+      104152,
+      104151,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 62.8,
@@ -10584,6 +12000,1025 @@
       "DefenseBase": 500,
       "FireSubHurt": 0.1,
       "GrassSubHurt": -0.5,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25130101,
+    "DescribeId": 51301,
+    "MonsterName": "Human_Girl_Vila_Glaive_01",
+    "Name": "Крылатый рыцарь с алебардой",
+    "Title": "Вила танцующих крыльев",
+    "Description": "Вила - крылатый альв, способный летать.\nСогласно записям, в течение ста лет после восшествия Царицы на престол народ вил пережил немало смутных времён. Говорят, некоторые альвы, недовольные политикой Царицы в отношении знати, даже подняли небольшой мятеж.\nВосстание быстро подавили, однако тот факт, что его возглавили потомки древней знати вил, на некоторое время привёл к глубокому расколу внутри этого народа.",
+    "Icon": "UI_MonsterIcon_Human_Girl_Vila_Glaive",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112148,
+      112147,
+      112146
+    ],
+    "BaseValue": {
+      "HpBase": 20.376,
+      "AttackBase": 27.632,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.2,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25130201,
+    "DescribeId": 51302,
+    "MonsterName": "Human_Boy_Vila_Blade_01",
+    "Name": "Крылатый парящий рыцарь",
+    "Title": "Вила танцующих крыльев",
+    "Description": "Вила - крылатый альв, способный летать.\nГоворят, народ вил последовал за Белым царём ещё тогда, когда тот только начал объединять земли вечной мерзлоты. Их способность ненадолго подниматься в воздух делает их необычайно манёвренными. Разведка вражеских позиций и стремительные рейды на большие расстояния - всё это им по плечу.\nБольшинство бойцов Дружины, личной гвардии, созданной Белым царём, составляли именно вилы.",
+    "Icon": "UI_MonsterIcon_Human_Girl_Vila_Blade",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112148,
+      112147,
+      112146
+    ],
+    "BaseValue": {
+      "HpBase": 19.0176,
+      "AttackBase": 22.608,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.2,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25131001,
+    "DescribeId": 51310,
+    "MonsterName": "Vukodlak_Strong_NoWeapon_01",
+    "Name": "Волкодлак-метатель",
+    "Title": "Волкодлак-головорез",
+    "Description": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они способны метать предметы с огромной силой и поразительной точностью. Волкодлаки не слишком искусны в конструировании из вечного льда и управлении стихиями, однако по владению собственным телом они по праву входят в число сильнейших среди многочисленных народов альвов.",
+    "Icon": "UI_MonsterIcon_Vukodlak_Strong_NoWeapon",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "用于对元素技能进行区分",
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 20.376,
+      "AttackBase": 25.12,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25131201,
+    "DescribeId": 51312,
+    "MonsterName": "Vukodlak_Strong_Sword_01",
+    "Name": "Волкодлак-громила",
+    "Title": "Волкодлак-головорез",
+    "Description": "Среди многочисленных волкодлаков Снежной это одна из самых крупных и могучих разновидностей.\nОбладая звериной силой и человекоподобным телом, они инстинктивно умеют использовать свою физическую мощь. Если неподготовленный человек с оружием вступит в бой с таким волкодлаком, победитель не вызовет никаких сомнений.",
+    "Icon": "UI_MonsterIcon_Vukodlak_Strong_Sword",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "用于对攻击Type和特效配置进行区分",
+      "用于对元素技能进行区分",
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 20.376,
+      "AttackBase": 25.12,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25131401,
+    "DescribeId": 51314,
+    "MonsterName": "Vukodlak_Thin_Sword_01_01B",
+    "Name": "Волкодлак-налётчик",
+    "Title": "Волкодлак-головорез",
+    "Description": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и превосходной ловкостью.\nИменно благодаря своей проворности и чувствам, значительно превосходящим человеческие, они способны инстинктивно уклоняться от множества атак, что делает их крайне опасными противниками в ближнем бою.",
+    "Icon": "UI_MonsterIcon_Vukodlak_Thin_Sword",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "用于对攻击Type和特效配置进行区分",
+      "用于对元素技能进行区分",
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 17.6592,
+      "AttackBase": 20.096,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25131601,
+    "DescribeId": 51316,
+    "MonsterName": "Vukodlak_Thin_Pistol_01",
+    "Name": "Волкодлак-снайпер",
+    "Title": "Волкодлак-головорез",
+    "Description": "Среди многочисленных волкодлаков Снежной эта разновидность отличается небольшими размерами и высокой ловкостью.\nИх чувства острее человеческих: будь то ощущение силы ветра или зрение в особых условиях. Благодаря этому они стреляют из луков, арбалетов и огнестрельного оружия на больших дистанциях значительно точнее обычного человека.",
+    "Icon": "UI_MonsterIcon_Vukodlak_Thin_Pistol",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "用于对攻击Type和特效配置进行区分",
+      "用于对元素技能进行区分",
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 16.3008,
+      "AttackBase": 22.608,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25132601,
+    "DescribeId": 51326,
+    "MonsterName": "Volkodlak_Sheepdog_01",
+    "Name": "Левмастиф-страж",
+    "Title": "Волкодлак-головорез",
+    "Description": "Волкодлак из псового клана, обычно производящий впечатление ленивого.\nСреди множества кланов волкодлаков именно псовый клан пользуется наилучшей репутацией. Они преданны, дружелюбны и, как правило, обладают спокойным нравом. Но стоит тому, кому они поклялись служить, или близкому другу оказаться в опасности - и они с яростью обрушиваются на врага.\nГоворят, в древней войне их клан до последнего защищал своего владыку от царя, и именно этим заслужил его уважение.",
+    "Icon": "UI_MonsterIcon_Volkodlak_Sheepdog",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 35.3184,
+      "AttackBase": 22.608,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25132701,
+    "DescribeId": 51327,
+    "MonsterName": "Volkodlak_Arctichare_01",
+    "Name": "Длинноухий штурмовик",
+    "Title": "Волкодлак-головорез",
+    "Description": "Волкодлак, обычно скрывающий своё стройное тело под плащом и предпочитающий действовать незаметно.\nГоворят, когда-то мастера Золотого города, владевшие силой творения, создавали тела альвов для самых разных целей, а этот вид волкодлаков был создан, чтобы испытать пределы способности к размножению.\nОднако после катастрофы, превратившей Золотое царство в руины, длинноухий народ сумел сохраниться благодаря своей многочисленности.\nТеперь они сами распоряжаются собственной судьбой. А их ловкость, позволяющая легко передвигаться даже по глубокому снегу, делает их опасными противниками для путников, пересекающих снежные равнины.",
+    "Icon": "UI_MonsterIcon_Volkodlak_Arctichare",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 25.8096,
+      "AttackBase": 27.632,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25132801,
+    "DescribeId": 51328,
+    "MonsterName": "Volkodlak_Beaver_01",
+    "Name": "Связной канала",
+    "Title": "Волкодлак-головорез",
+    "Description": "Хитрый волкодлак, маскирующий ручную пушку под древесный ствол.\nБлагодаря мастерству маскировки оружия и грузов ему часто поручают перевозку товаров и передачу важных сведений.\nСвою ручную пушку он, вероятно, тоже изготовил сам в свободное время. Иногда из неё даже запускают сигнальные ракеты, замаскированные под фейерверки.\nНе позволяйте внешности ввести себя в заблуждение - перед вами чрезвычайно расчётливый и хитрый альв.",
+    "Icon": "UI_MonsterIcon_Volkodlak_Beaver",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 28.5264,
+      "AttackBase": 25.12,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25133601,
+    "DescribeId": 51336,
+    "MonsterName": "Volkodlak_Mammoth_01",
+    "Name": "Безумец с бивнями",
+    "Title": "Зачарованный зверь непревзойдённой силы",
+    "Description": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nСреди всех волкодлаков именно те, что обликом напоминают гигантских слонов или мамонтов, принадлежат к самым благородным кровным линиям. В прошлом их кланы дали миру множество выдающихся полководцев, а многие даже входили в личную свиту Царя Зверей.\nОднако чем сильнее отдельный альв и чем дольше он живёт, тем труднее ему образовать многочисленное сообщество. Поэтому в современной Снежной такие волкодлаки встречаются гораздо реже остальных.",
+    "Icon": "UI_MonsterIcon_Volkodlak_Mammoth",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 54.336,
+      "AttackBase": 45.216,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.3,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25133701,
+    "DescribeId": 51337,
+    "MonsterName": "Volkodlak_Greyhound_01",
+    "Name": "Ловчий воющих волков",
+    "Title": "Зачарованный зверь непревзойдённой силы",
+    "Description": "Волкодлак, ставший необычайно могучим благодаря силе, унаследованной от древних предков.\nКогда-то его клан был настолько могущественным, что мог выставить собственное войско под началом Царя Зверей. Но после того как Белый царь, владыка Двора Бледной звезды, объединил все земли вечной мерзлоты, клан, почти не понёсший потерь в войне, оказался под подозрением, постепенно пришёл в упадок и ко времени восшествия Ледяной Царицы окончательно покинул центр власти Снежной. Сегодня большинство волкодлаков волчьего рода обитают среди снежных равнин и горных лесов.",
+    "Icon": "UI_MonsterIcon_Volkodlak_Greyhound",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "Drops": [
+      202,
+      112154,
+      112153,
+      112152,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 48.9024,
+      "AttackBase": 56.52,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.3,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25133801,
+    "DescribeId": 51338,
+    "MonsterName": "Volkodlak_Greyhound_Furiosa",
+    "Name": "Бывалый волкодлак-химера лучник",
+    "Title": "Бывалый волкодлак-химера лучник",
+    "Icon": "UI_MonsterIcon_Volkodlak_Greyhound_Furiosa",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "地方传奇标记"
+    ],
+    "Drops": [
+      202,
+      112148,
+      112147,
+      112146,
+      112154,
+      112153,
+      112152
+    ],
+    "BaseValue": {
+      "HpBase": 1494.24,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": -0.2,
+      "GrassSubHurt": 0.4,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.4,
+      "RockSubHurt": 0.4,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25135001,
+    "DescribeId": 51350,
+    "MonsterName": "Human_Female_Staff_Snegurochka_01",
+    "Name": "Колдун льдов",
+    "Title": "Созданный льдами снеговик",
+    "Description": "Снеговик, рождённый среди льдов и снегов ради любви.\nЖенщин-снеговиков называют снегурочками, и большинство из них с рождения способны свободно управлять силой льда и снега. Легенда гласит, что души снеговиков при сотворении остаются неполными и, лишь полюбив человека, они обретают совершенство.\nНо нужна ли любовь тому, кто уже стал совершенным? Возможно, нет.\nНаверное, именно поэтому так много историй любви между снеговиками и людьми заканчиваются трагедией.",
+    "Icon": "UI_MonsterIcon_Human_Female_Staff_Snegurochka",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现"
+    ],
+    "Drops": [
+      202,
+      112148,
+      112147,
+      112146
+    ],
+    "BaseValue": {
+      "HpBase": 16.3008,
+      "AttackBase": 32.656,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.3,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25135101,
+    "DescribeId": 51351,
+    "MonsterName": "Snegurochka_Male_01",
+    "Name": "Стражник льдов",
+    "Title": "Созданный льдами снеговик",
+    "Description": "Снеговик, рождённый среди льдов и снегов ради любви.\nМужчины-снеговики - прирождённые рыцари. Большинство из них с рождения способны свободно конструировать собственное оружие изо льда и снега.\nЛегенда гласит, что в битве, где Белый царь сражался с Чёрным потоком разложения, один из снеговиков, служивший его стражем, пробудил силу, не свойственную своему народу, и превратился в настоящего исполина.\nЧем закончилась его история, неизвестно. Но нарушение запрета, надо полагать, не могло привести ни к чему хорошему.",
+    "Icon": "UI_MonsterIcon_Snegurochka_Male",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现"
+    ],
+    "Drops": [
+      202,
+      112148,
+      112147,
+      112146
+    ],
+    "BaseValue": {
+      "HpBase": 81.504,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.3,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25137001,
+    "DescribeId": 51370,
+    "MonsterName": "Leshy_Mature_01",
+    "Name": "Суровый леший-старейшина",
+    "Title": "Порождённый загадочными пустошами леший",
+    "Description": "Леший, выросший среди лесов и полей.\nЭти лешие обладают лишь зачатками разума и не способны говорить. На первый взгляд они кажутся результатом ранних экспериментов мастеров Золотого царства. Однако всё было совсем наоборот: согласно записям, этот народ был создан лишь после того, как мастера почти полностью овладели властью над жизнью.\nВозможно, в этом скрыт смысл, который нынешним альвам и людям ещё не дано постичь.",
+    "Icon": "UI_MonsterIcon_Leshy_Mature_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现"
+    ],
+    "Drops": [
+      202,
+      112152,
+      112151,
+      112150,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 108.672,
+      "AttackBase": 62.8,
+      "DefenseBase": 500,
+      "FireSubHurt": -0.2,
+      "GrassSubHurt": 0.3,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.3,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25138001,
+    "DescribeId": 51380,
+    "MonsterName": "Leshy_Normal_01",
+    "Name": "Часть молодого дерева",
+    "Title": "Порождённый загадочными пустошами леший",
+    "Description": "Леший, обитающий среди лесов и полей.\nСреди многочисленных альвов Снежной лешие - один из самых необычных народов, почти никогда не появляющийся в городах. Возможно, именно лешие живут дольше всех среди альвов, и очень немногие представители других долгоживущих народов становились свидетелями всей жизни лешего. Впрочем, большинству людей, вероятно, не под силу даже отличить одного лешего от другого.",
+    "Icon": "UI_MonsterIcon_Leshy_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现"
+    ],
+    "Drops": [
+      202,
+      112152,
+      112151,
+      112150,
+      112148,
+      112147,
+      112146,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 27.168,
+      "AttackBase": 25.12,
+      "DefenseBase": 500,
+      "FireSubHurt": -0.2,
+      "GrassSubHurt": 0.2,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.2,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25139001,
+    "DescribeId": 51390,
+    "MonsterName": "Monster_Karzelek_Tsereteli_01",
+    "Name": "Бывалый домовой-ваятель",
+    "Title": "Бывалый домовой-ваятель",
+    "Icon": "UI_MonsterIcon_Karzelek_Tsereteli_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "地方传奇标记"
+    ],
+    "BaseValue": {
+      "HpBase": 1412.736,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.3,
+      "IceSubHurt": 0.3,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25140101,
+    "DescribeId": 51401,
+    "MonsterName": "Monster_Zharptitsa_02",
+    "Name": "Бессмертный конструкт",
+    "Title": "Бессмертный конструкт",
+    "Description": "Побочный продукт, созданный алхимиком по имени Кощей в ходе работы над существом, известным как жар-птица.\nУ этого мрачного алхимика была привычка: стоило одному экспериментальному образцу оказаться успешным, как все остальные немедленно оказывались выброшенными или уничтожались.\nИ это производное создание, которому суждено было слиться с некой силой и обрести завершённую форму, теперь обречено бесконечно скитаться по горным ущельям как ущербный и лишённый разума зверь.",
+    "Icon": "UI_MonsterIcon_Zharptitsa_02",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113090,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
+    "BaseValue": {
+      "HpBase": 421.104,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.5,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25140201,
+    "DescribeId": 51402,
+    "MonsterName": "Monster_Zharptitsa_01",
+    "Name": "Иллюзия вечного пламени",
+    "Title": "Остатки проблеска в тени",
+    "Icon": "UI_MonsterIcon_Zharptitsa_02",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "BaseValue": {
+      "HpBase": 304.79266,
+      "AttackBase": 135.17488,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.5,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 25141101,
+    "DescribeId": 51411,
+    "MonsterName": "Monster_Svarod_01",
+    "Name": "",
+    "Title": "Дух предзнаменования: Дендро дух змеи",
+    "Icon": "UI_MonsterIcon_Samurai_Kairagi_05",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "BaseValue": {
+      "HpBase": 329.1761,
+      "AttackBase": 135.17488,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
       "WaterSubHurt": 0.1,
       "ElecSubHurt": 0.1,
       "WindSubHurt": 0.1,
@@ -11012,6 +13447,12 @@
     "Icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112067,
+      112066,
+      112065
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 62.8,
@@ -11050,6 +13491,12 @@
     "Icon": "UI_MonsterIcon_Eremite_Female_Standard_Oracle",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112067,
+      112066,
+      112065
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 62.8,
@@ -11088,6 +13535,12 @@
     "Icon": "UI_MonsterIcon_Eremite_Female_Standard_Dancer",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112067,
+      112066,
+      112065
+    ],
     "BaseValue": {
       "HpBase": 67.92,
       "AttackBase": 50.24,
@@ -11178,6 +13631,12 @@
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放",
       "部落特殊技时长不同，针对体型替换配置"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 16.3008,
@@ -11321,6 +13780,12 @@
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放",
       "部落特殊技时长不同，针对体型替换配置"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 21.7344,
@@ -11563,6 +14028,12 @@
       "影响部落特殊技的施放",
       "角力相关配置"
     ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 22.608,
@@ -11755,6 +14226,12 @@
       "影响部落特殊技的施放",
       "部落特殊技时长不同，针对体型替换配置"
     ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 25.12,
@@ -11798,6 +14275,12 @@
       "战前喷漆手中的Item颜色",
       "影响部落特殊技的施放",
       "角力相关配置"
+    ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
     ],
     "BaseValue": {
       "HpBase": 27.168,
@@ -11940,6 +14423,12 @@
       "控制投枪手中特效与Bullet",
       "战前喷漆手中的Item颜色"
     ],
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 21.7344,
       "AttackBase": 25.12,
@@ -11978,44 +14467,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
     "Type": 1,
     "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 59.7696,
-      "AttackBase": 50.24,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": -0.2
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
-    "Id": 25510201,
-    "DescribeId": 55102,
-    "MonsterName": "Tribalwarrior_Male_Strong_Chainsword_Drillhead_01",
-    "Name": "Тепетлизавр-воин: Камнедробитель",
-    "Title": "Тепетлизавр-воин: Камнедробитель",
-    "Description": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада. Легенда гласит, что Серные жилы когда-то были цельным и красивым горным хребтом, но когда пришли чёрные волны, коронованные заврианами воины Детей Эха рассекли землю, чтобы направить прилив. Так горный хребет принял свой нынешний вид.",
-    "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
-    "Type": 1,
-    "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 50.24,
@@ -12054,6 +14511,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12092,6 +14555,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12130,6 +14599,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12168,6 +14643,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Mosasaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12206,6 +14687,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 50.24,
@@ -12244,6 +14731,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Flamingo",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 50.24,
@@ -12282,6 +14775,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12320,6 +14819,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 45.216,
@@ -12358,6 +14863,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Bisonsaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 50.24,
@@ -12396,6 +14907,12 @@
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Bisonsaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112106,
+      112105,
+      112104
+    ],
     "BaseValue": {
       "HpBase": 59.7696,
       "AttackBase": 50.24,
@@ -12434,6 +14951,27 @@
     "Icon": "UI_MonsterIcon_TribalWarrior_Udugan",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113071,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 230.928,
       "AttackBase": 100.48,
@@ -12791,6 +15329,12 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112037,
+      112036,
+      112035
+    ],
     "BaseValue": {
       "HpBase": 1412.736,
       "AttackBase": 140.672,
@@ -12961,6 +15505,27 @@
     "Icon": "UI_MonsterIcon_Regisvine_Ice",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113010,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400043,
+      400148,
+      400022,
+      400042,
+      400147,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 62.8,
@@ -12999,6 +15564,27 @@
     "Icon": "UI_MonsterIcon_Regisvine_Fire",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113011,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 62.8,
@@ -13037,6 +15623,27 @@
     "Icon": "UI_MonsterIcon_Regisvine_Electric",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113037,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 62.8,
@@ -13075,6 +15682,19 @@
     "Icon": "UI_MonsterIcon_Wyrm_Rock",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112043,
+      112042,
+      112041,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 54.2592,
@@ -13195,6 +15815,46 @@
     "Arkhe": 0,
     "Affixes": [
       "古岩龙蜥-水"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113016,
+      104174,
+      104173,
+      104172,
+      104171,
+      104144,
+      104143,
+      104142,
+      104141,
+      104164,
+      104163,
+      104162,
+      104161,
+      104114,
+      104113,
+      104112,
+      104111,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400023,
+      400033,
+      400043,
+      400138,
+      400148,
+      400128,
+      400133,
+      400088,
+      400098,
+      400022,
+      400032,
+      400042
     ],
     "BaseValue": {
       "HpBase": 407.52,
@@ -13388,6 +16048,9 @@
     "Icon": "UI_MonsterIcon_Cicin_Thunder_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202
+    ],
     "BaseValue": {
       "HpBase": 6.792,
       "AttackBase": 10.048,
@@ -13541,9 +16204,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13588,9 +16248,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13635,9 +16292,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13682,9 +16336,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13729,9 +16380,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13776,9 +16424,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13823,9 +16468,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13870,9 +16512,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13917,9 +16556,6 @@
     "Arkhe": 0,
     "Drops": [
       202,
-      112064,
-      112063,
-      112062,
       112061,
       112060,
       112059
@@ -13962,6 +16598,12 @@
     "Icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112061,
+      112060,
+      112059
+    ],
     "BaseValue": {
       "HpBase": 13.584,
       "AttackBase": 22.608,
@@ -14229,6 +16871,25 @@
     "Icon": "UI_MonsterIcon_Fungus_Raptor",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113036,
+      104134,
+      104133,
+      104132,
+      104131,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 190.176,
       "AttackBase": 87.92,
@@ -14495,6 +17156,25 @@
     "Icon": "UI_MonsterIcon_Sandworm",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113044,
+      104154,
+      104153,
+      104152,
+      104151,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 190.176,
       "AttackBase": 75.36,
@@ -14533,6 +17213,31 @@
     "Icon": "UI_MonsterIcon_Golem_Centaur",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113059,
+      104114,
+      104113,
+      104112,
+      104111,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 125.6,
@@ -14571,6 +17276,19 @@
     "Icon": "UI_MonsterIcon_Golem_Legion",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112100,
+      112099,
+      112098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 62.8,
@@ -15573,6 +18291,27 @@
     "Icon": "UI_MonsterIcon_HermitCrab_Primo",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113051,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 163.008,
       "AttackBase": 113.04,
@@ -15611,6 +18350,27 @@
     "Icon": "UI_MonsterIcon_SeaHorse_Primo_Electric",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113053,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400138,
+      400032,
+      400042,
+      400137,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 149.424,
       "AttackBase": 100.48,
@@ -15649,6 +18409,29 @@
     "Icon": "UI_MonsterIcon_Hermit",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113058,
+      104154,
+      104153,
+      104152,
+      104151,
+      104124,
+      104123,
+      104122,
+      104121,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 225.4944,
       "AttackBase": 100.48,
@@ -15994,44 +18777,6 @@
     ]
   },
   {
-    "Id": 26220301,
-    "DescribeId": 62203,
-    "MonsterName": "Monster_Natsaurus_Hookwalker_Primo_01",
-    "Name": "Прожорливый Горный король-юмказавр",
-    "Title": "Прожорливый Горный король-юмказавр",
-    "Description": "Могущественный юмказавр, переживший разрушительное воздействие времени, множество сражений и доживший до наших дней.\nГорный король, который когда-то сражался вместе с великими героями против чёрного прилива, занимает особое место в сердцах Потомков Крон. Некоторые из племени считают, что его нынешняя форма связана с уникальным телосложением, как у Кукузавра-тирана. Однако на самом деле это потому, что он прожил долгую жизнь и слишком много съел.",
-    "Icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
-    "Type": 2,
-    "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 366.768,
-      "AttackBase": 105.504,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.7,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
     "Id": 26230101,
     "DescribeId": 62301,
     "MonsterName": "Monster_Natsaurus_Flamingo_Small_01",
@@ -16349,6 +19094,19 @@
     "Icon": "UI_MonsterIcon_Wayob_Hookwalker",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 57.776,
@@ -16388,6 +19146,19 @@
     "Arkhe": 0,
     "Affixes": [
       "地方传奇标记"
+    ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 298.848,
@@ -16429,6 +19200,19 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 489.024,
       "AttackBase": 113.04,
@@ -16468,6 +19252,19 @@
     "Arkhe": 0,
     "Affixes": [
       "地方传奇标记"
+    ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 1494.24,
@@ -16509,6 +19306,19 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 1184.5248,
       "AttackBase": 113.04,
@@ -16547,6 +19357,19 @@
     "Icon": "UI_MonsterIcon_Wayob_Shamansaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 57.776,
@@ -16585,6 +19408,19 @@
     "Icon": "UI_MonsterIcon_Wayob_Flamingo",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 57.776,
@@ -16625,6 +19461,19 @@
     "Affixes": [
       "地方传奇标记"
     ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 2064.768,
       "AttackBase": 113.04,
@@ -16663,6 +19512,19 @@
     "Icon": "UI_MonsterIcon_Wayob_Bisonsaurus",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 57.776,
@@ -16702,6 +19564,19 @@
     "Arkhe": 0,
     "Affixes": [
       "地方传奇标记"
+    ],
+    "Drops": [
+      202,
+      112109,
+      112108,
+      112107,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 1385.568,
@@ -16845,6 +19720,27 @@
     "Affixes": [
       "石头人爬塔标记"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113072,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 273.95828,
       "AttackBase": 100.48,
@@ -16924,6 +19820,19 @@
     "Icon": "UI_MonsterIcon_VolcanoWeasel",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112121,
+      112120,
+      112119,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 149.424,
       "AttackBase": 82.896,
@@ -16957,7 +19866,7 @@
     "DescribeId": 63001,
     "MonsterName": "Monster_Magbeast_Argali_01",
     "Name": "Лучезарная антилопа",
-    "Title": "Лучезарный зверь",
+    "Title": "Сигурд",
     "Description": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nКогда-то на землю, благословлённую лунным светом, обрушивались странные грозы, и обычные антилопы обрели способность управлять молниями. Говорят, пред одним очевидцем предстало поистине странное зрелище: антилопы стояли на скалах в преддверии грозы, притягивая молнии, чтобы закалить свои тела.",
     "Icon": "UI_MonsterIcon_Magbeast_Argali",
     "Type": 1,
@@ -17008,7 +19917,7 @@
     "DescribeId": 63002,
     "MonsterName": "Monster_Magbeast_Rhino_01",
     "Name": "Лучезарный мечерог",
-    "Title": "Лучезарный зверь",
+    "Title": "Сигурд",
     "Description": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nГоворят, что в древности, когда эти приграничные земли были окутаны кромешной тьмой, только гигантский носорог с помощью своего стада мог управлять силой, возвращающей всё в здешние места... И это была единственная награда, которую они попросили после того, как лунный свет одарил своими благословениями.",
     "Icon": "UI_MonsterIcon_Magbeast_Rhino",
     "Type": 1,
@@ -17059,7 +19968,7 @@
     "DescribeId": 63003,
     "MonsterName": "Monster_Magbeast_Squid_01",
     "Name": "Лучезарный лунапод",
-    "Title": "Лучезарный зверь",
+    "Title": "Сигурд",
     "Description": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nЛегенда гласит, что когда волны бедствия обрушились на сушу, даже обитатели моря не получили пощады. Те, кто не мог принять в себя лунный свет, исчезали, словно пена, будь то огромные морские змеи, способные взмывать ввысь, или одноглазые чудовища, некогда желавшие поглотить всё живое.",
     "Icon": "UI_MonsterIcon_Magbeast_Squid",
     "Type": 1,
@@ -17110,7 +20019,7 @@
     "DescribeId": 63004,
     "MonsterName": "Monster_Magbeast_Steppenwolf_01",
     "Name": "Лучезарный ледниковый волк",
-    "Title": "Лучезарный зверь",
+    "Title": "Сигурд",
     "Description": "Зверь, претерпевший уникальную эволюцию благодаря многовековому погружению в силу древней луны.\nЛегенда гласит, что когда тёмное бедствие унесло бесчисленное количество жизней, приграничные леса погрузились в полную тишину. Единственным звуком, нарушавшим мёртвую тишину, был вой ледниковых волков, взывающих к Луне. Много ночей их скорбные протяжные песни, разносимые холодным лунным светом, эхом отдавались в безлюдной пустыне.",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf",
     "Type": 1,
@@ -17193,6 +20102,29 @@
     "Icon": "UI_MonsterIcon_Magbeast_Pergesa",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113078,
+      104134,
+      104133,
+      104132,
+      104131,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 217.344,
       "AttackBase": 100.48,
@@ -17234,6 +20166,25 @@
     "Affixes": [
       "多层护盾G教学关联词缀"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 285.264,
       "AttackBase": 87.92,
@@ -17245,6 +20196,322 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.7,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310101,
+    "DescribeId": 63101,
+    "MonsterName": "Monster_Chimera_BeetleLion",
+    "Name": "Бронешлемовый зверь",
+    "Title": "Собранный из останков зверь",
+    "Description": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЧто, если четвероногий зверь получит панцирь и таранный рог, как у оникабуто? Возможно, тогда он станет грозным оружием, способным прорвать строй вражеского войска.\nКазалось бы, подобные химеры, созданные ради одной-единственной цели, редко способны выжить в природе: лишившись своего предназначения, большинство из них погибает, не выдержав противоречия законам природы. Однако бронешлемовый зверь - редкое исключение.\nСегодня на землях вечной мерзлоты Снежной нередко можно встретить стаи бронешлемовых зверей, охотящихся сообща.",
+    "Icon": "UI_MonsterIcon_Chimera_BeetleLion",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 27.168,
+      "AttackBase": 30.144,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.2,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310201,
+    "DescribeId": 63102,
+    "MonsterName": "Monster_Chimera_OwlPangolin",
+    "Name": "Химера-землерой",
+    "Title": "Собранный из останков зверь",
+    "Description": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nЕсли чудовище, свободно передвигающееся под землёй и снегом, обретёт зрение, позволяющее видеть даже во тьме, станет ли оно ещё более грозным хищником?\nРезультат эксперимента превзошёл все ожидания. Эти землеройные звери по ночам бродят под поверхностью земли, устраивая во тьме ловушки и подстерегая добычу из засады.\nПо сообщению «Вестника», рабочие из Светлолёдовки якобы видели гигантского землеройного зверя ростом почти с двух человек... Впрочем, это всего лишь слухи.",
+    "Icon": "UI_MonsterIcon_Chimera_OwlPangolin",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 27.168,
+      "AttackBase": 30.144,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.2,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310301,
+    "DescribeId": 63103,
+    "MonsterName": "Monster_Chimera_ElephantBird",
+    "Name": "Крылатая химера-слон",
+    "Title": "Собранный из останков зверь",
+    "Description": "Продукт биоалхимии, некогда распространённый на землях вечной мерзлоты. Мутировавшая химера.\nКоротконогий слон с крыльями мог бы свободно преодолевать любые преграды местности, а заодно доставать плоды с самых высоких деревьев.\nИменно ради этой цели и была создана эта химера. Позднее, во время войны против Полчищ чёрных зверей, крылатые слоны вместе с вилами занимались разведкой, обеспечивая бесперебойную передачу приказов во время наступления Белого царя.",
+    "Icon": "UI_MonsterIcon_Chimera_ElephantBird",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 27.168,
+      "AttackBase": 30.144,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.2,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310401,
+    "DescribeId": 63104,
+    "MonsterName": "Monster_Chimera_BearDeer_01",
+    "Name": "Рогатая химера-медведь",
+    "Title": "Рукотворный дух дремучих лесов",
+    "Description": "Продукт биоалхимии. Химера весьма необычной формы.\nОна возникла не по замыслу создателя, а самостоятельно сформировалась из фрагментов живой материи, благодаря чему обрела даже способность свободно управлять силой стихий.\nНеужели даже жизнь, раздробленная почти до отдельных фрагментов, продолжает следовать некой воле и великой силе, заставляющей её расти по загадочному замыслу?\nВозможно, сегодня ответа на этот вопрос уже не знает никто.",
+    "Icon": "UI_MonsterIcon_Chimera_BearDeer",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "妖精教学触发标记"
+    ],
+    "BaseValue": {
+      "HpBase": 108.672,
+      "AttackBase": 60.288,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.3,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310501,
+    "DescribeId": 63105,
+    "MonsterName": "Monster_Chimera_Manticore_01",
+    "Name": "Крылатая химера-лев",
+    "Title": "Исполнитель-солист",
+    "Description": "Продукт биоалхимии, одна из отбракованных химер.\nРади осуществления великой мечты один алхимик с помощью некой не поддающейся воспроизведению технологии создал множество первичных образцов, известных как «Прототипы».\nЛишь одному из них удалось вырасти в совершенное создание, задуманное изначально. Остальные образцы, почти достигшие совершенства, но всё же потерпевшие неудачу, были без особых раздумий превращены в различных двуглавых химер.\nИх считают неудачными творениями, однако сила этих необычных двуглавых химер по-прежнему огромна. Среди всех химер им практически нет равных.",
+    "Icon": "UI_MonsterIcon_Chimera_Manticore",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "奇美拉挑战-大世界词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113091,
+      104154,
+      104153,
+      104152,
+      104151,
+      104144,
+      104143,
+      104142,
+      104141,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
+    "BaseValue": {
+      "HpBase": 296.1312,
+      "AttackBase": 95.456,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.5,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310601,
+    "DescribeId": 63106,
+    "MonsterName": "Monster_Chimera_OwlPangolin",
+    "Name": "Бывалая химера-землерой",
+    "Title": "Бывалая химера-землерой",
+    "Icon": "UI_MonsterIcon_Chimera_OwlPangolin_02",
+    "Type": 1,
+    "Arkhe": 0,
+    "Affixes": [
+      "地方传奇标记",
+      "通用的特效表现"
+    ],
+    "BaseValue": {
+      "HpBase": 1032.384,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.3,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26310901,
+    "DescribeId": 63109,
+    "MonsterName": "Monster_Chimera_Manticore_01_Tps",
+    "Name": "Вечно блуждающий мираж",
+    "Title": "Негаснущее мерцание в тени",
+    "Icon": "UI_MonsterIcon_Chimera_Manticore_02",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "通用的特效表现",
+      "奇美拉挑战-7.0WQ词缀",
+      "TPS-怪通用逻辑标记GV_Entity_In_TheGrey"
+    ],
+    "BaseValue": {
+      "HpBase": 329.1761,
+      "AttackBase": 135.17488,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.5,
+      "WindSubHurt": 0.5,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -17406,43 +20673,6 @@
     ]
   },
   {
-    "Id": 29020301,
-    "DescribeId": 90203,
-    "MonsterName": "Monster_Wolf_LupiBoreas_Underling_01",
-    "Name": "???",
-    "Title": "Ураган, поглотивший Мондштадт",
-    "Icon": "UI_MonsterIcon_LupiBoreas",
-    "Type": 2,
-    "Arkhe": 0,
-    "BaseValue": {
-      "HpBase": 163.008,
-      "AttackBase": 50.24,
-      "DefenseBase": 500,
-      "FireSubHurt": 0.1,
-      "GrassSubHurt": 0.1,
-      "WaterSubHurt": 0.1,
-      "ElecSubHurt": 0.1,
-      "WindSubHurt": 0.1,
-      "IceSubHurt": 0.1,
-      "RockSubHurt": 0.1,
-      "PhysicalSubHurt": 0.1
-    },
-    "GrowCurves": [
-      {
-        "Type": 1,
-        "Value": 23
-      },
-      {
-        "Type": 4,
-        "Value": 24
-      },
-      {
-        "Type": 7,
-        "Value": 12
-      }
-    ]
-  },
-  {
     "Id": 29030103,
     "DescribeId": 90301,
     "MonsterName": "Monster_Tartaglia_Harbinger",
@@ -17454,6 +20684,42 @@
     "Affixes": [
       "剧情任务-难度调节标签",
       "公子魔王武装-难度调节"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113013,
+      113014,
+      113015,
+      104124,
+      104123,
+      104122,
+      104121,
+      104144,
+      104143,
+      104142,
+      104141,
+      104164,
+      104163,
+      104162,
+      104161,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101101,
+      101102,
+      101103,
+      101104,
+      101105
     ],
     "BaseValue": {
       "HpBase": 135.84,
@@ -17575,6 +20841,38 @@
       "剧情任务-难度调节标签",
       "女士魔女-难度调节"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113025,
+      113026,
+      113027,
+      104164,
+      104163,
+      104162,
+      104161,
+      104114,
+      104113,
+      104112,
+      104111,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101101,
+      101102,
+      101103,
+      101104,
+      101105
+    ],
     "BaseValue": {
       "HpBase": 190.176,
       "AttackBase": 60.288,
@@ -17653,6 +20951,36 @@
     "Icon": "UI_MonsterIcon_Nada",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      104143,
+      104142,
+      104141,
+      104153,
+      104152,
+      104151,
+      104123,
+      104122,
+      104121,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101111,
+      101112,
+      101113,
+      101114,
+      101115
+    ],
     "BaseValue": {
       "HpBase": 244.512,
       "AttackBase": 75.36,
@@ -17692,6 +21020,34 @@
     "Arkhe": 0,
     "Affixes": [
       "草龙剧情-本体难度调节"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113046,
+      113047,
+      113048,
+      104134,
+      104133,
+      104132,
+      104131,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101111,
+      101112,
+      101113,
+      101114,
+      101115
     ],
     "BaseValue": {
       "HpBase": 108.672,
@@ -17735,10 +21091,6 @@
       102,
       202,
       105,
-      113054,
-      113055,
-      113056,
-      104124,
       104123,
       104122,
       104121,
@@ -17792,13 +21144,40 @@
     "DescribeId": 91001,
     "MonsterName": "Monster_Nihil_Harbinger_01",
     "Name": "Слуга",
-    "Title": "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+    "Title": "Слуга",
     "Icon": "UI_MonsterIcon_Nihil",
     "Type": 2,
     "Arkhe": 0,
     "Affixes": [
       "4.6仆人个人线剧情关卡词缀",
       "仆人周本难度调整词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113060,
+      113061,
+      113062,
+      104113,
+      104112,
+      104111,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101111,
+      101112,
+      101113,
+      101114,
+      101115
     ],
     "BaseValue": {
       "HpBase": 366.768,
@@ -17833,12 +21212,40 @@
     "DescribeId": 91101,
     "MonsterName": "Monster_TheAbyssXiuhcoatl_01",
     "Name": "Владыка истлевшего первобытного пламени",
-    "Title": "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+    "Title": "Владыка истлевшего первобытного пламени",
     "Icon": "UI_MonsterIcon_TheAbyssXiuhcoatl",
     "Type": 2,
     "Arkhe": 0,
     "Affixes": [
       "深渊火龙王-循环"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113068,
+      113069,
+      113070,
+      104114,
+      104113,
+      104112,
+      104111,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101116,
+      101117,
+      101118,
+      101119,
+      101120
     ],
     "BaseValue": {
       "HpBase": 1290.48,
@@ -17952,6 +21359,42 @@
     "Icon": "UI_MonsterIcon_GiantChess",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113073,
+      113074,
+      113075,
+      104114,
+      104113,
+      104112,
+      104111,
+      104124,
+      104123,
+      104122,
+      104121,
+      104144,
+      104143,
+      104142,
+      104141,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101101,
+      101102,
+      101103,
+      101104,
+      101105
+    ],
     "BaseValue": {
       "HpBase": 679.2,
       "AttackBase": 125.6,
@@ -17990,6 +21433,36 @@
     "Icon": "UI_MonsterIcon_Dotorre_Moon",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      104163,
+      104162,
+      104161,
+      104123,
+      104122,
+      104121,
+      104143,
+      104142,
+      104141,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101116,
+      101117,
+      101118,
+      101119,
+      101120
+    ],
     "BaseValue": {
       "HpBase": 1204.256,
       "AttackBase": 75.988,
@@ -18027,6 +21500,36 @@
     "Icon": "UI_MonsterIcon_DrData",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      104163,
+      104162,
+      104161,
+      104113,
+      104112,
+      104111,
+      104143,
+      104142,
+      104141,
+      113021,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      101111,
+      101112,
+      101113,
+      101114,
+      101115
+    ],
     "BaseValue": {
       "HpBase": 869.376,
       "AttackBase": 150.72,
@@ -18056,6 +21559,117 @@
     ]
   },
   {
+    "Id": 84008022,
+    "DescribeId": 802,
+    "MonsterName": "Monster_Moonbeast_Grass_01",
+    "Name": "Переплетённая лоза: Потомок морозной ночи",
+    "Title": "Потомок морозной ночи",
+    "Icon": "UI_MonsterIcon_Moonbeast_Grass",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 84008062,
+    "DescribeId": 806,
+    "MonsterName": "Monster_Moonbeast_Wind_01",
+    "Name": "Ловец облаков: Потомок морозной ночи",
+    "Title": "Потомок морозной ночи",
+    "Icon": "UI_MonsterIcon_Moonbeast_Wind",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 84008072,
+    "DescribeId": 807,
+    "MonsterName": "Monster_Moonbeast_Rock_01",
+    "Name": "Золотой осколок солнца: Потомок морозной ночи",
+    "Title": "Потомок морозной ночи",
+    "Icon": "UI_MonsterIcon_Moonbeast_Rock",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 138.5568,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 84102011,
     "DescribeId": 10201,
     "MonsterName": "Brute_None_Shield_01",
@@ -18064,6 +21678,22 @@
     "Icon": "UI_MonsterIcon_Brute_None_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 30.144,
@@ -18103,6 +21733,22 @@
     "Arkhe": 0,
     "Affixes": [
       "免疫点燃伤害"
+    ],
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 40.752,
@@ -18178,6 +21824,22 @@
     "Icon": "UI_MonsterIcon_Brute_Rock_None",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112016,
+      112015,
+      112014,
+      112007,
+      112006,
+      112005,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 122.256,
       "AttackBase": 113.04,
@@ -18255,6 +21917,19 @@
     "Affixes": [
       "免疫点燃伤害"
     ],
+    "Drops": [
+      202,
+      112022,
+      112021,
+      112020,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 56.52,
@@ -18295,6 +21970,19 @@
     "Affixes": [
       "免疫冰冻和寒元素的减速效果"
     ],
+    "Drops": [
+      202,
+      112022,
+      112021,
+      112020,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 37.68,
@@ -18332,6 +22020,19 @@
     "Icon": "UI_MonsterIcon_Abyss_Water_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112022,
+      112021,
+      112020,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 37.68,
@@ -18369,9 +22070,59 @@
     "Icon": "UI_MonsterIcon_Abyss_Electric_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112022,
+      112021,
+      112020,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 27.168,
       "AttackBase": 47.1,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 1
+      },
+      {
+        "Type": 4,
+        "Value": 2
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 84202012,
+    "DescribeId": 20201,
+    "MonsterName": "Invoker_Herald_Water_01",
+    "Name": "Вестник Бездны: Злые течения",
+    "Title": "Тёмная аура Воронки",
+    "Icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 108.672,
+      "AttackBase": 75.36,
       "DefenseBase": 500,
       "FireSubHurt": 0,
       "GrassSubHurt": 0,
@@ -18472,6 +22223,43 @@
     ]
   },
   {
+    "Id": 84203022,
+    "DescribeId": 20302,
+    "MonsterName": "Invoker_Deacon_Fire_01",
+    "Name": "Чтец Бездны: Пламя бездны",
+    "Title": "Пожирающее пламя тьмы",
+    "Icon": "UI_MonsterIcon_Invoker_Deacon_Fire",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 108.672,
+      "AttackBase": 56.52,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 1
+      },
+      {
+        "Type": 4,
+        "Value": 2
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 84301011,
     "DescribeId": 30101,
     "MonsterName": "Skirmisher_Male_Fat_SprayGun_Ice_01",
@@ -18480,6 +22268,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 37.68,
@@ -18517,6 +22311,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 54.336,
       "AttackBase": 75.36,
@@ -18554,6 +22354,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 37.68,
@@ -18591,6 +22397,12 @@
     "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112034,
+      112033,
+      112032
+    ],
     "BaseValue": {
       "HpBase": 40.752,
       "AttackBase": 56.52,
@@ -18628,6 +22440,19 @@
     "Icon": "UI_MonsterIcon_Defender_Noner_01",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112025,
+      112024,
+      112023,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 95.088,
       "AttackBase": 60.288,
@@ -18665,6 +22490,19 @@
     "Icon": "UI_MonsterIcon_Konungmathr",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112025,
+      112024,
+      112023,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 122.256,
       "AttackBase": 87.92,
@@ -18702,6 +22540,19 @@
     "Icon": "UI_MonsterIcon_Gargoyle",
     "Type": 1,
     "Arkhe": 0,
+    "Drops": [
+      202,
+      112070,
+      112069,
+      112068,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ],
     "BaseValue": {
       "HpBase": 67.92,
       "AttackBase": 62.8,
@@ -18742,6 +22593,29 @@
     "Affixes": [
       "傀儡将军强制后撤词缀"
     ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113022,
+      104154,
+      104153,
+      104152,
+      104151,
+      104164,
+      104163,
+      104162,
+      104161,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400022,
+      400032,
+      400052
+    ],
     "BaseValue": {
       "HpBase": 271.68,
       "AttackBase": 100.48,
@@ -18771,6 +22645,43 @@
     ]
   },
   {
+    "Id": 84551022,
+    "DescribeId": 55102,
+    "MonsterName": "Tribalwarrior_Male_Strong_Chainsword_Drillhead_Custom_01",
+    "Name": "Тепетлизавр-воин: Камнедробитель",
+    "Title": "Тепетлизавр-воин: Камнедробитель",
+    "Icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 59.7696,
+      "AttackBase": 50.24,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 84604011,
     "DescribeId": 60401,
     "MonsterName": "Drake_Rock_01_Water",
@@ -18781,6 +22692,19 @@
     "Arkhe": 0,
     "Affixes": [
       "岩龙蜥-水"
+    ],
+    "Drops": [
+      202,
+      112043,
+      112042,
+      112041,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
     ],
     "BaseValue": {
       "HpBase": 108.672,
@@ -18811,6 +22735,43 @@
     ]
   },
   {
+    "Id": 84622032,
+    "DescribeId": 62203,
+    "MonsterName": "Monster_Natsaurus_Hookwalker_Primo_02",
+    "Name": "Прожорливый Горный король-юмказавр",
+    "Title": "Прожорливый Горный король-юмказавр",
+    "Icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 366.768,
+      "AttackBase": 105.504,
+      "DefenseBase": 500,
+      "FireSubHurt": 0,
+      "GrassSubHurt": 0,
+      "WaterSubHurt": 0,
+      "ElecSubHurt": 0,
+      "WindSubHurt": 0,
+      "IceSubHurt": 0,
+      "RockSubHurt": 0,
+      "PhysicalSubHurt": 0
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
     "Id": 84623031,
     "DescribeId": 62303,
     "MonsterName": "Monster_Natsaurus_Flamingo_Primo_01",
@@ -18819,6 +22780,27 @@
     "Icon": "UI_MonsterIcon_Natsaurus_Flamingo_Primo",
     "Type": 2,
     "Arkhe": 0,
+    "Drops": [
+      102,
+      202,
+      105,
+      113064,
+      104114,
+      104113,
+      104112,
+      104111,
+      400089,
+      400099,
+      400088,
+      400098,
+      400023,
+      400033,
+      400128,
+      400022,
+      400032,
+      400127,
+      400047
+    ],
     "BaseValue": {
       "HpBase": 168.4416,
       "AttackBase": 125.6,

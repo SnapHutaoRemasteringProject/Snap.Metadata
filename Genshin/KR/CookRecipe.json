@@ -1027,6 +1027,44 @@
     ]
   },
   {
+    "Id": 1701,
+    "Name": "옛뜰 훈제 소시지",
+    "Description": "얇게 썬 소시지. 양념한 고기로 속을 채운 소시지를 훈제한 뒤 얇게 썰어 낸다. 옛뜰 식당의 대표 요리로, 누구나 부담 없이 즐길 수 있다",
+    "EffectDescription": [
+      "선택한 캐릭터 HP 최대치의 <color=#3399CCFF>8%-10%</color>를 회복하고 추가로 HP를 <color=#3399CCFF>800-1200</color>pt 회복한다"
+    ],
+    "CookMethod": 1,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108886",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 5,
+    "RankLevel": 1,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108988
+      },
+      {
+        "Count": 1,
+        "Id": 108989
+      },
+      {
+        "Count": 1,
+        "Id": 108990
+      }
+    ],
+    "Input": [
+      {
+        "Count": 1,
+        "Id": 110011
+      },
+      {
+        "Count": 1,
+        "Id": 100077
+      }
+    ]
+  },
+  {
     "Id": 2001,
     "Name": "불꽃 미트 스파게티",
     "Description": "다진 고기가 듬뿍 들어간 스파게티. 토마토 소스와 어우러져 먹음직스럽게 보인다. 새콤달콤해 식욕을 돋운다",
@@ -4107,6 +4145,134 @@
       {
         "Count": 1,
         "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2701,
+    "Name": "대패 생선회",
+    "Description": "길쭉한 생선회. 꽁꽁 얼린 생선의 표면을 대패질하듯 날카로운 칼로 비스듬히 얇게 깎아 길게 말아 낸다. 주로 굵은 소금에 찍어 먹으며, 스네즈나야에서 널리 즐기는 차가운 생선 요리다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>66-95</color>pt 증가한다. 지속 시간: 300초",
+      "다인 모드 시 자신의 캐릭터에만 적용된다"
+    ],
+    "CookMethod": 3,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108887",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108991
+      },
+      {
+        "Count": 1,
+        "Id": 108992
+      },
+      {
+        "Count": 1,
+        "Id": 108993
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100084
+      },
+      {
+        "Count": 2,
+        "Id": 100075
+      }
+    ]
+  },
+  {
+    "Id": 2702,
+    "Name": "글루포프 호밀빵",
+    "Description": "속이 꽉 찬 빵. 반죽을 저온에서 오랫동안 발효한 뒤 굽는다. 겉은 단단하지만 속은 촘촘하고 부드럽다. 보관성이 뛰어나 스네즈나야의 행상인, 병사, 사냥꾼들의 주요 식량이다",
+    "EffectDescription": [
+      "선택한 캐릭터 HP 최대치의 <color=#3399CCFF>18%-22%</color>를 회복한다",
+      "이후 30초 동안 5초마다 HP를 <color=#3399CCFF>300-470</color>pt 회복한다"
+    ],
+    "CookMethod": 3,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108891",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132004
+      },
+      {
+        "Count": 1,
+        "Id": 132005
+      },
+      {
+        "Count": 1,
+        "Id": 132006
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 110016
+      },
+      {
+        "Count": 1,
+        "Id": 100075
+      },
+      {
+        "Count": 1,
+        "Id": 110006
+      }
+    ]
+  },
+  {
+    "Id": 2703,
+    "Name": "보르시",
+    "Description": "새빨간 수프. 우려낸 밑국물에 여러 재료를 차례로 넣어 어우러질 때까지 약한 불에서 푹 끓인다. 완성된 수프에는 보통 사워크림을 한 숟가락 얹어 낸다. 먹으면 몸이 오랫동안 따뜻해져 야외의 혹한도 견딜 수 있다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 혹한 게이지 누적 속도가 <color=#3399CCFF>감소</color>한다. 지속 시간: 900초"
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108889",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 10,
+    "RankLevel": 2,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108997
+      },
+      {
+        "Count": 1,
+        "Id": 108998
+      },
+      {
+        "Count": 1,
+        "Id": 108999
+      }
+    ],
+    "Input": [
+      {
+        "Count": 2,
+        "Id": 101278
+      },
+      {
+        "Count": 1,
+        "Id": 100080
+      },
+      {
+        "Count": 1,
+        "Id": 100061
+      },
+      {
+        "Count": 1,
+        "Id": 110015
       }
     ]
   },
@@ -10063,6 +10229,282 @@
     ]
   },
   {
+    "Id": 3701,
+    "Name": "자르코예",
+    "Description": "항아리에 담은 고기 요리. 썬 식자재를 항아리에 담고, 입구를 반죽으로 밀봉한 뒤 오븐에서 푹 익힌다. 완성되면 뚜껑처럼 구워진 페이스트리를 걷어 내고 사워크림을 더한다. 만드는 과정은 어렵지 않지만, 재료를 알맞게 익히려면 어느 정도 경험이 필요하다",
+    "EffectDescription": [],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108885",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108985
+      },
+      {
+        "Count": 1,
+        "Id": 108986
+      },
+      {
+        "Count": 1,
+        "Id": 108987
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 2,
+        "Id": 100080
+      },
+      {
+        "Count": 2,
+        "Id": 100013
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3702,
+    "Name": "설국 냉수프",
+    "Description": "차갑게 먹는 수프. 익힌 식자재를 그릇에 골고루 담고, 사워크림으로 맛을 낸 국물을 부어 완성한다. 일부 스네즈나야 사람들은 가장 추운 날에 냉수프 한 그릇을 단숨에 들이켜며, 자신이 혹한을 견딜 수 있는 용사임을 증명한다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 방어력이 <color=#3399CCFF>165-235</color>pt 증가한다. 지속 시간: 300초"
+    ],
+    "CookMethod": 2,
+    "FoodType": 4,
+    "Icon": "UI_ItemIcon_108888",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 108994
+      },
+      {
+        "Count": 1,
+        "Id": 108995
+      },
+      {
+        "Count": 1,
+        "Id": 108996
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100062
+      },
+      {
+        "Count": 1,
+        "Id": 110005
+      },
+      {
+        "Count": 1,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3703,
+    "Name": "베리 아이스크림",
+    "Description": "컵에 담긴 디저트. 크림과 우유, 꿀에 으깬 베리를 섞어 얼린 뒤, 부드럽고 매끄러운 아이스크림 볼로 빚어 담아낸다. 과일의 향긋함과 우유의 고소한 풍미가 어우러져 날씨와 상관없이 즐기는 사람이 많다",
+    "EffectDescription": [
+      "선택한 캐릭터를 부활시킨다",
+      "HP를 <color=#3399CCFF>900-1500</color>pt 회복한다"
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108890",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132001
+      },
+      {
+        "Count": 1,
+        "Id": 132002
+      },
+      {
+        "Count": 1,
+        "Id": 132003
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 100078
+      },
+      {
+        "Count": 3,
+        "Id": 110002
+      },
+      {
+        "Count": 2,
+        "Id": 110017
+      }
+    ]
+  },
+  {
+    "Id": 3704,
+    "Name": "메도빅",
+    "Description": "꿀로 만든 케이크. 꿀을 넣은 반죽을 얇게 밀어 구운 뒤, 사워크림으로 만든 크림을 바르며 겹겹이 쌓는다. 마지막으로 부스러기를 뿌리고 꿀 시럽을 얹는다. 반듯한 모양으로 완성하려면 어느 과정도 소홀히 해선 안 된다",
+    "EffectDescription": [
+      "선택한 캐릭터 HP 최대치의 <color=#3399CCFF>26%-30%</color>를 회복한다",
+      "이후 30초 동안 5초마다 HP를 <color=#3399CCFF>450-790</color>pt 회복한다"
+    ],
+    "CookMethod": 2,
+    "FoodType": 1,
+    "Icon": "UI_ItemIcon_108892",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132007
+      },
+      {
+        "Count": 1,
+        "Id": 132008
+      },
+      {
+        "Count": 1,
+        "Id": 132009
+      }
+    ],
+    "Input": [
+      {
+        "Count": 4,
+        "Id": 110017
+      },
+      {
+        "Count": 4,
+        "Id": 110001
+      },
+      {
+        "Count": 3,
+        "Id": 100062
+      },
+      {
+        "Count": 2,
+        "Id": 110015
+      }
+    ]
+  },
+  {
+    "Id": 3705,
+    "Name": "스네즈나야 꼬치구이",
+    "Description": "큼지막한 꼬치구이. 양념한 고기를 쇠꼬챙이에 꿰어 숯불 위에서 겉은 바삭하고 속은 촉촉해질 때까지 뒤집어 가며 굽는다. 정원 모임이나 사냥 도중은 물론, 눈밭을 치워 만든 작은 공터에서도 볼 수 있을 만큼 스네즈나야에서는 흔한 요리다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 등반/대시 시 소모하는 스태미나가 <color=#3399CCFF>15%-25%</color> 감소한다. 지속 시간: 900초"
+    ],
+    "CookMethod": 2,
+    "FoodType": 3,
+    "Icon": "UI_ItemIcon_108893",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132010
+      },
+      {
+        "Count": 1,
+        "Id": 132011
+      },
+      {
+        "Count": 1,
+        "Id": 132012
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 100061
+      },
+      {
+        "Count": 3,
+        "Id": 100064
+      },
+      {
+        "Count": 1,
+        "Id": 101281
+      },
+      {
+        "Count": 1,
+        "Id": 101278
+      }
+    ]
+  },
+  {
+    "Id": 3706,
+    "Name": "설원 위 눈덩이꽃",
+    "Description": "클래식 샐러드. 손질한 재료를 층층이 쌓고, 각 층 사이에 양념한 사워크림 소스를 바른다. 완성한 뒤에는 잠시 그대로 두어 재료의 맛이 충분히 어우러지게 한다. 설원 위에 피어난 눈덩이꽃을 닮아 이런 이름이 붙었다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>160-228</color>pt 증가한다. 지속 시간: 300초"
+    ],
+    "CookMethod": 2,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108894",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 15,
+    "RankLevel": 3,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132013
+      },
+      {
+        "Count": 1,
+        "Id": 132014
+      },
+      {
+        "Count": 1,
+        "Id": 132015
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101280
+      },
+      {
+        "Count": 2,
+        "Id": 100084
+      },
+      {
+        "Count": 1,
+        "Id": 110009
+      },
+      {
+        "Count": 1,
+        "Id": 100062
+      }
+    ]
+  },
+  {
     "Id": 3901,
     "Name": "바삭바삭 크루아상",
     "Description": "빵과 커피가 포함된 세트 요리. 반죽을 돌돌 말아 달걀물을 칠하고 오븐 안에 넣으면, 부풀어 오른 작고 따뜻한 빵이 나온다. 달걀물을 칠하는 것은 제빵사의 사인과 같다고 하는데——이번에 남긴 사인도 매우 반듯하다",
@@ -11880,6 +12322,52 @@
       {
         "Count": 2,
         "Id": 100016
+      }
+    ]
+  },
+  {
+    "Id": 4906,
+    "Name": "아이스크림 볼 세트",
+    "Description": "아이스크림 볼 세트. 네 가지 맛의 아이스크림을 각각 종이 그릇에 담아 한 상자에 모았다. 원하는 맛부터 골라 먹을 수도 있고, 순서대로 한 그릇씩 비울 수도 있다… 하지만 어떤 방식으로 먹든 결국 상자는 깨끗이 비게 된다",
+    "EffectDescription": [
+      "파티 내 모든 캐릭터의 공격력이 <color=#3399CCFF>224-320</color>pt, 치명타 확률이 <color=#3399CCFF>6%-10%</color> 증가한다. 지속 시간: 300초"
+    ],
+    "CookMethod": 1,
+    "FoodType": 2,
+    "Icon": "UI_ItemIcon_108897",
+    "IsDefaultUnlocked": false,
+    "MaxProficiency": 20,
+    "RankLevel": 4,
+    "QualityOutput": [
+      {
+        "Count": 1,
+        "Id": 132018
+      },
+      {
+        "Count": 1,
+        "Id": 132019
+      },
+      {
+        "Count": 1,
+        "Id": 132020
+      }
+    ],
+    "Input": [
+      {
+        "Count": 3,
+        "Id": 101265
+      },
+      {
+        "Count": 3,
+        "Id": 101264
+      },
+      {
+        "Count": 3,
+        "Id": 101281
+      },
+      {
+        "Count": 3,
+        "Id": 101278
       }
     ]
   },
